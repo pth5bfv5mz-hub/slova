@@ -43,7 +43,7 @@ body{color:var(--ink);font-family:var(--f-body);font-size:16px;line-height:1.45;
 .wrap{max-width:640px;margin:0 auto;display:flex;flex-direction:column;gap:18px}
 header{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
 .logo{font-family:var(--f-display);font-weight:700;font-size:20px;letter-spacing:-.01em}
-.logo span{background:linear-gradient(transparent 55%,var(--mark) 55%);padding:0 2px}
+.logo span{text-decoration:underline;text-decoration-color:var(--mark);text-decoration-thickness:2px;text-underline-offset:6px;padding:0 2px}
 .sync{font-size:12px;color:var(--muted)}
 nav{display:grid;grid-template-columns:repeat(3,1fr);gap:4px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:4px}
 nav button{font:600 14px var(--f-body);border:0;background:transparent;color:var(--muted);padding:10px 6px;border-radius:9px;cursor:pointer}
@@ -84,7 +84,7 @@ button:focus-visible,input:focus-visible{outline:3px solid var(--mark);outline-o
 .fb strong{color:var(--ink)}
 .fb.mid{background:var(--mid-bg);color:var(--ink)}
 .prompt.sent{font-family:var(--f-body);font-weight:500;font-size:clamp(21px,5.6vw,27px);line-height:1.35}
-.prompt mark,.ref mark{background:linear-gradient(transparent 52%,var(--mark) 52%);color:inherit;padding:0 2px}
+.prompt mark,.ref mark{background:none;color:inherit;font-weight:600;text-decoration:underline;text-decoration-color:var(--mark);text-decoration-thickness:2px;text-underline-offset:7px;text-decoration-skip-ink:none;padding:0}
 textarea.inp{min-height:100px;resize:vertical;font-size:18px;line-height:1.4;font-family:var(--f-body)}
 .ref{background:var(--paper);border-radius:12px;padding:12px 14px;font-size:16px;display:flex;flex-direction:column;gap:4px}
 .ref .k{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-weight:600;margin-top:6px}
