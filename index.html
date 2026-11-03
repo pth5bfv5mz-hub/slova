@@ -355,15 +355,14 @@ function answerType(val){
   if(!val.trim()){ score(false,it); showFb(false,w,it.dir); return; }
   Q.busy = true;
   const cls = res.typo ? 'mid' : res.ok ? 'ok' : 'no';
-  const head = res.typo ? `Похоже, верно, но есть опечатка: правильно <strong>${esc(res.typo)}</strong>.` : res.ok ? 'Похоже, верно.' : 'Похоже, неверно.';
+  document.getElementById('idk').hidden = true; view.querySelector('#f .row').hidden = true;
   const fb = document.getElementById('fb');
-  fb.innerHTML = `<div class="group"><div class="fb ${cls}">${head}</div>
-    <div class="ref"><span class="k">Твой ответ</span><span>${esc(val.trim())}</span><span class="k">По словарю</span><span>${esc(w.en)}${w.tr?` [${esc(w.tr)}]`:''} — <strong>${esc(w.ru)}</strong></span></div>
+  fb.innerHTML = `<div class="group"><div class="fb ${cls}" style="font-size:18px">${esc(w.en)}${w.tr?` [${esc(w.tr)}]`:''} — <strong>${esc(w.ru)}</strong></div>
     ${verdictBtns()}</div>`;
   bindVerdict(ok => score(ok,it));
   fb.scrollIntoView({block:'nearest'});
 }
-function verdictBtns(){ return `<div class="hint">Как засчитать этот ответ? Решение за тобой, проверка выше только подсказка.</div><div class="selfgrade"><button class="big" id="sg-ok" style="background:var(--good)">Верно</button><button class="big" id="sg-no" style="background:var(--bad)">Неверно</button></div>`; }
+function verdictBtns(){ return `<div class="selfgrade"><button class="big" id="sg-ok" style="background:var(--good)">Верно</button><button class="big" id="sg-no" style="background:var(--bad)">Неверно</button></div>`; }
 function bindVerdict(apply){
   const pick = ok => { if(!Q.busy) return; Q.busy = false; apply(ok); next(); };
   document.getElementById('sg-ok').onclick = () => pick(true);
@@ -410,7 +409,7 @@ function sentFb(it, val, r){
 async function answerSent(val){
   const it = Q.items[Q.i], w = it.w, dir = it.dir, s = SENT[w.n];
   Q.busy = true;
-  const inp = document.getElementById('answer'); inp.readOnly = true; document.getElementById('idk').disabled = true; view.querySelector('#f .big').hidden = true;
+  const inp = document.getElementById('answer'); inp.readOnly = true; document.getElementById('idk').hidden = true; view.querySelector('#f .row').hidden = true; view.querySelector('#f .big').hidden = true;
   const kwOk = kwMatch(val, dir==='er' ? [...ruParts(w), s.rk] : [...enVariants(w), s.ek]);
   if(!val.trim()){ scoreSent(it, false, false); sentFb(it, val, {final:true, verdict:'wrong', wordOk:false, comment:'Посмотри перевод и попробуй запомнить это предложение.'}); return; }
   if(SAMPLE){
