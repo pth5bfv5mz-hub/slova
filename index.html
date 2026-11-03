@@ -275,7 +275,7 @@ function renderSetup(){
     <div class="group"><div class="lbl">Направление</div><div class="chips">
       ${chip('dir','er','Английский → русский',cfg.dir==='er')}${chip('dir','re','Русский → английский',cfg.dir==='re')}${chip('dir','mix','Вперемешку',cfg.dir==='mix')}</div></div>
     <div class="group"><div class="lbl">Как отвечать</div><div class="chips">
-      ${chip('mode','type','Написать слово',cfg.mode==='type')}${chip('mode','sent','Переводить предложения',cfg.mode==='sent')}</div>${cfg.mode==='sent'?'<div class="hint">Каждое слово в своём предложении: переводишь предложение целиком, нужное слово подсвечено. Перевод проверяет Claude, а слово засчитывается в статистику.</div>':''}</div>
+      ${chip('mode','type','Написать слово',cfg.mode==='type')}${chip('mode','sent','Переводить предложения',cfg.mode==='sent')}</div>${cfg.mode==='sent'?'<div class="hint">Каждое слово в своём предложении: переводишь предложение целиком, нужное слово подсвечено. Claude подсказывает, есть ли ошибки, а засчитать ответ или нет, решаешь ты.</div>':''}</div>
     <div class="group"><div class="lbl">Какие слова (номера по таблице)</div><div class="chips">
       ${chip('blk','all','Все 1–652',!cfg.blocks.length)}${BLOCKS.map((b,i)=>chip('blk',i,b[0]+'–'+b[1],cfg.blocks.includes(i))).join('')}</div>
       <div class="hint">В выбранных: ${p.length} слов, выучено ${learnedHere}. Можно отметить несколько диапазонов.</div></div>
@@ -351,8 +351,23 @@ function answerType(val){
   const it = Q.items[Q.i]; const res = check(val,it.w,it.dir);
   const inp = document.getElementById('answer'); inp.readOnly = true; document.getElementById('idk').disabled = true;
   view.querySelector('#f .big').hidden = true;
-  score(res.ok,it);
-  showFb(res.ok,it.w,it.dir, res.typo?`Есть опечатка, правильно: <strong>${esc(res.typo)}</strong>.`:(!res.ok&&val.trim()?`Твой ответ: «${esc(val.trim())}».`:''));
+  const w = it.w;
+  if(!val.trim()){ score(false,it); showFb(false,w,it.dir); return; }
+  Q.busy = true;
+  const cls = res.typo ? 'mid' : res.ok ? 'ok' : 'no';
+  const head = res.typo ? `Похоже, верно, но есть опечатка: правильно <strong>${esc(res.typo)}</strong>.` : res.ok ? 'Похоже, верно.' : 'Похоже, неверно.';
+  const fb = document.getElementById('fb');
+  fb.innerHTML = `<div class="group"><div class="fb ${cls}">${head}</div>
+    <div class="ref"><span class="k">Твой ответ</span><span>${esc(val.trim())}</span><span class="k">По словарю</span><span>${esc(w.en)}${w.tr?` [${esc(w.tr)}]`:''} — <strong>${esc(w.ru)}</strong></span></div>
+    ${verdictBtns()}</div>`;
+  bindVerdict(ok => score(ok,it));
+  fb.scrollIntoView({block:'nearest'});
+}
+function verdictBtns(){ return `<div class="hint">Как засчитать этот ответ? Решение за тобой, проверка выше только подсказка.</div><div class="selfgrade"><button class="big" id="sg-ok" style="background:var(--good)">Верно</button><button class="big" id="sg-no" style="background:var(--bad)">Неверно</button></div>`; }
+function bindVerdict(apply){
+  const pick = ok => { if(!Q.busy) return; Q.busy = false; apply(ok); next(); };
+  document.getElementById('sg-ok').onclick = () => pick(true);
+  document.getElementById('sg-no').onclick = () => pick(false);
 }
 function hl(s, key){ const i = key ? s.indexOf(key) : -1; return i<0 ? esc(s) : esc(s.slice(0,i))+'<mark>'+esc(key)+'</mark>'+esc(s.slice(i+key.length)); }
 function stem(x){ const n=x.length; return n>=6 ? x.slice(0,n-2) : n>=4 ? x.slice(0,n-1) : x; }
@@ -377,21 +392,19 @@ comment: 1–2 коротких предложения по-русски, на �
 fixed: ответ ученика с минимальными исправлениями, или тот же текст, если ошибок нет.
 Ответь только JSON: {"verdict":"correct","wordOk":true,"comment":"...","fixed":"..."}`;
 }
-function scoreSent(it, ok, wordOk){ Q.answered = true; Q.busy = false; record(it.w.key, it.dir, wordOk); if(ok) Q.right++; else Q.wrong.push(it); }
+function scoreSent(it, ok, wordOk){ Q.answered = true; record(it.w.key, it.dir, wordOk); if(ok) Q.right++; else Q.wrong.push(it); }
 function sentFb(it, val, r){
   const w=it.w, dir=it.dir, s=SENT[w.n], ref = dir==='er'?s.ru:s.en, refKey = dir==='er'?s.rk:s.ek;
   const cls = r.self?'mid':r.verdict==='correct'?'ok':r.verdict==='minor'?'mid':'no';
-  const head = r.self?'':r.verdict==='correct'?'Верно!':r.verdict==='minor'?'Почти верно.':'Неверно.';
+  const head = r.final?'Без ответа.':r.self?'':r.verdict==='correct'?'Claude: верно.':r.verdict==='minor'?'Claude: почти верно.':'Claude: неверно.';
   const fixed = r.fixed && norm(r.fixed)!==norm(val) ? `<span class="k">Твой перевод с исправлениями</span><span>${esc(r.fixed)}</span>` : '';
   const fb = document.getElementById('fb');
   fb.innerHTML = `<div class="group"><div class="fb ${cls}">${head} ${r.comment?esc(r.comment):''}</div>
     <div class="ref"><span class="k">Эталонный перевод</span><span>${hl(ref, refKey)}</span>${fixed}
-    <span class="k">Слово</span><span>${esc(w.en)}${w.tr?` [${esc(w.tr)}]`:''} — ${esc(w.ru)} · ${r.wordOk?'<span style="color:var(--good)">засчитано</span>':'<span style="color:var(--bad)">не засчитано</span>'}</span></div>
-    ${r.self?`<div class="hint">Сравни со своим переводом и оцени его:</div><div class="selfgrade"><button class="big" id="sg-ok" style="background:var(--good)">Перевод верный</button><button class="big" id="sg-no" style="background:var(--bad)">Есть ошибки</button></div>${r.why?`<div class="hint">${esc(r.why)}</div>`:''}`
-      :`<button class="big" id="next">${Q.i+1<Q.items.length?'Дальше':'Результат'}</button>`}</div>`;
-  if(r.self){ const done = ok => { scoreSent(it, ok, r.wordOk && ok); sentFb(it, val, {...r, self:false, verdict: ok?'correct':'wrong'}); };
-    document.getElementById('sg-ok').onclick = () => done(true); document.getElementById('sg-no').onclick = () => done(false); }
-  else { const nb=document.getElementById('next'); nb.onclick = next; nb.focus({preventScroll:true}); }
+    <span class="k">Слово</span><span>${esc(w.en)}${w.tr?` [${esc(w.tr)}]`:''} — ${esc(w.ru)}${r.final?'':` · ${r.wordOk?'<span style="color:var(--good)">в переводе есть</span>':'<span style="color:var(--bad)">в переводе не видно</span>'}`}</span></div>
+    ${r.final?`<button class="big" id="next">${Q.i+1<Q.items.length?'Дальше':'Результат'}</button>`:`${verdictBtns()}${r.why?`<div class="hint">${esc(r.why)}</div>`:''}`}</div>`;
+  if(r.final){ const nb=document.getElementById('next'); nb.onclick = next; nb.focus({preventScroll:true}); }
+  else { Q.busy = true; bindVerdict(ok => scoreSent(it, ok, ok)); }
   fb.scrollIntoView({block:'nearest'});
 }
 async function answerSent(val){
@@ -399,7 +412,7 @@ async function answerSent(val){
   Q.busy = true;
   const inp = document.getElementById('answer'); inp.readOnly = true; document.getElementById('idk').disabled = true; view.querySelector('#f .big').hidden = true;
   const kwOk = kwMatch(val, dir==='er' ? [...ruParts(w), s.rk] : [...enVariants(w), s.ek]);
-  if(!val.trim()){ scoreSent(it, false, false); sentFb(it, val, {verdict:'wrong', wordOk:false, comment:'Посмотри перевод и попробуй запомнить это предложение.'}); return; }
+  if(!val.trim()){ scoreSent(it, false, false); sentFb(it, val, {final:true, verdict:'wrong', wordOk:false, comment:'Посмотри перевод и попробуй запомнить это предложение.'}); return; }
   if(SAMPLE){
     document.getElementById('fb').innerHTML = '<div class="fb mid">Claude проверяет перевод…</div>';
     try{
@@ -407,7 +420,6 @@ async function answerSent(val){
       if(!Q || Q.items[Q.i]!==it) return;
       const verdict = ['correct','minor','wrong'].includes(r?.verdict) ? r.verdict : (kwOk?'minor':'wrong');
       const wordOk = typeof r?.wordOk==='boolean' ? r.wordOk : kwOk;
-      scoreSent(it, verdict!=='wrong', wordOk);
       sentFb(it, val, {verdict, wordOk, comment: typeof r?.comment==='string'?r.comment:'', fixed: typeof r?.fixed==='string'?r.fixed:''});
       return;
     }catch(e){
@@ -419,7 +431,7 @@ async function answerSent(val){
   }
   sentFb(it, val, {self:true, wordOk:kwOk, verdict:kwOk?'minor':'wrong', comment: kwOk?'Нужное слово в переводе есть.':'Нужного слова в переводе не видно.'});
 }
-function next(){ Q.answered=false; Q.i++; if(Q.i>=Q.items.length){ Q.done=true; finish(); } else render(); }
+function next(){ Q.answered=false; Q.busy=false; Q.i++; if(Q.i>=Q.items.length){ Q.done=true; finish(); } else render(); }
 function finish(){
   const n = Q.right + Q.wrong.length;
   if(n){ S.sessions.unshift({t:Date.now(), dir:cfg.dir, mode:Q.mode, n, r:Q.right}); S.sessions = S.sessions.slice(0,60); save(); }
