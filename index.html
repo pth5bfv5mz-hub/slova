@@ -212,9 +212,10 @@ function status(key,dir){ const r=peek(key,dir); if(!r) return 0; if(r.s>=MASTER
 
 /* ---------- настройки и подбор вопросов ---------- */
 const SET_KEY = 'slova-test-settings';
-let cfg = {dir:'er', mode:'sent', blocks:[0], filter:'smart', count:20};
+let cfg = {dir:'er', mode:'type', input:'no', blocks:[0], filter:'smart', count:20};
 try{ Object.assign(cfg, JSON.parse(localStorage.getItem(SET_KEY)||'{}')); }catch(e){}
-if(cfg.mode!=='type' && cfg.mode!=='sent') cfg.mode = 'sent';
+if(cfg.mode!=='type' && cfg.mode!=='sent') cfg.mode = 'type';
+if(cfg.input!=='yes') cfg.input = 'no';
 function saveCfg(){ try{ localStorage.setItem(SET_KEY, JSON.stringify(cfg)); }catch(e){} }
 
 function pool(){
@@ -274,8 +275,11 @@ function renderSetup(){
   view.innerHTML = `<div class="panel">
     <div class="group"><div class="lbl">Направление</div><div class="chips">
       ${chip('dir','er','Английский → русский',cfg.dir==='er')}${chip('dir','re','Русский → английский',cfg.dir==='re')}${chip('dir','mix','Вперемешку',cfg.dir==='mix')}</div></div>
+    <div class="group"><div class="lbl">Что тренировать</div><div class="chips">
+      ${chip('mode','type','Слова',cfg.mode==='type')}${chip('mode','sent','Предложения',cfg.mode==='sent')}</div>${cfg.mode==='sent'?'<div class="hint">Каждое слово в своём предложении, нужное слово подчёркнуто.</div>':''}</div>
     <div class="group"><div class="lbl">Как отвечать</div><div class="chips">
-      ${chip('mode','type','Написать слово',cfg.mode==='type')}${chip('mode','sent','Переводить предложения',cfg.mode==='sent')}</div>${cfg.mode==='sent'?'<div class="hint">Каждое слово в своём предложении: переводишь предложение целиком, нужное слово подсвечено. Claude подсказывает, есть ли ошибки, а засчитать ответ или нет, решаешь ты.</div>':''}</div>
+      ${chip('input','no','Вспомнить и нажать «Проверить»',cfg.input==='no')}${chip('input','yes','Писать ответ',cfg.input==='yes')}</div>
+      <div class="hint">${cfg.input==='no'?'Переводишь в уме, жмёшь «Проверить», видишь правильный ответ и отмечаешь «Верно» или «Неверно».':'Пишешь перевод, потом видишь правильный ответ и отмечаешь «Верно» или «Неверно».'}</div></div>
     <div class="group"><div class="lbl">Какие слова (номера по таблице)</div><div class="chips">
       ${chip('blk','all','Все 1–652',!cfg.blocks.length)}${BLOCKS.map((b,i)=>chip('blk',i,b[0]+'–'+b[1],cfg.blocks.includes(i))).join('')}</div>
       <div class="hint">В выбранных: ${p.length} слов, выучено ${learnedHere}. Можно отметить несколько диапазонов.</div></div>
@@ -299,7 +303,7 @@ function renderSetup(){
 function startQuiz(words){
   const items = buildQuiz(words?{words}:{});
   if(!items.length){ const m=document.getElementById('startmsg'); if(m) m.textContent = cfg.filter==='weak' ? 'Ошибок в этих словах пока нет. Выбери другой режим.' : cfg.filter==='new' ? 'Новых слов в этом диапазоне не осталось.' : 'Нет слов для теста.'; return; }
-  Q = {items, i:0, right:0, wrong:[], mode:cfg.mode, started:Date.now(), answered:false};
+  Q = {items, i:0, right:0, wrong:[], mode:cfg.mode, input:cfg.input==='yes', started:Date.now(), answered:false};
   (S.days[today()] ||= {r:0,w:0,q:0}).q++; save();
   tab='test'; render();
 }
@@ -315,7 +319,8 @@ function renderQuestion(){
       <span class="dirtag">${DIRS[dir]} · №${w.n}</span>
       ${sent?`<div class="prompt sent" lang="${dir==='er'?'en':'ru'}">${hl(dir==='er'?sent.en:sent.ru, dir==='er'?sent.ek:sent.rk)}</div>`:`<div class="prompt" lang="${dir==='er'?'en':'ru'}">${esc(prompt)}</div>`}
       ${dir==='er'&&w.tr?`<div class="tr">[${esc(w.tr)}]</div>`:''}
-      ${sent?`<form id="f" class="group" autocomplete="off"><textarea class="inp" id="answer" rows="3" placeholder="${dir==='er'?'Переведи предложение на русский':'Translate the sentence into English'}" lang="${dir==='er'?'ru':'en'}" autocapitalize="sentences" spellcheck="false"></textarea><div class="row"><button class="big" type="submit">Проверить</button><button class="ghost" type="button" id="idk">Не знаю</button></div></form>`
+      ${!Q.input?`<button class="big" id="reveal">Проверить</button>`
+      : sent?`<form id="f" class="group" autocomplete="off"><textarea class="inp" id="answer" rows="3" placeholder="${dir==='er'?'Переведи предложение на русский':'Translate the sentence into English'}" lang="${dir==='er'?'ru':'en'}" autocapitalize="sentences" spellcheck="false"></textarea><div class="row"><button class="big" type="submit">Проверить</button><button class="ghost" type="button" id="idk">Не знаю</button></div></form>`
       : Q.mode==='choice'
         ? `<div class="opts">${it.opts.map((o,k)=>`<button class="opt" data-k="${k}"><b>${k+1}</b><span>${esc(o.label)}</span></button>`).join('')}</div>`
         : `<form id="f" class="group" autocomplete="off"><input class="inp" id="answer" placeholder="${dir==='er'?'Перевод на русском':'Перевод на английском'}" lang="${dir==='er'?'ru':'en'}" autocapitalize="off" autocorrect="off" spellcheck="false"><div class="row"><button class="big" type="submit">Проверить</button><button class="ghost" type="button" id="idk">Не знаю</button></div></form>`}
@@ -324,7 +329,9 @@ function renderQuestion(){
     <div class="row"><button class="ghost" id="quit">Закончить тест</button></div>
   </div>`;
   document.getElementById('quit').onclick = () => { Q.done = true; finish(); };
-  if(Q.mode==='choice'){
+  if(!Q.input){
+    const rb = document.getElementById('reveal'); rb.onclick = () => reveal(it, sent);
+  } else if(Q.mode==='choice'){
     view.querySelectorAll('.opt').forEach(b => b.onclick = () => answerChoice(+b.dataset.k));
   } else {
     const inp = document.getElementById('answer'); setTimeout(()=>inp.focus({preventScroll:true}),30);
@@ -359,6 +366,20 @@ function answerType(val){
   const fb = document.getElementById('fb');
   fb.innerHTML = `<div class="group"><div class="fb ${cls}" style="font-size:18px">${esc(w.en)}${w.tr?` [${esc(w.tr)}]`:''} — <strong>${esc(w.ru)}</strong></div>
     ${verdictBtns()}</div>`;
+  bindVerdict(ok => score(ok,it));
+  fb.scrollIntoView({block:'nearest'});
+}
+function reveal(it, sent){
+  if(Q.busy || Q.answered) return;
+  const w = it.w, dir = it.dir;
+  document.getElementById('reveal').hidden = true;
+  const word = `${esc(w.en)}${w.tr?` [${esc(w.tr)}]`:''} — <strong>${esc(w.ru)}</strong>`;
+  const fb = document.getElementById('fb');
+  fb.innerHTML = `<div class="group">${sent
+    ? `<div class="ref" style="font-size:18px"><span>${hl(dir==='er'?sent.ru:sent.en, dir==='er'?sent.rk:sent.ek)}</span><span class="hint" style="font-size:15px">${word}</span></div>`
+    : `<div class="ref" style="font-size:20px;text-align:center;padding:16px 14px">${dir==='er'?`<strong>${esc(w.ru)}</strong>`:`<strong>${esc(w.en)}</strong>${w.tr?` <span class="hint">[${esc(w.tr)}]</span>`:''}`}</div>`}
+    ${verdictBtns()}</div>`;
+  Q.busy = true;
   bindVerdict(ok => score(ok,it));
   fb.scrollIntoView({block:'nearest'});
 }
@@ -433,7 +454,7 @@ async function answerSent(val){
 function next(){ Q.answered=false; Q.busy=false; Q.i++; if(Q.i>=Q.items.length){ Q.done=true; finish(); } else render(); }
 function finish(){
   const n = Q.right + Q.wrong.length;
-  if(n){ S.sessions.unshift({t:Date.now(), dir:cfg.dir, mode:Q.mode, n, r:Q.right}); S.sessions = S.sessions.slice(0,60); save(); }
+  if(n){ S.sessions.unshift({t:Date.now(), dir:cfg.dir, mode:Q.mode, input:Q.input, n, r:Q.right}); S.sessions = S.sessions.slice(0,60); save(); }
   render();
 }
 function renderResult(){
@@ -499,7 +520,7 @@ function renderStats(){
   </div>
   <div class="panel">
     <div class="lbl">История тестов</div>
-    ${S.sessions.length?`<div class="list">${S.sessions.slice(0,15).map(s=>`<div class="li"><div class="w">${fmt(s.t)}<small>${s.dir==='mix'?'вперемешку':DIRS[s.dir]} · ${s.mode==='sent'?'предложения':s.mode==='type'?'ввод':'выбор'}</small></div><div class="n">${s.r} / ${s.n}<br>${Math.round(s.r/s.n*100)}%</div></div>`).join('')}</div>`:'<div class="empty">Здесь будут результаты каждого теста.</div>'}
+    ${S.sessions.length?`<div class="list">${S.sessions.slice(0,15).map(s=>`<div class="li"><div class="w">${fmt(s.t)}<small>${s.dir==='mix'?'вперемешку':DIRS[s.dir]} · ${s.mode==='sent'?'предложения':'слова'}${s.input===false?' · без ввода':''}</small></div><div class="n">${s.r} / ${s.n}<br>${Math.round(s.r/s.n*100)}%</div></div>`).join('')}</div>`:'<div class="empty">Здесь будут результаты каждого теста.</div>'}
   </div>
   <div class="panel">
     <div class="lbl">Сброс</div>
@@ -530,6 +551,7 @@ function renderDict(){
 document.addEventListener('keydown', e => {
   if(tab!=='test' || !Q || Q.done || /^(INPUT|TEXTAREA)$/.test(e.target.tagName)) return;
   if(Q.mode==='choice' && !Q.answered && /^[1-4]$/.test(e.key)) answerChoice(+e.key-1);
+  else if(!Q.input && !Q.busy && !Q.answered && (e.key==='Enter'||e.key===' ')){ e.preventDefault(); document.getElementById('reveal')?.click(); }
   else if(Q.answered && e.key==='Enter' && document.activeElement?.id!=='next'){ e.preventDefault(); next(); }
 });
 
