@@ -67,6 +67,9 @@ button:focus-visible,input:focus-visible{outline:3px solid var(--mark);outline-o
 .bar{height:6px;background:var(--line);border-radius:3px;overflow:hidden}
 .bar i{display:block;height:100%;background:var(--accent);transition:width .25s}
 .card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:28px 18px 22px;display:flex;flex-direction:column;gap:18px;box-shadow:0 1px 0 var(--line),0 8px 24px -16px rgba(20,30,60,.35)}
+.cardtop{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.say{border:1px solid var(--line);background:var(--paper);color:var(--ink);width:44px;height:44px;border-radius:50%;display:grid;place-items:center;cursor:pointer;flex:none}
+.say svg{width:22px;height:22px}
 .dirtag{align-self:flex-start;font:600 11px var(--f-mono);letter-spacing:.06em;background:var(--paper);color:var(--muted);border:1px solid var(--line);padding:4px 8px;border-radius:6px}
 .prompt{font-family:var(--f-display);font-weight:500;font-size:clamp(26px,7vw,38px);line-height:1.15;text-align:center;overflow-wrap:anywhere;text-wrap:balance}
 .tr{text-align:center;color:var(--muted);font-size:14px;margin-top:-10px}
@@ -139,6 +142,27 @@ const WORDS = RAW.map(([n,en,ru,tr]) => ({n,en,ru,tr,key:en.toLowerCase()}));
 const BYKEY = Object.fromEntries(WORDS.map(w=>[w.key,w]));
 const BLOCKS = [[1,100],[101,200],[201,300],[301,400],[401,500],[501,600],[601,652]];
 const DIRS = {er:'EN → RU', re:'RU → EN'};
+const TTS = ('speechSynthesis' in window && 'SpeechSynthesisUtterance' in window) ? window.speechSynthesis : null;
+let VOICES = [];
+function loadVoices(){ try{ VOICES = TTS.getVoices() || []; }catch(e){} }
+if(TTS){ loadVoices(); try{ TTS.addEventListener('voiceschanged', loadVoices); }catch(e){} }
+function pickVoice(lang){
+  const vs = VOICES.filter(v => (v.lang||'').toLowerCase().replace('_','-').startsWith(lang));
+  const pref = lang==='en' ? ['en-us','en-gb'] : ['ru-ru'];
+  const good = vs.filter(v => pref.includes((v.lang||'').toLowerCase().replace('_','-')));
+  return good.find(v => /samantha|daniel|karen|google|milena|yuri|premium|enhanced/i.test(v.name)) || good[0] || vs[0] || null;
+}
+function speak(text, lang, force){
+  if(!TTS || !text || (cfg.voice==='off' && !force)) return;
+  try{
+    TTS.cancel();
+    const u = new SpeechSynthesisUtterance(text.replace(/\s*\/\s*/g, ', ').replace(/\(([^)]*)\)/g, ', $1,'));
+    u.lang = lang==='en' ? 'en-US' : 'ru-RU';
+    const v = pickVoice(lang); if(v) u.voice = v;
+    u.rate = lang==='en' ? 0.9 : 1;
+    TTS.speak(u);
+  }catch(e){}
+}
 const MASTER = 3; // правильных подряд, чтобы слово считалось выученным
 
 /* ---------- текст и проверка ответа ---------- */
@@ -216,6 +240,7 @@ let cfg = {dir:'er', mode:'type', input:'no', blocks:[0], filter:'smart', count:
 try{ Object.assign(cfg, JSON.parse(localStorage.getItem(SET_KEY)||'{}')); }catch(e){}
 if(cfg.mode!=='type' && cfg.mode!=='sent') cfg.mode = 'type';
 if(cfg.input!=='yes') cfg.input = 'no';
+if(cfg.voice!=='off') cfg.voice = 'on';
 function saveCfg(){ try{ localStorage.setItem(SET_KEY, JSON.stringify(cfg)); }catch(e){} }
 
 function pool(){
@@ -280,6 +305,9 @@ function renderSetup(){
     <div class="group"><div class="lbl">Как отвечать</div><div class="chips">
       ${chip('input','no','Вспомнить и нажать «Проверить»',cfg.input==='no')}${chip('input','yes','Писать ответ',cfg.input==='yes')}</div>
       <div class="hint">${cfg.input==='no'?'Переводишь в уме, жмёшь «Проверить», видишь правильный ответ и отмечаешь «Верно» или «Неверно».':'Пишешь перевод, потом видишь правильный ответ и отмечаешь «Верно» или «Неверно».'}</div></div>
+    <div class="group"><div class="lbl">Озвучка</div><div class="chips">
+      ${chip('voice','on','Включена',cfg.voice==='on')}${chip('voice','off','Выключена',cfg.voice==='off')}</div>
+      <div class="hint">${TTS?'Слово или предложение читается вслух, когда появляется, и ответ после «Проверить». Если звука нет, проверь беззвучный режим и громкость.':'Этот браузер не умеет читать вслух.'}</div></div>
     <div class="group"><div class="lbl">Какие слова (номера по таблице)</div><div class="chips">
       ${chip('blk','all','Все 1–652',!cfg.blocks.length)}${BLOCKS.map((b,i)=>chip('blk',i,b[0]+'–'+b[1],cfg.blocks.includes(i))).join('')}</div>
       <div class="hint">В выбранных: ${p.length} слов, выучено ${learnedHere}. Можно отметить несколько диапазонов.</div></div>
@@ -316,7 +344,7 @@ function renderQuestion(){
     <div class="qtop"><span>Вопрос ${Q.i+1} из ${Q.items.length}</span><span>Верно: ${Q.right} · Ошибок: ${Q.wrong.length}</span></div>
     <div class="bar"><i style="width:${Q.i/Q.items.length*100}%"></i></div>
     <div class="card">
-      <span class="dirtag">${DIRS[dir]} · №${w.n}</span>
+      <div class="cardtop"><span class="dirtag">${DIRS[dir]} · №${w.n}</span>${TTS?`<button class="say" id="say" aria-label="Прослушать ещё раз" title="Прослушать ещё раз"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5 6 9H3v6h3l5 4z" fill="currentColor"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M18.5 5.5a9 9 0 0 1 0 13"/></svg></button>`:''}</div>
       ${sent?`<div class="prompt sent" lang="${dir==='er'?'en':'ru'}">${hl(dir==='er'?sent.en:sent.ru, dir==='er'?sent.ek:sent.rk)}</div>`:`<div class="prompt" lang="${dir==='er'?'en':'ru'}">${esc(prompt)}</div>`}
       ${dir==='er'&&w.tr?`<div class="tr">[${esc(w.tr)}]</div>`:''}
       ${!Q.input?`<button class="big" id="reveal">Проверить</button>`
@@ -329,6 +357,9 @@ function renderQuestion(){
     <div class="row"><button class="ghost" id="quit">Закончить тест</button></div>
   </div>`;
   document.getElementById('quit').onclick = () => { Q.done = true; finish(); };
+  const sayText = sent ? (dir==='er'?sent.en:sent.ru) : prompt, sayLang = dir==='er'?'en':'ru';
+  const sb = document.getElementById('say'); if(sb) sb.onclick = () => speak(sayText, sayLang, true);
+  if(Q.spoken!==Q.i){ Q.spoken = Q.i; speak(sayText, sayLang); }
   if(!Q.input){
     const rb = document.getElementById('reveal'); rb.onclick = () => reveal(it, sent);
   } else if(Q.mode==='choice'){
@@ -368,7 +399,9 @@ function answerType(val){
     ${verdictBtns()}</div>`;
   bindVerdict(ok => score(ok,it));
   fb.scrollIntoView({block:'nearest'});
+  sayAnswer(it);
 }
+function sayAnswer(it){ const w=it.w, s=SENT[w.n]; if(Q.mode==='sent' && s) speak(it.dir==='er'?s.ru:s.en, it.dir==='er'?'ru':'en'); else speak(it.dir==='er'?w.ru:w.en, it.dir==='er'?'ru':'en'); }
 function reveal(it, sent){
   if(Q.busy || Q.answered) return;
   const w = it.w, dir = it.dir;
@@ -382,6 +415,7 @@ function reveal(it, sent){
   Q.busy = true;
   bindVerdict(ok => score(ok,it));
   fb.scrollIntoView({block:'nearest'});
+  sayAnswer(it);
 }
 function verdictBtns(){ return `<div class="selfgrade"><button class="big" id="sg-ok" style="background:var(--good)">Верно</button><button class="big" id="sg-no" style="background:var(--bad)">Неверно</button></div>`; }
 function bindVerdict(apply){
@@ -426,6 +460,7 @@ function sentFb(it, val, r){
   if(r.final){ const nb=document.getElementById('next'); nb.onclick = next; nb.focus({preventScroll:true}); }
   else { Q.busy = true; bindVerdict(ok => scoreSent(it, ok, ok)); }
   fb.scrollIntoView({block:'nearest'});
+  if(!r.final) sayAnswer(it);
 }
 async function answerSent(val){
   const it = Q.items[Q.i], w = it.w, dir = it.dir, s = SENT[w.n];
