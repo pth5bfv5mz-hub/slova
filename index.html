@@ -402,7 +402,7 @@ function render(){
   window.onscroll = null;
   document.querySelectorAll('nav button').forEach(b => b.setAttribute('aria-selected', b.dataset.tab===tab));
   const P = plan(), nb = document.getElementById('dueBadge'), n = P.due.length + P.fresh.length;
-  nb.textContent = n; nb.hidden = !n || !!Q;
+  nb.hidden = true;
   if(tab==='test') Q ? (Q.done ? renderResult() : renderQuestion()) : renderSetup();
   else if(tab==='texts') reading ? (TQ && TQ.id===reading ? renderTQ() : renderReader()) : renderTexts();
   else if(tab==='stats') renderStats();
@@ -417,15 +417,7 @@ function renderSetup(){
   const td = S.days[today()], answered = (td?.r||0)+(td?.w||0);
   const ws = allWords(), hardN = ws.filter(w => wstate(w)==='hard').length, mineN = Object.keys(S.mine).length;
   const streak = streakDays();
-  view.innerHTML = `<div class="panel">
-    <div class="lbl">Сегодня</div>
-    <div class="today"><div><b>${P.dueTotal}</b><span>повторить</span></div><div><b>${P.fresh.length}</b><span>${plural(P.fresh.length,'новое слово','новых слова','новых слов')}</span></div><div><b>${streak}</b><span>${plural(streak,'день','дня','дней')} подряд</span></div></div>
-    ${total ? `<button class="big" id="go">Начать · ${total} ${plural(total,'карточка','карточки','карточек')}</button>`
-      : `<div class="fb ok">На сегодня всё повторено.${answered?` Ответов сегодня: ${answered}.`:''}</div>${P.cand.length?`<button class="ghost" id="more10">Выучить ещё ${Math.min(10,P.cand.length)} новых слов</button>`:''}`}
-    <div class="hint">После верного ответа слово вернётся через 1, 3, 7, 16 и 30 дней. После ошибки повторится в этой же тренировке и завтра.</div>
-    <div class="group"><div class="lbl">Новых слов в день</div><div class="chips">${[5,10,15,20].map(n=>chip('perDay',n,n,cfg.perDay===n)).join('')}</div></div>
-  </div>
-  ${hardN||mineN ? `<div class="quick">${hardN?`<button class="ghost" id="qhard">Сложные слова · ${hardN}</button>`:''}${mineN?`<button class="ghost" id="qmine">Мои слова · ${mineN}</button>`:''}</div>` : ''}
+  view.innerHTML = `  ${hardN||mineN ? `<div class="quick">${hardN?`<button class="ghost" id="qhard">Сложные слова · ${hardN}</button>`:''}${mineN?`<button class="ghost" id="qmine">Мои слова · ${mineN}</button>`:''}</div>` : ''}
   <div class="panel">
     <div class="group"><div class="lbl">Направление</div><div class="chips">
       ${chip('dir','er','Английский → русский',cfg.dir==='er')}${chip('dir','re','Русский → английский',cfg.dir==='re')}${chip('dir','mix','Вперемешку',cfg.dir==='mix')}</div></div>
