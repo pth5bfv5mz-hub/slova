@@ -1,0 +1,1296 @@
+{
+ "id": 10,
+ "title_en": "The Fisherman's Map",
+ "title_ru": "Карта рыбака",
+ "genre": "Историческая загадка",
+ "summary_ru": "За старым холодильником деда Лена находит карту 1859 года, подписанную человеком, которого весь город полтора века считает вором.",
+ "paragraphs": [
+  {
+   "en": "Lena Harper was cleaning her grandfather's kitchen when she found the map. The old man was moving to a smaller apartment, and he had asked her to help. When she and her friend Sam pulled the heavy refrigerator away from the wall, a thin piece of yellow paper fell to the floor.",
+   "ru": "Лена Харпер убирала кухню своего деда, когда нашла карту. Старик переезжал в квартиру поменьше и попросил её помочь. Когда они с другом Сэмом отодвинули тяжёлый холодильник от стены, на пол упал тонкий жёлтый листок бумаги.",
+   "s": [
+    [
+     "Lena Harper was cleaning her grandfather's kitchen when she found the map.",
+     "Лена Харпер убирала кухню своего деда, когда нашла карту."
+    ],
+    [
+     "The old man was moving to a smaller apartment, and he had asked her to help.",
+     "Старик переезжал в квартиру поменьше и попросил её помочь."
+    ],
+    [
+     "When she and her friend Sam pulled the heavy refrigerator away from the wall, a thin piece of yellow paper fell to the floor.",
+     "Когда они с другом Сэмом отодвинули тяжёлый холодильник от стены, на пол упал тонкий жёлтый листок бумаги."
+    ]
+   ]
+  },
+  {
+   "en": "“What's that?” Sam asked. He was a tall man with a red beard, and he worked at the town museum. He bent down and picked up the paper carefully, as if it could break into pieces.",
+   "ru": "«Что это?» — спросил Сэм. Это был высокий мужчина с рыжей бородой, он работал в городском музее. Он наклонился и осторожно поднял бумагу, словно она могла рассыпаться на куски.",
+   "s": [
+    [
+     "“What's that?”",
+     "«Что это?»"
+    ],
+    [
+     "Sam asked.",
+     "Сэм спросил."
+    ],
+    [
+     "He was a tall man with a red beard, and he worked at the town museum.",
+     "Это был высокий мужчина с рыжей бородой, он работал в городском музее."
+    ],
+    [
+     "He bent down and picked up the paper carefully, as if it could break into pieces.",
+     "Он наклонился и осторожно поднял бумагу, словно она могла рассыпаться на куски."
+    ]
+   ]
+  },
+  {
+   "en": "It was a hand-drawn map of the coast of Lake Erie. Lena saw their small town, Port Ashby, the old harbor and, a few miles from the shore, a tiny island. Someone had drawn a black cross on the island. At the bottom of the map there were two letters, T.R., and a date: 1859.",
+   "ru": "Это была нарисованная от руки карта побережья озера Эри. Лена увидела их городок Порт-Эшби, старую гавань и в нескольких милях от берега — крошечный остров. Кто-то нарисовал на острове чёрный крестик. Внизу карты стояли две буквы, T.R., и дата: 1859.",
+   "s": [
+    [
+     "It was a hand-drawn map of the coast of Lake Erie.",
+     "Это была нарисованная от руки карта побережья озера Эри."
+    ],
+    [
+     "Lena saw their small town, Port Ashby, the old harbor and, a few miles from the shore, a tiny island.",
+     "Лена увидела их городок Порт-Эшби, старую гавань и в нескольких милях от берега — крошечный остров."
+    ],
+    [
+     "Someone had drawn a black cross on the island.",
+     "Кто-то нарисовал на острове чёрный крестик."
+    ],
+    [
+     "At the bottom of the map there were two letters, T.R., and a date: 1859.",
+     "Внизу карты стояли две буквы, T.R., и дата: 1859."
+    ]
+   ]
+  },
+  {
+   "en": "Sam's eyes grew wide. “T.R.,” he said. “Thomas Reed. Lena, do you know who that is?”",
+   "ru": "Глаза Сэма округлились. «T.R., — сказал он. — Томас Рид. Лена, ты знаешь, кто это?»",
+   "s": [
+    [
+     "Sam's eyes grew wide.",
+     "Глаза Сэма округлились."
+    ],
+    [
+     "“T.R.,” he said.",
+     "«T.R.», — сказал он."
+    ],
+    [
+     "“Thomas Reed.",
+     "«Томас Рид."
+    ],
+    [
+     "Lena, do you know who that is?”",
+     "Лена, ты знаешь, кто это?»"
+    ]
+   ]
+  },
+  {
+   "en": "Of course she knew. Everyone in Port Ashby knew the story. In 1859, a rich merchant called Silas Harlan said that a young fisherman, Thomas Reed, had stolen a bag of gold coins from his house. Reed disappeared the same night with his boat, and nobody ever saw him again. For more than a hundred and sixty years, the town had treated him as a thief. Children still sang a rude little song about him.",
+   "ru": "Конечно, она знала. Эту историю знали все в Порт-Эшби. В 1859 году богатый купец по имени Сайлас Харлан заявил, что молодой рыбак Томас Рид украл из его дома мешок золотых монет. Рид исчез в ту же ночь вместе со своей лодкой, и больше его никто не видел. Больше ста шестидесяти лет город относился к нему как к вору. Дети до сих пор пели о нём грубую песенку.",
+   "s": [
+    [
+     "Of course she knew.",
+     "Конечно, она знала."
+    ],
+    [
+     "Everyone in Port Ashby knew the story.",
+     "Эту историю знали все в Порт-Эшби."
+    ],
+    [
+     "In 1859, a rich merchant called Silas Harlan said that a young fisherman, Thomas Reed, had stolen a bag of gold coins from his house.",
+     "В 1859 году богатый купец по имени Сайлас Харлан заявил, что молодой рыбак Томас Рид украл из его дома мешок золотых монет."
+    ],
+    [
+     "Reed disappeared the same night with his boat, and nobody ever saw him again.",
+     "Рид исчез в ту же ночь вместе со своей лодкой, и больше его никто не видел."
+    ],
+    [
+     "For more than a hundred and sixty years, the town had treated him as a thief.",
+     "Больше ста шестидесяти лет город относился к нему как к вору."
+    ],
+    [
+     "Children still sang a rude little song about him.",
+     "Дети до сих пор пели о нём грубую песенку."
+    ]
+   ]
+  },
+  {
+   "en": "“People always said he was guilty,” Lena said slowly. “But there was a lack of real evidence. Nobody found the gold.”",
+   "ru": "«Люди всегда говорили, что он виновен, — медленно сказала Лена. — Но настоящих доказательств не хватало. Золото так никто и не нашёл».",
+   "s": [
+    [
+     "“People always said he was guilty,” Lena said slowly.",
+     "«Люди всегда говорили, что он виновен», — медленно сказала Лена."
+    ],
+    [
+     "“But there was a lack of real evidence.",
+     "«Но настоящих доказательств не хватало."
+    ],
+    [
+     "Nobody found the gold.”",
+     "Золото так никто и не нашёл»."
+    ]
+   ]
+  },
+  {
+   "en": "“Maybe this map shows where he hid it,” Sam said. He sounded excited, like a boy. “I suppose we have to find out.”",
+   "ru": "«Может быть, эта карта показывает, где он его спрятал, — сказал Сэм. Голос у него был взволнованный, как у мальчишки. — Полагаю, нам придётся это выяснить».",
+   "s": [
+    [
+     "“Maybe this map shows where he hid it,” Sam said.",
+     "«Может быть, эта карта показывает, где он его спрятал», — сказал Сэм."
+    ],
+    [
+     "He sounded excited, like a boy.",
+     "Голос у него был взволнованный, как у мальчишки."
+    ],
+    [
+     "“I suppose we have to find out.”",
+     "«Полагаю, нам придётся это выяснить»."
+    ]
+   ]
+  },
+  {
+   "en": "Lena called her grandfather, but the line was busy. She tried again ten minutes later, and this time he answered. When she told him about the map, he was quiet for a long moment. Then he said something strange: “Then it's yours now. Think of it as a gift. But promise me one thing: don't skip any part of the story. Read everything.” “Grandpa, did you know it was there?” she asked. But he had already put down the phone.",
+   "ru": "Лена позвонила деду, но линия была занята. Через десять минут она попробовала снова, и на этот раз он ответил. Когда она рассказала ему о карте, он долго молчал. Потом сказал что-то странное: «Значит, теперь она твоя. Считай это подарком. Но пообещай мне одно: не пропускай ни одной части этой истории. Прочитай всё». «Дедушка, ты знал, что она там?» — спросила она. Но он уже положил трубку.",
+   "s": [
+    [
+     "Lena called her grandfather, but the line was busy.",
+     "Лена позвонила деду, но линия была занята."
+    ],
+    [
+     "She tried again ten minutes later, and this time he answered.",
+     "Через десять минут она попробовала снова, и на этот раз он ответил."
+    ],
+    [
+     "When she told him about the map, he was quiet for a long moment.",
+     "Когда она рассказала ему о карте, он долго молчал."
+    ],
+    [
+     "Then he said something strange: “Then it's yours now.",
+     "Потом сказал что-то странное: «Значит, теперь она твоя."
+    ],
+    [
+     "Think of it as a gift.",
+     "Считай это подарком."
+    ],
+    [
+     "But promise me one thing: don't skip any part of the story.",
+     "Но пообещай мне одно: не пропускай ни одной части этой истории."
+    ],
+    [
+     "Read everything.”",
+     "Прочитай всё»."
+    ],
+    [
+     "“Grandpa, did you know it was there?”",
+     "«Дедушка, ты знал, что она там?»"
+    ],
+    [
+     "she asked.",
+     "Она спросила."
+    ],
+    [
+     "But he had already put down the phone.",
+     "Но он уже положил трубку."
+    ]
+   ]
+  },
+  {
+   "en": "The next morning was cold and clear. Sam borrowed a small motor boat from his cousin, and they left the harbor at seven. Sam had made a playlist for the trip, old sea songs and country music, but after twenty minutes Lena turned it off. She wanted to observe the coast and compare it with the map. The water was calm, and she could see the reflection of the clouds on its surface.",
+   "ru": "Следующее утро было холодным и ясным. Сэм взял у двоюродного брата маленькую моторную лодку, и в семь часов они вышли из гавани. Сэм составил для поездки плейлист — старые морские песни и кантри, — но через двадцать минут Лена его выключила. Ей хотелось наблюдать за берегом и сравнивать его с картой. Вода была спокойной, и на её поверхности было видно отражение облаков.",
+   "s": [
+    [
+     "The next morning was cold and clear.",
+     "Следующее утро было холодным и ясным."
+    ],
+    [
+     "Sam borrowed a small motor boat from his cousin, and they left the harbor at seven.",
+     "Сэм взял у двоюродного брата маленькую моторную лодку, и в семь часов они вышли из гавани."
+    ],
+    [
+     "Sam had made a playlist for the trip, old sea songs and country music, but after twenty minutes Lena turned it off.",
+     "Сэм составил для поездки плейлист — старые морские песни и кантри, — но через двадцать минут Лена его выключила."
+    ],
+    [
+     "She wanted to observe the coast and compare it with the map.",
+     "Ей хотелось наблюдать за берегом и сравнивать его с картой."
+    ],
+    [
+     "The water was calm, and she could see the reflection of the clouds on its surface.",
+     "Вода была спокойной, и на её поверхности было видно отражение облаков."
+    ]
+   ]
+  },
+  {
+   "en": "“Look at the shape of the shore,” she said, pointing. “It has changed a little, but the island is in the right place.” “You're clever,” Sam said with a smile. “Maybe you should work at the museum instead of me.”",
+   "ru": "«Посмотри на очертания берега, — сказала она, показывая рукой. — Он немного изменился, но остров на своём месте». «Ты умница, — улыбнулся Сэм. — Может, тебе стоит работать в музее вместо меня».",
+   "s": [
+    [
+     "“Look at the shape of the shore,” she said, pointing.",
+     "«Посмотри на очертания берега», — сказала она, показывая рукой."
+    ],
+    [
+     "“It has changed a little, but the island is in the right place.”",
+     "«Он немного изменился, но остров на своём месте»."
+    ],
+    [
+     "“You're clever,” Sam said with a smile.",
+     "«Ты умница», — улыбнулся Сэм."
+    ],
+    [
+     "“Maybe you should work at the museum instead of me.”",
+     "«Может, тебе стоит работать в музее вместо меня»."
+    ]
+   ]
+  },
+  {
+   "en": "The island was small, rocky and covered with trees. They pulled the boat onto the stones and walked inland, using the map. Sam had to carry a heavy bag with a shovel, a flashlight and some sandwiches. Lena carried the map in a plastic folder to keep it safe from the wind.",
+   "ru": "Остров был маленьким, каменистым и заросшим деревьями. Они вытащили лодку на камни и пошли вглубь острова, сверяясь с картой. Сэму пришлось нести тяжёлую сумку с лопатой, фонариком и бутербродами. Лена несла карту в пластиковой папке, чтобы уберечь её от ветра.",
+   "s": [
+    [
+     "The island was small, rocky and covered with trees.",
+     "Остров был маленьким, каменистым и заросшим деревьями."
+    ],
+    [
+     "They pulled the boat onto the stones and walked inland, using the map.",
+     "Они вытащили лодку на камни и пошли вглубь острова, сверяясь с картой."
+    ],
+    [
+     "Sam had to carry a heavy bag with a shovel, a flashlight and some sandwiches.",
+     "Сэму пришлось нести тяжёлую сумку с лопатой, фонариком и бутербродами."
+    ],
+    [
+     "Lena carried the map in a plastic folder to keep it safe from the wind.",
+     "Лена несла карту в пластиковой папке, чтобы уберечь её от ветра."
+    ]
+   ]
+  },
+  {
+   "en": "The black cross on the map was next to a big rock shaped like a bear's head. It took them an hour to find it. Behind the rock there was a narrow opening, almost hidden by bushes. Lena turned on the flashlight and went in first.",
+   "ru": "Чёрный крестик на карте был рядом с большой скалой, похожей на медвежью голову. Чтобы найти её, им понадобился час. За скалой был узкий проход, почти скрытый кустами. Лена включила фонарик и вошла первой.",
+   "s": [
+    [
+     "The black cross on the map was next to a big rock shaped like a bear's head.",
+     "Чёрный крестик на карте был рядом с большой скалой, похожей на медвежью голову."
+    ],
+    [
+     "It took them an hour to find it.",
+     "Чтобы найти её, им понадобился час."
+    ],
+    [
+     "Behind the rock there was a narrow opening, almost hidden by bushes.",
+     "За скалой был узкий проход, почти скрытый кустами."
+    ],
+    [
+     "Lena turned on the flashlight and went in first.",
+     "Лена включила фонарик и вошла первой."
+    ]
+   ]
+  },
+  {
+   "en": "Inside, the cave was dry and surprisingly large. On the floor there were the remains of an old fire, some broken plates and a rusty metal pot. Against the wall, someone had built a kind of bed from wooden boards. Sam knelt down and touched the wood.",
+   "ru": "Внутри пещера оказалась сухой и неожиданно большой. На полу виднелись остатки старого костра, несколько разбитых тарелок и ржавый металлический котелок. У стены кто-то соорудил что-то вроде кровати из деревянных досок. Сэм опустился на колени и потрогал дерево.",
+   "s": [
+    [
+     "Inside, the cave was dry and surprisingly large.",
+     "Внутри пещера оказалась сухой и неожиданно большой."
+    ],
+    [
+     "On the floor there were the remains of an old fire, some broken plates and a rusty metal pot.",
+     "На полу виднелись остатки старого костра, несколько разбитых тарелок и ржавый металлический котелок."
+    ],
+    [
+     "Against the wall, someone had built a kind of bed from wooden boards.",
+     "У стены кто-то соорудил что-то вроде кровати из деревянных досок."
+    ],
+    [
+     "Sam knelt down and touched the wood.",
+     "Сэм опустился на колени и потрогал дерево."
+    ]
+   ]
+  },
+  {
+   "en": "“People lived here,” he said quietly. “Not one person. Many people. Look.” On the stone wall, dozens of names and initials had been cut with a knife. Some had dates next to them: 1857, 1858, 1859.",
+   "ru": "«Здесь жили люди, — тихо сказал он. — Не один человек. Много людей. Смотри». На каменной стене ножом были вырезаны десятки имён и инициалов. Рядом с некоторыми стояли даты: 1857, 1858, 1859.",
+   "s": [
+    [
+     "“People lived here,” he said quietly.",
+     "«Здесь жили люди», — тихо сказал он."
+    ],
+    [
+     "“Not one person.",
+     "«Не один человек."
+    ],
+    [
+     "Many people.",
+     "Много людей."
+    ],
+    [
+     "Look.”",
+     "Смотри»."
+    ],
+    [
+     "On the stone wall, dozens of names and initials had been cut with a knife.",
+     "На каменной стене ножом были вырезаны десятки имён и инициалов."
+    ],
+    [
+     "Some had dates next to them: 1857, 1858, 1859.",
+     "Рядом с некоторыми стояли даты: 1857, 1858, 1859."
+    ]
+   ]
+  },
+  {
+   "en": "Suddenly Lena understood. Her heart started to beat faster. “Sam,” she said, “in 1859 slavery was still legal in the South. Canada is on the other side of this lake. People who escaped from slavery came north, and some crossed the lake by boat to reach freedom.”",
+   "ru": "Внезапно Лена поняла. Её сердце забилось быстрее. «Сэм, — сказала она, — в 1859 году рабство на Юге ещё было законным. Канада — на другом берегу этого озера. Люди, бежавшие из рабства, шли на север, и некоторые пересекали озеро на лодке, чтобы обрести свободу».",
+   "s": [
+    [
+     "Suddenly Lena understood.",
+     "Внезапно Лена поняла."
+    ],
+    [
+     "Her heart started to beat faster.",
+     "Её сердце забилось быстрее."
+    ],
+    [
+     "“Sam,” she said, “in 1859 slavery was still legal in the South.",
+     "«Сэм, — сказала она, — в 1859 году рабство на Юге ещё было законным."
+    ],
+    [
+     "Canada is on the other side of this lake.",
+     "Канада — на другом берегу этого озера."
+    ],
+    [
+     "People who escaped from slavery came north, and some crossed the lake by boat to reach freedom.”",
+     "Люди, бежавшие из рабства, шли на север, и некоторые пересекали озеро на лодке, чтобы обрести свободу»."
+    ]
+   ]
+  },
+  {
+   "en": "“The Underground Railroad,” Sam whispered. “And this island was a hiding place. A safe stop before the last crossing.”",
+   "ru": "«Подземная железная дорога, — прошептал Сэм. — А этот остров был укрытием. Безопасной остановкой перед последней переправой».",
+   "s": [
+    [
+     "“The Underground Railroad,” Sam whispered.",
+     "«Подземная железная дорога», — прошептал Сэм."
+    ],
+    [
+     "“And this island was a hiding place.",
+     "«А этот остров был укрытием."
+    ],
+    [
+     "A safe stop before the last crossing.”",
+     "Безопасной остановкой перед последней переправой»."
+    ]
+   ]
+  },
+  {
+   "en": "Under one of the boards, Lena noticed a loose stone. She pulled it out. Behind it there was a small metal box. Inside the box there was a bag, not with gold, but with a black powder that still had a sharp smell. Sam laughed nervously. “Pepper,” he said. “It's black pepper. People used it to stop dogs from following a scent.” Under the bag there was a letter, folded many times, and a simple silver ring.",
+   "ru": "Под одной из досок Лена заметила шатающийся камень. Она вытащила его. За ним оказалась маленькая металлическая коробка. В коробке лежал мешочек — не с золотом, а с чёрным порошком, который всё ещё резко пах. Сэм нервно рассмеялся. «Перец, — сказал он. — Это чёрный перец. Им пользовались, чтобы собаки не могли идти по следу». Под мешочком лежало письмо, сложенное много раз, и простое серебряное кольцо.",
+   "s": [
+    [
+     "Under one of the boards, Lena noticed a loose stone.",
+     "Под одной из досок Лена заметила шатающийся камень."
+    ],
+    [
+     "She pulled it out.",
+     "Она вытащила его."
+    ],
+    [
+     "Behind it there was a small metal box.",
+     "За ним оказалась маленькая металлическая коробка."
+    ],
+    [
+     "Inside the box there was a bag, not with gold, but with a black powder that still had a sharp smell.",
+     "В коробке лежал мешочек — не с золотом, а с чёрным порошком, который всё ещё резко пах."
+    ],
+    [
+     "Sam laughed nervously.",
+     "Сэм нервно рассмеялся."
+    ],
+    [
+     "“Pepper,” he said.",
+     "«Перец», — сказал он."
+    ],
+    [
+     "“It's black pepper.",
+     "«Это чёрный перец."
+    ],
+    [
+     "People used it to stop dogs from following a scent.”",
+     "Им пользовались, чтобы собаки не могли идти по следу»."
+    ],
+    [
+     "Under the bag there was a letter, folded many times, and a simple silver ring.",
+     "Под мешочком лежало письмо, сложенное много раз, и простое серебряное кольцо."
+    ]
+   ]
+  },
+  {
+   "en": "Lena read the letter aloud. Her voice was shaking. “My dear Anna,” it began. “If you read this, I could not come back. Mr. Harlan has discovered what I do with my boat. Two of the people I carried to Canada last week used to work in his house. He called them his property. Now he says I stole his gold. There was never any gold. He wants me in prison, or worse. The circumstances leave me no choice. Tonight I must cross the lake myself. I am sorry that I will miss our wedding. Keep this ring. I will send for you when it is safe.”",
+   "ru": "Лена прочитала письмо вслух. Её голос дрожал. «Моя дорогая Анна, — начиналось оно. — Если ты это читаешь, значит, я не смог вернуться. Мистер Харлан узнал, чем я занимаюсь на своей лодке. Двое из тех, кого я отвёз в Канаду на прошлой неделе, работали в его доме. Он называл их своей собственностью. Теперь он говорит, что я украл его золото. Никакого золота никогда не было. Он хочет, чтобы я оказался в тюрьме или того хуже. Обстоятельства не оставляют мне выбора. Сегодня ночью я сам должен переплыть озеро. Прости, что я пропущу нашу свадьбу. Сохрани это кольцо. Я пошлю за тобой, когда будет безопасно».",
+   "s": [
+    [
+     "Lena read the letter aloud.",
+     "Лена прочитала письмо вслух."
+    ],
+    [
+     "Her voice was shaking.",
+     "Её голос дрожал."
+    ],
+    [
+     "“My dear Anna,” it began.",
+     "«Моя дорогая Анна», — начиналось оно."
+    ],
+    [
+     "“If you read this, I could not come back.",
+     "«Если ты это читаешь, значит, я не смог вернуться."
+    ],
+    [
+     "Mr. Harlan has discovered what I do with my boat.",
+     "Мистер Харлан узнал, чем я занимаюсь на своей лодке."
+    ],
+    [
+     "Two of the people I carried to Canada last week used to work in his house.",
+     "Двое из тех, кого я отвёз в Канаду на прошлой неделе, работали в его доме."
+    ],
+    [
+     "He called them his property.",
+     "Он называл их своей собственностью."
+    ],
+    [
+     "Now he says I stole his gold.",
+     "Теперь он говорит, что я украл его золото."
+    ],
+    [
+     "There was never any gold.",
+     "Никакого золота никогда не было."
+    ],
+    [
+     "He wants me in prison, or worse.",
+     "Он хочет, чтобы я оказался в тюрьме или того хуже."
+    ],
+    [
+     "The circumstances leave me no choice.",
+     "Обстоятельства не оставляют мне выбора."
+    ],
+    [
+     "Tonight I must cross the lake myself.",
+     "Сегодня ночью я сам должен переплыть озеро."
+    ],
+    [
+     "I am sorry that I will miss our wedding.",
+     "Прости, что я пропущу нашу свадьбу."
+    ],
+    [
+     "Keep this ring.",
+     "Сохрани это кольцо."
+    ],
+    [
+     "I will send for you when it is safe.”",
+     "Я пошлю за тобой, когда будет безопасно»."
+    ]
+   ]
+  },
+  {
+   "en": "For a while neither of them said anything. Outside, the wind was moving the trees. “He wasn't a thief,” Sam said at last. “He was a hero. He was the victim of a lie, and the whole town believed it for a hundred and sixty years.” He shook his head. “Harlan was clever. He couldn't accuse Reed of helping people escape, not here in Ohio, so he invented a crime that everybody would understand.”",
+   "ru": "Какое-то время оба молчали. Снаружи ветер качал деревья. «Он не был вором, — наконец сказал Сэм. — Он был героем. Он стал жертвой лжи, и весь город сто шестьдесят лет в неё верил. — Он покачал головой. — Харлан был умён. Он не мог обвинить Рида в том, что тот помогал людям бежать, — только не здесь, в Огайо, — поэтому придумал преступление, понятное всем».",
+   "s": [
+    [
+     "For a while neither of them said anything.",
+     "Какое-то время оба молчали."
+    ],
+    [
+     "Outside, the wind was moving the trees.",
+     "Снаружи ветер качал деревья."
+    ],
+    [
+     "“He wasn't a thief,” Sam said at last.",
+     "«Он не был вором», — наконец сказал Сэм."
+    ],
+    [
+     "“He was a hero.",
+     "«Он был героем."
+    ],
+    [
+     "He was the victim of a lie, and the whole town believed it for a hundred and sixty years.”",
+     "Он стал жертвой лжи, и весь город сто шестьдесят лет в неё верил»."
+    ],
+    [
+     "He shook his head.",
+     "Он покачал головой."
+    ],
+    [
+     "“Harlan was clever.",
+     "«Харлан был умён."
+    ],
+    [
+     "He couldn't accuse Reed of helping people escape, not here in Ohio, so he invented a crime that everybody would understand.”",
+     "Он не мог обвинить Рида в том, что тот помогал людям бежать, — только не здесь, в Огайо, — поэтому придумал преступление, понятное всем»."
+    ]
+   ]
+  },
+  {
+   "en": "Lena looked at the ring. Something in her memory moved. “Anna,” she repeated. “My grandfather's grandmother was called Anna. Anna Harper. She went to Canada as a young woman, and later she came back with her husband and children.”",
+   "ru": "Лена посмотрела на кольцо. Что-то шевельнулось в её памяти. «Анна, — повторила она. — Бабушку моего деда звали Анна. Анна Харпер. Молодой женщиной она уехала в Канаду, а позже вернулась с мужем и детьми».",
+   "s": [
+    [
+     "Lena looked at the ring.",
+     "Лена посмотрела на кольцо."
+    ],
+    [
+     "Something in her memory moved.",
+     "Что-то шевельнулось в её памяти."
+    ],
+    [
+     "“Anna,” she repeated.",
+     "«Анна», — повторила она."
+    ],
+    [
+     "“My grandfather's grandmother was called Anna.",
+     "«Бабушку моего деда звали Анна."
+    ],
+    [
+     "Anna Harper.",
+     "Анна Харпер."
+    ],
+    [
+     "She went to Canada as a young woman, and later she came back with her husband and children.”",
+     "Молодой женщиной она уехала в Канаду, а позже вернулась с мужем и детьми»."
+    ]
+   ]
+  },
+  {
+   "en": "“Lena,” Sam said slowly, “what was her husband's name?” “I don't know,” she said. “Grandpa never told me.” But now she understood why he had asked her not to skip anything.",
+   "ru": "«Лена, — медленно сказал Сэм, — а как звали её мужа?» «Не знаю, — ответила она. — Дедушка никогда мне не говорил». Но теперь она поняла, почему он просил её ничего не пропускать.",
+   "s": [
+    [
+     "“Lena,” Sam said slowly, “what was her husband's name?”",
+     "«Лена, — медленно сказал Сэм, — а как звали её мужа?»"
+    ],
+    [
+     "“I don't know,” she said.",
+     "«Не знаю», — ответила она."
+    ],
+    [
+     "“Grandpa never told me.”",
+     "«Дедушка никогда мне не говорил»."
+    ],
+    [
+     "But now she understood why he had asked her not to skip anything.",
+     "Но теперь она поняла, почему он просил её ничего не пропускать."
+    ]
+   ]
+  },
+  {
+   "en": "When they returned to Port Ashby that evening, her grandfather was sitting on a box in his half-empty kitchen. He looked at the ring in her hand and smiled. He didn't seem surprised at all. “You knew,” Lena said. “You knew all the time.”",
+   "ru": "Когда вечером они вернулись в Порт-Эшби, дед сидел на коробке в своей полупустой кухне. Он посмотрел на кольцо у неё в руке и улыбнулся. Он совсем не выглядел удивлённым. «Ты знал, — сказала Лена. — Ты всё время знал».",
+   "s": [
+    [
+     "When they returned to Port Ashby that evening, her grandfather was sitting on a box in his half-empty kitchen.",
+     "Когда вечером они вернулись в Порт-Эшби, дед сидел на коробке в своей полупустой кухне."
+    ],
+    [
+     "He looked at the ring in her hand and smiled.",
+     "Он посмотрел на кольцо у неё в руке и улыбнулся."
+    ],
+    [
+     "He didn't seem surprised at all.",
+     "Он совсем не выглядел удивлённым."
+    ],
+    [
+     "“You knew,” Lena said.",
+     "«Ты знал», — сказала Лена."
+    ],
+    [
+     "“You knew all the time.”",
+     "«Ты всё время знал»."
+    ]
+   ]
+  },
+  {
+   "en": "“My father told me when I was a boy,” he said. “Anna married Thomas in Canada. They changed their name to Harper to start a new life. When they came back after the war, Thomas was an old man with a white beard, and nobody recognized him. He had a great skill with boats, and he taught it to his sons. But he never told the town the truth. He said that was not the purpose of what he did. He wasn't looking for attention.”",
+   "ru": "«Мне рассказал отец, когда я был мальчишкой, — сказал он. — Анна вышла за Томаса замуж в Канаде. Они сменили фамилию на Харпер, чтобы начать новую жизнь. Когда после войны они вернулись, Томас был стариком с белой бородой, и никто его не узнал. Он прекрасно умел обращаться с лодками и научил этому своих сыновей. Но правду городу он так и не рассказал. Он говорил, что не в этом была цель того, что он делал. Он не искал внимания».",
+   "s": [
+    [
+     "“My father told me when I was a boy,” he said.",
+     "«Мне рассказал отец, когда я был мальчишкой», — сказал он."
+    ],
+    [
+     "“Anna married Thomas in Canada.",
+     "«Анна вышла за Томаса замуж в Канаде."
+    ],
+    [
+     "They changed their name to Harper to start a new life.",
+     "Они сменили фамилию на Харпер, чтобы начать новую жизнь."
+    ],
+    [
+     "When they came back after the war, Thomas was an old man with a white beard, and nobody recognized him.",
+     "Когда после войны они вернулись, Томас был стариком с белой бородой, и никто его не узнал."
+    ],
+    [
+     "He had a great skill with boats, and he taught it to his sons.",
+     "Он прекрасно умел обращаться с лодками и научил этому своих сыновей."
+    ],
+    [
+     "But he never told the town the truth.",
+     "Но правду городу он так и не рассказал."
+    ],
+    [
+     "He said that was not the purpose of what he did.",
+     "Он говорил, что не в этом была цель того, что он делал."
+    ],
+    [
+     "He wasn't looking for attention.”",
+     "Он не искал внимания»."
+    ]
+   ]
+  },
+  {
+   "en": "“Then why did you hide the map behind the refrigerator?”",
+   "ru": "«Тогда зачем ты спрятал карту за холодильником?»",
+   "s": [
+    [
+     "“Then why did you hide the map behind the refrigerator?”",
+     "«Тогда зачем ты спрятал карту за холодильником?»"
+    ]
+   ]
+  },
+  {
+   "en": "He laughed. “I didn't hide it. My father did, sixty years ago, when people here were not ready to listen. I always thought I would show it to you one day, but I kept waiting for a better moment, and then I was afraid. It was a difficult decision. Some stories are heavier than gold.”",
+   "ru": "Он рассмеялся. «Я её не прятал. Это сделал мой отец, шестьдесят лет назад, когда люди здесь ещё не были готовы слушать. Я всегда думал, что однажды покажу её тебе, но всё ждал подходящего момента, а потом испугался. Это было трудное решение. Некоторые истории тяжелее золота».",
+   "s": [
+    [
+     "He laughed.",
+     "Он рассмеялся."
+    ],
+    [
+     "“I didn't hide it.",
+     "«Я её не прятал."
+    ],
+    [
+     "My father did, sixty years ago, when people here were not ready to listen.",
+     "Это сделал мой отец, шестьдесят лет назад, когда люди здесь ещё не были готовы слушать."
+    ],
+    [
+     "I always thought I would show it to you one day, but I kept waiting for a better moment, and then I was afraid.",
+     "Я всегда думал, что однажды покажу её тебе, но всё ждал подходящего момента, а потом испугался."
+    ],
+    [
+     "It was a difficult decision.",
+     "Это было трудное решение."
+    ],
+    [
+     "Some stories are heavier than gold.”",
+     "Некоторые истории тяжелее золота»."
+    ]
+   ]
+  },
+  {
+   "en": "Lena sat down next to him. “It's a touching story, Grandpa. And it's true. People should know.”",
+   "ru": "Лена села рядом с ним. «Это трогательная история, дедушка. И она правдивая. Люди должны знать».",
+   "s": [
+    [
+     "Lena sat down next to him.",
+     "Лена села рядом с ним."
+    ],
+    [
+     "“It's a touching story, Grandpa.",
+     "«Это трогательная история, дедушка."
+    ],
+    [
+     "And it's true.",
+     "И она правдивая."
+    ],
+    [
+     "People should know.”",
+     "Люди должны знать»."
+    ]
+   ]
+  },
+  {
+   "en": "The next month, Sam's museum opened a new exhibition: The Fisherman of Port Ashby. In the center, under glass, lay the old map, the letter and the silver ring. A lot of people came. Some cried. Even the mayor came and made a short speech about the benefits of knowing your real history, not the comfortable one.",
+   "ru": "В следующем месяце в музее Сэма открылась новая выставка: «Рыбак из Порт-Эшби». В центре, под стеклом, лежали старая карта, письмо и серебряное кольцо. Пришло много людей. Некоторые плакали. Пришёл даже мэр и произнёс короткую речь о преимуществах знания своей настоящей истории, а не удобной.",
+   "s": [
+    [
+     "The next month, Sam's museum opened a new exhibition: The Fisherman of Port Ashby.",
+     "В следующем месяце в музее Сэма открылась новая выставка: «Рыбак из Порт-Эшби»."
+    ],
+    [
+     "In the center, under glass, lay the old map, the letter and the silver ring.",
+     "В центре, под стеклом, лежали старая карта, письмо и серебряное кольцо."
+    ],
+    [
+     "A lot of people came.",
+     "Пришло много людей."
+    ],
+    [
+     "Some cried.",
+     "Некоторые плакали."
+    ],
+    [
+     "Even the mayor came and made a short speech about the benefits of knowing your real history, not the comfortable one.",
+     "Пришёл даже мэр и произнёс короткую речь о преимуществах знания своей настоящей истории, а не удобной."
+    ]
+   ]
+  },
+  {
+   "en": "On the last evening, after everyone had left, Lena stood alone in front of the glass. In it she saw her own reflection, and behind it, the black cross on the old map. For the first time, she felt she knew exactly where she came from.",
+   "ru": "В последний вечер, когда все разошлись, Лена стояла одна перед стеклом. Она видела в нём своё отражение, а за ним — чёрный крестик на старой карте. Впервые она почувствовала, что точно знает, откуда она родом.",
+   "s": [
+    [
+     "On the last evening, after everyone had left, Lena stood alone in front of the glass.",
+     "В последний вечер, когда все разошлись, Лена стояла одна перед стеклом."
+    ],
+    [
+     "In it she saw her own reflection, and behind it, the black cross on the old map.",
+     "Она видела в нём своё отражение, а за ним — чёрный крестик на старой карте."
+    ],
+    [
+     "For the first time, she felt she knew exactly where she came from.",
+     "Впервые она почувствовала, что точно знает, откуда она родом."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(артикль)",
+  "about": "о, про",
+  "accuse": "обвинить",
+  "afraid": "испуганный",
+  "after": "после",
+  "again": "снова",
+  "against": "у, к (стене)",
+  "ago": "назад",
+  "all": "весь, все",
+  "almost": "почти",
+  "alone": "один",
+  "aloud": "вслух",
+  "already": "уже",
+  "always": "всегда",
+  "am": "(есть) я",
+  "an": "(артикль)",
+  "and": "и",
+  "anna": "Анна (имя)",
+  "answered": "ответил",
+  "any": "какой-либо, любой",
+  "anything": "что-либо, ничего",
+  "apartment": "квартира",
+  "are": "(есть)",
+  "as": "как, будто",
+  "ashby": "Эшби (название)",
+  "asked": "спросил, попросил",
+  "at": "в, на, у",
+  "attention": "внимание",
+  "away": "прочь, от",
+  "back": "назад, обратно",
+  "bag": "мешок, сумка",
+  "bear's": "медвежий",
+  "beard": "борода",
+  "beat": "биться",
+  "bed": "кровать",
+  "been": "был",
+  "before": "перед, до",
+  "began": "начиналось",
+  "behind": "за, позади",
+  "believed": "верил",
+  "benefits": "преимущества",
+  "bent": "наклонился",
+  "better": "лучший",
+  "big": "большой",
+  "black": "чёрный",
+  "boards": "доски",
+  "boat": "лодка",
+  "boats": "лодки",
+  "borrowed": "одолжил",
+  "bottom": "низ",
+  "box": "коробка",
+  "boy": "мальчик",
+  "break": "разломиться",
+  "broken": "разбитый",
+  "built": "построил",
+  "bushes": "кусты",
+  "busy": "занята (линия)",
+  "but": "но",
+  "by": "на, у, кем",
+  "called": "по имени, позвонила",
+  "calm": "спокойный",
+  "came": "пришёл, приехал",
+  "canada": "Канада",
+  "carefully": "осторожно",
+  "carried": "нёс, перевёз",
+  "carry": "нести",
+  "cave": "пещера",
+  "center": "центр",
+  "changed": "изменился, сменили",
+  "children": "дети",
+  "choice": "выбор",
+  "circumstances": "обстоятельства",
+  "cleaning": "убирала",
+  "clear": "ясный",
+  "clever": "умный",
+  "clouds": "облака",
+  "coast": "побережье",
+  "coins": "монеты",
+  "cold": "холодный",
+  "come": "приходить, вернуться",
+  "comfortable": "удобный",
+  "compare": "сравнивать",
+  "could": "мог",
+  "couldn't": "не мог",
+  "country": "кантри (музыка)",
+  "course": "курс; of course — конечно",
+  "cousin": "двоюродный брат",
+  "covered": "покрытый",
+  "cried": "плакали",
+  "crime": "преступление",
+  "cross": "крестик; пересечь",
+  "crossed": "пересекали",
+  "crossing": "переправа",
+  "cut": "вырезанный",
+  "date": "дата",
+  "dates": "даты",
+  "day": "день",
+  "dear": "дорогая",
+  "decision": "решение",
+  "did": "(вспом. глагол), сделал",
+  "didn't": "не (прош. вр.)",
+  "difficult": "трудный",
+  "disappeared": "исчез",
+  "discovered": "узнал",
+  "do": "делать, (вспом.)",
+  "dogs": "собаки",
+  "don't": "не",
+  "down": "вниз",
+  "dozens": "десятки",
+  "drawn": "нарисованный",
+  "dry": "сухой",
+  "empty": "пустой",
+  "erie": "Эри (озеро)",
+  "escape": "бежать",
+  "escaped": "бежали",
+  "even": "даже",
+  "evening": "вечер",
+  "ever": "когда-либо",
+  "everybody": "все",
+  "everyone": "все",
+  "everything": "всё",
+  "evidence": "доказательства",
+  "exactly": "точно",
+  "excited": "взволнованный",
+  "exhibition": "выставка",
+  "eyes": "глаза",
+  "faster": "быстрее",
+  "father": "отец",
+  "fell": "упал",
+  "felt": "почувствовала",
+  "few": "несколько",
+  "find": "найти",
+  "fire": "костёр",
+  "first": "первый, впервые",
+  "fisherman": "рыбак",
+  "flashlight": "фонарик",
+  "floor": "пол",
+  "folded": "сложенный",
+  "folder": "папка",
+  "following": "идти по (следу)",
+  "for": "для, в течение",
+  "found": "нашла",
+  "freedom": "свобода",
+  "friend": "друг",
+  "from": "из, от",
+  "front": "in front of — перед",
+  "gift": "подарок",
+  "glass": "стекло",
+  "gold": "золото",
+  "grandfather": "дедушка",
+  "grandfather's": "дедушкин",
+  "grandmother": "бабушка",
+  "grandpa": "дедушка",
+  "great": "большой, отличный",
+  "grew": "стали",
+  "guilty": "виновный",
+  "had": "имел, (вспом.)",
+  "half": "наполовину",
+  "hand": "рука",
+  "harbor": "гавань",
+  "harlan": "Харлан (фамилия)",
+  "harper": "Харпер (фамилия)",
+  "has": "(вспом.), имеет",
+  "have": "иметь, (вспом.)",
+  "he": "он",
+  "head": "голова",
+  "heart": "сердце",
+  "heavier": "тяжелее",
+  "heavy": "тяжёлый",
+  "help": "помочь",
+  "helping": "помогать",
+  "her": "её, ей",
+  "here": "здесь",
+  "hero": "герой",
+  "hid": "спрятал",
+  "hidden": "скрытый",
+  "hide": "прятать",
+  "hiding": "hiding place — укрытие",
+  "him": "его, ему",
+  "his": "его",
+  "history": "история",
+  "hour": "час",
+  "house": "дом",
+  "hundred": "сто",
+  "husband": "муж",
+  "husband's": "мужа",
+  "i": "я",
+  "if": "если",
+  "in": "в",
+  "initials": "инициалы",
+  "inland": "вглубь (острова)",
+  "inside": "внутри",
+  "instead": "вместо",
+  "into": "на, в",
+  "invented": "придумал",
+  "is": "есть, является",
+  "island": "остров",
+  "it": "это, он, она",
+  "it's": "это",
+  "its": "его, её",
+  "keep": "сохранить, держать",
+  "kept": "продолжал",
+  "kind": "вид; a kind of — что-то вроде",
+  "kitchen": "кухня",
+  "knelt": "встал на колени",
+  "knew": "знал",
+  "knife": "нож",
+  "know": "знать",
+  "knowing": "знание",
+  "lack": "недостаток",
+  "lake": "озеро",
+  "large": "большой",
+  "last": "последний; at last — наконец",
+  "later": "позже",
+  "laughed": "засмеялся",
+  "lay": "лежали",
+  "leave": "оставлять",
+  "left": "ушли, вышли из",
+  "legal": "законный",
+  "lena": "Лена (имя)",
+  "letter": "письмо",
+  "letters": "буквы",
+  "lie": "ложь",
+  "life": "жизнь",
+  "like": "как, похожий на",
+  "line": "линия",
+  "listen": "слушать",
+  "little": "немного, маленький",
+  "lived": "жили",
+  "long": "долгий",
+  "look": "смотреть",
+  "looked": "посмотрела",
+  "looking": "looking for — искать",
+  "loose": "шатающийся",
+  "lot": "a lot of — много",
+  "made": "сделал, составил",
+  "man": "мужчина, человек",
+  "many": "много",
+  "map": "карта",
+  "married": "вышла замуж",
+  "maybe": "может быть",
+  "mayor": "мэр",
+  "me": "мне, меня",
+  "memory": "память",
+  "merchant": "купец",
+  "metal": "металлический",
+  "miles": "мили",
+  "minutes": "минуты",
+  "miss": "пропустить",
+  "moment": "момент, миг",
+  "month": "месяц",
+  "more": "больше",
+  "morning": "утро",
+  "motor": "моторный",
+  "moved": "шевельнулось, качал",
+  "moving": "переезжал",
+  "mr": "мистер",
+  "museum": "музей",
+  "music": "музыка",
+  "must": "должен",
+  "my": "мой",
+  "myself": "сам",
+  "name": "имя, фамилия",
+  "names": "имена",
+  "narrow": "узкий",
+  "neither": "ни один",
+  "nervously": "нервно",
+  "never": "никогда",
+  "new": "новый",
+  "next": "следующий; next to — рядом",
+  "night": "ночь",
+  "no": "нет, никакой",
+  "nobody": "никто",
+  "north": "на север",
+  "not": "не",
+  "noticed": "заметила",
+  "now": "теперь",
+  "observe": "наблюдать",
+  "of": "из, о, (родительный падеж)",
+  "off": "выключить (turn off)",
+  "ohio": "Огайо (штат)",
+  "old": "старый",
+  "on": "на",
+  "one": "один",
+  "onto": "на",
+  "opened": "открыл",
+  "opening": "проход",
+  "or": "или",
+  "other": "другой",
+  "our": "наш",
+  "out": "наружу, из",
+  "outside": "снаружи",
+  "own": "собственный",
+  "paper": "бумага",
+  "part": "часть",
+  "people": "люди",
+  "pepper": "перец",
+  "person": "человек",
+  "phone": "телефон, трубка",
+  "picked": "подобрал (picked up)",
+  "piece": "кусок, листок",
+  "pieces": "куски",
+  "place": "место",
+  "plastic": "пластиковый",
+  "plates": "тарелки",
+  "playlist": "плейлист",
+  "pointing": "показывая",
+  "port": "Порт (в названии)",
+  "pot": "котелок",
+  "powder": "порошок",
+  "prison": "тюрьма",
+  "promise": "обещать",
+  "property": "собственность",
+  "pulled": "отодвинули, вытащили",
+  "purpose": "цель",
+  "put": "положил",
+  "quiet": "тихий, молчаливый",
+  "quietly": "тихо",
+  "r": "R (буква)",
+  "railroad": "железная дорога",
+  "reach": "достичь",
+  "read": "читать, прочитала",
+  "ready": "готовый",
+  "real": "настоящий",
+  "recognized": "узнал",
+  "red": "рыжий",
+  "reed": "Рид (фамилия)",
+  "reflection": "отражение",
+  "refrigerator": "холодильник",
+  "remains": "остатки",
+  "repeated": "повторила",
+  "returned": "вернулись",
+  "rich": "богатый",
+  "right": "правильный",
+  "ring": "кольцо",
+  "rock": "скала",
+  "rocky": "каменистый",
+  "rude": "грубый",
+  "rusty": "ржавый",
+  "safe": "безопасный",
+  "said": "сказал",
+  "sam": "Сэм (имя)",
+  "sam's": "Сэма",
+  "same": "тот же",
+  "sandwiches": "бутерброды",
+  "sang": "пели",
+  "sat": "села",
+  "saw": "увидел",
+  "says": "говорит",
+  "scent": "запах, след",
+  "sea": "морской",
+  "see": "видеть",
+  "seem": "казаться",
+  "send": "послать",
+  "seven": "семь",
+  "shaking": "дрожал",
+  "shape": "форма, очертания",
+  "shaped": "в форме",
+  "sharp": "резкий",
+  "she": "она",
+  "shook": "покачал",
+  "shore": "берег",
+  "short": "короткий",
+  "should": "следует, должны",
+  "shovel": "лопата",
+  "show": "показать",
+  "shows": "показывает",
+  "side": "сторона",
+  "silas": "Сайлас (имя)",
+  "silver": "серебряный",
+  "simple": "простой",
+  "sitting": "сидел",
+  "sixty": "шестьдесят",
+  "skill": "умение",
+  "skip": "пропустить",
+  "slavery": "рабство",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smaller": "меньший",
+  "smell": "запах",
+  "smile": "улыбка",
+  "smiled": "улыбнулся",
+  "so": "поэтому",
+  "some": "некоторые, несколько",
+  "someone": "кто-то",
+  "something": "что-то",
+  "song": "песня",
+  "songs": "песни",
+  "sons": "сыновья",
+  "sorry": "жаль",
+  "sounded": "звучал",
+  "south": "юг",
+  "speech": "речь",
+  "start": "начать",
+  "started": "начало",
+  "still": "всё ещё",
+  "stole": "украл",
+  "stolen": "украл",
+  "stone": "камень",
+  "stones": "камни",
+  "stood": "стояла",
+  "stop": "остановка; помешать",
+  "stories": "истории",
+  "story": "история",
+  "strange": "странный",
+  "suddenly": "внезапно",
+  "suppose": "предполагать",
+  "surface": "поверхность",
+  "surprised": "удивлённый",
+  "surprisingly": "неожиданно",
+  "t": "T (буква)",
+  "tall": "высокий",
+  "taught": "научил",
+  "ten": "десять",
+  "than": "чем",
+  "that": "что, тот, этот",
+  "the": "(артикль)",
+  "their": "их",
+  "them": "их, им",
+  "then": "тогда, потом",
+  "there": "там",
+  "they": "они",
+  "thief": "вор",
+  "thin": "тонкий",
+  "thing": "вещь",
+  "think": "думать",
+  "this": "этот",
+  "thomas": "Томас (имя)",
+  "thought": "думал",
+  "time": "время, раз",
+  "times": "раз",
+  "tiny": "крошечный",
+  "to": "к, в, (частица)",
+  "told": "сказал",
+  "tonight": "сегодня ночью",
+  "took": "заняло (время)",
+  "touched": "потрогал",
+  "touching": "трогательный",
+  "town": "город",
+  "treated": "относился",
+  "trees": "деревья",
+  "tried": "попробовала",
+  "trip": "поездка",
+  "true": "правдивый",
+  "truth": "правда",
+  "turned": "включила, выключила",
+  "twenty": "двадцать",
+  "two": "два",
+  "under": "под",
+  "underground": "подземный",
+  "understand": "понять",
+  "understood": "поняла",
+  "up": "вверх",
+  "used": "использовали; used to — раньше",
+  "using": "используя",
+  "victim": "жертва",
+  "voice": "голос",
+  "waiting": "ждать",
+  "walked": "пошли",
+  "wall": "стена",
+  "wanted": "хотела",
+  "wants": "хочет",
+  "war": "война",
+  "was": "был",
+  "wasn't": "не был",
+  "water": "вода",
+  "we": "мы",
+  "wedding": "свадьба",
+  "week": "неделя",
+  "went": "пошла",
+  "were": "были",
+  "what": "что",
+  "what's": "что это",
+  "when": "когда",
+  "where": "где, откуда",
+  "while": "некоторое время",
+  "whispered": "прошептал",
+  "white": "белый",
+  "who": "кто",
+  "whole": "весь",
+  "why": "почему",
+  "wide": "широкий",
+  "will": "(буд. вр.)",
+  "wind": "ветер",
+  "with": "с",
+  "woman": "женщина",
+  "wood": "дерево (материал)",
+  "wooden": "деревянный",
+  "work": "работать",
+  "worked": "работал",
+  "worse": "хуже",
+  "would": "бы, (буд. в прош.)",
+  "years": "годы, лет",
+  "yellow": "жёлтый",
+  "you": "ты, вы",
+  "you're": "ты",
+  "young": "молодой",
+  "your": "твой, свой",
+  "yours": "твой"
+ },
+ "vocab": {
+  "playlist": 10,
+  "suddenly": 30,
+  "gift": 50,
+  "excited": 70,
+  "beard": 90,
+  "boat": 110,
+  "refrigerator": 130,
+  "carry": 150,
+  "carried": 150,
+  "clever": 170,
+  "boards": 190,
+  "anything": 211,
+  "skill": 231,
+  "busy": 251,
+  "attention": 271,
+  "safe": 292,
+  "touching": 312,
+  "wedding": 332,
+  "observe": 352,
+  "freedom": 372,
+  "treated": 393,
+  "decision": 420,
+  "suppose": 442,
+  "skip": 470,
+  "guilty": 492,
+  "purpose": 513,
+  "reflection": 534,
+  "circumstances": 555,
+  "benefits": 576,
+  "pepper": 597,
+  "lack": 618,
+  "victim": 640
+ }
+}

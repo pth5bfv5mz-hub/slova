@@ -1,0 +1,50 @@
+[
+ {
+  "q": "Where did the murders of 1888 take place?",
+  "q_ru": "Где произошли убийства 1888 года?",
+  "options": ["In the centre of Liverpool", "In Whitechapel, a poor district of London", "In a rich area near a royal palace", "In a small village outside London"],
+  "options_ru": ["В центре Ливерпуля", "В Уайтчепеле, бедном районе Лондона", "В богатом районе рядом с королевским дворцом", "В маленькой деревне под Лондоном"],
+  "answer": 1,
+  "explain_ru": "В тексте: «Whitechapel, the district where Nichols was killed, was one of the poorest parts of London»."
+ },
+ {
+  "q": "Where did the name \"Jack the Ripper\" first appear?",
+  "q_ru": "Где впервые появилось имя «Джек-потрошитель»?",
+  "options": ["In Macnaghten's police report of 1894", "In Kosminski's hospital records", "In the \"From Hell\" letter to George Lusk", "In a letter that police officers thought a journalist wrote"],
+  "options_ru": ["В полицейской записке Макнотена 1894 года", "В больничных записях Косминского", "В письме «Из ада», присланном Джорджу Ласку", "В письме, которое, по мнению полицейских, написал журналист"],
+  "answer": 3,
+  "explain_ru": "Письмо «Dear Boss» было подписано «Jack the Ripper»; несколько высокопоставленных полицейских позже говорили, что его написал журналист, чтобы продать больше газет."
+ },
+ {
+  "q": "What did George Lusk receive in October 1888?",
+  "q_ru": "Что получил Джордж Ласк в октябре 1888 года?",
+  "options": ["Half of a human kidney and a short letter", "A piece of Catherine Eddowes's apron", "A photograph of the killer", "A silk shawl from Mitre Square"],
+  "options_ru": ["Половину человеческой почки и короткое письмо", "Кусок фартука Кэтрин Эддоус", "Фотографию убийцы", "Шёлковую шаль с Митр-сквер"],
+  "answer": 0,
+  "explain_ru": "В коробке была половина почки в спирте и письмо, начинавшееся словами «From hell». Доказать, что почка принадлежала Эддоус, не смогли."
+ },
+ {
+  "q": "Why is Aaron Kosminski taken seriously as a suspect?",
+  "q_ru": "Почему Аарона Косминского воспринимают как серьёзного подозреваемого?",
+  "options": ["He confessed to the murders in the asylum", "His fingerprints were found at a crime scene", "Senior police officers named him in their notes and memoirs", "He was arrested at the scene of a murder"],
+  "options_ru": ["Он признался в убийствах в лечебнице", "Его отпечатки пальцев нашли на месте преступления", "Высокопоставленные полицейские назвали его в своих записях и мемуарах", "Его арестовали на месте убийства"],
+  "answer": 2,
+  "explain_ru": "Его называли Макнотен, Андерсон (косвенно) и Суонсон, но какие у них были доказательства, неизвестно. Отпечатки пальцев Скотланд-Ярд начал использовать только в 1901 году."
+ },
+ {
+  "q": "What is the main scientific problem with the DNA from the shawl?",
+  "q_ru": "В чём главная научная проблема с ДНК с шали?",
+  "options": ["No DNA at all was found on it", "The tests were done only in 1888", "The shawl was destroyed before the tests", "Mitochondrial DNA is shared by many people, so it cannot identify one person"],
+  "options_ru": ["На ней вообще не нашли ДНК", "Анализы делали только в 1888 году", "Шаль уничтожили до анализов", "Митохондриальная ДНК общая у многих людей, поэтому не может указать на одного человека"],
+  "answer": 3,
+  "explain_ru": "Митохондриальная ДНК передаётся от матери и может быть общей у тысяч людей: она может исключить человека, но не доказать, что это был именно он."
+ },
+ {
+  "q": "What is the honest conclusion of the article?",
+  "q_ru": "Каков честный вывод статьи?",
+  "options": ["DNA has proved that Kosminski was the killer", "The killer's identity is still unknown", "The royal doctor William Gull was the killer", "James Maybrick's diary solved the case"],
+  "options_ru": ["ДНК доказала, что убийцей был Косминский", "Личность убийцы до сих пор неизвестна", "Убийцей был королевский врач Уильям Галл", "Дневник Джеймса Мейбрика раскрыл дело"],
+  "answer": 1,
+  "explain_ru": "Косминский остаётся одним из главных подозреваемых, но шаль не решает вопрос, а имя убийцы «по-прежнему остаётся загадкой»."
+ }
+]

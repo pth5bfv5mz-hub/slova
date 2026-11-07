@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did the message from Lumen Care worry Vera?",
+  "q_ru": "Почему сообщение от Lumen Care встревожило Веру?",
+  "options": [
+   "She had forgotten to pay for her implant.",
+   "She had never agreed to any memory review.",
+   "It said her last hacking job had failed.",
+   "It came from her client, who knew her name."
+  ],
+  "options_ru": [
+   "Она забыла заплатить за имплант.",
+   "Она никогда не соглашалась ни на какую проверку памяти.",
+   "В нём говорилось, что её последняя хакерская работа провалилась.",
+   "Оно пришло от клиента, который знал её имя."
+  ],
+  "answer": 1,
+  "explain_ru": "Вера никогда не была клиенткой Lumen Care: «She had never accepted any review of her memories». Значит, кто-то побывал у неё в голове."
+ },
+ {
+  "q": "What did Vera find strange in her implant's log?",
+  "q_ru": "Что странного Вера нашла в журнале своего импланта?",
+  "options": [
+   "It showed hundreds of changes every night.",
+   "It belonged to her brother, not to her.",
+   "It had no entries for the night of the collapse.",
+   "It was written in a language she didn't know."
+  ],
+  "options_ru": [
+   "В нём были сотни изменений каждую ночь.",
+   "Он принадлежал её брату, а не ей.",
+   "В нём не было записей за ночь обрушения.",
+   "Он был написан на незнакомом ей языке."
+  ],
+  "answer": 2,
+  "explain_ru": "Журнал был «too clean»: «There were no entries at all for the night of the fourteenth of March» — ночь, когда рухнула башня Meridian."
+ },
+ {
+  "q": "How did Vera prove that her memory of the collapse was false?",
+  "q_ru": "Как Вера доказала, что её воспоминание об обрушении ложное?",
+  "options": [
+   "She compared it with the city's public records.",
+   "She asked Tomas's friends what they remembered.",
+   "She visited the place where the tower stood.",
+   "She paid Lumen Care to check her memories."
+  ],
+  "options_ru": [
+   "Сравнила его с открытыми записями города.",
+   "Спросила друзей Томаса, что они помнят.",
+   "Пошла на место, где стояла башня.",
+   "Заплатила Lumen Care за проверку памяти."
+  ],
+  "answer": 0,
+  "explain_ru": "Она написала программу, которая сравнила её воспоминания с «the city's public records»: в записях диктор был мужчиной, а небо — ясным, без дождя."
+ },
+ {
+  "q": "The video says the edit is 'an amazing lie' that 'almost makes sense'. What was the lie?",
+  "q_ru": "В видео говорится, что правка — «удивительная ложь», которая «почти имеет смысл». В чём была ложь?",
+  "options": [
+   "That Vera had never been a hacker.",
+   "That the tower was destroyed by a storm.",
+   "That Vera had lost her job that night.",
+   "That Tomas died when the tower fell."
+  ],
+  "options_ru": [
+   "Что Вера никогда не была хакером.",
+   "Что башню разрушил шторм.",
+   "Что Вера в ту ночь потеряла работу.",
+   "Что Томас погиб при падении башни."
+  ],
+  "answer": 3,
+  "explain_ru": "Томас договорился, чтобы Вера забыла о своей вине и верила, что он мёртв: «We would believe he was dead, so we'd never try to find him»."
+ },
+ {
+  "q": "Why did Tomas pay for Vera's memory to be edited again and again?",
+  "q_ru": "Почему Томас снова и снова платил за правку памяти Веры?",
+  "options": [
+   "He wanted to keep her safe from the real criminals.",
+   "He wanted to take her money and her flat.",
+   "The government ordered him to do it.",
+   "He was angry with her and wanted revenge."
+  ],
+  "options_ru": [
+   "Хотел защитить её от настоящих преступников.",
+   "Хотел забрать её деньги и квартиру.",
+   "Ему это приказало правительство.",
+   "Злился на неё и хотел отомстить."
+  ],
+  "answer": 0,
+  "explain_ru": "Томас говорит: «It was the only way I could manage to keep you safe… They would have killed you» — каждый раз, узнав правду, Вера хотела идти против них."
+ },
+ {
+  "q": "How does the story end?",
+  "q_ru": "Чем заканчивается рассказ?",
+  "options": [
+   "Vera deletes the video and accepts the next review.",
+   "Vera finds Tomas and sends the truth to journalists.",
+   "Tomas goes to the police and is arrested.",
+   "Vera and Tomas leave the city together in secret."
+  ],
+  "options_ru": [
+   "Вера удаляет видео и соглашается на следующую проверку.",
+   "Вера находит Томаса и отправляет правду журналистам.",
+   "Томас идёт в полицию, и его арестовывают.",
+   "Вера и Томас тайно уезжают из города вместе."
+  ],
+  "answer": 1,
+  "explain_ru": "Вера отменила проверку, пришла к Томасу и отправила все записи «to five journalists and to a lawyer»: «this time I'm not going to forget»."
+ }
+]

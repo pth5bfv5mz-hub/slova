@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did Kit climb into Mr Strand's garage?",
+  "q_ru": "Зачем Кит залез в гараж мистера Стрэнда?",
+  "options": [
+   "To steal expensive tools",
+   "To hide from the police",
+   "To look at the old car",
+   "To find his father's jacket"
+  ],
+  "options_ru": [
+   "Чтобы украсть дорогие инструменты",
+   "Чтобы спрятаться от полиции",
+   "Чтобы посмотреть на старую машину",
+   "Чтобы найти куртку отца"
+  ],
+  "answer": 0,
+  "explain_ru": "Мальчик из школы сказал ему, что «there were expensive tools in the garage», и Кит складывал коробку с инструментами в сумку."
+ },
+ {
+  "q": "What deal did Mr Strand offer Kit?",
+  "q_ru": "Какую сделку мистер Стрэнд предложил Киту?",
+  "options": [
+   "Pay for the tools and leave",
+   "Come to his chemistry lessons",
+   "Help him fix the car every Saturday until Christmas",
+   "Work in the corner shop"
+  ],
+  "options_ru": [
+   "Заплатить за инструменты и уйти",
+   "Ходить к нему на уроки химии",
+   "Помогать ему чинить машину каждую субботу до Рождества",
+   "Работать в магазине на углу"
+  ],
+  "answer": 2,
+  "explain_ru": "«Every Saturday until Christmas, Kit would come and help him fix the car». Иначе он опишет Кита полиции."
+ },
+ {
+  "q": "Kit \"had never been good at conveying his feelings in words\". What does \"conveying\" mean?",
+  "q_ru": "Кит «had never been good at conveying his feelings in words». Что значит «conveying»?",
+  "options": [
+   "hiding",
+   "forgetting",
+   "understanding",
+   "expressing"
+  ],
+  "options_ru": [
+   "скрывать",
+   "забывать",
+   "понимать",
+   "выражать, передавать"
+  ],
+  "answer": 3,
+  "explain_ru": "Convey — передавать, выражать. Кит говорил мало, но чувства показывал делом: «But he kept coming»."
+ },
+ {
+  "q": "How did Mr Strand help Kit when the police came?",
+  "q_ru": "Как мистер Стрэнд помог Киту, когда пришла полиция?",
+  "options": [
+   "He paid for the damage to the shop",
+   "He went to the police station and confirmed Kit's story",
+   "He found the real thief himself",
+   "He hid Kit in the garage"
+  ],
+  "options_ru": [
+   "Заплатил за ущерб магазину",
+   "Пришёл в полицию и подтвердил слова Кита",
+   "Сам нашёл настоящего вора",
+   "Спрятал Кита в гараже"
+  ],
+  "answer": 1,
+  "explain_ru": "Он пришёл в участок «on his bad knees, in his best hat» и сказал: «That boy is not lying». Настоящего вора поймали на следующий день."
+ },
+ {
+  "q": "Who was \"R.D. 1994\"?",
+  "q_ru": "Кто такой «R.D. 1994»?",
+  "options": [
+   "Mr Strand's late wife",
+   "A famous racing driver",
+   "Kit's father, Rafe Darrow",
+   "A chemistry student who stole the car"
+  ],
+  "options_ru": [
+   "Покойная жена мистера Стрэнда",
+   "Знаменитый гонщик",
+   "Отец Кита, Рейф Дарроу",
+   "Ученик-химик, который угнал машину"
+  ],
+  "answer": 2,
+  "explain_ru": "На фото — подросток в той же кожаной куртке: «Rafe Darrow... He broke into this garage too, the summer he was sixteen». Это отец Кита."
+ },
+ {
+  "q": "What did Mr Strand give Kit at the end, and on what condition?",
+  "q_ru": "Что мистер Стрэнд подарил Киту в конце и с каким условием?",
+  "options": [
+   "His red pen, if Kit becomes a teacher",
+   "The car, if the first trip is to the sea with him",
+   "His old tools, if Kit opens a shop",
+   "The photo, if Kit passes his chemistry exam"
+  ],
+  "options_ru": [
+   "Свою красную ручку, если Кит станет учителем",
+   "Машину, если первая поездка будет к морю вместе с ним",
+   "Старые инструменты, если Кит откроет мастерскую",
+   "Фотографию, если Кит сдаст химию"
+  ],
+  "answer": 1,
+  "explain_ru": "«She's yours when you pass your driving test... The first trip is to the sea, and I sit in the front». В апреле они поехали на «Ведьме»."
+ }
+]

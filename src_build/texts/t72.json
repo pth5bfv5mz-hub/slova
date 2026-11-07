@@ -1,0 +1,1279 @@
+{
+ "id": 72,
+ "level": "B1",
+ "cat": "cons",
+ "title_en": "The Book Nobody Can Read: The Voynich Manuscript",
+ "title_ru": "Книга, которую никто не может прочитать: рукопись Войнича",
+ "genre": "Конспирология: загадка",
+ "summary_ru": "Шестьсот лет назад кто-то аккуратно исписал двести с лишним страниц неизвестными буквами и нарисовал странные растения и купающихся женщин — радиоуглеродный анализ подтвердил возраст книги, но ни взломщики кодов, ни компьютеры до сих пор не смогли её прочитать.",
+ "paragraphs": [
+  {
+   "en": "Imagine opening an old book and finding page after page of neat, careful handwriting that nobody in the world can read. The letters look elegant and confident, as if the writer knew exactly what they were doing. Between the lines there are pictures of strange plants, circles of stars and small naked women bathing in green pools. This book is real. It is kept in a library at Yale University in the United States, and for more than a hundred years it has defeated some of the best code-breakers in history.",
+   "ru": "Представьте, что вы открываете старую книгу и видите страницу за страницей аккуратного, тщательного почерка, который никто в мире не может прочитать. Буквы выглядят изящными и уверенными, словно автор точно знал, что делает. Между строк — рисунки странных растений, круги из звёзд и маленькие обнажённые женщины, купающиеся в зелёных бассейнах. Эта книга существует на самом деле. Она хранится в библиотеке Йельского университета в США, и уже больше ста лет она побеждает некоторых из лучших взломщиков кодов в истории.",
+   "s": [
+    [
+     "Imagine opening an old book and finding page after page of neat, careful handwriting that nobody in the world can read.",
+     "Представьте, что вы открываете старую книгу и видите страницу за страницей аккуратного, тщательного почерка, который никто в мире не может прочитать."
+    ],
+    [
+     "The letters look elegant and confident, as if the writer knew exactly what they were doing.",
+     "Буквы выглядят изящными и уверенными, словно автор точно знал, что делает."
+    ],
+    [
+     "Between the lines there are pictures of strange plants, circles of stars and small naked women bathing in green pools.",
+     "Между строк — рисунки странных растений, круги из звёзд и маленькие обнажённые женщины, купающиеся в зелёных бассейнах."
+    ],
+    [
+     "This book is real.",
+     "Эта книга существует на самом деле."
+    ],
+    [
+     "It is kept in a library at Yale University in the United States, and for more than a hundred years it has defeated some of the best code-breakers in history.",
+     "Она хранится в библиотеке Йельского университета в США, и уже больше ста лет она побеждает некоторых из лучших взломщиков кодов в истории."
+    ]
+   ]
+  },
+  {
+   "en": "It is called the Voynich manuscript, and it is often described as the most mysterious book in the world. A manuscript is a book written by hand. This one has about 240 pages made of vellum, a thin material prepared from animal skin, and it is not much bigger than a modern paperback. Nobody knows who wrote it, in what language, or why.",
+   "ru": "Она называется рукописью Войнича, и её часто называют самой загадочной книгой в мире. Рукопись — это книга, написанная от руки. В этой около 240 страниц из пергамента (веллума) — тонкого материала, сделанного из кожи животных, и она ненамного больше современной книги в мягкой обложке. Никто не знает, кто её написал, на каком языке и зачем.",
+   "s": [
+    [
+     "It is called the Voynich manuscript, and it is often described as the most mysterious book in the world.",
+     "Она называется рукописью Войнича, и её часто называют самой загадочной книгой в мире."
+    ],
+    [
+     "A manuscript is a book written by hand.",
+     "Рукопись — это книга, написанная от руки."
+    ],
+    [
+     "This one has about 240 pages made of vellum, a thin material prepared from animal skin, and it is not much bigger than a modern paperback.",
+     "В этой около 240 страниц из пергамента (веллума) — тонкого материала, сделанного из кожи животных, и она ненамного больше современной книги в мягкой обложке."
+    ],
+    [
+     "Nobody knows who wrote it, in what language, or why.",
+     "Никто не знает, кто её написал, на каком языке и зачем."
+    ]
+   ]
+  },
+  {
+   "en": "The book takes its name from Wilfrid Voynich, a book dealer with an unusual past. He was born in 1865 in the Russian Empire, in what is now Lithuania, and as a young man he took part in the Polish revolutionary movement. He was arrested and sent to Siberia, but he escaped and arrived in London in 1890. His wife, Ethel Lilian Voynich, became a writer, and her novel The Gadfly was later extremely popular in the Soviet Union.",
+   "ru": "Книга получила своё название по имени Вилфрида Войнича, торговца книгами с необычным прошлым. Он родился в 1865 году в Российской империи, на территории нынешней Литвы, и в молодости участвовал в польском революционном движении. Его арестовали и отправили в Сибирь, но он бежал и в 1890 году прибыл в Лондон. Его жена, Этель Лилиан Войнич, стала писательницей, и её роман «Овод» позже был чрезвычайно популярен в Советском Союзе.",
+   "s": [
+    [
+     "The book takes its name from Wilfrid Voynich, a book dealer with an unusual past.",
+     "Книга получила своё название по имени Вилфрида Войнича, торговца книгами с необычным прошлым."
+    ],
+    [
+     "He was born in 1865 in the Russian Empire, in what is now Lithuania, and as a young man he took part in the Polish revolutionary movement.",
+     "Он родился в 1865 году в Российской империи, на территории нынешней Литвы, и в молодости участвовал в польском революционном движении."
+    ],
+    [
+     "He was arrested and sent to Siberia, but he escaped and arrived in London in 1890.",
+     "Его арестовали и отправили в Сибирь, но он бежал и в 1890 году прибыл в Лондон."
+    ],
+    [
+     "His wife, Ethel Lilian Voynich, became a writer, and her novel The Gadfly was later extremely popular in the Soviet Union.",
+     "Его жена, Этель Лилиан Войнич, стала писательницей, и её роман «Овод» позже был чрезвычайно популярен в Советском Союзе."
+    ]
+   ]
+  },
+  {
+   "en": "In 1912, Voynich bought a group of old books from the Jesuits, a Catholic religious order, who were selling part of a collection kept at the Villa Mondragone near Rome. Among them was a small book that seems to have fascinated him immediately. At first sight it looked like a medieval book about plants and medicine, but the text was written in a script that Voynich had never seen before. He spent the rest of his life trying to discover its secret.",
+   "ru": "В 1912 году Войнич купил партию старых книг у иезуитов — католического монашеского ордена, — которые продавали часть собрания, хранившегося на вилле Мондрагоне под Римом. Среди них была небольшая книга, которая, похоже, сразу же его заворожила. На первый взгляд она походила на средневековую книгу о растениях и медицине, но текст был написан письмом, которого Войнич никогда раньше не видел. Он провёл остаток жизни, пытаясь раскрыть её тайну.",
+   "s": [
+    [
+     "In 1912, Voynich bought a group of old books from the Jesuits, a Catholic religious order, who were selling part of a collection kept at the Villa Mondragone near Rome.",
+     "В 1912 году Войнич купил партию старых книг у иезуитов — католического монашеского ордена, — которые продавали часть собрания, хранившегося на вилле Мондрагоне под Римом."
+    ],
+    [
+     "Among them was a small book that seems to have fascinated him immediately.",
+     "Среди них была небольшая книга, которая, похоже, сразу же его заворожила."
+    ],
+    [
+     "At first sight it looked like a medieval book about plants and medicine, but the text was written in a script that Voynich had never seen before.",
+     "На первый взгляд она походила на средневековую книгу о растениях и медицине, но текст был написан письмом, которого Войнич никогда раньше не видел."
+    ],
+    [
+     "He spent the rest of his life trying to discover its secret.",
+     "Он провёл остаток жизни, пытаясь раскрыть её тайну."
+    ]
+   ]
+  },
+  {
+   "en": "The pictures give us the only clues to what the book might be about. Researchers usually divide it into several sections. The largest part shows plants, usually one on each page, with text around them, like an old herbal, a book about the medical benefits of plants. However, most of these plants do not match any real species with certainty. Some look like combinations of different plants, as if the artist had joined the roots of one plant to the leaves of another.",
+   "ru": "Рисунки дают нам единственные подсказки о том, чему может быть посвящена книга. Исследователи обычно делят её на несколько разделов. Самая большая часть изображает растения, обычно по одному на странице, с текстом вокруг, как в старом травнике — книге о лечебной пользе растений. Однако большинство этих растений нельзя с уверенностью сопоставить ни с одним настоящим видом. Некоторые выглядят как сочетания разных растений, словно художник соединил корни одного растения с листьями другого.",
+   "s": [
+    [
+     "The pictures give us the only clues to what the book might be about.",
+     "Рисунки дают нам единственные подсказки о том, чему может быть посвящена книга."
+    ],
+    [
+     "Researchers usually divide it into several sections.",
+     "Исследователи обычно делят её на несколько разделов."
+    ],
+    [
+     "The largest part shows plants, usually one on each page, with text around them, like an old herbal, a book about the medical benefits of plants.",
+     "Самая большая часть изображает растения, обычно по одному на странице, с текстом вокруг, как в старом травнике — книге о лечебной пользе растений."
+    ],
+    [
+     "However, most of these plants do not match any real species with certainty.",
+     "Однако большинство этих растений нельзя с уверенностью сопоставить ни с одним настоящим видом."
+    ],
+    [
+     "Some look like combinations of different plants, as if the artist had joined the roots of one plant to the leaves of another.",
+     "Некоторые выглядят как сочетания разных растений, словно художник соединил корни одного растения с листьями другого."
+    ]
+   ]
+  },
+  {
+   "en": "Other sections are even stranger. There are circular diagrams with suns, moons and stars, and some of them include signs of the zodiac, such as fish for Pisces and a bull for Taurus. In another section, small naked women stand or sit in pools of blue or green liquid, connected by tubes that look a little like pipes or parts of a body. There are pages with jars that look like containers from a pharmacy, and the book ends with many short paragraphs, each marked with a small star.",
+   "ru": "Другие разделы ещё более странные. Там есть круглые схемы с солнцами, лунами и звёздами, а на некоторых из них — знаки зодиака, например рыбы для Рыб и бык для Тельца. В другом разделе маленькие обнажённые женщины стоят или сидят в бассейнах с синей или зелёной жидкостью, соединённых трубками, которые немного похожи на трубы или части тела. Есть страницы с сосудами, похожими на аптечные банки, а заканчивается книга множеством коротких абзацев, каждый из которых отмечен маленькой звёздочкой.",
+   "s": [
+    [
+     "Other sections are even stranger.",
+     "Другие разделы ещё более странные."
+    ],
+    [
+     "There are circular diagrams with suns, moons and stars, and some of them include signs of the zodiac, such as fish for Pisces and a bull for Taurus.",
+     "Там есть круглые схемы с солнцами, лунами и звёздами, а на некоторых из них — знаки зодиака, например рыбы для Рыб и бык для Тельца."
+    ],
+    [
+     "In another section, small naked women stand or sit in pools of blue or green liquid, connected by tubes that look a little like pipes or parts of a body.",
+     "В другом разделе маленькие обнажённые женщины стоят или сидят в бассейнах с синей или зелёной жидкостью, соединённых трубками, которые немного похожи на трубы или части тела."
+    ],
+    [
+     "There are pages with jars that look like containers from a pharmacy, and the book ends with many short paragraphs, each marked with a small star.",
+     "Есть страницы с сосудами, похожими на аптечные банки, а заканчивается книга множеством коротких абзацев, каждый из которых отмечен маленькой звёздочкой."
+    ]
+   ]
+  },
+  {
+   "en": "The writing itself is just as puzzling. The text contains tens of thousands of words written with about twenty to thirty different symbols, depending on how scholars count them. Some symbols look a little like Latin letters or numbers, but most do not belong to any known alphabet. The writing flows smoothly, with very few visible corrections, which suggests that the writers were not nervous or unsure.",
+   "ru": "Само письмо не менее загадочно. Текст содержит десятки тысяч слов, написанных примерно двадцатью–тридцатью различными знаками, в зависимости от того, как учёные их считают. Некоторые знаки немного похожи на латинские буквы или цифры, но большинство не относится ни к одному известному алфавиту. Письмо течёт плавно, видимых исправлений очень мало, а это говорит о том, что писавшие не нервничали и не сомневались.",
+   "s": [
+    [
+     "The writing itself is just as puzzling.",
+     "Само письмо не менее загадочно."
+    ],
+    [
+     "The text contains tens of thousands of words written with about twenty to thirty different symbols, depending on how scholars count them.",
+     "Текст содержит десятки тысяч слов, написанных примерно двадцатью–тридцатью различными знаками, в зависимости от того, как учёные их считают."
+    ],
+    [
+     "Some symbols look a little like Latin letters or numbers, but most do not belong to any known alphabet.",
+     "Некоторые знаки немного похожи на латинские буквы или цифры, но большинство не относится ни к одному известному алфавиту."
+    ],
+    [
+     "The writing flows smoothly, with very few visible corrections, which suggests that the writers were not nervous or unsure.",
+     "Письмо течёт плавно, видимых исправлений очень мало, а это говорит о том, что писавшие не нервничали и не сомневались."
+    ]
+   ]
+  },
+  {
+   "en": "Where was the book before 1912? A letter that Voynich found with the book gives part of the answer. It was written in the 1660s by Johannes Marcus Marci, a doctor and scholar in Prague, and sent with the book to Athanasius Kircher, a famous Jesuit scholar in Rome who claimed that he could read ancient Egyptian writing. In the letter, Marci wrote that he had been told the book had once belonged to the Holy Roman Emperor Rudolf II, who had paid 600 gold coins, called ducats, for it.",
+   "ru": "Где находилась книга до 1912 года? Письмо, которое Войнич нашёл вместе с книгой, даёт часть ответа. Его написал в 1660-х годах Иоганн Марк Марци, врач и учёный из Праги, и отправил вместе с книгой Афанасию Кирхеру, знаменитому учёному-иезуиту в Риме, который утверждал, что умеет читать древнеегипетское письмо. В письме Марци сообщал, что ему рассказали, будто книга когда-то принадлежала императору Священной Римской империи Рудольфу II, который заплатил за неё 600 золотых монет — дукатов.",
+   "s": [
+    [
+     "Where was the book before 1912?",
+     "Где находилась книга до 1912 года?"
+    ],
+    [
+     "A letter that Voynich found with the book gives part of the answer.",
+     "Письмо, которое Войнич нашёл вместе с книгой, даёт часть ответа."
+    ],
+    [
+     "It was written in the 1660s by Johannes Marcus Marci, a doctor and scholar in Prague, and sent with the book to Athanasius Kircher, a famous Jesuit scholar in Rome who claimed that he could read ancient Egyptian writing.",
+     "Его написал в 1660-х годах Иоганн Марк Марци, врач и учёный из Праги, и отправил вместе с книгой Афанасию Кирхеру, знаменитому учёному-иезуиту в Риме, который утверждал, что умеет читать древнеегипетское письмо."
+    ],
+    [
+     "In the letter, Marci wrote that he had been told the book had once belonged to the Holy Roman Emperor Rudolf II, who had paid 600 gold coins, called ducats, for it.",
+     "В письме Марци сообщал, что ему рассказали, будто книга когда-то принадлежала императору Священной Римской империи Рудольфу II, который заплатил за неё 600 золотых монет — дукатов."
+    ]
+   ]
+  },
+  {
+   "en": "Rudolf II, who ruled from Prague around 1600, was known for his love of strange objects, art, alchemy and astrology, so the story is believable. It is also supported by another clue. On the first page, a faint signature can be seen under ultraviolet light: it belongs to Jacobus Horcicky de Tepenec, a chemist who worked for Rudolf. Marci also wrote that some people believed the author was Roger Bacon, an English monk and scientist who had lived in the thirteenth century.",
+   "ru": "Рудольф II, правивший из Праги около 1600 года, был известен любовью к странным предметам, искусству, алхимии и астрологии, так что эта история правдоподобна. Её подтверждает и ещё одна подсказка. На первой странице в ультрафиолетовом свете можно разглядеть бледную подпись: она принадлежит Якубу Горчицкому из Тепенеца, химику, который работал на Рудольфа. Марци также писал, что некоторые считали автором Роджера Бэкона, английского монаха и учёного, жившего в XIII веке.",
+   "s": [
+    [
+     "Rudolf II, who ruled from Prague around 1600, was known for his love of strange objects, art, alchemy and astrology, so the story is believable.",
+     "Рудольф II, правивший из Праги около 1600 года, был известен любовью к странным предметам, искусству, алхимии и астрологии, так что эта история правдоподобна."
+    ],
+    [
+     "It is also supported by another clue.",
+     "Её подтверждает и ещё одна подсказка."
+    ],
+    [
+     "On the first page, a faint signature can be seen under ultraviolet light: it belongs to Jacobus Horcicky de Tepenec, a chemist who worked for Rudolf.",
+     "На первой странице в ультрафиолетовом свете можно разглядеть бледную подпись: она принадлежит Якубу Горчицкому из Тепенеца, химику, который работал на Рудольфа."
+    ],
+    [
+     "Marci also wrote that some people believed the author was Roger Bacon, an English monk and scientist who had lived in the thirteenth century.",
+     "Марци также писал, что некоторые считали автором Роджера Бэкона, английского монаха и учёного, жившего в XIII веке."
+    ]
+   ]
+  },
+  {
+   "en": "Before Marci, the book belonged to a Prague alchemist, Georg Baresch, who had also written to Kircher for help. Its path after that is not completely clear, but it probably stayed in Jesuit libraries in Rome until Voynich bought it.",
+   "ru": "До Марци книга принадлежала пражскому алхимику Георгу Барешу, который тоже писал Кирхеру с просьбой о помощи. Её дальнейший путь не вполне ясен, но, вероятно, она оставалась в иезуитских библиотеках Рима, пока её не купил Войнич.",
+   "s": [
+    [
+     "Before Marci, the book belonged to a Prague alchemist, Georg Baresch, who had also written to Kircher for help.",
+     "До Марци книга принадлежала пражскому алхимику Георгу Барешу, который тоже писал Кирхеру с просьбой о помощи."
+    ],
+    [
+     "Its path after that is not completely clear, but it probably stayed in Jesuit libraries in Rome until Voynich bought it.",
+     "Её дальнейший путь не вполне ясен, но, вероятно, она оставалась в иезуитских библиотеках Рима, пока её не купил Войнич."
+    ]
+   ]
+  },
+  {
+   "en": "The idea that Roger Bacon was the author attracted Voynich, and it led to the first famous attempt to solve the mystery. In 1921, William Romaine Newbold, a professor at the University of Pennsylvania, announced that he had cracked the code. He claimed that each visible letter was made of tiny marks, like an ancient form of shorthand, which could only be seen with a magnifying glass. According to Newbold, the book showed that Bacon had used a microscope and a telescope centuries before they were invented.",
+   "ru": "Мысль о том, что автором был Роджер Бэкон, увлекла Войнича, и она привела к первой знаменитой попытке разгадать тайну. В 1921 году Уильям Ромейн Ньюболд, профессор Пенсильванского университета, объявил, что взломал код. Он утверждал, что каждая видимая буква состоит из крошечных чёрточек, похожих на древнюю стенографию, которые можно разглядеть только через увеличительное стекло. По словам Ньюболда, книга показывала, что Бэкон пользовался микроскопом и телескопом за столетия до их изобретения.",
+   "s": [
+    [
+     "The idea that Roger Bacon was the author attracted Voynich, and it led to the first famous attempt to solve the mystery.",
+     "Мысль о том, что автором был Роджер Бэкон, увлекла Войнича, и она привела к первой знаменитой попытке разгадать тайну."
+    ],
+    [
+     "In 1921, William Romaine Newbold, a professor at the University of Pennsylvania, announced that he had cracked the code.",
+     "В 1921 году Уильям Ромейн Ньюболд, профессор Пенсильванского университета, объявил, что взломал код."
+    ],
+    [
+     "He claimed that each visible letter was made of tiny marks, like an ancient form of shorthand, which could only be seen with a magnifying glass.",
+     "Он утверждал, что каждая видимая буква состоит из крошечных чёрточек, похожих на древнюю стенографию, которые можно разглядеть только через увеличительное стекло."
+    ],
+    [
+     "According to Newbold, the book showed that Bacon had used a microscope and a telescope centuries before they were invented.",
+     "По словам Ньюболда, книга показывала, что Бэкон пользовался микроскопом и телескопом за столетия до их изобретения."
+    ]
+   ]
+  },
+  {
+   "en": "It was an exciting story, but it did not survive careful examination. In 1931, John Manly, an American scholar who had worked as a code-breaker, showed that Newbold's tiny marks were simply cracks that had appeared in the old ink as it dried over the centuries. It was the first of many solutions that turned out to say more about the person solving the book than about the book itself.",
+   "ru": "Это была захватывающая история, но она не выдержала тщательной проверки. В 1931 году Джон Мэнли, американский учёный, работавший раньше взломщиком шифров, показал, что крошечные чёрточки Ньюболда — это просто трещины, появившиеся в старых чернилах, когда они высыхали на протяжении веков. Это было первое из многих решений, которые, как оказалось, говорили больше о человеке, разгадывавшем книгу, чем о самой книге.",
+   "s": [
+    [
+     "It was an exciting story, but it did not survive careful examination.",
+     "Это была захватывающая история, но она не выдержала тщательной проверки."
+    ],
+    [
+     "In 1931, John Manly, an American scholar who had worked as a code-breaker, showed that Newbold's tiny marks were simply cracks that had appeared in the old ink as it dried over the centuries.",
+     "В 1931 году Джон Мэнли, американский учёный, работавший раньше взломщиком шифров, показал, что крошечные чёрточки Ньюболда — это просто трещины, появившиеся в старых чернилах, когда они высыхали на протяжении веков."
+    ],
+    [
+     "It was the first of many solutions that turned out to say more about the person solving the book than about the book itself.",
+     "Это было первое из многих решений, которые, как оказалось, говорили больше о человеке, разгадывавшем книгу, чем о самой книге."
+    ]
+   ]
+  },
+  {
+   "en": "Professional code-breakers were next. William Friedman, one of the greatest American cryptologists, whose team broke an important Japanese code before the United States entered the Second World War, studied the manuscript for decades. He never solved it. Friedman came to believe that the text might be written in an early artificial language, a language invented by one person according to a logical plan, rather than in a simple code.",
+   "ru": "Следующими были профессиональные взломщики кодов. Уильям Фридман, один из величайших американских криптологов, чья команда взломала важный японский шифр ещё до вступления США во Вторую мировую войну, десятилетиями изучал рукопись. Он так её и не разгадал. Фридман пришёл к мнению, что текст, возможно, написан на раннем искусственном языке — языке, придуманном одним человеком по логическому плану, — а не простым шифром.",
+   "s": [
+    [
+     "Professional code-breakers were next.",
+     "Следующими были профессиональные взломщики кодов."
+    ],
+    [
+     "William Friedman, one of the greatest American cryptologists, whose team broke an important Japanese code before the United States entered the Second World War, studied the manuscript for decades.",
+     "Уильям Фридман, один из величайших американских криптологов, чья команда взломала важный японский шифр ещё до вступления США во Вторую мировую войну, десятилетиями изучал рукопись."
+    ],
+    [
+     "He never solved it.",
+     "Он так её и не разгадал."
+    ],
+    [
+     "Friedman came to believe that the text might be written in an early artificial language, a language invented by one person according to a logical plan, rather than in a simple code.",
+     "Фридман пришёл к мнению, что текст, возможно, написан на раннем искусственном языке — языке, придуманном одним человеком по логическому плану, — а не простым шифром."
+    ]
+   ]
+  },
+  {
+   "en": "In the 1970s, another American code-breaker, Prescott Currier, noticed that the text was not the same throughout the book. He found two different languages, which are now called Currier A and Currier B, and he suggested that more than one person had written the book. In 2020, the manuscript expert Lisa Fagin Davis studied the handwriting carefully and concluded that there had been five different scribes.",
+   "ru": "В 1970-х годах другой американский взломщик шифров, Прескотт Карриер, заметил, что текст неодинаков на протяжении всей книги. Он обнаружил два разных «языка», которые теперь называют Карриер А и Карриер Б, и предположил, что книгу писал не один человек. В 2020 году специалист по рукописям Лиза Фейгин Дэвис внимательно изучила почерк и пришла к выводу, что писцов было пятеро.",
+   "s": [
+    [
+     "In the 1970s, another American code-breaker, Prescott Currier, noticed that the text was not the same throughout the book.",
+     "В 1970-х годах другой американский взломщик шифров, Прескотт Карриер, заметил, что текст неодинаков на протяжении всей книги."
+    ],
+    [
+     "He found two different languages, which are now called Currier A and Currier B, and he suggested that more than one person had written the book.",
+     "Он обнаружил два разных «языка», которые теперь называют Карриер А и Карриер Б, и предположил, что книгу писал не один человек."
+    ],
+    [
+     "In 2020, the manuscript expert Lisa Fagin Davis studied the handwriting carefully and concluded that there had been five different scribes.",
+     "В 2020 году специалист по рукописям Лиза Фейгин Дэвис внимательно изучила почерк и пришла к выводу, что писцов было пятеро."
+    ]
+   ]
+  },
+  {
+   "en": "For a long time, nobody could even agree on how old the book was. Some thought it was from the thirteenth century, when Bacon lived; others believed it was a forgery made in the sixteenth or seventeenth century, or even in the twentieth century by Voynich himself. Then, in 2009, scientists at the University of Arizona, led by Greg Hodgins, took tiny samples from four pages and tested them with radiocarbon dating.",
+   "ru": "Долгое время никто не мог даже договориться о том, сколько книге лет. Одни считали, что она относится к XIII веку, когда жил Бэкон; другие полагали, что это подделка, сделанная в XVI или XVII веке или даже в XX веке самим Войничем. А затем, в 2009 году, учёные Аризонского университета под руководством Грега Ходжинса взяли крошечные образцы с четырёх страниц и проверили их радиоуглеродным методом.",
+   "s": [
+    [
+     "For a long time, nobody could even agree on how old the book was.",
+     "Долгое время никто не мог даже договориться о том, сколько книге лет."
+    ],
+    [
+     "Some thought it was from the thirteenth century, when Bacon lived; others believed it was a forgery made in the sixteenth or seventeenth century, or even in the twentieth century by Voynich himself.",
+     "Одни считали, что она относится к XIII веку, когда жил Бэкон; другие полагали, что это подделка, сделанная в XVI или XVII веке или даже в XX веке самим Войничем."
+    ],
+    [
+     "Then, in 2009, scientists at the University of Arizona, led by Greg Hodgins, took tiny samples from four pages and tested them with radiocarbon dating.",
+     "А затем, в 2009 году, учёные Аризонского университета под руководством Грега Ходжинса взяли крошечные образцы с четырёх страниц и проверили их радиоуглеродным методом."
+    ]
+   ]
+  },
+  {
+   "en": "Radiocarbon dating measures how much of a certain type of carbon is left in material that was once alive, such as an animal skin. The results showed that the animals whose skins were used had died between 1404 and 1438. At the same time, an American laboratory analysed the inks and paints and found that they were consistent with materials used in that period.",
+   "ru": "Радиоуглеродный анализ измеряет, сколько определённого вида углерода осталось в материале, который когда-то был живым, например в коже животного. Результаты показали, что животные, чья кожа была использована, погибли между 1404 и 1438 годами. В то же время американская лаборатория проанализировала чернила и краски и установила, что они соответствуют материалам, которые использовались в тот период.",
+   "s": [
+    [
+     "Radiocarbon dating measures how much of a certain type of carbon is left in material that was once alive, such as an animal skin.",
+     "Радиоуглеродный анализ измеряет, сколько определённого вида углерода осталось в материале, который когда-то был живым, например в коже животного."
+    ],
+    [
+     "The results showed that the animals whose skins were used had died between 1404 and 1438.",
+     "Результаты показали, что животные, чья кожа была использована, погибли между 1404 и 1438 годами."
+    ],
+    [
+     "At the same time, an American laboratory analysed the inks and paints and found that they were consistent with materials used in that period.",
+     "В то же время американская лаборатория проанализировала чернила и краски и установила, что они соответствуют материалам, которые использовались в тот период."
+    ]
+   ]
+  },
+  {
+   "en": "These results were very important. They showed that Roger Bacon, who died around 1292, could not have written the book on this vellum. They also made the idea that Voynich had faked it himself almost impossible. Strictly speaking, the test dates the vellum, not the writing, so it is possible that someone wrote on old, empty pages later. However, vellum was expensive and was usually used soon after it was made, so most experts think the book was written in the early fifteenth century.",
+   "ru": "Эти результаты были очень важны. Они показали, что Роджер Бэкон, умерший около 1292 года, не мог написать книгу на этом пергаменте. Они также сделали почти невозможной версию о том, что Войнич подделал её сам. Строго говоря, анализ датирует пергамент, а не текст, поэтому возможно, что кто-то написал на старых пустых страницах позже. Однако пергамент был дорогим и обычно использовался вскоре после изготовления, поэтому большинство специалистов считают, что книга была написана в начале XV века.",
+   "s": [
+    [
+     "These results were very important.",
+     "Эти результаты были очень важны."
+    ],
+    [
+     "They showed that Roger Bacon, who died around 1292, could not have written the book on this vellum.",
+     "Они показали, что Роджер Бэкон, умерший около 1292 года, не мог написать книгу на этом пергаменте."
+    ],
+    [
+     "They also made the idea that Voynich had faked it himself almost impossible.",
+     "Они также сделали почти невозможной версию о том, что Войнич подделал её сам."
+    ],
+    [
+     "Strictly speaking, the test dates the vellum, not the writing, so it is possible that someone wrote on old, empty pages later.",
+     "Строго говоря, анализ датирует пергамент, а не текст, поэтому возможно, что кто-то написал на старых пустых страницах позже."
+    ],
+    [
+     "However, vellum was expensive and was usually used soon after it was made, so most experts think the book was written in the early fifteenth century.",
+     "Однако пергамент был дорогим и обычно использовался вскоре после изготовления, поэтому большинство специалистов считают, что книга была написана в начале XV века."
+    ]
+   ]
+  },
+  {
+   "en": "So the book is old, and it is not a modern trick. But what is it? Today there are three main groups of theories. The first is that the text is a cipher: a real language, such as Latin or German, hidden by a secret system that changes the letters. The problem is that the text does not behave like most ciphers from that period. Simple ciphers that replace one letter with another would have been broken long ago.",
+   "ru": "Итак, книга старая, и это не современный обман. Но что же это такое? Сегодня существует три основные группы теорий. Первая — что текст является шифром: настоящим языком, например латынью или немецким, скрытым с помощью тайной системы, которая меняет буквы. Проблема в том, что текст ведёт себя не так, как большинство шифров того времени. Простые шифры, заменяющие одну букву другой, давно бы взломали.",
+   "s": [
+    [
+     "So the book is old, and it is not a modern trick.",
+     "Итак, книга старая, и это не современный обман."
+    ],
+    [
+     "But what is it?",
+     "Но что же это такое?"
+    ],
+    [
+     "Today there are three main groups of theories.",
+     "Сегодня существует три основные группы теорий."
+    ],
+    [
+     "The first is that the text is a cipher: a real language, such as Latin or German, hidden by a secret system that changes the letters.",
+     "Первая — что текст является шифром: настоящим языком, например латынью или немецким, скрытым с помощью тайной системы, которая меняет буквы."
+    ],
+    [
+     "The problem is that the text does not behave like most ciphers from that period.",
+     "Проблема в том, что текст ведёт себя не так, как большинство шифров того времени."
+    ],
+    [
+     "Simple ciphers that replace one letter with another would have been broken long ago.",
+     "Простые шифры, заменяющие одну букву другой, давно бы взломали."
+    ]
+   ]
+  },
+  {
+   "en": "In fact, the text has patterns that are both language-like and very strange. Words often have fixed beginnings and endings, and some words appear two or three times in a row, which is unusual in most languages. On the other hand, studies have found features typical of real languages. In 2013, two physicists, Marcelo Montemurro and Damian Zanette, published an analysis showing that certain words appear mostly in particular sections of the book, in the same way that words about plants would appear in a chapter about plants.",
+   "ru": "На самом деле в тексте есть закономерности, которые одновременно похожи на язык и очень странны. У слов часто бывают постоянные начала и окончания, а некоторые слова встречаются два или три раза подряд, что для большинства языков необычно. С другой стороны, исследования обнаружили черты, типичные для настоящих языков. В 2013 году два физика, Марсело Монтемурро и Дамиан Санетте, опубликовали анализ, показавший, что определённые слова встречаются в основном в отдельных разделах книги — так же, как слова о растениях встречались бы в главе о растениях.",
+   "s": [
+    [
+     "In fact, the text has patterns that are both language-like and very strange.",
+     "На самом деле в тексте есть закономерности, которые одновременно похожи на язык и очень странны."
+    ],
+    [
+     "Words often have fixed beginnings and endings, and some words appear two or three times in a row, which is unusual in most languages.",
+     "У слов часто бывают постоянные начала и окончания, а некоторые слова встречаются два или три раза подряд, что для большинства языков необычно."
+    ],
+    [
+     "On the other hand, studies have found features typical of real languages.",
+     "С другой стороны, исследования обнаружили черты, типичные для настоящих языков."
+    ],
+    [
+     "In 2013, two physicists, Marcelo Montemurro and Damian Zanette, published an analysis showing that certain words appear mostly in particular sections of the book, in the same way that words about plants would appear in a chapter about plants.",
+     "В 2013 году два физика, Марсело Монтемурро и Дамиан Санетте, опубликовали анализ, показавший, что определённые слова встречаются в основном в отдельных разделах книги — так же, как слова о растениях встречались бы в главе о растениях."
+    ]
+   ]
+  },
+  {
+   "en": "This supports the second group of theories: that the book is written in a real natural language, perhaps one that had no written tradition, using an alphabet invented specially for it. Others think, like Friedman, that it is an invented language. However, nobody has been able to offer a translation of even one full page that other experts accept.",
+   "ru": "Это подкрепляет вторую группу теорий: что книга написана на настоящем естественном языке, возможно таком, у которого не было письменной традиции, с помощью алфавита, придуманного специально для него. Другие, как и Фридман, считают, что это придуманный язык. Однако никто не смог предложить перевод хотя бы одной полной страницы, который признали бы другие специалисты.",
+   "s": [
+    [
+     "This supports the second group of theories: that the book is written in a real natural language, perhaps one that had no written tradition, using an alphabet invented specially for it.",
+     "Это подкрепляет вторую группу теорий: что книга написана на настоящем естественном языке, возможно таком, у которого не было письменной традиции, с помощью алфавита, придуманного специально для него."
+    ],
+    [
+     "Others think, like Friedman, that it is an invented language.",
+     "Другие, как и Фридман, считают, что это придуманный язык."
+    ],
+    [
+     "However, nobody has been able to offer a translation of even one full page that other experts accept.",
+     "Однако никто не смог предложить перевод хотя бы одной полной страницы, который признали бы другие специалисты."
+    ]
+   ]
+  },
+  {
+   "en": "The third group says that the book is a hoax: a meaningless text created to look mysterious, perhaps to sell it to a rich collector such as Rudolf II. In 2004, Gordon Rugg, a computer scientist at Keele University in England, showed that text with many of the same features could be produced using a table of syllables and a card with holes cut in it. Critics replied that this showed only that such a hoax was possible, not that it had actually happened. They also pointed out that this type of card was first described by an Italian scholar in 1550, more than a century after the date of the vellum.",
+   "ru": "Третья группа утверждает, что книга — мистификация: бессмысленный текст, созданный, чтобы выглядеть загадочно, возможно, ради продажи богатому коллекционеру вроде Рудольфа II. В 2004 году Гордон Рагг, специалист по информатике из Килского университета в Англии, показал, что текст со многими такими же особенностями можно получить с помощью таблицы слогов и карточки с прорезанными в ней отверстиями. Критики ответили, что это показывает лишь то, что такая мистификация возможна, а не то, что она действительно произошла. Они также указали, что такую карточку впервые описал итальянский учёный в 1550 году — более чем через столетие после даты пергамента.",
+   "s": [
+    [
+     "The third group says that the book is a hoax: a meaningless text created to look mysterious, perhaps to sell it to a rich collector such as Rudolf II.",
+     "Третья группа утверждает, что книга — мистификация: бессмысленный текст, созданный, чтобы выглядеть загадочно, возможно, ради продажи богатому коллекционеру вроде Рудольфа II."
+    ],
+    [
+     "In 2004, Gordon Rugg, a computer scientist at Keele University in England, showed that text with many of the same features could be produced using a table of syllables and a card with holes cut in it.",
+     "В 2004 году Гордон Рагг, специалист по информатике из Килского университета в Англии, показал, что текст со многими такими же особенностями можно получить с помощью таблицы слогов и карточки с прорезанными в ней отверстиями."
+    ],
+    [
+     "Critics replied that this showed only that such a hoax was possible, not that it had actually happened.",
+     "Критики ответили, что это показывает лишь то, что такая мистификация возможна, а не то, что она действительно произошла."
+    ],
+    [
+     "They also pointed out that this type of card was first described by an Italian scholar in 1550, more than a century after the date of the vellum.",
+     "Они также указали, что такую карточку впервые описал итальянский учёный в 1550 году — более чем через столетие после даты пергамента."
+    ]
+   ]
+  },
+  {
+   "en": "Meanwhile, new solutions keep appearing, often with great publicity. In 2017, a writer named Nicholas Gibbs claimed in a respected literary magazine that the book was a guide to women's health written in shortened Latin. In 2019, Gerard Cheshire, a researcher at the University of Bristol, announced that it was written in a lost proto-Romance language. In both cases, specialists quickly pointed out that the proposed readings did not work when they were tested on the rest of the text, and the University of Bristol later distanced itself from the claim. So far, none of these attempts has produced a translation that can be checked and repeated by others, which is the real test of any solution.",
+   "ru": "Тем временем продолжают появляться новые решения, часто с большой шумихой. В 2017 году писатель Николас Гиббс заявил в уважаемом литературном журнале, что книга — это руководство по женскому здоровью, написанное сокращённой латынью. В 2019 году Джерард Чешир, исследователь из Бристольского университета, объявил, что она написана на исчезнувшем «протороманском» языке. В обоих случаях специалисты быстро указали, что предложенные прочтения не работают, если проверить их на остальном тексте, а Бристольский университет позже дистанцировался от этого заявления. До сих пор ни одна из этих попыток не дала перевода, который другие могли бы проверить и повторить, а это и есть настоящая проверка любого решения.",
+   "s": [
+    [
+     "Meanwhile, new solutions keep appearing, often with great publicity.",
+     "Тем временем продолжают появляться новые решения, часто с большой шумихой."
+    ],
+    [
+     "In 2017, a writer named Nicholas Gibbs claimed in a respected literary magazine that the book was a guide to women's health written in shortened Latin.",
+     "В 2017 году писатель Николас Гиббс заявил в уважаемом литературном журнале, что книга — это руководство по женскому здоровью, написанное сокращённой латынью."
+    ],
+    [
+     "In 2019, Gerard Cheshire, a researcher at the University of Bristol, announced that it was written in a lost proto-Romance language.",
+     "В 2019 году Джерард Чешир, исследователь из Бристольского университета, объявил, что она написана на исчезнувшем «протороманском» языке."
+    ],
+    [
+     "In both cases, specialists quickly pointed out that the proposed readings did not work when they were tested on the rest of the text, and the University of Bristol later distanced itself from the claim.",
+     "В обоих случаях специалисты быстро указали, что предложенные прочтения не работают, если проверить их на остальном тексте, а Бристольский университет позже дистанцировался от этого заявления."
+    ],
+    [
+     "So far, none of these attempts has produced a translation that can be checked and repeated by others, which is the real test of any solution.",
+     "До сих пор ни одна из этих попыток не дала перевода, который другие могли бы проверить и повторить, а это и есть настоящая проверка любого решения."
+    ]
+   ]
+  },
+  {
+   "en": "Why does this book attract so many people, from professional scholars to casual readers on the internet? Partly it is because Yale's Beinecke Library has put high-quality images of every page online, so anyone can study it at home on a Sunday afternoon. Thousands of amateurs have tried their luck, and online communities have spent years comparing symbols and counting words.",
+   "ru": "Почему эта книга привлекает столько людей — от профессиональных учёных до случайных читателей в интернете? Отчасти потому, что библиотека Бейнеке Йельского университета выложила в интернет качественные изображения каждой страницы, так что любой может изучать её дома в воскресенье днём. Тысячи любителей пытали удачу, а интернет-сообщества годами сравнивают знаки и подсчитывают слова.",
+   "s": [
+    [
+     "Why does this book attract so many people, from professional scholars to casual readers on the internet?",
+     "Почему эта книга привлекает столько людей — от профессиональных учёных до случайных читателей в интернете?"
+    ],
+    [
+     "Partly it is because Yale's Beinecke Library has put high-quality images of every page online, so anyone can study it at home on a Sunday afternoon.",
+     "Отчасти потому, что библиотека Бейнеке Йельского университета выложила в интернет качественные изображения каждой страницы, так что любой может изучать её дома в воскресенье днём."
+    ],
+    [
+     "Thousands of amateurs have tried their luck, and online communities have spent years comparing symbols and counting words.",
+     "Тысячи любителей пытали удачу, а интернет-сообщества годами сравнивают знаки и подсчитывают слова."
+    ]
+   ]
+  },
+  {
+   "en": "So what do we really know? We know that the book was made on vellum from the early fifteenth century, probably in Europe. We know that it was in Prague in the seventeenth century and that it was written by more than one hand. And we know that its text is highly structured.",
+   "ru": "Так что же мы знаем на самом деле? Мы знаем, что книга сделана на пергаменте начала XV века, вероятно, в Европе. Мы знаем, что в XVII веке она была в Праге и что её писала не одна рука. И мы знаем, что её текст очень упорядочен.",
+   "s": [
+    [
+     "So what do we really know?",
+     "Так что же мы знаем на самом деле?"
+    ],
+    [
+     "We know that the book was made on vellum from the early fifteenth century, probably in Europe.",
+     "Мы знаем, что книга сделана на пергаменте начала XV века, вероятно, в Европе."
+    ],
+    [
+     "We know that it was in Prague in the seventeenth century and that it was written by more than one hand.",
+     "Мы знаем, что в XVII веке она была в Праге и что её писала не одна рука."
+    ],
+    [
+     "And we know that its text is highly structured.",
+     "И мы знаем, что её текст очень упорядочен."
+    ]
+   ]
+  },
+  {
+   "en": "What we do not know is the most important thing: whether the text has any meaning at all. It may be a lost language, an invented one, a clever cipher, or an elaborate fake made by someone with a lot of time and skill. Each theory has supporters, and none has been proved. Experts still disagree, and the answer may never be found unless new documents about the book's origin are discovered.",
+   "ru": "Мы не знаем самого главного: есть ли у текста вообще какой-то смысл. Это может быть исчезнувший язык, придуманный язык, хитрый шифр или тщательно сделанная подделка, созданная кем-то, у кого было много времени и мастерства. У каждой теории есть сторонники, и ни одна не доказана. Специалисты до сих пор спорят, и ответ, возможно, никогда не будет найден, если не обнаружатся новые документы о происхождении книги.",
+   "s": [
+    [
+     "What we do not know is the most important thing: whether the text has any meaning at all.",
+     "Мы не знаем самого главного: есть ли у текста вообще какой-то смысл."
+    ],
+    [
+     "It may be a lost language, an invented one, a clever cipher, or an elaborate fake made by someone with a lot of time and skill.",
+     "Это может быть исчезнувший язык, придуманный язык, хитрый шифр или тщательно сделанная подделка, созданная кем-то, у кого было много времени и мастерства."
+    ],
+    [
+     "Each theory has supporters, and none has been proved.",
+     "У каждой теории есть сторонники, и ни одна не доказана."
+    ],
+    [
+     "Experts still disagree, and the answer may never be found unless new documents about the book's origin are discovered.",
+     "Специалисты до сих пор спорят, и ответ, возможно, никогда не будет найден, если не обнаружатся новые документы о происхождении книги."
+    ]
+   ]
+  },
+  {
+   "en": "Perhaps that is why the Voynich manuscript deserves its reputation. In an age when computers can translate dozens of languages in seconds, a small book made around six hundred years ago still keeps its secret. Every few years someone announces that the mystery is solved, and every time, so far, the experts have looked carefully and found that it is not.",
+   "ru": "Возможно, именно поэтому рукопись Войнича заслуживает своей репутации. В эпоху, когда компьютеры за секунды переводят десятки языков, небольшая книга, сделанная около шестисот лет назад, всё ещё хранит свою тайну. Каждые несколько лет кто-нибудь объявляет, что загадка разгадана, и каждый раз до сих пор специалисты внимательно смотрели и убеждались, что это не так.",
+   "s": [
+    [
+     "Perhaps that is why the Voynich manuscript deserves its reputation.",
+     "Возможно, именно поэтому рукопись Войнича заслуживает своей репутации."
+    ],
+    [
+     "In an age when computers can translate dozens of languages in seconds, a small book made around six hundred years ago still keeps its secret.",
+     "В эпоху, когда компьютеры за секунды переводят десятки языков, небольшая книга, сделанная около шестисот лет назад, всё ещё хранит свою тайну."
+    ],
+    [
+     "Every few years someone announces that the mystery is solved, and every time, so far, the experts have looked carefully and found that it is not.",
+     "Каждые несколько лет кто-нибудь объявляет, что загадка разгадана, и каждый раз до сих пор специалисты внимательно смотрели и убеждались, что это не так."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "able": "(be able to) смочь",
+  "about": "о, около, примерно",
+  "accept": "признавать, принимать",
+  "according": "(according to) согласно, по словам",
+  "actually": "на самом деле",
+  "after": "после",
+  "afternoon": "день, после полудня",
+  "age": "эпоха, век",
+  "ago": "назад",
+  "agree": "договориться, соглашаться",
+  "alchemist": "алхимик",
+  "alchemy": "алхимия",
+  "alive": "живой",
+  "all": "весь, вообще (at all)",
+  "almost": "почти",
+  "alphabet": "алфавит",
+  "also": "также",
+  "amateurs": "любители",
+  "american": "американский",
+  "among": "среди",
+  "an": "(неопр. артикль)",
+  "analysed": "проанализировала",
+  "analysis": "анализ",
+  "ancient": "древний",
+  "and": "и",
+  "animal": "животное",
+  "animals": "животные",
+  "announced": "объявил",
+  "announces": "объявляет",
+  "another": "другой, ещё один",
+  "answer": "ответ",
+  "any": "какой-либо, любой",
+  "anyone": "любой, кто угодно",
+  "appear": "появляться, встречаться",
+  "appeared": "появились",
+  "appearing": "появляться",
+  "are": "(есть) являются",
+  "arizona": "Аризона",
+  "around": "около, вокруг",
+  "arrested": "арестовали",
+  "arrived": "прибыл",
+  "art": "искусство",
+  "artificial": "искусственный",
+  "artist": "художник",
+  "as": "как, когда, по мере того как",
+  "astrology": "астрология",
+  "at": "в, на",
+  "athanasius": "Афанасий (имя)",
+  "attempt": "попытка",
+  "attempts": "попытки",
+  "attract": "привлекать",
+  "attracted": "увлекла, привлекла",
+  "author": "автор",
+  "b": "Б (буква)",
+  "bacon": "Бэкон (фамилия)",
+  "baresch": "Бареш (фамилия)",
+  "bathing": "купающиеся",
+  "be": "быть",
+  "became": "стала",
+  "because": "потому что",
+  "been": "был(о)",
+  "before": "до, раньше",
+  "beginnings": "начала",
+  "behave": "вести себя",
+  "beinecke": "Бейнеке (библиотека)",
+  "believable": "правдоподобный",
+  "believe": "считать, полагать",
+  "believed": "считали, полагали",
+  "belong": "принадлежать, относиться",
+  "belonged": "принадлежала",
+  "belongs": "принадлежит",
+  "benefits": "польза, преимущества",
+  "best": "лучший",
+  "between": "между",
+  "bigger": "больше",
+  "blue": "синий",
+  "body": "тело",
+  "book": "книга",
+  "book's": "книги (притяж.)",
+  "books": "книги",
+  "born": "(was born) родился",
+  "both": "оба",
+  "bought": "купил",
+  "breaker": "(code-breaker) взломщик шифров",
+  "breakers": "(code-breakers) взломщики кодов",
+  "bristol": "Бристоль (город)",
+  "broke": "взломала",
+  "broken": "взломаны",
+  "bull": "бык",
+  "but": "но",
+  "by": "(кем-то), с помощью",
+  "called": "назывался, по имени",
+  "came": "пришёл (came to believe — пришёл к мнению)",
+  "can": "может, можно",
+  "carbon": "углерод",
+  "card": "карточка",
+  "careful": "тщательный, аккуратный",
+  "carefully": "внимательно",
+  "cases": "случаи",
+  "casual": "случайный, обычный",
+  "catholic": "католический",
+  "centuries": "века",
+  "century": "век",
+  "certain": "определённый",
+  "certainty": "уверенность",
+  "changes": "меняет",
+  "chapter": "глава",
+  "checked": "проверен",
+  "chemist": "химик",
+  "cheshire": "Чешир (фамилия)",
+  "cipher": "шифр",
+  "ciphers": "шифры",
+  "circles": "круги",
+  "circular": "круглый",
+  "claim": "заявление",
+  "claimed": "утверждал",
+  "clear": "ясный",
+  "clever": "хитрый, умный",
+  "clue": "подсказка, улика",
+  "clues": "подсказки",
+  "code": "код, шифр",
+  "coins": "монеты",
+  "collection": "собрание, коллекция",
+  "collector": "коллекционер",
+  "combinations": "сочетания",
+  "communities": "сообщества",
+  "comparing": "сравнивать",
+  "completely": "полностью",
+  "computer": "компьютер (computer scientist — специалист по информатике)",
+  "computers": "компьютеры",
+  "concluded": "пришла к выводу",
+  "confident": "уверенный",
+  "connected": "соединённые",
+  "consistent": "соответствующий",
+  "containers": "сосуды, ёмкости",
+  "contains": "содержит",
+  "corrections": "исправления",
+  "could": "мог, могли",
+  "count": "считать",
+  "counting": "подсчитывать",
+  "cracked": "взломал",
+  "cracks": "трещины",
+  "created": "созданный",
+  "critics": "критики",
+  "cryptologists": "криптологи",
+  "currier": "Карриер (фамилия)",
+  "cut": "вырезанные",
+  "damian": "Дамиан (имя)",
+  "date": "дата",
+  "dates": "датирует",
+  "dating": "датирование",
+  "davis": "Дэвис (фамилия)",
+  "de": "де, из (часть фамилии)",
+  "dealer": "торговец",
+  "decades": "десятилетия",
+  "defeated": "побеждала",
+  "depending": "(depending on) в зависимости от",
+  "described": "описан, описал",
+  "deserves": "заслуживает",
+  "diagrams": "схемы",
+  "did": "(вспом. гл.)",
+  "died": "умер, погибли",
+  "different": "разный, различный",
+  "disagree": "расходиться во мнениях, спорить",
+  "discover": "раскрыть, обнаружить",
+  "discovered": "обнаружены",
+  "distanced": "(distanced itself) дистанцировался",
+  "divide": "делить",
+  "do": "(вспом. гл.)",
+  "doctor": "врач",
+  "documents": "документы",
+  "does": "(вспом. гл.)",
+  "doing": "делать",
+  "dozens": "десятки",
+  "dried": "высыхали",
+  "ducats": "дукаты",
+  "each": "каждый",
+  "early": "ранний, начало",
+  "egyptian": "египетский",
+  "elaborate": "тщательно продуманный",
+  "elegant": "изящный",
+  "emperor": "император",
+  "empire": "империя",
+  "empty": "пустой",
+  "endings": "окончания",
+  "ends": "заканчивается",
+  "england": "Англия",
+  "english": "английский",
+  "entered": "вступили",
+  "escaped": "бежал",
+  "ethel": "Этель (имя)",
+  "europe": "Европа",
+  "even": "даже, ещё",
+  "every": "каждый",
+  "exactly": "точно",
+  "examination": "проверка, исследование",
+  "exciting": "захватывающий",
+  "expensive": "дорогой",
+  "expert": "специалист, эксперт",
+  "experts": "специалисты, эксперты",
+  "extremely": "чрезвычайно",
+  "fact": "(in fact) на самом деле",
+  "fagin": "Фейгин (фамилия)",
+  "faint": "бледный, слабый",
+  "fake": "подделка",
+  "faked": "подделал",
+  "famous": "знаменитый",
+  "far": "(so far) до сих пор",
+  "fascinated": "заворожила",
+  "features": "особенности, черты",
+  "few": "несколько, мало",
+  "fifteenth": "пятнадцатый",
+  "finding": "находить",
+  "first": "первый, впервые",
+  "fish": "рыбы",
+  "five": "пять",
+  "fixed": "постоянный",
+  "flows": "течёт",
+  "for": "для, за, в течение",
+  "forgery": "подделка",
+  "form": "форма",
+  "found": "нашёл, обнаружили",
+  "four": "четыре",
+  "friedman": "Фридман (фамилия)",
+  "from": "из, от",
+  "full": "полный",
+  "gadfly": "овод",
+  "georg": "Георг (имя)",
+  "gerard": "Джерард (имя)",
+  "german": "немецкий язык",
+  "gibbs": "Гиббс (фамилия)",
+  "give": "дают",
+  "gives": "даёт",
+  "glass": "стекло (magnifying glass — лупа)",
+  "gold": "золотой",
+  "gordon": "Гордон (имя)",
+  "great": "большой",
+  "greatest": "величайший",
+  "green": "зелёный",
+  "greg": "Грег (имя)",
+  "group": "группа, партия",
+  "groups": "группы",
+  "guide": "руководство",
+  "had": "(вспом. гл.); было",
+  "hand": "рука (by hand — от руки)",
+  "handwriting": "почерк",
+  "happened": "произошла",
+  "has": "(вспом. гл.); имеет",
+  "have": "(вспом. гл.); иметь",
+  "he": "он",
+  "health": "здоровье",
+  "help": "помощь",
+  "her": "её",
+  "herbal": "травник",
+  "hidden": "скрытый",
+  "high": "высокий",
+  "highly": "очень, высоко",
+  "him": "его, ему",
+  "himself": "сам",
+  "his": "его",
+  "history": "история",
+  "hoax": "мистификация",
+  "hodgins": "Ходжинс (фамилия)",
+  "holes": "отверстия",
+  "holy": "священный",
+  "home": "дома",
+  "horcicky": "Горчицкий (фамилия)",
+  "how": "как, сколько",
+  "however": "однако",
+  "hundred": "сто",
+  "idea": "идея, версия",
+  "if": "если, как будто (as if)",
+  "ii": "Второй (II)",
+  "images": "изображения",
+  "imagine": "представьте",
+  "immediately": "сразу, немедленно",
+  "important": "важный",
+  "impossible": "невозможный",
+  "in": "в",
+  "include": "включают",
+  "ink": "чернила",
+  "inks": "чернила",
+  "internet": "интернет",
+  "into": "в",
+  "invented": "придуманный, изобретены",
+  "is": "есть, является",
+  "it": "он, она, это",
+  "italian": "итальянский",
+  "its": "его, её",
+  "itself": "сама, себя",
+  "jacobus": "Якуб (имя)",
+  "japanese": "японский",
+  "jars": "банки, сосуды",
+  "jesuit": "иезуитский",
+  "jesuits": "иезуиты",
+  "johannes": "Иоганн (имя)",
+  "john": "Джон (имя)",
+  "joined": "соединил",
+  "just": "так же (just as)",
+  "keele": "Кил (университет)",
+  "keep": "продолжать (keep appearing)",
+  "keeps": "хранит",
+  "kept": "хранится, хранившийся",
+  "kircher": "Кирхер (фамилия)",
+  "knew": "знал",
+  "know": "знать",
+  "known": "известный",
+  "knows": "знает",
+  "laboratory": "лаборатория",
+  "language": "язык",
+  "languages": "языки",
+  "largest": "самый большой",
+  "later": "позже, более поздний",
+  "latin": "латинский; латынь",
+  "leaves": "листья",
+  "led": "привела; под руководством",
+  "left": "осталось",
+  "letter": "письмо; буква",
+  "letters": "буквы",
+  "libraries": "библиотеки",
+  "library": "библиотека",
+  "life": "жизнь",
+  "light": "свет",
+  "like": "как, похожий на",
+  "lilian": "Лилиан (имя)",
+  "lines": "строки",
+  "liquid": "жидкость",
+  "lisa": "Лиза (имя)",
+  "literary": "литературный",
+  "lithuania": "Литва",
+  "little": "немного",
+  "lived": "жил",
+  "logical": "логический",
+  "london": "Лондон",
+  "long": "долго, давно",
+  "look": "выглядеть",
+  "looked": "выглядела, смотрели",
+  "lost": "исчезнувший",
+  "lot": "(a lot of) много",
+  "love": "любовь",
+  "luck": "удача",
+  "made": "сделанный, сделали",
+  "magazine": "журнал",
+  "magnifying": "увеличительный",
+  "main": "основной",
+  "man": "мужчина, человек",
+  "manly": "Мэнли (фамилия)",
+  "manuscript": "рукопись",
+  "many": "много, многие",
+  "marcelo": "Марсело (имя)",
+  "marci": "Марци (фамилия)",
+  "marcus": "Марк (имя)",
+  "marked": "отмеченный",
+  "marks": "чёрточки, отметки",
+  "match": "соответствовать",
+  "material": "материал",
+  "materials": "материалы",
+  "may": "может",
+  "meaning": "смысл",
+  "meaningless": "бессмысленный",
+  "meanwhile": "тем временем",
+  "measures": "измеряет",
+  "medical": "лечебный, медицинский",
+  "medicine": "медицина",
+  "medieval": "средневековый",
+  "microscope": "микроскоп",
+  "might": "может, возможно",
+  "modern": "современный",
+  "mondragone": "Мондрагоне (вилла)",
+  "monk": "монах",
+  "montemurro": "Монтемурро (фамилия)",
+  "moons": "луны",
+  "more": "больше, более",
+  "most": "самый; большинство",
+  "mostly": "в основном",
+  "movement": "движение",
+  "much": "намного",
+  "mysterious": "загадочный",
+  "mystery": "тайна, загадка",
+  "naked": "обнажённый",
+  "name": "название, имя",
+  "named": "по имени",
+  "natural": "естественный",
+  "near": "около, под",
+  "neat": "аккуратный",
+  "nervous": "нервный (were not nervous — не нервничали)",
+  "never": "никогда",
+  "new": "новый",
+  "newbold": "Ньюболд (фамилия)",
+  "newbold's": "Ньюболда",
+  "next": "следующий",
+  "nicholas": "Николас (имя)",
+  "no": "не, никакой",
+  "nobody": "никто",
+  "none": "ни один",
+  "not": "не",
+  "noticed": "заметил",
+  "novel": "роман",
+  "now": "теперь, сейчас",
+  "numbers": "цифры",
+  "objects": "предметы",
+  "of": "(род. падеж), из",
+  "offer": "предложить",
+  "often": "часто",
+  "old": "старый",
+  "on": "на, о, по",
+  "once": "когда-то",
+  "one": "один, одна",
+  "online": "в интернет; интернет-",
+  "only": "только, единственный",
+  "opening": "открывать",
+  "or": "или",
+  "order": "орден",
+  "origin": "происхождение",
+  "other": "другой",
+  "others": "другие",
+  "out": "(fold out) раскладываться",
+  "over": "на протяжении",
+  "page": "страница",
+  "pages": "страницы",
+  "paid": "заплатил",
+  "paints": "краски",
+  "paperback": "книга в мягкой обложке",
+  "paragraphs": "абзацы",
+  "part": "часть",
+  "particular": "отдельный, определённый",
+  "partly": "отчасти",
+  "parts": "части",
+  "past": "прошлое",
+  "path": "путь",
+  "patterns": "закономерности",
+  "pennsylvania": "Пенсильвания",
+  "people": "люди",
+  "perhaps": "возможно",
+  "period": "период",
+  "person": "человек",
+  "pharmacy": "аптека",
+  "physicists": "физики",
+  "pictures": "рисунки",
+  "pipes": "трубы",
+  "pisces": "Рыбы (знак зодиака)",
+  "plan": "план",
+  "plant": "растение",
+  "plants": "растения",
+  "pointed": "(pointed out) указали",
+  "polish": "польский",
+  "pools": "бассейны",
+  "popular": "популярный",
+  "possible": "возможный",
+  "prague": "Прага",
+  "prepared": "изготовленный",
+  "prescott": "Прескотт (имя)",
+  "probably": "вероятно",
+  "problem": "проблема",
+  "produced": "получен, дала",
+  "professional": "профессиональный",
+  "professor": "профессор",
+  "proposed": "предложенный",
+  "proto": "прото-",
+  "proved": "доказана",
+  "publicity": "шумиха, огласка",
+  "published": "опубликовали",
+  "put": "выложила (put online)",
+  "puzzling": "загадочный",
+  "quality": "(high-quality) качественный",
+  "quickly": "быстро",
+  "radiocarbon": "радиоуглеродный",
+  "rather": "(rather than) а не",
+  "read": "читать, прочитать",
+  "readers": "читатели",
+  "readings": "прочтения",
+  "real": "настоящий",
+  "really": "на самом деле",
+  "religious": "монашеский, религиозный",
+  "repeated": "повторить",
+  "replace": "заменять",
+  "replied": "ответили",
+  "reputation": "репутация",
+  "researcher": "исследователь",
+  "researchers": "исследователи",
+  "respected": "уважаемый",
+  "rest": "остаток, остальное",
+  "results": "результаты",
+  "revolutionary": "революционный",
+  "rich": "богатый",
+  "roger": "Роджер (имя)",
+  "romaine": "Ромейн (имя)",
+  "roman": "римский (Holy Roman Empire — Священная Римская империя)",
+  "romance": "романский (proto-Romance — протороманский)",
+  "rome": "Рим",
+  "roots": "корни",
+  "row": "(in a row) подряд",
+  "rudolf": "Рудольф (имя)",
+  "rugg": "Рагг (фамилия)",
+  "ruled": "правил",
+  "russian": "российский",
+  "s": "(1660s, 1970s) -е годы",
+  "same": "тот же, такой же",
+  "samples": "образцы",
+  "say": "говорить",
+  "says": "утверждает",
+  "scholar": "учёный",
+  "scholars": "учёные",
+  "scientist": "учёный, специалист",
+  "scientists": "учёные",
+  "scribes": "писцы",
+  "script": "письмо, письменность",
+  "second": "второй",
+  "seconds": "секунды",
+  "secret": "тайна; тайный",
+  "section": "раздел",
+  "sections": "разделы",
+  "seems": "кажется, похоже",
+  "seen": "видел, увидеть",
+  "sell": "продать",
+  "selling": "продавали",
+  "sent": "отправил, отправлен",
+  "seventeenth": "семнадцатый",
+  "several": "несколько",
+  "short": "короткий",
+  "shortened": "сокращённый",
+  "shorthand": "стенография",
+  "showed": "показал(и)",
+  "showing": "показывающий",
+  "shows": "изображает",
+  "siberia": "Сибирь",
+  "sight": "взгляд (at first sight — на первый взгляд)",
+  "signature": "подпись",
+  "signs": "знаки",
+  "simple": "простой",
+  "simply": "просто",
+  "sit": "сидят",
+  "six": "шесть",
+  "sixteenth": "шестнадцатый",
+  "skill": "мастерство",
+  "skin": "кожа",
+  "skins": "шкуры, кожа",
+  "small": "маленький, небольшой",
+  "smoothly": "плавно",
+  "so": "поэтому, так",
+  "solution": "решение",
+  "solutions": "решения",
+  "solve": "разгадать",
+  "solved": "разгадал, разгадана",
+  "solving": "разгадывающий",
+  "some": "некоторые, какие-то",
+  "someone": "кто-то",
+  "soon": "вскоре",
+  "soviet": "советский",
+  "speaking": "(strictly speaking) строго говоря",
+  "specialists": "специалисты",
+  "specially": "специально",
+  "species": "вид (растений)",
+  "spent": "провёл",
+  "stand": "стоят",
+  "star": "звёздочка, звезда",
+  "stars": "звёзды",
+  "states": "штаты (the United States — США)",
+  "stayed": "оставалась",
+  "still": "всё ещё, до сих пор",
+  "story": "история",
+  "strange": "странный",
+  "stranger": "более странный",
+  "strictly": "строго",
+  "structured": "упорядоченный",
+  "studied": "изучил(а)",
+  "studies": "исследования",
+  "study": "изучать",
+  "such": "такой (such as — например)",
+  "suggested": "предположил(и), предлагали",
+  "suggests": "говорит о том",
+  "sunday": "воскресенье",
+  "suns": "солнца",
+  "supported": "подтверждена",
+  "supporters": "сторонники",
+  "supports": "подкрепляет",
+  "survive": "выдержать",
+  "syllables": "слоги",
+  "symbols": "знаки, символы",
+  "system": "система",
+  "table": "таблица",
+  "takes": "получает (takes its name — получила название)",
+  "taurus": "Телец (знак зодиака)",
+  "team": "команда",
+  "telescope": "телескоп",
+  "tens": "десятки",
+  "tepenec": "Тепенец (место)",
+  "test": "проверка; анализ",
+  "tested": "проверили, проверить",
+  "text": "текст",
+  "than": "чем",
+  "that": "что, который, этот",
+  "the": "(опр. артикль)",
+  "their": "их",
+  "them": "их, им",
+  "then": "затем, тогда",
+  "theories": "теории",
+  "theory": "теория",
+  "there": "там; (there is/are — есть)",
+  "these": "эти",
+  "they": "они",
+  "thin": "тонкий",
+  "thing": "вещь (the most important thing — самое главное)",
+  "think": "думать, считать",
+  "third": "третий",
+  "thirteenth": "тринадцатый",
+  "thirty": "тридцать",
+  "this": "этот, это",
+  "thought": "считали",
+  "thousands": "тысячи",
+  "three": "три",
+  "throughout": "на протяжении всего",
+  "time": "время",
+  "times": "раз",
+  "tiny": "крошечный",
+  "to": "к, в, (частица инфинитива)",
+  "today": "сегодня",
+  "told": "рассказали",
+  "took": "взяли; (took part) участвовал",
+  "tradition": "традиция",
+  "translate": "переводить",
+  "translation": "перевод",
+  "trick": "обман, уловка",
+  "tried": "пытали (tried their luck — пытали удачу)",
+  "trying": "пытаясь",
+  "tubes": "трубки",
+  "turned": "(turned out) оказалось",
+  "twentieth": "двадцатый",
+  "twenty": "двадцать",
+  "two": "два",
+  "type": "вид, тип",
+  "typical": "типичный",
+  "ultraviolet": "ультрафиолетовый",
+  "under": "в (свете), под",
+  "union": "союз",
+  "united": "соединённые",
+  "university": "университет",
+  "unless": "если не",
+  "unsure": "неуверенный",
+  "until": "пока не, до",
+  "unusual": "необычный",
+  "us": "нам",
+  "used": "использована, использовались",
+  "using": "используя, с помощью",
+  "usually": "обычно",
+  "vellum": "пергамент (веллум)",
+  "very": "очень",
+  "villa": "вилла",
+  "visible": "видимый",
+  "voynich": "Войнич (фамилия)",
+  "war": "война",
+  "was": "был(а)",
+  "way": "способ (in the same way — так же)",
+  "we": "мы",
+  "were": "были",
+  "what": "что, какой",
+  "when": "когда",
+  "where": "где",
+  "whether": "ли",
+  "which": "который, что",
+  "who": "кто, который",
+  "whose": "чей",
+  "why": "почему",
+  "wife": "жена",
+  "wilfrid": "Вилфрид (имя)",
+  "william": "Уильям (имя)",
+  "with": "с",
+  "women": "женщины",
+  "women's": "женский",
+  "words": "слова",
+  "work": "работать",
+  "worked": "работал",
+  "world": "мир, мировой",
+  "would": "бы",
+  "writer": "писатель; автор",
+  "writers": "писавшие",
+  "writing": "письмо, текст",
+  "written": "написан(а)",
+  "wrote": "написал",
+  "yale": "Йель (университет)",
+  "yale's": "Йельского университета",
+  "years": "лет, годы",
+  "young": "молодой",
+  "zanette": "Санетте (фамилия)",
+  "zodiac": "зодиак"
+ },
+ "vocab": {
+  "attempt": 321,
+  "benefits": 576,
+  "carefully": 338,
+  "casual": 544,
+  "empty": 200,
+  "immediately": 433,
+  "luck": 11,
+  "nervous": 479,
+  "same": 298,
+  "sight": 368,
+  "stand": 193,
+  "such": 209,
+  "sunday": 176,
+  "until": 606,
+  "turned": 23,
+  "proved": 263,
+  "attempts": 321,
+  "deserves": 575
+ }
+}

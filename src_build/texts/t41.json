@@ -1,0 +1,1405 @@
+{
+ "id": 41,
+ "level": "B1",
+ "title_en": "The Third Page",
+ "title_ru": "Третья страница",
+ "genre": "Детектив",
+ "summary_ru": "Снежная буря отрезает маленький горный отель от мира, а наутро из запертого сейфа исчезает только что подписанный договор — и подозревают прежде всего нотариуса, которая за него отвечала.",
+ "paragraphs": [
+  {
+   "en": "The storm hit the Hotel Altberg a little after four in the afternoon. By five, the only road down to the valley had disappeared under the snow, and by six the radio said that it would not be cleared before Thursday. Hanna Wirth stood at the window of the hall and watched the white wall outside with growing anxiety. She was a notary from the town of Brenz, and she had come up the mountain for one simple job: to watch two men sign a contract and to take the signed document safely back to her office.",
+   "ru": "Буря обрушилась на отель «Альтберг» вскоре после четырёх часов дня. К пяти единственная дорога вниз, в долину, исчезла под снегом, а к шести по радио сказали, что её не расчистят до четверга. Ханна Вирт стояла у окна в холле и с растущим беспокойством смотрела на белую стену снаружи. Она была нотариусом из городка Бренц и поднялась в горы ради одного простого дела: проследить, как двое мужчин подпишут договор, и в целости доставить подписанный документ к себе в контору.",
+   "s": [
+    [
+     "The storm hit the Hotel Altberg a little after four in the afternoon.",
+     "Буря обрушилась на отель «Альтберг» вскоре после четырёх часов дня."
+    ],
+    [
+     "By five, the only road down to the valley had disappeared under the snow, and by six the radio said that it would not be cleared before Thursday.",
+     "К пяти единственная дорога вниз, в долину, исчезла под снегом, а к шести по радио сказали, что её не расчистят до четверга."
+    ],
+    [
+     "Hanna Wirth stood at the window of the hall and watched the white wall outside with growing anxiety.",
+     "Ханна Вирт стояла у окна в холле и с растущим беспокойством смотрела на белую стену снаружи."
+    ],
+    [
+     "She was a notary from the town of Brenz, and she had come up the mountain for one simple job: to watch two men sign a contract and to take the signed document safely back to her office.",
+     "Она была нотариусом из городка Бренц и поднялась в горы ради одного простого дела: проследить, как двое мужчин подпишут договор, и в целости доставить подписанный документ к себе в контору."
+    ]
+   ]
+  },
+  {
+   "en": "The two men were sitting by the fire behind her. Gregor Lanz was tall and handsome, with an expensive coat and a smile that never quite reached his eyes. His company wanted to build a ski resort on the slopes across the valley. Matthias Ober was seventy-eight, thin and quiet, and he owned those slopes. His family had kept sheep there for two hundred years.",
+   "ru": "Эти двое сидели у камина у неё за спиной. Грегор Ланц был высоким и красивым, в дорогом пальто и с улыбкой, которая никогда по-настоящему не доходила до его глаз. Его компания хотела построить горнолыжный курорт на склонах по ту сторону долины. Маттиасу Оберу было семьдесят восемь, он был худым и тихим, и эти склоны принадлежали ему. Его семья держала там овец двести лет.",
+   "s": [
+    [
+     "The two men were sitting by the fire behind her.",
+     "Эти двое сидели у камина у неё за спиной."
+    ],
+    [
+     "Gregor Lanz was tall and handsome, with an expensive coat and a smile that never quite reached his eyes.",
+     "Грегор Ланц был высоким и красивым, в дорогом пальто и с улыбкой, которая никогда по-настоящему не доходила до его глаз."
+    ],
+    [
+     "His company wanted to build a ski resort on the slopes across the valley.",
+     "Его компания хотела построить горнолыжный курорт на склонах по ту сторону долины."
+    ],
+    [
+     "Matthias Ober was seventy-eight, thin and quiet, and he owned those slopes.",
+     "Маттиасу Оберу было семьдесят восемь, он был худым и тихим, и эти склоны принадлежали ему."
+    ],
+    [
+     "His family had kept sheep there for two hundred years.",
+     "Его семья держала там овец двести лет."
+    ]
+   ]
+  },
+  {
+   "en": "\"Excellent weather for business,\" Gregor said with a laugh. \"Nobody can run away.\" The hotel was small and cozy. Its walls were made of dark wood, there were thick wool blankets on every bed, and the owner, a grey-haired woman called Edda Kranz, made her own lavender soap from sheep's milk and left a piece in every bathroom. There was only one other guest, a young photographer called Nils, who had come to take pictures of the mountains.",
+   "ru": "«Отличная погода для дел, — со смехом сказал Грегор. — Никто не сможет сбежать». Отель был маленьким и уютным. Его стены были из тёмного дерева, на каждой кровати лежали толстые шерстяные одеяла, а хозяйка, седая женщина по имени Эдда Кранц, сама варила лавандовое мыло из овечьего молока и оставляла по куску в каждой ванной. Кроме них, в отеле был только один гость — молодой фотограф по имени Нильс, который приехал фотографировать горы.",
+   "s": [
+    [
+     "\"Excellent weather for business,\" Gregor said with a laugh.",
+     "«Отличная погода для дел, — со смехом сказал Грегор."
+    ],
+    [
+     "\"Nobody can run away.\"",
+     "— Никто не сможет сбежать»."
+    ],
+    [
+     "The hotel was small and cozy.",
+     "Отель был маленьким и уютным."
+    ],
+    [
+     "Its walls were made of dark wood, there were thick wool blankets on every bed, and the owner, a grey-haired woman called Edda Kranz, made her own lavender soap from sheep's milk and left a piece in every bathroom.",
+     "Его стены были из тёмного дерева, на каждой кровати лежали толстые шерстяные одеяла, а хозяйка, седая женщина по имени Эдда Кранц, сама варила лавандовое мыло из овечьего молока и оставляла по куску в каждой ванной."
+    ],
+    [
+     "There was only one other guest, a young photographer called Nils, who had come to take pictures of the mountains.",
+     "Кроме них, в отеле был только один гость — молодой фотограф по имени Нильс, который приехал фотографировать горы."
+    ]
+   ]
+  },
+  {
+   "en": "They signed the contract after dinner, at the long table in the dining room. Hanna had prepared it herself in her office: five pages, held together with a silver paper clip. She read every line to Matthias, slowly, because the old man said that his eyes were not what they had been. She had just finished page three when the storm hit the power line and the lights went out. For almost two minutes there was nothing but darkness, the noise of the wind and Edda's voice calling for candles. Then the electricity was restored, Hanna read the last two pages, and Matthias signed each page with a shaking hand.",
+   "ru": "Договор подписали после ужина за длинным столом в столовой. Ханна сама подготовила его в своей конторе: пять страниц, скреплённых серебристой скрепкой. Она медленно прочитала Маттиасу каждую строчку, потому что старик сказал, что глаза у него уже не те, что раньше. Она только что закончила третью страницу, когда буря ударила по линии электропередачи и погас свет. Почти две минуты не было ничего, кроме темноты, шума ветра и голоса Эдды, которая звала принести свечи. Потом электричество восстановили, Ханна прочитала последние две страницы, и Маттиас дрожащей рукой подписал каждую страницу.",
+   "s": [
+    [
+     "They signed the contract after dinner, at the long table in the dining room.",
+     "Договор подписали после ужина за длинным столом в столовой."
+    ],
+    [
+     "Hanna had prepared it herself in her office: five pages, held together with a silver paper clip.",
+     "Ханна сама подготовила его в своей конторе: пять страниц, скреплённых серебристой скрепкой."
+    ],
+    [
+     "She read every line to Matthias, slowly, because the old man said that his eyes were not what they had been.",
+     "Она медленно прочитала Маттиасу каждую строчку, потому что старик сказал, что глаза у него уже не те, что раньше."
+    ],
+    [
+     "She had just finished page three when the storm hit the power line and the lights went out.",
+     "Она только что закончила третью страницу, когда буря ударила по линии электропередачи и погас свет."
+    ],
+    [
+     "For almost two minutes there was nothing but darkness, the noise of the wind and Edda's voice calling for candles.",
+     "Почти две минуты не было ничего, кроме темноты, шума ветра и голоса Эдды, которая звала принести свечи."
+    ],
+    [
+     "Then the electricity was restored, Hanna read the last two pages, and Matthias signed each page with a shaking hand.",
+     "Потом электричество восстановили, Ханна прочитала последние две страницы, и Маттиас дрожащей рукой подписал каждую страницу."
+    ]
+   ]
+  },
+  {
+   "en": "\"Where will you keep it tonight?\" Gregor asked. \"In the hotel safe,\" said Hanna. Edda led them to her little office behind the reception desk. It needed two things to open it: a key, which Edda kept on a chain around her neck, and a six-number code, which Hanna chose herself and typed while the others turned away. She put the document inside, closed the heavy door and felt a weight leave her shoulders.",
+   "ru": "«Где вы будете хранить его этой ночью?» — спросил Грегор. «В сейфе отеля», — ответила Ханна. Эдда отвела их в свой маленький кабинет за стойкой администратора. Чтобы его открыть, нужны были две вещи: ключ, который Эдда носила на цепочке на шее, и шестизначный код, который Ханна выбрала сама и набрала, пока остальные отвернулись. Она положила документ внутрь, закрыла тяжёлую дверцу и почувствовала, как с плеч свалился груз.",
+   "s": [
+    [
+     "\"Where will you keep it tonight?\" Gregor asked.",
+     "«Где вы будете хранить его этой ночью?» — спросил Грегор."
+    ],
+    [
+     "\"In the hotel safe,\" said Hanna.",
+     "«В сейфе отеля», — ответила Ханна."
+    ],
+    [
+     "Edda led them to her little office behind the reception desk.",
+     "Эдда отвела их в свой маленький кабинет за стойкой администратора."
+    ],
+    [
+     "It needed two things to open it: a key, which Edda kept on a chain around her neck, and a six-number code, which Hanna chose herself and typed while the others turned away.",
+     "Чтобы его открыть, нужны были две вещи: ключ, который Эдда носила на цепочке на шее, и шестизначный код, который Ханна выбрала сама и набрала, пока остальные отвернулись."
+    ],
+    [
+     "She put the document inside, closed the heavy door and felt a weight leave her shoulders.",
+     "Она положила документ внутрь, закрыла тяжёлую дверцу и почувствовала, как с плеч свалился груз."
+    ]
+   ]
+  },
+  {
+   "en": "At seven the next morning, Edda knocked on her door. Her face was white. \"You'd better come,\" she said. The safe in the office was closed, just as they had left it. But when Edda turned the key and Hanna typed the code, the door opened on an empty box. The contract had vanished.",
+   "ru": "В семь утра на следующий день Эдда постучала к ней в дверь. Лицо у неё было белым. «Вам лучше пойти со мной», — сказала она. Сейф в кабинете был закрыт — точно так же, как они его оставили. Но когда Эдда повернула ключ, а Ханна набрала код, дверца открылась, и внутри было пусто. Договор исчез.",
+   "s": [
+    [
+     "At seven the next morning, Edda knocked on her door.",
+     "В семь утра на следующий день Эдда постучала к ней в дверь."
+    ],
+    [
+     "Her face was white.",
+     "Лицо у неё было белым."
+    ],
+    [
+     "\"You'd better come,\" she said.",
+     "«Вам лучше пойти со мной», — сказала она."
+    ],
+    [
+     "The safe in the office was closed, just as they had left it.",
+     "Сейф в кабинете был закрыт — точно так же, как они его оставили."
+    ],
+    [
+     "But when Edda turned the key and Hanna typed the code, the door opened on an empty box.",
+     "Но когда Эдда повернула ключ, а Ханна набрала код, дверца открылась, и внутри было пусто."
+    ],
+    [
+     "The contract had vanished.",
+     "Договор исчез."
+    ]
+   ]
+  },
+  {
+   "en": "Within ten minutes, everybody was in the hall. Gregor was not smiling now. \"Only two people had access to that safe,\" he said, pointing first at Hanna and then at Edda. \"One has the key, one has the code. It is a simple question of which one of you is lying.\" \"Or both,\" said Nils from the stairs. Nobody laughed.",
+   "ru": "Через десять минут все собрались в холле. Теперь Грегор не улыбался. «Только у двух человек был доступ к этому сейфу, — сказал он, указывая сначала на Ханну, а потом на Эдду. — У одной ключ, у другой код. Это простой вопрос: какая из вас лжёт». «Или обе», — сказал Нильс с лестницы. Никто не засмеялся.",
+   "s": [
+    [
+     "Within ten minutes, everybody was in the hall.",
+     "Через десять минут все собрались в холле."
+    ],
+    [
+     "Gregor was not smiling now.",
+     "Теперь Грегор не улыбался."
+    ],
+    [
+     "\"Only two people had access to that safe,\" he said, pointing first at Hanna and then at Edda.",
+     "«Только у двух человек был доступ к этому сейфу, — сказал он, указывая сначала на Ханну, а потом на Эдду."
+    ],
+    [
+     "\"One has the key, one has the code.",
+     "— У одной ключ, у другой код."
+    ],
+    [
+     "It is a simple question of which one of you is lying.\"",
+     "Это простой вопрос: какая из вас лжёт»."
+    ],
+    [
+     "\"Or both,\" said Nils from the stairs.",
+     "«Или обе», — сказал Нильс с лестницы."
+    ],
+    [
+     "Nobody laughed.",
+     "Никто не засмеялся."
+    ]
+   ]
+  },
+  {
+   "en": "Hanna felt sick. Without the signed original, the sale was not finished, and a notary who loses a signed contract does not stay a notary for long. She looked at Matthias. The old man was sitting in his usual chair by the fire with a blanket over his knees, and he seemed rather calm for someone who had just lost a fortune. \"Mr Ober,\" she said, \"I am so sorry.\" \"Don't be sorry, child,\" he answered. \"Find it.\"",
+   "ru": "Ханне стало дурно. Без подписанного оригинала сделка не была завершена, а нотариус, который теряет подписанный договор, недолго остаётся нотариусом. Она посмотрела на Маттиаса. Старик сидел в своём обычном кресле у камина с одеялом на коленях и казался довольно спокойным для человека, который только что потерял целое состояние. «Господин Обер, — сказала она, — мне так жаль». «Не надо жалеть, дитя моё, — ответил он. — Найдите его».",
+   "s": [
+    [
+     "Hanna felt sick.",
+     "Ханне стало дурно."
+    ],
+    [
+     "Without the signed original, the sale was not finished, and a notary who loses a signed contract does not stay a notary for long.",
+     "Без подписанного оригинала сделка не была завершена, а нотариус, который теряет подписанный договор, недолго остаётся нотариусом."
+    ],
+    [
+     "She looked at Matthias.",
+     "Она посмотрела на Маттиаса."
+    ],
+    [
+     "The old man was sitting in his usual chair by the fire with a blanket over his knees, and he seemed rather calm for someone who had just lost a fortune.",
+     "Старик сидел в своём обычном кресле у камина с одеялом на коленях и казался довольно спокойным для человека, который только что потерял целое состояние."
+    ],
+    [
+     "\"Mr Ober,\" she said, \"I am so sorry.\"",
+     "«Господин Обер, — сказала она, — мне так жаль»."
+    ],
+    [
+     "\"Don't be sorry, child,\" he answered.",
+     "«Не надо жалеть, дитя моё, — ответил он."
+    ],
+    [
+     "\"Find it.\"",
+     "— Найдите его»."
+    ]
+   ]
+  },
+  {
+   "en": "She decided to do exactly that. The road was closed, the phone lines were down, and the nearest police officer was forty kilometres away. Whoever had taken the document was still inside the hotel, and so, almost certainly, was the document. Edda told her that she had gone to bed at eleven, with the key around her neck as always. She had heard nothing unusual, only the wind and, at about two o'clock, the noise of someone walking in the corridor.",
+   "ru": "Она решила именно так и сделать. Дорога была закрыта, телефонные линии не работали, а ближайший полицейский находился в сорока километрах. Тот, кто взял документ, всё ещё был в отеле, а значит, почти наверняка и сам документ. Эдда рассказала ей, что легла спать в одиннадцать, как всегда с ключом на шее. Она не слышала ничего необычного, только ветер и около двух часов — шум чьих-то шагов в коридоре.",
+   "s": [
+    [
+     "She decided to do exactly that.",
+     "Она решила именно так и сделать."
+    ],
+    [
+     "The road was closed, the phone lines were down, and the nearest police officer was forty kilometres away.",
+     "Дорога была закрыта, телефонные линии не работали, а ближайший полицейский находился в сорока километрах."
+    ],
+    [
+     "Whoever had taken the document was still inside the hotel, and so, almost certainly, was the document.",
+     "Тот, кто взял документ, всё ещё был в отеле, а значит, почти наверняка и сам документ."
+    ],
+    [
+     "Edda told her that she had gone to bed at eleven, with the key around her neck as always.",
+     "Эдда рассказала ей, что легла спать в одиннадцать, как всегда с ключом на шее."
+    ],
+    [
+     "She had heard nothing unusual, only the wind and, at about two o'clock, the noise of someone walking in the corridor.",
+     "Она не слышала ничего необычного, только ветер и около двух часов — шум чьих-то шагов в коридоре."
+    ]
+   ]
+  },
+  {
+   "en": "Then Hanna went back to the office and looked at the safe more carefully. There was no damage to the lock and no marks on the door. On the floor in front of it, however, she found three small things: a bit of grey wool, a drop of candle wax and a faint smell of lavender. The wool could have come from any of the blankets in the hotel. The lavender was Edda's soap, which was in every bathroom. Every clue led everywhere, which meant that it led nowhere.",
+   "ru": "Затем Ханна вернулась в кабинет и осмотрела сейф внимательнее. Замок не был повреждён, на дверце не было никаких следов. Однако на полу перед ним она нашла три мелочи: клочок серой шерсти, каплю свечного воска и слабый запах лаванды. Шерсть могла быть с любого одеяла в отеле. Лаванда — это было мыло Эдды, которое лежало в каждой ванной. Каждая улика вела повсюду, а значит, не вела никуда.",
+   "s": [
+    [
+     "Then Hanna went back to the office and looked at the safe more carefully.",
+     "Затем Ханна вернулась в кабинет и осмотрела сейф внимательнее."
+    ],
+    [
+     "There was no damage to the lock and no marks on the door.",
+     "Замок не был повреждён, на дверце не было никаких следов."
+    ],
+    [
+     "On the floor in front of it, however, she found three small things: a bit of grey wool, a drop of candle wax and a faint smell of lavender.",
+     "Однако на полу перед ним она нашла три мелочи: клочок серой шерсти, каплю свечного воска и слабый запах лаванды."
+    ],
+    [
+     "The wool could have come from any of the blankets in the hotel.",
+     "Шерсть могла быть с любого одеяла в отеле."
+    ],
+    [
+     "The lavender was Edda's soap, which was in every bathroom.",
+     "Лаванда — это было мыло Эдды, которое лежало в каждой ванной."
+    ],
+    [
+     "Every clue led everywhere, which meant that it led nowhere.",
+     "Каждая улика вела повсюду, а значит, не вела никуда."
+    ]
+   ]
+  },
+  {
+   "en": "She tried to think like a detective rather than a frightened notary. Who would want the contract to disappear? Not Gregor, of course. The signed document was his goal. And Nils? She had seen him talking quietly to Gregor at breakfast the day before.",
+   "ru": "Она старалась думать как сыщик, а не как испуганный нотариус. Кому было нужно, чтобы договор исчез? Конечно, не Грегору. Подписанный документ был его целью. А Нильс? Накануне за завтраком она видела, как он тихо разговаривал с Грегором.",
+   "s": [
+    [
+     "She tried to think like a detective rather than a frightened notary.",
+     "Она старалась думать как сыщик, а не как испуганный нотариус."
+    ],
+    [
+     "Who would want the contract to disappear?",
+     "Кому было нужно, чтобы договор исчез?"
+    ],
+    [
+     "Not Gregor, of course.",
+     "Конечно, не Грегору."
+    ],
+    [
+     "The signed document was his goal.",
+     "Подписанный документ был его целью."
+    ],
+    [
+     "And Nils?",
+     "А Нильс?"
+    ],
+    [
+     "She had seen him talking quietly to Gregor at breakfast the day before.",
+     "Накануне за завтраком она видела, как он тихо разговаривал с Грегором."
+    ]
+   ]
+  },
+  {
+   "en": "She found Nils in the kitchen, eating bread with honey. When she asked him about the night, he went red. He admitted that he had been in the corridor at two, but only to take photos of the storm from the window at the end. He showed her the pictures on his camera: snow, darkness, the shapes of trees. On the last one, taken at 2:14, there was something else. The window reflected the corridor behind him, and in the glass she could see a figure in a long coat, walking towards the stairs with a candle in its hand.",
+   "ru": "Она нашла Нильса на кухне: он ел хлеб с мёдом. Когда она спросила его о прошлой ночи, он покраснел. Он признался, что в два часа был в коридоре, но лишь для того, чтобы сфотографировать бурю из окна в конце коридора. Он показал ей снимки на фотоаппарате: снег, темнота, силуэты деревьев. На последнем, сделанном в 2:14, было кое-что ещё. В окне отражался коридор у него за спиной, и в стекле она увидела фигуру в длинном пальто, которая шла к лестнице со свечой в руке.",
+   "s": [
+    [
+     "She found Nils in the kitchen, eating bread with honey.",
+     "Она нашла Нильса на кухне: он ел хлеб с мёдом."
+    ],
+    [
+     "When she asked him about the night, he went red.",
+     "Когда она спросила его о прошлой ночи, он покраснел."
+    ],
+    [
+     "He admitted that he had been in the corridor at two, but only to take photos of the storm from the window at the end.",
+     "Он признался, что в два часа был в коридоре, но лишь для того, чтобы сфотографировать бурю из окна в конце коридора."
+    ],
+    [
+     "He showed her the pictures on his camera: snow, darkness, the shapes of trees.",
+     "Он показал ей снимки на фотоаппарате: снег, темнота, силуэты деревьев."
+    ],
+    [
+     "On the last one, taken at 2:14, there was something else.",
+     "На последнем, сделанном в 2:14, было кое-что ещё."
+    ],
+    [
+     "The window reflected the corridor behind him, and in the glass she could see a figure in a long coat, walking towards the stairs with a candle in its hand.",
+     "В окне отражался коридор у него за спиной, и в стекле она увидела фигуру в длинном пальто, которая шла к лестнице со свечой в руке."
+    ]
+   ]
+  },
+  {
+   "en": "The figure was too small to recognise. But it was walking slowly, with one hand on the wall, like someone who was old, or someone who did not want to make any noise. Hanna went to sit in the hall and think. On the wall above the fireplace there were many old photographs of the hotel and the valley.",
+   "ru": "Фигура была слишком маленькой, чтобы её узнать. Но она шла медленно, держась одной рукой за стену, как человек старый — или человек, который не хотел шуметь. Ханна пошла в холл, села и задумалась. На стене над камином висело много старых фотографий отеля и долины.",
+   "s": [
+    [
+     "The figure was too small to recognise.",
+     "Фигура была слишком маленькой, чтобы её узнать."
+    ],
+    [
+     "But it was walking slowly, with one hand on the wall, like someone who was old, or someone who did not want to make any noise.",
+     "Но она шла медленно, держась одной рукой за стену, как человек старый — или человек, который не хотел шуметь."
+    ],
+    [
+     "Hanna went to sit in the hall and think.",
+     "Ханна пошла в холл, села и задумалась."
+    ],
+    [
+     "On the wall above the fireplace there were many old photographs of the hotel and the valley.",
+     "На стене над камином висело много старых фотографий отеля и долины."
+    ]
+   ]
+  },
+  {
+   "en": "One photograph was older than the others. It showed a farmhouse in summer, a field full of sheep, and two children in front of a wooden fence: a tall boy and a smaller girl with long plaits. Somebody had written under it in faded ink: \"Matthias and Edda, 1958.\" Only yesterday Edda had told them that she had never met Mr Ober before. And Matthias had arrived like any other guest, with a suitcase and a polite \"Good afternoon.\"",
+   "ru": "Одна фотография была старее остальных. На ней был фермерский дом летом, поле, полное овец, и двое детей перед деревянным забором: высокий мальчик и девочка поменьше с длинными косами. Кто-то подписал под ней выцветшими чернилами: «Маттиас и Эдда, 1958». Только вчера Эдда говорила им, что никогда раньше не встречала господина Обера. А Маттиас приехал, как любой другой гость, с чемоданом и вежливым «Добрый день».",
+   "s": [
+    [
+     "One photograph was older than the others.",
+     "Одна фотография была старее остальных."
+    ],
+    [
+     "It showed a farmhouse in summer, a field full of sheep, and two children in front of a wooden fence: a tall boy and a smaller girl with long plaits.",
+     "На ней был фермерский дом летом, поле, полное овец, и двое детей перед деревянным забором: высокий мальчик и девочка поменьше с длинными косами."
+    ],
+    [
+     "Somebody had written under it in faded ink: \"Matthias and Edda, 1958.\"",
+     "Кто-то подписал под ней выцветшими чернилами: «Маттиас и Эдда, 1958»."
+    ],
+    [
+     "Only yesterday Edda had told them that she had never met Mr Ober before.",
+     "Только вчера Эдда говорила им, что никогда раньше не встречала господина Обера."
+    ],
+    [
+     "And Matthias had arrived like any other guest, with a suitcase and a polite \"Good afternoon.\"",
+     "А Маттиас приехал, как любой другой гость, с чемоданом и вежливым «Добрый день»."
+    ]
+   ]
+  },
+  {
+   "en": "Brother and sister. And the sister had the key to the safe. Hanna remembered the evening before: she had typed the code while the others turned away. But Edda had turned towards the old mirror on the wall, and in that mirror anyone could have seen Hanna's fingers. Her face went hot.",
+   "ru": "Брат и сестра. И у сестры был ключ от сейфа. Ханна вспомнила вчерашний вечер: она набирала код, пока остальные отвернулись. Но Эдда повернулась к старому зеркалу на стене, а в этом зеркале кто угодно мог увидеть пальцы Ханны. Лицо у неё вспыхнуло.",
+   "s": [
+    [
+     "Brother and sister.",
+     "Брат и сестра."
+    ],
+    [
+     "And the sister had the key to the safe.",
+     "И у сестры был ключ от сейфа."
+    ],
+    [
+     "Hanna remembered the evening before: she had typed the code while the others turned away.",
+     "Ханна вспомнила вчерашний вечер: она набирала код, пока остальные отвернулись."
+    ],
+    [
+     "But Edda had turned towards the old mirror on the wall, and in that mirror anyone could have seen Hanna's fingers.",
+     "Но Эдда повернулась к старому зеркалу на стене, а в этом зеркале кто угодно мог увидеть пальцы Ханны."
+    ],
+    [
+     "Her face went hot.",
+     "Лицо у неё вспыхнуло."
+    ]
+   ]
+  },
+  {
+   "en": "But a key and a code explained how, not why. Why would a man steal his own contract? She looked across the room at Matthias. He was reading a newspaper by the window, and he was not wearing glasses. The print was tiny, but he was reading it easily. \"My eyes are not what they were,\" he had said last night. Either his eyes had become much better overnight, or he had wanted her to read the contract aloud for a reason.",
+   "ru": "Но ключ и код объясняли, как, а не почему. Зачем человеку красть собственный договор? Она посмотрела через комнату на Маттиаса. Он читал газету у окна — и был без очков. Шрифт был крошечным, но он читал без труда. «Глаза у меня уже не те», — сказал он вчера вечером. Либо его глаза за ночь стали гораздо лучше, либо он хотел, чтобы она прочитала договор вслух, не просто так.",
+   "s": [
+    [
+     "But a key and a code explained how, not why.",
+     "Но ключ и код объясняли, как, а не почему."
+    ],
+    [
+     "Why would a man steal his own contract?",
+     "Зачем человеку красть собственный договор?"
+    ],
+    [
+     "She looked across the room at Matthias.",
+     "Она посмотрела через комнату на Маттиаса."
+    ],
+    [
+     "He was reading a newspaper by the window, and he was not wearing glasses.",
+     "Он читал газету у окна — и был без очков."
+    ],
+    [
+     "The print was tiny, but he was reading it easily.",
+     "Шрифт был крошечным, но он читал без труда."
+    ],
+    [
+     "\"My eyes are not what they were,\" he had said last night.",
+     "«Глаза у меня уже не те», — сказал он вчера вечером."
+    ],
+    [
+     "Either his eyes had become much better overnight, or he had wanted her to read the contract aloud for a reason.",
+     "Либо его глаза за ночь стали гораздо лучше, либо он хотел, чтобы она прочитала договор вслух, не просто так."
+    ]
+   ]
+  },
+  {
+   "en": "She sat down next to him. \"Mr Ober,\" she said quietly, \"your sister makes excellent soap.\" For a long moment he said nothing. Then he folded the newspaper and looked at her with clear blue eyes. \"Edda said you were clever,\" he said. \"Where is the document?\" \"Safe,\" he said. \"Rather safer than it was in that box.\"",
+   "ru": "Она села рядом с ним. «Господин Обер, — тихо сказала она, — ваша сестра варит отличное мыло». Долгое мгновение он молчал. Потом он сложил газету и посмотрел на неё ясными голубыми глазами. «Эдда говорила, что вы умная», — сказал он. «Где документ?» «В безопасности, — ответил он. — Пожалуй, в большей безопасности, чем в том ящике».",
+   "s": [
+    [
+     "She sat down next to him.",
+     "Она села рядом с ним."
+    ],
+    [
+     "\"Mr Ober,\" she said quietly, \"your sister makes excellent soap.\"",
+     "«Господин Обер, — тихо сказала она, — ваша сестра варит отличное мыло»."
+    ],
+    [
+     "For a long moment he said nothing.",
+     "Долгое мгновение он молчал."
+    ],
+    [
+     "Then he folded the newspaper and looked at her with clear blue eyes.",
+     "Потом он сложил газету и посмотрел на неё ясными голубыми глазами."
+    ],
+    [
+     "\"Edda said you were clever,\" he said.",
+     "«Эдда говорила, что вы умная», — сказал он."
+    ],
+    [
+     "\"Where is the document?\"",
+     "«Где документ?»"
+    ],
+    [
+     "\"Safe,\" he said.",
+     "«В безопасности, — ответил он."
+    ],
+    [
+     "\"Rather safer than it was in that box.\"",
+     "— Пожалуй, в большей безопасности, чем в том ящике»."
+    ]
+   ]
+  },
+  {
+   "en": "He told her the whole story then, in a low voice, while Gregor walked up and down on the other side of the room, shouting at a phone that had no signal. Matthias had never wanted to sell. But the farm was losing money, his sons had moved to the city, and Gregor had offered a price that was hard to refuse. The deal was for one field only, the north meadow, which was enough for a hotel and a ski lift. The rest of his beloved valley, with the lake and the spring that gave water to the whole village below, would stay with the family.",
+   "ru": "И тогда он вполголоса рассказал ей всю историю, пока Грегор расхаживал взад-вперёд на другом конце комнаты и кричал в телефон, у которого не было сигнала. Маттиас никогда не хотел продавать. Но ферма теряла деньги, его сыновья переехали в город, а Грегор предложил цену, от которой трудно было отказаться. Сделка касалась только одного поля — северного луга, которого хватало для гостиницы и подъёмника. Остальная часть его любимой долины, с озером и родником, дававшим воду всей деревне внизу, должна была остаться у семьи.",
+   "s": [
+    [
+     "He told her the whole story then, in a low voice, while Gregor walked up and down on the other side of the room, shouting at a phone that had no signal.",
+     "И тогда он вполголоса рассказал ей всю историю, пока Грегор расхаживал взад-вперёд на другом конце комнаты и кричал в телефон, у которого не было сигнала."
+    ],
+    [
+     "Matthias had never wanted to sell.",
+     "Маттиас никогда не хотел продавать."
+    ],
+    [
+     "But the farm was losing money, his sons had moved to the city, and Gregor had offered a price that was hard to refuse.",
+     "Но ферма теряла деньги, его сыновья переехали в город, а Грегор предложил цену, от которой трудно было отказаться."
+    ],
+    [
+     "The deal was for one field only, the north meadow, which was enough for a hotel and a ski lift.",
+     "Сделка касалась только одного поля — северного луга, которого хватало для гостиницы и подъёмника."
+    ],
+    [
+     "The rest of his beloved valley, with the lake and the spring that gave water to the whole village below, would stay with the family.",
+     "Остальная часть его любимой долины, с озером и родником, дававшим воду всей деревне внизу, должна была остаться у семьи."
+    ]
+   ]
+  },
+  {
+   "en": "\"So I asked you to read it to me,\" he said. \"I don't trust men with such nice coats. I wanted to hear every word in front of a witness, and I heard it. One field.\" \"Then the lights went out.\" Later, in his room, he had not been able to sleep. At two in the morning he had woken his sister, and together they had gone down to the safe. \"We didn't tell you because we didn't know if you were working with him,\" said Edda, who had come to stand behind them. \"Then I saw your face this morning, and I knew you weren't.\"",
+   "ru": "«Поэтому я и попросил вас прочитать его мне, — сказал он. — Я не доверяю мужчинам в таких красивых пальто. Я хотел услышать каждое слово при свидетеле, и я его услышал. Одно поле». «А потом погас свет». Позже, у себя в комнате, он не мог уснуть. В два часа ночи он разбудил сестру, и они вместе спустились к сейфу. «Мы не сказали вам, потому что не знали, не работаете ли вы на него», — сказала Эдда, которая подошла и встала у них за спиной. «А потом я увидела ваше лицо сегодня утром и поняла, что нет».",
+   "s": [
+    [
+     "\"So I asked you to read it to me,\" he said.",
+     "«Поэтому я и попросил вас прочитать его мне, — сказал он."
+    ],
+    [
+     "\"I don't trust men with such nice coats.",
+     "— Я не доверяю мужчинам в таких красивых пальто."
+    ],
+    [
+     "I wanted to hear every word in front of a witness, and I heard it.",
+     "Я хотел услышать каждое слово при свидетеле, и я его услышал."
+    ],
+    [
+     "One field.\"",
+     "Одно поле»."
+    ],
+    [
+     "\"Then the lights went out.\"",
+     "«А потом погас свет»."
+    ],
+    [
+     "Later, in his room, he had not been able to sleep.",
+     "Позже, у себя в комнате, он не мог уснуть."
+    ],
+    [
+     "At two in the morning he had woken his sister, and together they had gone down to the safe.",
+     "В два часа ночи он разбудил сестру, и они вместе спустились к сейфу."
+    ],
+    [
+     "\"We didn't tell you because we didn't know if you were working with him,\" said Edda, who had come to stand behind them.",
+     "«Мы не сказали вам, потому что не знали, не работаете ли вы на него», — сказала Эдда, которая подошла и встала у них за спиной."
+    ],
+    [
+     "\"Then I saw your face this morning, and I knew you weren't.\"",
+     "«А потом я увидела ваше лицо сегодня утром и поняла, что нет»."
+    ]
+   ]
+  },
+  {
+   "en": "Matthias pulled a thick envelope out from under the blanket on his knees and gave it to Hanna. \"Read page three,\" he said. \"Then compare it with your copy.\" Hanna took her own copy out of her bag and laid the two documents side by side on the small table. Pages one, two, four and five were the same. Page three looked the same at first: the same paper, the same structure, the same lines and numbers. But it was not the same.",
+   "ru": "Маттиас вытащил из-под одеяла на коленях толстый конверт и протянул его Ханне. «Прочитайте третью страницу, — сказал он. — А потом сравните её со своей копией». Ханна достала из сумки свою копию и положила оба документа рядом на маленький столик. Первая, вторая, четвёртая и пятая страницы совпадали. Третья страница поначалу выглядела так же: та же бумага, та же структура, те же строки и цифры. Но она была не та же.",
+   "s": [
+    [
+     "Matthias pulled a thick envelope out from under the blanket on his knees and gave it to Hanna.",
+     "Маттиас вытащил из-под одеяла на коленях толстый конверт и протянул его Ханне."
+    ],
+    [
+     "\"Read page three,\" he said.",
+     "«Прочитайте третью страницу, — сказал он."
+    ],
+    [
+     "\"Then compare it with your copy.\"",
+     "— А потом сравните её со своей копией»."
+    ],
+    [
+     "Hanna took her own copy out of her bag and laid the two documents side by side on the small table.",
+     "Ханна достала из сумки свою копию и положила оба документа рядом на маленький столик."
+    ],
+    [
+     "Pages one, two, four and five were the same.",
+     "Первая, вторая, четвёртая и пятая страницы совпадали."
+    ],
+    [
+     "Page three looked the same at first: the same paper, the same structure, the same lines and numbers.",
+     "Третья страница поначалу выглядела так же: та же бумага, та же структура, те же строки и цифры."
+    ],
+    [
+     "But it was not the same.",
+     "Но она была не та же."
+    ]
+   ]
+  },
+  {
+   "en": "In her copy, page three said: \"Field 12, known as the north meadow.\" In the signed original it said: \"Fields 12 to 47, including the lake, the spring and all access roads.\" Thirty-five more fields. The whole valley. There was one more difference too. Hanna had a habit which she had learned from her first boss: she always wrote her initials in pencil in the bottom corner of every page she prepared. Pages one, two, four and five had her tiny \"H.W.\" Page three did not.",
+   "ru": "В её копии на третьей странице было написано: «Поле 12, известное как северный луг». В подписанном оригинале значилось: «Поля с 12 по 47, включая озеро, родник и все подъездные дороги». Ещё тридцать пять полей. Вся долина. Было и ещё одно отличие. У Ханны была привычка, которую она переняла у своего первого начальника: она всегда писала карандашом свои инициалы в нижнем углу каждой подготовленной ею страницы. На первой, второй, четвёртой и пятой страницах стояли её крошечные «Х.В.». На третьей — нет.",
+   "s": [
+    [
+     "In her copy, page three said: \"Field 12, known as the north meadow.\"",
+     "В её копии на третьей странице было написано: «Поле 12, известное как северный луг»."
+    ],
+    [
+     "In the signed original it said: \"Fields 12 to 47, including the lake, the spring and all access roads.\"",
+     "В подписанном оригинале значилось: «Поля с 12 по 47, включая озеро, родник и все подъездные дороги»."
+    ],
+    [
+     "Thirty-five more fields.",
+     "Ещё тридцать пять полей."
+    ],
+    [
+     "The whole valley.",
+     "Вся долина."
+    ],
+    [
+     "There was one more difference too.",
+     "Было и ещё одно отличие."
+    ],
+    [
+     "Hanna had a habit which she had learned from her first boss: she always wrote her initials in pencil in the bottom corner of every page she prepared.",
+     "У Ханны была привычка, которую она переняла у своего первого начальника: она всегда писала карандашом свои инициалы в нижнем углу каждой подготовленной ею страницы."
+    ],
+    [
+     "Pages one, two, four and five had her tiny \"H.W.\"",
+     "На первой, второй, четвёртой и пятой страницах стояли её крошечные «Х.В.»."
+    ],
+    [
+     "Page three did not.",
+     "На третьей — нет."
+    ]
+   ]
+  },
+  {
+   "en": "The paper clip. She had attached the pages with a paper clip, not a staple, and in two minutes of darkness it had been incredibly easy for someone at the same table to take out one page and put in another. Matthias had signed every page by candlelight, trusting what he had heard. And she, the notary, had watched him do it. \"You weren't the only victim,\" the old man said gently, as if he could read her mind. \"He used you too.\"",
+   "ru": "Скрепка. Она скрепила страницы скрепкой, а не степлером, и за две минуты темноты тому, кто сидел за тем же столом, было невероятно легко вынуть одну страницу и вставить другую. Маттиас подписал каждую страницу при свечах, веря тому, что услышал. А она, нотариус, смотрела, как он это делает. «Вы были не единственной жертвой, — мягко сказал старик, будто читал её мысли. — Он и вас использовал».",
+   "s": [
+    [
+     "The paper clip.",
+     "Скрепка."
+    ],
+    [
+     "She had attached the pages with a paper clip, not a staple, and in two minutes of darkness it had been incredibly easy for someone at the same table to take out one page and put in another.",
+     "Она скрепила страницы скрепкой, а не степлером, и за две минуты темноты тому, кто сидел за тем же столом, было невероятно легко вынуть одну страницу и вставить другую."
+    ],
+    [
+     "Matthias had signed every page by candlelight, trusting what he had heard.",
+     "Маттиас подписал каждую страницу при свечах, веря тому, что услышал."
+    ],
+    [
+     "And she, the notary, had watched him do it.",
+     "А она, нотариус, смотрела, как он это делает."
+    ],
+    [
+     "\"You weren't the only victim,\" the old man said gently, as if he could read her mind.",
+     "«Вы были не единственной жертвой, — мягко сказал старик, будто читал её мысли."
+    ],
+    [
+     "\"He used you too.\"",
+     "— Он и вас использовал»."
+    ]
+   ]
+  },
+  {
+   "en": "Hanna looked at Gregor. He was standing by the window with his back to them, his shoulders tight with anger. For a moment she had a strong desire to walk over and hit him with the envelope. Instead, she put the envelope inside her jacket and closed the zip. \"What do you want me to do with it?\" she asked Matthias. \"Keep it safe,\" he said. \"And above all, show it to the police.\"",
+   "ru": "Ханна посмотрела на Грегора. Он стоял у окна спиной к ним, его плечи были напряжены от злости. На мгновение ей очень захотелось подойти и ударить его этим конвертом. Вместо этого она убрала конверт под куртку и застегнула молнию. «Что вы хотите, чтобы я с этим сделала?» — спросила она Маттиаса. «Сохраните это, — сказал он. — И прежде всего покажите полиции».",
+   "s": [
+    [
+     "Hanna looked at Gregor.",
+     "Ханна посмотрела на Грегора."
+    ],
+    [
+     "He was standing by the window with his back to them, his shoulders tight with anger.",
+     "Он стоял у окна спиной к ним, его плечи были напряжены от злости."
+    ],
+    [
+     "For a moment she had a strong desire to walk over and hit him with the envelope.",
+     "На мгновение ей очень захотелось подойти и ударить его этим конвертом."
+    ],
+    [
+     "Instead, she put the envelope inside her jacket and closed the zip.",
+     "Вместо этого она убрала конверт под куртку и застегнула молнию."
+    ],
+    [
+     "\"What do you want me to do with it?\" she asked Matthias.",
+     "«Что вы хотите, чтобы я с этим сделала?» — спросила она Маттиаса."
+    ],
+    [
+     "\"Keep it safe,\" he said.",
+     "«Сохраните это, — сказал он."
+    ],
+    [
+     "\"And above all, show it to the police.\"",
+     "— И прежде всего покажите полиции»."
+    ]
+   ]
+  },
+  {
+   "en": "The road was cleared two days later, on Thursday morning. A snow plough came first, and behind it came a police car from Brenz. Hanna gave both documents to the officer and explained what she had found, page by page. The officer listened, looked at the missing initials, and then asked Gregor to come with him.",
+   "ru": "Дорогу расчистили через два дня, в четверг утром. Первым приехал снегоочиститель, а за ним — полицейская машина из Бренца. Ханна отдала оба документа полицейскому и объяснила, что обнаружила, страницу за страницей. Полицейский выслушал, посмотрел на страницу без инициалов, а потом попросил Грегора пройти с ним.",
+   "s": [
+    [
+     "The road was cleared two days later, on Thursday morning.",
+     "Дорогу расчистили через два дня, в четверг утром."
+    ],
+    [
+     "A snow plough came first, and behind it came a police car from Brenz.",
+     "Первым приехал снегоочиститель, а за ним — полицейская машина из Бренца."
+    ],
+    [
+     "Hanna gave both documents to the officer and explained what she had found, page by page.",
+     "Ханна отдала оба документа полицейскому и объяснила, что обнаружила, страницу за страницей."
+    ],
+    [
+     "The officer listened, looked at the missing initials, and then asked Gregor to come with him.",
+     "Полицейский выслушал, посмотрел на страницу без инициалов, а потом попросил Грегора пройти с ним."
+    ]
+   ]
+  },
+  {
+   "en": "Later, Hanna learned that two other old farmers had signed contracts with Gregor for one field and lost much more. Gregor's lawyers fought for a year, but the court compared the pages, listened to Hanna and the farmers, and sent him to prison for four years. Nobody suggested that Matthias and Edda should be punished for opening a safe in their own family's hotel at two in the morning.",
+   "ru": "Позже Ханна узнала, что ещё двое старых фермеров подписали с Грегором договоры на одно поле, а потеряли гораздо больше. Адвокаты Грегора боролись целый год, но суд сравнил страницы, выслушал Ханну и фермеров и отправил его в тюрьму на четыре года. Никто не предлагал наказать Маттиаса и Эдду за то, что они открыли сейф в отеле собственной семьи в два часа ночи.",
+   "s": [
+    [
+     "Later, Hanna learned that two other old farmers had signed contracts with Gregor for one field and lost much more.",
+     "Позже Ханна узнала, что ещё двое старых фермеров подписали с Грегором договоры на одно поле, а потеряли гораздо больше."
+    ],
+    [
+     "Gregor's lawyers fought for a year, but the court compared the pages, listened to Hanna and the farmers, and sent him to prison for four years.",
+     "Адвокаты Грегора боролись целый год, но суд сравнил страницы, выслушал Ханну и фермеров и отправил его в тюрьму на четыре года."
+    ],
+    [
+     "Nobody suggested that Matthias and Edda should be punished for opening a safe in their own family's hotel at two in the morning.",
+     "Никто не предлагал наказать Маттиаса и Эдду за то, что они открыли сейф в отеле собственной семьи в два часа ночи."
+    ]
+   ]
+  },
+  {
+   "en": "The north meadow was never sold. Matthias kept his sheep. Every December after that, a small parcel arrived at Hanna's office in Brenz. Inside there was always a bar of lavender soap and a short card in an old man's handwriting: \"Worth more than any contract. Come up and see the sheep.\" She always went. But she never used a paper clip again.",
+   "ru": "Северный луг так и не продали. Маттиас оставил своих овец. С тех пор каждый декабрь в контору Ханны в Бренце приходила маленькая посылка. Внутри всегда лежал кусок лавандового мыла и короткая открытка, написанная почерком старика: «Стоит больше любого договора. Приезжайте посмотреть на овец». Она всегда приезжала. Но скрепками она больше никогда не пользовалась.",
+   "s": [
+    [
+     "The north meadow was never sold.",
+     "Северный луг так и не продали."
+    ],
+    [
+     "Matthias kept his sheep.",
+     "Маттиас оставил своих овец."
+    ],
+    [
+     "Every December after that, a small parcel arrived at Hanna's office in Brenz.",
+     "С тех пор каждый декабрь в контору Ханны в Бренце приходила маленькая посылка."
+    ],
+    [
+     "Inside there was always a bar of lavender soap and a short card in an old man's handwriting: \"Worth more than any contract.",
+     "Внутри всегда лежал кусок лавандового мыла и короткая открытка, написанная почерком старика: «Стоит больше любого договора."
+    ],
+    [
+     "Come up and see the sheep.\"",
+     "Приезжайте посмотреть на овец»."
+    ],
+    [
+     "She always went.",
+     "Она всегда приезжала."
+    ],
+    [
+     "But she never used a paper clip again.",
+     "Но скрепками она больше никогда не пользовалась."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "able": "(be able to) мочь, быть в состоянии",
+  "about": "о, около",
+  "above": "над; (above all) прежде всего",
+  "access": "доступ; подъездной",
+  "across": "через, по ту сторону",
+  "admitted": "признался",
+  "after": "после",
+  "afternoon": "день, послеполуденное время",
+  "again": "снова",
+  "all": "все, весь; (at all) совсем",
+  "almost": "почти",
+  "aloud": "вслух",
+  "altberg": "Альтберг (название отеля)",
+  "always": "всегда",
+  "am": "(есть) — я",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "anger": "злость, гнев",
+  "another": "другой, ещё один",
+  "answered": "ответил",
+  "anxiety": "беспокойство, тревога",
+  "any": "любой; какой-либо",
+  "anyone": "кто угодно",
+  "are": "(есть) — вы/они",
+  "around": "вокруг, на (шее)",
+  "arrived": "приехал(а)",
+  "as": "как, так как",
+  "asked": "спросил(а); попросил(а)",
+  "at": "в, у, на",
+  "attached": "скрепила, прикрепила",
+  "away": "прочь; на расстоянии",
+  "back": "назад, обратно; спина",
+  "bag": "сумка",
+  "bar": "кусок (мыла)",
+  "bathroom": "ванная комната",
+  "be": "быть",
+  "because": "потому что",
+  "become": "стать",
+  "bed": "кровать; (go to bed) ложиться спать",
+  "been": "был(о)",
+  "before": "до, раньше; накануне",
+  "behind": "за, позади",
+  "beloved": "любимый",
+  "below": "внизу",
+  "better": "лучше",
+  "bit": "кусочек, клочок",
+  "blanket": "одеяло, плед",
+  "blankets": "одеяла",
+  "blue": "голубой, синий",
+  "boss": "начальник",
+  "both": "оба",
+  "bottom": "нижний, низ",
+  "box": "ящик, коробка",
+  "boy": "мальчик",
+  "bread": "хлеб",
+  "breakfast": "завтрак",
+  "brenz": "Бренц (город)",
+  "brother": "брат",
+  "build": "построить",
+  "business": "дела, бизнес",
+  "but": "но",
+  "by": "у, к; при (by candlelight)",
+  "called": "по имени; звала",
+  "calling": "зовущий, звала",
+  "calm": "спокойный",
+  "came": "пришёл, приехал",
+  "camera": "фотоаппарат",
+  "can": "может, могут",
+  "candle": "свеча; свечной",
+  "candlelight": "свет свечей",
+  "candles": "свечи",
+  "car": "машина",
+  "card": "открытка",
+  "carefully": "внимательно",
+  "certainly": "наверняка, конечно",
+  "chain": "цепочка",
+  "chair": "кресло, стул",
+  "child": "дитя, ребёнок",
+  "children": "дети",
+  "chose": "выбрала",
+  "city": "город",
+  "clear": "ясный",
+  "cleared": "расчищен(а)",
+  "clever": "умный",
+  "clip": "скрепка (paper clip)",
+  "closed": "закрыл(а); закрыт(а)",
+  "clue": "улика, подсказка",
+  "coat": "пальто",
+  "coats": "пальто (мн.)",
+  "code": "код",
+  "come": "прийти, приехать",
+  "company": "компания",
+  "compare": "сравнить",
+  "compared": "сравнил",
+  "contract": "договор",
+  "contracts": "договоры",
+  "copy": "копия",
+  "corner": "угол",
+  "corridor": "коридор",
+  "could": "мог(ла), могли",
+  "course": "(of course) конечно",
+  "court": "суд",
+  "cozy": "уютный",
+  "damage": "повреждение",
+  "dark": "тёмный",
+  "darkness": "темнота",
+  "day": "день",
+  "days": "дни",
+  "deal": "сделка",
+  "december": "декабрь",
+  "decided": "решила",
+  "desire": "желание",
+  "desk": "стойка, стол",
+  "detective": "сыщик, детектив",
+  "did": "(вспом. гл.); сделал(а)",
+  "didn't": "не (прош. вр.)",
+  "difference": "отличие, разница",
+  "dining": "(dining room) столовая",
+  "dinner": "ужин",
+  "disappear": "исчезнуть",
+  "disappeared": "исчезла",
+  "do": "делать; (вспом. гл.)",
+  "document": "документ",
+  "documents": "документы",
+  "does": "(вспом. гл.)",
+  "don't": "не (вспом. гл.)",
+  "door": "дверь, дверца",
+  "down": "вниз; (lines were down) не работали",
+  "drop": "капля",
+  "each": "каждый",
+  "easily": "легко",
+  "easy": "легко, лёгкий",
+  "eating": "ел, евший",
+  "edda": "Эдда (имя)",
+  "edda's": "Эдды",
+  "eight": "восемь",
+  "either": "(either… or) либо… либо",
+  "electricity": "электричество",
+  "eleven": "одиннадцать",
+  "else": "ещё",
+  "empty": "пустой",
+  "end": "конец",
+  "enough": "достаточно",
+  "envelope": "конверт",
+  "evening": "вечер",
+  "every": "каждый",
+  "everybody": "все",
+  "everywhere": "повсюду",
+  "exactly": "именно, точно",
+  "excellent": "отличный",
+  "expensive": "дорогой",
+  "explained": "объяснила",
+  "eyes": "глаза",
+  "face": "лицо",
+  "faded": "выцветший",
+  "faint": "слабый",
+  "family": "семья",
+  "family's": "семьи",
+  "farm": "ферма",
+  "farmers": "фермеры",
+  "farmhouse": "фермерский дом",
+  "felt": "почувствовала; казалось",
+  "fence": "забор",
+  "field": "поле",
+  "fields": "поля",
+  "figure": "фигура",
+  "find": "найти",
+  "fingers": "пальцы",
+  "finished": "закончила; завершён(а)",
+  "fire": "камин, огонь",
+  "fireplace": "камин",
+  "first": "первый; сначала",
+  "five": "пять",
+  "floor": "пол",
+  "folded": "сложил",
+  "for": "для, за; в течение",
+  "fortune": "состояние, богатство",
+  "forty": "сорок",
+  "fought": "боролись",
+  "found": "нашла; обнаружила",
+  "four": "четыре",
+  "frightened": "испуганный",
+  "from": "из, от, с",
+  "front": "(in front of) перед",
+  "full": "полный",
+  "gave": "дал, протянул; давал",
+  "gently": "мягко, ласково",
+  "girl": "девочка",
+  "glass": "стекло",
+  "glasses": "очки",
+  "goal": "цель",
+  "gone": "(had gone) пошла, легла",
+  "good": "добрый, хороший",
+  "gregor": "Грегор (имя)",
+  "gregor's": "Грегора",
+  "grey": "серый; (grey-haired) седой",
+  "growing": "растущий",
+  "guest": "гость",
+  "h": "Х. (инициал)",
+  "habit": "привычка",
+  "had": "(вспом. гл.); имел(а)",
+  "haired": "(grey-haired) седой",
+  "hall": "холл",
+  "hand": "рука",
+  "handsome": "красивый",
+  "handwriting": "почерк",
+  "hanna": "Ханна (имя)",
+  "hanna's": "Ханны",
+  "hard": "трудный, трудно",
+  "has": "(вспом. гл.); есть",
+  "have": "иметь; (вспом. гл.)",
+  "he": "он",
+  "hear": "услышать",
+  "heard": "слышала; услышал",
+  "heavy": "тяжёлый",
+  "held": "скреплённый, удерживаемый",
+  "her": "её, ей",
+  "herself": "сама",
+  "him": "его, ему",
+  "his": "его",
+  "hit": "обрушилась; ударила; ударить",
+  "honey": "мёд",
+  "hot": "горячий; (went hot) вспыхнуло",
+  "hotel": "отель, гостиница",
+  "how": "как",
+  "however": "однако",
+  "hundred": "сто",
+  "i": "я",
+  "if": "если; ли",
+  "in": "в",
+  "including": "включая",
+  "incredibly": "невероятно",
+  "initials": "инициалы",
+  "ink": "чернила",
+  "inside": "внутри, внутрь",
+  "instead": "вместо этого",
+  "is": "есть, является",
+  "it": "он, она, оно, это",
+  "its": "его, её",
+  "jacket": "куртка",
+  "job": "дело, работа",
+  "just": "только что; точно",
+  "keep": "хранить",
+  "kept": "держал; носила",
+  "key": "ключ",
+  "kilometres": "километров",
+  "kitchen": "кухня",
+  "knees": "колени",
+  "knew": "знал(и); поняла",
+  "knocked": "постучала",
+  "know": "знать",
+  "known": "известный",
+  "kranz": "Кранц (фамилия)",
+  "laid": "положила",
+  "lake": "озеро",
+  "lanz": "Ланц (фамилия)",
+  "last": "последний; (last night) вчера вечером",
+  "later": "позже, спустя",
+  "laugh": "смех",
+  "laughed": "засмеялся",
+  "lavender": "лаванда, лавандовый",
+  "lawyers": "адвокаты",
+  "learned": "узнала; переняла",
+  "leave": "уйти; (leave her shoulders) свалиться с плеч",
+  "led": "отвела; вела",
+  "left": "оставили; оставляла",
+  "lift": "подъёмник",
+  "lights": "свет, лампы",
+  "like": "как",
+  "line": "линия; строчка",
+  "lines": "линии; строки",
+  "listened": "выслушал(а)",
+  "little": "маленький; немного",
+  "lock": "замок",
+  "long": "длинный; долгий; (for long) надолго",
+  "looked": "посмотрела; выглядела",
+  "loses": "теряет",
+  "losing": "теряла",
+  "lost": "потерял(и)",
+  "low": "низкий; (in a low voice) вполголоса",
+  "lying": "лжёт",
+  "made": "сделаны; варила",
+  "make": "производить (шум)",
+  "makes": "варит, делает",
+  "man": "человек, мужчина",
+  "man's": "мужчины, старика",
+  "many": "много",
+  "marks": "следы",
+  "matthias": "Маттиас (имя)",
+  "me": "меня, мне",
+  "meadow": "луг",
+  "meant": "означало",
+  "men": "мужчины",
+  "met": "встречала",
+  "milk": "молоко",
+  "mind": "мысли, ум",
+  "minutes": "минуты",
+  "mirror": "зеркало",
+  "missing": "отсутствующий",
+  "moment": "мгновение, момент",
+  "money": "деньги",
+  "more": "больше; ещё",
+  "morning": "утро",
+  "mountain": "гора",
+  "mountains": "горы",
+  "moved": "переехали",
+  "mr": "господин, мистер",
+  "much": "гораздо, много",
+  "my": "мой",
+  "nearest": "ближайший",
+  "neck": "шея",
+  "needed": "нужно было; требовалось",
+  "never": "никогда",
+  "newspaper": "газета",
+  "next": "следующий; (next to) рядом с",
+  "nice": "красивый, хороший",
+  "night": "ночь",
+  "nils": "Нильс (имя)",
+  "no": "нет; никакой",
+  "nobody": "никто",
+  "noise": "шум",
+  "north": "северный",
+  "not": "не",
+  "notary": "нотариус",
+  "nothing": "ничего",
+  "now": "теперь",
+  "nowhere": "никуда",
+  "number": "(six-number) шестизначный; число",
+  "numbers": "цифры",
+  "o'clock": "часов",
+  "ober": "Обер (фамилия)",
+  "of": "из, о; (род. падеж)",
+  "offered": "предложил",
+  "office": "контора; кабинет",
+  "officer": "полицейский",
+  "old": "старый",
+  "older": "старее, старше",
+  "on": "на",
+  "one": "один, одна",
+  "only": "только; единственный",
+  "open": "открыть",
+  "opened": "открылась",
+  "opening": "открытие, открыть",
+  "or": "или",
+  "original": "оригинал",
+  "other": "другой",
+  "others": "остальные",
+  "out": "из, наружу; (went out) погас",
+  "outside": "снаружи",
+  "over": "над, на (коленях)",
+  "overnight": "за ночь",
+  "own": "собственный",
+  "owned": "владел",
+  "owner": "хозяйка, владелец",
+  "page": "страница",
+  "pages": "страницы",
+  "paper": "бумага; (paper clip) скрепка",
+  "parcel": "посылка",
+  "pencil": "карандаш",
+  "people": "люди",
+  "phone": "телефон, телефонный",
+  "photograph": "фотография",
+  "photographer": "фотограф",
+  "photographs": "фотографии",
+  "photos": "фотографии, снимки",
+  "pictures": "снимки, фотографии",
+  "piece": "кусок",
+  "plaits": "косы",
+  "plough": "(snow plough) снегоочиститель",
+  "pointing": "указывая",
+  "police": "полиция; полицейский",
+  "polite": "вежливый",
+  "power": "(power line) линия электропередачи; (power cut) отключение света",
+  "prepared": "подготовила",
+  "price": "цена",
+  "print": "шрифт",
+  "prison": "тюрьма",
+  "pulled": "вытащил",
+  "punished": "наказаны",
+  "put": "положила; вставить",
+  "question": "вопрос",
+  "quiet": "тихий",
+  "quietly": "тихо",
+  "quite": "совсем, по-настоящему",
+  "radio": "радио",
+  "rather": "довольно; скорее; (rather than) а не",
+  "reached": "доходила",
+  "read": "прочитать; читала",
+  "reading": "читал; чтение",
+  "reason": "причина",
+  "reception": "(reception desk) стойка администратора",
+  "recognise": "узнать",
+  "red": "красный; (went red) покраснел",
+  "reflected": "отражало",
+  "refuse": "отказаться",
+  "remembered": "вспомнила",
+  "resort": "курорт",
+  "rest": "остальное, остальная часть",
+  "restored": "восстановлено",
+  "road": "дорога",
+  "roads": "дороги",
+  "room": "комната; зал",
+  "run": "бежать",
+  "safe": "сейф; в безопасности",
+  "safely": "благополучно, в целости",
+  "safer": "в большей безопасности",
+  "said": "сказал(а)",
+  "sale": "продажа, сделка",
+  "same": "тот же, такой же",
+  "sat": "села",
+  "saw": "увидела",
+  "see": "видеть, увидеть",
+  "seemed": "казался",
+  "seen": "видела; увидеть",
+  "sell": "продавать",
+  "sent": "отправил",
+  "seven": "семь",
+  "seventy": "семьдесят",
+  "shaking": "дрожащий",
+  "shapes": "силуэты, очертания",
+  "she": "она",
+  "sheep": "овца, овцы",
+  "sheep's": "овечий",
+  "short": "короткий",
+  "should": "следует, должны",
+  "shoulders": "плечи",
+  "shouting": "крича",
+  "show": "показать",
+  "showed": "показал(а)",
+  "sick": "(felt sick) стало дурно",
+  "side": "(side by side) рядом; сторона",
+  "sign": "подписать",
+  "signal": "сигнал",
+  "signed": "подписал(и); подписанный",
+  "silver": "серебристый",
+  "simple": "простой",
+  "sister": "сестра",
+  "sit": "посидеть",
+  "sitting": "сидели; сидящий",
+  "six": "шесть",
+  "ski": "лыжный, горнолыжный",
+  "sleep": "уснуть, спать",
+  "slopes": "склоны",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smaller": "поменьше",
+  "smell": "запах",
+  "smile": "улыбка",
+  "smiling": "улыбался",
+  "snow": "снег; снегоочистительный",
+  "so": "так, поэтому",
+  "soap": "мыло",
+  "sold": "продан",
+  "somebody": "кто-то",
+  "someone": "кто-то, человек",
+  "something": "что-то, кое-что",
+  "sons": "сыновья",
+  "sorry": "жаль; жалеть",
+  "spring": "родник; весна",
+  "stairs": "лестница",
+  "stand": "встать",
+  "standing": "стоял",
+  "staple": "скоба степлера",
+  "stay": "оставаться",
+  "steal": "красть",
+  "still": "всё ещё",
+  "stood": "стояла",
+  "storm": "буря",
+  "story": "история",
+  "strong": "сильный",
+  "structure": "структура",
+  "such": "такой",
+  "suggested": "предлагал",
+  "suitcase": "чемодан",
+  "summer": "лето",
+  "table": "стол, столик",
+  "take": "взять; доставить; вынуть",
+  "taken": "взял; сделан (снимок)",
+  "talking": "разговаривал",
+  "tall": "высокий",
+  "tell": "сказать",
+  "ten": "десять",
+  "than": "чем",
+  "that": "что; тот, этот; который",
+  "the": "(артикль)",
+  "their": "их, своих",
+  "them": "их, им",
+  "then": "потом, тогда",
+  "there": "там; (there was) был(о)",
+  "they": "они",
+  "thick": "толстый",
+  "thin": "худой",
+  "things": "вещи",
+  "think": "думать",
+  "thirty": "тридцать",
+  "this": "это, этот",
+  "those": "те, эти",
+  "three": "три, третий",
+  "thursday": "четверг",
+  "tight": "напряжённый",
+  "tiny": "крошечный",
+  "to": "к, в; (частица инфинитива)",
+  "together": "вместе",
+  "told": "сказала; рассказала",
+  "tonight": "сегодня ночью",
+  "too": "тоже; также",
+  "took": "вынула, достала",
+  "towards": "к, по направлению к",
+  "town": "городок",
+  "trees": "деревья",
+  "tried": "пыталась",
+  "trust": "доверять",
+  "trusting": "доверяя",
+  "turned": "повернула; (turned away) отвернулись",
+  "two": "два, две",
+  "typed": "набрала",
+  "under": "под",
+  "unusual": "необычный",
+  "up": "вверх; (up and down) взад-вперёд",
+  "used": "пользовались; использовал",
+  "usual": "обычный",
+  "valley": "долина",
+  "vanished": "исчез",
+  "victim": "жертва",
+  "village": "деревня",
+  "voice": "голос",
+  "w": "В. (инициал)",
+  "walk": "подойти",
+  "walked": "расхаживал",
+  "walking": "шёл, идущий; шаги",
+  "wall": "стена",
+  "walls": "стены",
+  "want": "хотеть",
+  "wanted": "хотел(а)",
+  "was": "был(а)",
+  "watch": "смотреть, наблюдать",
+  "watched": "смотрела",
+  "water": "вода",
+  "wax": "воск",
+  "we": "мы",
+  "wearing": "(was not wearing) был без (очков)",
+  "weather": "погода",
+  "weight": "груз, тяжесть",
+  "went": "пошла, вернулась; (went out) погас",
+  "were": "были",
+  "weren't": "не были; (you weren't) вы не",
+  "what": "что",
+  "when": "когда",
+  "where": "где",
+  "which": "который; какая; что",
+  "while": "пока",
+  "white": "белый",
+  "who": "кто, который",
+  "whoever": "тот, кто",
+  "whole": "весь, целый",
+  "why": "почему, зачем",
+  "will": "(буд. время)",
+  "wind": "ветер",
+  "window": "окно",
+  "wirth": "Вирт (фамилия)",
+  "with": "с",
+  "within": "в течение, через",
+  "without": "без",
+  "witness": "свидетель",
+  "woken": "разбудил",
+  "woman": "женщина",
+  "wood": "дерево (материал)",
+  "wooden": "деревянный",
+  "wool": "шерсть, шерстяной",
+  "word": "слово",
+  "working": "работающий; (working with) работать на",
+  "worth": "стоящий; (worth more) стоит больше",
+  "would": "бы; (would not) не будут",
+  "written": "написал",
+  "wrote": "писала",
+  "year": "год",
+  "years": "лет, годы",
+  "yesterday": "вчера",
+  "you": "вы, ты",
+  "you'd": "(you'd better) вам лучше",
+  "young": "молодой",
+  "your": "ваш",
+  "zip": "молния"
+ },
+ "vocab": {
+  "rather": 533,
+  "restored": 614,
+  "hit": 376,
+  "access": 571,
+  "sheep": 153,
+  "sheep's": 153,
+  "victim": 640,
+  "blanket": 457,
+  "blankets": 457,
+  "led": 502,
+  "prison": 346,
+  "noise": 31,
+  "shoulders": 71,
+  "anxiety": 471,
+  "cozy": 384,
+  "attached": 535,
+  "wood": 124,
+  "above": 353,
+  "worth": 516,
+  "compare": 259,
+  "compared": 259,
+  "unusual": 266,
+  "beloved": 410,
+  "soap": 64,
+  "talking": 135,
+  "same": 298,
+  "incredibly": 203,
+  "excellent": 430,
+  "punished": 339,
+  "across": 414,
+  "such": 209,
+  "thin": 296,
+  "before": 141,
+  "desire": 602,
+  "goal": 236,
+  "suggested": 363,
+  "structure": 226,
+  "handsome": 277,
+  "vanished": 515
+ }
+}

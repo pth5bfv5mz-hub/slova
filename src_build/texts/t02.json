@@ -1,0 +1,1260 @@
+{
+ "id": 2,
+ "title_en": "The Rowe Emeralds",
+ "title_ru": "Изумруды Роу",
+ "genre": "Детектив",
+ "summary_ru": "В крошечном городке пропадает знаменитое ожерелье, и все подозревают новую няню, но у молодого сержанта на этот счёт другое мнение.",
+ "paragraphs": [
+  {
+   "en": "The town of Fernley was so small that everyone knew everyone. There was one bakery, one church, one school and one police officer — Sergeant Ellen Price. Usually her work was easy: a lost dog, a broken window, an argument about a fence. So when the phone rang at eleven o'clock on a warm September night, she did not expect anything serious.",
+   "ru": "Городок Фернли был таким маленьким, что все знали всех. Там была одна пекарня, одна церковь, одна школа и один полицейский — сержант Эллен Прайс. Обычно её работа была лёгкой: потерявшаяся собака, разбитое окно, спор из-за забора. Поэтому, когда в одиннадцать часов тёплой сентябрьской ночью зазвонил телефон, она не ожидала ничего серьёзного.",
+   "s": [
+    [
+     "The town of Fernley was so small that everyone knew everyone.",
+     "Городок Фернли был таким маленьким, что все знали всех."
+    ],
+    [
+     "There was one bakery, one church, one school and one police officer — Sergeant Ellen Price.",
+     "Там была одна пекарня, одна церковь, одна школа и один полицейский — сержант Эллен Прайс."
+    ],
+    [
+     "Usually her work was easy: a lost dog, a broken window, an argument about a fence.",
+     "Обычно её работа была лёгкой: потерявшаяся собака, разбитое окно, спор из-за забора."
+    ],
+    [
+     "So when the phone rang at eleven o'clock on a warm September night, she did not expect anything serious.",
+     "Поэтому, когда в одиннадцать часов тёплой сентябрьской ночью зазвонил телефон, она не ожидала ничего серьёзного."
+    ]
+   ]
+  },
+  {
+   "en": "“Sergeant, you must come immediately,” said a woman's voice. It was Mrs. Agatha Rowe, the richest woman in Fernley. “Someone has stolen my emeralds.”",
+   "ru": "«Сержант, вы должны приехать немедленно», — сказал женский голос. Это была миссис Агата Роу, самая богатая женщина в Фернли. «Кто-то украл мои изумруды».",
+   "s": [
+    [
+     "“Sergeant, you must come immediately,” said a woman's voice.",
+     "«Сержант, вы должны приехать немедленно», — сказал женский голос."
+    ],
+    [
+     "It was Mrs. Agatha Rowe, the richest woman in Fernley.",
+     "Это была миссис Агата Роу, самая богатая женщина в Фернли."
+    ],
+    [
+     "“Someone has stolen my emeralds.”",
+     "«Кто-то украл мои изумруды»."
+    ]
+   ]
+  },
+  {
+   "en": "Ellen drove up the hill to the Rowe house. The big iron gate was wide open. Dark clouds were moving across the moon, and the old trees in the garden looked like black giants. Every window in the house was bright.",
+   "ru": "Эллен поехала вверх по холму к дому Роу. Большие железные ворота были широко открыты. Тёмные облака плыли по луне, и старые деревья в саду были похожи на чёрных великанов. Все окна в доме ярко светились.",
+   "s": [
+    [
+     "Ellen drove up the hill to the Rowe house.",
+     "Эллен поехала вверх по холму к дому Роу."
+    ],
+    [
+     "The big iron gate was wide open.",
+     "Большие железные ворота были широко открыты."
+    ],
+    [
+     "Dark clouds were moving across the moon, and the old trees in the garden looked like black giants.",
+     "Тёмные облака плыли по луне, и старые деревья в саду были похожи на чёрных великанов."
+    ],
+    [
+     "Every window in the house was bright.",
+     "Все окна в доме ярко светились."
+    ]
+   ]
+  },
+  {
+   "en": "Mrs. Rowe met her at the door. She was seventy-five, small and thin, but she stood very straight, like a queen. “Come in, Sergeant. Everybody is in the library.”",
+   "ru": "Миссис Роу встретила её у двери. Ей было семьдесят пять, она была маленькой и худой, но держалась очень прямо, как королева. «Входите, сержант. Все в библиотеке».",
+   "s": [
+    [
+     "Mrs. Rowe met her at the door.",
+     "Миссис Роу встретила её у двери."
+    ],
+    [
+     "She was seventy-five, small and thin, but she stood very straight, like a queen.",
+     "Ей было семьдесят пять, она была маленькой и худой, но держалась очень прямо, как королева."
+    ],
+    [
+     "“Come in, Sergeant.",
+     "«Входите, сержант."
+    ],
+    [
+     "Everybody is in the library.”",
+     "Все в библиотеке»."
+    ]
+   ]
+  },
+  {
+   "en": "The library was a cozy room with soft armchairs, thousands of books and a fire in the fireplace. In the corner stood a small glass case under a tall brass lamp. The case was empty. For almost a hundred years, the Rowe emeralds — a necklace of seven green stones — had lain there. Everyone in Fernley knew about them. People said that their value was greater than the value of the whole town.",
+   "ru": "Библиотека была уютной комнатой с мягкими креслами, тысячами книг и огнём в камине. В углу под высокой латунной лампой стояла маленькая стеклянная витрина. Витрина была пуста. Почти сто лет там лежали изумруды Роу — ожерелье из семи зелёных камней. Все в Фернли знали о них. Люди говорили, что их ценность больше, чем ценность всего города.",
+   "s": [
+    [
+     "The library was a cozy room with soft armchairs, thousands of books and a fire in the fireplace.",
+     "Библиотека была уютной комнатой с мягкими креслами, тысячами книг и огнём в камине."
+    ],
+    [
+     "In the corner stood a small glass case under a tall brass lamp.",
+     "В углу под высокой латунной лампой стояла маленькая стеклянная витрина."
+    ],
+    [
+     "The case was empty.",
+     "Витрина была пуста."
+    ],
+    [
+     "For almost a hundred years, the Rowe emeralds — a necklace of seven green stones — had lain there.",
+     "Почти сто лет там лежали изумруды Роу — ожерелье из семи зелёных камней."
+    ],
+    [
+     "Everyone in Fernley knew about them.",
+     "Все в Фернли знали о них."
+    ],
+    [
+     "People said that their value was greater than the value of the whole town.",
+     "Люди говорили, что их ценность больше, чем ценность всего города."
+    ]
+   ]
+  },
+  {
+   "en": "Two people were waiting in the room. The first was Victor Rowe, Mrs. Rowe's nephew and her closest relative, a tall man of forty in an expensive suit. His wife had died years ago, and he lived here with his little daughter, Lily. Next to the fire sat Anna Novak, Lily's nanny. Anna was twenty-two and had come to Fernley only a month ago. Her face was white. Lily was asleep upstairs.",
+   "ru": "В комнате ждали двое. Первым был Виктор Роу, племянник миссис Роу и её ближайший родственник, высокий сорокалетний мужчина в дорогом костюме. Его жена умерла много лет назад, и он жил здесь со своей маленькой дочерью Лили. У огня сидела Анна Новак, няня Лили. Анне было двадцать два года, и она приехала в Фернли всего месяц назад. Её лицо было белым. Лили спала наверху.",
+   "s": [
+    [
+     "Two people were waiting in the room.",
+     "В комнате ждали двое."
+    ],
+    [
+     "The first was Victor Rowe, Mrs. Rowe's nephew and her closest relative, a tall man of forty in an expensive suit.",
+     "Первым был Виктор Роу, племянник миссис Роу и её ближайший родственник, высокий сорокалетний мужчина в дорогом костюме."
+    ],
+    [
+     "His wife had died years ago, and he lived here with his little daughter, Lily.",
+     "Его жена умерла много лет назад, и он жил здесь со своей маленькой дочерью Лили."
+    ],
+    [
+     "Next to the fire sat Anna Novak, Lily's nanny.",
+     "У огня сидела Анна Новак, няня Лили."
+    ],
+    [
+     "Anna was twenty-two and had come to Fernley only a month ago.",
+     "Анне было двадцать два года, и она приехала в Фернли всего месяц назад."
+    ],
+    [
+     "Her face was white.",
+     "Её лицо было белым."
+    ],
+    [
+     "Lily was asleep upstairs.",
+     "Лили спала наверху."
+    ]
+   ]
+  },
+  {
+   "en": "“Tell me what happened,” Ellen said, and took out her notebook.",
+   "ru": "«Расскажите, что случилось», — сказала Эллен и достала блокнот.",
+   "s": [
+    [
+     "“Tell me what happened,” Ellen said, and took out her notebook.",
+     "«Расскажите, что случилось», — сказала Эллен и достала блокнот."
+    ]
+   ]
+  },
+  {
+   "en": "“At nine o'clock we heard an explosion,” said Mrs. Rowe. “A terrible noise, from the direction of the old mill. We all ran to the windows in the dining room. When I came back here twenty minutes later, the case was open and the necklace was gone.”",
+   "ru": "«В девять часов мы услышали взрыв, — сказала миссис Роу. — Ужасный шум со стороны старой мельницы. Мы все побежали к окнам в столовой. Когда через двадцать минут я вернулась сюда, витрина была открыта, а ожерелья не было».",
+   "s": [
+    [
+     "“At nine o'clock we heard an explosion,” said Mrs. Rowe.",
+     "«В девять часов мы услышали взрыв», — сказала миссис Роу."
+    ],
+    [
+     "“A terrible noise, from the direction of the old mill.",
+     "«Ужасный шум со стороны старой мельницы."
+    ],
+    [
+     "We all ran to the windows in the dining room.",
+     "Мы все побежали к окнам в столовой."
+    ],
+    [
+     "When I came back here twenty minutes later, the case was open and the necklace was gone.”",
+     "Когда через двадцать минут я вернулась сюда, витрина была открыта, а ожерелья не было»."
+    ]
+   ]
+  },
+  {
+   "en": "“The explosion was real,” Ellen said. “An old gas pipe near the mill. Nobody was hurt. Half the town went there to look.” She examined the glass case. It was not broken. Somebody had opened it with a small key. “Who has the key?”",
+   "ru": "«Взрыв был настоящий, — сказала Эллен. — Старая газовая труба возле мельницы. Никто не пострадал. Полгорода пошло туда посмотреть». Она осмотрела стеклянную витрину. Она не была разбита. Кто-то открыл её маленьким ключом. «У кого есть ключ?»",
+   "s": [
+    [
+     "“The explosion was real,” Ellen said.",
+     "«Взрыв был настоящий», — сказала Эллен."
+    ],
+    [
+     "“An old gas pipe near the mill.",
+     "«Старая газовая труба возле мельницы."
+    ],
+    [
+     "Nobody was hurt.",
+     "Никто не пострадал."
+    ],
+    [
+     "Half the town went there to look.”",
+     "Полгорода пошло туда посмотреть»."
+    ],
+    [
+     "She examined the glass case.",
+     "Она осмотрела стеклянную витрину."
+    ],
+    [
+     "It was not broken.",
+     "Она не была разбита."
+    ],
+    [
+     "Somebody had opened it with a small key.",
+     "Кто-то открыл её маленьким ключом."
+    ],
+    [
+     "“Who has the key?”",
+     "«У кого есть ключ?»"
+    ]
+   ]
+  },
+  {
+   "en": "“Only I do,” said Mrs. Rowe. “I keep it on a chain around my neck. But it is an old lock, Sergeant. A clever thief could open it with a hairpin.” She looked at Anna for a moment, and everyone in the room understood what she meant.",
+   "ru": "«Только у меня, — сказала миссис Роу. — Я ношу его на цепочке на шее. Но это старый замок, сержант. Ловкий вор мог бы открыть его шпилькой». Она на мгновение посмотрела на Анну, и все в комнате поняли, что она имела в виду.",
+   "s": [
+    [
+     "“Only I do,” said Mrs. Rowe.",
+     "«Только у меня», — сказала миссис Роу."
+    ],
+    [
+     "“I keep it on a chain around my neck.",
+     "«Я ношу его на цепочке на шее."
+    ],
+    [
+     "But it is an old lock, Sergeant.",
+     "Но это старый замок, сержант."
+    ],
+    [
+     "A clever thief could open it with a hairpin.”",
+     "Ловкий вор мог бы открыть его шпилькой»."
+    ],
+    [
+     "She looked at Anna for a moment, and everyone in the room understood what she meant.",
+     "Она на мгновение посмотрела на Анну, и все в комнате поняли, что она имела в виду."
+    ]
+   ]
+  },
+  {
+   "en": "Victor was less polite. “Let's be honest,” he said. “We have lived in this house for years and nothing has disappeared. Then a stranger comes, and a month later the emeralds are gone. Where were you, Miss Novak, when we were at the windows?”",
+   "ru": "Виктор был менее вежлив. «Давайте будем честными, — сказал он. — Мы живём в этом доме много лет, и ничего не пропадало. Потом приходит чужой человек, и через месяц изумрудов нет. Где были вы, мисс Новак, когда мы стояли у окон?»",
+   "s": [
+    [
+     "Victor was less polite.",
+     "Виктор был менее вежлив."
+    ],
+    [
+     "“Let's be honest,” he said.",
+     "«Давайте будем честными», — сказал он."
+    ],
+    [
+     "“We have lived in this house for years and nothing has disappeared.",
+     "«Мы живём в этом доме много лет, и ничего не пропадало."
+    ],
+    [
+     "Then a stranger comes, and a month later the emeralds are gone.",
+     "Потом приходит чужой человек, и через месяц изумрудов нет."
+    ],
+    [
+     "Where were you, Miss Novak, when we were at the windows?”",
+     "Где были вы, мисс Новак, когда мы стояли у окон?»"
+    ]
+   ]
+  },
+  {
+   "en": "Anna stood up. Her hands were shaking. “I was upstairs with Lily. She was frightened by the noise. I stayed with her until she fell asleep. I did not enter the library all evening.” She took a deep breath. “I am poor, Mr. Rowe, but I am not a thief. You should not say such things. You have offended me.”",
+   "ru": "Анна встала. Её руки дрожали. «Я была наверху с Лили. Она испугалась шума. Я оставалась с ней, пока она не уснула. Я весь вечер не входила в библиотеку». Она сделала глубокий вдох. «Я бедная, мистер Роу, но я не воровка. Вы не должны говорить такие вещи. Вы меня обидели».",
+   "s": [
+    [
+     "Anna stood up.",
+     "Анна встала."
+    ],
+    [
+     "Her hands were shaking.",
+     "Её руки дрожали."
+    ],
+    [
+     "“I was upstairs with Lily.",
+     "«Я была наверху с Лили."
+    ],
+    [
+     "She was frightened by the noise.",
+     "Она испугалась шума."
+    ],
+    [
+     "I stayed with her until she fell asleep.",
+     "Я оставалась с ней, пока она не уснула."
+    ],
+    [
+     "I did not enter the library all evening.”",
+     "Я весь вечер не входила в библиотеку»."
+    ],
+    [
+     "She took a deep breath.",
+     "Она сделала глубокий вдох."
+    ],
+    [
+     "“I am poor, Mr. Rowe, but I am not a thief.",
+     "«Я бедная, мистер Роу, но я не воровка."
+    ],
+    [
+     "You should not say such things.",
+     "Вы не должны говорить такие вещи."
+    ],
+    [
+     "You have offended me.”",
+     "Вы меня обидели»."
+    ]
+   ]
+  },
+  {
+   "en": "“Nobody is accusing anyone yet,” Ellen said calmly. “Miss Novak, please stay in the house tonight. Nobody should leave. I will come back in the morning.”",
+   "ru": "«Пока никто никого не обвиняет, — спокойно сказала Эллен. — Мисс Новак, пожалуйста, останьтесь сегодня ночью в доме. Никто не должен уезжать. Я вернусь утром».",
+   "s": [
+    [
+     "“Nobody is accusing anyone yet,” Ellen said calmly.",
+     "«Пока никто никого не обвиняет», — спокойно сказала Эллен."
+    ],
+    [
+     "“Miss Novak, please stay in the house tonight.",
+     "«Мисс Новак, пожалуйста, останьтесь сегодня ночью в доме."
+    ],
+    [
+     "Nobody should leave.",
+     "Никто не должен уезжать."
+    ],
+    [
+     "I will come back in the morning.”",
+     "Я вернусь утром»."
+    ]
+   ]
+  },
+  {
+   "en": "Before she left, Ellen walked slowly around the room. Near the window she noticed something on the carpet: a small dark mark. She bent down and touched it. It was earth — fresh, wet earth, with a tiny white petal in it. She put a little of it in an envelope. At the gate she stopped again. In the soft ground there was a footprint, but only one, and it pointed toward the house, not away from it.",
+   "ru": "Перед уходом Эллен медленно обошла комнату. У окна она заметила что-то на ковре: маленькое тёмное пятно. Она наклонилась и потрогала его. Это была земля — свежая, влажная земля с крошечным белым лепестком. Она положила немного в конверт. У ворот она снова остановилась. На мягкой земле был след, но только один, и он был направлен к дому, а не от него.",
+   "s": [
+    [
+     "Before she left, Ellen walked slowly around the room.",
+     "Перед уходом Эллен медленно обошла комнату."
+    ],
+    [
+     "Near the window she noticed something on the carpet: a small dark mark.",
+     "У окна она заметила что-то на ковре: маленькое тёмное пятно."
+    ],
+    [
+     "She bent down and touched it.",
+     "Она наклонилась и потрогала его."
+    ],
+    [
+     "It was earth — fresh, wet earth, with a tiny white petal in it.",
+     "Это была земля — свежая, влажная земля с крошечным белым лепестком."
+    ],
+    [
+     "She put a little of it in an envelope.",
+     "Она положила немного в конверт."
+    ],
+    [
+     "At the gate she stopped again.",
+     "У ворот она снова остановилась."
+    ],
+    [
+     "In the soft ground there was a footprint, but only one, and it pointed toward the house, not away from it.",
+     "На мягкой земле был след, но только один, и он был направлен к дому, а не от него."
+    ]
+   ]
+  },
+  {
+   "en": "That night Ellen could not sleep. This case was a real challenge, the first big one of her career. She knew how a small town worked. If she could not find the thief, people would talk about Anna for years. The impact of this one night on the girl's life could be terrible. Nobody would give her work again.",
+   "ru": "В ту ночь Эллен не могла уснуть. Это дело было настоящим испытанием, первым большим делом в её карьере. Она знала, как живёт маленький город. Если она не найдёт вора, люди будут говорить об Анне годами. Влияние этой одной ночи на жизнь девушки могло быть ужасным. Никто больше не дал бы ей работу.",
+   "s": [
+    [
+     "That night Ellen could not sleep.",
+     "В ту ночь Эллен не могла уснуть."
+    ],
+    [
+     "This case was a real challenge, the first big one of her career.",
+     "Это дело было настоящим испытанием, первым большим делом в её карьере."
+    ],
+    [
+     "She knew how a small town worked.",
+     "Она знала, как живёт маленький город."
+    ],
+    [
+     "If she could not find the thief, people would talk about Anna for years.",
+     "Если она не найдёт вора, люди будут говорить об Анне годами."
+    ],
+    [
+     "The impact of this one night on the girl's life could be terrible.",
+     "Влияние этой одной ночи на жизнь девушки могло быть ужасным."
+    ],
+    [
+     "Nobody would give her work again.",
+     "Никто больше не дал бы ей работу."
+    ]
+   ]
+  },
+  {
+   "en": "In the morning she passed the bakery and the church and drove to the edge of town, to the house of Mr. Holt, the old gardener who had worked for Mrs. Rowe for thirty years. He was drinking tea in his kitchen. Ellen showed him the earth from the envelope.",
+   "ru": "Утром она проехала мимо пекарни и церкви и поехала на окраину города, к дому мистера Холта, старого садовника, который работал у миссис Роу тридцать лет. Он пил чай на кухне. Эллен показала ему землю из конверта.",
+   "s": [
+    [
+     "In the morning she passed the bakery and the church and drove to the edge of town, to the house of Mr. Holt, the old gardener who had worked for Mrs. Rowe for thirty years.",
+     "Утром она проехала мимо пекарни и церкви и поехала на окраину города, к дому мистера Холта, старого садовника, который работал у миссис Роу тридцать лет."
+    ],
+    [
+     "He was drinking tea in his kitchen.",
+     "Он пил чай на кухне."
+    ],
+    [
+     "Ellen showed him the earth from the envelope.",
+     "Эллен показала ему землю из конверта."
+    ]
+   ]
+  },
+  {
+   "en": "Mr. Holt looked at it for a long time. “That's not from the garden,” he said at last. “Garden earth is brown. This is black, and look — the petal. That's a white violet. Mrs. Rowe keeps them in pots in the winter garden, the glass room at the back of the house. Nobody goes in there except her. She doesn't even let me water them. Lily isn't allowed to touch them, and that nanny obeys every rule, I can tell you.”",
+   "ru": "Мистер Холт долго смотрел на неё. «Это не из сада, — сказал он наконец. — Садовая земля коричневая. А эта чёрная, и посмотрите — лепесток. Это белая фиалка. Миссис Роу держит их в горшках в зимнем саду, стеклянной комнате в задней части дома. Никто, кроме неё, туда не ходит. Она даже мне не позволяет их поливать. Лили нельзя их трогать, а эта няня подчиняется каждому правилу, уж поверьте мне».",
+   "s": [
+    [
+     "Mr. Holt looked at it for a long time.",
+     "Мистер Холт долго смотрел на неё."
+    ],
+    [
+     "“That's not from the garden,” he said at last.",
+     "«Это не из сада», — сказал он наконец."
+    ],
+    [
+     "“Garden earth is brown.",
+     "«Садовая земля коричневая."
+    ],
+    [
+     "This is black, and look — the petal.",
+     "А эта чёрная, и посмотрите — лепесток."
+    ],
+    [
+     "That's a white violet.",
+     "Это белая фиалка."
+    ],
+    [
+     "Mrs. Rowe keeps them in pots in the winter garden, the glass room at the back of the house.",
+     "Миссис Роу держит их в горшках в зимнем саду, стеклянной комнате в задней части дома."
+    ],
+    [
+     "Nobody goes in there except her.",
+     "Никто, кроме неё, туда не ходит."
+    ],
+    [
+     "She doesn't even let me water them.",
+     "Она даже мне не позволяет их поливать."
+    ],
+    [
+     "Lily isn't allowed to touch them, and that nanny obeys every rule, I can tell you.”",
+     "Лили нельзя их трогать, а эта няня подчиняется каждому правилу, уж поверьте мне»."
+    ]
+   ]
+  },
+  {
+   "en": "Ellen thanked him and drove back to the Rowe house. Mrs. Rowe was in the winter garden, sitting among her flowers. She did not look surprised when Ellen came in.",
+   "ru": "Эллен поблагодарила его и поехала обратно к дому Роу. Миссис Роу была в зимнем саду, сидела среди своих цветов. Она не выглядела удивлённой, когда вошла Эллен.",
+   "s": [
+    [
+     "Ellen thanked him and drove back to the Rowe house.",
+     "Эллен поблагодарила его и поехала обратно к дому Роу."
+    ],
+    [
+     "Mrs. Rowe was in the winter garden, sitting among her flowers.",
+     "Миссис Роу была в зимнем саду, сидела среди своих цветов."
+    ],
+    [
+     "She did not look surprised when Ellen came in.",
+     "Она не выглядела удивлённой, когда вошла Эллен."
+    ]
+   ]
+  },
+  {
+   "en": "“The thief did not come from outside,” Ellen said quietly. “The footprint at the gate was made on purpose — one print, pointing toward the house. The case was opened with the key. And the earth on the library carpet came from these pots. Only one person in the house has the key, and only one person comes into this room.”",
+   "ru": "«Вор пришёл не снаружи, — тихо сказала Эллен. — След у ворот оставили нарочно — один отпечаток, направленный к дому. Витрину открыли ключом. А земля на ковре в библиотеке — из этих горшков. Только у одного человека в доме есть ключ, и только один человек заходит в эту комнату».",
+   "s": [
+    [
+     "“The thief did not come from outside,” Ellen said quietly.",
+     "«Вор пришёл не снаружи», — тихо сказала Эллен."
+    ],
+    [
+     "“The footprint at the gate was made on purpose — one print, pointing toward the house.",
+     "«След у ворот оставили нарочно — один отпечаток, направленный к дому."
+    ],
+    [
+     "The case was opened with the key.",
+     "Витрину открыли ключом."
+    ],
+    [
+     "And the earth on the library carpet came from these pots.",
+     "А земля на ковре в библиотеке — из этих горшков."
+    ],
+    [
+     "Only one person in the house has the key, and only one person comes into this room.”",
+     "Только у одного человека в доме есть ключ, и только один человек заходит в эту комнату»."
+    ]
+   ]
+  },
+  {
+   "en": "For a long moment Mrs. Rowe said nothing. Then she pushed one of the big pots aside, put her thin fingers into the earth and pulled out a small cloth bag. Inside were seven green stones on a gold chain.",
+   "ru": "Долгое мгновение миссис Роу молчала. Потом она отодвинула один из больших горшков, засунула тонкие пальцы в землю и вытащила маленький тканевый мешочек. Внутри были семь зелёных камней на золотой цепочке.",
+   "s": [
+    [
+     "For a long moment Mrs. Rowe said nothing.",
+     "Долгое мгновение миссис Роу молчала."
+    ],
+    [
+     "Then she pushed one of the big pots aside, put her thin fingers into the earth and pulled out a small cloth bag.",
+     "Потом она отодвинула один из больших горшков, засунула тонкие пальцы в землю и вытащила маленький тканевый мешочек."
+    ],
+    [
+     "Inside were seven green stones on a gold chain.",
+     "Внутри были семь зелёных камней на золотой цепочке."
+    ]
+   ]
+  },
+  {
+   "en": "“They are glass,” she said. “All of them. I sold the real emeralds twenty years ago, when my husband died and left nothing but debts. I had a copy made, and nobody ever knew. Then Victor told me that he was going to marry, and I promised the emeralds to his bride as a wedding gift. Her father is a jeweller, Sergeant. He would see the truth in one second. The whole town would laugh at me. When I heard the explosion, I suddenly saw a way out.”",
+   "ru": "«Это стекло, — сказала она. — Все до одного. Я продала настоящие изумруды двадцать лет назад, когда умер мой муж и не оставил ничего, кроме долгов. Я заказала копию, и никто ничего не узнал. Потом Виктор сказал мне, что собирается жениться, и я пообещала изумруды его невесте в качестве свадебного подарка. Её отец — ювелир, сержант. Он увидел бы правду за одну секунду. Весь город смеялся бы надо мной. Когда я услышала взрыв, я вдруг увидела выход».",
+   "s": [
+    [
+     "“They are glass,” she said.",
+     "«Это стекло», — сказала она."
+    ],
+    [
+     "“All of them.",
+     "«Все до одного."
+    ],
+    [
+     "I sold the real emeralds twenty years ago, when my husband died and left nothing but debts.",
+     "Я продала настоящие изумруды двадцать лет назад, когда умер мой муж и не оставил ничего, кроме долгов."
+    ],
+    [
+     "I had a copy made, and nobody ever knew.",
+     "Я заказала копию, и никто ничего не узнал."
+    ],
+    [
+     "Then Victor told me that he was going to marry, and I promised the emeralds to his bride as a wedding gift.",
+     "Потом Виктор сказал мне, что собирается жениться, и я пообещала изумруды его невесте в качестве свадебного подарка."
+    ],
+    [
+     "Her father is a jeweller, Sergeant.",
+     "Её отец — ювелир, сержант."
+    ],
+    [
+     "He would see the truth in one second.",
+     "Он увидел бы правду за одну секунду."
+    ],
+    [
+     "The whole town would laugh at me.",
+     "Весь город смеялся бы надо мной."
+    ],
+    [
+     "When I heard the explosion, I suddenly saw a way out.”",
+     "Когда я услышала взрыв, я вдруг увидела выход»."
+    ]
+   ]
+  },
+  {
+   "en": "“And you let everyone think that Anna was the thief.” Mrs. Rowe looked down at her hands. “I didn't plan that. But when Victor said it, I said nothing. That was wrong. I know it was wrong.”",
+   "ru": "«И вы позволили всем думать, что воровка — Анна». Миссис Роу опустила взгляд на свои руки. «Я этого не планировала. Но когда Виктор это сказал, я промолчала. Это было неправильно. Я знаю, что это было неправильно».",
+   "s": [
+    [
+     "“And you let everyone think that Anna was the thief.”",
+     "«И вы позволили всем думать, что воровка — Анна»."
+    ],
+    [
+     "Mrs. Rowe looked down at her hands.",
+     "Миссис Роу опустила взгляд на свои руки."
+    ],
+    [
+     "“I didn't plan that.",
+     "«Я этого не планировала."
+    ],
+    [
+     "But when Victor said it, I said nothing.",
+     "Но когда Виктор это сказал, я промолчала."
+    ],
+    [
+     "That was wrong.",
+     "Это было неправильно."
+    ],
+    [
+     "I know it was wrong.”",
+     "Я знаю, что это было неправильно»."
+    ]
+   ]
+  },
+  {
+   "en": "“You can't steal your own necklace,” Ellen said, “so I can't arrest you. But you have done real harm to an innocent girl. In a town like Fernley, words travel faster than cars. There is only one thing that can repair it.”",
+   "ru": "«Нельзя украсть собственное ожерелье, — сказала Эллен, — поэтому я не могу вас арестовать. Но вы причинили настоящий вред невинной девушке. В таком городе, как Фернли, слова разносятся быстрее машин. Есть только одно, что может это исправить».",
+   "s": [
+    [
+     "“You can't steal your own necklace,” Ellen said, “so I can't arrest you.",
+     "«Нельзя украсть собственное ожерелье, — сказала Эллен, — поэтому я не могу вас арестовать."
+    ],
+    [
+     "But you have done real harm to an innocent girl.",
+     "Но вы причинили настоящий вред невинной девушке."
+    ],
+    [
+     "In a town like Fernley, words travel faster than cars.",
+     "В таком городе, как Фернли, слова разносятся быстрее машин."
+    ],
+    [
+     "There is only one thing that can repair it.”",
+     "Есть только одно, что может это исправить»."
+    ]
+   ]
+  },
+  {
+   "en": "That afternoon Mrs. Rowe called everyone into the library. In a quiet, clear voice she told them the whole story. Victor's face went red, then white. Anna sat very still and listened.",
+   "ru": "В тот же день миссис Роу позвала всех в библиотеку. Тихим, ясным голосом она рассказала им всю историю. Лицо Виктора покраснело, потом побелело. Анна сидела неподвижно и слушала.",
+   "s": [
+    [
+     "That afternoon Mrs. Rowe called everyone into the library.",
+     "В тот же день миссис Роу позвала всех в библиотеку."
+    ],
+    [
+     "In a quiet, clear voice she told them the whole story.",
+     "Тихим, ясным голосом она рассказала им всю историю."
+    ],
+    [
+     "Victor's face went red, then white.",
+     "Лицо Виктора покраснело, потом побелело."
+    ],
+    [
+     "Anna sat very still and listened.",
+     "Анна сидела неподвижно и слушала."
+    ]
+   ]
+  },
+  {
+   "en": "When it was over, Victor laughed — a short, surprised laugh. “Aunt Agatha, Claire doesn't care about emeralds. I'm going to marry her, not her father.” Then he turned to Anna. “Miss Novak, I said terrible things yesterday. I'm sorry. I hope you will stay with Lily. She would never forgive me if you left.”",
+   "ru": "Когда всё закончилось, Виктор засмеялся — коротко и удивлённо. «Тётя Агата, Клэр нет дела до изумрудов. Я женюсь на ней, а не на её отце». Потом он повернулся к Анне. «Мисс Новак, вчера я сказал ужасные вещи. Простите меня. Надеюсь, вы останетесь с Лили. Она никогда не простит мне, если вы уйдёте».",
+   "s": [
+    [
+     "When it was over, Victor laughed — a short, surprised laugh.",
+     "Когда всё закончилось, Виктор засмеялся — коротко и удивлённо."
+    ],
+    [
+     "“Aunt Agatha, Claire doesn't care about emeralds.",
+     "«Тётя Агата, Клэр нет дела до изумрудов."
+    ],
+    [
+     "I'm going to marry her, not her father.”",
+     "Я женюсь на ней, а не на её отце»."
+    ],
+    [
+     "Then he turned to Anna.",
+     "Потом он повернулся к Анне."
+    ],
+    [
+     "“Miss Novak, I said terrible things yesterday.",
+     "«Мисс Новак, вчера я сказал ужасные вещи."
+    ],
+    [
+     "I'm sorry.",
+     "Простите меня."
+    ],
+    [
+     "I hope you will stay with Lily.",
+     "Надеюсь, вы останетесь с Лили."
+    ],
+    [
+     "She would never forgive me if you left.”",
+     "Она никогда не простит мне, если вы уйдёте»."
+    ]
+   ]
+  },
+  {
+   "en": "Anna was silent for a moment. Then she smiled a little bit. “I will stay,” she said. “For Lily.”",
+   "ru": "Анна помолчала мгновение. Потом она немного улыбнулась. «Я останусь, — сказала она. — Ради Лили».",
+   "s": [
+    [
+     "Anna was silent for a moment.",
+     "Анна помолчала мгновение."
+    ],
+    [
+     "Then she smiled a little bit.",
+     "Потом она немного улыбнулась."
+    ],
+    [
+     "“I will stay,” she said.",
+     "«Я останусь», — сказала она."
+    ],
+    [
+     "“For Lily.”",
+     "«Ради Лили»."
+    ]
+   ]
+  },
+  {
+   "en": "Mrs. Rowe took Anna's hand. “And this evening,” she said, “I am going to the bakery, the church and the post office, and I will tell everyone in Fernley what I did. It is the only action that can prove that you are innocent. I am old, but I am not too old to be ashamed.”",
+   "ru": "Миссис Роу взяла Анну за руку. «А сегодня вечером, — сказала она, — я пойду в пекарню, в церковь и на почту и расскажу всем в Фернли, что я сделала. Это единственный поступок, который может доказать, что вы невиновны. Я стара, но не настолько, чтобы не стыдиться».",
+   "s": [
+    [
+     "Mrs. Rowe took Anna's hand.",
+     "Миссис Роу взяла Анну за руку."
+    ],
+    [
+     "“And this evening,” she said, “I am going to the bakery, the church and the post office, and I will tell everyone in Fernley what I did.",
+     "«А сегодня вечером, — сказала она, — я пойду в пекарню, в церковь и на почту и расскажу всем в Фернли, что я сделала."
+    ],
+    [
+     "It is the only action that can prove that you are innocent.",
+     "Это единственный поступок, который может доказать, что вы невиновны."
+    ],
+    [
+     "I am old, but I am not too old to be ashamed.”",
+     "Я стара, но не настолько, чтобы не стыдиться»."
+    ]
+   ]
+  },
+  {
+   "en": "Outside, the clouds had gone and the sun was shining on the wet garden. Ellen walked down to the gate, where Lily was waiting with her nanny. “Did you catch the thief?” the little girl asked.",
+   "ru": "Снаружи облака ушли, и солнце светило на мокрый сад. Эллен спустилась к воротам, где её ждала Лили со своей няней. «Вы поймали вора?» — спросила девочка.",
+   "s": [
+    [
+     "Outside, the clouds had gone and the sun was shining on the wet garden.",
+     "Снаружи облака ушли, и солнце светило на мокрый сад."
+    ],
+    [
+     "Ellen walked down to the gate, where Lily was waiting with her nanny.",
+     "Эллен спустилась к воротам, где её ждала Лили со своей няней."
+    ],
+    [
+     "“Did you catch the thief?” the little girl asked.",
+     "«Вы поймали вора?» — спросила девочка."
+    ]
+   ]
+  },
+  {
+   "en": "“In a way,” Ellen smiled. “But nobody is going to prison. See you soon, Lily. See you, Anna.” And she drove down the hill, past the bakery and the church, back to the smallest police station on earth.",
+   "ru": "«В каком-то смысле, — улыбнулась Эллен. — Но никто не отправится в тюрьму. Увидимся, Лили. Увидимся, Анна». И она поехала вниз с холма, мимо пекарни и церкви, обратно в самый маленький полицейский участок на земле.",
+   "s": [
+    [
+     "“In a way,” Ellen smiled.",
+     "«В каком-то смысле», — улыбнулась Эллен."
+    ],
+    [
+     "“But nobody is going to prison.",
+     "«Но никто не отправится в тюрьму."
+    ],
+    [
+     "See you soon, Lily.",
+     "Увидимся, Лили."
+    ],
+    [
+     "See you, Anna.”",
+     "Увидимся, Анна»."
+    ],
+    [
+     "And she drove down the hill, past the bakery and the church, back to the smallest police station on earth.",
+     "И она поехала вниз с холма, мимо пекарни и церкви, обратно в самый маленький полицейский участок на земле."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, из-за",
+  "accusing": "обвиняет",
+  "across": "по, через",
+  "action": "поступок, действие",
+  "afternoon": "днём, после полудня",
+  "again": "снова",
+  "agatha": "Агата (имя)",
+  "ago": "назад",
+  "all": "все, весь",
+  "allowed": "разрешено",
+  "almost": "почти",
+  "am": "(есть), являюсь",
+  "among": "среди",
+  "an": "(неопр. артикль)",
+  "and": "и, а",
+  "anna": "Анна (имя)",
+  "anna's": "Анны",
+  "anyone": "кого-либо",
+  "anything": "что-либо, ничего",
+  "are": "есть, являются",
+  "argument": "спор",
+  "armchairs": "кресла",
+  "around": "вокруг, по",
+  "arrest": "арестовать",
+  "as": "как, в качестве",
+  "ashamed": "стыдно",
+  "aside": "в сторону",
+  "asked": "спросила",
+  "asleep": "спящий",
+  "at": "в, у, на",
+  "aunt": "тётя",
+  "away": "прочь",
+  "back": "назад, задняя часть",
+  "bag": "мешочек",
+  "bakery": "пекарня",
+  "be": "быть",
+  "before": "перед, до",
+  "bent": "наклонилась",
+  "big": "большой",
+  "bit": "немного",
+  "black": "чёрный",
+  "books": "книги",
+  "brass": "латунный",
+  "breath": "вдох, дыхание",
+  "bride": "невеста",
+  "bright": "яркий",
+  "broken": "разбитый",
+  "brown": "коричневый",
+  "but": "но, кроме",
+  "by": "(кем-то), от",
+  "called": "позвала",
+  "calmly": "спокойно",
+  "came": "пришла, вошла",
+  "can": "может",
+  "can't": "не может, нельзя",
+  "care": "заботиться",
+  "career": "карьера",
+  "carpet": "ковёр",
+  "cars": "машины",
+  "case": "витрина; дело",
+  "catch": "поймать",
+  "chain": "цепочка",
+  "challenge": "испытание",
+  "church": "церковь",
+  "claire": "Клэр (имя)",
+  "clear": "ясный",
+  "clever": "ловкий, умный",
+  "closest": "ближайший",
+  "cloth": "тканевый",
+  "clouds": "облака",
+  "come": "приехать, прийти",
+  "comes": "приходит",
+  "copy": "копия",
+  "corner": "угол",
+  "could": "мог(ла)",
+  "cozy": "уютный",
+  "dark": "тёмный",
+  "daughter": "дочь",
+  "debts": "долги",
+  "deep": "глубокий",
+  "did": "(вспом. глагол)",
+  "didn't": "не (прош.)",
+  "died": "умер(ла)",
+  "dining": "столовая (dining room)",
+  "direction": "направление",
+  "disappeared": "пропало",
+  "do": "(вспом.), делать",
+  "doesn't": "не (вспом.)",
+  "dog": "собака",
+  "done": "сделали, причинили",
+  "door": "дверь",
+  "down": "вниз",
+  "drinking": "пил",
+  "drove": "поехала",
+  "earth": "земля",
+  "easy": "лёгкий",
+  "edge": "край, окраина",
+  "eleven": "одиннадцать",
+  "ellen": "Эллен (имя)",
+  "emeralds": "изумруды",
+  "empty": "пустой",
+  "enter": "входить",
+  "envelope": "конверт",
+  "even": "даже",
+  "evening": "вечер",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "everybody": "все",
+  "everyone": "все",
+  "examined": "осмотрела",
+  "except": "кроме",
+  "expect": "ожидать",
+  "expensive": "дорогой",
+  "explosion": "взрыв",
+  "face": "лицо",
+  "faster": "быстрее",
+  "father": "отец",
+  "fell": "уснула (fell asleep)",
+  "fence": "забор",
+  "fernley": "Фернли (город)",
+  "find": "найти",
+  "fingers": "пальцы",
+  "fire": "огонь",
+  "fireplace": "камин",
+  "first": "первый",
+  "five": "пять",
+  "flowers": "цветы",
+  "footprint": "след",
+  "for": "для, в течение",
+  "forgive": "простить",
+  "forty": "сорок",
+  "fresh": "свежий",
+  "frightened": "испуганная",
+  "from": "из, от",
+  "garden": "сад",
+  "gardener": "садовник",
+  "gas": "газовый",
+  "gate": "ворота",
+  "giants": "великаны",
+  "gift": "подарок",
+  "girl": "девушка, девочка",
+  "girl's": "девушки",
+  "give": "дать",
+  "glass": "стекло, стеклянный",
+  "goes": "ходит",
+  "going": "собираюсь; иду",
+  "gold": "золотой",
+  "gone": "пропал, ушли",
+  "greater": "больше",
+  "green": "зелёный",
+  "ground": "земля, грунт",
+  "had": "был(о); (вспом.)",
+  "hairpin": "шпилька",
+  "half": "половина",
+  "hand": "рука",
+  "hands": "руки",
+  "happened": "случилось",
+  "harm": "вред",
+  "has": "имеет, есть",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "heard": "услышали",
+  "her": "её, ей",
+  "here": "здесь, сюда",
+  "hill": "холм",
+  "him": "его, ему",
+  "his": "его",
+  "holt": "Холт (фамилия)",
+  "honest": "честный",
+  "hope": "надеюсь",
+  "house": "дом",
+  "how": "как",
+  "hundred": "сто",
+  "hurt": "пострадал",
+  "husband": "муж",
+  "i": "я",
+  "i'm": "я (есть)",
+  "if": "если",
+  "immediately": "немедленно",
+  "impact": "влияние",
+  "in": "в",
+  "innocent": "невинный",
+  "inside": "внутри",
+  "into": "в",
+  "iron": "железный",
+  "is": "есть, является",
+  "isn't": "не (есть)",
+  "it": "это, оно",
+  "jeweller": "ювелир",
+  "keep": "держу, ношу",
+  "keeps": "держит",
+  "key": "ключ",
+  "kitchen": "кухня",
+  "knew": "знал(и)",
+  "know": "знаю",
+  "lain": "лежали",
+  "lamp": "лампа",
+  "last": "наконец (at last)",
+  "later": "позже, через",
+  "laugh": "смех; смеяться",
+  "laughed": "засмеялся",
+  "leave": "уезжать",
+  "left": "ушла; оставил",
+  "less": "менее",
+  "let": "позволять",
+  "let's": "давайте",
+  "library": "библиотека",
+  "life": "жизнь",
+  "like": "как, похожий на",
+  "lily": "Лили (имя)",
+  "lily's": "Лили (чей)",
+  "listened": "слушала",
+  "little": "маленький, немного",
+  "lived": "жил(и)",
+  "lock": "замок",
+  "long": "долгий, долго",
+  "look": "смотреть, выглядеть",
+  "looked": "посмотрела, выглядел",
+  "lost": "потерявшийся",
+  "made": "сделан, оставлен",
+  "man": "мужчина",
+  "mark": "пятно, отметка",
+  "marry": "жениться",
+  "me": "меня, мне",
+  "meant": "имела в виду",
+  "met": "встретила",
+  "mill": "мельница",
+  "minutes": "минуты",
+  "miss": "мисс",
+  "moment": "мгновение",
+  "month": "месяц",
+  "moon": "луна",
+  "morning": "утро",
+  "moving": "двигались, плыли",
+  "mr": "мистер",
+  "mrs": "миссис",
+  "must": "должны",
+  "my": "мой",
+  "nanny": "няня",
+  "near": "возле, у",
+  "neck": "шея",
+  "necklace": "ожерелье",
+  "nephew": "племянник",
+  "never": "никогда",
+  "next": "рядом (next to)",
+  "night": "ночь",
+  "nine": "девять",
+  "nobody": "никто",
+  "noise": "шум",
+  "not": "не",
+  "notebook": "блокнот",
+  "nothing": "ничего",
+  "noticed": "заметила",
+  "novak": "Новак (фамилия)",
+  "o'clock": "часов",
+  "obeys": "подчиняется",
+  "of": "из, (родит. падеж)",
+  "offended": "обидели",
+  "office": "отделение (post office)",
+  "officer": "полицейский, офицер",
+  "old": "старый",
+  "on": "на",
+  "one": "один",
+  "only": "только, единственный",
+  "open": "открытый",
+  "opened": "открыл",
+  "out": "наружу, выход",
+  "outside": "снаружи",
+  "over": "закончено",
+  "own": "собственный",
+  "passed": "проехала мимо",
+  "past": "мимо",
+  "people": "люди",
+  "person": "человек",
+  "petal": "лепесток",
+  "phone": "телефон",
+  "pipe": "труба",
+  "plan": "планировать",
+  "please": "пожалуйста",
+  "pointed": "указывал",
+  "pointing": "направленный",
+  "police": "полиция, полицейский",
+  "polite": "вежливый",
+  "poor": "бедный",
+  "post": "почта (post office)",
+  "pots": "горшки",
+  "price": "Прайс (фамилия)",
+  "print": "отпечаток",
+  "prison": "тюрьма",
+  "promised": "пообещала",
+  "prove": "доказать",
+  "pulled": "вытащила",
+  "purpose": "цель (on purpose — нарочно)",
+  "pushed": "отодвинула",
+  "put": "положила",
+  "queen": "королева",
+  "quiet": "тихий",
+  "quietly": "тихо",
+  "ran": "побежали",
+  "rang": "зазвонил",
+  "real": "настоящий",
+  "red": "красный",
+  "relative": "родственник",
+  "repair": "исправить",
+  "richest": "самый богатый",
+  "room": "комната",
+  "rowe": "Роу (фамилия)",
+  "rowe's": "миссис Роу (чей)",
+  "rule": "правило",
+  "said": "сказал(а)",
+  "sat": "сидела",
+  "saw": "увидела",
+  "say": "говорить",
+  "school": "школа",
+  "second": "секунда",
+  "see": "видеть (see you — увидимся)",
+  "september": "сентябрь",
+  "sergeant": "сержант",
+  "serious": "серьёзный",
+  "seven": "семь",
+  "seventy": "семьдесят",
+  "shaking": "дрожали",
+  "she": "она",
+  "shining": "светило",
+  "short": "короткий",
+  "should": "должен",
+  "showed": "показала",
+  "silent": "молчаливый",
+  "sitting": "сидя",
+  "sleep": "спать",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smallest": "самый маленький",
+  "smiled": "улыбнулась",
+  "so": "так, поэтому",
+  "soft": "мягкий",
+  "sold": "продала",
+  "somebody": "кто-то",
+  "someone": "кто-то",
+  "something": "что-то",
+  "soon": "скоро",
+  "sorry": "простите",
+  "station": "участок",
+  "stay": "оставаться",
+  "stayed": "оставалась",
+  "steal": "украсть",
+  "still": "неподвижно",
+  "stolen": "украл",
+  "stones": "камни",
+  "stood": "стояла, держалась",
+  "stopped": "остановилась",
+  "story": "история",
+  "straight": "прямо",
+  "stranger": "чужой человек",
+  "such": "такой",
+  "suddenly": "вдруг",
+  "suit": "костюм",
+  "sun": "солнце",
+  "surprised": "удивлённый",
+  "talk": "говорить",
+  "tall": "высокий",
+  "tea": "чай",
+  "tell": "сказать, рассказать",
+  "terrible": "ужасный",
+  "than": "чем",
+  "thanked": "поблагодарила",
+  "that": "что, тот, это",
+  "that's": "это (есть)",
+  "the": "(опр. артикль)",
+  "their": "их",
+  "them": "их, им",
+  "then": "потом, тогда",
+  "there": "там, туда",
+  "these": "эти",
+  "they": "они",
+  "thief": "вор",
+  "thin": "худой, тонкий",
+  "thing": "вещь",
+  "things": "вещи",
+  "think": "думать",
+  "thirty": "тридцать",
+  "this": "этот, это",
+  "thousands": "тысячи",
+  "time": "время",
+  "tiny": "крошечный",
+  "to": "к, в, (инфинитив)",
+  "told": "рассказала, сказал",
+  "tonight": "сегодня ночью",
+  "too": "слишком",
+  "took": "взяла, сделала",
+  "touch": "трогать",
+  "touched": "потрогала",
+  "toward": "к, по направлению",
+  "town": "город",
+  "travel": "разносятся",
+  "trees": "деревья",
+  "truth": "правда",
+  "turned": "повернулся",
+  "twenty": "двадцать",
+  "two": "два, двое",
+  "under": "под",
+  "understood": "поняли",
+  "until": "пока не",
+  "up": "вверх",
+  "upstairs": "наверху",
+  "usually": "обычно",
+  "value": "ценность",
+  "very": "очень",
+  "victor": "Виктор (имя)",
+  "victor's": "Виктора",
+  "violet": "фиалка",
+  "voice": "голос",
+  "waiting": "ждал(и)",
+  "walked": "обошла, пошла",
+  "warm": "тёплый",
+  "was": "был(а)",
+  "water": "поливать",
+  "way": "выход; путь, смысл",
+  "we": "мы",
+  "wedding": "свадебный",
+  "went": "пошли; стало",
+  "were": "были",
+  "wet": "влажный, мокрый",
+  "what": "что",
+  "when": "когда",
+  "where": "где",
+  "white": "белый",
+  "who": "кто, который",
+  "whole": "весь, целый",
+  "wide": "широко",
+  "wife": "жена",
+  "will": "(буд. время)",
+  "window": "окно",
+  "windows": "окна",
+  "winter": "зимний",
+  "with": "с",
+  "woman": "женщина",
+  "woman's": "женский",
+  "words": "слова",
+  "work": "работа",
+  "worked": "работал",
+  "would": "бы, (буд. в прош.)",
+  "wrong": "неправильно",
+  "years": "годы, лет",
+  "yesterday": "вчера",
+  "yet": "ещё, пока",
+  "you": "вы",
+  "your": "ваш"
+ },
+ "vocab": {
+  "there": 2,
+  "nanny": 22,
+  "see": 42,
+  "enter": 62,
+  "earth": 82,
+  "lamp": 102,
+  "clouds": 122,
+  "gate": 142,
+  "should": 162,
+  "warm": 182,
+  "something": 202,
+  "passed": 223,
+  "stay": 243,
+  "stayed": 243,
+  "prove": 263,
+  "marry": 283,
+  "wide": 304,
+  "almost": 324,
+  "obeys": 344,
+  "challenge": 364,
+  "cozy": 384,
+  "bit": 412,
+  "immediately": 433,
+  "breath": 460,
+  "action": 483,
+  "value": 504,
+  "explosion": 526,
+  "mark": 547,
+  "relative": 568,
+  "impact": 589,
+  "harm": 610,
+  "offended": 631
+ }
+}

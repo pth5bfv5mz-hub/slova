@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did Pavel go to the island of Marela?",
+  "q_ru": "Почему Павел поехал на остров Марела?",
+  "options": [
+   "To work at a hotel",
+   "To visit Odile",
+   "To study sea turtles",
+   "To get away from his phone addiction"
+  ],
+  "options_ru": [
+   "Чтобы работать в отеле",
+   "Чтобы навестить Одиль",
+   "Чтобы изучать морских черепах",
+   "Чтобы избавиться от зависимости от телефона"
+  ],
+  "answer": 3,
+  "explain_ru": "Врач сказала про «addiction» и посоветовала место, где «the phone is not the most important thing»."
+ },
+ {
+  "q": "What did the boy steal at the market?",
+  "q_ru": "Что мальчик украл на рынке?",
+  "options": [
+   "A wooden turtle",
+   "Pavel's jacket with all his things",
+   "Pavel's suitcase",
+   "A box of bananas"
+  ],
+  "options_ru": [
+   "Деревянную черепаху",
+   "Куртку Павла со всеми его вещами",
+   "Чемодан Павла",
+   "Ящик бананов"
+  ],
+  "answer": 1,
+  "explain_ru": "Павел снял куртку, где были паспорт, деньги, карта и телефон, и мальчик «picked up the jacket and ran»."
+ },
+ {
+  "q": "Why couldn't Pavel go to his hotel that night?",
+  "q_ru": "Почему Павел не смог пойти в свой отель той ночью?",
+  "options": [
+   "The hotel was closed for the night",
+   "The police told him to stay on the beach",
+   "The hotel's name and address were in his phone",
+   "He did not have a booking"
+  ],
+  "options_ru": [
+   "Отель закрылся на ночь",
+   "Полиция велела ему остаться на пляже",
+   "Название и адрес отеля были в его телефоне",
+   "У него не было брони"
+  ],
+  "answer": 2,
+  "explain_ru": "«He couldn't even remember the name of the hotel; it was in an email on his phone.»"
+ },
+ {
+  "q": "Odile says, \"You were capable of stopping them alone.\" What does \"capable\" mean?",
+  "q_ru": "Одиль говорит: «You were capable of stopping them alone». Что значит «capable»?",
+  "options": [
+   "Not allowed to",
+   "Able to",
+   "Afraid to",
+   "Ordered to"
+  ],
+  "options_ru": [
+   "Не разрешено",
+   "Способен, смог",
+   "Боялся",
+   "Получил приказ"
+  ],
+  "answer": 1,
+  "explain_ru": "«Capable of» — способный на что-то. Павел и сам не знал, что способен на такое: «He didn't know he was capable of it either»."
+ },
+ {
+  "q": "How did Pavel stop the turtle hunters?",
+  "q_ru": "Как Павел остановил охотников на черепах?",
+  "options": [
+   "He called the police",
+   "He fought them with a stick",
+   "He hid the turtle in the trees",
+   "He put an old fishing net across their path"
+  ],
+  "options_ru": [
+   "Вызвал полицию",
+   "Дрался с ними палкой",
+   "Спрятал черепаху среди деревьев",
+   "Натянул старую рыболовную сеть поперёк их пути"
+  ],
+  "answer": 3,
+  "explain_ru": "Он натянул сеть между двумя деревьями на тропинке, крикнул, и охотники, побежав к нему, упали в сеть."
+ },
+ {
+  "q": "What is the twist at the end of the story?",
+  "q_ru": "В чём неожиданный поворот в конце истории?",
+  "options": [
+   "Odile told her grandson to take the jacket",
+   "The hunters were Odile's sons",
+   "Pavel's phone was broken",
+   "The turtle was Odile's pet"
+  ],
+  "options_ru": [
+   "Одиль велела внуку взять куртку",
+   "Охотники были сыновьями Одиль",
+   "Телефон Павла был сломан",
+   "Черепаха была питомцем Одиль"
+  ],
+  "answer": 0,
+  "explain_ru": "Тео признаётся: «Grandmother ordered me to take it» — «one night without it, and then he will be able to see»."
+ }
+]

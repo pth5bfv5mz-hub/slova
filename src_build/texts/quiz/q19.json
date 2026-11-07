@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What was Peter's job?",
+  "q_ru": "Кем работал Питер?",
+  "options": [
+   "He was an editor who found mistakes in books.",
+   "He was an illustrator of children's books.",
+   "He was the director of a publishing house.",
+   "He worked in a café across the road."
+  ],
+  "options_ru": [
+   "Он был редактором и находил ошибки в книгах.",
+   "Он был иллюстратором детских книг.",
+   "Он был директором издательства.",
+   "Он работал в кафе через дорогу."
+  ],
+  "answer": 0,
+  "explain_ru": "«He worked as an editor... His job was to find mistakes in other people's books»."
+ },
+ {
+  "q": "Why was Peter so afraid of making mistakes?",
+  "q_ru": "Почему Питер так боялся ошибок?",
+  "options": [
+   "He once lost his job because of a mistake.",
+   "Writers often shouted at him.",
+   "His father tore his picture because the sky was purple.",
+   "Mira laughed at his drawings."
+  ],
+  "options_ru": [
+   "Однажды он потерял работу из-за ошибки.",
+   "Писатели часто на него кричали.",
+   "Отец порвал его рисунок, потому что небо было фиолетовым.",
+   "Мира смеялась над его рисунками."
+  ],
+  "answer": 2,
+  "explain_ru": "В девять лет он нарисовал море с фиолетовым небом. Отец сказал «The sky is not purple» и порвал рисунок. После этого Питер решил, что безопаснее ничего не делать."
+ },
+ {
+  "q": "Mira says: \"The blue trees are my intention.\" What does \"intention\" mean?",
+  "q_ru": "Мира говорит: «The blue trees are my intention». Что значит «intention»?",
+  "options": [
+   "A mistake you did not notice.",
+   "Something you do on purpose.",
+   "A colour that is very expensive.",
+   "A problem in a book."
+  ],
+  "options_ru": [
+   "Ошибка, которую ты не заметил.",
+   "То, что делаешь намеренно.",
+   "Очень дорогой цвет.",
+   "Проблема в книге."
+  ],
+  "answer": 1,
+  "explain_ru": "«Intention» — намерение, замысел. Синие деревья не ошибка: «It's a dream world», она нарисовала их так специально."
+ },
+ {
+  "q": "What did Peter send to the director by mistake?",
+  "q_ru": "Что Питер по ошибке отправил директору?",
+  "options": [
+   "The wrong version of the fairy tales book.",
+   "A letter about leaving his job.",
+   "Mira's drawings of a flying bear.",
+   "The folder with photos of his secret drawings."
+  ],
+  "options_ru": [
+   "Неправильную версию книги сказок.",
+   "Письмо об увольнении.",
+   "Рисунки Миры с летающим медведем.",
+   "Папку с фотографиями своих тайных рисунков."
+  ],
+  "answer": 3,
+  "explain_ru": "Вместо книги он приложил папку «Old documents» — «forty drawings that nobody was supposed to see». Директору они понравились, и один рисунок пошёл на обложку."
+ },
+ {
+  "q": "What does Mira think about Peter's \"mistake\"?",
+  "q_ru": "Что Мира думает об «ошибке» Питера?",
+  "options": [
+   "Maybe it was not really an accident.",
+   "It was the director's fault.",
+   "It was a terrible and unprofessional mistake.",
+   "Peter was too tired to read the file names."
+  ],
+  "options_ru": [
+   "Возможно, это была вовсе не случайность.",
+   "Виновата директор.",
+   "Это была ужасная непрофессиональная ошибка.",
+   "Питер слишком устал и не прочитал названия файлов."
+  ],
+  "answer": 0,
+  "explain_ru": "Мира замечает, что названия файлов совсем не похожи, а Питер очень внимателен: «Do you really believe it was an accident?» Питер вспоминает, что видел название папки и всё равно нажал «Send»."
+ },
+ {
+  "q": "What do the soup and the pen at the end show?",
+  "q_ru": "Что показывают суп и ручка в конце рассказа?",
+  "options": [
+   "Peter is sad because he lost his job.",
+   "Peter wants to work in the café.",
+   "Peter is no longer so afraid to try new things and make mistakes.",
+   "Peter does not like drawing anymore."
+  ],
+  "options_ru": [
+   "Питер грустит, потому что потерял работу.",
+   "Питер хочет работать в кафе.",
+   "Питер больше не так боится пробовать новое и ошибаться.",
+   "Питер больше не любит рисовать."
+  ],
+  "answer": 2,
+  "explain_ru": "Раньше он никогда не брал суп дня и работал только карандашом, потому что его можно стереть. В конце он заказал суп, посмеялся над ним и стал рисовать ручкой, «not a pencil»."
+ }
+]

@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did Hana promise not to act like a police officer?",
+  "q_ru": "Почему Хана пообещала не вести себя как полицейский?",
+  "options": [
+   "Her cousin Isobel asked her to be just a guest",
+   "She was on holiday and very tired",
+   "Her boss told her to rest",
+   "Gordon did not like the police"
+  ],
+  "options_ru": [
+   "Её кузина Изобел попросила её быть просто гостьей",
+   "Она была в отпуске и очень устала",
+   "Начальник велел ей отдыхать",
+   "Гордон не любил полицию"
+  ],
+  "answer": 0,
+  "explain_ru": "Изобел взяла с неё обещание: «No questions, no notebooks... Just eat, dance and cry a little»."
+ },
+ {
+  "q": "Why did Hana think that Lettice was perhaps the real target?",
+  "q_ru": "Почему Хана подумала, что, возможно, убить хотели Леттис?",
+  "options": [
+   "Lettice said that someone hated her",
+   "Rupert was seen in the kitchen",
+   "Lettice's pills were missing",
+   "Polly may have mixed up the plates"
+  ],
+  "options_ru": [
+   "Леттис сказала, что её кто-то ненавидит",
+   "Руперта видели на кухне",
+   "Таблетки Леттис пропали",
+   "Полли могла перепутать тарелки"
+  ],
+  "answer": 3,
+  "explain_ru": "Одна карточка с именем упала на пол, и Полли «just guessed». А Леттис собиралась изменить завещание, так что Руперт мог потерять состояние."
+ },
+ {
+  "q": "What did Hana learn from Gordon's pill bottle?",
+  "q_ru": "Что Хана узнала из баночки с таблетками Гордона?",
+  "options": [
+   "The bottle was completely full",
+   "The poison came from Gordon's own pills",
+   "Lettice's pills were used for the poison",
+   "Gordon had stopped taking his medicine"
+  ],
+  "options_ru": [
+   "Баночка была совершенно полной",
+   "Яд был сделан из собственных таблеток Гордона",
+   "Для отравления использовали таблетки Леттис",
+   "Гордон перестал принимать лекарство"
+  ],
+  "answer": 1,
+  "explain_ru": "В пятницу в баночке было 60 таблеток, осталось только 12. Бутылочка Леттис почти полная: «They had used Gordon's»."
+ },
+ {
+  "q": "How did Joan show that she was the poisoner?",
+  "q_ru": "Как Джоан выдала, что это она отравительница?",
+  "options": [
+   "She knew about the name cards in the refrigerator",
+   "She had a dark mark on her wrist",
+   "She started crying and confessed at once",
+   "Lettice saw her and told Hana"
+  ],
+  "options_ru": [
+   "Она знала о карточках с именами в холодильнике",
+   "У неё был тёмный след на запястье",
+   "Она заплакала и сразу призналась",
+   "Леттис её видела и рассказала Хане"
+  ],
+  "answer": 0,
+  "explain_ru": "Хана никому не говорила о карточках, а Полли и Марек сидели закрытыми. Знать о них мог только тот, кто был на кухне: «how do you know about the cards?»"
+ },
+ {
+  "q": "Joan says: \"Gordon was cunning.\" What does \"cunning\" mean here?",
+  "q_ru": "Джоан говорит: «Gordon was cunning». Что значит «cunning» здесь?",
+  "options": [
+   "Kind and generous to his family",
+   "Clever at hiding things and tricking people",
+   "Often ill and weak",
+   "Very rich and famous"
+  ],
+  "options_ru": [
+   "Добрый и щедрый к семье",
+   "Ловко умеющий скрывать и обманывать",
+   "Часто болеющий и слабый",
+   "Очень богатый и известный"
+  ],
+  "answer": 1,
+  "explain_ru": "Cunning — хитрый. Никто не видел насилия: «The violence only happened behind closed doors, and the next morning he always bought me flowers»."
+ },
+ {
+  "q": "Why was Hana not glad at the end?",
+  "q_ru": "Почему Хана не была рада в конце?",
+  "options": [
+   "She could not find any proof",
+   "Rupert escaped before the police came",
+   "The killer was a victim protecting her daughter",
+   "Isobel refused to speak to her"
+  ],
+  "options_ru": [
+   "Она не нашла никаких доказательств",
+   "Руперт сбежал до приезда полиции",
+   "Убийца сама была жертвой и защищала дочь",
+   "Изобел отказалась с ней разговаривать"
+  ],
+  "answer": 2,
+  "explain_ru": "Джоан 12 лет терпела насилие и хотела защитить Изобел. Хана чувствует «no satisfaction, only a deep, heavy disappointment». А Изобел её обняла."
+ }
+]

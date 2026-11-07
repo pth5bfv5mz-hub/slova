@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why do historians treat the discovery of 1795 as a legend?",
+  "q_ru": "Почему историки считают открытие 1795 года легендой?",
+  "options": [
+   "The boys later admitted it was a joke",
+   "Nobody lived in Nova Scotia at that time",
+   "The first written accounts appeared decades later",
+   "The island was underwater in 1795"
+  ],
+  "options_ru": [
+   "Ребята позже признались, что это шутка",
+   "В Новой Шотландии тогда никто не жил",
+   "Первые письменные рассказы появились через десятилетия",
+   "В 1795 году остров был под водой"
+  ],
+  "answer": 2,
+  "explain_ru": "Самые ранние известные записи появились в газетах 1850–1860-х годов, более чем через полвека, и версии расходятся в деталях."
+ },
+ {
+  "q": "What happened to the stone with strange symbols?",
+  "q_ru": "Что стало с камнем со странными символами?",
+  "options": [
+   "It disappeared, and no reliable copy survives",
+   "It is kept in a museum",
+   "Scientists proved it was made by Templars",
+   "The Lagina brothers found it again"
+  ],
+  "options_ru": [
+   "Он исчез, и надёжной копии не сохранилось",
+   "Он хранится в музее",
+   "Учёные доказали, что его сделали тамплиеры",
+   "Братья Лагина нашли его снова"
+  ],
+  "answer": 0,
+  "explain_ru": "Камень пропал, копии символов нет, поэтому «перевод» про два миллиона фунтов проверить невозможно."
+ },
+ {
+  "q": "How do sceptics explain the coconut fibre found on the island?",
+  "q_ru": "Как скептики объясняют кокосовое волокно, найденное на острове?",
+  "options": [
+   "Coconut trees once grew on the island",
+   "Templars planted it there",
+   "It came from Captain Kidd's ship",
+   "It was often used on ships to protect cargo"
+  ],
+  "options_ru": [
+   "Когда-то на острове росли кокосовые пальмы",
+   "Его посадили тамплиеры",
+   "Оно с корабля капитана Кидда",
+   "Его часто использовали на судах для защиты груза"
+  ],
+  "answer": 3,
+  "explain_ru": "Кокосовое волокно было обычным упаковочным материалом на кораблях, поэтому его могли завезти обычные торговые суда."
+ },
+ {
+  "q": "How many people have died in the search for the treasure?",
+  "q_ru": "Сколько человек погибло во время поисков сокровища?",
+  "options": [
+   "Two",
+   "Six",
+   "Seven",
+   "Ten"
+  ],
+  "options_ru": [
+   "Двое",
+   "Шесть",
+   "Семь",
+   "Десять"
+  ],
+  "answer": 1,
+  "explain_ru": "Погибли рабочий в 1861 году, человек в 1897 году и четверо в 1965 году — всего шесть; «семь» — это число из легенды о проклятии."
+ },
+ {
+  "q": "What has the team from The Curse of Oak Island found?",
+  "q_ru": "Что нашла команда шоу «Проклятие острова Оук»?",
+  "options": [
+   "A chest full of gold",
+   "Shakespeare's original manuscripts",
+   "Coins, pottery and old wooden structures",
+   "The untouched original Money Pit"
+  ],
+  "options_ru": [
+   "Сундук, полный золота",
+   "Подлинные рукописи Шекспира",
+   "Монеты, керамику и старые деревянные конструкции",
+   "Нетронутую первоначальную «Денежную яму»"
+  ],
+  "answer": 2,
+  "explain_ru": "Находки показывают, что на острове в прошлом бывали люди, но ни золота, ни драгоценностей, ни рукописей не нашли."
+ },
+ {
+  "q": "What do geologists think the Money Pit may be?",
+  "q_ru": "Чем, по мнению геологов, может быть «Денежная яма»?",
+  "options": [
+   "A pirate trap with flood tunnels",
+   "A shaft dug by Roosevelt's company",
+   "A Templar building made of gypsum",
+   "A natural sinkhole connected to the sea"
+  ],
+  "options_ru": [
+   "Пиратская ловушка с затопляющими туннелями",
+   "Шахта, вырытая компанией Рузвельта",
+   "Постройка тамплиеров из гипса",
+   "Естественная карстовая воронка, связанная с морем"
+  ],
+  "answer": 3,
+  "explain_ru": "Известняк и гипс растворяются в воде, образуя пещеры и воронки; вода могла поступать по природным каналам — но и это не доказано."
+ }
+]

@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why was the house on Silver Lake so hard to sell?",
+  "q_ru": "Почему дом на Серебряном озере было так трудно продать?",
+  "options": [
+   "It was too expensive for local people",
+   "Customers came back frightened and silent",
+   "It had no furniture or electricity",
+   "The road to the lake was closed"
+  ],
+  "options_ru": [
+   "Он был слишком дорогим для местных",
+   "Покупатели возвращались напуганными и молчаливыми",
+   "В нём не было мебели и электричества",
+   "Дорога к озеру была закрыта"
+  ],
+  "answer": 1,
+  "explain_ru": "Дом был самым дешёвым, но «every customer who went to see it came back pale and silent» — все покупатели возвращались бледными и молчали."
+ },
+ {
+  "q": "What strange thing did Anna notice about Thomas Reed in the street?",
+  "q_ru": "Что странное Анна заметила в Томасе Риде на улице?",
+  "options": [
+   "He had no shadow",
+   "He walked without making a sound",
+   "His coat was dry in the heavy rain",
+   "He disappeared into the wall"
+  ],
+  "options_ru": [
+   "У него не было тени",
+   "Он шёл совершенно беззвучно",
+   "Его пальто было сухим под сильным дождём",
+   "Он исчез в стене"
+  ],
+  "answer": 2,
+  "explain_ru": "«Although it was raining hard, his coat looked completely dry» — шёл сильный дождь, а пальто было совсем сухим."
+ },
+ {
+  "q": "What happened to the Reed family's house in 1961?",
+  "q_ru": "Что случилось с домом семьи Рид в 1961 году?",
+  "options": [
+   "The family sold it to a rich man",
+   "A storm destroyed half of it",
+   "The Reeds moved to a hospital",
+   "The government took it for a dam"
+  ],
+  "options_ru": [
+   "Семья продала его богачу",
+   "Шторм разрушил половину дома",
+   "Риды переехали в больницу",
+   "Правительство забрало его ради плотины"
+  ],
+  "answer": 3,
+  "explain_ru": "В записях: «this property will be used for a new dam. The owners must leave within thirty days» — дом забрали для плотины, которую так и не построили."
+ },
+ {
+  "q": "In the story, Mrs. Hall calls it \"an abuse of power\". What does she mean?",
+  "q_ru": "Миссис Холл называет это «an abuse of power». Что она имеет в виду?",
+  "options": [
+   "The government used its power unfairly",
+   "Thomas was too strong and dangerous",
+   "The storm was very powerful",
+   "The agency charged too much money"
+  ],
+  "options_ru": [
+   "Власти несправедливо воспользовались своей силой",
+   "Томас был слишком сильным и опасным",
+   "Шторм был очень мощным",
+   "Агентство брало слишком много денег"
+  ],
+  "answer": 0,
+  "explain_ru": "«Abuse of power» — злоупотребление властью: правительство выгнало семью ради плотины, которая так и не появилась."
+ },
+ {
+  "q": "Why does Thomas need to buy the house officially?",
+  "q_ru": "Зачем Томасу нужно официально купить дом?",
+  "options": [
+   "He wants to sell it again for more money",
+   "Lily will only come into a house that is hers",
+   "He needs a place to keep his boat",
+   "The government wants to build the dam now"
+  ],
+  "options_ru": [
+   "Он хочет перепродать его дороже",
+   "Лили войдёт только в дом, который принадлежит ей",
+   "Ему нужно место для лодки",
+   "Правительство теперь хочет построить плотину"
+  ],
+  "answer": 1,
+  "explain_ru": "Томас объясняет: «Lily will not come through the door of a house that is not hers» — дом должен снова стать их «на бумаге»."
+ },
+ {
+  "q": "What does Anna see at the end, two weeks later?",
+  "q_ru": "Что Анна видит в конце, через две недели?",
+  "options": [
+   "The house is dark and empty",
+   "Workers are building a dam",
+   "Two shadows standing together on the porch",
+   "A new family moving into the house"
+  ],
+  "options_ru": [
+   "Дом тёмный и пустой",
+   "Рабочие строят плотину",
+   "Две тени, стоящие рядом на крыльце",
+   "В дом въезжает новая семья"
+  ],
+  "answer": 2,
+  "explain_ru": "«On the porch she could see two shadows standing close together» — Томас и Лили наконец снова вместе."
+ }
+]

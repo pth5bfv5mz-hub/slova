@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did the US government start paying for psychic research?",
+  "q_ru": "Почему правительство США начало платить за экстрасенсорные исследования?",
+  "options": [
+   "Scientists had proved that telepathy works",
+   "Officials were afraid that the Soviet Union might get ahead",
+   "Uri Geller asked the CIA for money",
+   "The army needed new ways to train pilots"
+  ],
+  "options_ru": [
+   "Учёные доказали, что телепатия работает",
+   "Чиновники боялись, что Советский Союз может их опередить",
+   "Ури Геллер попросил у ЦРУ денег",
+   "Армии нужны были новые способы обучения пилотов"
+  ],
+  "answer": 1,
+  "explain_ru": "Поступали сообщения о советских исследованиях, и американские чиновники «were afraid of falling behind»."
+ },
+ {
+  "q": "What is \"remote viewing\"?",
+  "q_ru": "Что такое «удалённое видение»?",
+  "options": [
+   "Watching enemies with hidden cameras",
+   "Using satellites to photograph distant places",
+   "Bending objects with the power of the mind",
+   "Trying to describe a distant place using only the mind"
+  ],
+  "options_ru": [
+   "Наблюдение за врагами с помощью скрытых камер",
+   "Съёмка далёких мест со спутников",
+   "Сгибание предметов силой мысли",
+   "Попытка описать далёкое место с помощью одного лишь разума"
+  ],
+  "answer": 3,
+  "explain_ru": "В тексте: «trying to describe a place, a person or an object that is far away, using only the mind»."
+ },
+ {
+  "q": "Why was naming a target too early seen as a trap?",
+  "q_ru": "Почему слишком раннее называние цели считалось ловушкой?",
+  "options": [
+   "The mind quickly adds familiar details that are not there",
+   "The monitor would stop the session at once",
+   "The customers did not want any names",
+   "It made each session much too long"
+  ],
+  "options_ru": [
+   "Разум быстро добавляет знакомые детали, которых нет",
+   "Ведущий сразу прекратил бы сеанс",
+   "Заказчикам не нужны были никакие названия",
+   "Из-за этого каждый сеанс становился слишком долгим"
+  ],
+  "answer": 0,
+  "explain_ru": "Если «видящий» решал, что видит стадион, его разум заполнял картинку знакомыми деталями, «that were not really there»."
+ },
+ {
+  "q": "What did Jessica Utts and Ray Hyman disagree about?",
+  "q_ru": "В чём разошлись Джессика Аттс и Рэй Хайман?",
+  "options": [
+   "Whether the programme had cost too much",
+   "Whether the programme should move to the CIA",
+   "Whether the lab results proved that psychic powers exist",
+   "Whether Uri Geller had used tricks"
+  ],
+  "options_ru": [
+   "Не стоила ли программа слишком дорого",
+   "Нужно ли передавать программу ЦРУ",
+   "Доказывают ли лабораторные результаты существование экстрасенсорных способностей",
+   "Пользовался ли Ури Геллер трюками"
+  ],
+  "answer": 2,
+  "explain_ru": "Аттс считала результаты доказательством, а Хайман отвечал, что результаты лучше случайных ещё не доказывают существования таких способностей."
+ },
+ {
+  "q": "What did both experts agree on?",
+  "q_ru": "В чём согласились оба эксперта?",
+  "options": [
+   "Remote viewing works, but only in laboratories",
+   "Remote viewing was never shown to be useful for intelligence",
+   "The programme should continue in secret",
+   "The Soviet programme had been more successful"
+  ],
+  "options_ru": [
+   "Удалённое видение работает, но только в лабораториях",
+   "Не было показано, что удалённое видение полезно для разведки",
+   "Программу нужно продолжать тайно",
+   "Советская программа была успешнее"
+  ],
+  "answer": 1,
+  "explain_ru": "Ни один из экспертов не нашёл доказательств, что удалённое видение когда-либо было полезно в реальной разведывательной работе."
+ },
+ {
+  "q": "Which statement best describes what the documents prove?",
+  "q_ru": "Какое утверждение лучше всего описывает то, что доказывают документы?",
+  "options": [
+   "Psychic spies found the hostages in Iran",
+   "The programme never really existed",
+   "The programme secretly continued after 1995",
+   "The programme existed, but there is no proof that it worked"
+  ],
+  "options_ru": [
+   "Шпионы-экстрасенсы нашли заложников в Иране",
+   "Программы на самом деле никогда не было",
+   "Программа тайно продолжалась после 1995 года",
+   "Программа существовала, но нет доказательств, что она работала"
+  ],
+  "answer": 3,
+  "explain_ru": "Документы доказывают, что программа существовала более 20 лет, но не доказывают, что удалённое видение работает."
+ }
+]

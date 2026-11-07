@@ -1,0 +1,1364 @@
+{
+ "id": 93,
+ "level": "B1",
+ "title_en": "Messages from Tomorrow",
+ "title_ru": "Сообщения из завтрашнего дня",
+ "genre": "Фантастика",
+ "summary_ru": "Пятнадцатилетний Киан находит под скамейкой на остановке старый телефон, на который приходят сообщения из завтрашнего дня, — и одно из них предупреждает, что в четверг в 16:17 его младшей сестре грозит беда.",
+ "paragraphs": [
+  {
+   "en": "The phone was lying under the bench at the bus stop, half-hidden in a puddle, when Kian Brody first saw it. It was a rainy Tuesday in October, and the morning sky was one grey cloud from end to end. Kian was fifteen, he was late for school as usual, and he nearly didn't stop. But something about the phone made him pick it up: its screen was glowing, although the rain was running across it.",
+   "ru": "Телефон лежал под скамейкой на автобусной остановке, наполовину скрытый в луже, когда Киан Броуди впервые его увидел. Был дождливый октябрьский вторник, и утреннее небо от края до края было одним серым облаком. Киану было пятнадцать, он, как обычно, опаздывал в школу и чуть было не прошёл мимо. Но что-то в этом телефоне заставило его поднять его: экран светился, хотя по нему стекал дождь.",
+   "s": [
+    [
+     "The phone was lying under the bench at the bus stop, half-hidden in a puddle, when Kian Brody first saw it.",
+     "Телефон лежал под скамейкой на автобусной остановке, наполовину скрытый в луже, когда Киан Броуди впервые его увидел."
+    ],
+    [
+     "It was a rainy Tuesday in October, and the morning sky was one grey cloud from end to end.",
+     "Был дождливый октябрьский вторник, и утреннее небо от края до края было одним серым облаком."
+    ],
+    [
+     "Kian was fifteen, he was late for school as usual, and he nearly didn't stop.",
+     "Киану было пятнадцать, он, как обычно, опаздывал в школу и чуть было не прошёл мимо."
+    ],
+    [
+     "But something about the phone made him pick it up: its screen was glowing, although the rain was running across it.",
+     "Но что-то в этом телефоне заставило его поднять его: экран светился, хотя по нему стекал дождь."
+    ]
+   ]
+  },
+  {
+   "en": "It was an old model, heavy and scratched, with a crack in one corner. There was no name on the lock screen, no photo and no password. Only one thing was strange. At the top of the screen, where the date should be, it said Wednesday, 15 October. Kian looked at his own phone. Today was Tuesday, the fourteenth.",
+   "ru": "Это была старая модель, тяжёлая и поцарапанная, с трещиной в одном углу. На экране блокировки не было ни имени, ни фотографии, ни пароля. Странным было только одно. Вверху экрана, там, где должна быть дата, было написано: среда, 15 октября. Киан посмотрел на свой собственный телефон. Сегодня был вторник, четырнадцатое.",
+   "s": [
+    [
+     "It was an old model, heavy and scratched, with a crack in one corner.",
+     "Это была старая модель, тяжёлая и поцарапанная, с трещиной в одном углу."
+    ],
+    [
+     "There was no name on the lock screen, no photo and no password.",
+     "На экране блокировки не было ни имени, ни фотографии, ни пароля."
+    ],
+    [
+     "Only one thing was strange.",
+     "Странным было только одно."
+    ],
+    [
+     "At the top of the screen, where the date should be, it said Wednesday, 15 October.",
+     "Вверху экрана, там, где должна быть дата, было написано: среда, 15 октября."
+    ],
+    [
+     "Kian looked at his own phone.",
+     "Киан посмотрел на свой собственный телефон."
+    ],
+    [
+     "Today was Tuesday, the fourteenth.",
+     "Сегодня был вторник, четырнадцатое."
+    ]
+   ]
+  },
+  {
+   "en": "\"Broken,\" he thought, and he was about to put it back under the bench. Then the old phone buzzed in his hand. A message appeared from a number made of zeros: \"Keep this phone. You will need it on Thursday. Don't tell anyone.\" The bus arrived with a roar and splashed his trainers, and Kian, without really knowing why, pushed the phone into his school bag.",
+   "ru": "«Сломан», — подумал он и уже собирался положить его обратно под скамейку. И тут старый телефон завибрировал у него в руке. Пришло сообщение с номера из одних нулей: «Оставь этот телефон себе. Он понадобится тебе в четверг. Никому не говори». С рёвом подъехал автобус и обрызгал его кроссовки, и Киан, сам толком не понимая почему, сунул телефон в школьный рюкзак.",
+   "s": [
+    [
+     "\"Broken,\" he thought, and he was about to put it back under the bench.",
+     "«Сломан», — подумал он и уже собирался положить его обратно под скамейку."
+    ],
+    [
+     "Then the old phone buzzed in his hand.",
+     "И тут старый телефон завибрировал у него в руке."
+    ],
+    [
+     "A message appeared from a number made of zeros: \"Keep this phone. You will need it on Thursday. Don't tell anyone.\"",
+     "Пришло сообщение с номера из одних нулей: «Оставь этот телефон себе. Он понадобится тебе в четверг. Никому не говори»."
+    ],
+    [
+     "The bus arrived with a roar and splashed his trainers, and Kian, without really knowing why, pushed the phone into his school bag.",
+     "С рёвом подъехал автобус и обрызгал его кроссовки, и Киан, сам толком не понимая почему, сунул телефон в школьный рюкзак."
+    ]
+   ]
+  },
+  {
+   "en": "All morning he could not stop looking at it. Who could know what he would need on Thursday? A friend playing a joke, maybe, or some kind of new app. His best friend, Dev, said it was probably a cheap phone from a market with the wrong date set. Kian did not mention the message. Something told him to listen to it.",
+   "ru": "Всё утро он не мог перестать на него смотреть. Кто мог знать, что понадобится ему в четверг? Может быть, друг решил пошутить, или это какое-то новое приложение. Его лучший друг Дев сказал, что это, наверное, дешёвый телефон с рынка, на котором выставлена неправильная дата. О сообщении Киан не упомянул. Что-то подсказывало ему, что к нему стоит прислушаться.",
+   "s": [
+    [
+     "All morning he could not stop looking at it.",
+     "Всё утро он не мог перестать на него смотреть."
+    ],
+    [
+     "Who could know what he would need on Thursday?",
+     "Кто мог знать, что понадобится ему в четверг?"
+    ],
+    [
+     "A friend playing a joke, maybe, or some kind of new app.",
+     "Может быть, друг решил пошутить, или это какое-то новое приложение."
+    ],
+    [
+     "His best friend, Dev, said it was probably a cheap phone from a market with the wrong date set.",
+     "Его лучший друг Дев сказал, что это, наверное, дешёвый телефон с рынка, на котором выставлена неправильная дата."
+    ],
+    [
+     "Kian did not mention the message.",
+     "О сообщении Киан не упомянул."
+    ],
+    [
+     "Something told him to listen to it.",
+     "Что-то подсказывало ему, что к нему стоит прислушаться."
+    ]
+   ]
+  },
+  {
+   "en": "The second message came at half past eleven, during a boring history lesson. \"Don't eat the fish at lunch,\" it said. Kian almost laughed. He never ate the fish at lunch anyway; the quality of the school food was famous for being terrible. But that afternoon, half of his class was sent home with stomach pains, and the next day the school kitchen was shut for cleaning. Dev, who had eaten two portions, spent the evening in the bathroom.",
+   "ru": "Второе сообщение пришло в половине двенадцатого, во время скучного урока истории. «Не ешь рыбу на обеде», — говорилось в нём. Киан чуть не рассмеялся. Он и так никогда не ел рыбу на обеде: качество школьной еды славилось тем, что было ужасным. Но в тот же день половину его класса отправили домой с болями в животе, а на следующий день школьную кухню закрыли на санобработку. Дев, который съел две порции, провёл вечер в ванной.",
+   "s": [
+    [
+     "The second message came at half past eleven, during a boring history lesson.",
+     "Второе сообщение пришло в половине двенадцатого, во время скучного урока истории."
+    ],
+    [
+     "\"Don't eat the fish at lunch,\" it said.",
+     "«Не ешь рыбу на обеде», — говорилось в нём."
+    ],
+    [
+     "Kian almost laughed.",
+     "Киан чуть не рассмеялся."
+    ],
+    [
+     "He never ate the fish at lunch anyway; the quality of the school food was famous for being terrible.",
+     "Он и так никогда не ел рыбу на обеде: качество школьной еды славилось тем, что было ужасным."
+    ],
+    [
+     "But that afternoon, half of his class was sent home with stomach pains, and the next day the school kitchen was shut for cleaning.",
+     "Но в тот же день половину его класса отправили домой с болями в животе, а на следующий день школьную кухню закрыли на санобработку."
+    ],
+    [
+     "Dev, who had eaten two portions, spent the evening in the bathroom.",
+     "Дев, который съел две порции, провёл вечер в ванной."
+    ]
+   ]
+  },
+  {
+   "en": "That night Kian lay awake and thought about it. The messages were not jokes. Somehow, the phone knew what was going to happen. He tried to answer, typing \"Who are you?\" with shaking fingers, but every time he pressed Send, a small sign appeared on the screen: \"This number cannot receive messages yet.\" The phone could receive, but it could not reply.",
+   "ru": "Ночью Киан лежал без сна и думал об этом. Сообщения не были шутками. Каким-то образом телефон знал, что должно произойти. Он попытался ответить, набрав дрожащими пальцами «Кто ты?», но каждый раз, когда он нажимал «Отправить», на экране появлялась маленькая надпись: «Этот номер пока не может получать сообщения». Телефон мог принимать сообщения, но не мог отвечать.",
+   "s": [
+    [
+     "That night Kian lay awake and thought about it.",
+     "Ночью Киан лежал без сна и думал об этом."
+    ],
+    [
+     "The messages were not jokes.",
+     "Сообщения не были шутками."
+    ],
+    [
+     "Somehow, the phone knew what was going to happen.",
+     "Каким-то образом телефон знал, что должно произойти."
+    ],
+    [
+     "He tried to answer, typing \"Who are you?\" with shaking fingers, but every time he pressed Send, a small sign appeared on the screen: \"This number cannot receive messages yet.\"",
+     "Он попытался ответить, набрав дрожащими пальцами «Кто ты?», но каждый раз, когда он нажимал «Отправить», на экране появлялась маленькая надпись: «Этот номер пока не может получать сообщения»."
+    ],
+    [
+     "The phone could receive, but it could not reply.",
+     "Телефон мог принимать сообщения, но не мог отвечать."
+    ]
+   ]
+  },
+  {
+   "en": "On Wednesday morning, a third message arrived before breakfast. \"Mrs Kettering will ask you to read your essay aloud. Fix the last paragraph.\" Kian had written his English essay in twenty minutes on the bus, and the last paragraph was mostly nonsense. He skipped breakfast, rewrote it at the kitchen table, and three hours later Mrs Kettering, the English teacher, called his name. When Kian finished reading, she raised her eyebrows and said that it was the best work he had done all year.",
+   "ru": "В среду утром, ещё до завтрака, пришло третье сообщение. «Миссис Кеттеринг попросит тебя прочитать сочинение вслух. Исправь последний абзац». Киан написал сочинение по английскому за двадцать минут в автобусе, и последний абзац был в основном бессмыслицей. Он пропустил завтрак, переписал абзац за кухонным столом, и через три часа миссис Кеттеринг, учительница английского, назвала его имя. Когда Киан закончил читать, она подняла брови и сказала, что это лучшая его работа за весь год.",
+   "s": [
+    [
+     "On Wednesday morning, a third message arrived before breakfast.",
+     "В среду утром, ещё до завтрака, пришло третье сообщение."
+    ],
+    [
+     "\"Mrs Kettering will ask you to read your essay aloud. Fix the last paragraph.\"",
+     "«Миссис Кеттеринг попросит тебя прочитать сочинение вслух. Исправь последний абзац»."
+    ],
+    [
+     "Kian had written his English essay in twenty minutes on the bus, and the last paragraph was mostly nonsense.",
+     "Киан написал сочинение по английскому за двадцать минут в автобусе, и последний абзац был в основном бессмыслицей."
+    ],
+    [
+     "He skipped breakfast, rewrote it at the kitchen table, and three hours later Mrs Kettering, the English teacher, called his name.",
+     "Он пропустил завтрак, переписал абзац за кухонным столом, и через три часа миссис Кеттеринг, учительница английского, назвала его имя."
+    ],
+    [
+     "When Kian finished reading, she raised her eyebrows and said that it was the best work he had done all year.",
+     "Когда Киан закончил читать, она подняла брови и сказала, что это лучшая его работа за весь год."
+    ]
+   ]
+  },
+  {
+   "en": "For the rest of the day, Kian walked around school as if he were someone else. He imagined what he could do with a phone like this. He could know the answers to every test and improve all his marks without studying. He could tell his uncle which football team was going to win and share the money. He could become rich before he was sixteen. Then the phone buzzed again.",
+   "ru": "Весь остаток дня Киан ходил по школе так, словно он был кем-то другим. Он представлял себе, что можно сделать с таким телефоном. Он мог бы знать ответы на все контрольные и улучшить все свои оценки, совсем не занимаясь. Он мог бы говорить дяде, какая футбольная команда победит, и делить с ним выигрыш. Он мог бы разбогатеть ещё до шестнадцати лет. И тут телефон снова завибрировал.",
+   "s": [
+    [
+     "For the rest of the day, Kian walked around school as if he were someone else.",
+     "Весь остаток дня Киан ходил по школе так, словно он был кем-то другим."
+    ],
+    [
+     "He imagined what he could do with a phone like this.",
+     "Он представлял себе, что можно сделать с таким телефоном."
+    ],
+    [
+     "He could know the answers to every test and improve all his marks without studying.",
+     "Он мог бы знать ответы на все контрольные и улучшить все свои оценки, совсем не занимаясь."
+    ],
+    [
+     "He could tell his uncle which football team was going to win and share the money.",
+     "Он мог бы говорить дяде, какая футбольная команда победит, и делить с ним выигрыш."
+    ],
+    [
+     "He could become rich before he was sixteen.",
+     "Он мог бы разбогатеть ещё до шестнадцати лет."
+    ],
+    [
+     "Then the phone buzzed again.",
+     "И тут телефон снова завибрировал."
+    ]
+   ]
+  },
+  {
+   "en": "\"Stop thinking about money,\" the message said. \"That is not what this is for. Thursday, 4:17. Remember.\" Kian stared at the screen. It was as if the sender could read his mind. He felt cold, and for the first time, he was a little afraid.",
+   "ru": "«Перестань думать о деньгах, — говорилось в сообщении. — Он нужен не для этого. Четверг, 16:17. Запомни». Киан уставился на экран. Казалось, будто отправитель умеет читать его мысли. Ему стало холодно, и впервые ему стало немного страшно.",
+   "s": [
+    [
+     "\"Stop thinking about money,\" the message said. \"That is not what this is for. Thursday, 4:17. Remember.\"",
+     "«Перестань думать о деньгах, — говорилось в сообщении. — Он нужен не для этого. Четверг, 16:17. Запомни»."
+    ],
+    [
+     "Kian stared at the screen.",
+     "Киан уставился на экран."
+    ],
+    [
+     "It was as if the sender could read his mind.",
+     "Казалось, будто отправитель умеет читать его мысли."
+    ],
+    [
+     "He felt cold, and for the first time, he was a little afraid.",
+     "Ему стало холодно, и впервые ему стало немного страшно."
+    ]
+   ]
+  },
+  {
+   "en": "His mother noticed his strange behavior at dinner. \"You're very quiet,\" she said, looking at him over her laptop. She was constantly busy that month. Her younger sister was getting married on Saturday, and Mum was organising almost everything: the flowers, the music, the cake and the seating plan for the wedding. Because of all the stuff she had to do, Kian's little sister, Pippa, who was seven, was collected from school every day by a nanny, a cheerful student called Hettie. \"I'm fine,\" Kian said. \"Just tired.\" Mum nodded without really listening, already distracted by another email.",
+   "ru": "Мама заметила его странное поведение за ужином. «Ты очень тихий», — сказала она, глядя на него поверх ноутбука. В тот месяц она была постоянно занята. Её младшая сестра выходила замуж в субботу, и мама организовывала почти всё: цветы, музыку, торт и план рассадки гостей на свадьбе. Из-за всех дел, которые ей нужно было сделать, младшую сестру Киана, семилетнюю Пиппу, каждый день забирала из школы няня — весёлая студентка по имени Хетти. «Всё нормально, — сказал Киан. — Просто устал». Мама кивнула, толком не слушая, — её уже отвлекло очередное письмо.",
+   "s": [
+    [
+     "His mother noticed his strange behavior at dinner.",
+     "Мама заметила его странное поведение за ужином."
+    ],
+    [
+     "\"You're very quiet,\" she said, looking at him over her laptop.",
+     "«Ты очень тихий», — сказала она, глядя на него поверх ноутбука."
+    ],
+    [
+     "She was constantly busy that month.",
+     "В тот месяц она была постоянно занята."
+    ],
+    [
+     "Her younger sister was getting married on Saturday, and Mum was organising almost everything: the flowers, the music, the cake and the seating plan for the wedding.",
+     "Её младшая сестра выходила замуж в субботу, и мама организовывала почти всё: цветы, музыку, торт и план рассадки гостей на свадьбе."
+    ],
+    [
+     "Because of all the stuff she had to do, Kian's little sister, Pippa, who was seven, was collected from school every day by a nanny, a cheerful student called Hettie.",
+     "Из-за всех дел, которые ей нужно было сделать, младшую сестру Киана, семилетнюю Пиппу, каждый день забирала из школы няня — весёлая студентка по имени Хетти."
+    ],
+    [
+     "\"I'm fine,\" Kian said. \"Just tired.\"",
+     "«Всё нормально, — сказал Киан. — Просто устал»."
+    ],
+    [
+     "Mum nodded without really listening, already distracted by another email.",
+     "Мама кивнула, толком не слушая, — её уже отвлекло очередное письмо."
+    ]
+   ]
+  },
+  {
+   "en": "At midnight, the fourth message came. It was longer than the others, and when Kian read it, his eyes went wide and his heart began to beat so hard that he could hear it. \"Thursday. 4:17. The crossing on Mill Road, near the park. Pippa will run after a yellow balloon. The van will not stop. Hettie will be looking at her phone. Be there. Don't be late.\"",
+   "ru": "В полночь пришло четвёртое сообщение. Оно было длиннее остальных, и когда Киан его прочитал, его глаза широко раскрылись, а сердце забилось так сильно, что он слышал его стук. «Четверг. 16:17. Переход на Милл-роуд, возле парка. Пиппа побежит за жёлтым воздушным шариком. Фургон не остановится. Хетти будет смотреть в свой телефон. Будь там. Не опоздай».",
+   "s": [
+    [
+     "At midnight, the fourth message came.",
+     "В полночь пришло четвёртое сообщение."
+    ],
+    [
+     "It was longer than the others, and when Kian read it, his eyes went wide and his heart began to beat so hard that he could hear it.",
+     "Оно было длиннее остальных, и когда Киан его прочитал, его глаза широко раскрылись, а сердце забилось так сильно, что он слышал его стук."
+    ],
+    [
+     "\"Thursday. 4:17. The crossing on Mill Road, near the park. Pippa will run after a yellow balloon. The van will not stop. Hettie will be looking at her phone. Be there. Don't be late.\"",
+     "«Четверг. 16:17. Переход на Милл-роуд, возле парка. Пиппа побежит за жёлтым воздушным шариком. Фургон не остановится. Хетти будет смотреть в свой телефон. Будь там. Не опоздай»."
+    ]
+   ]
+  },
+  {
+   "en": "Kian read it again and again. He needed advice, but there was nobody he could ask. He wanted to wake his mother, but what could he say? That a phone from a puddle had sent him a warning from the future? She would think that he was ill, or that he was playing a cruel joke at the worst possible time, two days before the wedding. He thought about telling Hettie, but she would only laugh. In the end, he decided that he would simply be there himself.",
+   "ru": "Киан перечитывал его снова и снова. Ему нужен был совет, но спросить было не у кого. Он хотел разбудить маму, но что он мог ей сказать? Что телефон из лужи прислал ему предупреждение из будущего? Она бы решила, что он заболел или что он жестоко шутит в самый неподходящий момент — за два дня до свадьбы. Он подумал, не рассказать ли Хетти, но она бы только посмеялась. В конце концов он решил, что просто будет там сам.",
+   "s": [
+    [
+     "Kian read it again and again.",
+     "Киан перечитывал его снова и снова."
+    ],
+    [
+     "He needed advice, but there was nobody he could ask.",
+     "Ему нужен был совет, но спросить было не у кого."
+    ],
+    [
+     "He wanted to wake his mother, but what could he say?",
+     "Он хотел разбудить маму, но что он мог ей сказать?"
+    ],
+    [
+     "That a phone from a puddle had sent him a warning from the future?",
+     "Что телефон из лужи прислал ему предупреждение из будущего?"
+    ],
+    [
+     "She would think that he was ill, or that he was playing a cruel joke at the worst possible time, two days before the wedding.",
+     "Она бы решила, что он заболел или что он жестоко шутит в самый неподходящий момент — за два дня до свадьбы."
+    ],
+    [
+     "He thought about telling Hettie, but she would only laugh.",
+     "Он подумал, не рассказать ли Хетти, но она бы только посмеялась."
+    ],
+    [
+     "In the end, he decided that he would simply be there himself.",
+     "В конце концов он решил, что просто будет там сам."
+    ]
+   ]
+  },
+  {
+   "en": "Thursday was the longest day of his life. He checked the time constantly. In maths he could not concentrate, and in PE he missed the ball so many times that the teacher asked if he was ill. The last lesson ended at 3:30. Usually he stayed for football practice until five, but today he told the coach that he had a dentist's appointment and rushed out of the gate.",
+   "ru": "Четверг стал самым длинным днём в его жизни. Он постоянно смотрел на часы. На математике он не мог сосредоточиться, а на физкультуре столько раз промахнулся по мячу, что учитель спросил, не заболел ли он. Последний урок закончился в 15:30. Обычно он оставался на футбольную тренировку до пяти, но сегодня сказал тренеру, что записан к зубному врачу, и выбежал за ворота.",
+   "s": [
+    [
+     "Thursday was the longest day of his life.",
+     "Четверг стал самым длинным днём в его жизни."
+    ],
+    [
+     "He checked the time constantly.",
+     "Он постоянно смотрел на часы."
+    ],
+    [
+     "In maths he could not concentrate, and in PE he missed the ball so many times that the teacher asked if he was ill.",
+     "На математике он не мог сосредоточиться, а на физкультуре столько раз промахнулся по мячу, что учитель спросил, не заболел ли он."
+    ],
+    [
+     "The last lesson ended at 3:30.",
+     "Последний урок закончился в 15:30."
+    ],
+    [
+     "Usually he stayed for football practice until five, but today he told the coach that he had a dentist's appointment and rushed out of the gate.",
+     "Обычно он оставался на футбольную тренировку до пяти, но сегодня сказал тренеру, что записан к зубному врачу, и выбежал за ворота."
+    ]
+   ]
+  },
+  {
+   "en": "Then everything started to go wrong. The bus that normally came at 3:40 did not come at all. A sign at the stop said that the road was closed because of an accident. Kian looked at the time: 3:52. Mill Road was almost three kilometres away, across the town centre. He started to run.",
+   "ru": "И тут всё пошло не так. Автобус, который обычно приходил в 15:40, так и не пришёл. Объявление на остановке сообщало, что дорога перекрыта из-за аварии. Киан посмотрел на время: 15:52. Милл-роуд была почти в трёх километрах, на другом конце центра города. Он побежал.",
+   "s": [
+    [
+     "Then everything started to go wrong.",
+     "И тут всё пошло не так."
+    ],
+    [
+     "The bus that normally came at 3:40 did not come at all.",
+     "Автобус, который обычно приходил в 15:40, так и не пришёл."
+    ],
+    [
+     "A sign at the stop said that the road was closed because of an accident.",
+     "Объявление на остановке сообщало, что дорога перекрыта из-за аварии."
+    ],
+    [
+     "Kian looked at the time: 3:52.",
+     "Киан посмотрел на время: 15:52."
+    ],
+    [
+     "Mill Road was almost three kilometres away, across the town centre.",
+     "Милл-роуд была почти в трёх километрах, на другом конце центра города."
+    ],
+    [
+     "He started to run.",
+     "Он побежал."
+    ]
+   ]
+  },
+  {
+   "en": "He ran past the shops, past the station, through the car park behind the supermarket. His bag hit his back with every step, so he threw it behind a wall and kept going without it. His lungs were burning. At 4:09 he reached the river and saw that the footbridge was closed for repairs. He had to go the long way, round by the old church. By the time he turned into Mill Road, he was exhausted, and the clock on his phone said 4:16.",
+   "ru": "Он бежал мимо магазинов, мимо вокзала, через парковку за супермаркетом. Рюкзак бил его по спине на каждом шагу, поэтому он бросил его за стену и побежал дальше без него. Лёгкие горели. В 16:09 он добежал до реки и увидел, что пешеходный мост закрыт на ремонт. Пришлось бежать длинной дорогой, в обход, мимо старой церкви. Когда он свернул на Милл-роуд, он был совершенно измотан, а часы на его телефоне показывали 16:16.",
+   "s": [
+    [
+     "He ran past the shops, past the station, through the car park behind the supermarket.",
+     "Он бежал мимо магазинов, мимо вокзала, через парковку за супермаркетом."
+    ],
+    [
+     "His bag hit his back with every step, so he threw it behind a wall and kept going without it.",
+     "Рюкзак бил его по спине на каждом шагу, поэтому он бросил его за стену и побежал дальше без него."
+    ],
+    [
+     "His lungs were burning.",
+     "Лёгкие горели."
+    ],
+    [
+     "At 4:09 he reached the river and saw that the footbridge was closed for repairs.",
+     "В 16:09 он добежал до реки и увидел, что пешеходный мост закрыт на ремонт."
+    ],
+    [
+     "He had to go the long way, round by the old church.",
+     "Пришлось бежать длинной дорогой, в обход, мимо старой церкви."
+    ],
+    [
+     "By the time he turned into Mill Road, he was exhausted, and the clock on his phone said 4:16.",
+     "Когда он свернул на Милл-роуд, он был совершенно измотан, а часы на его телефоне показывали 16:16."
+    ]
+   ]
+  },
+  {
+   "en": "He saw everything at once, as if it were a photograph. Hettie stood by the park gate, her eyes on her phone. Pippa was holding a yellow balloon that she had got at a birthday party. A gust of wind pulled the string out of her small hand, and the balloon floated toward the road. Pippa laughed and ran after it. And from the corner, with a roar of its engine, came a red van, much too fast.",
+   "ru": "Он увидел всё сразу, словно на фотографии. Хетти стояла у ворот парка, не отрывая глаз от телефона. Пиппа держала жёлтый воздушный шарик, который ей подарили на дне рождения. Порыв ветра вырвал ниточку из её маленькой руки, и шарик поплыл к дороге. Пиппа засмеялась и побежала за ним. А из-за угла с рёвом мотора вылетел красный фургон — слишком быстро.",
+   "s": [
+    [
+     "He saw everything at once, as if it were a photograph.",
+     "Он увидел всё сразу, словно на фотографии."
+    ],
+    [
+     "Hettie stood by the park gate, her eyes on her phone.",
+     "Хетти стояла у ворот парка, не отрывая глаз от телефона."
+    ],
+    [
+     "Pippa was holding a yellow balloon that she had got at a birthday party.",
+     "Пиппа держала жёлтый воздушный шарик, который ей подарили на дне рождения."
+    ],
+    [
+     "A gust of wind pulled the string out of her small hand, and the balloon floated toward the road.",
+     "Порыв ветра вырвал ниточку из её маленькой руки, и шарик поплыл к дороге."
+    ],
+    [
+     "Pippa laughed and ran after it.",
+     "Пиппа засмеялась и побежала за ним."
+    ],
+    [
+     "And from the corner, with a roar of its engine, came a red van, much too fast.",
+     "А из-за угла с рёвом мотора вылетел красный фургон — слишком быстро."
+    ]
+   ]
+  },
+  {
+   "en": "Kian did not think. He jumped forward, caught his sister by her coat and pulled her back so hard that they both fell onto the pavement. The van rushed past so close that he felt the wind on his face. It did not stop. The balloon rose over the roofs and disappeared into the grey sky.",
+   "ru": "Киан не думал. Он прыгнул вперёд, схватил сестру за пальто и рванул её назад так сильно, что они оба упали на тротуар. Фургон промчался так близко, что он почувствовал ветер на лице. Он не остановился. Шарик поднялся над крышами и исчез в сером небе.",
+   "s": [
+    [
+     "Kian did not think.",
+     "Киан не думал."
+    ],
+    [
+     "He jumped forward, caught his sister by her coat and pulled her back so hard that they both fell onto the pavement.",
+     "Он прыгнул вперёд, схватил сестру за пальто и рванул её назад так сильно, что они оба упали на тротуар."
+    ],
+    [
+     "The van rushed past so close that he felt the wind on his face.",
+     "Фургон промчался так близко, что он почувствовал ветер на лице."
+    ],
+    [
+     "It did not stop.",
+     "Он не остановился."
+    ],
+    [
+     "The balloon rose over the roofs and disappeared into the grey sky.",
+     "Шарик поднялся над крышами и исчез в сером небе."
+    ]
+   ]
+  },
+  {
+   "en": "For a moment nobody said anything. Then Pippa started to cry, and Hettie ran over, white as paper, saying \"Oh my God, oh my God\" again and again. A woman came out of a shop. Someone shouted that they had seen the van's number. Nobody had been harmed, but Kian sat on the wet pavement with his arms around his sister, and he realised that his whole body was shaking.",
+   "ru": "Мгновение никто ничего не говорил. Потом Пиппа заплакала, а Хетти подбежала, белая как бумага, и всё повторяла: «Боже мой, боже мой». Из магазина вышла женщина. Кто-то крикнул, что успел увидеть номер фургона. Никто не пострадал, но Киан сидел на мокром тротуаре, обнимая сестру, и понимал, что его всего трясёт.",
+   "s": [
+    [
+     "For a moment nobody said anything.",
+     "Мгновение никто ничего не говорил."
+    ],
+    [
+     "Then Pippa started to cry, and Hettie ran over, white as paper, saying \"Oh my God, oh my God\" again and again.",
+     "Потом Пиппа заплакала, а Хетти подбежала, белая как бумага, и всё повторяла: «Боже мой, боже мой»."
+    ],
+    [
+     "A woman came out of a shop.",
+     "Из магазина вышла женщина."
+    ],
+    [
+     "Someone shouted that they had seen the van's number.",
+     "Кто-то крикнул, что успел увидеть номер фургона."
+    ],
+    [
+     "Nobody had been harmed, but Kian sat on the wet pavement with his arms around his sister, and he realised that his whole body was shaking.",
+     "Никто не пострадал, но Киан сидел на мокром тротуаре, обнимая сестру, и понимал, что его всего трясёт."
+    ]
+   ]
+  },
+  {
+   "en": "That evening, the kitchen was full of people. A police officer took notes; the driver of the van had been found, and it turned out that he had been drinking. Mum held Pippa on her knees and would not let her go. When the officer asked Kian why he had been on Mill Road and not at football practice, he said that he had wanted to walk home with his sister for once. Mum looked at him for a long time but did not ask any more questions. She only kissed the top of his head, which she had not done for years.",
+   "ru": "В тот вечер на кухне было полно людей. Полицейский делал записи: водителя фургона нашли, и выяснилось, что он был пьян. Мама держала Пиппу на коленях и не отпускала её. Когда полицейский спросил Киана, почему он был на Милл-роуд, а не на футбольной тренировке, тот ответил, что хотел хоть раз пройтись домой вместе с сестрой. Мама долго смотрела на него, но больше ни о чём не спрашивала. Она лишь поцеловала его в макушку, чего не делала уже много лет.",
+   "s": [
+    [
+     "That evening, the kitchen was full of people.",
+     "В тот вечер на кухне было полно людей."
+    ],
+    [
+     "A police officer took notes; the driver of the van had been found, and it turned out that he had been drinking.",
+     "Полицейский делал записи: водителя фургона нашли, и выяснилось, что он был пьян."
+    ],
+    [
+     "Mum held Pippa on her knees and would not let her go.",
+     "Мама держала Пиппу на коленях и не отпускала её."
+    ],
+    [
+     "When the officer asked Kian why he had been on Mill Road and not at football practice, he said that he had wanted to walk home with his sister for once.",
+     "Когда полицейский спросил Киана, почему он был на Милл-роуд, а не на футбольной тренировке, тот ответил, что хотел хоть раз пройтись домой вместе с сестрой."
+    ],
+    [
+     "Mum looked at him for a long time but did not ask any more questions.",
+     "Мама долго смотрела на него, но больше ни о чём не спрашивала."
+    ],
+    [
+     "She only kissed the top of his head, which she had not done for years.",
+     "Она лишь поцеловала его в макушку, чего не делала уже много лет."
+    ]
+   ]
+  },
+  {
+   "en": "Later, when the house was quiet, Kian went up to his room and took out the old phone. He wanted to thank whoever had sent the messages. He expected to see the same sign as before, saying that nothing could be sent. But this time the screen was different. The date at the top had changed. It no longer showed tomorrow. It said Tuesday, 14 October, 8:05, the minute when he had found the phone. Under it there was an empty box with a blinking line and a single word: Send.",
+   "ru": "Позже, когда в доме стало тихо, Киан поднялся в свою комнату и достал старый телефон. Он хотел поблагодарить того, кто присылал сообщения. Он ожидал увидеть ту же надпись, что и раньше, — что ничего отправить нельзя. Но на этот раз экран выглядел иначе. Дата вверху изменилась. Она больше не показывала завтрашний день. На ней было написано: вторник, 14 октября, 8:05 — та самая минута, когда он нашёл телефон. Под ней было пустое поле с мигающим курсором и единственное слово: «Отправить».",
+   "s": [
+    [
+     "Later, when the house was quiet, Kian went up to his room and took out the old phone.",
+     "Позже, когда в доме стало тихо, Киан поднялся в свою комнату и достал старый телефон."
+    ],
+    [
+     "He wanted to thank whoever had sent the messages.",
+     "Он хотел поблагодарить того, кто присылал сообщения."
+    ],
+    [
+     "He expected to see the same sign as before, saying that nothing could be sent.",
+     "Он ожидал увидеть ту же надпись, что и раньше, — что ничего отправить нельзя."
+    ],
+    [
+     "But this time the screen was different.",
+     "Но на этот раз экран выглядел иначе."
+    ],
+    [
+     "The date at the top had changed.",
+     "Дата вверху изменилась."
+    ],
+    [
+     "It no longer showed tomorrow.",
+     "Она больше не показывала завтрашний день."
+    ],
+    [
+     "It said Tuesday, 14 October, 8:05, the minute when he had found the phone.",
+     "На ней было написано: вторник, 14 октября, 8:05 — та самая минута, когда он нашёл телефон."
+    ],
+    [
+     "Under it there was an empty box with a blinking line and a single word: Send.",
+     "Под ней было пустое поле с мигающим курсором и единственное слово: «Отправить»."
+    ]
+   ]
+  },
+  {
+   "en": "Kian sat on his bed and looked at the screen for a long time. Slowly, he understood. Nobody else had written the messages. There was no stranger, no app and no joke. The person who had known that he hated the school fish, that his essay was terrible and that he was secretly thinking about money was him. The messages had come from his own tomorrow, and now it was his job to send them. At last he understood the purpose of the phone.",
+   "ru": "Киан сел на кровать и долго смотрел на экран. Постепенно он понял. Никто другой эти сообщения не писал. Не было никакого незнакомца, никакого приложения и никакой шутки. Тем, кто знал, что он терпеть не может школьную рыбу, что его сочинение ужасно и что он втайне думает о деньгах, был он сам. Сообщения пришли из его собственного завтрашнего дня, и теперь отправить их должен был он. Наконец он понял, для чего нужен этот телефон.",
+   "s": [
+    [
+     "Kian sat on his bed and looked at the screen for a long time.",
+     "Киан сел на кровать и долго смотрел на экран."
+    ],
+    [
+     "Slowly, he understood.",
+     "Постепенно он понял."
+    ],
+    [
+     "Nobody else had written the messages.",
+     "Никто другой эти сообщения не писал."
+    ],
+    [
+     "There was no stranger, no app and no joke.",
+     "Не было никакого незнакомца, никакого приложения и никакой шутки."
+    ],
+    [
+     "The person who had known that he hated the school fish, that his essay was terrible and that he was secretly thinking about money was him.",
+     "Тем, кто знал, что он терпеть не может школьную рыбу, что его сочинение ужасно и что он втайне думает о деньгах, был он сам."
+    ],
+    [
+     "The messages had come from his own tomorrow, and now it was his job to send them.",
+     "Сообщения пришли из его собственного завтрашнего дня, и теперь отправить их должен был он."
+    ],
+    [
+     "At last he understood the purpose of the phone.",
+     "Наконец он понял, для чего нужен этот телефон."
+    ]
+   ]
+  },
+  {
+   "en": "His fingers moved almost by themselves. \"Keep this phone. You will need it on Thursday. Don't tell anyone.\" He pressed Send, and the date jumped forward a few hours. He wrote the message about the fish, then the one about the essay. When he reached the message about money, he smiled for the first time that day, because now he knew exactly how stupid he had been, and exactly what his younger self needed to hear.",
+   "ru": "Его пальцы двигались будто сами по себе. «Оставь этот телефон себе. Он понадобится тебе в четверг. Никому не говори». Он нажал «Отправить», и дата перескочила на несколько часов вперёд. Он написал сообщение про рыбу, потом про сочинение. Дойдя до сообщения о деньгах, он впервые за этот день улыбнулся: теперь он точно знал, каким глупым он был и что именно нужно услышать ему самому, только чуть младше.",
+   "s": [
+    [
+     "His fingers moved almost by themselves.",
+     "Его пальцы двигались будто сами по себе."
+    ],
+    [
+     "\"Keep this phone. You will need it on Thursday. Don't tell anyone.\"",
+     "«Оставь этот телефон себе. Он понадобится тебе в четверг. Никому не говори»."
+    ],
+    [
+     "He pressed Send, and the date jumped forward a few hours.",
+     "Он нажал «Отправить», и дата перескочила на несколько часов вперёд."
+    ],
+    [
+     "He wrote the message about the fish, then the one about the essay.",
+     "Он написал сообщение про рыбу, потом про сочинение."
+    ],
+    [
+     "When he reached the message about money, he smiled for the first time that day, because now he knew exactly how stupid he had been, and exactly what his younger self needed to hear.",
+     "Дойдя до сообщения о деньгах, он впервые за этот день улыбнулся: теперь он точно знал, каким глупым он был и что именно нужно услышать ему самому, только чуть младше."
+    ]
+   ]
+  },
+  {
+   "en": "The last message was the hardest. He had to convey everything in a few lines: the place, the time, the balloon, the van. He was afraid of making a mistake. What if he forgot a detail, and the other Kian arrived too late? He checked every word twice, compared it with what he remembered, and finally pressed Send. The screen went dark.",
+   "ru": "Последнее сообщение далось тяжелее всего. Ему нужно было передать всё в нескольких строчках: место, время, шарик, фургон. Он боялся ошибиться. А что, если он забудет какую-нибудь деталь и тот, другой Киан, опоздает? Он дважды проверил каждое слово, сравнил всё с тем, что помнил, и наконец нажал «Отправить». Экран погас.",
+   "s": [
+    [
+     "The last message was the hardest.",
+     "Последнее сообщение далось тяжелее всего."
+    ],
+    [
+     "He had to convey everything in a few lines: the place, the time, the balloon, the van.",
+     "Ему нужно было передать всё в нескольких строчках: место, время, шарик, фургон."
+    ],
+    [
+     "He was afraid of making a mistake.",
+     "Он боялся ошибиться."
+    ],
+    [
+     "What if he forgot a detail, and the other Kian arrived too late?",
+     "А что, если он забудет какую-нибудь деталь и тот, другой Киан, опоздает?"
+    ],
+    [
+     "He checked every word twice, compared it with what he remembered, and finally pressed Send.",
+     "Он дважды проверил каждое слово, сравнил всё с тем, что помнил, и наконец нажал «Отправить»."
+    ],
+    [
+     "The screen went dark.",
+     "Экран погас."
+    ]
+   ]
+  },
+  {
+   "en": "For a moment he thought the phone was dead. Then one last line appeared, in small grey letters: \"Return the phone where you found it.\" Kian put on his jacket, walked quietly downstairs and went out into the night. It had started to rain again. He walked to the bus stop, bent down and placed the old phone under the bench, in the same puddle where it had been lying on Tuesday morning. Its screen gave a soft blue light.",
+   "ru": "На мгновение ему показалось, что телефон сел. Затем появилась последняя строчка маленькими серыми буквами: «Верни телефон туда, где ты его нашёл». Киан надел куртку, тихо спустился вниз и вышел в ночь. Снова пошёл дождь. Он дошёл до автобусной остановки, наклонился и положил старый телефон под скамейку, в ту же лужу, где он лежал во вторник утром. Его экран излучал мягкий голубой свет.",
+   "s": [
+    [
+     "For a moment he thought the phone was dead.",
+     "На мгновение ему показалось, что телефон сел."
+    ],
+    [
+     "Then one last line appeared, in small grey letters: \"Return the phone where you found it.\"",
+     "Затем появилась последняя строчка маленькими серыми буквами: «Верни телефон туда, где ты его нашёл»."
+    ],
+    [
+     "Kian put on his jacket, walked quietly downstairs and went out into the night.",
+     "Киан надел куртку, тихо спустился вниз и вышел в ночь."
+    ],
+    [
+     "It had started to rain again.",
+     "Снова пошёл дождь."
+    ],
+    [
+     "He walked to the bus stop, bent down and placed the old phone under the bench, in the same puddle where it had been lying on Tuesday morning.",
+     "Он дошёл до автобусной остановки, наклонился и положил старый телефон под скамейку, в ту же лужу, где он лежал во вторник утром."
+    ],
+    [
+     "Its screen gave a soft blue light.",
+     "Его экран излучал мягкий голубой свет."
+    ]
+   ]
+  },
+  {
+   "en": "The next morning, on his way to school, he looked under the bench. The phone had gone. Kian never found out how it travelled back to Tuesday, or who had left it there for him in the first place. He decided that some questions were better without answers.",
+   "ru": "На следующее утро по дороге в школу он заглянул под скамейку. Телефона там уже не было. Киан так и не узнал, как он вернулся во вторник и кто вообще оставил его там для него. Он решил, что некоторым вопросам лучше оставаться без ответов.",
+   "s": [
+    [
+     "The next morning, on his way to school, he looked under the bench.",
+     "На следующее утро по дороге в школу он заглянул под скамейку."
+    ],
+    [
+     "The phone had gone.",
+     "Телефона там уже не было."
+    ],
+    [
+     "Kian never found out how it travelled back to Tuesday, or who had left it there for him in the first place.",
+     "Киан так и не узнал, как он вернулся во вторник и кто вообще оставил его там для него."
+    ],
+    [
+     "He decided that some questions were better without answers.",
+     "Он решил, что некоторым вопросам лучше оставаться без ответов."
+    ]
+   ]
+  },
+  {
+   "en": "On Saturday, at his aunt's wedding, Pippa insisted on sitting next to him, and she held his hand during the whole ceremony. Mum gave a short speech and, to everyone's surprise, raised her glass to \"my son, who was in the right place at the right time\". Kian looked down at his plate, his chin almost touching his chest, and felt his face go red. He did not mind. For the first time in a week, he had no idea what tomorrow would bring, and it felt wonderful.",
+   "ru": "В субботу на свадьбе тёти Пиппа настояла на том, чтобы сесть рядом с ним, и держала его за руку всю церемонию. Мама произнесла короткую речь и, ко всеобщему удивлению, подняла бокал «за моего сына, который оказался в нужном месте в нужное время». Киан опустил взгляд в тарелку, почти касаясь подбородком груди, и почувствовал, как краснеет. Он был не против. Впервые за неделю он понятия не имел, что принесёт завтрашний день, и это было чудесно.",
+   "s": [
+    [
+     "On Saturday, at his aunt's wedding, Pippa insisted on sitting next to him, and she held his hand during the whole ceremony.",
+     "В субботу на свадьбе тёти Пиппа настояла на том, чтобы сесть рядом с ним, и держала его за руку всю церемонию."
+    ],
+    [
+     "Mum gave a short speech and, to everyone's surprise, raised her glass to \"my son, who was in the right place at the right time\".",
+     "Мама произнесла короткую речь и, ко всеобщему удивлению, подняла бокал «за моего сына, который оказался в нужном месте в нужное время»."
+    ],
+    [
+     "Kian looked down at his plate, his chin almost touching his chest, and felt his face go red.",
+     "Киан опустил взгляд в тарелку, почти касаясь подбородком груди, и почувствовал, как краснеет."
+    ],
+    [
+     "He did not mind.",
+     "Он был не против."
+    ],
+    [
+     "For the first time in a week, he had no idea what tomorrow would bring, and it felt wonderful.",
+     "Впервые за неделю он понятия не имел, что принесёт завтрашний день, и это было чудесно."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, об",
+  "accident": "авария",
+  "across": "через, по",
+  "advice": "совет",
+  "afraid": "страшно; боялся",
+  "after": "после",
+  "afternoon": "день, после полудня",
+  "again": "снова",
+  "all": "весь, все",
+  "almost": "почти",
+  "aloud": "вслух",
+  "already": "уже",
+  "although": "хотя",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "another": "ещё один",
+  "answer": "ответ",
+  "answers": "ответы",
+  "any": "какой-либо; больше",
+  "anyone": "кого-либо",
+  "anything": "что-нибудь",
+  "anyway": "всё равно",
+  "app": "приложение",
+  "appeared": "появился",
+  "appointment": "запись (к врачу)",
+  "are": "(есть) — вы/они",
+  "arms": "руки",
+  "around": "вокруг, по",
+  "arrived": "пришло; приехал",
+  "as": "как, так как",
+  "ask": "спросить",
+  "asked": "спросил(а)",
+  "at": "в, у, на",
+  "ate": "ел",
+  "aunt's": "тёти",
+  "awake": "без сна",
+  "away": "прочь",
+  "back": "назад; спина",
+  "bag": "рюкзак, сумка",
+  "ball": "мяч",
+  "balloon": "воздушный шарик",
+  "bathroom": "ванная комната",
+  "be": "быть",
+  "beat": "биться",
+  "because": "потому что",
+  "become": "стать",
+  "bed": "кровать",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "began": "начал(а)",
+  "behavior": "поведение",
+  "behind": "за, позади",
+  "being": "быть (for being — тем, что был)",
+  "bench": "скамейка",
+  "bent": "наклонился",
+  "best": "лучший",
+  "better": "лучше",
+  "birthday": "день рождения",
+  "blinking": "мигающий",
+  "blue": "синий",
+  "body": "тело",
+  "boring": "скучный",
+  "both": "оба",
+  "box": "поле, окошко",
+  "breakfast": "завтрак",
+  "bring": "приносить",
+  "brody": "Броуди (фамилия)",
+  "broken": "сломанный",
+  "burning": "горели",
+  "bus": "автобус",
+  "busy": "занятый",
+  "but": "но",
+  "buzzed": "завибрировал",
+  "by": "у, к, от",
+  "cake": "торт",
+  "called": "назывался, звали",
+  "came": "пришёл, пришли",
+  "cannot": "не может",
+  "car": "машина",
+  "caught": "схватил",
+  "centre": "центр",
+  "ceremony": "церемония",
+  "changed": "изменились",
+  "cheap": "дешёвый",
+  "checked": "проверил",
+  "cheerful": "весёлый",
+  "chest": "грудь",
+  "chin": "подбородок",
+  "church": "церковь",
+  "class": "класс",
+  "cleaning": "уборка, санобработка",
+  "clock": "часы",
+  "close": "близко",
+  "closed": "закрытый",
+  "cloud": "облако",
+  "coach": "тренер",
+  "coat": "пальто",
+  "cold": "холодный",
+  "collected": "забирали",
+  "come": "прийти, вернуться",
+  "compared": "сравнил",
+  "concentrate": "сосредоточиться",
+  "constantly": "постоянно",
+  "convey": "передать (чувства)",
+  "corner": "угол",
+  "could": "мог(ла)",
+  "crack": "трещина",
+  "crossing": "(пешеходный) переход",
+  "cruel": "жестокий",
+  "cry": "плакать",
+  "dark": "тёмный",
+  "date": "дата",
+  "day": "день",
+  "days": "дни",
+  "dead": "разряженный, «мёртвый»",
+  "decided": "решил",
+  "dentist's": "к зубному врачу",
+  "detail": "деталь",
+  "dev": "Дев (имя)",
+  "did": "(вспом. гл.)",
+  "didn't": "не (прош. вр.)",
+  "different": "другой, не такой",
+  "dinner": "ужин",
+  "disappeared": "исчезла",
+  "distracted": "отвлечённый",
+  "do": "(вспом. гл.)",
+  "don't": "не (вспом.)",
+  "done": "сделал",
+  "down": "вниз",
+  "downstairs": "внизу, вниз",
+  "drinking": "пил (спиртное)",
+  "driver": "водитель",
+  "during": "во время",
+  "eat": "есть",
+  "eaten": "съел",
+  "eleven": "одиннадцать",
+  "else": "ещё, другой",
+  "email": "электронное письмо",
+  "empty": "пустой",
+  "end": "конец",
+  "ended": "закончилась",
+  "engine": "двигатель",
+  "english": "английский",
+  "essay": "сочинение",
+  "evening": "вечер",
+  "every": "каждый",
+  "everyone's": "всеобщий",
+  "everything": "всё",
+  "exactly": "точно",
+  "exhausted": "измученный",
+  "expected": "ожидал",
+  "eyebrows": "брови",
+  "eyes": "глаза",
+  "face": "лицо",
+  "famous": "знаменитый",
+  "fast": "быстро",
+  "fell": "упали",
+  "felt": "почувствовал",
+  "few": "несколько",
+  "fifteen": "пятнадцать",
+  "finally": "наконец",
+  "fine": "в порядке",
+  "fingers": "пальцы",
+  "finished": "закончил",
+  "first": "первый; сначала",
+  "fish": "рыба",
+  "five": "пять",
+  "fix": "исправить",
+  "floated": "поплыл (по воздуху)",
+  "flowers": "цветы",
+  "food": "еда",
+  "football": "футбольный",
+  "footbridge": "пешеходный мост",
+  "for": "для, в течение",
+  "forgot": "забыл",
+  "forward": "вперёд",
+  "found": "нашёл; найден",
+  "fourteenth": "четырнадцатое",
+  "fourth": "четвёртый",
+  "friend": "друг",
+  "from": "из, от",
+  "full": "полный",
+  "future": "будущее",
+  "gate": "ворота",
+  "gave": "дал",
+  "getting": "getting married — выходила замуж",
+  "glass": "бокал",
+  "glowing": "светился",
+  "go": "идти; go wrong — пойти не так; go red — покраснеть",
+  "god": "Бог (Oh my God — Боже мой)",
+  "going": "going to — собираться",
+  "gone": "исчез",
+  "got": "получила",
+  "grey": "серый",
+  "gust": "порыв",
+  "had": "(вспом. гл.); имела",
+  "half": "половина",
+  "hand": "рука",
+  "happen": "случиться",
+  "hard": "трудно",
+  "hardest": "самый тяжёлый",
+  "harmed": "пострадал (harm — вред)",
+  "hated": "ненавидел",
+  "he": "он",
+  "head": "голова",
+  "hear": "слышать",
+  "heart": "сердце",
+  "heavy": "тяжёлый",
+  "held": "держала",
+  "her": "её, ей",
+  "hettie": "Хетти (имя)",
+  "hidden": "скрытый",
+  "him": "его, ему",
+  "himself": "сам, себе",
+  "his": "его",
+  "history": "история",
+  "hit": "ударял",
+  "holding": "держал",
+  "home": "домой",
+  "hours": "часы",
+  "house": "дом",
+  "how": "как",
+  "i'm": "я (есть)",
+  "idea": "идея",
+  "if": "если, ли",
+  "ill": "больной (was ill — заболел)",
+  "imagined": "представлял",
+  "improve": "улучшать",
+  "in": "в",
+  "insisted": "настояла",
+  "into": "в",
+  "is": "есть, является",
+  "it": "он, оно, это",
+  "its": "его, её",
+  "jacket": "куртка",
+  "job": "работа",
+  "joke": "шутка",
+  "jokes": "шутки",
+  "jumped": "прыгнул",
+  "just": "просто",
+  "keep": "оставить себе",
+  "kept": "kept going — продолжал (бежать)",
+  "kettering": "Кеттеринг (фамилия)",
+  "kian": "Киан (имя)",
+  "kian's": "Киана",
+  "kilometres": "километров",
+  "kind": "some kind of — какой-то",
+  "kissed": "поцеловал",
+  "kitchen": "кухня",
+  "knees": "колени",
+  "knew": "знал(и)",
+  "know": "знать",
+  "knowing": "зная",
+  "known": "знал",
+  "laptop": "ноутбук",
+  "last": "последний",
+  "late": "поздно",
+  "later": "позже",
+  "laugh": "посмеяться",
+  "laughed": "засмеялся",
+  "lay": "лежал",
+  "left": "оставил",
+  "lesson": "урок",
+  "let": "позволять",
+  "letters": "буквы",
+  "life": "жизнь",
+  "light": "свет",
+  "like": "как",
+  "line": "строчка; курсор",
+  "lines": "строчки",
+  "listen": "слушать",
+  "listening": "слушал",
+  "little": "маленький, немного",
+  "lock": "замок",
+  "long": "долго, долгий",
+  "longer": "дольше",
+  "longest": "самый долгий",
+  "looked": "посмотрел",
+  "looking": "глядя",
+  "lunch": "обед",
+  "lungs": "лёгкие",
+  "lying": "лежащий",
+  "made": "сделал; made of — состоящий из",
+  "making": "making a mistake — ошибиться",
+  "many": "много",
+  "market": "рынок",
+  "marks": "оценки",
+  "married": "вышла замуж",
+  "maths": "математика",
+  "maybe": "может быть",
+  "mention": "упоминать",
+  "message": "сообщение",
+  "messages": "сообщения",
+  "midnight": "полночь",
+  "mill": "Милл (Mill Road — название улицы)",
+  "mind": "мысли (read his mind — читать мысли); did not mind — был не против",
+  "minute": "минута",
+  "minutes": "минуты",
+  "missed": "промахнулся",
+  "mistake": "ошибка",
+  "model": "модель",
+  "moment": "мгновение",
+  "money": "деньги",
+  "month": "месяц",
+  "more": "больше",
+  "morning": "утро",
+  "mostly": "в основном",
+  "mother": "мать",
+  "moved": "двигались",
+  "mrs": "миссис",
+  "much": "гораздо",
+  "mum": "мама",
+  "music": "музыка",
+  "my": "мой",
+  "name": "имя",
+  "nanny": "няня",
+  "near": "возле, у",
+  "nearly": "чуть не, почти",
+  "need": "нужно",
+  "needed": "нуждался",
+  "never": "никогда",
+  "new": "новый",
+  "next": "следующий; рядом",
+  "night": "ночь",
+  "no": "нет",
+  "nobody": "никто",
+  "nodded": "кивнул",
+  "nonsense": "чепуха",
+  "normally": "обычно",
+  "not": "не",
+  "notes": "записи",
+  "nothing": "ничего",
+  "noticed": "заметила",
+  "now": "теперь",
+  "number": "номер",
+  "october": "октябрь",
+  "of": "из, о, (род. падеж)",
+  "officer": "полицейский",
+  "oh": "ох, о",
+  "old": "старый",
+  "on": "на",
+  "once": "for once — хоть раз",
+  "one": "один; the one — то (сообщение)",
+  "only": "только",
+  "onto": "на",
+  "or": "или",
+  "organising": "организовывала",
+  "other": "другой",
+  "others": "другие",
+  "out": "наружу",
+  "over": "над",
+  "own": "собственный",
+  "pains": "боли",
+  "paper": "бумага",
+  "paragraph": "абзац",
+  "park": "парк",
+  "party": "праздник",
+  "password": "пароль",
+  "past": "мимо",
+  "pavement": "тротуар",
+  "pe": "физкультура",
+  "people": "люди",
+  "person": "человек",
+  "phone": "телефон",
+  "photo": "фотография",
+  "photograph": "фотография",
+  "pick": "pick up — поднять",
+  "pippa": "Пиппа (имя)",
+  "place": "место",
+  "placed": "положил",
+  "plan": "план",
+  "plate": "тарелка",
+  "playing": "playing a joke — шутить",
+  "police": "полиция, полицейский",
+  "portions": "порции",
+  "possible": "возможный",
+  "practice": "тренировка",
+  "pressed": "нажал",
+  "probably": "вероятно",
+  "puddle": "лужа",
+  "pulled": "вырвал; рванул",
+  "purpose": "цель, назначение",
+  "pushed": "сунул",
+  "put": "положил",
+  "quality": "качество",
+  "questions": "вопросы",
+  "quiet": "тихий",
+  "quietly": "тихо",
+  "rain": "дождь",
+  "rainy": "дождливый",
+  "raised": "подняла",
+  "ran": "побежал",
+  "reached": "добрался",
+  "read": "читать, прочитала",
+  "reading": "читать",
+  "realised": "понял",
+  "really": "действительно",
+  "receive": "получить",
+  "red": "красный",
+  "remember": "запомни",
+  "remembered": "вспомнил",
+  "repairs": "ремонт",
+  "reply": "отвечать",
+  "rest": "остаток",
+  "return": "вернуться",
+  "rewrote": "переписал",
+  "rich": "богатый",
+  "right": "нужный, правильный",
+  "river": "река",
+  "road": "дорога",
+  "roar": "рёв",
+  "roofs": "крыши",
+  "room": "комната",
+  "rose": "поднялся",
+  "round": "round by — в обход",
+  "run": "побежать",
+  "running": "стекал",
+  "rushed": "выбежал; промчался",
+  "said": "сказал(а)",
+  "same": "тот же",
+  "sat": "сидел",
+  "saturday": "суббота",
+  "saw": "увидел",
+  "say": "говорить",
+  "saying": "говоря",
+  "school": "школа",
+  "scratched": "поцарапанный",
+  "screen": "экран",
+  "seating": "рассадка",
+  "second": "второй",
+  "secretly": "тайно",
+  "see": "видеть",
+  "seen": "видел",
+  "self": "younger self — он сам в прошлом",
+  "send": "послать",
+  "sender": "отправитель",
+  "sent": "прислал; отправлен",
+  "set": "установленный",
+  "seven": "семь",
+  "shaking": "дрожащий; трясся",
+  "share": "делиться",
+  "she": "она",
+  "shop": "магазин",
+  "shops": "магазины",
+  "short": "короткий",
+  "should": "должен",
+  "shouted": "крикнул",
+  "showed": "показывала",
+  "shut": "закрыли",
+  "sign": "знак",
+  "simply": "просто",
+  "single": "единственный",
+  "sister": "сестра",
+  "sitting": "сидеть",
+  "sixteen": "шестнадцать",
+  "skipped": "пропустил",
+  "sky": "небо",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smiled": "улыбнулся",
+  "so": "поэтому; так",
+  "soft": "мягкий",
+  "some": "некоторые",
+  "somehow": "каким-то образом",
+  "someone": "кто-то",
+  "something": "что-то",
+  "son": "сын",
+  "speech": "речь",
+  "spent": "провёл",
+  "splashed": "обрызгал",
+  "stared": "уставился",
+  "started": "начал(о)",
+  "station": "вокзал",
+  "stayed": "остался",
+  "step": "шаг",
+  "stomach": "живот",
+  "stood": "стояла",
+  "stop": "перестать",
+  "strange": "странный",
+  "stranger": "незнакомец",
+  "string": "ниточка",
+  "student": "студент",
+  "studying": "учёба, занятия",
+  "stuff": "вещи",
+  "stupid": "глупый",
+  "supermarket": "супермаркет",
+  "surprise": "удивление",
+  "table": "стол",
+  "teacher": "учительница",
+  "team": "команда",
+  "tell": "сказать",
+  "telling": "рассказывал",
+  "terrible": "ужасный",
+  "test": "контрольная",
+  "than": "чем",
+  "thank": "спасибо",
+  "that": "что; тот, это",
+  "the": "(опр. артикль)",
+  "them": "их",
+  "themselves": "сами",
+  "then": "потом, тогда",
+  "there": "там",
+  "they": "они",
+  "thing": "вещь",
+  "think": "думать",
+  "thinking": "думать, думает",
+  "third": "третий",
+  "this": "этот",
+  "thought": "подумал; показалось",
+  "three": "три",
+  "threw": "бросил",
+  "through": "через, сквозь",
+  "thursday": "четверг",
+  "time": "время, раз",
+  "times": "раз",
+  "tired": "усталый",
+  "to": "к, в; (частица)",
+  "today": "сегодня",
+  "told": "сказал; подсказало",
+  "tomorrow": "завтра",
+  "too": "слишком",
+  "took": "взяла",
+  "top": "верх",
+  "touching": "касаясь",
+  "toward": "к, по направлению",
+  "town": "город",
+  "trainers": "кроссовки",
+  "travelled": "переместился",
+  "tried": "попытался",
+  "tuesday": "вторник",
+  "turned": "свернул; turned out — выяснилось",
+  "twenty": "двадцать",
+  "twice": "дважды",
+  "two": "два",
+  "typing": "набирая (текст)",
+  "uncle": "дядя",
+  "under": "под",
+  "understood": "понял",
+  "until": "до",
+  "up": "вверх",
+  "usual": "обычный",
+  "usually": "обычно",
+  "van": "фургон",
+  "van's": "фургона",
+  "very": "очень",
+  "wake": "разбудить",
+  "walk": "идти",
+  "walked": "ходил; пошёл",
+  "wall": "стена",
+  "wanted": "хотел",
+  "warning": "предупреждение",
+  "was": "был(а)",
+  "way": "способ, так",
+  "wedding": "свадьба",
+  "wednesday": "среда",
+  "week": "неделя",
+  "went": "пошёл; went wide — широко раскрылись; went dark — погас; go red — покраснеть",
+  "were": "были",
+  "wet": "мокрый",
+  "what": "что",
+  "when": "когда",
+  "where": "где",
+  "which": "который, что",
+  "white": "белый",
+  "who": "кто, который",
+  "whoever": "тот, кто",
+  "whole": "весь",
+  "why": "почему",
+  "wide": "широкий",
+  "will": "будет",
+  "win": "выиграть",
+  "wind": "ветер",
+  "with": "с",
+  "without": "без",
+  "woman": "женщина",
+  "wonderful": "чудесный",
+  "word": "слово",
+  "work": "работа",
+  "worst": "худший",
+  "would": "бы",
+  "written": "написал",
+  "wrong": "неправильно",
+  "wrote": "написал(а)",
+  "year": "год",
+  "years": "лет, годы",
+  "yellow": "жёлтый",
+  "yet": "ещё, пока",
+  "you": "вы, ты",
+  "you're": "ты (есть)",
+  "younger": "моложе",
+  "your": "ваш",
+  "zeros": "нули"
+ },
+ "vocab": {
+  "quality": 405,
+  "behavior": 585,
+  "nanny": 22,
+  "purpose": 513,
+  "harmed": 610,
+  "soft": 47,
+  "chin": 291,
+  "constantly": 578,
+  "distracted": 620,
+  "advice": 392,
+  "think": 65,
+  "thought": 65,
+  "thinking": 65,
+  "cloud": 122,
+  "worst": 377,
+  "sign": 441,
+  "shut": 34,
+  "roar": 16,
+  "wide": 304,
+  "compared": 259,
+  "wedding": 332,
+  "rushed": 379,
+  "mind": 302,
+  "stuff": 622,
+  "across": 414,
+  "skipped": 470,
+  "improve": 235,
+  "exhausted": 484,
+  "convey": 565
+ }
+}

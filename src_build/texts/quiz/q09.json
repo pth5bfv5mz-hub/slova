@@ -1,0 +1,110 @@
+[
+ {
+  "q": "How did Daniel and Sam get to the island?",
+  "q_ru": "Как Даниэль и Сэм попали на остров?",
+  "options": [
+   "They sailed there to look for a station",
+   "A storm turned their boat over and they swam",
+   "The coast guard left them there",
+   "They took a ferry from another island"
+  ],
+  "options_ru": [
+   "Они приплыли туда искать станцию",
+   "Шторм перевернул лодку, и они доплыли",
+   "Береговая охрана оставила их там",
+   "Они приплыли на пароме с другого острова"
+  ],
+  "answer": 1,
+  "explain_ru": "Волна перевернула лодку, они держались за доску всю ночь, а утром доплыли до острова."
+ },
+ {
+  "q": "Why did Daniel start to suspect Sam?",
+  "q_ru": "Почему Даниэль начал подозревать Сэма?",
+  "options": [
+   "Sam hid some cans under the tree",
+   "Sam was always hungry",
+   "Food was missing and only two of them were there",
+   "Sam talked in his sleep about food"
+  ],
+  "options_ru": [
+   "Сэм спрятал банки под деревом",
+   "Сэм всегда был голоден",
+   "Еда пропадала, а на острове были только они двое",
+   "Сэм говорил во сне о еде"
+  ],
+  "answer": 2,
+  "explain_ru": "«Somebody is eating our food at night. And there are only two of us here.»"
+ },
+ {
+  "q": "Sam said it \"with a deep sigh\". How did he feel?",
+  "q_ru": "Сэм сказал это «with a deep sigh». Что он чувствовал?",
+  "options": [
+   "Sad and tired",
+   "Very angry",
+   "Happy and excited",
+   "Hungry and cold"
+  ],
+  "options_ru": [
+   "Грусть и усталость",
+   "Сильную злость",
+   "Радость и волнение",
+   "Голод и холод"
+  ],
+  "answer": 0,
+  "explain_ru": "«Sigh» — вздох. Сэм вздохнул, потому что «my boat is gone» — его лодка пропала."
+ },
+ {
+  "q": "Who was really taking the food?",
+  "q_ru": "Кто на самом деле брал еду?",
+  "options": [
+   "Sam",
+   "A wild dog",
+   "A man from the station",
+   "A monkey called Coco"
+  ],
+  "options_ru": [
+   "Сэм",
+   "Дикая собака",
+   "Человек со станции",
+   "Обезьянка по имени Коко"
+  ],
+  "answer": 3,
+  "explain_ru": "Ночью Даниэль увидел маленькое существо с длинным хвостом: «A monkey!» Позже они узнали, что её зовут Коко."
+ },
+ {
+  "q": "How were Daniel and Sam rescued?",
+  "q_ru": "Как спасли Даниэля и Сэма?",
+  "options": [
+   "A fishing boat saw their fire",
+   "Sam built a new boat",
+   "Sam fixed an old radio and called the coast guard",
+   "The station worker came back for Coco"
+  ],
+  "options_ru": [
+   "Рыбаки увидели их костёр",
+   "Сэм построил новую лодку",
+   "Сэм починил старое радио и вызвал береговую охрану",
+   "Работник станции вернулся за Коко"
+  ],
+  "answer": 2,
+  "explain_ru": "Сэм весь день проверял батареи, и радио заработало: «this is the coast guard... We will come tomorrow.»"
+ },
+ {
+  "q": "What does Daniel do at the end of the story?",
+  "q_ru": "Что Даниэль делает в конце истории?",
+  "options": [
+   "He goes back to his old office job",
+   "He packs his bag to sail with Sam again",
+   "He gives Coco to a zoo",
+   "He buys a new TV and sofa"
+  ],
+  "options_ru": [
+   "Возвращается на старую работу в офисе",
+   "Собирает сумку, чтобы снова плыть с Сэмом",
+   "Отдаёт Коко в зоопарк",
+   "Покупает новый телевизор и диван"
+  ],
+  "answer": 1,
+  "explain_ru": "Он ушёл с работы, а на письмо Сэма «The sea is waiting. Are you coming?» — «He was already packing his bag»."
+ }
+]

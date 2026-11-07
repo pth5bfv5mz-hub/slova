@@ -1,0 +1,1539 @@
+{
+ "id": 25,
+ "level": "B1",
+ "title_en": "The Crack in the Glass",
+ "title_ru": "Трещина в стекле",
+ "genre": "Космическая драма",
+ "summary_ru": "На частной орбитальной станции самый весёлый член экипажа вдруг замолкает, прячет коробку с песком и просит разрешения выйти в открытый космос одному.",
+ "paragraphs": [
+  {
+   "en": "For the first four months on the Kestrel station, Tomas Brandt had been the easiest person in the crew to live with. He told bad jokes at dinner, he fixed everything that broke, and every Sunday he baked bread in the small oven that he had built himself. Nobody on Earth would believe how delicious warm bread can taste four hundred kilometres above the clouds.",
+   "ru": "Первые четыре месяца на станции «Кестрел» Томас Брандт был самым лёгким в общении человеком в экипаже. Он рассказывал плохие шутки за ужином, чинил всё, что ломалось, а каждое воскресенье пёк хлеб в маленькой печке, которую собрал сам. Никто на Земле не поверил бы, каким вкусным может быть тёплый хлеб в четырёхстах километрах над облаками.",
+   "s": [
+    [
+     "For the first four months on the Kestrel station, Tomas Brandt had been the easiest person in the crew to live with.",
+     "Первые четыре месяца на станции «Кестрел» Томас Брандт был самым лёгким в общении человеком в экипаже."
+    ],
+    [
+     "He told bad jokes at dinner, he fixed everything that broke, and every Sunday he baked bread in the small oven that he had built himself.",
+     "Он рассказывал плохие шутки за ужином, чинил всё, что ломалось, а каждое воскресенье пёк хлеб в маленькой печке, которую собрал сам."
+    ],
+    [
+     "Nobody on Earth would believe how delicious warm bread can taste four hundred kilometres above the clouds.",
+     "Никто на Земле не поверил бы, каким вкусным может быть тёплый хлеб в четырёхстах километрах над облаками."
+    ]
+   ]
+  },
+  {
+   "en": "Then, in the middle of the fifth month, something changed. Lena Novak, the station's biologist, noticed it first, because noticing small things was her job. Tomas stopped coming to dinner. He missed his morning exercise, which was against the rules, and he spent hours alone in the observation dome, sitting in the single chair that was fixed to the floor in front of the big glass window.",
+   "ru": "А потом, в середине пятого месяца, что-то изменилось. Первой это заметила Лена Новак, биолог станции, потому что замечать мелочи было её работой. Томас перестал приходить на ужин. Он пропускал утренние упражнения, что было против правил, и часами сидел один в смотровом куполе, на единственном стуле, прикреплённом к полу перед большим стеклянным окном.",
+   "s": [
+    [
+     "Then, in the middle of the fifth month, something changed.",
+     "А потом, в середине пятого месяца, что-то изменилось."
+    ],
+    [
+     "Lena Novak, the station's biologist, noticed it first, because noticing small things was her job.",
+     "Первой это заметила Лена Новак, биолог станции, потому что замечать мелочи было её работой."
+    ],
+    [
+     "Tomas stopped coming to dinner.",
+     "Томас перестал приходить на ужин."
+    ],
+    [
+     "He missed his morning exercise, which was against the rules, and he spent hours alone in the observation dome, sitting in the single chair that was fixed to the floor in front of the big glass window.",
+     "Он пропускал утренние упражнения, что было против правил, и часами сидел один в смотровом куполе, на единственном стуле, прикреплённом к полу перед большим стеклянным окном."
+    ]
+   ]
+  },
+  {
+   "en": "“He's tired,” said Commander Ruth Adebayo when Lena mentioned it. “We're all tired. Five months is a long time to look at the same four faces.” But Lena was not so sure. She had trained with Tomas for two years before the flight, and she had never seen him quiet for more than ten minutes. Now he was quiet all the time.",
+   "ru": "«Он устал», — сказала командир Рут Адебайо, когда Лена упомянула об этом. «Мы все устали. Пять месяцев — долгий срок, чтобы смотреть на одни и те же четыре лица». Но Лена не была так уверена. Она тренировалась вместе с Томасом два года перед полётом и ни разу не видела, чтобы он молчал больше десяти минут. Теперь он молчал всё время.",
+   "s": [
+    [
+     "“He's tired,” said Commander Ruth Adebayo when Lena mentioned it.",
+     "«Он устал», — сказала командир Рут Адебайо, когда Лена упомянула об этом."
+    ],
+    [
+     "“We're all tired. Five months is a long time to look at the same four faces.”",
+     "«Мы все устали. Пять месяцев — долгий срок, чтобы смотреть на одни и те же четыре лица»."
+    ],
+    [
+     "But Lena was not so sure.",
+     "Но Лена не была так уверена."
+    ],
+    [
+     "She had trained with Tomas for two years before the flight, and she had never seen him quiet for more than ten minutes.",
+     "Она тренировалась вместе с Томасом два года перед полётом и ни разу не видела, чтобы он молчал больше десяти минут."
+    ],
+    [
+     "Now he was quiet all the time.",
+     "Теперь он молчал всё время."
+    ]
+   ]
+  },
+  {
+   "en": "The first real clue appeared on a Tuesday. Lena was looking for a pair of scissors in the storage section when she found a small metal box behind the water tanks, held in place with tape. Inside there was a plastic bag full of sand, fine and pale, like the sand on the shore of a lake. There was no sand on the station. There could not be. Every gram that flew up from Earth was checked, weighed and written down.",
+   "ru": "Первая настоящая улика появилась во вторник. Лена искала ножницы в складском отсеке, когда нашла за баками с водой маленькую металлическую коробку, приклеенную скотчем. Внутри был пластиковый пакет, полный песка, мелкого и светлого, как песок на берегу озера. На станции не было песка. И не могло быть. Каждый грамм, который прилетал с Земли, проверяли, взвешивали и записывали.",
+   "s": [
+    [
+     "The first real clue appeared on a Tuesday.",
+     "Первая настоящая улика появилась во вторник."
+    ],
+    [
+     "Lena was looking for a pair of scissors in the storage section when she found a small metal box behind the water tanks, held in place with tape.",
+     "Лена искала ножницы в складском отсеке, когда нашла за баками с водой маленькую металлическую коробку, приклеенную скотчем."
+    ],
+    [
+     "Inside there was a plastic bag full of sand, fine and pale, like the sand on the shore of a lake.",
+     "Внутри был пластиковый пакет, полный песка, мелкого и светлого, как песок на берегу озера."
+    ],
+    [
+     "There was no sand on the station.",
+     "На станции не было песка."
+    ],
+    [
+     "There could not be.",
+     "И не могло быть."
+    ],
+    [
+     "Every gram that flew up from Earth was checked, weighed and written down.",
+     "Каждый грамм, который прилетал с Земли, проверяли, взвешивали и записывали."
+    ]
+   ]
+  },
+  {
+   "en": "She put the box back exactly where she had found it and said nothing. That evening she watched Tomas more carefully. He ate a little, avoided her eyes and left the table as soon as he was able to. Later, when she passed the dome, she saw him holding something against the glass. It was the box. He was talking to it in a low voice, too low for her to hear the words.",
+   "ru": "Она положила коробку ровно туда, где нашла её, и ничего не сказала. В тот вечер она внимательнее наблюдала за Томасом. Он немного поел, избегал её взгляда и вышел из-за стола, как только смог. Позже, проходя мимо купола, она увидела, что он держит что-то у стекла. Это была та самая коробка. Он что-то говорил ей тихим голосом, слишком тихим, чтобы она могла разобрать слова.",
+   "s": [
+    [
+     "She put the box back exactly where she had found it and said nothing.",
+     "Она положила коробку ровно туда, где нашла её, и ничего не сказала."
+    ],
+    [
+     "That evening she watched Tomas more carefully.",
+     "В тот вечер она внимательнее наблюдала за Томасом."
+    ],
+    [
+     "He ate a little, avoided her eyes and left the table as soon as he was able to.",
+     "Он немного поел, избегал её взгляда и вышел из-за стола, как только смог."
+    ],
+    [
+     "Later, when she passed the dome, she saw him holding something against the glass.",
+     "Позже, проходя мимо купола, она увидела, что он держит что-то у стекла."
+    ],
+    [
+     "It was the box.",
+     "Это была та самая коробка."
+    ],
+    [
+     "He was talking to it in a low voice, too low for her to hear the words.",
+     "Он что-то говорил ей тихим голосом, слишком тихим, чтобы она могла разобрать слова."
+    ]
+   ]
+  },
+  {
+   "en": "“It may be stress,” Dr Mei Sato said the next morning, when Lena asked her about it in the medical room. “People react to isolation in unusual ways. Some become angry, some become lonely and stop talking. I checked his heart and his blood last week. Physically, he's fine.” “And mentally?” Mei hesitated. “He refused the psychological test. He said he didn't have time.”",
+   "ru": "«Может быть, это стресс», — сказала доктор Мэй Сато на следующее утро, когда Лена спросила её об этом в медицинском отсеке. «Люди реагируют на изоляцию необычным образом. Одни становятся злыми, другие становятся одинокими и перестают разговаривать. На прошлой неделе я проверила его сердце и кровь. Физически он здоров». «А психически?» Мэй помедлила. «Он отказался от психологического теста. Сказал, что у него нет времени».",
+   "s": [
+    [
+     "“It may be stress,” Dr Mei Sato said the next morning, when Lena asked her about it in the medical room.",
+     "«Может быть, это стресс», — сказала доктор Мэй Сато на следующее утро, когда Лена спросила её об этом в медицинском отсеке."
+    ],
+    [
+     "“People react to isolation in unusual ways.",
+     "«Люди реагируют на изоляцию необычным образом."
+    ],
+    [
+     "Some become angry, some become lonely and stop talking.",
+     "Одни становятся злыми, другие становятся одинокими и перестают разговаривать."
+    ],
+    [
+     "I checked his heart and his blood last week.",
+     "На прошлой неделе я проверила его сердце и кровь."
+    ],
+    [
+     "Physically, he's fine.”",
+     "Физически он здоров»."
+    ],
+    [
+     "“And mentally?”",
+     "«А психически?»"
+    ],
+    [
+     "Mei hesitated.",
+     "Мэй помедлила."
+    ],
+    [
+     "“He refused the psychological test.",
+     "«Он отказался от психологического теста."
+    ],
+    [
+     "He said he didn't have time.”",
+     "Сказал, что у него нет времени»."
+    ]
+   ]
+  },
+  {
+   "en": "Two days later, Tomas asked for permission to go out. A spacewalk was never a small thing. It needed weeks of planning, two people and approval from the company's control centre on Earth. Tomas wanted to go alone, and he wanted to go the next day. “There's a problem with one of the outside panels,” he said. “I need to check it myself.” “Then show me the data,” Ruth answered. Tomas looked at the floor. “I can't. Not yet.”",
+   "ru": "Через два дня Томас попросил разрешения выйти в открытый космос. Выход в открытый космос никогда не был мелочью. Для него требовались недели подготовки, два человека и одобрение центра управления компании на Земле. Томас хотел выйти один, и хотел выйти на следующий же день. «С одной из наружных панелей проблема, — сказал он. Мне нужно проверить её самому». «Тогда покажи мне данные», — ответила Рут. Томас смотрел в пол. «Не могу. Пока нет».",
+   "s": [
+    [
+     "Two days later, Tomas asked for permission to go out.",
+     "Через два дня Томас попросил разрешения выйти в открытый космос."
+    ],
+    [
+     "A spacewalk was never a small thing.",
+     "Выход в открытый космос никогда не был мелочью."
+    ],
+    [
+     "It needed weeks of planning, two people and approval from the company's control centre on Earth.",
+     "Для него требовались недели подготовки, два человека и одобрение центра управления компании на Земле."
+    ],
+    [
+     "Tomas wanted to go alone, and he wanted to go the next day.",
+     "Томас хотел выйти один, и хотел выйти на следующий же день."
+    ],
+    [
+     "“There's a problem with one of the outside panels,” he said.",
+     "«С одной из наружных панелей проблема, — сказал он."
+    ],
+    [
+     "“I need to check it myself.”",
+     "Мне нужно проверить её самому»."
+    ],
+    [
+     "“Then show me the data,” Ruth answered.",
+     "«Тогда покажи мне данные», — ответила Рут."
+    ],
+    [
+     "Tomas looked at the floor.",
+     "Томас смотрел в пол."
+    ],
+    [
+     "“I can't. Not yet.”",
+     "«Не могу. Пока нет»."
+    ]
+   ]
+  },
+  {
+   "en": "They argued for almost an hour. Lena had never heard the commander raise her voice before, but now the whole station seemed to shake with it. In the end Ruth said no, and Tomas floated out of the room without another word. Lena noticed that his hands were shaking.",
+   "ru": "Они спорили почти час. Лена никогда раньше не слышала, чтобы командир повышала голос, но теперь от него, казалось, дрожала вся станция. В конце концов Рут сказала «нет», и Томас выплыл из отсека, не сказав больше ни слова. Лена заметила, что у него дрожат руки.",
+   "s": [
+    [
+     "They argued for almost an hour.",
+     "Они спорили почти час."
+    ],
+    [
+     "Lena had never heard the commander raise her voice before, but now the whole station seemed to shake with it.",
+     "Лена никогда раньше не слышала, чтобы командир повышала голос, но теперь от него, казалось, дрожала вся станция."
+    ],
+    [
+     "In the end Ruth said no, and Tomas floated out of the room without another word.",
+     "В конце концов Рут сказала «нет», и Томас выплыл из отсека, не сказав больше ни слова."
+    ],
+    [
+     "Lena noticed that his hands were shaking.",
+     "Лена заметила, что у него дрожат руки."
+    ]
+   ]
+  },
+  {
+   "en": "That night Lena could not sleep. She lay in her sleeping bag and thought about everything she knew about the Kestrel. The station belonged to Orbis, a private company that had invested billions in it. Its owner, a man whose wealth was famous all over the world, liked to say that space should have no borders, only opportunities. But Lena had also read the rumours: Orbis was deep in debt, and one more failure would destroy it. If someone wanted to damage the company, the station was the perfect place to do it.",
+   "ru": "В ту ночь Лена не могла уснуть. Она лежала в спальном мешке и думала обо всём, что знала о «Кестреле». Станция принадлежала «Орбису», частной компании, которая вложила в неё миллиарды. Её владелец, человек, чьё богатство было известно всему миру, любил говорить, что у космоса не должно быть границ, только возможности. Но Лена читала и слухи: «Орбис» глубоко в долгах, и ещё один провал его уничтожит. Если кто-то хотел навредить компании, станция была идеальным местом для этого.",
+   "s": [
+    [
+     "That night Lena could not sleep.",
+     "В ту ночь Лена не могла уснуть."
+    ],
+    [
+     "She lay in her sleeping bag and thought about everything she knew about the Kestrel.",
+     "Она лежала в спальном мешке и думала обо всём, что знала о «Кестреле»."
+    ],
+    [
+     "The station belonged to Orbis, a private company that had invested billions in it.",
+     "Станция принадлежала «Орбису», частной компании, которая вложила в неё миллиарды."
+    ],
+    [
+     "Its owner, a man whose wealth was famous all over the world, liked to say that space should have no borders, only opportunities.",
+     "Её владелец, человек, чьё богатство было известно всему миру, любил говорить, что у космоса не должно быть границ, только возможности."
+    ],
+    [
+     "But Lena had also read the rumours: Orbis was deep in debt, and one more failure would destroy it.",
+     "Но Лена читала и слухи: «Орбис» глубоко в долгах, и ещё один провал его уничтожит."
+    ],
+    [
+     "If someone wanted to damage the company, the station was the perfect place to do it.",
+     "Если кто-то хотел навредить компании, станция была идеальным местом для этого."
+    ]
+   ]
+  },
+  {
+   "en": "She hated herself for thinking it. Tomas was her friend. But a friend who hides sand behind the water tanks, lies about broken panels and wants to go outside alone is a friend you have to watch.",
+   "ru": "Она ненавидела себя за такие мысли. Томас был её другом. Но за другом, который прячет песок за баками с водой, лжёт о сломанных панелях и хочет выйти наружу один, приходится следить.",
+   "s": [
+    [
+     "She hated herself for thinking it.",
+     "Она ненавидела себя за такие мысли."
+    ],
+    [
+     "Tomas was her friend.",
+     "Томас был её другом."
+    ],
+    [
+     "But a friend who hides sand behind the water tanks, lies about broken panels and wants to go outside alone is a friend you have to watch.",
+     "Но за другом, который прячет песок за баками с водой, лжёт о сломанных панелях и хочет выйти наружу один, приходится следить."
+    ]
+   ]
+  },
+  {
+   "en": "The next clue was in the computer. Every crew member had access to the station's systems, but each login was recorded. Lena checked the records and felt cold. For eleven nights in a row, Tomas had opened the files about the structure of the observation dome: the frame, the bolts, the glass. He had also tried to open the company's private messages, which none of them was allowed to read. His password was not valid for those files, but he had tried again and again.",
+   "ru": "Следующая улика нашлась в компьютере. У каждого члена экипажа был доступ к системам станции, но каждый вход записывался. Лена проверила записи, и ей стало холодно. Одиннадцать ночей подряд Томас открывал файлы о конструкции смотрового купола: рама, болты, стекло. Он также пытался открыть закрытые сообщения компании, которые никому из них не разрешалось читать. Его пароль не действовал для этих файлов, но он пробовал снова и снова.",
+   "s": [
+    [
+     "The next clue was in the computer.",
+     "Следующая улика нашлась в компьютере."
+    ],
+    [
+     "Every crew member had access to the station's systems, but each login was recorded.",
+     "У каждого члена экипажа был доступ к системам станции, но каждый вход записывался."
+    ],
+    [
+     "Lena checked the records and felt cold.",
+     "Лена проверила записи, и ей стало холодно."
+    ],
+    [
+     "For eleven nights in a row, Tomas had opened the files about the structure of the observation dome: the frame, the bolts, the glass.",
+     "Одиннадцать ночей подряд Томас открывал файлы о конструкции смотрового купола: рама, болты, стекло."
+    ],
+    [
+     "He had also tried to open the company's private messages, which none of them was allowed to read.",
+     "Он также пытался открыть закрытые сообщения компании, которые никому из них не разрешалось читать."
+    ],
+    [
+     "His password was not valid for those files, but he had tried again and again.",
+     "Его пароль не действовал для этих файлов, но он пробовал снова и снова."
+    ]
+   ]
+  },
+  {
+   "en": "She went to Ruth with the records. The commander read them in silence, and her face grew hard. “I'll call the control centre,” she said. “If he's planning something, they need to know.” “Wait,” Lena said, and she was surprised by her own words. “Let me talk to him first. Just once.” Ruth looked at her for a long moment. “One talk. Tonight. And Mei goes with you.”",
+   "ru": "Она пошла к Рут с этими записями. Командир прочитала их молча, и её лицо стало суровым. «Я позвоню в центр управления, — сказала она. Если он что-то замышляет, они должны знать». «Подожди», — сказала Лена и сама удивилась своим словам. «Дай мне сначала поговорить с ним. Только один раз». Рут долго смотрела на неё. «Один разговор. Сегодня вечером. И Мэй пойдёт с тобой».",
+   "s": [
+    [
+     "She went to Ruth with the records.",
+     "Она пошла к Рут с этими записями."
+    ],
+    [
+     "The commander read them in silence, and her face grew hard.",
+     "Командир прочитала их молча, и её лицо стало суровым."
+    ],
+    [
+     "“I'll call the control centre,” she said.",
+     "«Я позвоню в центр управления, — сказала она."
+    ],
+    [
+     "“If he's planning something, they need to know.”",
+     "Если он что-то замышляет, они должны знать»."
+    ],
+    [
+     "“Wait,” Lena said, and she was surprised by her own words.",
+     "«Подожди», — сказала Лена и сама удивилась своим словам."
+    ],
+    [
+     "“Let me talk to him first. Just once.”",
+     "«Дай мне сначала поговорить с ним. Только один раз»."
+    ],
+    [
+     "Ruth looked at her for a long moment.",
+     "Рут долго смотрела на неё."
+    ],
+    [
+     "“One talk. Tonight. And Mei goes with you.”",
+     "«Один разговор. Сегодня вечером. И Мэй пойдёт с тобой»."
+    ]
+   ]
+  },
+  {
+   "en": "They found Tomas in the dome, of course, in the chair in front of the window. Below them the Earth was turning slowly: blue oceans, white clouds and the dark shapes of continents with no borders drawn on them. He did not turn around when they came in. “You found the box,” he said. It was not a question. “I found it,” Lena said. “And I found the files. Tomas, what are you doing?”",
+   "ru": "Они нашли Томаса, конечно, в куполе, на стуле перед окном. Под ними медленно вращалась Земля: синие океаны, белые облака и тёмные очертания континентов, на которых не было нарисовано никаких границ. Он не обернулся, когда они вошли. «Ты нашла коробку», — сказал он. Это был не вопрос. «Нашла, — сказала Лена. И нашла файлы. Томас, что ты делаешь?»",
+   "s": [
+    [
+     "They found Tomas in the dome, of course, in the chair in front of the window.",
+     "Они нашли Томаса, конечно, в куполе, на стуле перед окном."
+    ],
+    [
+     "Below them the Earth was turning slowly: blue oceans, white clouds and the dark shapes of continents with no borders drawn on them.",
+     "Под ними медленно вращалась Земля: синие океаны, белые облака и тёмные очертания континентов, на которых не было нарисовано никаких границ."
+    ],
+    [
+     "He did not turn around when they came in.",
+     "Он не обернулся, когда они вошли."
+    ],
+    [
+     "“You found the box,” he said.",
+     "«Ты нашла коробку», — сказал он."
+    ],
+    [
+     "It was not a question.",
+     "Это был не вопрос."
+    ],
+    [
+     "“I found it,” Lena said.",
+     "«Нашла, — сказала Лена."
+    ],
+    [
+     "“And I found the files. Tomas, what are you doing?”",
+     "И нашла файлы. Томас, что ты делаешь?»"
+    ]
+   ]
+  },
+  {
+   "en": "For a moment she thought he would refuse to answer. Then he pointed at the glass, at a place near the bottom edge of the window. “Look there. Closely.” Lena moved closer. At first she saw nothing. Then the light changed as the station passed into the sun, and she saw it: a thin silver line, no longer than her finger, inside the glass. A crack.",
+   "ru": "На мгновение ей показалось, что он откажется отвечать. Потом он указал на стекло, на место у нижнего края окна. «Посмотри туда. Внимательно». Лена подплыла ближе. Сначала она ничего не увидела. Потом свет изменился, когда станция вышла на солнце, и она увидела: тонкую серебристую линию длиной не больше её пальца внутри стекла. Трещину.",
+   "s": [
+    [
+     "For a moment she thought he would refuse to answer.",
+     "На мгновение ей показалось, что он откажется отвечать."
+    ],
+    [
+     "Then he pointed at the glass, at a place near the bottom edge of the window.",
+     "Потом он указал на стекло, на место у нижнего края окна."
+    ],
+    [
+     "“Look there. Closely.”",
+     "«Посмотри туда. Внимательно»."
+    ],
+    [
+     "Lena moved closer.",
+     "Лена подплыла ближе."
+    ],
+    [
+     "At first she saw nothing.",
+     "Сначала она ничего не увидела."
+    ],
+    [
+     "Then the light changed as the station passed into the sun, and she saw it: a thin silver line, no longer than her finger, inside the glass.",
+     "Потом свет изменился, когда станция вышла на солнце, и она увидела: тонкую серебристую линию длиной не больше её пальца внутри стекла."
+    ],
+    [
+     "A crack.",
+     "Трещину."
+    ]
+   ]
+  },
+  {
+   "en": "“It appeared six weeks ago,” Tomas said quietly. “A tiny piece of space rock, I think, smaller than a grain of sand. I've measured it every night. It has grown by four millimetres. If it reaches the frame, the whole window could break.” Mei had gone white. “Why didn't you tell us?”",
+   "ru": "«Она появилась шесть недель назад, — тихо сказал Томас. Крошечный кусочек космического камня, я думаю, меньше песчинки. Я измерял её каждую ночь. Она выросла на четыре миллиметра. Если она дойдёт до рамы, всё окно может разрушиться». Мэй побледнела. «Почему ты нам не сказал?»",
+   "s": [
+    [
+     "“It appeared six weeks ago,” Tomas said quietly.",
+     "«Она появилась шесть недель назад, — тихо сказал Томас."
+    ],
+    [
+     "“A tiny piece of space rock, I think, smaller than a grain of sand.",
+     "Крошечный кусочек космического камня, я думаю, меньше песчинки."
+    ],
+    [
+     "I've measured it every night.",
+     "Я измерял её каждую ночь."
+    ],
+    [
+     "It has grown by four millimetres.",
+     "Она выросла на четыре миллиметра."
+    ],
+    [
+     "If it reaches the frame, the whole window could break.”",
+     "Если она дойдёт до рамы, всё окно может разрушиться»."
+    ],
+    [
+     "Mei had gone white.",
+     "Мэй побледнела."
+    ],
+    [
+     "“Why didn't you tell us?”",
+     "«Почему ты нам не сказал?»"
+    ]
+   ]
+  },
+  {
+   "en": "Tomas laughed, but there was no happiness in it. “I did tell someone. I sent a report to the control centre on the first day. A man from company security called me back on the private line. He said that the problem was being studied and that I mustn't tell the crew. He said that panic would reduce the quality of our work. And he reminded me about the reward, the big bonus we all get if the mission is completed without problems.”",
+   "ru": "Томас рассмеялся, но в этом смехе не было радости. «Я рассказал кое-кому. Я отправил отчёт в центр управления в первый же день. Мне перезвонил человек из службы охраны компании по закрытой линии. Он сказал, что проблему изучают и что я не должен рассказывать экипажу. Он сказал, что паника снизит качество нашей работы. И напомнил мне о награде — большой премии, которую мы все получим, если миссия завершится без проблем».",
+   "s": [
+    [
+     "Tomas laughed, but there was no happiness in it.",
+     "Томас рассмеялся, но в этом смехе не было радости."
+    ],
+    [
+     "“I did tell someone.",
+     "«Я рассказал кое-кому."
+    ],
+    [
+     "I sent a report to the control centre on the first day.",
+     "Я отправил отчёт в центр управления в первый же день."
+    ],
+    [
+     "A man from company security called me back on the private line.",
+     "Мне перезвонил человек из службы охраны компании по закрытой линии."
+    ],
+    [
+     "He said that the problem was being studied and that I mustn't tell the crew.",
+     "Он сказал, что проблему изучают и что я не должен рассказывать экипажу."
+    ],
+    [
+     "He said that panic would reduce the quality of our work.",
+     "Он сказал, что паника снизит качество нашей работы."
+    ],
+    [
+     "And he reminded me about the reward, the big bonus we all get if the mission is completed without problems.”",
+     "И напомнил мне о награде — большой премии, которую мы все получим, если миссия завершится без проблем»."
+    ]
+   ]
+  },
+  {
+   "en": "“And you believed him?” Lena asked. “At first. Then I checked the numbers myself, again and again, and they were wrong. I think they know the window is in danger, but an early return would be the worst news possible for Orbis right now. The investors are watching. The company can't pay its debts if this mission fails. So they told me to wait, and I waited, because I was a coward. That's the guilt I've been living with.”",
+   "ru": "«И ты ему поверил?» — спросила Лена. «Сначала да. Потом я сам проверял цифры снова и снова, и они оказались неверными. Я думаю, они знают, что окно в опасности, но досрочное возвращение было бы для «Орбиса» сейчас худшей из возможных новостей. Инвесторы следят. Компания не сможет заплатить свои долги, если эта миссия провалится. Поэтому мне сказали ждать, и я ждал, потому что я трус. Вот с этой виной я и живу».",
+   "s": [
+    [
+     "“And you believed him?” Lena asked.",
+     "«И ты ему поверил?» — спросила Лена."
+    ],
+    [
+     "“At first.",
+     "«Сначала да."
+    ],
+    [
+     "Then I checked the numbers myself, again and again, and they were wrong.",
+     "Потом я сам проверял цифры снова и снова, и они оказались неверными."
+    ],
+    [
+     "I think they know the window is in danger, but an early return would be the worst news possible for Orbis right now.",
+     "Я думаю, они знают, что окно в опасности, но досрочное возвращение было бы для «Орбиса» сейчас худшей из возможных новостей."
+    ],
+    [
+     "The investors are watching.",
+     "Инвесторы следят."
+    ],
+    [
+     "The company can't pay its debts if this mission fails.",
+     "Компания не сможет заплатить свои долги, если эта миссия провалится."
+    ],
+    [
+     "So they told me to wait, and I waited, because I was a coward.",
+     "Поэтому мне сказали ждать, и я ждал, потому что я трус."
+    ],
+    [
+     "That's the guilt I've been living with.”",
+     "Вот с этой виной я и живу»."
+    ]
+   ]
+  },
+  {
+   "en": "“And the sand?” Mei asked softly. Tomas took the box out of his pocket and held it in both hands. “My daughter gave it to me before the flight. It's from the lake near our house, where we go every spring. She said that if I got lonely, I should hold it and remember that the lake was waiting for me.” He smiled weakly. “I hid it because it wasn't on the official list. Every night I sat here, watched the crack and talked to her. To the sand. It sounds crazy, I know.”",
+   "ru": "«А песок?» — мягко спросила Мэй. Томас достал коробку из кармана и держал её обеими руками. «Моя дочь подарила мне её перед полётом. Он с озера возле нашего дома, куда мы ездим каждую весну. Она сказала, что если мне станет одиноко, я должен держать его в руках и помнить, что озеро меня ждёт». Он слабо улыбнулся. «Я спрятал её, потому что её не было в официальном списке. Каждую ночь я сидел здесь, смотрел на трещину и разговаривал с ней. С песком. Звучит безумно, я знаю».",
+   "s": [
+    [
+     "“And the sand?” Mei asked softly.",
+     "«А песок?» — мягко спросила Мэй."
+    ],
+    [
+     "Tomas took the box out of his pocket and held it in both hands.",
+     "Томас достал коробку из кармана и держал её обеими руками."
+    ],
+    [
+     "“My daughter gave it to me before the flight.",
+     "«Моя дочь подарила мне её перед полётом."
+    ],
+    [
+     "It's from the lake near our house, where we go every spring.",
+     "Он с озера возле нашего дома, куда мы ездим каждую весну."
+    ],
+    [
+     "She said that if I got lonely, I should hold it and remember that the lake was waiting for me.”",
+     "Она сказала, что если мне станет одиноко, я должен держать его в руках и помнить, что озеро меня ждёт»."
+    ],
+    [
+     "He smiled weakly.",
+     "Он слабо улыбнулся."
+    ],
+    [
+     "“I hid it because it wasn't on the official list.",
+     "«Я спрятал её, потому что её не было в официальном списке."
+    ],
+    [
+     "Every night I sat here, watched the crack and talked to her.",
+     "Каждую ночь я сидел здесь, смотрел на трещину и разговаривал с ней."
+    ],
+    [
+     "To the sand.",
+     "С песком."
+    ],
+    [
+     "It sounds crazy, I know.”",
+     "Звучит безумно, я знаю»."
+    ]
+   ]
+  },
+  {
+   "en": "Lena felt her suspicion turn into something heavier. She thought about the hours she had spent watching him and the theories she had built in the dark. She had seen a criminal where there was only a frightened father, carrying a secret that was too big for one person. All her annoyance at his silence now seemed shameful. She had been a complete fool, she realised, and her only desire now was to help him.",
+   "ru": "Лена почувствовала, как её подозрение превращается во что-то более тяжёлое. Она думала о часах, которые провела, следя за ним, и о теориях, которые строила в темноте. Она видела преступника там, где был лишь испуганный отец, несущий тайну, слишком большую для одного человека. Всё её раздражение из-за его молчания теперь казалось постыдным. Она поняла, что была совершенной дурой, и теперь её единственным желанием было помочь ему.",
+   "s": [
+    [
+     "Lena felt her suspicion turn into something heavier.",
+     "Лена почувствовала, как её подозрение превращается во что-то более тяжёлое."
+    ],
+    [
+     "She thought about the hours she had spent watching him and the theories she had built in the dark.",
+     "Она думала о часах, которые провела, следя за ним, и о теориях, которые строила в темноте."
+    ],
+    [
+     "She had seen a criminal where there was only a frightened father, carrying a secret that was too big for one person.",
+     "Она видела преступника там, где был лишь испуганный отец, несущий тайну, слишком большую для одного человека."
+    ],
+    [
+     "All her annoyance at his silence now seemed shameful.",
+     "Всё её раздражение из-за его молчания теперь казалось постыдным."
+    ],
+    [
+     "She had been a complete fool, she realised, and her only desire now was to help him.",
+     "Она поняла, что была совершенной дурой, и теперь её единственным желанием было помочь ему."
+    ]
+   ]
+  },
+  {
+   "en": "“The spacewalk,” Lena said. “You wanted to go out and look at the crack from the other side.” “I wanted to put a protective cover on it. There's one in the storage section. It wouldn't repair the glass, but it could hold the crack and slow it down. That may be enough to give us time.” “Time for what?” “To go home,” Tomas said simply.",
+   "ru": "«Выход в космос, — сказала Лена. Ты хотел выйти и посмотреть на трещину с другой стороны». «Я хотел поставить на неё защитную накладку. Одна есть в складском отсеке. Она не починила бы стекло, но могла бы удержать трещину и замедлить её. Может быть, этого хватит, чтобы дать нам время». «Время на что?» «Чтобы вернуться домой», — просто сказал Томас.",
+   "s": [
+    [
+     "“The spacewalk,” Lena said.",
+     "«Выход в космос, — сказала Лена."
+    ],
+    [
+     "“You wanted to go out and look at the crack from the other side.”",
+     "Ты хотел выйти и посмотреть на трещину с другой стороны»."
+    ],
+    [
+     "“I wanted to put a protective cover on it.",
+     "«Я хотел поставить на неё защитную накладку."
+    ],
+    [
+     "There's one in the storage section.",
+     "Одна есть в складском отсеке."
+    ],
+    [
+     "It wouldn't repair the glass, but it could hold the crack and slow it down.",
+     "Она не починила бы стекло, но могла бы удержать трещину и замедлить её."
+    ],
+    [
+     "That may be enough to give us time.”",
+     "Может быть, этого хватит, чтобы дать нам время»."
+    ],
+    [
+     "“Time for what?”",
+     "«Время на что?»"
+    ],
+    [
+     "“To go home,” Tomas said simply.",
+     "«Чтобы вернуться домой», — просто сказал Томас."
+    ]
+   ]
+  },
+  {
+   "en": "Twenty minutes later all four of them were in the command module. Ruth listened to the whole story without interrupting, and when Tomas finished, she was silent for a long time. Then she reached for the communication panel. “This is Commander Adebayo,” she said, in a voice that was completely calm. “I'm calling on the open line, and this call is being recorded. We have a crack in the observation dome, and we have evidence that it was hidden from the crew. Tomorrow at eight hundred hours, Tomas Brandt and I are going out to install a cover. After that, we will prepare for an early return. I am not asking for permission.”",
+   "ru": "Через двадцать минут все четверо были в командном модуле. Рут выслушала всю историю, не перебивая, а когда Томас закончил, долго молчала. Потом она потянулась к панели связи. «Говорит командир Адебайо, — сказала она совершенно спокойным голосом. Я звоню по открытой линии, и этот звонок записывается. У нас трещина в смотровом куполе, и у нас есть доказательства, что её скрыли от экипажа. Завтра в восемь ноль-ноль мы с Томасом Брандтом выходим, чтобы установить накладку. После этого мы будем готовиться к досрочному возвращению. Я не прошу разрешения».",
+   "s": [
+    [
+     "Twenty minutes later all four of them were in the command module.",
+     "Через двадцать минут все четверо были в командном модуле."
+    ],
+    [
+     "Ruth listened to the whole story without interrupting, and when Tomas finished, she was silent for a long time.",
+     "Рут выслушала всю историю, не перебивая, а когда Томас закончил, долго молчала."
+    ],
+    [
+     "Then she reached for the communication panel.",
+     "Потом она потянулась к панели связи."
+    ],
+    [
+     "“This is Commander Adebayo,” she said, in a voice that was completely calm.",
+     "«Говорит командир Адебайо, — сказала она совершенно спокойным голосом."
+    ],
+    [
+     "“I'm calling on the open line, and this call is being recorded.",
+     "Я звоню по открытой линии, и этот звонок записывается."
+    ],
+    [
+     "We have a crack in the observation dome, and we have evidence that it was hidden from the crew.",
+     "У нас трещина в смотровом куполе, и у нас есть доказательства, что её скрыли от экипажа."
+    ],
+    [
+     "Tomorrow at eight hundred hours, Tomas Brandt and I are going out to install a cover.",
+     "Завтра в восемь ноль-ноль мы с Томасом Брандтом выходим, чтобы установить накладку."
+    ],
+    [
+     "After that, we will prepare for an early return.",
+     "После этого мы будем готовиться к досрочному возвращению."
+    ],
+    [
+     "I am not asking for permission.”",
+     "Я не прошу разрешения»."
+    ]
+   ]
+  },
+  {
+   "en": "There was a long silence from Earth. Then a different voice came on, older and tired. It was the director of flight operations, and he sounded genuinely shocked. He said that he had not known about the report. Someone had decided that the company's money was more important than the people on board, and that attitude would not be accepted any longer. He promised that there would be an investigation and that a return capsule would be ready within ten days.",
+   "ru": "Земля долго молчала. Потом зазвучал другой голос, постарше и усталый. Это был директор полётов, и он казался по-настоящему потрясённым. Он сказал, что ничего не знал об отчёте. Кто-то решил, что деньги компании важнее людей на борту, и такое отношение больше терпеть не будут. Он пообещал, что будет проведено расследование и что возвращаемая капсула будет готова в течение десяти дней.",
+   "s": [
+    [
+     "There was a long silence from Earth.",
+     "Земля долго молчала."
+    ],
+    [
+     "Then a different voice came on, older and tired.",
+     "Потом зазвучал другой голос, постарше и усталый."
+    ],
+    [
+     "It was the director of flight operations, and he sounded genuinely shocked.",
+     "Это был директор полётов, и он казался по-настоящему потрясённым."
+    ],
+    [
+     "He said that he had not known about the report.",
+     "Он сказал, что ничего не знал об отчёте."
+    ],
+    [
+     "Someone had decided that the company's money was more important than the people on board, and that attitude would not be accepted any longer.",
+     "Кто-то решил, что деньги компании важнее людей на борту, и такое отношение больше терпеть не будут."
+    ],
+    [
+     "He promised that there would be an investigation and that a return capsule would be ready within ten days.",
+     "Он пообещал, что будет проведено расследование и что возвращаемая капсула будет готова в течение десяти дней."
+    ]
+   ]
+  },
+  {
+   "en": "The spacewalk was the hardest six hours of Lena's life, even though she never left the station. She sat in the dome with Mei and watched the two white suits move slowly over the outside of the window, held by thin cables. Every exercise they had practised in the training pool on Earth was suddenly real. When the cover was finally fixed over the crack, Mei started to cry, and Lena realised that she was crying too.",
+   "ru": "Выход в космос стал самыми тяжёлыми шестью часами в жизни Лены, хотя она так и не покинула станцию. Она сидела в куполе с Мэй и смотрела, как два белых скафандра медленно движутся по наружной стороне окна, удерживаемые тонкими тросами. Каждое упражнение, которое они отрабатывали в тренировочном бассейне на Земле, вдруг стало настоящим. Когда накладку наконец закрепили над трещиной, Мэй заплакала, и Лена поняла, что тоже плачет.",
+   "s": [
+    [
+     "The spacewalk was the hardest six hours of Lena's life, even though she never left the station.",
+     "Выход в космос стал самыми тяжёлыми шестью часами в жизни Лены, хотя она так и не покинула станцию."
+    ],
+    [
+     "She sat in the dome with Mei and watched the two white suits move slowly over the outside of the window, held by thin cables.",
+     "Она сидела в куполе с Мэй и смотрела, как два белых скафандра медленно движутся по наружной стороне окна, удерживаемые тонкими тросами."
+    ],
+    [
+     "Every exercise they had practised in the training pool on Earth was suddenly real.",
+     "Каждое упражнение, которое они отрабатывали в тренировочном бассейне на Земле, вдруг стало настоящим."
+    ],
+    [
+     "When the cover was finally fixed over the crack, Mei started to cry, and Lena realised that she was crying too.",
+     "Когда накладку наконец закрепили над трещиной, Мэй заплакала, и Лена поняла, что тоже плачет."
+    ]
+   ]
+  },
+  {
+   "en": "The crack stopped growing. In the next nine days it did not move a single millimetre. Tomas came back to dinner. He did not tell jokes, not yet, but on the last Sunday he baked bread again, and they ate it in the dome, looking down at the Earth. “To the lake,” Ruth said, holding up a piece. “And to whoever is waiting by it.”",
+   "ru": "Трещина перестала расти. За следующие девять дней она не сдвинулась ни на миллиметр. Томас вернулся к ужинам. Он не шутил, пока нет, но в последнее воскресенье снова испёк хлеб, и они съели его в куполе, глядя вниз на Землю. «За озеро, — сказала Рут, поднимая кусочек. И за того, кто ждёт возле него».",
+   "s": [
+    [
+     "The crack stopped growing.",
+     "Трещина перестала расти."
+    ],
+    [
+     "In the next nine days it did not move a single millimetre.",
+     "За следующие девять дней она не сдвинулась ни на миллиметр."
+    ],
+    [
+     "Tomas came back to dinner.",
+     "Томас вернулся к ужинам."
+    ],
+    [
+     "He did not tell jokes, not yet, but on the last Sunday he baked bread again, and they ate it in the dome, looking down at the Earth.",
+     "Он не шутил, пока нет, но в последнее воскресенье снова испёк хлеб, и они съели его в куполе, глядя вниз на Землю."
+    ],
+    [
+     "“To the lake,” Ruth said, holding up a piece.",
+     "«За озеро, — сказала Рут, поднимая кусочек."
+    ],
+    [
+     "“And to whoever is waiting by it.”",
+     "И за того, кто ждёт возле него»."
+    ]
+   ]
+  },
+  {
+   "en": "When the capsule landed in the steppe, there was no crowd and no music. Orbis had cancelled the welcome ceremony. The newspapers were already writing about the hidden report, and the company's future did not look hopeful. But a small girl was waiting behind the security fence with her mother, wearing a yellow hat that was much too big for her. Tomas could hardly walk after six months without gravity, but somehow he found the strength to cross the distance to the fence.",
+   "ru": "Когда капсула приземлилась в степи, там не было ни толпы, ни музыки. «Орбис» отменил торжественную встречу. Газеты уже писали о скрытом отчёте, и будущее компании выглядело не слишком обнадёживающе. Но за ограждением охраны вместе с мамой ждала маленькая девочка в жёлтой шляпе, которая была ей слишком велика. Томас едва мог ходить после шести месяцев без гравитации, но каким-то образом нашёл в себе силы преодолеть расстояние до ограждения.",
+   "s": [
+    [
+     "When the capsule landed in the steppe, there was no crowd and no music.",
+     "Когда капсула приземлилась в степи, там не было ни толпы, ни музыки."
+    ],
+    [
+     "Orbis had cancelled the welcome ceremony.",
+     "«Орбис» отменил торжественную встречу."
+    ],
+    [
+     "The newspapers were already writing about the hidden report, and the company's future did not look hopeful.",
+     "Газеты уже писали о скрытом отчёте, и будущее компании выглядело не слишком обнадёживающе."
+    ],
+    [
+     "But a small girl was waiting behind the security fence with her mother, wearing a yellow hat that was much too big for her.",
+     "Но за ограждением охраны вместе с мамой ждала маленькая девочка в жёлтой шляпе, которая была ей слишком велика."
+    ],
+    [
+     "Tomas could hardly walk after six months without gravity, but somehow he found the strength to cross the distance to the fence.",
+     "Томас едва мог ходить после шести месяцев без гравитации, но каким-то образом нашёл в себе силы преодолеть расстояние до ограждения."
+    ]
+   ]
+  },
+  {
+   "en": "Lena watched them from her stretcher. She had learned something on that flight that no training could teach: in a closed world, the worst danger is not a crack, but silence. Later, people would ask her about the mission's scientific goals, the rare plants she had grown and the rise and fall of the company. She would answer politely. But the memory she kept was a different one: a man throwing his arms around his daughter, and a little pale sand falling between them onto the ground, back where it belonged. Whatever was ahead for all of them, she thought, that moment had been worth it.",
+   "ru": "Лена смотрела на них с носилок. Она узнала в том полёте то, чему не научит никакая тренировка: в замкнутом мире худшая опасность — не трещина, а молчание. Позже люди будут расспрашивать её о научных целях миссии, о редких растениях, которые она вырастила, о взлёте и падении компании. Она будет вежливо отвечать. Но в её памяти осталось другое: мужчина, бросившийся обнимать дочь, и немного светлого песка, падающего между ними на землю, туда, где ему было место. Что бы ни ждало их всех впереди, думала она, этот момент того стоил.",
+   "s": [
+    [
+     "Lena watched them from her stretcher.",
+     "Лена смотрела на них с носилок."
+    ],
+    [
+     "She had learned something on that flight that no training could teach: in a closed world, the worst danger is not a crack, but silence.",
+     "Она узнала в том полёте то, чему не научит никакая тренировка: в замкнутом мире худшая опасность — не трещина, а молчание."
+    ],
+    [
+     "Later, people would ask her about the mission's scientific goals, the rare plants she had grown and the rise and fall of the company.",
+     "Позже люди будут расспрашивать её о научных целях миссии, о редких растениях, которые она вырастила, о взлёте и падении компании."
+    ],
+    [
+     "She would answer politely.",
+     "Она будет вежливо отвечать."
+    ],
+    [
+     "But the memory she kept was a different one: a man throwing his arms around his daughter, and a little pale sand falling between them onto the ground, back where it belonged.",
+     "Но в её памяти осталось другое: мужчина, бросившийся обнимать дочь, и немного светлого песка, падающего между ними на землю, туда, где ему было место."
+    ],
+    [
+     "Whatever was ahead for all of them, she thought, that moment had been worth it.",
+     "Что бы ни ждало их всех впереди, думала она, этот момент того стоил."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "able": "(be able to) смочь",
+  "about": "о, об",
+  "above": "над",
+  "accepted": "принято, терпеть",
+  "access": "доступ",
+  "adebayo": "Адебайо (фамилия)",
+  "after": "после",
+  "again": "снова",
+  "against": "против; у (стекла)",
+  "ago": "назад",
+  "ahead": "впереди",
+  "all": "все, весь",
+  "allowed": "разрешено",
+  "almost": "почти",
+  "alone": "один, одна",
+  "already": "уже",
+  "also": "также",
+  "am": "(есть) — я",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "angry": "злой, сердитый",
+  "annoyance": "раздражение",
+  "another": "ещё один",
+  "answer": "отвечать",
+  "answered": "ответил(а)",
+  "any": "какой-либо; больше",
+  "appeared": "появился",
+  "approval": "одобрение",
+  "are": "(есть) — вы/они",
+  "argued": "спорил",
+  "arms": "руки",
+  "around": "вокруг, по",
+  "as": "как, так как",
+  "ask": "спросить",
+  "asked": "спросил(а)",
+  "asking": "спрашивая",
+  "at": "в, у, на",
+  "ate": "съел",
+  "attitude": "отношение",
+  "avoided": "избегал",
+  "back": "обратно, назад",
+  "bad": "плохой",
+  "bag": "пакет; мешок",
+  "baked": "пёк, испёк",
+  "be": "быть (may be — может быть)",
+  "because": "потому что",
+  "become": "становятся",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "behind": "за, позади",
+  "being": "(быть) — passive",
+  "believe": "верить",
+  "believed": "верил",
+  "belonged": "принадлежал",
+  "below": "внизу",
+  "between": "между",
+  "big": "большой",
+  "billions": "миллиарды",
+  "biologist": "биолог",
+  "blood": "кровь",
+  "blue": "синий",
+  "board": "доска",
+  "bolts": "болты",
+  "bonus": "премия",
+  "borders": "границы",
+  "both": "оба",
+  "bottom": "нижний",
+  "box": "коробка",
+  "brandt": "Брандт (фамилия)",
+  "bread": "хлеб",
+  "break": "разрушиться, разбиться",
+  "broke": "сломался",
+  "broken": "разбитый",
+  "built": "построил(и)",
+  "but": "но",
+  "by": "у, к, от",
+  "cables": "тросы",
+  "call": "звонок; позвонить",
+  "called": "позвонил",
+  "calling": "звоню",
+  "calm": "спокойный",
+  "came": "пришёл, пришли",
+  "can": "могу, можем",
+  "can't": "не может, нельзя",
+  "cancelled": "отменён",
+  "capsule": "капсула",
+  "carefully": "внимательно",
+  "carrying": "неся",
+  "centre": "центр",
+  "ceremony": "церемония",
+  "chair": "стул, кресло",
+  "changed": "изменились",
+  "check": "проверить",
+  "checked": "проверял(а)",
+  "closed": "закрыл(а)",
+  "closely": "внимательно",
+  "closer": "ближе",
+  "clouds": "облака",
+  "clue": "улика, подсказка",
+  "cold": "холодно",
+  "coming": "приходить",
+  "command": "командный",
+  "commander": "командир",
+  "communication": "связь",
+  "company": "компания",
+  "company's": "компании",
+  "complete": "полный",
+  "completed": "завершена",
+  "completely": "полностью",
+  "computer": "компьютер",
+  "continents": "континенты",
+  "control": "управление",
+  "could": "мог(ла)",
+  "course": "курс (of course — конечно)",
+  "cover": "накладка, крышка",
+  "coward": "трус",
+  "crack": "трещина",
+  "crazy": "безумный",
+  "crew": "экипаж",
+  "criminal": "преступник",
+  "cross": "преодолеть",
+  "crowd": "толпа",
+  "cry": "плакать",
+  "crying": "плачет",
+  "damage": "навредить",
+  "danger": "опасность",
+  "dark": "темнота; тёмный",
+  "data": "данные",
+  "daughter": "дочь",
+  "day": "день",
+  "days": "дни",
+  "debt": "долг",
+  "debts": "долги",
+  "decided": "решили",
+  "deep": "глубокий",
+  "delicious": "вкусный",
+  "desire": "желание",
+  "destroy": "разрушить",
+  "did": "(вспом. гл.)",
+  "didn't": "не (прош. вр.)",
+  "different": "другой, не такой",
+  "dinner": "ужин",
+  "director": "директор",
+  "distance": "расстояние",
+  "do": "(вспом. гл.)",
+  "doing": "делаешь",
+  "dome": "купол",
+  "down": "вниз",
+  "dr": "доктор",
+  "drawn": "нарисованы",
+  "each": "каждый",
+  "early": "рано",
+  "earth": "земля",
+  "easiest": "самый лёгкий",
+  "edge": "край",
+  "eight": "восемь",
+  "eleven": "одиннадцать",
+  "end": "конец",
+  "enough": "достаточно",
+  "even": "даже",
+  "evening": "вечер",
+  "every": "каждый",
+  "everything": "всё",
+  "evidence": "доказательства",
+  "exactly": "точно",
+  "exercise": "упражнение",
+  "eyes": "глаза",
+  "face": "лицо",
+  "faces": "лица",
+  "fails": "провалится",
+  "failure": "провал",
+  "fall": "падение",
+  "falling": "падающий",
+  "famous": "знаменитый",
+  "father": "отец",
+  "felt": "почувствовала",
+  "fence": "забор",
+  "fifth": "пятый",
+  "files": "файлы",
+  "finally": "наконец",
+  "fine": "мелкий; в порядке",
+  "finger": "палец",
+  "finished": "закончила",
+  "first": "первый; сначала",
+  "five": "пять",
+  "fixed": "чинил; прикреплённый",
+  "flew": "прилетал",
+  "flight": "полёт, рейс",
+  "floated": "выплыл",
+  "floor": "пол",
+  "fool": "дура, дурак",
+  "for": "для, в течение",
+  "found": "нашла",
+  "four": "четыре",
+  "frame": "рама",
+  "friend": "друг",
+  "frightened": "испуганный",
+  "from": "из, от",
+  "front": "перед (in front of)",
+  "full": "полный",
+  "future": "будущее",
+  "gave": "подарила",
+  "genuinely": "по-настоящему",
+  "get": "получать",
+  "girl": "девочка",
+  "give": "дать",
+  "glass": "стекло, стеклянный",
+  "go": "идти, выходить (go out — выходить)",
+  "goals": "цели",
+  "goes": "идёт",
+  "going": "собираемся",
+  "gone": "(gone white) побледнела",
+  "got": "(got lonely) стало одиноко",
+  "grain": "зёрнышко, крупинка",
+  "gram": "грамм",
+  "gravity": "гравитация",
+  "grew": "стало",
+  "ground": "земля",
+  "growing": "расти",
+  "grown": "выросла",
+  "guilt": "вина",
+  "had": "(вспом. гл.)",
+  "hands": "руки",
+  "happiness": "счастье, радость",
+  "hard": "суровый",
+  "hardest": "самый тяжёлый",
+  "hardly": "едва",
+  "has": "(вспом. гл.)",
+  "hat": "шляпа",
+  "hated": "ненавидела",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "he's": "он (есть)",
+  "hear": "слышать",
+  "heard": "слышала",
+  "heart": "сердце",
+  "heavier": "тяжелее",
+  "held": "держал; закреплённый",
+  "help": "помочь",
+  "her": "её, ей",
+  "here": "здесь",
+  "herself": "сама",
+  "hesitated": "помедлила",
+  "hid": "спрятал",
+  "hidden": "скрытый",
+  "hides": "прячет",
+  "him": "его, ему",
+  "himself": "сам, себе",
+  "his": "его",
+  "hold": "держать",
+  "holding": "держит; поднимая",
+  "home": "домой",
+  "hopeful": "надеющийся",
+  "hour": "час",
+  "hours": "часов",
+  "house": "дом",
+  "how": "как",
+  "hundred": "сто",
+  "i": "я",
+  "i'll": "я (буду)",
+  "i'm": "я (есть)",
+  "i've": "я (уже)",
+  "if": "если, ли",
+  "important": "важный",
+  "in": "в",
+  "inside": "внутри",
+  "install": "установить",
+  "interrupting": "перебивая",
+  "into": "в",
+  "invested": "вложила",
+  "investigation": "расследование",
+  "investors": "инвесторы",
+  "is": "есть, является",
+  "isolation": "изоляция",
+  "it": "он, оно, это",
+  "it's": "это",
+  "its": "его, её",
+  "job": "работа",
+  "jokes": "шутки",
+  "just": "просто",
+  "kept": "сохранила",
+  "kestrel": "Кестрел (название станции)",
+  "kilometres": "километров",
+  "knew": "знал(и)",
+  "know": "знаю",
+  "known": "знал",
+  "lake": "озеро",
+  "landed": "приземлился",
+  "last": "последний; прошлый",
+  "later": "позже",
+  "laughed": "засмеялся",
+  "lay": "лежал",
+  "learned": "узнала, научилась",
+  "left": "вышел; покинула",
+  "lena": "Лена (имя)",
+  "lena's": "Ленин",
+  "let": "позволять",
+  "lies": "лжёт",
+  "life": "жизнь",
+  "light": "свет",
+  "like": "как",
+  "liked": "любил",
+  "line": "линия",
+  "list": "список",
+  "listened": "слушала",
+  "little": "маленький, немного",
+  "live": "жить",
+  "living": "жить",
+  "login": "вход в систему",
+  "lonely": "одинокий",
+  "long": "долго, долгий",
+  "longer": "дольше",
+  "look": "смотреть",
+  "looked": "посмотрела; выглядело",
+  "looking": "искала; глядя",
+  "low": "тихий, низкий",
+  "man": "мужчина",
+  "may": "(may be) может быть",
+  "me": "меня, мне",
+  "measured": "измерял",
+  "medical": "медицинский",
+  "mei": "Мэй (имя)",
+  "member": "член",
+  "memory": "память",
+  "mentally": "психически",
+  "mentioned": "упомянула",
+  "messages": "сообщения",
+  "metal": "металлический",
+  "middle": "середина",
+  "millimetre": "миллиметр",
+  "millimetres": "миллиметры",
+  "minutes": "минуты",
+  "missed": "пропускал",
+  "mission": "миссия",
+  "mission's": "миссии",
+  "module": "модуль",
+  "moment": "мгновение",
+  "money": "деньги",
+  "month": "месяц",
+  "months": "месяцы",
+  "more": "больше",
+  "morning": "утро",
+  "mother": "мать",
+  "move": "двигаться; сдвинуться",
+  "moved": "подплыла",
+  "much": "гораздо",
+  "music": "музыка",
+  "mustn't": "не должен",
+  "my": "мой",
+  "myself": "сам",
+  "near": "возле, у",
+  "need": "нужно",
+  "needed": "требовалось",
+  "never": "никогда",
+  "news": "новости",
+  "newspapers": "газеты",
+  "next": "следующий; рядом",
+  "night": "ночь",
+  "nights": "ночи",
+  "nine": "девять",
+  "no": "нет",
+  "nobody": "никто",
+  "none": "никто",
+  "not": "не",
+  "nothing": "ничего",
+  "noticed": "заметила",
+  "noticing": "замечать",
+  "novak": "Новак (фамилия)",
+  "now": "теперь",
+  "numbers": "цифры",
+  "observation": "смотровой",
+  "oceans": "океаны",
+  "of": "из, о, (род. падеж)",
+  "official": "официальный",
+  "older": "старше",
+  "on": "на",
+  "once": "один раз",
+  "one": "один; одна",
+  "only": "только",
+  "onto": "на",
+  "open": "открытый; открыть",
+  "opened": "открыл",
+  "operations": "операции",
+  "opportunities": "возможности",
+  "orbis": "Орбис (компания)",
+  "other": "другой",
+  "our": "наш",
+  "out": "из; наружу (go out — выходить)",
+  "outside": "снаружи",
+  "oven": "печка, духовка",
+  "over": "над; по",
+  "own": "собственный",
+  "owner": "владелец",
+  "pair": "пара",
+  "pale": "бледный",
+  "panel": "панель",
+  "panels": "панели",
+  "panic": "паника",
+  "passed": "прошла мимо; вышла",
+  "password": "пароль",
+  "pay": "платить",
+  "people": "люди",
+  "perfect": "идеальный",
+  "permission": "разрешение",
+  "person": "человек",
+  "physically": "физически",
+  "piece": "кусок",
+  "place": "место",
+  "planning": "подготовка; замышляет",
+  "plants": "растения",
+  "plastic": "пластиковый",
+  "pocket": "карман",
+  "pointed": "указал",
+  "politely": "вежливо",
+  "pool": "бассейн",
+  "possible": "возможный",
+  "practised": "отрабатывали",
+  "prepare": "подготовиться",
+  "private": "частный; закрытый",
+  "problem": "проблема",
+  "problems": "проблемы",
+  "promised": "пообещала",
+  "protective": "защитный",
+  "psychological": "психологический",
+  "put": "положила; поставить",
+  "quality": "качество",
+  "question": "вопрос",
+  "quiet": "тихий, молчаливый",
+  "quietly": "тихо",
+  "raise": "повышать",
+  "rare": "редкий",
+  "reached": "потянулась",
+  "reaches": "дойдёт",
+  "react": "реагировать",
+  "read": "читала; прочитала",
+  "ready": "готовый",
+  "real": "настоящий",
+  "realised": "понял",
+  "recorded": "записывался",
+  "records": "записи",
+  "reduce": "уменьшать",
+  "refuse": "отказаться",
+  "refused": "отказался",
+  "remember": "помню",
+  "reminded": "напомнил",
+  "repair": "исправить",
+  "report": "отчёт",
+  "return": "возвращение",
+  "reward": "награда",
+  "right": "(right now) прямо сейчас",
+  "rise": "взлёт, подъём",
+  "rock": "камень",
+  "room": "комната",
+  "row": "ряд",
+  "rules": "правила",
+  "rumours": "слухи",
+  "ruth": "Рут (имя)",
+  "said": "сказал(а)",
+  "same": "тот же",
+  "sand": "песок",
+  "sat": "сидел(а)",
+  "sato": "Сато (фамилия)",
+  "saw": "увидела",
+  "say": "говорить",
+  "scientific": "научный",
+  "scissors": "ножницы",
+  "secret": "тайный",
+  "section": "отсек",
+  "security": "охрана",
+  "seemed": "казалось",
+  "seen": "видела",
+  "sent": "отправил",
+  "shake": "дрожать",
+  "shaking": "дрожали",
+  "shameful": "постыдный",
+  "shapes": "формы",
+  "she": "она",
+  "shocked": "потрясённый",
+  "shore": "берег",
+  "should": "должен",
+  "show": "показать",
+  "side": "сторона",
+  "silence": "тишина",
+  "silent": "тихий, молчаливый",
+  "silver": "серебряный",
+  "simply": "просто",
+  "single": "единственный",
+  "sitting": "сидя",
+  "six": "шесть",
+  "sleep": "спать",
+  "sleeping": "спальный",
+  "slow": "замедлить",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smaller": "меньше",
+  "smiled": "улыбнулся",
+  "so": "поэтому; так",
+  "softly": "мягко",
+  "some": "некоторые",
+  "somehow": "каким-то образом",
+  "someone": "кто-то",
+  "something": "что-то",
+  "soon": "(as soon as) как только",
+  "sounded": "казался (по голосу)",
+  "sounds": "звучит",
+  "space": "космос",
+  "spacewalk": "выход в открытый космос",
+  "spent": "провёл; провела",
+  "spring": "весна",
+  "started": "начала",
+  "station": "станция",
+  "station's": "станции",
+  "steppe": "степь",
+  "stop": "перестают",
+  "stopped": "перестал",
+  "storage": "складской",
+  "story": "история",
+  "strength": "силы",
+  "stress": "стресс",
+  "stretcher": "носилки",
+  "structure": "структура",
+  "studied": "изучают",
+  "suddenly": "вдруг",
+  "suits": "скафандры",
+  "sun": "солнце",
+  "sunday": "воскресенье",
+  "sure": "уверенный",
+  "surprised": "удивлена",
+  "suspicion": "подозрение",
+  "systems": "системы",
+  "table": "стол",
+  "talk": "разговор; поговорить",
+  "talked": "разговаривал",
+  "talking": "разговаривать",
+  "tanks": "баки",
+  "tape": "скотч",
+  "taste": "быть на вкус",
+  "teach": "научить",
+  "tell": "рассказывать",
+  "ten": "десять",
+  "test": "тест",
+  "than": "чем",
+  "that": "что; тот, это",
+  "that's": "это (есть)",
+  "the": "(опр. артикль)",
+  "them": "им, их",
+  "then": "потом, тогда",
+  "theories": "теории",
+  "there": "там",
+  "there's": "есть, имеется",
+  "they": "они",
+  "thin": "тонкий",
+  "thing": "вещь",
+  "things": "вещи",
+  "think": "думать",
+  "thinking": "думать (за мысли)",
+  "this": "этот",
+  "those": "те, эти",
+  "though": "(even though) хотя",
+  "thought": "думала",
+  "throwing": "бросив (throwing his arms around — обнимая)",
+  "time": "время, раз",
+  "tiny": "крошечный",
+  "tired": "усталый",
+  "to": "к, в; (частица)",
+  "told": "рассказывал; сказали",
+  "tomas": "Томас (имя)",
+  "tomorrow": "завтра",
+  "tonight": "сегодня ночью",
+  "too": "слишком",
+  "took": "достал",
+  "trained": "тренировалась",
+  "training": "тренировка; тренировочный",
+  "tried": "пытался",
+  "tuesday": "вторник",
+  "turn": "(turn around) обернуться; превращаться",
+  "turning": "вращалась",
+  "twenty": "двадцать",
+  "two": "два",
+  "unusual": "необычный",
+  "up": "вверх",
+  "us": "нам",
+  "valid": "действительный",
+  "voice": "голос",
+  "wait": "ждать",
+  "waited": "ждал",
+  "waiting": "ждёт",
+  "walk": "идти",
+  "wanted": "хотел",
+  "wants": "хочет",
+  "warm": "тёплый",
+  "was": "был(а)",
+  "wasn't": "не был",
+  "watch": "следить",
+  "watched": "смотрела",
+  "watching": "следя; следят",
+  "water": "вода",
+  "ways": "способы",
+  "we": "мы",
+  "we're": "мы (есть)",
+  "weakly": "слабо",
+  "wealth": "богатство",
+  "wearing": "в (одежде)",
+  "week": "неделя",
+  "weeks": "недели",
+  "weighed": "взвешивали",
+  "welcome": "приветственный",
+  "went": "пошла",
+  "were": "были",
+  "what": "что",
+  "whatever": "что бы ни",
+  "when": "когда",
+  "where": "где",
+  "which": "который, что",
+  "white": "белый",
+  "who": "кто, который",
+  "whoever": "тот, кто",
+  "whole": "весь",
+  "whose": "чей",
+  "why": "почему",
+  "will": "будет",
+  "window": "окно",
+  "with": "с",
+  "within": "в течение",
+  "without": "без",
+  "word": "слово",
+  "words": "слова",
+  "work": "работа",
+  "world": "мир",
+  "worst": "худший",
+  "worth": "(worth it) того стоил",
+  "would": "бы",
+  "wouldn't": "не (бы)",
+  "writing": "писали",
+  "written": "(written down) записан",
+  "wrong": "неверный",
+  "years": "годы",
+  "yellow": "жёлтый",
+  "yet": "пока",
+  "you": "вы, ты"
+ },
+ "vocab": {
+  "exercise": 5,
+  "learned": 15,
+  "checked": 25,
+  "check": 25,
+  "floor": 35,
+  "trained": 45,
+  "bread": 55,
+  "think": 65,
+  "thought": 65,
+  "thinking": 65,
+  "quiet": 75,
+  "go": 85,
+  "out": 85,
+  "return": 95,
+  "box": 105,
+  "glass": 115,
+  "lake": 125,
+  "talk": 135,
+  "throwing": 145,
+  "hat": 155,
+  "reminded": 165,
+  "held": 175,
+  "hold": 175,
+  "holding": 175,
+  "may": 185,
+  "be": 185,
+  "appeared": 195,
+  "chair": 205,
+  "spring": 216,
+  "structure": 226,
+  "goals": 236,
+  "grown": 246,
+  "growing": 246,
+  "permission": 256,
+  "unusual": 266,
+  "sand": 276,
+  "call": 286,
+  "calling": 286,
+  "argued": 297,
+  "security": 307,
+  "ahead": 317,
+  "able": 327,
+  "lonely": 337,
+  "opportunities": 347,
+  "complete": 357,
+  "crowd": 367,
+  "worst": 377,
+  "avoided": 387,
+  "quality": 405,
+  "invested": 415,
+  "flight": 425,
+  "rise": 436,
+  "distance": 449,
+  "guilt": 464,
+  "annoyance": 476,
+  "hopeful": 487,
+  "strength": 497,
+  "reduce": 508,
+  "failure": 518,
+  "middle": 529,
+  "wealth": 539,
+  "borders": 550,
+  "valid": 560,
+  "access": 571,
+  "attitude": 581,
+  "delicious": 592,
+  "desire": 602,
+  "reward": 613,
+  "memory": 624,
+  "rare": 635,
+  "debt": 646,
+  "debts": 646
+ }
+}

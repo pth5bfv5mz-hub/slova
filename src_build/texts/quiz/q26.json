@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What did critics think of Lukas's own paintings?",
+  "q_ru": "Что критики думали о собственных картинах Лукаса?",
+  "options": [
+   "They were too bright and too modern.",
+   "They were good technically but had no confidence.",
+   "They were copies of his father's work.",
+   "They were the best paintings on the coast."
+  ],
+  "options_ru": [
+   "Они слишком яркие и слишком современные.",
+   "Технически хорошие, но в них нет уверенности.",
+   "Это копии работ его отца.",
+   "Это лучшие картины на побережье."
+  ],
+  "answer": 1,
+  "explain_ru": "Критик написал: «Technically fine, but there is no confidence in it… a man who is scared of his own hand»."
+ },
+ {
+  "q": "What was Max Hollis's role in the forgeries?",
+  "q_ru": "Какую роль играл Макс Холлис в подделках?",
+  "options": [
+   "He painted the backgrounds of the pictures.",
+   "He tested the paint in a laboratory.",
+   "He brought old canvases and sold the paintings.",
+   "He found the paintings in old family attics."
+  ],
+  "options_ru": [
+   "Писал фон на картинах.",
+   "Проверял краску в лаборатории.",
+   "Приносил старые холсты и продавал картины.",
+   "Находил картины на чердаках старых семей."
+  ],
+  "answer": 2,
+  "explain_ru": "Макс приносил «old canvases… from house sales», забирал готовые работы и «was the one who sold them». История о чердаке была ложью."
+ },
+ {
+  "q": "How did Dr Ost know the new painting was a fake?",
+  "q_ru": "Как доктор Ост поняла, что новая картина — подделка?",
+  "options": [
+   "The canvas was too new for the 1880s.",
+   "Max told her the truth by mistake.",
+   "The woman in the picture wore modern clothes.",
+   "It had no mistakes, and the paint was only months old."
+  ],
+  "options_ru": [
+   "Холст был слишком новым для 1880-х.",
+   "Макс случайно сказал ей правду.",
+   "Женщина на картине была в современной одежде.",
+   "В ней не было ошибок, а краске всего несколько месяцев."
+  ],
+  "answer": 3,
+  "explain_ru": "Настоящий Мейринк ошибался с тенями, а здесь ошибок нет. И тест показал: «The paint is about four months old»."
+ },
+ {
+  "q": "Who painted the five fake Meyrincks in the National Museum?",
+  "q_ru": "Кто написал пять поддельных картин Мейринка в Национальном музее?",
+  "options": [
+   "Lukas's father, Emil Brenner.",
+   "Max Hollis, many years ago.",
+   "Dr Clara Ost's teacher.",
+   "Lukas himself, as a young man."
+  ],
+  "options_ru": [
+   "Отец Лукаса, Эмиль Бреннер.",
+   "Макс Холлис много лет назад.",
+   "Учитель доктора Клары Ост.",
+   "Сам Лукас в молодости."
+  ],
+  "answer": 0,
+  "explain_ru": "Подделки помечены змеёй, кусающей свой хвост, — тот же знак был «on the back of every birthday card his father had ever drawn for him»."
+ },
+ {
+  "q": "Lukas's father said Meyrinck was 'overrated'. What does 'overrated' mean?",
+  "q_ru": "Отец Лукаса говорил, что Мейринк «overrated». Что значит «overrated»?",
+  "options": [
+   "Very old and forgotten.",
+   "Too expensive to buy.",
+   "Thought to be better than he really is.",
+   "Painted too many pictures."
+  ],
+  "options_ru": [
+   "Очень старый и забытый.",
+   "Слишком дорогой, чтобы купить.",
+   "Считается лучше, чем есть на самом деле.",
+   "Написал слишком много картин."
+  ],
+  "answer": 2,
+  "explain_ru": "Отец сам подделал лучшие «шедевры» Мейринка, поэтому с улыбкой говорил, что его переоценивают: «overrated»."
+ },
+ {
+  "q": "What does Lukas do at the end of the story?",
+  "q_ru": "Что делает Лукас в конце рассказа?",
+  "options": [
+   "He paints one last Meyrinck for the museum.",
+   "He runs away on the last train south.",
+   "He sells his newest painting to Clara.",
+   "He starts a painting of his own in a new colour."
+  ],
+  "options_ru": [
+   "Пишет последнего «Мейринка» для музея.",
+   "Убегает на последнем поезде на юг.",
+   "Продаёт Кларе свою новую картину.",
+   "Начинает свою собственную картину новым цветом."
+  ],
+  "answer": 3,
+  "explain_ru": "Он отдал подделку полиции, смешал цвет, «that Meyrinck had never used», и сделал первый мазок: «It was not perfect. It was his»."
+ }
+]

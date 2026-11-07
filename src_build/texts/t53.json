@@ -1,0 +1,1274 @@
+{
+ "id": 53,
+ "level": "B1",
+ "cat": "cons",
+ "title_en": "The Burglars Who Exposed the FBI",
+ "title_ru": "Взломщики, которые разоблачили ФБР",
+ "genre": "Конспирология: правда",
+ "summary_ru": "В 1971 году восемь обычных людей тайно проникли в небольшой офис ФБР — и украденные бумаги открыли миру COINTELPRO, секретную программу, с помощью которой Бюро годами следило за политическими группами и пыталось их уничтожить.",
+ "paragraphs": [
+  {
+   "en": "On the evening of 8 March 1971, millions of Americans were following the news from New York. Muhammad Ali and Joe Frazier were fighting for the world heavyweight title, and people were calling it \"the Fight of the Century\". But in Media, a small town near Philadelphia, a group of eight people were not paying attention to the boxing. They were waiting in the dark for the right moment to break into a local office of the FBI.",
+   "ru": "Вечером 8 марта 1971 года миллионы американцев следили за новостями из Нью-Йорка. Мухаммед Али и Джо Фрейзер сражались за титул чемпиона мира в тяжёлом весе, и люди называли этот бой «Боем века». Но в Медиа, маленьком городке недалеко от Филадельфии, группа из восьми человек не обращала внимания на бокс. Они ждали в темноте подходящего момента, чтобы проникнуть в местный офис ФБР.",
+   "s": [
+    [
+     "On the evening of 8 March 1971, millions of Americans were following the news from New York.",
+     "Вечером 8 марта 1971 года миллионы американцев следили за новостями из Нью-Йорка."
+    ],
+    [
+     "Muhammad Ali and Joe Frazier were fighting for the world heavyweight title, and people were calling it \"the Fight of the Century\".",
+     "Мухаммед Али и Джо Фрейзер сражались за титул чемпиона мира в тяжёлом весе, и люди называли этот бой «Боем века»."
+    ],
+    [
+     "But in Media, a small town near Philadelphia, a group of eight people were not paying attention to the boxing.",
+     "Но в Медиа, маленьком городке недалеко от Филадельфии, группа из восьми человек не обращала внимания на бокс."
+    ],
+    [
+     "They were waiting in the dark for the right moment to break into a local office of the FBI.",
+     "Они ждали в темноте подходящего момента, чтобы проникнуть в местный офис ФБР."
+    ]
+   ]
+  },
+  {
+   "en": "The group had chosen that night on purpose. They hoped that everybody, including the police, would be thinking about the fight instead of a quiet office in an ordinary building. They were not professional thieves. Among them were two university teachers, a young mother of three small children and a man who had learned how to open locks without a key.",
+   "ru": "Группа выбрала эту ночь намеренно. Они надеялись, что все, включая полицию, будут думать о бое, а не о тихом офисе в обычном здании. Они не были профессиональными ворами. Среди них были два преподавателя университета, молодая мать троих маленьких детей и человек, который научился открывать замки без ключа.",
+   "s": [
+    [
+     "The group had chosen that night on purpose.",
+     "Группа выбрала эту ночь намеренно."
+    ],
+    [
+     "They hoped that everybody, including the police, would be thinking about the fight instead of a quiet office in an ordinary building.",
+     "Они надеялись, что все, включая полицию, будут думать о бое, а не о тихом офисе в обычном здании."
+    ],
+    [
+     "They were not professional thieves.",
+     "Они не были профессиональными ворами."
+    ],
+    [
+     "Among them were two university teachers, a young mother of three small children and a man who had learned how to open locks without a key.",
+     "Среди них были два преподавателя университета, молодая мать троих маленьких детей и человек, который научился открывать замки без ключа."
+    ]
+   ]
+  },
+  {
+   "en": "Why would such people commit a crime? They were activists who protested against the Vietnam War, and they had a strong feeling that the FBI was watching peaceful protesters and trying to frighten them into silence. However, they had no evidence. Under the circumstances, they decided that the only way to find the truth was to take the FBI's own files.",
+   "ru": "Зачем таким людям было совершать преступление? Это были активисты, которые протестовали против войны во Вьетнаме, и у них было сильное ощущение, что ФБР следит за мирными протестующими и пытается запугать их, чтобы они замолчали. Однако доказательств у них не было. В этих обстоятельствах они решили, что единственный способ узнать правду — забрать собственные документы ФБР.",
+   "s": [
+    [
+     "Why would such people commit a crime?",
+     "Зачем таким людям было совершать преступление?"
+    ],
+    [
+     "They were activists who protested against the Vietnam War, and they had a strong feeling that the FBI was watching peaceful protesters and trying to frighten them into silence.",
+     "Это были активисты, которые протестовали против войны во Вьетнаме, и у них было сильное ощущение, что ФБР следит за мирными протестующими и пытается запугать их, чтобы они замолчали."
+    ],
+    [
+     "However, they had no evidence.",
+     "Однако доказательств у них не было."
+    ],
+    [
+     "Under the circumstances, they decided that the only way to find the truth was to take the FBI's own files.",
+     "В этих обстоятельствах они решили, что единственный способ узнать правду — забрать собственные документы ФБР."
+    ]
+   ]
+  },
+  {
+   "en": "They prepared carefully. Weeks before the burglary, one of the women had visited the office, pretending to be a student who was writing a paper about jobs for women. In this way she was able to see the rooms, the doors and the filing cabinets. On the night of the fight, the group entered the office, filled suitcases with papers and drove away into the night. They had taken more than a thousand documents.",
+   "ru": "Они тщательно подготовились. За несколько недель до кражи одна из женщин побывала в офисе, притворившись студенткой, которая пишет работу о профессиях для женщин. Так она смогла увидеть комнаты, двери и шкафы для документов. В ночь боя группа проникла в офис, наполнила чемоданы бумагами и уехала в ночь. Они забрали больше тысячи документов.",
+   "s": [
+    [
+     "They prepared carefully.",
+     "Они тщательно подготовились."
+    ],
+    [
+     "Weeks before the burglary, one of the women had visited the office, pretending to be a student who was writing a paper about jobs for women.",
+     "За несколько недель до кражи одна из женщин побывала в офисе, притворившись студенткой, которая пишет работу о профессиях для женщин."
+    ],
+    [
+     "In this way she was able to see the rooms, the doors and the filing cabinets.",
+     "Так она смогла увидеть комнаты, двери и шкафы для документов."
+    ],
+    [
+     "On the night of the fight, the group entered the office, filled suitcases with papers and drove away into the night.",
+     "В ночь боя группа проникла в офис, наполнила чемоданы бумагами и уехала в ночь."
+    ],
+    [
+     "They had taken more than a thousand documents.",
+     "Они забрали больше тысячи документов."
+    ]
+   ]
+  },
+  {
+   "en": "Over the next days, in a quiet farmhouse, they sat around a table and read through the papers. Much of the material was boring, but some of it was shocking. The files showed that the FBI was secretly watching student groups, Black organisations and peace activists. Only a small part of the documents dealt with ordinary crimes.",
+   "ru": "В следующие дни в тихом фермерском доме они сидели вокруг стола и читали бумаги. Большая часть материала была скучной, но кое-что было шокирующим. Документы показывали, что ФБР тайно следило за студенческими группами, организациями чернокожих и активистами движения за мир. Лишь небольшая часть документов касалась обычных преступлений.",
+   "s": [
+    [
+     "Over the next days, in a quiet farmhouse, they sat around a table and read through the papers.",
+     "В следующие дни в тихом фермерском доме они сидели вокруг стола и читали бумаги."
+    ],
+    [
+     "Much of the material was boring, but some of it was shocking.",
+     "Большая часть материала была скучной, но кое-что было шокирующим."
+    ],
+    [
+     "The files showed that the FBI was secretly watching student groups, Black organisations and peace activists.",
+     "Документы показывали, что ФБР тайно следило за студенческими группами, организациями чернокожих и активистами движения за мир."
+    ],
+    [
+     "Only a small part of the documents dealt with ordinary crimes.",
+     "Лишь небольшая часть документов касалась обычных преступлений."
+    ]
+   ]
+  },
+  {
+   "en": "One document stood out. In it, agents were told to interview activists more often. The aim was not simply to collect information. The aim was to make these people afraid, and to get the point across that there was \"an FBI agent behind every mailbox\". For the burglars, this was the evidence they had been looking for.",
+   "ru": "Один документ особенно выделялся. В нём агентам велели чаще проводить беседы с активистами. Цель состояла не просто в том, чтобы собирать информацию. Цель была в том, чтобы напугать этих людей и донести до них мысль, что «за каждым почтовым ящиком стоит агент ФБР». Для взломщиков это и было то доказательство, которое они искали.",
+   "s": [
+    [
+     "One document stood out.",
+     "Один документ особенно выделялся."
+    ],
+    [
+     "In it, agents were told to interview activists more often.",
+     "В нём агентам велели чаще проводить беседы с активистами."
+    ],
+    [
+     "The aim was not simply to collect information.",
+     "Цель состояла не просто в том, чтобы собирать информацию."
+    ],
+    [
+     "The aim was to make these people afraid, and to get the point across that there was \"an FBI agent behind every mailbox\".",
+     "Цель была в том, чтобы напугать этих людей и донести до них мысль, что «за каждым почтовым ящиком стоит агент ФБР»."
+    ],
+    [
+     "For the burglars, this was the evidence they had been looking for.",
+     "Для взломщиков это и было то доказательство, которое они искали."
+    ]
+   ]
+  },
+  {
+   "en": "The group called itself the Citizens' Commission to Investigate the FBI. Its members made copies of the most important documents and mailed them to several newspapers and to two members of Congress. The two politicians did not publish anything. Instead, they gave the papers back to the FBI.",
+   "ru": "Группа назвала себя «Гражданской комиссией по расследованию деятельности ФБР». Её участники сделали копии самых важных документов и отправили их по почте в несколько газет и двум членам Конгресса. Эти два политика ничего не опубликовали. Вместо этого они вернули бумаги ФБР.",
+   "s": [
+    [
+     "The group called itself the Citizens' Commission to Investigate the FBI.",
+     "Группа назвала себя «Гражданской комиссией по расследованию деятельности ФБР»."
+    ],
+    [
+     "Its members made copies of the most important documents and mailed them to several newspapers and to two members of Congress.",
+     "Её участники сделали копии самых важных документов и отправили их по почте в несколько газет и двум членам Конгресса."
+    ],
+    [
+     "The two politicians did not publish anything.",
+     "Эти два политика ничего не опубликовали."
+    ],
+    [
+     "Instead, they gave the papers back to the FBI.",
+     "Вместо этого они вернули бумаги ФБР."
+    ]
+   ]
+  },
+  {
+   "en": "At The Washington Post, the package was opened by a young reporter called Betty Medsger. Before the newspaper could print the story, the US Attorney General, John Mitchell, asked it not to publish the documents, saying that this could put lives in danger. The editors discussed the problem and decided that the public had a right to know. The first article appeared on 24 March 1971, and other newspapers soon followed.",
+   "ru": "В газете The Washington Post пакет вскрыла молодая журналистка по имени Бетти Медсгер. Прежде чем газета смогла напечатать статью, министр юстиции США Джон Митчелл попросил её не публиковать документы, заявив, что это может подвергнуть опасности жизни людей. Редакторы обсудили проблему и решили, что общество имеет право знать. Первая статья вышла 24 марта 1971 года, и вскоре за ней последовали другие газеты.",
+   "s": [
+    [
+     "At The Washington Post, the package was opened by a young reporter called Betty Medsger.",
+     "В газете The Washington Post пакет вскрыла молодая журналистка по имени Бетти Медсгер."
+    ],
+    [
+     "Before the newspaper could print the story, the US Attorney General, John Mitchell, asked it not to publish the documents, saying that this could put lives in danger.",
+     "Прежде чем газета смогла напечатать статью, министр юстиции США Джон Митчелл попросил её не публиковать документы, заявив, что это может подвергнуть опасности жизни людей."
+    ],
+    [
+     "The editors discussed the problem and decided that the public had a right to know.",
+     "Редакторы обсудили проблему и решили, что общество имеет право знать."
+    ],
+    [
+     "The first article appeared on 24 March 1971, and other newspapers soon followed.",
+     "Первая статья вышла 24 марта 1971 года, и вскоре за ней последовали другие газеты."
+    ]
+   ]
+  },
+  {
+   "en": "The head of the FBI was J. Edgar Hoover, who had led the Bureau since 1924. For decades he had been one of the most powerful and feared men in the country, and he was furious. Hundreds of agents were sent to find the burglars. They asked questions, followed suspects and checked thousands of pieces of information, but they never found the people they were looking for. In 1976, the legal time limit for charging anyone with the crime ran out, and the case was closed.",
+   "ru": "Главой ФБР был Джей Эдгар Гувер, который руководил Бюро с 1924 года. Десятилетиями он был одним из самых могущественных людей в стране, которых боялись, и он был в ярости. На поиски взломщиков были отправлены сотни агентов. Они задавали вопросы, следили за подозреваемыми и проверяли тысячи сведений, но так и не нашли тех, кого искали. В 1976 году истёк установленный законом срок, в течение которого кого-либо могли обвинить в этом преступлении, и дело было закрыто.",
+   "s": [
+    [
+     "The head of the FBI was J. Edgar Hoover, who had led the Bureau since 1924.",
+     "Главой ФБР был Джей Эдгар Гувер, который руководил Бюро с 1924 года."
+    ],
+    [
+     "For decades he had been one of the most powerful and feared men in the country, and he was furious.",
+     "Десятилетиями он был одним из самых могущественных людей в стране, которых боялись, и он был в ярости."
+    ],
+    [
+     "Hundreds of agents were sent to find the burglars.",
+     "На поиски взломщиков были отправлены сотни агентов."
+    ],
+    [
+     "They asked questions, followed suspects and checked thousands of pieces of information, but they never found the people they were looking for.",
+     "Они задавали вопросы, следили за подозреваемыми и проверяли тысячи сведений, но так и не нашли тех, кого искали."
+    ],
+    [
+     "In 1976, the legal time limit for charging anyone with the crime ran out, and the case was closed.",
+     "В 1976 году истёк установленный законом срок, в течение которого кого-либо могли обвинить в этом преступлении, и дело было закрыто."
+    ]
+   ]
+  },
+  {
+   "en": "Meanwhile, journalists noticed a strange word on one of the stolen papers: COINTELPRO. Nobody outside the FBI knew what it meant. A television reporter, Carl Stern of NBC, decided to find out. He used the Freedom of Information Act, a law that allows citizens to ask the government for its records. The FBI refused, so Stern went to court. In late 1973, after a judge ruled in his favour, the first COINTELPRO documents were handed over.",
+   "ru": "Тем временем журналисты заметили на одной из украденных бумаг странное слово: COINTELPRO. Никто за пределами ФБР не знал, что оно означает. Телевизионный журналист Карл Стерн из NBC решил это выяснить. Он воспользовался Законом о свободе информации — законом, который позволяет гражданам запрашивать у государства его документы. ФБР отказало, и тогда Стерн обратился в суд. В конце 1973 года, после того как судья вынес решение в его пользу, были переданы первые документы COINTELPRO.",
+   "s": [
+    [
+     "Meanwhile, journalists noticed a strange word on one of the stolen papers: COINTELPRO.",
+     "Тем временем журналисты заметили на одной из украденных бумаг странное слово: COINTELPRO."
+    ],
+    [
+     "Nobody outside the FBI knew what it meant.",
+     "Никто за пределами ФБР не знал, что оно означает."
+    ],
+    [
+     "A television reporter, Carl Stern of NBC, decided to find out.",
+     "Телевизионный журналист Карл Стерн из NBC решил это выяснить."
+    ],
+    [
+     "He used the Freedom of Information Act, a law that allows citizens to ask the government for its records.",
+     "Он воспользовался Законом о свободе информации — законом, который позволяет гражданам запрашивать у государства его документы."
+    ],
+    [
+     "The FBI refused, so Stern went to court.",
+     "ФБР отказало, и тогда Стерн обратился в суд."
+    ],
+    [
+     "In late 1973, after a judge ruled in his favour, the first COINTELPRO documents were handed over.",
+     "В конце 1973 года, после того как судья вынес решение в его пользу, были переданы первые документы COINTELPRO."
+    ]
+   ]
+  },
+  {
+   "en": "COINTELPRO was short for \"Counterintelligence Program\". Normally, counterintelligence means protecting a country from foreign spies. But this program was aimed at Americans. It had started in 1956 against the Communist Party of the United States. Over the following years it was extended to other groups: a small socialist party, the Ku Klux Klan and other white racist groups, Black civil rights and Black nationalist organisations, and finally the student and anti-war movement known as the New Left.",
+   "ru": "COINTELPRO было сокращением от «Контрразведывательная программа». Обычно контрразведка означает защиту страны от иностранных шпионов. Но эта программа была направлена против американцев. Она началась в 1956 году против Коммунистической партии США. В последующие годы её распространили на другие группы: небольшую социалистическую партию, Ку-клукс-клан и другие белые расистские группы, организации чернокожих, боровшиеся за гражданские права, и чёрных националистов, а в конце концов и на студенческое и антивоенное движение, известное как «новые левые».",
+   "s": [
+    [
+     "COINTELPRO was short for \"Counterintelligence Program\".",
+     "COINTELPRO было сокращением от «Контрразведывательная программа»."
+    ],
+    [
+     "Normally, counterintelligence means protecting a country from foreign spies.",
+     "Обычно контрразведка означает защиту страны от иностранных шпионов."
+    ],
+    [
+     "But this program was aimed at Americans.",
+     "Но эта программа была направлена против американцев."
+    ],
+    [
+     "It had started in 1956 against the Communist Party of the United States.",
+     "Она началась в 1956 году против Коммунистической партии США."
+    ],
+    [
+     "Over the following years it was extended to other groups: a small socialist party, the Ku Klux Klan and other white racist groups, Black civil rights and Black nationalist organisations, and finally the student and anti-war movement known as the New Left.",
+     "В последующие годы её распространили на другие группы: небольшую социалистическую партию, Ку-клукс-клан и другие белые расистские группы, организации чернокожих, боровшиеся за гражданские права, и чёрных националистов, а в конце концов и на студенческое и антивоенное движение, известное как «новые левые»."
+    ]
+   ]
+  },
+  {
+   "en": "The documents made the nature of the program very clear. Its goal was not to investigate crimes and bring people to court. A 1967 FBI memo said that the aim was to \"expose, disrupt, misdirect, discredit, or otherwise neutralize\" certain groups. In other words, the FBI wanted to destroy them, even when their members had not broken any law.",
+   "ru": "Документы очень ясно показывали суть программы. Её целью было не расследовать преступления и не отдавать людей под суд. В служебной записке ФБР 1967 года говорилось, что цель состоит в том, чтобы «разоблачать, срывать деятельность, сбивать с толку, дискредитировать или иным образом нейтрализовать» определённые группы. Иными словами, ФБР хотело уничтожить их, даже когда их члены не нарушали никаких законов.",
+   "s": [
+    [
+     "The documents made the nature of the program very clear.",
+     "Документы очень ясно показывали суть программы."
+    ],
+    [
+     "Its goal was not to investigate crimes and bring people to court.",
+     "Её целью было не расследовать преступления и не отдавать людей под суд."
+    ],
+    [
+     "A 1967 FBI memo said that the aim was to \"expose, disrupt, misdirect, discredit, or otherwise neutralize\" certain groups.",
+     "В служебной записке ФБР 1967 года говорилось, что цель состоит в том, чтобы «разоблачать, срывать деятельность, сбивать с толку, дискредитировать или иным образом нейтрализовать» определённые группы."
+    ],
+    [
+     "In other words, the FBI wanted to destroy them, even when their members had not broken any law.",
+     "Иными словами, ФБР хотело уничтожить их, даже когда их члены не нарушали никаких законов."
+    ]
+   ]
+  },
+  {
+   "en": "In April 1971, only a month after the first newspaper story, Hoover officially ended COINTELPRO. But the full story came out only a few years later. After the Watergate scandal, which forced President Richard Nixon to resign in 1974, many Americans no longer trusted their government. In 1975, the US Senate created a special committee to investigate the intelligence agencies. It was led by Senator Frank Church of Idaho, so it became known as the Church Committee. Hoover himself did not live to see it: he had died in May 1972, before most of the secrets came out.",
+   "ru": "В апреле 1971 года, всего через месяц после первой статьи в газете, Гувер официально закрыл COINTELPRO. Но вся история выяснилась лишь через несколько лет. После Уотергейтского скандала, который вынудил президента Ричарда Никсона уйти в отставку в 1974 году, многие американцы больше не доверяли своему правительству. В 1975 году Сенат США создал специальный комитет для расследования деятельности спецслужб. Его возглавил сенатор Фрэнк Чёрч от штата Айдахо, поэтому он стал известен как Комитет Чёрча. Сам Гувер до этого не дожил: он умер в мае 1972 года, ещё до того, как раскрылась большая часть тайн.",
+   "s": [
+    [
+     "In April 1971, only a month after the first newspaper story, Hoover officially ended COINTELPRO.",
+     "В апреле 1971 года, всего через месяц после первой статьи в газете, Гувер официально закрыл COINTELPRO."
+    ],
+    [
+     "But the full story came out only a few years later.",
+     "Но вся история выяснилась лишь через несколько лет."
+    ],
+    [
+     "After the Watergate scandal, which forced President Richard Nixon to resign in 1974, many Americans no longer trusted their government.",
+     "После Уотергейтского скандала, который вынудил президента Ричарда Никсона уйти в отставку в 1974 году, многие американцы больше не доверяли своему правительству."
+    ],
+    [
+     "In 1975, the US Senate created a special committee to investigate the intelligence agencies.",
+     "В 1975 году Сенат США создал специальный комитет для расследования деятельности спецслужб."
+    ],
+    [
+     "It was led by Senator Frank Church of Idaho, so it became known as the Church Committee.",
+     "Его возглавил сенатор Фрэнк Чёрч от штата Айдахо, поэтому он стал известен как Комитет Чёрча."
+    ],
+    [
+     "Hoover himself did not live to see it: he had died in May 1972, before most of the secrets came out.",
+     "Сам Гувер до этого не дожил: он умер в мае 1972 года, ещё до того, как раскрылась большая часть тайн."
+    ]
+   ]
+  },
+  {
+   "en": "The committee studied thousands of secret documents and listened to many witnesses. Its reports, published in 1976, described many COINTELPRO operations in detail. The senators called the program \"a sophisticated vigilante operation\". A vigilante is someone who punishes people without a court, and that was exactly what the FBI had been doing.",
+   "ru": "Комитет изучил тысячи секретных документов и выслушал многих свидетелей. В его докладах, опубликованных в 1976 году, были подробно описаны многие операции COINTELPRO. Сенаторы назвали программу «изощрённой операцией самосуда». Самосудчик — это тот, кто наказывает людей без суда, и именно этим занималось ФБР.",
+   "s": [
+    [
+     "The committee studied thousands of secret documents and listened to many witnesses.",
+     "Комитет изучил тысячи секретных документов и выслушал многих свидетелей."
+    ],
+    [
+     "Its reports, published in 1976, described many COINTELPRO operations in detail.",
+     "В его докладах, опубликованных в 1976 году, были подробно описаны многие операции COINTELPRO."
+    ],
+    [
+     "The senators called the program \"a sophisticated vigilante operation\".",
+     "Сенаторы назвали программу «изощрённой операцией самосуда»."
+    ],
+    [
+     "A vigilante is someone who punishes people without a court, and that was exactly what the FBI had been doing.",
+     "Самосудчик — это тот, кто наказывает людей без суда, и именно этим занималось ФБР."
+    ]
+   ]
+  },
+  {
+   "en": "The methods were often cruel. Agents sent anonymous letters to people's husbands and wives, hoping to destroy marriages. They told employers and landlords lies about activists, so that some people lost their jobs or their homes. They gave false stories to friendly journalists. They paid informers to join organisations, and they tried to push different groups into fights with each other. Sometimes they spread rumours that a loyal member was secretly working for the police, so that his friends would stop trusting him.",
+   "ru": "Методы часто были жестокими. Агенты отправляли анонимные письма мужьям и жёнам, надеясь разрушить браки. Они рассказывали работодателям и арендодателям ложь об активистах, так что некоторые люди потеряли работу или жильё. Они передавали ложные истории дружественно настроенным журналистам. Они платили осведомителям за вступление в организации и пытались столкнуть разные группы друг с другом. Иногда они распускали слухи о том, что преданный член группы тайно работает на полицию, чтобы друзья перестали ему доверять.",
+   "s": [
+    [
+     "The methods were often cruel.",
+     "Методы часто были жестокими."
+    ],
+    [
+     "Agents sent anonymous letters to people's husbands and wives, hoping to destroy marriages.",
+     "Агенты отправляли анонимные письма мужьям и жёнам, надеясь разрушить браки."
+    ],
+    [
+     "They told employers and landlords lies about activists, so that some people lost their jobs or their homes.",
+     "Они рассказывали работодателям и арендодателям ложь об активистах, так что некоторые люди потеряли работу или жильё."
+    ],
+    [
+     "They gave false stories to friendly journalists.",
+     "Они передавали ложные истории дружественно настроенным журналистам."
+    ],
+    [
+     "They paid informers to join organisations, and they tried to push different groups into fights with each other.",
+     "Они платили осведомителям за вступление в организации и пытались столкнуть разные группы друг с другом."
+    ],
+    [
+     "Sometimes they spread rumours that a loyal member was secretly working for the police, so that his friends would stop trusting him.",
+     "Иногда они распускали слухи о том, что преданный член группы тайно работает на полицию, чтобы друзья перестали ему доверять."
+    ]
+   ]
+  },
+  {
+   "en": "One of the best-known targets was Martin Luther King Jr. Hoover saw him as a dangerous man and believed that he was under Communist influence, although the FBI never proved this. The FBI listened to his telephone calls and secretly recorded him in hotel rooms. In late 1964, shortly before King received the Nobel Peace Prize, the Bureau mailed him a package with recordings and an anonymous letter. King and the people close to him understood the letter as a message telling him to kill himself.",
+   "ru": "Одной из самых известных мишеней был Мартин Лютер Кинг-младший. Гувер считал его опасным человеком и полагал, что он находится под влиянием коммунистов, хотя ФБР так и не смогло этого доказать. ФБР прослушивало его телефонные разговоры и тайно записывало его в гостиничных номерах. В конце 1964 года, незадолго до того как Кинг получил Нобелевскую премию мира, Бюро отправило ему по почте пакет с записями и анонимным письмом. Кинг и близкие ему люди поняли это письмо как послание, призывающее его покончить с собой.",
+   "s": [
+    [
+     "One of the best-known targets was Martin Luther King Jr.",
+     "Одной из самых известных мишеней был Мартин Лютер Кинг-младший."
+    ],
+    [
+     "Hoover saw him as a dangerous man and believed that he was under Communist influence, although the FBI never proved this.",
+     "Гувер считал его опасным человеком и полагал, что он находится под влиянием коммунистов, хотя ФБР так и не смогло этого доказать."
+    ],
+    [
+     "The FBI listened to his telephone calls and secretly recorded him in hotel rooms.",
+     "ФБР прослушивало его телефонные разговоры и тайно записывало его в гостиничных номерах."
+    ],
+    [
+     "In late 1964, shortly before King received the Nobel Peace Prize, the Bureau mailed him a package with recordings and an anonymous letter.",
+     "В конце 1964 года, незадолго до того как Кинг получил Нобелевскую премию мира, Бюро отправило ему по почте пакет с записями и анонимным письмом."
+    ],
+    [
+     "King and the people close to him understood the letter as a message telling him to kill himself.",
+     "Кинг и близкие ему люди поняли это письмо как послание, призывающее его покончить с собой."
+    ]
+   ]
+  },
+  {
+   "en": "The darkest case happened in Chicago. Fred Hampton, a 21-year-old leader of the Black Panther Party, was killed on 4 December 1969, when police officers raided his apartment before dawn. Later it became known that an FBI informer had given the Bureau a plan of the apartment, which was passed on to the police before the raid. Historians still disagree about how much the FBI knew about how the raid would be carried out. In 1982, the federal, county and city governments agreed to pay 1.85 million dollars to the survivors and families.",
+   "ru": "Самый мрачный случай произошёл в Чикаго. Фред Хэмптон, 21-летний лидер партии «Чёрные пантеры», был убит 4 декабря 1969 года, когда полицейские ворвались в его квартиру перед рассветом. Позже стало известно, что осведомитель ФБР передал Бюро план квартиры, который был передан полиции перед налётом. Историки до сих пор спорят о том, насколько ФБР знало, как будет проводиться налёт. В 1982 году федеральные власти, власти округа и города согласились выплатить 1,85 миллиона долларов выжившим и семьям.",
+   "s": [
+    [
+     "The darkest case happened in Chicago.",
+     "Самый мрачный случай произошёл в Чикаго."
+    ],
+    [
+     "Fred Hampton, a 21-year-old leader of the Black Panther Party, was killed on 4 December 1969, when police officers raided his apartment before dawn.",
+     "Фред Хэмптон, 21-летний лидер партии «Чёрные пантеры», был убит 4 декабря 1969 года, когда полицейские ворвались в его квартиру перед рассветом."
+    ],
+    [
+     "Later it became known that an FBI informer had given the Bureau a plan of the apartment, which was passed on to the police before the raid.",
+     "Позже стало известно, что осведомитель ФБР передал Бюро план квартиры, который был передан полиции перед налётом."
+    ],
+    [
+     "Historians still disagree about how much the FBI knew about how the raid would be carried out.",
+     "Историки до сих пор спорят о том, насколько ФБР знало, как будет проводиться налёт."
+    ],
+    [
+     "In 1982, the federal, county and city governments agreed to pay 1.85 million dollars to the survivors and families.",
+     "В 1982 году федеральные власти, власти округа и города согласились выплатить 1,85 миллиона долларов выжившим и семьям."
+    ]
+   ]
+  },
+  {
+   "en": "It is important to understand that COINTELPRO did not target only one side of politics. The Ku Klux Klan, a violent racist organisation, was also attacked with fake letters and informers. The real problem was that a police agency had decided, in secret, which political ideas were dangerous, and then acted as judge and punisher at once.",
+   "ru": "Важно понимать, что COINTELPRO была направлена не только против одной политической стороны. Ку-клукс-клан, жестокую расистскую организацию, тоже атаковали с помощью поддельных писем и осведомителей. Настоящая проблема была в том, что полицейское ведомство тайно решало, какие политические идеи опасны, а затем действовало сразу и как судья, и как палач.",
+   "s": [
+    [
+     "It is important to understand that COINTELPRO did not target only one side of politics.",
+     "Важно понимать, что COINTELPRO была направлена не только против одной политической стороны."
+    ],
+    [
+     "The Ku Klux Klan, a violent racist organisation, was also attacked with fake letters and informers.",
+     "Ку-клукс-клан, жестокую расистскую организацию, тоже атаковали с помощью поддельных писем и осведомителей."
+    ],
+    [
+     "The real problem was that a police agency had decided, in secret, which political ideas were dangerous, and then acted as judge and punisher at once.",
+     "Настоящая проблема была в том, что полицейское ведомство тайно решало, какие политические идеи опасны, а затем действовало сразу и как судья, и как палач."
+    ]
+   ]
+  },
+  {
+   "en": "Of course, not every story about COINTELPRO is proven. Over the years, some people have claimed that the FBI was behind many more deaths and disasters, and they often use the program's name as proof. For most of these claims there is no clear evidence. Many documents were released with long black marks over names and sentences, so some questions may never be fully answered. What is certain is what the FBI's own papers show.",
+   "ru": "Конечно, не каждая история о COINTELPRO доказана. С годами некоторые люди стали утверждать, что ФБР стояло за гораздо большим числом смертей и бедствий, и в качестве доказательства они часто приводят название этой программы. Для большинства этих утверждений нет ясных доказательств. Многие документы были опубликованы с длинными чёрными пометками поверх имён и предложений, поэтому на некоторые вопросы, возможно, никогда не удастся полностью ответить. Несомненно то, что показывают собственные документы ФБР.",
+   "s": [
+    [
+     "Of course, not every story about COINTELPRO is proven.",
+     "Конечно, не каждая история о COINTELPRO доказана."
+    ],
+    [
+     "Over the years, some people have claimed that the FBI was behind many more deaths and disasters, and they often use the program's name as proof.",
+     "С годами некоторые люди стали утверждать, что ФБР стояло за гораздо большим числом смертей и бедствий, и в качестве доказательства они часто приводят название этой программы."
+    ],
+    [
+     "For most of these claims there is no clear evidence.",
+     "Для большинства этих утверждений нет ясных доказательств."
+    ],
+    [
+     "Many documents were released with long black marks over names and sentences, so some questions may never be fully answered.",
+     "Многие документы были опубликованы с длинными чёрными пометками поверх имён и предложений, поэтому на некоторые вопросы, возможно, никогда не удастся полностью ответить."
+    ],
+    [
+     "What is certain is what the FBI's own papers show.",
+     "Несомненно то, что показывают собственные документы ФБР."
+    ]
+   ]
+  },
+  {
+   "en": "And the burglars? For more than forty years they kept their secret. They returned to normal lives, raised their children and told almost no one. Years later, by chance, Betty Medsger discovered that two people she knew, John and Bonnie Raines, had been among them. In 2014 she published a book called The Burglary, and several members of the group finally spoke in public. The leader had been William Davidon, a physics professor. Some members have never been named.",
+   "ru": "А что же взломщики? Больше сорока лет они хранили свою тайну. Они вернулись к нормальной жизни, вырастили детей и почти никому ничего не рассказали. Через много лет Бетти Медсгер случайно узнала, что двое её знакомых, Джон и Бонни Рейнс, были среди них. В 2014 году она опубликовала книгу под названием «Кража», и несколько членов группы наконец высказались публично. Лидером был Уильям Дэвидон, профессор физики. Имена некоторых участников так и не были названы.",
+   "s": [
+    [
+     "And the burglars?",
+     "А что же взломщики?"
+    ],
+    [
+     "For more than forty years they kept their secret.",
+     "Больше сорока лет они хранили свою тайну."
+    ],
+    [
+     "They returned to normal lives, raised their children and told almost no one.",
+     "Они вернулись к нормальной жизни, вырастили детей и почти никому ничего не рассказали."
+    ],
+    [
+     "Years later, by chance, Betty Medsger discovered that two people she knew, John and Bonnie Raines, had been among them.",
+     "Через много лет Бетти Медсгер случайно узнала, что двое её знакомых, Джон и Бонни Рейнс, были среди них."
+    ],
+    [
+     "In 2014 she published a book called The Burglary, and several members of the group finally spoke in public.",
+     "В 2014 году она опубликовала книгу под названием «Кража», и несколько членов группы наконец высказались публично."
+    ],
+    [
+     "The leader had been William Davidon, a physics professor.",
+     "Лидером был Уильям Дэвидон, профессор физики."
+    ],
+    [
+     "Some members have never been named.",
+     "Имена некоторых участников так и не были названы."
+    ]
+   ]
+  },
+  {
+   "en": "Many Americans were surprised to learn that a couple with three children had risked everything. John and Bonnie Raines later explained that they had thought very seriously about what would happen to their children if they were caught. They said they had felt that someone had to stand up to the FBI, and that ordinary methods had failed.",
+   "ru": "Многие американцы были удивлены, узнав, что пара с тремя детьми рисковала всем. Позже Джон и Бонни Рейнс объяснили, что очень серьёзно думали о том, что будет с их детьми, если их поймают. Они сказали, что чувствовали: кто-то должен был противостоять ФБР, а обычные методы не сработали.",
+   "s": [
+    [
+     "Many Americans were surprised to learn that a couple with three children had risked everything.",
+     "Многие американцы были удивлены, узнав, что пара с тремя детьми рисковала всем."
+    ],
+    [
+     "John and Bonnie Raines later explained that they had thought very seriously about what would happen to their children if they were caught.",
+     "Позже Джон и Бонни Рейнс объяснили, что очень серьёзно думали о том, что будет с их детьми, если их поймают."
+    ],
+    [
+     "They said they had felt that someone had to stand up to the FBI, and that ordinary methods had failed.",
+     "Они сказали, что чувствовали: кто-то должен был противостоять ФБР, а обычные методы не сработали."
+    ]
+   ]
+  },
+  {
+   "en": "The revelations changed the rules. In 1976, Congress limited the director of the FBI to a single term of ten years, so that no one could hold the job for nearly fifty years again, as Hoover had done. New guidelines from the Justice Department said when the FBI was allowed to investigate political groups. Both houses of Congress created permanent committees to watch the intelligence agencies, and a 1978 law said that a special court must approve wiretaps in national security cases.",
+   "ru": "Эти разоблачения изменили правила. В 1976 году Конгресс ограничил пребывание директора ФБР одним сроком в десять лет, чтобы никто больше не мог занимать эту должность почти пятьдесят лет, как это делал Гувер. Новые правила министерства юстиции определяли, когда ФБР разрешено расследовать деятельность политических групп. Обе палаты Конгресса создали постоянные комитеты для надзора за спецслужбами, а закон 1978 года установил, что прослушивание телефонов в делах о национальной безопасности должен одобрять специальный суд.",
+   "s": [
+    [
+     "The revelations changed the rules.",
+     "Эти разоблачения изменили правила."
+    ],
+    [
+     "In 1976, Congress limited the director of the FBI to a single term of ten years, so that no one could hold the job for nearly fifty years again, as Hoover had done.",
+     "В 1976 году Конгресс ограничил пребывание директора ФБР одним сроком в десять лет, чтобы никто больше не мог занимать эту должность почти пятьдесят лет, как это делал Гувер."
+    ],
+    [
+     "New guidelines from the Justice Department said when the FBI was allowed to investigate political groups.",
+     "Новые правила министерства юстиции определяли, когда ФБР разрешено расследовать деятельность политических групп."
+    ],
+    [
+     "Both houses of Congress created permanent committees to watch the intelligence agencies, and a 1978 law said that a special court must approve wiretaps in national security cases.",
+     "Обе палаты Конгресса создали постоянные комитеты для надзора за спецслужбами, а закон 1978 года установил, что прослушивание телефонов в делах о национальной безопасности должен одобрять специальный суд."
+    ]
+   ]
+  },
+  {
+   "en": "Today, the story of Media still causes arguments. The burglars broke the law, and some people believe that nobody has the right to do that, whatever the reason. Others say that without them the truth might have stayed hidden for much longer, and perhaps forever. Similar debates returned in 2013, when Edward Snowden revealed secret documents about mass surveillance by the National Security Agency.",
+   "ru": "Сегодня история в Медиа по-прежнему вызывает споры. Взломщики нарушили закон, и некоторые люди считают, что никто не имеет права так поступать, какой бы ни была причина. Другие говорят, что без них правда могла бы оставаться скрытой гораздо дольше, а возможно, и навсегда. Похожие споры вернулись в 2013 году, когда Эдвард Сноуден раскрыл секретные документы о массовой слежке Агентства национальной безопасности.",
+   "s": [
+    [
+     "Today, the story of Media still causes arguments.",
+     "Сегодня история в Медиа по-прежнему вызывает споры."
+    ],
+    [
+     "The burglars broke the law, and some people believe that nobody has the right to do that, whatever the reason.",
+     "Взломщики нарушили закон, и некоторые люди считают, что никто не имеет права так поступать, какой бы ни была причина."
+    ],
+    [
+     "Others say that without them the truth might have stayed hidden for much longer, and perhaps forever.",
+     "Другие говорят, что без них правда могла бы оставаться скрытой гораздо дольше, а возможно, и навсегда."
+    ],
+    [
+     "Similar debates returned in 2013, when Edward Snowden revealed secret documents about mass surveillance by the National Security Agency.",
+     "Похожие споры вернулись в 2013 году, когда Эдвард Сноуден раскрыл секретные документы о массовой слежке Агентства национальной безопасности."
+    ]
+   ]
+  },
+  {
+   "en": "Whatever we think about the burglary, one thing is clear. For years, activists who said that the FBI was secretly fighting them were often called paranoid. The documents proved that, in this case, the conspiracy was real. It was not discovered by a powerful investigator, but by a small group of ordinary people who decided to find the evidence themselves.",
+   "ru": "Что бы мы ни думали о краже, одно ясно. Годами активистов, которые говорили, что ФБР тайно борется с ними, часто называли параноиками. Документы доказали, что в этом случае заговор был реальным. Его раскрыл не могущественный следователь, а небольшая группа обычных людей, которые решили сами найти доказательства.",
+   "s": [
+    [
+     "Whatever we think about the burglary, one thing is clear.",
+     "Что бы мы ни думали о краже, одно ясно."
+    ],
+    [
+     "For years, activists who said that the FBI was secretly fighting them were often called paranoid.",
+     "Годами активистов, которые говорили, что ФБР тайно борется с ними, часто называли параноиками."
+    ],
+    [
+     "The documents proved that, in this case, the conspiracy was real.",
+     "Документы доказали, что в этом случае заговор был реальным."
+    ],
+    [
+     "It was not discovered by a powerful investigator, but by a small group of ordinary people who decided to find the evidence themselves.",
+     "Его раскрыл не могущественный следователь, а небольшая группа обычных людей, которые решили сами найти доказательства."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "able": "(was able to) смогла",
+  "about": "о, об",
+  "across": "(get across) донести (мысль)",
+  "act": "действовать",
+  "acted": "действовало",
+  "activists": "активисты",
+  "afraid": "испуганный",
+  "after": "после",
+  "again": "снова",
+  "against": "против",
+  "agencies": "ведомства, спецслужбы",
+  "agency": "ведомство, агентство",
+  "agent": "агент",
+  "agents": "агенты",
+  "agreed": "согласились",
+  "aim": "цель",
+  "aimed": "направлена (против)",
+  "ali": "Али (фамилия)",
+  "allowed": "разрешено",
+  "allows": "позволяет",
+  "almost": "почти",
+  "also": "также, тоже",
+  "although": "хотя",
+  "americans": "американцы",
+  "among": "среди",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "anonymous": "анонимный",
+  "answered": "ответить (be answered — получить ответ)",
+  "anti": "анти-, против",
+  "any": "любой, какой-либо",
+  "anyone": "кто-либо",
+  "anything": "что-либо, ничего",
+  "apartment": "квартира",
+  "appeared": "вышла, появилась",
+  "approve": "одобрять",
+  "april": "апрель",
+  "arguments": "споры",
+  "around": "вокруг",
+  "article": "статья",
+  "as": "как, в качестве",
+  "ask": "просить",
+  "asked": "задавали; попросил",
+  "at": "в, на; (at once) сразу",
+  "attacked": "атаковали",
+  "attention": "внимание",
+  "attorney": "(Attorney General) министр юстиции",
+  "away": "прочь",
+  "back": "обратно",
+  "be": "быть",
+  "became": "стал",
+  "been": "был(и)",
+  "before": "до, перед",
+  "behind": "за, позади",
+  "believe": "считать, верить",
+  "believed": "полагал",
+  "best": "(best-known) самый известный",
+  "betty": "Бетти (имя)",
+  "black": "чёрный; чернокожий",
+  "bonnie": "Бонни (имя)",
+  "book": "книга",
+  "boring": "скучный",
+  "both": "обе",
+  "boxing": "бокс",
+  "break": "(break into) проникнуть, вломиться",
+  "bring": "(bring to court) отдать под суд",
+  "broke": "нарушили",
+  "broken": "нарушили",
+  "building": "здание",
+  "bureau": "бюро (ФБР)",
+  "burglars": "взломщики",
+  "burglary": "кража со взломом",
+  "but": "но",
+  "by": "к; от; (by chance) случайно",
+  "cabinets": "шкафы",
+  "called": "назвала; по имени; называли",
+  "calling": "называли",
+  "calls": "звонки",
+  "came": "(came out) выяснилась",
+  "carefully": "тщательно",
+  "carl": "Карл (имя)",
+  "carried": "(carried out) проведён",
+  "case": "случай; дело",
+  "cases": "дела",
+  "caught": "пойманы",
+  "causes": "вызывает",
+  "century": "век",
+  "certain": "определённый; несомненный",
+  "chance": "случай",
+  "changed": "изменили",
+  "charging": "обвинение",
+  "checked": "проверяли",
+  "chicago": "Чикаго",
+  "children": "дети",
+  "chosen": "выбрала",
+  "church": "Чёрч (фамилия)",
+  "circumstances": "обстоятельства",
+  "citizens": "граждане",
+  "city": "город",
+  "civil": "гражданский",
+  "claimed": "утверждали",
+  "claims": "утверждения",
+  "clear": "ясный",
+  "close": "близкий",
+  "closed": "закрыто",
+  "cointelpro": "COINTELPRO (секретная программа ФБР)",
+  "collect": "собирать",
+  "commission": "комиссия",
+  "commit": "совершить",
+  "committee": "комитет",
+  "committees": "комитеты",
+  "communist": "коммунистический",
+  "congress": "Конгресс",
+  "conspiracy": "заговор",
+  "copies": "копии",
+  "could": "могла, мог",
+  "counterintelligence": "контрразведка",
+  "country": "страна",
+  "county": "округ",
+  "couple": "пара",
+  "course": "(of course) конечно",
+  "court": "суд",
+  "created": "создал",
+  "crime": "преступление",
+  "crimes": "преступления",
+  "cruel": "жестокий",
+  "danger": "опасность",
+  "dangerous": "опасный",
+  "dark": "темнота",
+  "darkest": "самый мрачный",
+  "davidon": "Дэвидон (фамилия)",
+  "dawn": "рассвет",
+  "days": "дни",
+  "dealt": "(dealt with) касалась",
+  "deaths": "смерти",
+  "debates": "споры",
+  "decades": "десятилетия",
+  "december": "декабрь",
+  "decided": "решили",
+  "department": "министерство",
+  "described": "описали",
+  "destroy": "уничтожить; разрушить",
+  "detail": "(in detail) подробно",
+  "did": "(вспом.); сделал",
+  "died": "умер",
+  "different": "разные",
+  "director": "директор",
+  "disagree": "расходиться во мнениях, спорить",
+  "disasters": "бедствия",
+  "discovered": "узнала, обнаружила",
+  "discredit": "дискредитировать",
+  "discussed": "обсудили",
+  "disrupt": "срывать, подрывать",
+  "do": "делать",
+  "document": "документ",
+  "documents": "документы",
+  "doing": "делало",
+  "dollars": "доллары",
+  "done": "делал",
+  "doors": "двери",
+  "drove": "уехали",
+  "each": "(each other) друг друга",
+  "edgar": "Эдгар (имя)",
+  "editors": "редакторы",
+  "edward": "Эдвард (имя)",
+  "eight": "восемь",
+  "employers": "работодатели",
+  "ended": "закрыл, прекратил",
+  "entered": "проникла, вошла",
+  "even": "даже",
+  "evening": "вечер",
+  "every": "каждый",
+  "everybody": "все",
+  "everything": "всё",
+  "evidence": "доказательства",
+  "exactly": "именно",
+  "explained": "объяснили",
+  "expose": "разоблачать",
+  "extended": "распространили",
+  "failed": "не сработали",
+  "fake": "поддельный",
+  "false": "ложный",
+  "families": "семьи",
+  "farmhouse": "фермерский дом",
+  "favour": "(in his favour) в его пользу",
+  "fbi": "ФБР",
+  "fbi's": "ФБР (принадлежащий ФБР)",
+  "feared": "которого боялись",
+  "federal": "федеральный",
+  "feeling": "ощущение",
+  "felt": "чувствовали",
+  "few": "несколько",
+  "fifty": "пятьдесят",
+  "fight": "бой",
+  "fighting": "сражались; боролось",
+  "fights": "ссоры, столкновения",
+  "files": "документы, папки",
+  "filing": "(filing cabinets) шкафы для документов",
+  "filled": "наполнили",
+  "finally": "наконец; в конце концов",
+  "find": "найти; (find out) выяснить",
+  "first": "первый",
+  "followed": "следили; последовали",
+  "following": "последующий",
+  "for": "для; в течение; за",
+  "forced": "вынудил",
+  "foreign": "иностранный",
+  "forever": "навсегда",
+  "forty": "сорок",
+  "found": "нашли",
+  "frank": "Фрэнк (имя)",
+  "frazier": "Фрейзер (фамилия)",
+  "fred": "Фред (имя)",
+  "freedom": "свобода",
+  "friendly": "дружественный",
+  "friends": "друзья",
+  "frighten": "запугать",
+  "from": "из, от",
+  "full": "полный, весь",
+  "fully": "полностью",
+  "furious": "в ярости",
+  "gave": "передал; вернули",
+  "general": "(Attorney General) министр юстиции",
+  "get": "(get across) донести",
+  "given": "передал",
+  "goal": "цель",
+  "government": "правительство, государство",
+  "governments": "власти",
+  "group": "группа",
+  "groups": "группы",
+  "guidelines": "правила, руководящие принципы",
+  "had": "(вспом.); было",
+  "hampton": "Хэмптон (фамилия)",
+  "handed": "(handed over) переданы",
+  "happen": "случиться",
+  "happened": "произошёл",
+  "has": "(вспом.)",
+  "have": "(вспом.); иметь",
+  "he": "он",
+  "head": "глава",
+  "heavyweight": "тяжёлый вес",
+  "hidden": "скрытый",
+  "him": "его, ему",
+  "himself": "сам; себя",
+  "his": "его",
+  "historians": "историки",
+  "hold": "занимать (должность)",
+  "homes": "дома, жильё",
+  "hoover": "Гувер (фамилия)",
+  "hoped": "надеялись",
+  "hoping": "надеясь",
+  "hotel": "гостиница",
+  "houses": "палаты (Конгресса)",
+  "how": "как; насколько",
+  "however": "однако",
+  "hundreds": "сотни",
+  "husbands": "мужья",
+  "idaho": "Айдахо (штат)",
+  "ideas": "идеи",
+  "if": "если",
+  "important": "важный",
+  "in": "в",
+  "including": "включая",
+  "influence": "влияние",
+  "information": "информация",
+  "informer": "осведомитель",
+  "informers": "осведомители",
+  "instead": "вместо этого",
+  "intelligence": "разведка; (intelligence agencies) спецслужбы",
+  "interview": "беседовать, допрашивать",
+  "into": "в",
+  "investigate": "расследовать",
+  "investigator": "следователь",
+  "is": "есть, является",
+  "it": "он, она, это",
+  "its": "его, её",
+  "itself": "себя",
+  "j": "Дж. (инициал)",
+  "job": "должность, работа",
+  "jobs": "работа, профессии",
+  "joe": "Джо (имя)",
+  "john": "Джон (имя)",
+  "join": "вступать",
+  "journalists": "журналисты",
+  "jr": "младший (Jr.)",
+  "judge": "судья",
+  "justice": "юстиция",
+  "kept": "хранили",
+  "key": "ключ",
+  "kill": "убить",
+  "killed": "убит",
+  "king": "Кинг (фамилия)",
+  "klan": "клан",
+  "klux": "клукс",
+  "knew": "знали",
+  "know": "знать",
+  "known": "известный",
+  "ku": "ку (Ку-клукс-клан)",
+  "landlords": "арендодатели",
+  "late": "конец (in late 1973 — в конце 1973)",
+  "later": "позже",
+  "law": "закон",
+  "leader": "лидер",
+  "learn": "узнать",
+  "learned": "научился",
+  "led": "руководил; возглавил",
+  "left": "левые",
+  "legal": "законный, установленный законом",
+  "letter": "письмо",
+  "letters": "письма",
+  "lies": "ложь",
+  "limit": "срок, предел",
+  "limited": "ограничил",
+  "listened": "прослушивало; выслушал",
+  "live": "(live to see) дожить",
+  "lives": "жизни",
+  "local": "местный",
+  "locks": "замки",
+  "long": "длинный",
+  "longer": "дольше",
+  "looking": "(looking for) искали",
+  "lost": "потеряли",
+  "loyal": "преданный",
+  "luther": "Лютер (имя)",
+  "made": "сделали",
+  "mailbox": "почтовый ящик",
+  "mailed": "отправили по почте",
+  "make": "сделать; заставить",
+  "man": "человек, мужчина",
+  "many": "многие",
+  "march": "март",
+  "marks": "пометки",
+  "marriages": "браки",
+  "martin": "Мартин (имя)",
+  "mass": "массовый",
+  "material": "материал",
+  "may": "возможно",
+  "means": "означает",
+  "meant": "означало",
+  "meanwhile": "тем временем",
+  "media": "Медиа (город)",
+  "medsger": "Медсгер (фамилия)",
+  "member": "член",
+  "members": "члены, участники",
+  "memo": "служебная записка",
+  "men": "люди, мужчины",
+  "message": "послание",
+  "methods": "методы",
+  "might": "могла бы",
+  "million": "миллион",
+  "millions": "миллионы",
+  "misdirect": "сбивать с толку",
+  "mitchell": "Митчелл (фамилия)",
+  "moment": "момент",
+  "month": "месяц",
+  "more": "больше; чаще",
+  "most": "самый",
+  "mother": "мать",
+  "movement": "движение",
+  "much": "много; намного",
+  "muhammad": "Мухаммед (имя)",
+  "must": "должен",
+  "name": "название",
+  "named": "названы",
+  "names": "имена",
+  "national": "национальный",
+  "nationalist": "националистический",
+  "nature": "суть, природа",
+  "nbc": "NBC (телекомпания)",
+  "near": "недалеко от",
+  "nearly": "почти",
+  "neutralize": "нейтрализовать",
+  "never": "никогда",
+  "new": "новый",
+  "news": "новости",
+  "newspaper": "газета",
+  "newspapers": "газеты",
+  "next": "следующий",
+  "night": "ночь",
+  "nixon": "Никсон (фамилия)",
+  "no": "не; никакой",
+  "nobel": "Нобелевский",
+  "nobody": "никто",
+  "normal": "нормальный",
+  "normally": "обычно",
+  "not": "не",
+  "noticed": "заметили",
+  "of": "(род. падеж); из",
+  "office": "офис",
+  "officers": "полицейские",
+  "officially": "официально",
+  "often": "часто",
+  "old": "(21-year-old) 21-летний",
+  "on": "на; в",
+  "once": "(at once) сразу",
+  "one": "один",
+  "only": "только, единственный",
+  "open": "открывать",
+  "opened": "вскрыла",
+  "operation": "операция",
+  "operations": "операции",
+  "or": "или",
+  "ordinary": "обычный",
+  "organisation": "организация",
+  "organisations": "организации",
+  "other": "другой",
+  "others": "другие",
+  "otherwise": "иным образом",
+  "out": "(find out) выяснить; (ran out) истёк",
+  "outside": "за пределами",
+  "over": "за (годы); поверх; (handed over) переданы",
+  "own": "собственный",
+  "package": "пакет, посылка",
+  "paid": "платили",
+  "panther": "пантера",
+  "paper": "работа; бумага",
+  "papers": "бумаги",
+  "paranoid": "параноики",
+  "part": "часть",
+  "party": "партия",
+  "passed": "(passed on) передан",
+  "pay": "выплатить",
+  "paying": "(paying attention) обращали внимание",
+  "peace": "мир",
+  "peaceful": "мирный",
+  "people": "люди",
+  "people's": "людей",
+  "perhaps": "возможно",
+  "permanent": "постоянный",
+  "philadelphia": "Филадельфия",
+  "physics": "физика",
+  "pieces": "(pieces of information) сведения",
+  "plan": "план",
+  "point": "мысль",
+  "police": "полиция; полицейский",
+  "political": "политический",
+  "politicians": "политики",
+  "politics": "политика",
+  "post": "«Пост» (газета)",
+  "powerful": "могущественный",
+  "prepared": "подготовились",
+  "president": "президент",
+  "pretending": "притворяясь",
+  "print": "напечатать",
+  "prize": "премия",
+  "problem": "проблема",
+  "professional": "профессиональный",
+  "professor": "профессор",
+  "program": "программа",
+  "program's": "программы",
+  "proof": "доказательство",
+  "protecting": "защита",
+  "protested": "протестовали",
+  "protesters": "протестующие",
+  "proved": "доказали",
+  "proven": "доказана",
+  "public": "общество; (in public) публично",
+  "publish": "опубликовать",
+  "published": "опубликованы; опубликовала",
+  "punisher": "каратель, палач",
+  "punishes": "наказывает",
+  "purpose": "(on purpose) намеренно",
+  "push": "толкать, сталкивать",
+  "put": "(put in danger) подвергнуть опасности",
+  "questions": "вопросы",
+  "quiet": "тихий",
+  "racist": "расистский",
+  "raid": "налёт",
+  "raided": "ворвались",
+  "raines": "Рейнс (фамилия)",
+  "raised": "вырастили",
+  "ran": "(ran out) истёк",
+  "read": "(read through) прочитали",
+  "real": "настоящий, реальный",
+  "reason": "причина",
+  "received": "получил",
+  "recorded": "записывало",
+  "recordings": "записи",
+  "records": "документы, записи",
+  "refused": "отказало",
+  "released": "опубликованы",
+  "reporter": "журналист(ка)",
+  "reports": "доклады",
+  "resign": "уйти в отставку",
+  "returned": "вернулись",
+  "revealed": "раскрыл",
+  "revelations": "разоблачения",
+  "richard": "Ричард (имя)",
+  "right": "подходящий; право",
+  "rights": "права",
+  "risked": "рисковали",
+  "rooms": "комнаты; номера",
+  "ruled": "вынес решение",
+  "rules": "правила",
+  "rumours": "слухи",
+  "said": "сказали; говорилось",
+  "sat": "сидели",
+  "saw": "считал",
+  "say": "говорят",
+  "saying": "заявив",
+  "scandal": "скандал",
+  "secret": "тайный; тайна",
+  "secretly": "тайно",
+  "secrets": "тайны",
+  "security": "безопасность",
+  "see": "увидеть",
+  "senate": "Сенат",
+  "senator": "сенатор",
+  "senators": "сенаторы",
+  "sent": "отправлены; отправляли",
+  "sentences": "предложения",
+  "seriously": "серьёзно",
+  "several": "несколько",
+  "she": "она",
+  "shocking": "шокирующий",
+  "short": "(short for) сокращение от",
+  "shortly": "незадолго",
+  "show": "показывать",
+  "showed": "показывали",
+  "side": "сторона",
+  "silence": "молчание",
+  "similar": "похожий",
+  "simply": "просто",
+  "since": "с (какого-то времени)",
+  "single": "единственный, один",
+  "small": "маленький",
+  "snowden": "Сноуден (фамилия)",
+  "so": "поэтому; так что",
+  "socialist": "социалистический",
+  "some": "некоторые",
+  "someone": "кто-то",
+  "sometimes": "иногда",
+  "soon": "вскоре",
+  "sophisticated": "изощрённый",
+  "special": "специальный",
+  "spies": "шпионы",
+  "spoke": "высказались",
+  "spread": "распускали",
+  "stand": "(stand up to) противостоять",
+  "started": "началась",
+  "states": "штаты",
+  "stayed": "оставалась",
+  "stern": "Стерн (фамилия)",
+  "still": "всё ещё",
+  "stolen": "украденный",
+  "stood": "(stood out) выделялся",
+  "stop": "перестать",
+  "stories": "истории",
+  "story": "история; статья",
+  "strange": "странный",
+  "strong": "сильный",
+  "student": "студент(ка); студенческий",
+  "studied": "изучил",
+  "such": "такой",
+  "suitcases": "чемоданы",
+  "surprised": "удивлены",
+  "surveillance": "слежка",
+  "survivors": "выжившие",
+  "suspects": "подозреваемые",
+  "table": "стол",
+  "take": "забрать; (take care) заботиться",
+  "taken": "забрали",
+  "target": "быть направленной против",
+  "targets": "мишени, цели",
+  "teachers": "преподаватели",
+  "telephone": "телефонный",
+  "television": "телевизионный",
+  "telling": "велящий",
+  "ten": "десять",
+  "term": "срок",
+  "than": "чем",
+  "that": "что; который; тот",
+  "the": "(артикль)",
+  "their": "их",
+  "them": "их, им",
+  "themselves": "сами",
+  "then": "затем",
+  "there": "(there was) был",
+  "these": "эти",
+  "they": "они",
+  "thieves": "воры",
+  "thing": "вещь",
+  "think": "думать",
+  "thinking": "думать",
+  "this": "этот, это",
+  "thought": "думали",
+  "thousand": "тысяча",
+  "thousands": "тысячи",
+  "three": "три",
+  "through": "(read through) прочитали",
+  "time": "время, срок",
+  "title": "титул",
+  "to": "к; чтобы; (инфинитив)",
+  "today": "сегодня",
+  "told": "велели; рассказали",
+  "town": "городок",
+  "tried": "пытались",
+  "trusted": "доверяли",
+  "trusting": "доверять",
+  "truth": "правда",
+  "trying": "пыталось",
+  "two": "два",
+  "under": "под; в (обстоятельствах)",
+  "understand": "понимать",
+  "understood": "поняли",
+  "united": "соединённые",
+  "university": "университет",
+  "up": "(stand up to) противостоять",
+  "us": "США",
+  "use": "используют",
+  "used": "воспользовался",
+  "very": "очень",
+  "vietnam": "Вьетнам",
+  "vigilante": "самосудчик",
+  "violent": "жестокий, склонный к насилию",
+  "visited": "побывала",
+  "waiting": "ждали",
+  "wanted": "хотело",
+  "war": "война",
+  "was": "был(а)",
+  "washington": "Вашингтон",
+  "watch": "надзирать",
+  "watching": "следило",
+  "watergate": "Уотергейт",
+  "way": "способ; образ",
+  "we": "мы",
+  "weeks": "недели",
+  "went": "(went to court) обратился в суд",
+  "were": "были",
+  "what": "что",
+  "whatever": "что бы ни; какой бы ни",
+  "when": "когда",
+  "which": "который; какие",
+  "white": "белый",
+  "who": "кто; который",
+  "why": "зачем, почему",
+  "william": "Уильям (имя)",
+  "wiretaps": "прослушивание телефонов",
+  "with": "с",
+  "without": "без",
+  "witnesses": "свидетели",
+  "wives": "жёны",
+  "women": "женщины",
+  "word": "слово",
+  "words": "слова",
+  "working": "работает",
+  "world": "мир",
+  "would": "бы; (буд. в прошедшем)",
+  "writing": "писала",
+  "year": "год",
+  "years": "годы, лет",
+  "york": "Йорк (Нью-Йорк)",
+  "young": "молодой"
+ },
+ "vocab": {
+  "across": 414,
+  "instead": 362,
+  "circumstances": 555,
+  "influence": 564,
+  "stand": 193,
+  "stood": 193,
+  "entered": 62,
+  "pay": 320,
+  "paid": 320,
+  "paying": 320,
+  "push": 196,
+  "marks": 547,
+  "nature": 240,
+  "point": 228,
+  "different": 342,
+  "package": 531,
+  "thieves": 350,
+  "means": 370,
+  "evidence": 528,
+  "hold": 175,
+  "once": 239
+ }
+}

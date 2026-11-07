@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What was the strangest thing about the letters in the tin?",
+  "q_ru": "Что было самым странным в письмах из жестяной коробки?",
+  "options": [
+   "None of them had been opened",
+   "They had no names on them",
+   "They were all written by Edith",
+   "They were written in German"
+  ],
+  "options_ru": [
+   "Ни одно из них не было вскрыто",
+   "На них не было имён",
+   "Все их написала Эдит",
+   "Они были написаны по-немецки"
+  ],
+  "answer": 0,
+  "explain_ru": "В тексте: «The strangest thing, though, was that not one of them had been opened»."
+ },
+ {
+  "q": "Why did Tess believe that Walter had died in the war?",
+  "q_ru": "Почему Тесс решила, что Уолтер погиб на войне?",
+  "options": [
+   "Winifred told her about his death",
+   "The last letter said that he was badly hurt",
+   "A Penney was on the war memorial, and the letters stopped",
+   "The church records said he was killed"
+  ],
+  "options_ru": [
+   "Винифред рассказала ей о его смерти",
+   "В последнем письме говорилось, что он тяжело ранен",
+   "На памятнике была фамилия Пенни, и письма прекратились",
+   "В церковных записях было написано, что он погиб"
+  ],
+  "answer": 2,
+  "explain_ru": "На памятнике было имя одного Пенни (первая буква стёрлась), а письма закончились в октябре 1918-го. Тесс «guessed the rest» — но ошиблась."
+ },
+ {
+  "q": "Walter wrote: \"People talk about courage. I don't think I have any.\" What is \"courage\"?",
+  "q_ru": "Уолтер писал: «People talk about courage. I don't think I have any». Что такое «courage»?",
+  "options": [
+   "Having a lot of money",
+   "Being very clever",
+   "Being lucky in life",
+   "Being brave when you are afraid"
+  ],
+  "options_ru": [
+   "Много денег",
+   "Большой ум",
+   "Везение в жизни",
+   "Смелость, когда тебе страшно"
+  ],
+  "answer": 3,
+  "explain_ru": "Courage — мужество. Уолтер говорит, что боится каждую минуту, но, думая об Эди, находит силы продолжать ещё один день — это и есть смелость."
+ },
+ {
+  "q": "Who was Winifred Penney?",
+  "q_ru": "Кем была Винифред Пенни?",
+  "options": [
+   "Walter's younger sister",
+   "The daughter of Walter and Edith",
+   "Edith's nanny from the big house",
+   "The daughter of Walter's brother Arthur"
+  ],
+  "options_ru": [
+   "Младшей сестрой Уолтера",
+   "Дочерью Уолтера и Эдит",
+   "Няней Эдит из большого дома",
+   "Дочерью Артура, брата Уолтера"
+  ],
+  "answer": 1,
+  "explain_ru": "Когда Тесс назвала имя Уолтер, она сказала: «That was my father». На памятнике было имя его брата Артура."
+ },
+ {
+  "q": "Why were the letters never opened?",
+  "q_ru": "Почему письма так и не открыли?",
+  "options": [
+   "Edith did not love Walter",
+   "Edith's mother hid them from her",
+   "Edith couldn't read and wanted to hear his words first",
+   "Edith was afraid of bad news"
+  ],
+  "options_ru": [
+   "Эдит не любила Уолтера",
+   "Мать Эдит прятала их от неё",
+   "Эдит не умела читать и хотела первой услышать его слова",
+   "Эдит боялась плохих новостей"
+  ],
+  "answer": 2,
+  "explain_ru": "«Because my mother couldn't read». Она не хотела, чтобы кто-то другой услышал его слова раньше неё, а когда он вернулся, сказала: «I don't need the paper»."
+ },
+ {
+  "q": "What did Ruby put under the new kitchen floor?",
+  "q_ru": "Что Руби положила под новый пол на кухне?",
+  "options": [
+   "The original letters for the Hollins family",
+   "A new tin with copies of the letters and her note",
+   "A photograph of Walter and Edie",
+   "A letter to Winifred about the house"
+  ],
+  "options_ru": [
+   "Оригиналы писем для семьи Холлинс",
+   "Новую коробку с копиями писем и своей запиской",
+   "Фотографию Уолтера и Эди",
+   "Письмо Винифред о доме"
+  ],
+  "answer": 1,
+  "explain_ru": "Руби положила «a new tin, with a copy of every letter and a note» — «It is a war story and a love story, and it has a happy ending»."
+ }
+]

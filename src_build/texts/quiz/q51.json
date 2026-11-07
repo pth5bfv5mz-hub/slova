@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What was the main purpose of Operation Northwoods?",
+  "q_ru": "Какова была главная цель операции «Нортвудс»?",
+  "options": [
+   "To protect Kennedy from enemies at home",
+   "To help Cuban refugees reach Florida safely",
+   "To create an excuse for a US attack on Cuba",
+   "To test new aircraft over the Caribbean"
+  ],
+  "options_ru": [
+   "Защитить Кеннеди от врагов внутри страны",
+   "Помочь кубинским беженцам безопасно добраться до Флориды",
+   "Создать повод для нападения США на Кубу",
+   "Испытать новые самолёты над Карибским морем"
+  ],
+  "answer": 2,
+  "explain_ru": "План должен был дать США предлог (pretext) для войны: «Cuba had to look guilty first»."
+ },
+ {
+  "q": "What is a \"false flag\" operation?",
+  "q_ru": "Что такое операция «под ложным флагом»?",
+  "options": [
+   "An attack made to look as if another side did it",
+   "A secret meeting between two enemy countries",
+   "A ship that sails without any flag",
+   "A plan that is written but never used"
+  ],
+  "options_ru": [
+   "Нападение, подстроенное так, будто его совершила другая сторона",
+   "Тайная встреча двух враждующих стран",
+   "Корабль, который ходит без флага",
+   "План, который написали, но не использовали"
+  ],
+  "answer": 0,
+  "explain_ru": "В тексте: «an attack that is carried out by one side but made to look as if another side did it»."
+ },
+ {
+  "q": "What happened to the plan after Lemnitzer sent it to McNamara?",
+  "q_ru": "Что стало с планом после того, как Лемницер отправил его Макнамаре?",
+  "options": [
+   "Part of it was carried out at Guantanamo",
+   "Kennedy approved it but later changed his mind",
+   "It was sent to NATO for discussion",
+   "Civilian leaders rejected it, and it was never used"
+  ],
+  "options_ru": [
+   "Часть его осуществили в Гуантанамо",
+   "Кеннеди одобрил его, но потом передумал",
+   "Его отправили на обсуждение в НАТО",
+   "Гражданские руководители отвергли его, и он так и не был использован"
+  ],
+  "answer": 3,
+  "explain_ru": "Макнамара не одобрил план, Кеннеди отказался применять силу против Кубы: «No part of Northwoods was ever carried out»."
+ },
+ {
+  "q": "How did the Northwoods documents become public?",
+  "q_ru": "Как документы «Нортвудса» стали публичными?",
+  "options": [
+   "A journalist stole them in 1962",
+   "A review board created by a 1992 law released them in 1997",
+   "Fidel Castro published them in Cuba",
+   "They were found in a NATO office in Europe"
+  ],
+  "options_ru": [
+   "Журналист украл их в 1962 году",
+   "Их опубликовала в 1997 году комиссия, созданная законом 1992 года",
+   "Фидель Кастро опубликовал их на Кубе",
+   "Их нашли в офисе НАТО в Европе"
+  ],
+  "answer": 1,
+  "explain_ru": "Закон 1992 года о документах по убийству Кеннеди создал комиссию (Assassination Records Review Board), и записка была опубликована в 1997 году."
+ },
+ {
+  "q": "Why did the review board also collect papers about Cuba?",
+  "q_ru": "Почему комиссия собирала и документы о Кубе?",
+  "options": [
+   "Because Northwoods caused Kennedy's death",
+   "Because Lemnitzer asked it to do so",
+   "Because Cuba was important in many theories about the assassination",
+   "Because McNamara wrote a book about Cuba"
+  ],
+  "options_ru": [
+   "Потому что «Нортвудс» стал причиной смерти Кеннеди",
+   "Потому что об этом попросил Лемницер",
+   "Потому что Куба играла важную роль во многих теориях об убийстве",
+   "Потому что Макнамара написал книгу о Кубе"
+  ],
+  "answer": 2,
+  "explain_ru": "Куба играла важную роль во многих теориях об убийстве, но в самих документах «Нортвудса» нет ничего, что связывало бы их со смертью Кеннеди."
+ },
+ {
+  "q": "According to the article, what does Northwoods NOT prove?",
+  "q_ru": "Чего, согласно статье, «Нортвудс» НЕ доказывает?",
+  "options": [
+   "That later events, like 9/11, were false flag operations",
+   "That top generals proposed fake attacks",
+   "That civilian leaders said no to the plan",
+   "That the plan was kept secret for many years"
+  ],
+  "options_ru": [
+   "Что более поздние события, например 11 сентября, были операциями под ложным флагом",
+   "Что высшие генералы предлагали фальшивые нападения",
+   "Что гражданские руководители отвергли план",
+   "Что план много лет держали в секрете"
+  ],
+  "answer": 0,
+  "explain_ru": "План 1962 года не является доказательством событий через сорок лет; расследования установили, что теракты 11 сентября совершила «Аль-Каида»."
+ }
+]

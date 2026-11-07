@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What does the term \"UFO\" really mean?",
+  "q_ru": "Что на самом деле означает термин «НЛО»?",
+  "options": [
+   "A spaceship from another planet",
+   "A secret military aircraft",
+   "Any object in the sky that people cannot identify",
+   "A Soviet satellite"
+  ],
+  "options_ru": [
+   "Космический корабль с другой планеты",
+   "Секретный военный самолёт",
+   "Любой объект в небе, который люди не могут опознать",
+   "Советский спутник"
+  ],
+  "answer": 2,
+  "explain_ru": "В тексте: UFO — «неопознанный летающий объект», и это не обязательно означает инопланетный корабль."
+ },
+ {
+  "q": "How did Project Blue Book explain the Kecksburg fireball?",
+  "q_ru": "Как «Синяя книга» объяснила огненный шар над Кексбургом?",
+  "options": [
+   "As a meteor",
+   "As a Soviet probe",
+   "As a crashed US aircraft",
+   "As a lighthouse"
+  ],
+  "options_ru": [
+   "Как метеор",
+   "Как советский зонд",
+   "Как разбившийся американский самолёт",
+   "Как маяк"
+  ],
+  "answer": 0,
+  "explain_ru": "ВВС записали огненный шар как метеор, а группа с радиолокационной станции ничего в лесу не нашла."
+ },
+ {
+  "q": "Why is the Kosmos 96 explanation doubtful?",
+  "q_ru": "Почему версия с «Космосом-96» вызывает сомнения?",
+  "options": [
+   "It was launched in 1980",
+   "Tracking data say it came down many hours earlier",
+   "It was an American satellite",
+   "It fell into the Atlantic"
+  ],
+  "options_ru": [
+   "Его запустили в 1980 году",
+   "По данным слежения он упал на много часов раньше",
+   "Это был американский спутник",
+   "Он упал в Атлантику"
+  ],
+  "answer": 1,
+  "explain_ru": "Специалисты в 2003 году заявили, что «Космос-96» упал над Канадой рано утром, за много часов до огненного шара."
+ },
+ {
+  "q": "What is the main weakness of the later Kecksburg witness stories?",
+  "q_ru": "Каков главный недостаток поздних рассказов свидетелей из Кексбурга?",
+  "options": [
+   "They were told by children only",
+   "They were secret until 2003",
+   "They describe a lighthouse",
+   "Most were given 25 or more years later"
+  ],
+  "options_ru": [
+   "Их рассказывали только дети",
+   "Они были секретными до 2003 года",
+   "В них описывается маяк",
+   "Большинство прозвучало спустя 25 лет и больше"
+  ],
+  "answer": 3,
+  "explain_ru": "Рассказы о предмете в форме жёлудя появились спустя десятилетия, а газеты 1965 года такого предмета не описывают."
+ },
+ {
+  "q": "What was the Halt memo?",
+  "q_ru": "Что такое записка Холта?",
+  "options": [
+   "A one-page report to the British Ministry of Defence",
+   "A tape recording made in the forest",
+   "A newspaper article from 1983",
+   "A NASA report on metal fragments"
+  ],
+  "options_ru": [
+   "Одностраничный отчёт для Министерства обороны Великобритании",
+   "Магнитофонная запись, сделанная в лесу",
+   "Газетная статья 1983 года",
+   "Отчёт НАСА о металлических обломках"
+  ],
+  "answer": 0,
+  "explain_ru": "13 января 1981 года подполковник Холт отправил в Министерство обороны одностраничную записку «Необъяснимые огни»."
+ },
+ {
+  "q": "How did Ian Ridpath explain the flashing light seen by Halt's team?",
+  "q_ru": "Как Иан Ридпат объяснил мигающий свет, который видела группа Холта?",
+  "options": [
+   "As a falling satellite",
+   "As a helicopter",
+   "As a secret weapon test",
+   "As the Orford Ness lighthouse"
+  ],
+  "options_ru": [
+   "Как падающий спутник",
+   "Как вертолёт",
+   "Как испытание секретного оружия",
+   "Как маяк Орфорд-Несс"
+  ],
+  "answer": 3,
+  "explain_ru": "Ридпат указал, что свет был в направлении маяка, а интервалы вспышек на записи совпадали с маяком (каждые пять секунд)."
+ }
+]

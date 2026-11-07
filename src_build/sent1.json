@@ -1,0 +1,938 @@
+{
+ "157": {
+  "en": "A good coat will protect you from the cold.",
+  "ru": "Хорошее пальто защитит тебя от холода.",
+  "ek": "protect",
+  "rk": "защитит"
+ },
+ "158": {
+  "en": "The dog brought a long stick from the park.",
+  "ru": "Собака принесла длинную палку из парка.",
+  "ek": "stick",
+  "rk": "палку"
+ },
+ "159": {
+  "en": "I went to work, though I felt bad.",
+  "ru": "Я пошёл на работу, хотя чувствовал себя плохо.",
+  "ek": "though",
+  "rk": "хотя"
+ },
+ "160": {
+  "en": "My grandmother has a cherry tree in her garden.",
+  "ru": "У моей бабушки в саду растёт вишня.",
+  "ek": "cherry",
+  "rk": "вишня"
+ },
+ "161": {
+  "en": "I wish you a happy birthday.",
+  "ru": "Я желаю тебе счастливого дня рождения.",
+  "ek": "wish",
+  "rk": "желаю"
+ },
+ "162": {
+  "en": "You should go to bed early tonight.",
+  "ru": "Ты должен лечь спать сегодня пораньше.",
+  "ek": "should",
+  "rk": "должен"
+ },
+ "163": {
+  "en": "The children read a book about a kind witch.",
+  "ru": "Дети читали книгу о доброй ведьме.",
+  "ek": "witch",
+  "rk": "ведьме"
+ },
+ "164": {
+  "en": "My keys always disappear in the morning.",
+  "ru": "Мои ключи всегда исчезают по утрам.",
+  "ek": "disappear",
+  "rk": "исчезают"
+ },
+ "165": {
+  "en": "Please remind me to buy bread.",
+  "ru": "Пожалуйста, напомни мне купить хлеб.",
+  "ek": "remind",
+  "rk": "напомни"
+ },
+ "166": {
+  "en": "We sat on a big rock by the sea.",
+  "ru": "Мы сидели на большом камне у моря.",
+  "ek": "rock",
+  "rk": "камне"
+ },
+ "167": {
+  "en": "I will try to finish this work today.",
+  "ru": "Я попытаюсь закончить эту работу сегодня.",
+  "ek": "try",
+  "rk": "попытаюсь"
+ },
+ "168": {
+  "en": "The shop is on the other side of the street.",
+  "ru": "Магазин находится на другой стороне улицы.",
+  "ek": "side",
+  "rk": "стороне"
+ },
+ "169": {
+  "en": "I can leave my bag here.",
+  "ru": "Я могу оставить свою сумку здесь.",
+  "ek": "leave",
+  "rk": "оставить"
+ },
+ "170": {
+  "en": "My little sister is a very clever girl.",
+  "ru": "Моя младшая сестра очень умная девочка.",
+  "ek": "clever",
+  "rk": "умная"
+ },
+ "171": {
+  "en": "We saw an amazing sunset last night.",
+  "ru": "Вчера вечером мы видели удивительный закат.",
+  "ek": "amazing",
+  "rk": "удивительный"
+ },
+ "172": {
+  "en": "My neighbour has a crazy idea again.",
+  "ru": "У моего соседа опять сумасшедшая идея.",
+  "ek": "crazy",
+  "rk": "сумасшедшая"
+ },
+ "173": {
+  "en": "I have a pain in my back.",
+  "ru": "У меня боль в спине.",
+  "ek": "pain",
+  "rk": "боль"
+ },
+ "174": {
+  "en": "The two boys started to fight in the yard.",
+  "ru": "Два мальчика начали драться во дворе.",
+  "ek": "fight",
+  "rk": "драться"
+ },
+ "175": {
+  "en": "Can you hold my coffee for a minute?",
+  "ru": "Можешь подержать мой кофе минутку?",
+  "ek": "hold",
+  "rk": "подержать"
+ },
+ "176": {
+  "en": "On Sunday we usually visit my parents.",
+  "ru": "В воскресенье мы обычно навещаем моих родителей.",
+  "ek": "Sunday",
+  "rk": "воскресенье"
+ },
+ "177": {
+  "en": "I think that he is right.",
+  "ru": "Я думаю, что он прав.",
+  "ek": "that",
+  "rk": "что"
+ },
+ "178": {
+  "en": "Can I use your pen, please?",
+  "ru": "Можно мне взять твою ручку, пожалуйста?",
+  "ek": "pen",
+  "rk": "ручку"
+ },
+ "179": {
+  "en": "My son draws a cat with a pencil.",
+  "ru": "Мой сын рисует кошку карандашом.",
+  "ek": "pencil",
+  "rk": "карандашом"
+ },
+ "180": {
+  "en": "Dinner is ready, come to the table.",
+  "ru": "Ужин готов, идите к столу.",
+  "ek": "ready",
+  "rk": "готов"
+ },
+ "181": {
+  "en": "Could you repeat the question, please?",
+  "ru": "Не могли бы вы повторить вопрос, пожалуйста?",
+  "ek": "repeat",
+  "rk": "повторить"
+ },
+ "182": {
+  "en": "It is warm and sunny today.",
+  "ru": "Сегодня тепло и солнечно.",
+  "ek": "warm",
+  "rk": "тепло"
+ },
+ "183": {
+  "en": "We sat by the fireplace all evening.",
+  "ru": "Мы сидели у камина весь вечер.",
+  "ek": "fireplace",
+  "rk": "камина"
+ },
+ "184": {
+  "en": "Please bring me a glass of water.",
+  "ru": "Пожалуйста, принеси мне стакан воды.",
+  "ek": "bring",
+  "rk": "принеси"
+ },
+ "185": {
+  "en": "It may be cold tomorrow, take a jacket.",
+  "ru": "Завтра может быть холодно, возьми куртку.",
+  "ek": "may be",
+  "rk": "может быть"
+ },
+ "186": {
+  "en": "Her face was full of joy.",
+  "ru": "Её лицо было полно радости.",
+  "ek": "joy",
+  "rk": "радости"
+ },
+ "187": {
+  "en": "The sky is blue and clear today.",
+  "ru": "Сегодня небо голубое и ясное.",
+  "ek": "sky",
+  "rk": "небо"
+ },
+ "188": {
+  "en": "I could not sleep last night.",
+  "ru": "Я не мог уснуть прошлой ночью.",
+  "ek": "night",
+  "rk": "ночью"
+ },
+ "189": {
+  "en": "He put a wooden plank across the stream.",
+  "ru": "Он положил деревянную доску через ручей.",
+  "ek": "plank",
+  "rk": "доску"
+ },
+ "190": {
+  "en": "The teacher wrote the date on the board.",
+  "ru": "Учитель написал дату на доске.",
+  "ek": "board",
+  "rk": "доске"
+ },
+ "191": {
+  "en": "The train arrived exactly at six o'clock.",
+  "ru": "Поезд прибыл точно в шесть часов.",
+  "ek": "exactly",
+  "rk": "точно"
+ },
+ "192": {
+  "en": "There were tears in her eyes.",
+  "ru": "У неё в глазах были слёзы.",
+  "ek": "tears",
+  "rk": "слёзы"
+ },
+ "193": {
+  "en": "We had to stand in the bus.",
+  "ru": "Нам пришлось стоять в автобусе.",
+  "ek": "stand",
+  "rk": "стоять"
+ },
+ "194": {
+  "en": "The music in the cafe is too loud.",
+  "ru": "Музыка в кафе слишком громкая.",
+  "ek": "loud",
+  "rk": "громкая"
+ },
+ "195": {
+  "en": "The first stars appear in the evening.",
+  "ru": "Первые звёзды появляются вечером.",
+  "ek": "appear",
+  "rk": "появляются"
+ },
+ "196": {
+  "en": "Push the door hard, it is heavy.",
+  "ru": "Толкни дверь сильно, она тяжёлая.",
+  "ek": "Push",
+  "rk": "Толкни"
+ },
+ "197": {
+  "en": "Please do not scream, the baby is sleeping.",
+  "ru": "Пожалуйста, не кричи, ребёнок спит.",
+  "ek": "scream",
+  "rk": "кричи"
+ },
+ "198": {
+  "en": "Do not talk with your mouth full.",
+  "ru": "Не разговаривай с полным ртом.",
+  "ek": "mouth",
+  "rk": "ртом"
+ },
+ "199": {
+  "en": "I came home late yesterday.",
+  "ru": "Я пришёл домой поздно вчера.",
+  "ek": "late",
+  "rk": "поздно"
+ },
+ "200": {
+  "en": "The fridge is empty, let's go shopping.",
+  "ru": "Холодильник пустой, пойдём в магазин.",
+  "ek": "empty",
+  "rk": "пустой"
+ },
+ "201": {
+  "en": "The house was silent at night.",
+  "ru": "Ночью в доме было тихо.",
+  "ek": "silent",
+  "rk": "тихо"
+ },
+ "202": {
+  "en": "I want to eat something sweet.",
+  "ru": "Я хочу съесть что-то сладкое.",
+  "ek": "something",
+  "rk": "что-то"
+ },
+ "203": {
+  "en": "The view from the mountain was incredible.",
+  "ru": "Вид с горы был невероятный.",
+  "ek": "incredible",
+  "rk": "невероятный"
+ },
+ "204": {
+  "en": "The cat likes to climb the tree.",
+  "ru": "Кошка любит взбираться на дерево.",
+  "ek": "climb",
+  "rk": "взбираться"
+ },
+ "205": {
+  "en": "Please sit on this chair.",
+  "ru": "Пожалуйста, садись на этот стул.",
+  "ek": "chair",
+  "rk": "стул"
+ },
+ "206": {
+  "en": "She wore a bright yellow dress.",
+  "ru": "Она надела яркое жёлтое платье.",
+  "ek": "bright",
+  "rk": "яркое"
+ },
+ "208": {
+  "en": "Keep the milk in the fridge.",
+  "ru": "Держи молоко в холодильнике.",
+  "ek": "Keep",
+  "rk": "Держи"
+ },
+ "209": {
+  "en": "I have never seen such a big dog.",
+  "ru": "Я никогда не видел такую большую собаку.",
+  "ek": "such",
+  "rk": "такую"
+ },
+ "210": {
+  "en": "The child ran toward his mother.",
+  "ru": "Ребёнок побежал к своей маме.",
+  "ek": "toward",
+  "rk": "к"
+ },
+ "211": {
+  "en": "Do you need anything from the shop?",
+  "ru": "Тебе нужно что-либо из магазина?",
+  "ek": "anything",
+  "rk": "что-либо"
+ },
+ "212": {
+  "en": "My neck hurts after work.",
+  "ru": "У меня болит шея после работы.",
+  "ek": "neck",
+  "rk": "шея"
+ },
+ "213": {
+  "en": "Can I have a piece of cake?",
+  "ru": "Можно мне кусок торта?",
+  "ek": "piece",
+  "rk": "кусок"
+ },
+ "214": {
+  "en": "Did you receive my letter?",
+  "ru": "Ты получил моё письмо?",
+  "ek": "receive",
+  "rk": "получил"
+ },
+ "215": {
+  "en": "Everything is fine, do not worry.",
+  "ru": "Всё хорошо, не волнуйся.",
+  "ek": "Everything",
+  "rk": "Всё"
+ },
+ "216": {
+  "en": "In spring the trees become green.",
+  "ru": "Весной деревья становятся зелёными.",
+  "ek": "spring",
+  "rk": "Весной"
+ },
+ "217": {
+  "en": "In autumn it often rains here.",
+  "ru": "Осенью здесь часто идёт дождь.",
+  "ek": "autumn",
+  "rk": "Осенью"
+ },
+ "218": {
+  "en": "I have an English lesson on Thursday.",
+  "ru": "У меня урок английского в четверг.",
+  "ek": "Thursday",
+  "rk": "четверг"
+ },
+ "219": {
+  "en": "On Saturday we clean the flat.",
+  "ru": "В субботу мы убираем квартиру.",
+  "ek": "Saturday",
+  "rk": "субботу"
+ },
+ "220": {
+  "en": "The meeting is on Tuesday morning.",
+  "ru": "Встреча во вторник утром.",
+  "ek": "Tuesday",
+  "rk": "вторник"
+ },
+ "221": {
+  "en": "Cut the onion into small pieces.",
+  "ru": "Нарежь лук маленькими кусочками.",
+  "ek": "onion",
+  "rk": "лук"
+ },
+ "222": {
+  "en": "Your answer is correct, well done.",
+  "ru": "Твой ответ правильный, молодец.",
+  "ek": "correct",
+  "rk": "правильный"
+ },
+ "223": {
+  "en": "We pass the park on our way home.",
+  "ru": "Мы проходим мимо парка по дороге домой.",
+  "ek": "pass",
+  "rk": "проходим"
+ },
+ "224": {
+  "en": "I will remember this day forever.",
+  "ru": "Я буду помнить этот день навсегда.",
+  "ek": "forever",
+  "rk": "навсегда"
+ },
+ "225": {
+  "en": "It is natural to feel tired after work.",
+  "ru": "Естественно чувствовать усталость после работы.",
+  "ek": "natural",
+  "rk": "Естественно"
+ },
+ "226": {
+  "en": "The structure of this house is very strong.",
+  "ru": "Структура этого дома очень прочная.",
+  "ek": "structure",
+  "rk": "Структура"
+ },
+ "227": {
+  "en": "Your bag is similar to mine.",
+  "ru": "Твоя сумка похожа на мою.",
+  "ek": "similar",
+  "rk": "похожа"
+ },
+ "228": {
+  "en": "Our team got ten points today.",
+  "ru": "Наша команда сегодня получила десять баллов.",
+  "ek": "points",
+  "rk": "баллов"
+ },
+ "229": {
+  "en": "I want to be able to swim.",
+  "ru": "Я хочу уметь плавать.",
+  "ek": "be able to",
+  "rk": "уметь"
+ },
+ "230": {
+  "en": "We will meet in the afternoon.",
+  "ru": "Мы встретимся днём.",
+  "ek": "afternoon",
+  "rk": "днём"
+ },
+ "231": {
+  "en": "Cooking is a useful skill.",
+  "ru": "Готовить — полезный навык.",
+  "ek": "skill",
+  "rk": "навык"
+ },
+ "232": {
+  "en": "I slept the whole day.",
+  "ru": "Я спал весь день.",
+  "ek": "whole",
+  "rk": "весь"
+ },
+ "233": {
+  "en": "It is necessary to drink more water.",
+  "ru": "Необходимо пить больше воды.",
+  "ek": "necessary",
+  "rk": "Необходимо"
+ },
+ "234": {
+  "en": "The screen of my phone is broken.",
+  "ru": "Экран моего телефона разбит.",
+  "ek": "screen",
+  "rk": "Экран"
+ },
+ "235": {
+  "en": "I want to improve my English.",
+  "ru": "Я хочу улучшить свой английский.",
+  "ek": "improve",
+  "rk": "улучшить"
+ },
+ "236": {
+  "en": "My goal is to find a better job.",
+  "ru": "Моя цель — найти работу получше.",
+  "ek": "goal",
+  "rk": "цель"
+ },
+ "237": {
+  "en": "In my opinion, this film is boring.",
+  "ru": "По моему мнению, этот фильм скучный.",
+  "ek": "opinion",
+  "rk": "мнению"
+ },
+ "238": {
+  "en": "We walked through the forest to the lake.",
+  "ru": "Мы прошли через лес к озеру.",
+  "ek": "through",
+  "rk": "через"
+ },
+ "239": {
+  "en": "Call me at once when you arrive.",
+  "ru": "Позвони мне сразу, когда приедешь.",
+  "ek": "at once",
+  "rk": "сразу"
+ },
+ "240": {
+  "en": "I love to walk in nature.",
+  "ru": "Я люблю гулять на природе.",
+  "ek": "nature",
+  "rk": "природе"
+ },
+ "241": {
+  "en": "We will reach the city by evening.",
+  "ru": "Мы достигнем города к вечеру.",
+  "ek": "reach",
+  "rk": "достигнем"
+ },
+ "242": {
+  "en": "Take one step forward, please.",
+  "ru": "Сделай шаг вперёд, пожалуйста.",
+  "ek": "forward",
+  "rk": "вперёд"
+ },
+ "243": {
+  "en": "I will stay at home tonight.",
+  "ru": "Сегодня вечером я останусь дома.",
+  "ek": "stay",
+  "rk": "останусь"
+ },
+ "244": {
+  "en": "This book belongs to my brother.",
+  "ru": "Эта книга принадлежит моему брату.",
+  "ek": "belongs",
+  "rk": "принадлежит"
+ },
+ "245": {
+  "en": "The team was sad after the defeat.",
+  "ru": "Команда была грустной после поражения.",
+  "ek": "defeat",
+  "rk": "поражения"
+ },
+ "246": {
+  "en": "Children grow very fast.",
+  "ru": "Дети растут очень быстро.",
+  "ek": "grow",
+  "rk": "растут"
+ },
+ "247": {
+  "en": "She speaks with great confidence.",
+  "ru": "Она говорит с большой уверенностью.",
+  "ek": "confidence",
+  "rk": "уверенностью"
+ },
+ "248": {
+  "en": "My ears are cold without a hat.",
+  "ru": "У меня мёрзнут уши без шапки.",
+  "ek": "ears",
+  "rk": "уши"
+ },
+ "249": {
+  "en": "This time I will not be late.",
+  "ru": "На этот раз я не опоздаю.",
+  "ek": "This time",
+  "rk": "На этот раз"
+ },
+ "250": {
+  "en": "Your health is what really matters.",
+  "ru": "Твоё здоровье — вот что действительно имеет значение.",
+  "ek": "matters",
+  "rk": "имеет значение"
+ },
+ "251": {
+  "en": "Sorry, I am busy right now.",
+  "ru": "Извини, я сейчас занят.",
+  "ek": "busy",
+  "rk": "занят"
+ },
+ "252": {
+  "en": "She is upset because she lost her phone.",
+  "ru": "Она расстроена, потому что потеряла телефон.",
+  "ek": "upset",
+  "rk": "расстроена"
+ },
+ "253": {
+  "en": "He has an ability to learn languages fast.",
+  "ru": "У него есть способность быстро учить языки.",
+  "ek": "ability",
+  "rk": "способность"
+ },
+ "254": {
+  "en": "It is hard to express my feelings.",
+  "ru": "Мне трудно выражать свои чувства.",
+  "ek": "express",
+  "rk": "выражать"
+ },
+ "255": {
+  "en": "The boy likes to pretend he is sleeping.",
+  "ru": "Мальчик любит притворяться, что спит.",
+  "ek": "pretend",
+  "rk": "притворяться"
+ },
+ "256": {
+  "en": "You need permission to park here.",
+  "ru": "Тебе нужно разрешение, чтобы парковаться здесь.",
+  "ek": "permission",
+  "rk": "разрешение"
+ },
+ "257": {
+  "en": "Please reply to my message soon.",
+  "ru": "Пожалуйста, ответь на моё сообщение поскорее.",
+  "ek": "reply",
+  "rk": "ответь"
+ },
+ "258": {
+  "en": "Do not worry, everything will be fine.",
+  "ru": "Не волнуйся, всё будет хорошо.",
+  "ek": "worry",
+  "rk": "волнуйся"
+ },
+ "259": {
+  "en": "I always compare prices in different shops.",
+  "ru": "Я всегда сравниваю цены в разных магазинах.",
+  "ek": "compare",
+  "rk": "сравниваю"
+ },
+ "260": {
+  "en": "Do you think ghosts really exist?",
+  "ru": "Ты думаешь, призраки действительно существуют?",
+  "ek": "exist",
+  "rk": "существуют"
+ },
+ "261": {
+  "en": "I will send you a photo tonight.",
+  "ru": "Я отправлю тебе фото сегодня вечером.",
+  "ek": "send",
+  "rk": "отправлю"
+ },
+ "262": {
+  "en": "A big advantage of this flat is the view.",
+  "ru": "Большое преимущество этой квартиры — вид.",
+  "ek": "advantage",
+  "rk": "преимущество"
+ },
+ "263": {
+  "en": "Can you prove that you are right?",
+  "ru": "Можешь доказать, что ты прав?",
+  "ek": "prove",
+  "rk": "доказать"
+ },
+ "264": {
+  "en": "This app is very useful for travel.",
+  "ru": "Это приложение очень полезное для путешествий.",
+  "ek": "useful",
+  "rk": "полезное"
+ },
+ "265": {
+  "en": "The fish in the bucket is still alive.",
+  "ru": "Рыба в ведре ещё живая.",
+  "ek": "alive",
+  "rk": "живая"
+ },
+ "266": {
+  "en": "It is unusual to see snow in May.",
+  "ru": "Необычно видеть снег в мае.",
+  "ek": "unusual",
+  "rk": "Необычно"
+ },
+ "267": {
+  "en": "I am not tired at all.",
+  "ru": "Я совсем не устал.",
+  "ek": "at all",
+  "rk": "совсем"
+ },
+ "268": {
+  "en": "The cunning fox stole the cheese.",
+  "ru": "Хитрая лиса украла сыр.",
+  "ek": "cunning",
+  "rk": "Хитрая"
+ },
+ "269": {
+  "en": "Let's order a pizza for dinner.",
+  "ru": "Давай закажем пиццу на ужин.",
+  "ek": "order",
+  "rk": "закажем"
+ },
+ "270": {
+  "en": "Can I offer you a cup of tea?",
+  "ru": "Могу я предложить тебе чашку чая?",
+  "ek": "offer",
+  "rk": "предложить"
+ },
+ "271": {
+  "en": "Please pay attention to the road.",
+  "ru": "Пожалуйста, обращай внимание на дорогу.",
+  "ek": "attention",
+  "rk": "внимание"
+ },
+ "272": {
+  "en": "I accept your offer with pleasure.",
+  "ru": "Я с удовольствием принимаю твоё предложение.",
+  "ek": "accept",
+  "rk": "принимаю"
+ },
+ "273": {
+  "en": "He has a fear of dogs.",
+  "ru": "У него страх перед собаками.",
+  "ek": "fear",
+  "rk": "страх"
+ },
+ "274": {
+  "en": "The concert is in the big hall.",
+  "ru": "Концерт проходит в большом зале.",
+  "ek": "hall",
+  "rk": "зале"
+ },
+ "275": {
+  "en": "Our trip to the mountains was great.",
+  "ru": "Наша поездка в горы была отличной.",
+  "ek": "trip",
+  "rk": "поездка"
+ },
+ "276": {
+  "en": "The children play in the sand.",
+  "ru": "Дети играют в песке.",
+  "ek": "sand",
+  "rk": "песке"
+ },
+ "277": {
+  "en": "Her husband is a tall, handsome man.",
+  "ru": "Её муж — высокий красивый мужчина.",
+  "ek": "handsome",
+  "rk": "красивый"
+ },
+ "278": {
+  "en": "I heard a strange noise outside.",
+  "ru": "Я услышал странный шум на улице.",
+  "ek": "strange",
+  "rk": "странный"
+ },
+ "279": {
+  "en": "I do not understand the meaning of this word.",
+  "ru": "Я не понимаю смысл этого слова.",
+  "ek": "meaning",
+  "rk": "смысл"
+ },
+ "280": {
+  "en": "What do you mean?",
+  "ru": "Что ты имеешь в виду?",
+  "ek": "mean",
+  "rk": "имеешь в виду"
+ },
+ "281": {
+  "en": "My friend works as a lawyer.",
+  "ru": "Мой друг работает юристом.",
+  "ek": "lawyer",
+  "rk": "юристом"
+ },
+ "282": {
+  "en": "I miss my family very much.",
+  "ru": "Я очень скучаю по своей семье.",
+  "ek": "miss",
+  "rk": "скучаю"
+ },
+ "283": {
+  "en": "He wants to marry her next year.",
+  "ru": "Он хочет жениться на ней в следующем году.",
+  "ek": "marry",
+  "rk": "жениться"
+ },
+ "284": {
+  "en": "Can I pay in cash?",
+  "ru": "Можно заплатить наличными?",
+  "ek": "cash",
+  "rk": "наличными"
+ },
+ "285": {
+  "en": "She wears a gold ring on her finger.",
+  "ru": "Она носит золотое кольцо на пальце.",
+  "ek": "ring",
+  "rk": "кольцо"
+ },
+ "286": {
+  "en": "I will call you after work.",
+  "ru": "Я позвоню тебе после работы.",
+  "ek": "call",
+  "rk": "позвоню"
+ },
+ "287": {
+  "en": "We saw a snake in the grass.",
+  "ru": "Мы увидели змею в траве.",
+  "ek": "snake",
+  "rk": "змею"
+ },
+ "288": {
+  "en": "He is wearing a white shirt today.",
+  "ru": "Сегодня на нём белая рубашка.",
+  "ek": "shirt",
+  "rk": "рубашка"
+ },
+ "290": {
+  "en": "Our plane leaves at nine in the morning.",
+  "ru": "Наш самолёт вылетает в девять утра.",
+  "ek": "plane",
+  "rk": "самолёт"
+ },
+ "291": {
+  "en": "The baby has milk on his chin.",
+  "ru": "У малыша молоко на подбородке.",
+  "ek": "chin",
+  "rk": "подбородке"
+ },
+ "292": {
+  "en": "This street is safe at night.",
+  "ru": "Эта улица безопасная ночью.",
+  "ek": "safe",
+  "rk": "безопасная"
+ },
+ "293": {
+  "en": "We took a tour of the old town.",
+  "ru": "Мы поехали на экскурсию по старому городу.",
+  "ek": "tour",
+  "rk": "экскурсию"
+ },
+ "294": {
+  "en": "The table is too low for me.",
+  "ru": "Стол слишком низкий для меня.",
+  "ek": "low",
+  "rk": "низкий"
+ },
+ "295": {
+  "en": "Let's meet at the mall on Saturday.",
+  "ru": "Давай встретимся в торговом центре в субботу.",
+  "ek": "mall",
+  "rk": "торговом центре"
+ },
+ "296": {
+  "en": "My brother is tall and thin.",
+  "ru": "Мой брат высокий и худой.",
+  "ek": "thin",
+  "rk": "худой"
+ },
+ "297": {
+  "en": "My kids often argue about the TV.",
+  "ru": "Мои дети часто спорят из-за телевизора.",
+  "ek": "argue",
+  "rk": "спорят"
+ },
+ "298": {
+  "en": "We have the same phone.",
+  "ru": "У нас такой же телефон.",
+  "ek": "same",
+  "rk": "такой же"
+ },
+ "299": {
+  "en": "The cost of the trip is too high.",
+  "ru": "Стоимость поездки слишком высокая.",
+  "ek": "cost",
+  "rk": "Стоимость"
+ },
+ "300": {
+  "en": "I usually wear jeans at home.",
+  "ru": "Дома я обычно ношу джинсы.",
+  "ek": "wear",
+  "rk": "ношу"
+ },
+ "301": {
+  "en": "This restaurant is too expensive for us.",
+  "ru": "Этот ресторан слишком дорогой для нас.",
+  "ek": "expensive",
+  "rk": "дорогой"
+ },
+ "302": {
+  "en": "Reading is good for the mind.",
+  "ru": "Чтение полезно для ума.",
+  "ek": "mind",
+  "rk": "ума"
+ },
+ "303": {
+  "en": "We want to explore the old city.",
+  "ru": "Мы хотим исследовать старый город.",
+  "ek": "explore",
+  "rk": "исследовать"
+ },
+ "304": {
+  "en": "The river is very wide here.",
+  "ru": "Река здесь очень широкая.",
+  "ek": "wide",
+  "rk": "широкая"
+ },
+ "305": {
+  "en": "A black crow is sitting on the roof.",
+  "ru": "На крыше сидит чёрная ворона.",
+  "ek": "crow",
+  "rk": "ворона"
+ },
+ "306": {
+  "en": "Wait for me at the main entrance.",
+  "ru": "Жди меня у главного входа.",
+  "ek": "entrance",
+  "rk": "входа"
+ },
+ "307": {
+  "en": "Security checked our bags at the door.",
+  "ru": "Охрана проверила наши сумки у двери.",
+  "ek": "Security",
+  "rk": "Охрана"
+ },
+ "308": {
+  "en": "I will certainly help you.",
+  "ru": "Я конечно помогу тебе.",
+  "ek": "certainly",
+  "rk": "конечно"
+ },
+ "309": {
+  "en": "I am glad to see you.",
+  "ru": "Я рад тебя видеть.",
+  "ek": "glad",
+  "rk": "рад"
+ },
+ "310": {
+  "en": "There is an insect in my soup.",
+  "ru": "В моём супе насекомое.",
+  "ek": "insect",
+  "rk": "насекомое"
+ },
+ "311": {
+  "en": "Brush your teeth before bed.",
+  "ru": "Почисти зубы перед сном.",
+  "ek": "teeth",
+  "rk": "зубы"
+ },
+ "312": {
+  "en": "The end of the film was very touching.",
+  "ru": "Конец фильма был очень трогательным.",
+  "ek": "touching",
+  "rk": "трогательным"
+ },
+ "313": {
+  "en": "Each child got a small gift.",
+  "ru": "Каждый ребёнок получил маленький подарок.",
+  "ek": "Each",
+  "rk": "Каждый"
+ },
+ "314": {
+  "en": "We need a map of the city.",
+  "ru": "Нам нужна карта города.",
+  "ek": "map",
+  "rk": "карта"
+ }
+}

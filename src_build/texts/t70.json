@@ -1,0 +1,1350 @@
+{
+ "id": 70,
+ "level": "B1",
+ "cat": "cons",
+ "title_en": "Voices in the Static: The Secret World of Numbers Stations",
+ "title_ru": "Голоса сквозь помехи: тайный мир номерных радиостанций",
+ "genre": "Конспирология: правда",
+ "summary_ru": "Загадочные радиостанции, которые десятилетиями читают в эфир цифры, долго считались легендой радиолюбителей — пока суд над «Кубинской пятёркой» в 2001 году не показал, как с их помощью отдают приказы шпионам.",
+ "paragraphs": [
+  {
+   "en": "Imagine turning the dial of an old shortwave radio late at night. Through the noise, you suddenly hear a few notes of a cheerful English folk tune, repeated again and again. Then a calm female voice begins to read numbers: \"Six, two, nine, four, one. Eight, eight, zero, three, seven.\" There is no news, no music programme, no advertisement and no explanation. After some minutes the voice stops, and there is only noise again.",
+   "ru": "Представьте, что поздно ночью вы крутите ручку настройки старого коротковолнового радиоприёмника. Сквозь шум вы вдруг слышите несколько нот весёлой английской народной мелодии, которая повторяется снова и снова. Затем спокойный женский голос начинает читать цифры: «Шесть, два, девять, четыре, один. Восемь, восемь, ноль, три, семь». Нет ни новостей, ни музыкальной программы, ни рекламы, ни объяснений. Через несколько минут голос замолкает, и снова остаётся лишь шум.",
+   "s": [
+    [
+     "Imagine turning the dial of an old shortwave radio late at night.",
+     "Представьте, что поздно ночью вы крутите ручку настройки старого коротковолнового радиоприёмника."
+    ],
+    [
+     "Through the noise, you suddenly hear a few notes of a cheerful English folk tune, repeated again and again.",
+     "Сквозь шум вы вдруг слышите несколько нот весёлой английской народной мелодии, которая повторяется снова и снова."
+    ],
+    [
+     "Then a calm female voice begins to read numbers: \"Six, two, nine, four, one. Eight, eight, zero, three, seven.\"",
+     "Затем спокойный женский голос начинает читать цифры: «Шесть, два, девять, четыре, один. Восемь, восемь, ноль, три, семь»."
+    ],
+    [
+     "There is no news, no music programme, no advertisement and no explanation.",
+     "Нет ни новостей, ни музыкальной программы, ни рекламы, ни объяснений."
+    ],
+    [
+     "After some minutes the voice stops, and there is only noise again.",
+     "Через несколько минут голос замолкает, и снова остаётся лишь шум."
+    ]
+   ]
+  },
+  {
+   "en": "For decades, radio fans around the world heard broadcasts like this and asked the same questions. Who was speaking? Who was listening? And what did the numbers mean? Fans called these mysterious broadcasts \"numbers stations\". For a long time, governments refused to say anything about them, and that silence was perfect food for rumours. Today we know much more, partly thanks to an unusual court case in Miami in 2001.",
+   "ru": "Десятилетиями радиолюбители по всему миру слышали подобные передачи и задавали одни и те же вопросы. Кто говорил? Кто слушал? И что означали эти цифры? Любители назвали эти загадочные передачи «номерными станциями». Долгое время правительства отказывались что-либо о них говорить, и это молчание было идеальной пищей для слухов. Сегодня мы знаем гораздо больше, отчасти благодаря необычному судебному делу в Майами в 2001 году.",
+   "s": [
+    [
+     "For decades, radio fans around the world heard broadcasts like this and asked the same questions.",
+     "Десятилетиями радиолюбители по всему миру слышали подобные передачи и задавали одни и те же вопросы."
+    ],
+    [
+     "Who was speaking?",
+     "Кто говорил?"
+    ],
+    [
+     "Who was listening?",
+     "Кто слушал?"
+    ],
+    [
+     "And what did the numbers mean?",
+     "И что означали эти цифры?"
+    ],
+    [
+     "Fans called these mysterious broadcasts \"numbers stations\".",
+     "Любители назвали эти загадочные передачи «номерными станциями»."
+    ],
+    [
+     "For a long time, governments refused to say anything about them, and that silence was perfect food for rumours.",
+     "Долгое время правительства отказывались что-либо о них говорить, и это молчание было идеальной пищей для слухов."
+    ],
+    [
+     "Today we know much more, partly thanks to an unusual court case in Miami in 2001.",
+     "Сегодня мы знаем гораздо больше, отчасти благодаря необычному судебному делу в Майами в 2001 году."
+    ]
+   ]
+  },
+  {
+   "en": "To understand numbers stations, you first need to understand shortwave radio. Ordinary FM radio signals travel only a limited distance, but shortwave signals can bounce off a layer of the upper atmosphere and come back down thousands of kilometres away. This means that a transmitter in one country can reach a small, cheap receiver on another continent. Anyone can listen, and that is exactly the point.",
+   "ru": "Чтобы понять номерные станции, сначала нужно разобраться, что такое коротковолновое радио. Сигналы обычного FM-радио распространяются лишь на ограниченное расстояние, а коротковолновые сигналы могут отражаться от слоя верхней атмосферы и возвращаться на землю за тысячи километров. Это значит, что передатчик в одной стране может достать до маленького дешёвого приёмника на другом континенте. Слушать может кто угодно, и именно в этом суть.",
+   "s": [
+    [
+     "To understand numbers stations, you first need to understand shortwave radio.",
+     "Чтобы понять номерные станции, сначала нужно разобраться, что такое коротковолновое радио."
+    ],
+    [
+     "Ordinary FM radio signals travel only a limited distance, but shortwave signals can bounce off a layer of the upper atmosphere and come back down thousands of kilometres away.",
+     "Сигналы обычного FM-радио распространяются лишь на ограниченное расстояние, а коротковолновые сигналы могут отражаться от слоя верхней атмосферы и возвращаться на землю за тысячи километров."
+    ],
+    [
+     "This means that a transmitter in one country can reach a small, cheap receiver on another continent.",
+     "Это значит, что передатчик в одной стране может достать до маленького дешёвого приёмника на другом континенте."
+    ],
+    [
+     "Anyone can listen, and that is exactly the point.",
+     "Слушать может кто угодно, и именно в этом суть."
+    ]
+   ]
+  },
+  {
+   "en": "Imagine that you are a spy in a foreign country, trying to steal military secrets. Your bosses at home need to send you instructions, but every letter, phone call or email could be watched or traced. A radio broadcast is different. Thousands of people might be listening to the same frequency, and an ordinary receiver only receives: it sends nothing back, so there is no record of who is listening. The spy only needs to know the schedule, that is, the day, time and frequency of the broadcast, and to sit quietly with a pencil and paper.",
+   "ru": "Представьте, что вы шпион в чужой стране и пытаетесь похитить военные секреты. Вашему начальству на родине нужно передавать вам инструкции, но любое письмо, телефонный звонок или электронное письмо могут перехватить или отследить. С радиопередачей всё иначе. Ту же частоту могут слушать тысячи людей, а обычный приёмник только принимает: он ничего не передаёт обратно, поэтому не остаётся никаких записей о том, кто слушает. Шпиону нужно лишь знать расписание, то есть день, время и частоту передачи, и тихо сидеть с карандашом и бумагой.",
+   "s": [
+    [
+     "Imagine that you are a spy in a foreign country, trying to steal military secrets.",
+     "Представьте, что вы шпион в чужой стране и пытаетесь похитить военные секреты."
+    ],
+    [
+     "Your bosses at home need to send you instructions, but every letter, phone call or email could be watched or traced.",
+     "Вашему начальству на родине нужно передавать вам инструкции, но любое письмо, телефонный звонок или электронное письмо могут перехватить или отследить."
+    ],
+    [
+     "A radio broadcast is different.",
+     "С радиопередачей всё иначе."
+    ],
+    [
+     "Thousands of people might be listening to the same frequency, and an ordinary receiver only receives: it sends nothing back, so there is no record of who is listening.",
+     "Ту же частоту могут слушать тысячи людей, а обычный приёмник только принимает: он ничего не передаёт обратно, поэтому не остаётся никаких записей о том, кто слушает."
+    ],
+    [
+     "The spy only needs to know the schedule, that is, the day, time and frequency of the broadcast, and to sit quietly with a pencil and paper.",
+     "Шпиону нужно лишь знать расписание, то есть день, время и частоту передачи, и тихо сидеть с карандашом и бумагой."
+    ]
+   ]
+  },
+  {
+   "en": "Of course, if anyone can listen, the message must be impossible for strangers to understand. This is where the \"one-time pad\" becomes important. A one-time pad is a list of completely random numbers, usually printed in a tiny booklet or on special paper. Only two copies exist: one for the sender and one for the spy. The sender turns the secret message into numbers and then adds the random numbers from the pad, digit by digit, without carrying any tens. The spy, who has the same page, simply subtracts the random numbers to get the original message back.",
+   "ru": "Разумеется, если слушать может кто угодно, посторонние не должны иметь никакой возможности понять сообщение. Здесь и становится важен «одноразовый блокнот». Одноразовый блокнот — это список совершенно случайных чисел, обычно напечатанный в крошечной книжечке или на специальной бумаге. Существуют только две копии: одна у отправителя и одна у шпиона. Отправитель превращает секретное сообщение в цифры, а затем прибавляет к ним случайные числа из блокнота, цифра за цифрой, без переноса десятков. Шпион, у которого есть такая же страница, просто вычитает случайные числа и получает исходное сообщение.",
+   "s": [
+    [
+     "Of course, if anyone can listen, the message must be impossible for strangers to understand.",
+     "Разумеется, если слушать может кто угодно, посторонние не должны иметь никакой возможности понять сообщение."
+    ],
+    [
+     "This is where the \"one-time pad\" becomes important.",
+     "Здесь и становится важен «одноразовый блокнот»."
+    ],
+    [
+     "A one-time pad is a list of completely random numbers, usually printed in a tiny booklet or on special paper.",
+     "Одноразовый блокнот — это список совершенно случайных чисел, обычно напечатанный в крошечной книжечке или на специальной бумаге."
+    ],
+    [
+     "Only two copies exist: one for the sender and one for the spy.",
+     "Существуют только две копии: одна у отправителя и одна у шпиона."
+    ],
+    [
+     "The sender turns the secret message into numbers and then adds the random numbers from the pad, digit by digit, without carrying any tens.",
+     "Отправитель превращает секретное сообщение в цифры, а затем прибавляет к ним случайные числа из блокнота, цифра за цифрой, без переноса десятков."
+    ],
+    [
+     "The spy, who has the same page, simply subtracts the random numbers to get the original message back.",
+     "Шпион, у которого есть такая же страница, просто вычитает случайные числа и получает исходное сообщение."
+    ]
+   ]
+  },
+  {
+   "en": "Here is a simple example. If the message contains the digit 7 and the pad says 5, the sender writes 2, because 7 plus 5 is 12 and only the last digit is kept. The spy sees 2, looks at the 5 on the pad and works backwards to 7. To someone without the pad, the 2 could mean anything. In the 1940s the American mathematician Claude Shannon proved that this system cannot be broken if the key is truly random, at least as long as the message, kept secret and never used again. After a message has been decoded, the page is destroyed, which is why the pad is called \"one-time\".",
+   "ru": "Вот простой пример. Если в сообщении есть цифра 7, а в блокноте стоит 5, отправитель записывает 2, потому что 7 плюс 5 — это 12, и сохраняется только последняя цифра. Шпион видит 2, смотрит на 5 в блокноте и восстанавливает 7. Для того, у кого нет блокнота, эта двойка может означать что угодно. В 1940-х годах американский математик Клод Шеннон доказал, что эту систему невозможно взломать, если ключ действительно случайный, не короче самого сообщения, хранится в тайне и больше никогда не используется. После расшифровки сообщения страницу уничтожают, поэтому блокнот и называют «одноразовым».",
+   "s": [
+    [
+     "Here is a simple example.",
+     "Вот простой пример."
+    ],
+    [
+     "If the message contains the digit 7 and the pad says 5, the sender writes 2, because 7 plus 5 is 12 and only the last digit is kept.",
+     "Если в сообщении есть цифра 7, а в блокноте стоит 5, отправитель записывает 2, потому что 7 плюс 5 — это 12, и сохраняется только последняя цифра."
+    ],
+    [
+     "The spy sees 2, looks at the 5 on the pad and works backwards to 7.",
+     "Шпион видит 2, смотрит на 5 в блокноте и восстанавливает 7."
+    ],
+    [
+     "To someone without the pad, the 2 could mean anything.",
+     "Для того, у кого нет блокнота, эта двойка может означать что угодно."
+    ],
+    [
+     "In the 1940s the American mathematician Claude Shannon proved that this system cannot be broken if the key is truly random, at least as long as the message, kept secret and never used again.",
+     "В 1940-х годах американский математик Клод Шеннон доказал, что эту систему невозможно взломать, если ключ действительно случайный, не короче самого сообщения, хранится в тайне и больше никогда не используется."
+    ],
+    [
+     "After a message has been decoded, the page is destroyed, which is why the pad is called \"one-time\".",
+     "После расшифровки сообщения страницу уничтожают, поэтому блокнот и называют «одноразовым»."
+    ]
+   ]
+  },
+  {
+   "en": "The rule \"never use it twice\" is not a small detail. During the Second World War, Soviet intelligence was under great pressure to produce huge numbers of pads, and some pages were printed more than once. American code-breakers in a secret project later known as Venona noticed this mistake and, after years of work, were able to read, fully or partly, around 3,000 Soviet messages. The project stayed secret until 1995, when the US government released the documents. One careless shortcut had made a perfect system weak.",
+   "ru": "Правило «никогда не использовать дважды» — не мелочь. Во время Второй мировой войны советская разведка была вынуждена в спешке выпускать огромное количество блокнотов, и некоторые страницы были напечатаны более одного раза. Американские дешифровщики из секретного проекта, позже получившего название «Венона», заметили эту ошибку и после многих лет работы смогли прочитать, полностью или частично, около 3000 советских сообщений. Проект оставался секретным до 1995 года, когда правительство США обнародовало документы. Одно небрежное упрощение сделало идеальную систему слабой.",
+   "s": [
+    [
+     "The rule \"never use it twice\" is not a small detail.",
+     "Правило «никогда не использовать дважды» — не мелочь."
+    ],
+    [
+     "During the Second World War, Soviet intelligence was under great pressure to produce huge numbers of pads, and some pages were printed more than once.",
+     "Во время Второй мировой войны советская разведка была вынуждена в спешке выпускать огромное количество блокнотов, и некоторые страницы были напечатаны более одного раза."
+    ],
+    [
+     "American code-breakers in a secret project later known as Venona noticed this mistake and, after years of work, were able to read, fully or partly, around 3,000 Soviet messages.",
+     "Американские дешифровщики из секретного проекта, позже получившего название «Венона», заметили эту ошибку и после многих лет работы смогли прочитать, полностью или частично, около 3000 советских сообщений."
+    ],
+    [
+     "The project stayed secret until 1995, when the US government released the documents.",
+     "Проект оставался секретным до 1995 года, когда правительство США обнародовало документы."
+    ],
+    [
+     "One careless shortcut had made a perfect system weak.",
+     "Одно небрежное упрощение сделало идеальную систему слабой."
+    ]
+   ]
+  },
+  {
+   "en": "Numbers broadcasts are not new. Coded radio messages were used in both world wars, but numbers stations became really common during the Cold War, when the intelligence services of East and West were constantly watching each other. Radio fans in Europe could hear voices reading numbers in German, English, Russian, Spanish, Czech and other languages. Some stations used recordings of women or even children; others sent the numbers in Morse code, a system of short and long signals. Each one had its own style, and fans gave them nicknames.",
+   "ru": "Передачи с цифрами — не новость. Шифрованные радиосообщения использовались в обеих мировых войнах, но номерные станции стали по-настоящему распространены во время холодной войны, когда спецслужбы Востока и Запада постоянно следили друг за другом. Радиолюбители в Европе могли слышать голоса, читающие цифры на немецком, английском, русском, испанском, чешском и других языках. Одни станции использовали записи женских или даже детских голосов, другие передавали цифры азбукой Морзе — системой коротких и длинных сигналов. У каждой был свой стиль, и любители давали им прозвища.",
+   "s": [
+    [
+     "Numbers broadcasts are not new.",
+     "Передачи с цифрами — не новость."
+    ],
+    [
+     "Coded radio messages were used in both world wars, but numbers stations became really common during the Cold War, when the intelligence services of East and West were constantly watching each other.",
+     "Шифрованные радиосообщения использовались в обеих мировых войнах, но номерные станции стали по-настоящему распространены во время холодной войны, когда спецслужбы Востока и Запада постоянно следили друг за другом."
+    ],
+    [
+     "Radio fans in Europe could hear voices reading numbers in German, English, Russian, Spanish, Czech and other languages.",
+     "Радиолюбители в Европе могли слышать голоса, читающие цифры на немецком, английском, русском, испанском, чешском и других языках."
+    ],
+    [
+     "Some stations used recordings of women or even children; others sent the numbers in Morse code, a system of short and long signals.",
+     "Одни станции использовали записи женских или даже детских голосов, другие передавали цифры азбукой Морзе — системой коротких и длинных сигналов."
+    ],
+    [
+     "Each one had its own style, and fans gave them nicknames.",
+     "У каждой был свой стиль, и любители давали им прозвища."
+    ]
+   ]
+  },
+  {
+   "en": "In 1997, a small British record company released The Conet Project, a set of four CDs full of recordings of numbers stations that radio fans had collected over many years. The strange, gentle voices and electronic tunes surprised many listeners and made numbers stations famous far beyond the world of radio hobbyists. Musicians and film-makers began using the sounds in their work.",
+   "ru": "В 1997 году небольшая британская звукозаписывающая компания выпустила «The Conet Project» — набор из четырёх компакт-дисков с записями номерных станций, которые радиолюбители собирали много лет. Странные, мягкие голоса и электронные мелодии удивили многих слушателей и сделали номерные станции знаменитыми далеко за пределами мира радиолюбителей. Музыканты и кинематографисты начали использовать эти звуки в своих работах.",
+   "s": [
+    [
+     "In 1997, a small British record company released The Conet Project, a set of four CDs full of recordings of numbers stations that radio fans had collected over many years.",
+     "В 1997 году небольшая британская звукозаписывающая компания выпустила «The Conet Project» — набор из четырёх компакт-дисков с записями номерных станций, которые радиолюбители собирали много лет."
+    ],
+    [
+     "The strange, gentle voices and electronic tunes surprised many listeners and made numbers stations famous far beyond the world of radio hobbyists.",
+     "Странные, мягкие голоса и электронные мелодии удивили многих слушателей и сделали номерные станции знаменитыми далеко за пределами мира радиолюбителей."
+    ],
+    [
+     "Musicians and film-makers began using the sounds in their work.",
+     "Музыканты и кинематографисты начали использовать эти звуки в своих работах."
+    ]
+   ]
+  },
+  {
+   "en": "The most famous English-language station was the one heard at the beginning of this story. Fans named it \"The Lincolnshire Poacher\" after the English folk song whose first notes it played before the numbers. A poacher is a person who hunts animals illegally on someone else's land, which seemed a lovely little joke for a station that probably served secret agents. The voice read groups of five numbers in English, and the broadcasts followed a consistent schedule. By measuring the direction of the signal, radio fans concluded that it came from a British military base on Cyprus, and most of them assumed that the station was run by MI6, the British foreign intelligence service. The British government has never officially confirmed this. In 2008 the Lincolnshire Poacher went silent; it seems to have been shut down.",
+   "ru": "Самой знаменитой англоязычной станцией была та, которую мы услышали в начале этой истории. Любители назвали её «Линкольнширский браконьер» — по английской народной песне, первые ноты которой звучали перед цифрами. Браконьер — это человек, который незаконно охотится на животных на чужой земле, и это казалось милой шуткой для станции, которая, вероятно, обслуживала секретных агентов. Голос читал группы по пять цифр на английском, а передачи шли по постоянному расписанию. Определяя направление сигнала, радиолюбители пришли к выводу, что он шёл с британской военной базы на Кипре, и большинство из них предполагало, что станцией управляла МИ-6, британская служба внешней разведки. Британское правительство никогда официально этого не подтверждало. В 2008 году «Линкольнширский браконьер» замолчал — по-видимому, его закрыли.",
+   "s": [
+    [
+     "The most famous English-language station was the one heard at the beginning of this story.",
+     "Самой знаменитой англоязычной станцией была та, которую мы услышали в начале этой истории."
+    ],
+    [
+     "Fans named it \"The Lincolnshire Poacher\" after the English folk song whose first notes it played before the numbers.",
+     "Любители назвали её «Линкольнширский браконьер» — по английской народной песне, первые ноты которой звучали перед цифрами."
+    ],
+    [
+     "A poacher is a person who hunts animals illegally on someone else's land, which seemed a lovely little joke for a station that probably served secret agents.",
+     "Браконьер — это человек, который незаконно охотится на животных на чужой земле, и это казалось милой шуткой для станции, которая, вероятно, обслуживала секретных агентов."
+    ],
+    [
+     "The voice read groups of five numbers in English, and the broadcasts followed a consistent schedule.",
+     "Голос читал группы по пять цифр на английском, а передачи шли по постоянному расписанию."
+    ],
+    [
+     "By measuring the direction of the signal, radio fans concluded that it came from a British military base on Cyprus, and most of them assumed that the station was run by MI6, the British foreign intelligence service.",
+     "Определяя направление сигнала, радиолюбители пришли к выводу, что он шёл с британской военной базы на Кипре, и большинство из них предполагало, что станцией управляла МИ-6, британская служба внешней разведки."
+    ],
+    [
+     "The British government has never officially confirmed this.",
+     "Британское правительство никогда официально этого не подтверждало."
+    ],
+    [
+     "In 2008 the Lincolnshire Poacher went silent; it seems to have been shut down.",
+     "В 2008 году «Линкольнширский браконьер» замолчал — по-видимому, его закрыли."
+    ]
+   ]
+  },
+  {
+   "en": "Perhaps the strangest station of all is one that hardly says anything. Since at least the early 1980s, on a frequency of 4,625 kilohertz, a station has broadcast a short, rough buzzing sound, about twenty-five times a minute, day and night. Western fans call it \"The Buzzer\", and it is also known as UVB-76, after a call sign, a station's radio name, that was once heard on it. Every so often, the buzzing stops and a man's voice reads a few Russian words or names, sometimes with numbers, before the buzzing returns. Sometimes quiet voices can be heard in the background, which suggests that the sound is not simply a recording but is produced live in a room where people work.",
+   "ru": "Пожалуй, самая странная станция из всех — та, что почти ничего не говорит. По меньшей мере с начала 1980-х годов на частоте 4625 килогерц станция передаёт короткий резкий жужжащий звук — около двадцати пяти раз в минуту, днём и ночью. Западные любители называют её «Жужжалкой», а также UVB-76 — по позывному, то есть радиоимени станции, который когда-то на ней звучал. Время от времени жужжание прекращается, и мужской голос зачитывает несколько русских слов или имён, иногда с цифрами, после чего жужжание возобновляется. Иногда на заднем плане слышны тихие голоса, а это наводит на мысль, что звук — не просто запись, а создаётся вживую в помещении, где работают люди.",
+   "s": [
+    [
+     "Perhaps the strangest station of all is one that hardly says anything.",
+     "Пожалуй, самая странная станция из всех — та, что почти ничего не говорит."
+    ],
+    [
+     "Since at least the early 1980s, on a frequency of 4,625 kilohertz, a station has broadcast a short, rough buzzing sound, about twenty-five times a minute, day and night.",
+     "По меньшей мере с начала 1980-х годов на частоте 4625 килогерц станция передаёт короткий резкий жужжащий звук — около двадцати пяти раз в минуту, днём и ночью."
+    ],
+    [
+     "Western fans call it \"The Buzzer\", and it is also known as UVB-76, after a call sign, a station's radio name, that was once heard on it.",
+     "Западные любители называют её «Жужжалкой», а также UVB-76 — по позывному, то есть радиоимени станции, который когда-то на ней звучал."
+    ],
+    [
+     "Every so often, the buzzing stops and a man's voice reads a few Russian words or names, sometimes with numbers, before the buzzing returns.",
+     "Время от времени жужжание прекращается, и мужской голос зачитывает несколько русских слов или имён, иногда с цифрами, после чего жужжание возобновляется."
+    ],
+    [
+     "Sometimes quiet voices can be heard in the background, which suggests that the sound is not simply a recording but is produced live in a room where people work.",
+     "Иногда на заднем плане слышны тихие голоса, а это наводит на мысль, что звук — не просто запись, а создаётся вживую в помещении, где работают люди."
+    ]
+   ]
+  },
+  {
+   "en": "Because the Buzzer is so unusual, it has attracted many theories. Some people believe that it is part of a \"dead hand\" system that would automatically launch Russian nuclear missiles if the buzzing ever stopped. Others have claimed that it sends signals to submarines, studies the atmosphere or even talks to aliens. There is no evidence for the doomsday or alien stories. In fact, the buzzing has stopped for short periods in the past, and nothing dramatic happened. Most researchers think the explanation is more ordinary: the Buzzer is probably a military communication channel, and the buzz simply shows that the channel is in use and ready, so that nobody else takes the frequency. The Russian military has never explained its purpose, so some questions remain open.",
+   "ru": "Поскольку «Жужжалка» так необычна, она породила множество теорий. Некоторые верят, что она — часть системы «мёртвой руки», которая автоматически запустит российские ядерные ракеты, если жужжание когда-нибудь прекратится. Другие утверждали, что она посылает сигналы подводным лодкам, изучает атмосферу или даже общается с инопланетянами. Нет никаких доказательств историй о конце света или инопланетянах. На самом деле жужжание уже ненадолго прекращалось в прошлом, и ничего драматического не произошло. Большинство исследователей считают, что объяснение более обыденное: «Жужжалка», вероятно, военный канал связи, а жужжание просто показывает, что канал занят и готов к работе, чтобы никто другой не занял частоту. Российские военные никогда не объясняли её назначение, поэтому некоторые вопросы остаются открытыми.",
+   "s": [
+    [
+     "Because the Buzzer is so unusual, it has attracted many theories.",
+     "Поскольку «Жужжалка» так необычна, она породила множество теорий."
+    ],
+    [
+     "Some people believe that it is part of a \"dead hand\" system that would automatically launch Russian nuclear missiles if the buzzing ever stopped.",
+     "Некоторые верят, что она — часть системы «мёртвой руки», которая автоматически запустит российские ядерные ракеты, если жужжание когда-нибудь прекратится."
+    ],
+    [
+     "Others have claimed that it sends signals to submarines, studies the atmosphere or even talks to aliens.",
+     "Другие утверждали, что она посылает сигналы подводным лодкам, изучает атмосферу или даже общается с инопланетянами."
+    ],
+    [
+     "There is no evidence for the doomsday or alien stories.",
+     "Нет никаких доказательств историй о конце света или инопланетянах."
+    ],
+    [
+     "In fact, the buzzing has stopped for short periods in the past, and nothing dramatic happened.",
+     "На самом деле жужжание уже ненадолго прекращалось в прошлом, и ничего драматического не произошло."
+    ],
+    [
+     "Most researchers think the explanation is more ordinary: the Buzzer is probably a military communication channel, and the buzz simply shows that the channel is in use and ready, so that nobody else takes the frequency.",
+     "Большинство исследователей считают, что объяснение более обыденное: «Жужжалка», вероятно, военный канал связи, а жужжание просто показывает, что канал занят и готов к работе, чтобы никто другой не занял частоту."
+    ],
+    [
+     "The Russian military has never explained its purpose, so some questions remain open.",
+     "Российские военные никогда не объясняли её назначение, поэтому некоторые вопросы остаются открытыми."
+    ]
+   ]
+  },
+  {
+   "en": "Although radio experts were fairly sure that numbers stations served spies, public proof was rare. Governments never admitted anything, and spies who were caught rarely talked about how they received their orders. Then a case in Florida brought the secret into an open courtroom.",
+   "ru": "Хотя радиоспециалисты были почти уверены, что номерные станции служат шпионам, публичные доказательства были редкостью. Правительства ни в чём не признавались, а пойманные шпионы редко рассказывали, как получали приказы. Затем дело во Флориде вынесло этот секрет в открытый зал суда.",
+   "s": [
+    [
+     "Although radio experts were fairly sure that numbers stations served spies, public proof was rare.",
+     "Хотя радиоспециалисты были почти уверены, что номерные станции служат шпионам, публичные доказательства были редкостью."
+    ],
+    [
+     "Governments never admitted anything, and spies who were caught rarely talked about how they received their orders.",
+     "Правительства ни в чём не признавались, а пойманные шпионы редко рассказывали, как получали приказы."
+    ],
+    [
+     "Then a case in Florida brought the secret into an open courtroom.",
+     "Затем дело во Флориде вынесло этот секрет в открытый зал суда."
+    ]
+   ]
+  },
+  {
+   "en": "In September 1998, the FBI arrested ten people in the Miami area and accused them of spying for Cuba. They belonged to a Cuban intelligence group known as the Wasp Network. Their main purpose was to watch anti-Castro exile groups in Miami, that is, Cubans who had left the island and were working against the government of Fidel Castro. Some members had also tried to collect information about a US military base in Florida. Five of the arrested people agreed to cooperate with prosecutors, but the other five refused and went to trial. They became known as the Cuban Five.",
+   "ru": "В сентябре 1998 года ФБР арестовало десять человек в районе Майами и обвинило их в шпионаже в пользу Кубы. Они входили в кубинскую разведывательную группу, известную как «Осиная сеть». Их главной целью была слежка за эмигрантскими группами противников Кастро в Майами, то есть за кубинцами, которые покинули остров и действовали против правительства Фиделя Кастро. Некоторые участники также пытались собирать сведения о военной базе США во Флориде. Пятеро арестованных согласились сотрудничать с обвинением, но остальные пятеро отказались и предстали перед судом. Они стали известны как «Кубинская пятёрка».",
+   "s": [
+    [
+     "In September 1998, the FBI arrested ten people in the Miami area and accused them of spying for Cuba.",
+     "В сентябре 1998 года ФБР арестовало десять человек в районе Майами и обвинило их в шпионаже в пользу Кубы."
+    ],
+    [
+     "They belonged to a Cuban intelligence group known as the Wasp Network.",
+     "Они входили в кубинскую разведывательную группу, известную как «Осиная сеть»."
+    ],
+    [
+     "Their main purpose was to watch anti-Castro exile groups in Miami, that is, Cubans who had left the island and were working against the government of Fidel Castro.",
+     "Их главной целью была слежка за эмигрантскими группами противников Кастро в Майами, то есть за кубинцами, которые покинули остров и действовали против правительства Фиделя Кастро."
+    ],
+    [
+     "Some members had also tried to collect information about a US military base in Florida.",
+     "Некоторые участники также пытались собирать сведения о военной базе США во Флориде."
+    ],
+    [
+     "Five of the arrested people agreed to cooperate with prosecutors, but the other five refused and went to trial.",
+     "Пятеро арестованных согласились сотрудничать с обвинением, но остальные пятеро отказались и предстали перед судом."
+    ],
+    [
+     "They became known as the Cuban Five.",
+     "Они стали известны как «Кубинская пятёрка»."
+    ]
+   ]
+  },
+  {
+   "en": "Before the arrests, FBI agents had secretly entered some of the spies' apartments and copied the contents of their computer disks. On the disks they found software and files for decoding messages. The FBI also recorded shortwave broadcasts from Cuba in which a woman's voice read long lists of numbers in Spanish. Radio fans already knew this station well and called it \"Atencion\", because its broadcasts began with the Spanish word for \"attention\". Using the keys found on the disks, the FBI was able to turn the numbers into readable text.",
+   "ru": "Ещё до арестов агенты ФБР тайно проникали в квартиры некоторых шпионов и копировали содержимое их компьютерных дисков. На дисках они нашли программы и файлы для расшифровки сообщений. ФБР также записывало коротковолновые передачи с Кубы, в которых женский голос зачитывал длинные списки цифр на испанском языке. Радиолюбители уже хорошо знали эту станцию и называли её «Атенсьон», потому что её передачи начинались с испанского слова «внимание». С помощью ключей, найденных на дисках, ФБР смогло превратить цифры в читаемый текст.",
+   "s": [
+    [
+     "Before the arrests, FBI agents had secretly entered some of the spies' apartments and copied the contents of their computer disks.",
+     "Ещё до арестов агенты ФБР тайно проникали в квартиры некоторых шпионов и копировали содержимое их компьютерных дисков."
+    ],
+    [
+     "On the disks they found software and files for decoding messages.",
+     "На дисках они нашли программы и файлы для расшифровки сообщений."
+    ],
+    [
+     "The FBI also recorded shortwave broadcasts from Cuba in which a woman's voice read long lists of numbers in Spanish.",
+     "ФБР также записывало коротковолновые передачи с Кубы, в которых женский голос зачитывал длинные списки цифр на испанском языке."
+    ],
+    [
+     "Radio fans already knew this station well and called it \"Atencion\", because its broadcasts began with the Spanish word for \"attention\".",
+     "Радиолюбители уже хорошо знали эту станцию и называли её «Атенсьон», потому что её передачи начинались с испанского слова «внимание»."
+    ],
+    [
+     "Using the keys found on the disks, the FBI was able to turn the numbers into readable text.",
+     "С помощью ключей, найденных на дисках, ФБР смогло превратить цифры в читаемый текст."
+    ]
+   ]
+  },
+  {
+   "en": "The trial began in Miami in late 2000 and lasted about seven months. Prosecutors showed the jury decoded messages which, they said, contained orders from Havana to the agents. For radio fans, it was one of the clearest public proofs that numbers stations really were used to send instructions to spies. In June 2001 the jury found all five men guilty, and in December 2001 they received sentences ranging from fifteen years to life in prison.",
+   "ru": "Суд начался в Майами в конце 2000 года и длился около семи месяцев. Обвинение показало присяжным расшифрованные сообщения, которые, по его словам, содержали приказы из Гаваны агентам. Для радиолюбителей это стало одним из самых ясных публичных доказательств того, что номерные станции действительно использовались для передачи инструкций шпионам. В июне 2001 года присяжные признали всех пятерых виновными, а в декабре 2001 года они получили сроки от пятнадцати лет до пожизненного заключения.",
+   "s": [
+    [
+     "The trial began in Miami in late 2000 and lasted about seven months.",
+     "Суд начался в Майами в конце 2000 года и длился около семи месяцев."
+    ],
+    [
+     "Prosecutors showed the jury decoded messages which, they said, contained orders from Havana to the agents.",
+     "Обвинение показало присяжным расшифрованные сообщения, которые, по его словам, содержали приказы из Гаваны агентам."
+    ],
+    [
+     "For radio fans, it was one of the clearest public proofs that numbers stations really were used to send instructions to spies.",
+     "Для радиолюбителей это стало одним из самых ясных публичных доказательств того, что номерные станции действительно использовались для передачи инструкций шпионам."
+    ],
+    [
+     "In June 2001 the jury found all five men guilty, and in December 2001 they received sentences ranging from fifteen years to life in prison.",
+     "В июне 2001 года присяжные признали всех пятерых виновными, а в декабре 2001 года они получили сроки от пятнадцати лет до пожизненного заключения."
+    ]
+   ]
+  },
+  {
+   "en": "The most serious charge was against their leader, Gerardo Hernandez. In 1996, Cuban fighter jets had shot down two small planes belonging to Brothers to the Rescue, a Miami exile group, and four men had died. Prosecutors said that Hernandez had taken part in a conspiracy that led to the attack, and he was found guilty of conspiracy to commit murder. His supporters strongly denied his guilt, and how much he really knew is still debated.",
+   "ru": "Самое серьёзное обвинение было предъявлено их руководителю Херардо Эрнандесу. В 1996 году кубинские истребители сбили два небольших самолёта, принадлежавших эмигрантской группе из Майами «Братья на выручку», и четыре человека погибли. Обвинение утверждало, что Эрнандес участвовал в заговоре, приведшем к нападению, и его признали виновным в сговоре с целью убийства. Его сторонники решительно отрицали его вину, и вопрос о том, как много он на самом деле знал, до сих пор обсуждается.",
+   "s": [
+    [
+     "The most serious charge was against their leader, Gerardo Hernandez.",
+     "Самое серьёзное обвинение было предъявлено их руководителю Херардо Эрнандесу."
+    ],
+    [
+     "In 1996, Cuban fighter jets had shot down two small planes belonging to Brothers to the Rescue, a Miami exile group, and four men had died.",
+     "В 1996 году кубинские истребители сбили два небольших самолёта, принадлежавших эмигрантской группе из Майами «Братья на выручку», и четыре человека погибли."
+    ],
+    [
+     "Prosecutors said that Hernandez had taken part in a conspiracy that led to the attack, and he was found guilty of conspiracy to commit murder.",
+     "Обвинение утверждало, что Эрнандес участвовал в заговоре, приведшем к нападению, и его признали виновным в сговоре с целью убийства."
+    ],
+    [
+     "His supporters strongly denied his guilt, and how much he really knew is still debated.",
+     "Его сторонники решительно отрицали его вину, и вопрос о том, как много он на самом деле знал, до сих пор обсуждается."
+    ]
+   ]
+  },
+  {
+   "en": "The case divided opinion. In the United States, the five were seen as spies who had broken the law. In Cuba they were treated as national heroes who had protected their country from exile groups that Cuba accused of planning attacks on the island. Their lawyers argued that a fair trial was impossible in Miami, where feelings against the Cuban government were very strong. Courts considered this question for years, but in the end the convictions stayed.",
+   "ru": "Это дело разделило общество. В США пятерых считали шпионами, нарушившими закон. На Кубе к ним относились как к национальным героям, защищавшим страну от эмигрантских групп, которые Куба обвиняла в подготовке нападений на остров. Их адвокаты утверждали, что справедливый суд в Майами, где настроения против кубинского правительства были очень сильны, невозможен. Суды рассматривали этот вопрос годами, но в итоге приговоры остались в силе.",
+   "s": [
+    [
+     "The case divided opinion.",
+     "Это дело разделило общество."
+    ],
+    [
+     "In the United States, the five were seen as spies who had broken the law.",
+     "В США пятерых считали шпионами, нарушившими закон."
+    ],
+    [
+     "In Cuba they were treated as national heroes who had protected their country from exile groups that Cuba accused of planning attacks on the island.",
+     "На Кубе к ним относились как к национальным героям, защищавшим страну от эмигрантских групп, которые Куба обвиняла в подготовке нападений на остров."
+    ],
+    [
+     "Their lawyers argued that a fair trial was impossible in Miami, where feelings against the Cuban government were very strong.",
+     "Их адвокаты утверждали, что справедливый суд в Майами, где настроения против кубинского правительства были очень сильны, невозможен."
+    ],
+    [
+     "Courts considered this question for years, but in the end the convictions stayed.",
+     "Суды рассматривали этот вопрос годами, но в итоге приговоры остались в силе."
+    ]
+   ]
+  },
+  {
+   "en": "The story finally ended in diplomacy. Rene Gonzalez was released from prison in 2011 after finishing his sentence, and Fernando Gonzalez followed in early 2014. On 17 December 2014, as part of an agreement to improve relations between the United States and Cuba, the last three were released and flown to Havana. On the same day Cuba freed Alan Gross, an American contractor, and a man who had spied for the United States inside Cuba. For the families of the five, it was a huge relief, but many exiles in Miami were angry.",
+   "ru": "В конце концов история завершилась дипломатией. Рене Гонсалес вышел из тюрьмы в 2011 году, отбыв срок, а Фернандо Гонсалес — в начале 2014 года. 17 декабря 2014 года в рамках соглашения об улучшении отношений между США и Кубой последние трое были освобождены и доставлены самолётом в Гавану. В тот же день Куба освободила американского подрядчика Алана Гросса, а также человека, который шпионил в пользу США на Кубе. Для семей пятерых это стало огромным облегчением, но многие эмигранты в Майами были возмущены.",
+   "s": [
+    [
+     "The story finally ended in diplomacy.",
+     "В конце концов история завершилась дипломатией."
+    ],
+    [
+     "Rene Gonzalez was released from prison in 2011 after finishing his sentence, and Fernando Gonzalez followed in early 2014.",
+     "Рене Гонсалес вышел из тюрьмы в 2011 году, отбыв срок, а Фернандо Гонсалес — в начале 2014 года."
+    ],
+    [
+     "On 17 December 2014, as part of an agreement to improve relations between the United States and Cuba, the last three were released and flown to Havana.",
+     "17 декабря 2014 года в рамках соглашения об улучшении отношений между США и Кубой последние трое были освобождены и доставлены самолётом в Гавану."
+    ],
+    [
+     "On the same day Cuba freed Alan Gross, an American contractor, and a man who had spied for the United States inside Cuba.",
+     "В тот же день Куба освободила американского подрядчика Алана Гросса, а также человека, который шпионил в пользу США на Кубе."
+    ],
+    [
+     "For the families of the five, it was a huge relief, but many exiles in Miami were angry.",
+     "Для семей пятерых это стало огромным облегчением, но многие эмигранты в Майами были возмущены."
+    ]
+   ]
+  },
+  {
+   "en": "The Cuban Five were not the only case. In September 2001, the FBI arrested Ana Montes, a senior analyst at the US Defense Intelligence Agency who had secretly worked for Cuba for many years. According to court documents, she received her instructions in the same way: she listened to numbers broadcasts on a shortwave radio and decoded them on her laptop. She pleaded guilty in 2002 and was released from prison in 2023.",
+   "ru": "«Кубинская пятёрка» была не единственным случаем. В сентябре 2001 года ФБР арестовало Ану Монтес, старшего аналитика Разведывательного управления Министерства обороны США, которая много лет тайно работала на Кубу. Согласно судебным документам, она получала инструкции тем же способом: слушала передачи с цифрами по коротковолновому радио и расшифровывала их на своём ноутбуке. Она признала себя виновной в 2002 году и вышла из тюрьмы в 2023 году.",
+   "s": [
+    [
+     "The Cuban Five were not the only case.",
+     "«Кубинская пятёрка» была не единственным случаем."
+    ],
+    [
+     "In September 2001, the FBI arrested Ana Montes, a senior analyst at the US Defense Intelligence Agency who had secretly worked for Cuba for many years.",
+     "В сентябре 2001 года ФБР арестовало Ану Монтес, старшего аналитика Разведывательного управления Министерства обороны США, которая много лет тайно работала на Кубу."
+    ],
+    [
+     "According to court documents, she received her instructions in the same way: she listened to numbers broadcasts on a shortwave radio and decoded them on her laptop.",
+     "Согласно судебным документам, она получала инструкции тем же способом: слушала передачи с цифрами по коротковолновому радио и расшифровывала их на своём ноутбуке."
+    ],
+    [
+     "She pleaded guilty in 2002 and was released from prison in 2023.",
+     "Она признала себя виновной в 2002 году и вышла из тюрьмы в 2023 году."
+    ]
+   ]
+  },
+  {
+   "en": "You might think that numbers stations disappeared with the rise of the internet, but many are still on the air. Radio fans record and share broadcasts and publish their schedules online. The reason is the same as before: the internet leaves digital traces, while a one-way radio broadcast does not reveal who is listening. A spy with a cheap radio and a one-time pad can still receive a message that, if the rules are followed, nobody else can read.",
+   "ru": "Вы можете подумать, что номерные станции исчезли с развитием интернета, но многие из них всё ещё выходят в эфир. Радиолюбители записывают передачи, делятся ими и публикуют их расписание в интернете. Причина та же, что и раньше: интернет оставляет цифровые следы, а односторонняя радиопередача не выдаёт, кто её слушает. Шпион с дешёвым радиоприёмником и одноразовым блокнотом по-прежнему может получить сообщение, которое, если соблюдать правила, больше никто не сможет прочитать.",
+   "s": [
+    [
+     "You might think that numbers stations disappeared with the rise of the internet, but many are still on the air.",
+     "Вы можете подумать, что номерные станции исчезли с развитием интернета, но многие из них всё ещё выходят в эфир."
+    ],
+    [
+     "Radio fans record and share broadcasts and publish their schedules online.",
+     "Радиолюбители записывают передачи, делятся ими и публикуют их расписание в интернете."
+    ],
+    [
+     "The reason is the same as before: the internet leaves digital traces, while a one-way radio broadcast does not reveal who is listening.",
+     "Причина та же, что и раньше: интернет оставляет цифровые следы, а односторонняя радиопередача не выдаёт, кто её слушает."
+    ],
+    [
+     "A spy with a cheap radio and a one-time pad can still receive a message that, if the rules are followed, nobody else can read.",
+     "Шпион с дешёвым радиоприёмником и одноразовым блокнотом по-прежнему может получить сообщение, которое, если соблюдать правила, больше никто не сможет прочитать."
+    ]
+   ]
+  },
+  {
+   "en": "So what do we really know? Court cases have proven that at least some numbers stations were used by intelligence services to send coded orders to their agents. Historians and released documents also confirm that one-time pads were widely used by spies during the Cold War. But many details are still hidden. Most governments have never admitted running a numbers station, and for many stations we can only guess who is behind them and who is listening. Stories about doomsday machines or alien contacts, however, belong to fantasy, not to evidence.",
+   "ru": "Так что же мы знаем на самом деле? Судебные дела доказали, что по крайней мере некоторые номерные станции использовались спецслужбами для передачи шифрованных приказов своим агентам. Историки и рассекреченные документы также подтверждают, что одноразовые блокноты широко использовались шпионами во время холодной войны. Но многие подробности до сих пор скрыты. Большинство правительств никогда не признавали, что управляют номерными станциями, и о многих станциях мы можем лишь гадать, кто за ними стоит и кто их слушает. Однако истории о машинах судного дня или контактах с инопланетянами относятся к области фантазий, а не фактов.",
+   "s": [
+    [
+     "So what do we really know?",
+     "Так что же мы знаем на самом деле?"
+    ],
+    [
+     "Court cases have proven that at least some numbers stations were used by intelligence services to send coded orders to their agents.",
+     "Судебные дела доказали, что по крайней мере некоторые номерные станции использовались спецслужбами для передачи шифрованных приказов своим агентам."
+    ],
+    [
+     "Historians and released documents also confirm that one-time pads were widely used by spies during the Cold War.",
+     "Историки и рассекреченные документы также подтверждают, что одноразовые блокноты широко использовались шпионами во время холодной войны."
+    ],
+    [
+     "But many details are still hidden.",
+     "Но многие подробности до сих пор скрыты."
+    ],
+    [
+     "Most governments have never admitted running a numbers station, and for many stations we can only guess who is behind them and who is listening.",
+     "Большинство правительств никогда не признавали, что управляют номерными станциями, и о многих станциях мы можем лишь гадать, кто за ними стоит и кто их слушает."
+    ],
+    [
+     "Stories about doomsday machines or alien contacts, however, belong to fantasy, not to evidence.",
+     "Однако истории о машинах судного дня или контактах с инопланетянами относятся к области фантазий, а не фактов."
+    ]
+   ]
+  },
+  {
+   "en": "There is something strangely human about these broadcasts. Behind every group of five numbers, there may be a real person sitting alone in a quiet room, listening carefully, writing down digits and hoping that nobody is watching. The numbers themselves will tell you nothing. That is exactly what makes them so perfect for secrets, and so fascinating for everyone else.",
+   "ru": "В этих передачах есть что-то странно человеческое. За каждой группой из пяти цифр, возможно, стоит реальный человек, который сидит один в тихой комнате, внимательно слушает, записывает цифры и надеется, что за ним никто не наблюдает. Сами цифры вам ничего не скажут. Именно это делает их такими идеальными для тайн и такими захватывающими для всех остальных.",
+   "s": [
+    [
+     "There is something strangely human about these broadcasts.",
+     "В этих передачах есть что-то странно человеческое."
+    ],
+    [
+     "Behind every group of five numbers, there may be a real person sitting alone in a quiet room, listening carefully, writing down digits and hoping that nobody is watching.",
+     "За каждой группой из пяти цифр, возможно, стоит реальный человек, который сидит один в тихой комнате, внимательно слушает, записывает цифры и надеется, что за ним никто не наблюдает."
+    ],
+    [
+     "The numbers themselves will tell you nothing.",
+     "Сами цифры вам ничего не скажут."
+    ],
+    [
+     "That is exactly what makes them so perfect for secrets, and so fascinating for everyone else.",
+     "Именно это делает их такими идеальными для тайн и такими захватывающими для всех остальных."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "able": "(was able to) смогло",
+  "about": "о, об",
+  "according": "согласно",
+  "accused": "обвинило",
+  "adds": "прибавляет",
+  "admitted": "признавали",
+  "advertisement": "реклама",
+  "after": "после",
+  "again": "снова",
+  "against": "против",
+  "agency": "агентство",
+  "agents": "агенты",
+  "agreed": "согласились",
+  "agreement": "соглашение",
+  "air": "эфир (on the air — в эфире)",
+  "alan": "Алан (имя)",
+  "alien": "инопланетный",
+  "aliens": "пришельцы",
+  "all": "все; (of all) из всех",
+  "alone": "один",
+  "already": "уже",
+  "also": "также",
+  "although": "хотя",
+  "american": "американский",
+  "an": "(неопр. артикль)",
+  "ana": "Ана (имя)",
+  "analyst": "аналитик",
+  "and": "и",
+  "angry": "возмущённый, злой",
+  "animals": "животные",
+  "another": "ещё один",
+  "anti": "анти-, против",
+  "any": "какой-либо",
+  "anyone": "кого-либо",
+  "anything": "что-нибудь",
+  "apartments": "квартиры",
+  "are": "есть, являются",
+  "area": "район",
+  "argued": "утверждали",
+  "around": "около; по (всему миру)",
+  "arrested": "арестовало",
+  "arrests": "аресты",
+  "as": "как, так как",
+  "asked": "спросил(а)",
+  "assumed": "предполагали",
+  "at": "в, у, на",
+  "atencion": "«Атенсьон» (исп. «внимание»; название станции)",
+  "atmosphere": "атмосфера",
+  "attack": "атака",
+  "attacks": "нападения",
+  "attention": "внимание",
+  "attracted": "привлекла, породила",
+  "automatically": "автоматически",
+  "away": "прочь",
+  "back": "обратно",
+  "background": "задний план",
+  "backwards": "назад",
+  "base": "база",
+  "be": "быть",
+  "became": "стал(а)",
+  "because": "потому что",
+  "becomes": "становится",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "began": "начал(а)",
+  "beginning": "начало",
+  "begins": "начинается",
+  "behind": "за, позади",
+  "believe": "верить",
+  "belong": "относятся, принадлежат",
+  "belonged": "принадлежал",
+  "belonging": "принадлежащий",
+  "between": "между",
+  "beyond": "за пределами",
+  "booklet": "книжечка, брошюра",
+  "bosses": "начальники",
+  "both": "оба",
+  "bounce": "отражаться (bounce off)",
+  "breakers": "(code-breakers) дешифровщики",
+  "british": "британский",
+  "broadcast": "передача; передаёт",
+  "broadcasts": "передачи",
+  "broken": "взломана; нарушившие",
+  "brothers": "братья",
+  "brought": "вынесло, перенесло",
+  "but": "но",
+  "buzz": "жужжание",
+  "buzzer": "«Жужжалка» (букв. зуммер)",
+  "buzzing": "жужжание; жужжащий",
+  "by": "у, к, от",
+  "call": "называют; (phone call) звонок; (call sign) позывной",
+  "called": "назвали; называется",
+  "calm": "спокойный",
+  "came": "пришёл, пришли",
+  "can": "могу, можем",
+  "cannot": "не могут",
+  "carefully": "внимательно",
+  "careless": "беспечный",
+  "carrying": "перенос (без переноса)",
+  "case": "дело, случай",
+  "cases": "случаи",
+  "castro": "Кастро (фамилия)",
+  "caught": "пойманный",
+  "cds": "компакт-диски",
+  "channel": "канал",
+  "charge": "обвинение",
+  "cheap": "дешёвый",
+  "cheerful": "весёлый",
+  "children": "дети",
+  "claimed": "утверждали",
+  "claude": "Клод (имя)",
+  "clearest": "самый ясный",
+  "code": "код (Morse code — азбука Морзе)",
+  "coded": "шифрованный",
+  "cold": "холодный (Cold War — холодная война)",
+  "collect": "собирать",
+  "collected": "собрали",
+  "come": "вернуться (come back down)",
+  "commit": "совершить",
+  "common": "распространённый",
+  "communication": "связь",
+  "company": "компания",
+  "completely": "совершенно",
+  "computer": "компьютер",
+  "concluded": "сделали вывод",
+  "conet": "Conet (название проекта)",
+  "confirm": "подтвердить",
+  "confirmed": "подтвердил",
+  "considered": "рассматривали",
+  "consistent": "постоянный, последовательный",
+  "conspiracy": "заговор",
+  "constantly": "постоянно",
+  "contacts": "контакты",
+  "contained": "содержал",
+  "contains": "содержит",
+  "contents": "содержимое",
+  "continent": "континент",
+  "contractor": "подрядчик",
+  "convictions": "приговоры (обвинительные)",
+  "cooperate": "сотрудничать",
+  "copied": "скопировали",
+  "copies": "копии",
+  "could": "мог(ла)",
+  "country": "страна",
+  "course": "курс (of course — конечно)",
+  "court": "суд",
+  "courtroom": "зал суда",
+  "courts": "суды",
+  "cuba": "Куба",
+  "cuban": "кубинский",
+  "cubans": "кубинцы",
+  "cyprus": "Кипр",
+  "czech": "чешский",
+  "day": "день",
+  "dead": "мёртвый (dead hand — «мёртвая рука»)",
+  "debated": "обсуждается",
+  "decades": "десятилетия",
+  "december": "декабрь",
+  "decoded": "расшифрованный; расшифровала",
+  "decoding": "расшифровка",
+  "defense": "защита",
+  "denied": "отрицали",
+  "destroyed": "уничтожается",
+  "detail": "деталь",
+  "details": "подробности",
+  "dial": "шкала, ручка настройки",
+  "did": "(вспом. гл.)",
+  "died": "умер(ла)",
+  "different": "другой, иной",
+  "digit": "цифра",
+  "digital": "цифровой",
+  "digits": "цифры",
+  "diplomacy": "дипломатия",
+  "direction": "направление",
+  "disappeared": "пропало",
+  "disks": "диски",
+  "distance": "расстояние",
+  "divided": "разделило",
+  "do": "(вспом. гл.)",
+  "documents": "документы",
+  "does": "(вспом. гл.)",
+  "doomsday": "судный день, конец света",
+  "down": "вниз",
+  "dramatic": "драматичный",
+  "during": "во время",
+  "each": "каждый; (each other) друг друга",
+  "early": "начало (in the early 1980s); ранний",
+  "east": "Восток",
+  "eight": "восемь",
+  "electronic": "электронный",
+  "else": "ещё, другой",
+  "else's": "(someone else's) чужой",
+  "email": "электронная почта",
+  "end": "конец",
+  "ended": "закончилась",
+  "english": "английский",
+  "entered": "проникли",
+  "europe": "Европа",
+  "even": "даже",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "everyone": "все",
+  "evidence": "доказательства",
+  "exactly": "точно",
+  "example": "пример",
+  "exile": "эмигрантский",
+  "exiles": "эмигранты",
+  "exist": "существовать",
+  "experts": "эксперты",
+  "explained": "объяснил",
+  "explanation": "объяснение",
+  "fact": "факт",
+  "fair": "справедливый",
+  "fairly": "довольно, вполне",
+  "families": "семьи",
+  "famous": "знаменитый",
+  "fans": "любители, поклонники",
+  "fantasy": "фантазия",
+  "far": "дальний",
+  "fascinating": "захватывающий",
+  "fbi": "ФБР",
+  "feelings": "чувства",
+  "female": "женский",
+  "fernando": "Фернандо (имя)",
+  "few": "несколько",
+  "fidel": "Фидель (имя)",
+  "fifteen": "пятнадцать",
+  "fighter": "истребитель",
+  "files": "файлы",
+  "film": "фильм, кино",
+  "finally": "наконец",
+  "finishing": "отбыв, закончив",
+  "first": "первый; сначала",
+  "five": "пять",
+  "florida": "Флорида",
+  "flown": "доставлены самолётом",
+  "fm": "FM (радиодиапазон)",
+  "folk": "народный",
+  "followed": "шли по; (are followed) соблюдаются",
+  "food": "еда",
+  "for": "для, в течение",
+  "foreign": "иностранный",
+  "found": "нашли",
+  "four": "четыре",
+  "freed": "освободил(о)",
+  "frequency": "частота",
+  "from": "из, от",
+  "full": "полный",
+  "fully": "полностью",
+  "gave": "давали",
+  "gentle": "мягкий, нежный",
+  "gerardo": "Херардо (имя)",
+  "german": "немецкий (язык)",
+  "get": "получить",
+  "gonzalez": "Гонсалес (фамилия)",
+  "government": "правительство",
+  "governments": "правительства",
+  "great": "большой",
+  "gross": "Гросс (фамилия)",
+  "group": "группа",
+  "groups": "группы",
+  "guess": "предполагать",
+  "guilt": "вина",
+  "guilty": "виновный",
+  "had": "(вспом. гл.); имела",
+  "hand": "рука",
+  "happened": "случилось",
+  "hardly": "едва",
+  "has": "(вспом. гл.)",
+  "havana": "Гавана",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "hear": "слышать",
+  "heard": "слышали; услышанный",
+  "her": "её, ей",
+  "here": "здесь",
+  "hernandez": "Эрнандес (фамилия)",
+  "heroes": "герои",
+  "hidden": "скрытый",
+  "his": "его",
+  "historians": "историки",
+  "hobbyists": "любители (хобби)",
+  "home": "домой",
+  "hoping": "надеясь",
+  "how": "как",
+  "however": "однако; сколько бы",
+  "huge": "огромный",
+  "human": "человеческий",
+  "hunts": "охотится",
+  "if": "если, ли",
+  "illegally": "незаконно",
+  "imagine": "представить",
+  "important": "важный",
+  "impossible": "невозможный",
+  "improve": "улучшать",
+  "in": "в",
+  "information": "информация",
+  "inside": "внутри",
+  "instructions": "инструкции",
+  "intelligence": "разведка",
+  "internet": "интернет",
+  "into": "в",
+  "is": "есть, является",
+  "island": "остров",
+  "it": "он, оно, это",
+  "its": "его, её",
+  "jets": "реактивные самолёты (fighter jets — истребители)",
+  "joke": "шутка",
+  "june": "июнь",
+  "jury": "присяжные",
+  "kept": "сохраняется",
+  "key": "ключ",
+  "keys": "ключи",
+  "kilohertz": "килогерц",
+  "kilometres": "километров",
+  "knew": "знал(и)",
+  "know": "знаю",
+  "known": "известный",
+  "land": "земля",
+  "language": "язык",
+  "languages": "языки",
+  "laptop": "ноутбук",
+  "last": "последний",
+  "lasted": "длился",
+  "late": "поздно",
+  "later": "позже",
+  "launch": "запустить",
+  "law": "закон",
+  "lawyers": "адвокаты, юристы",
+  "layer": "слой",
+  "leader": "лидер",
+  "least": "(at least) по меньшей мере; не меньше",
+  "leaves": "оставляет",
+  "led": "привёл",
+  "left": "покинули",
+  "letter": "письмо",
+  "life": "жизнь",
+  "like": "как, подобный",
+  "limited": "ограниченный",
+  "lincolnshire": "Линкольншир (графство в Англии)",
+  "list": "список",
+  "listen": "слушать",
+  "listened": "слушала",
+  "listeners": "слушатели",
+  "listening": "слушает",
+  "lists": "списки",
+  "little": "маленький",
+  "live": "жить",
+  "long": "длинный; (as long as) такой же длины",
+  "looks": "смотрит",
+  "lovely": "милый, прекрасный",
+  "machines": "машины",
+  "made": "сделало",
+  "main": "главный",
+  "makers": "(film-makers) кинематографисты",
+  "makes": "делает",
+  "man": "мужчина",
+  "man's": "мужской",
+  "many": "много",
+  "mathematician": "математик",
+  "may": "может",
+  "mean": "означать",
+  "means": "значит",
+  "measuring": "измеряя, определяя",
+  "members": "члены, участники",
+  "men": "люди, мужчины",
+  "message": "сообщение",
+  "messages": "сообщения",
+  "mi": "МИ (в названии МИ-6)",
+  "miami": "Майами",
+  "might": "мог бы",
+  "military": "военный",
+  "minute": "минута",
+  "minutes": "минуты",
+  "missiles": "ракеты",
+  "mistake": "ошибка",
+  "montes": "Монтес (фамилия)",
+  "months": "месяцы",
+  "more": "больше",
+  "morse": "Морс (фамилия)",
+  "most": "большая часть",
+  "much": "гораздо",
+  "murder": "убийство",
+  "music": "музыка",
+  "musicians": "музыканты",
+  "must": "должны",
+  "mysterious": "таинственный",
+  "name": "имя",
+  "named": "по имени",
+  "names": "имена",
+  "national": "национальный",
+  "need": "нужно",
+  "needs": "нужно",
+  "network": "сеть",
+  "never": "никогда",
+  "new": "новый",
+  "news": "новость",
+  "nicknames": "прозвища",
+  "night": "ночь",
+  "nine": "девять",
+  "no": "нет",
+  "nobody": "никто",
+  "noise": "шум",
+  "not": "не",
+  "notes": "ноты",
+  "nothing": "ничего",
+  "noticed": "заметила",
+  "nuclear": "ядерный",
+  "numbers": "цифры, числа; (huge numbers) огромное количество",
+  "of": "из, о, (род. падеж)",
+  "off": "от (bounce off)",
+  "officially": "официально",
+  "often": "часто",
+  "old": "старый",
+  "on": "на; (on the air) в эфире",
+  "once": "однажды",
+  "one": "один, одна",
+  "online": "в интернете; интернет-",
+  "only": "только",
+  "open": "открытый",
+  "opinion": "мнение",
+  "or": "или",
+  "orders": "приказы",
+  "ordinary": "обычный",
+  "original": "исходный",
+  "other": "другой",
+  "others": "другие",
+  "over": "в течение (over many years)",
+  "own": "собственный",
+  "pad": "блокнот (one-time pad — одноразовый блокнот)",
+  "pads": "блокноты",
+  "page": "страница",
+  "pages": "страницы",
+  "paper": "бумага, бумажный",
+  "part": "часть",
+  "partly": "отчасти",
+  "past": "прошлое",
+  "pencil": "карандаш",
+  "people": "люди",
+  "perfect": "идеальный",
+  "perhaps": "может быть",
+  "periods": "периоды",
+  "person": "человек",
+  "phone": "телефон",
+  "planes": "самолёты",
+  "planning": "подготовка",
+  "played": "играли",
+  "pleaded": "(pleaded guilty) признала себя виновной",
+  "plus": "плюс",
+  "poacher": "браконьер",
+  "point": "суть (that is the point — в этом суть)",
+  "pressure": "давление",
+  "printed": "напечатала",
+  "prison": "тюрьма",
+  "probably": "вероятно",
+  "produce": "выпускать",
+  "produced": "создаётся",
+  "programme": "программа",
+  "project": "проект",
+  "proof": "доказательство",
+  "proofs": "доказательства",
+  "prosecutors": "прокуроры",
+  "protected": "защитил",
+  "proved": "доказали",
+  "proven": "доказана",
+  "public": "публичный",
+  "publish": "опубликовать",
+  "purpose": "цель, назначение",
+  "question": "вопрос",
+  "questions": "вопросы",
+  "quiet": "тихий",
+  "quietly": "тихо",
+  "radio": "радио",
+  "random": "случайный",
+  "ranging": "(ranging from... to) от... до",
+  "rare": "редкий",
+  "rarely": "редко",
+  "reach": "добраться до",
+  "read": "читать, прочитала",
+  "readable": "читаемый",
+  "reading": "читая",
+  "reads": "читает",
+  "ready": "готовый",
+  "real": "настоящий",
+  "really": "действительно",
+  "reason": "причина, повод",
+  "receive": "получить",
+  "received": "получил(а)",
+  "receiver": "приёмник",
+  "receives": "принимает",
+  "record": "запись; записывать; (record company) звукозаписывающая",
+  "recorded": "записывало",
+  "recording": "запись",
+  "recordings": "записи",
+  "refused": "отказался",
+  "relations": "отношения",
+  "released": "освобождён; обнародовало; выпустила; рассекреченный",
+  "relief": "облегчение",
+  "remain": "остаются",
+  "rene": "Рене (имя)",
+  "repeated": "повторяющийся",
+  "rescue": "спасение («Братья на выручку»)",
+  "researchers": "исследователи",
+  "returns": "возвращается",
+  "reveal": "раскрыть",
+  "rise": "развитие, рост",
+  "room": "комната",
+  "rough": "резкий, грубый",
+  "rule": "правило",
+  "rules": "правила",
+  "rumours": "слухи",
+  "run": "управлять",
+  "running": "управление (admitted running — признавали, что управляют)",
+  "russian": "русский (язык)",
+  "s": "(в датах: 1940s — 1940-е)",
+  "said": "сказал(а)",
+  "same": "тот же",
+  "say": "говорить",
+  "says": "говорит; (pad says) указано",
+  "schedule": "расписание",
+  "schedules": "расписания",
+  "second": "второй (Second World War — Вторая мировая война)",
+  "secret": "тайный",
+  "secretly": "тайно",
+  "secrets": "тайны, секреты",
+  "seemed": "казалось",
+  "seems": "кажется",
+  "seen": "считались (were seen as)",
+  "sees": "видит",
+  "send": "послать",
+  "sender": "отправитель",
+  "sends": "посылает",
+  "senior": "высокопоставленный, старший",
+  "sent": "отправил",
+  "sentence": "срок (наказания)",
+  "sentences": "сроки (наказания)",
+  "september": "сентябрь",
+  "serious": "серьёзный",
+  "served": "служили",
+  "service": "служба",
+  "services": "службы",
+  "set": "набор",
+  "seven": "семь",
+  "shannon": "Шеннон (фамилия)",
+  "share": "делиться",
+  "she": "она",
+  "short": "короткий",
+  "shortcut": "упрощение, срезание углов",
+  "shortwave": "коротковолновый",
+  "shot": "сбили (shot down)",
+  "showed": "показала",
+  "shows": "показывает",
+  "shut": "закрыть (shut down — закрыть, прекратить работу)",
+  "sign": "знак (call sign — позывной)",
+  "signal": "сигнал",
+  "signals": "сигналы",
+  "silence": "тишина",
+  "silent": "молчащий (went silent — замолчал)",
+  "simple": "простой",
+  "simply": "просто",
+  "since": "с (тех пор как)",
+  "sit": "сидеть",
+  "sitting": "сидящий",
+  "six": "шесть",
+  "small": "маленький",
+  "so": "поэтому; так",
+  "software": "программы",
+  "some": "некоторые",
+  "someone": "кто-то (someone else's — чужой)",
+  "something": "что-то",
+  "sometimes": "иногда",
+  "song": "песня",
+  "sound": "звук",
+  "sounds": "звуки",
+  "soviet": "советский",
+  "spanish": "испанский",
+  "speaking": "говоривший",
+  "special": "специальный",
+  "spied": "шпионило",
+  "spies": "шпионы",
+  "spy": "шпионить; (spy agency) разведка",
+  "spying": "шпионаж",
+  "states": "штаты (United States — Соединённые Штаты)",
+  "station": "станция",
+  "station's": "станции",
+  "stations": "станции",
+  "stayed": "остались (в силе); оставался",
+  "steal": "украсть",
+  "still": "всё ещё; до сих пор; по-прежнему",
+  "stopped": "остановилась",
+  "stops": "останавливается",
+  "stories": "истории",
+  "story": "история",
+  "strange": "странный",
+  "strangely": "странно",
+  "strangers": "чужие люди",
+  "strangest": "самый странный",
+  "strong": "сильный",
+  "strongly": "решительно",
+  "studies": "изучает",
+  "style": "стиль",
+  "submarines": "подводные лодки",
+  "subtracts": "вычитает",
+  "suddenly": "вдруг",
+  "suggests": "наводит на мысль",
+  "supporters": "сторонники",
+  "sure": "уверенный",
+  "surprised": "удивили",
+  "system": "система",
+  "taken": "(taken part) участвовал",
+  "takes": "займёт",
+  "talked": "рассказывали",
+  "talks": "общается",
+  "tell": "сказать",
+  "ten": "десять",
+  "tens": "десятки",
+  "text": "текст",
+  "than": "чем",
+  "thanks": "(thanks to) благодаря",
+  "that": "что; тот, это",
+  "the": "(опр. артикль)",
+  "their": "их, свои",
+  "them": "их",
+  "themselves": "сами",
+  "then": "потом, тогда",
+  "theories": "теории",
+  "there": "там",
+  "these": "эти",
+  "they": "они",
+  "think": "думаю",
+  "this": "этот",
+  "thousands": "тысячи",
+  "three": "три",
+  "through": "через, сквозь",
+  "time": "время",
+  "times": "раз",
+  "tiny": "крошечный",
+  "to": "к, в; (частица)",
+  "today": "сегодня",
+  "traced": "отслежен",
+  "traces": "следы",
+  "transmitter": "передатчик",
+  "travel": "распространяются",
+  "treated": "относился",
+  "trial": "суд, судебный процесс",
+  "tried": "пытались",
+  "truly": "действительно",
+  "trying": "пытается",
+  "tune": "мелодия",
+  "tunes": "мелодии",
+  "turn": "превратить",
+  "turning": "вращая, крутя",
+  "turns": "превращает",
+  "twenty": "двадцать",
+  "twice": "дважды",
+  "two": "два",
+  "under": "под (under pressure — под давлением)",
+  "understand": "понимать",
+  "united": "соединённый (United States — Соединённые Штаты)",
+  "until": "до",
+  "unusual": "необычный",
+  "upper": "верхний",
+  "us": "нам",
+  "use": "пользоваться",
+  "used": "используется; использовались",
+  "using": "используя",
+  "usually": "обычно",
+  "uvb": "UVB (часть позывного UVB-76)",
+  "venona": "«Венона» (название проекта)",
+  "very": "очень",
+  "voice": "голос",
+  "voices": "голоса",
+  "war": "война",
+  "wars": "войны",
+  "was": "был(а)",
+  "wasp": "оса (Wasp Network — «Осиная сеть»)",
+  "watch": "следить",
+  "watched": "отслежен, перехвачен",
+  "watching": "наблюдает; следили",
+  "way": "способ",
+  "we": "мы",
+  "weak": "слабый",
+  "well": "хорошо",
+  "went": "пошли; (went silent) замолчал",
+  "were": "были",
+  "west": "Запад",
+  "western": "западный",
+  "what": "что",
+  "when": "когда",
+  "where": "где",
+  "which": "который, что",
+  "while": "тогда как",
+  "who": "кто, который",
+  "whose": "чей",
+  "why": "почему",
+  "widely": "широко",
+  "will": "(буд. время)",
+  "with": "с",
+  "without": "без",
+  "woman's": "женский",
+  "women": "женщины",
+  "word": "слово",
+  "words": "слова",
+  "work": "работа",
+  "worked": "работала",
+  "working": "действовавший",
+  "works": "(works backwards) восстанавливает",
+  "world": "мир",
+  "would": "бы",
+  "writes": "пишет",
+  "writing": "записывая",
+  "years": "лет, годы",
+  "you": "вы, ты",
+  "your": "ваш",
+  "zero": "ноль"
+ },
+ "vocab": {
+  "gentle": 520,
+  "schedule": 381,
+  "schedules": 381,
+  "rise": 436,
+  "guilt": 464,
+  "lovely": 17,
+  "consistent": 498,
+  "released": 590,
+  "ready": 180,
+  "behind": 109,
+  "watch": 14,
+  "watched": 14,
+  "watching": 14,
+  "steal": 469,
+  "noise": 31,
+  "relief": 481,
+  "purpose": 513,
+  "shut": 34,
+  "unusual": 266,
+  "constantly": 578,
+  "suddenly": 30
+ }
+}

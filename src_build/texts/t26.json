@@ -1,0 +1,1463 @@
+{
+ "id": 26,
+ "level": "B1",
+ "title_en": "Better Than the Master",
+ "title_ru": "Лучше мастера",
+ "genre": "Детектив",
+ "summary_ru": "Бедный художник тайно пишет «потерянные» картины великого мастера, но однажды из столицы приезжает эксперт, который замечает в его работе то, чего не видел никто.",
+ "paragraphs": [
+  {
+   "en": "Every morning Lukas Brenner woke up to the roar of the sea below his window. He had lived in the little town of Saltmere for eleven years, and he had never got used to it. On some days the noise felt like applause; on others, it sounded like a huge, cold laugh.",
+   "ru": "Каждое утро Лукас Бреннер просыпался от рёва моря под окном. Он прожил в маленьком городке Солтмир одиннадцать лет и так и не привык к нему. В одни дни этот шум казался аплодисментами, в другие — огромным холодным смехом.",
+   "s": [
+    [
+     "Every morning Lukas Brenner woke up to the roar of the sea below his window.",
+     "Каждое утро Лукас Бреннер просыпался от рёва моря под окном."
+    ],
+    [
+     "He had lived in the little town of Saltmere for eleven years, and he had never got used to it.",
+     "Он прожил в маленьком городке Солтмир одиннадцать лет и так и не привык к нему."
+    ],
+    [
+     "On some days the noise felt like applause; on others, it sounded like a huge, cold laugh.",
+     "В одни дни этот шум казался аплодисментами, в другие — огромным холодным смехом."
+    ]
+   ]
+  },
+  {
+   "en": "He was forty-two, poor, and — in the opinion of every critic who had ever seen his own work — completely without talent. “Technically fine, but there is no confidence in it,” one of them had written about his only exhibition. “It is the painting of a man who is scared of his own hand.” Lukas had kept that article for twenty years. He had read it endlessly, until the paper was soft.",
+   "ru": "Ему было сорок два, он был беден и, по мнению всех критиков, когда-либо видевших его собственные работы, полностью лишён таланта. «Технически неплохо, но в этом нет уверенности», — написал один из них о его единственной выставке. «Это живопись человека, который боится собственной руки». Лукас хранил ту статью двадцать лет. Он бесконечно перечитывал её, пока бумага не стала мягкой.",
+   "s": [
+    [
+     "He was forty-two, poor, and — in the opinion of every critic who had ever seen his own work — completely without talent.",
+     "Ему было сорок два, он был беден и, по мнению всех критиков, когда-либо видевших его собственные работы, полностью лишён таланта."
+    ],
+    [
+     "“Technically fine, but there is no confidence in it,” one of them had written about his only exhibition.",
+     "«Технически неплохо, но в этом нет уверенности», — написал один из них о его единственной выставке."
+    ],
+    [
+     "“It is the painting of a man who is scared of his own hand.”",
+     "«Это живопись человека, который боится собственной руки»."
+    ],
+    [
+     "Lukas had kept that article for twenty years.",
+     "Лукас хранил ту статью двадцать лет."
+    ],
+    [
+     "He had read it endlessly, until the paper was soft.",
+     "Он бесконечно перечитывал её, пока бумага не стала мягкой."
+    ]
+   ]
+  },
+  {
+   "en": "But there was one hand he was not scared of at all, and it was not his own. It belonged to Anton Meyrinck, the great painter of the northern coast, who had died in 1891 and whose paintings now hung in every important museum in Europe. When Lukas painted as Meyrinck, his brush became bright and sure. He knew exactly where the light should fall. He knew which colours Meyrinck would mix, how thick the paint should be, and how to drag the brush across the canvas so that the sea seemed to move.",
+   "ru": "Но была одна рука, которой он совсем не боялся, и она была не его. Она принадлежала Антону Майринку, великому художнику северного побережья, который умер в 1891 году и чьи картины теперь висели во всех важных музеях Европы. Когда Лукас писал как Майринк, его кисть становилась яркой и уверенной. Он точно знал, куда должен падать свет. Он знал, какие цвета смешал бы Майринк, какой толщины должна быть краска и как протащить кисть по холсту, чтобы море словно двигалось.",
+   "s": [
+    [
+     "But there was one hand he was not scared of at all, and it was not his own.",
+     "Но была одна рука, которой он совсем не боялся, и она была не его."
+    ],
+    [
+     "It belonged to Anton Meyrinck, the great painter of the northern coast, who had died in 1891 and whose paintings now hung in every important museum in Europe.",
+     "Она принадлежала Антону Майринку, великому художнику северного побережья, который умер в 1891 году и чьи картины теперь висели во всех важных музеях Европы."
+    ],
+    [
+     "When Lukas painted as Meyrinck, his brush became bright and sure.",
+     "Когда Лукас писал как Майринк, его кисть становилась яркой и уверенной."
+    ],
+    [
+     "He knew exactly where the light should fall.",
+     "Он точно знал, куда должен падать свет."
+    ],
+    [
+     "He knew which colours Meyrinck would mix, how thick the paint should be, and how to drag the brush across the canvas so that the sea seemed to move.",
+     "Он знал, какие цвета смешал бы Майринк, какой толщины должна быть краска и как протащить кисть по холсту, чтобы море словно двигалось."
+    ]
+   ]
+  },
+  {
+   "en": "Nine of these “lost Meyrincks” had been sold in the last six years. Lukas had painted each of them in the small room above the bakery, on old canvases which Max Hollis brought him from house sales. Every few months Max came to collect the finished paintings, and Max was the one who sold them. He was a handsome man with silver hair and a soft, warm voice, and he could talk to a museum director for an hour without saying a single true thing. Lukas sometimes thought of him as a snake in an expensive suit. But he relied on Max completely. Without him, the paintings would have been worth nothing.",
+   "ru": "За последние шесть лет было продано девять таких «потерянных Майринков». Лукас написал каждую из них в маленькой комнате над пекарней, на старых холстах, которые Макс Холлис привозил ему с распродаж. Раз в несколько месяцев Макс приезжал забрать готовые картины, и продавал их тоже Макс. Это был красивый мужчина с серебристыми волосами и мягким тёплым голосом, который мог час разговаривать с директором музея, не сказав ни одного слова правды. Иногда Лукас думал о нём как о змее в дорогом костюме. Но он полностью полагался на Макса. Без него картины ничего бы не стоили.",
+   "s": [
+    [
+     "Nine of these “lost Meyrincks” had been sold in the last six years.",
+     "За последние шесть лет было продано девять таких «потерянных Майринков»."
+    ],
+    [
+     "Lukas had painted each of them in the small room above the bakery, on old canvases which Max Hollis brought him from house sales.",
+     "Лукас написал каждую из них в маленькой комнате над пекарней, на старых холстах, которые Макс Холлис привозил ему с распродаж."
+    ],
+    [
+     "Every few months Max came to collect the finished paintings, and Max was the one who sold them.",
+     "Раз в несколько месяцев Макс приезжал забрать готовые картины, и продавал их тоже Макс."
+    ],
+    [
+     "He was a handsome man with silver hair and a soft, warm voice, and he could talk to a museum director for an hour without saying a single true thing.",
+     "Это был красивый мужчина с серебристыми волосами и мягким тёплым голосом, который мог час разговаривать с директором музея, не сказав ни одного слова правды."
+    ],
+    [
+     "Lukas sometimes thought of him as a snake in an expensive suit.",
+     "Иногда Лукас думал о нём как о змее в дорогом костюме."
+    ],
+    [
+     "But he relied on Max completely.",
+     "Но он полностью полагался на Макса."
+    ],
+    [
+     "Without him, the paintings would have been worth nothing.",
+     "Без него картины ничего бы не стоили."
+    ]
+   ]
+  },
+  {
+   "en": "On a grey Sunday in late autumn, Max climbed the narrow stairs and stood in front of the newest painting. It showed a fishing boat pulled up below a black rock, with a woman standing next to it, looking at the sea. The sky was the colour of butter and smoke.",
+   "ru": "В одно серое воскресенье поздней осенью Макс поднялся по узкой лестнице и встал перед новой картиной. На ней была рыбацкая лодка, вытащенная на берег под чёрной скалой, а рядом с ней стояла женщина и смотрела на море. Небо было цвета масла и дыма.",
+   "s": [
+    [
+     "On a grey Sunday in late autumn, Max climbed the narrow stairs and stood in front of the newest painting.",
+     "В одно серое воскресенье поздней осенью Макс поднялся по узкой лестнице и встал перед новой картиной."
+    ],
+    [
+     "It showed a fishing boat pulled up below a black rock, with a woman standing next to it, looking at the sea.",
+     "На ней была рыбацкая лодка, вытащенная на берег под чёрной скалой, а рядом с ней стояла женщина и смотрела на море."
+    ],
+    [
+     "The sky was the colour of butter and smoke.",
+     "Небо было цвета масла и дыма."
+    ]
+   ]
+  },
+  {
+   "en": "Max looked at it for a long time without speaking. Then he said, “This is the best one. It's more Meyrinck than Meyrinck.” He gave a short, satisfied laugh. “It is time for something bigger, my friend. I've shown photos of this to the National Museum. They are sending their chief expert on Thursday. If she likes it, the price will increase ten times. We'll both make a fortune.”",
+   "ru": "Макс долго смотрел на неё молча. Потом сказал: «Это лучшая. В ней больше Майринка, чем в самом Майринке». Он коротко и довольно рассмеялся. «Пора заняться чем-то покрупнее, друг мой. Я показал фотографии Национальному музею. В четверг они присылают своего главного эксперта. Если картина ей понравится, цена вырастет в десять раз. Мы оба разбогатеем».",
+   "s": [
+    [
+     "Max looked at it for a long time without speaking.",
+     "Макс долго смотрел на неё молча."
+    ],
+    [
+     "Then he said, “This is the best one.",
+     "Потом сказал: «Это лучшая."
+    ],
+    [
+     "It's more Meyrinck than Meyrinck.”",
+     "В ней больше Майринка, чем в самом Майринке»."
+    ],
+    [
+     "He gave a short, satisfied laugh.",
+     "Он коротко и довольно рассмеялся."
+    ],
+    [
+     "“It is time for something bigger, my friend.",
+     "«Пора заняться чем-то покрупнее, друг мой."
+    ],
+    [
+     "I've shown photos of this to the National Museum.",
+     "Я показал фотографии Национальному музею."
+    ],
+    [
+     "They are sending their chief expert on Thursday.",
+     "В четверг они присылают своего главного эксперта."
+    ],
+    [
+     "If she likes it, the price will increase ten times.",
+     "Если картина ей понравится, цена вырастет в десять раз."
+    ],
+    [
+     "We'll both make a fortune.”",
+     "Мы оба разбогатеем»."
+    ]
+   ]
+  },
+  {
+   "en": "“The National Museum?” Lukas replied. “Max, that's not a private collector. They'll use machines. They'll test the paint.”",
+   "ru": "«Национальный музей? — ответил Лукас. — Макс, это не частный коллекционер. Они будут использовать приборы. Они проверят краску».",
+   "s": [
+    [
+     "“The National Museum?” Lukas replied.",
+     "«Национальный музей? — ответил Лукас."
+    ],
+    [
+     "“Max, that's not a private collector.",
+     "— Макс, это не частный коллекционер."
+    ],
+    [
+     "They'll use machines.",
+     "Они будут использовать приборы."
+    ],
+    [
+     "They'll test the paint.”",
+     "Они проверят краску»."
+    ]
+   ]
+  },
+  {
+   "en": "“Certainly they will,” Max said, and his smile did not reach his eyes. “So I hope you've done your job carefully.”",
+   "ru": "«Конечно, проверят, — сказал Макс, и его улыбка не коснулась глаз. — Так что надеюсь, ты сделал свою работу внимательно».",
+   "s": [
+    [
+     "“Certainly they will,” Max said, and his smile did not reach his eyes.",
+     "«Конечно, проверят, — сказал Макс, и его улыбка не коснулась глаз."
+    ],
+    [
+     "“So I hope you've done your job carefully.”",
+     "— Так что надеюсь, ты сделал свою работу внимательно»."
+    ]
+   ]
+  },
+  {
+   "en": "Lukas had done his job carefully. He always did. He used only pigments that had existed in the 1880s. He made his own oil paint from raw powder and oil, the way painters did a century and a half ago. He even baked the finished canvases in an old bread oven to make the paint crack like old skin. In his defense, he had never sold a painting himself, and he had never taken more than a small part of the money. Still, he could not sleep for the rest of the week.",
+   "ru": "Лукас сделал свою работу внимательно. Как всегда. Он использовал только пигменты, существовавшие в 1880-х годах. Он сам делал масляную краску из сырого порошка и масла, как художники полтора века назад. Он даже запекал готовые холсты в старой хлебной печи, чтобы краска трескалась, как старая кожа. В его защиту можно сказать, что сам он не продал ни одной картины и никогда не брал больше небольшой части денег. И всё же он не мог спать до конца недели.",
+   "s": [
+    [
+     "Lukas had done his job carefully.",
+     "Лукас сделал свою работу внимательно."
+    ],
+    [
+     "He always did.",
+     "Как всегда."
+    ],
+    [
+     "He used only pigments that had existed in the 1880s.",
+     "Он использовал только пигменты, существовавшие в 1880-х годах."
+    ],
+    [
+     "He made his own oil paint from raw powder and oil, the way painters did a century and a half ago.",
+     "Он сам делал масляную краску из сырого порошка и масла, как художники полтора века назад."
+    ],
+    [
+     "He even baked the finished canvases in an old bread oven to make the paint crack like old skin.",
+     "Он даже запекал готовые холсты в старой хлебной печи, чтобы краска трескалась, как старая кожа."
+    ],
+    [
+     "In his defense, he had never sold a painting himself, and he had never taken more than a small part of the money.",
+     "В его защиту можно сказать, что сам он не продал ни одной картины и никогда не брал больше небольшой части денег."
+    ],
+    [
+     "Still, he could not sleep for the rest of the week.",
+     "И всё же он не мог спать до конца недели."
+    ]
+   ]
+  },
+  {
+   "en": "The expert's name was Dr Clara Ost. She arrived in a small car which she had driven herself all the way from the capital, and she was not what Lukas had expected at all. She was about sixty, with short white hair, and his first impression was that she was a little rude: she did not shake hands, and she did not say hello. Max introduced Lukas as the man who had cleaned the painting. Clara simply asked to see it at once.",
+   "ru": "Эксперта звали доктор Клара Ост. Она приехала на маленькой машине, которую сама вела всю дорогу от столицы, и оказалась совсем не такой, как ожидал Лукас. Ей было около шестидесяти, у неё были короткие седые волосы, и его первое впечатление было, что она немного грубая: она не пожала руки и не поздоровалась. Макс представил Лукаса как человека, который очищал картину. Клара просто попросила сразу её показать.",
+   "s": [
+    [
+     "The expert's name was Dr Clara Ost.",
+     "Эксперта звали доктор Клара Ост."
+    ],
+    [
+     "She arrived in a small car which she had driven herself all the way from the capital, and she was not what Lukas had expected at all.",
+     "Она приехала на маленькой машине, которую сама вела всю дорогу от столицы, и оказалась совсем не такой, как ожидал Лукас."
+    ],
+    [
+     "She was about sixty, with short white hair, and his first impression was that she was a little rude: she did not shake hands, and she did not say hello.",
+     "Ей было около шестидесяти, у неё были короткие седые волосы, и его первое впечатление было, что она немного грубая: она не пожала руки и не поздоровалась."
+    ],
+    [
+     "Max introduced Lukas as the man who had cleaned the painting.",
+     "Макс представил Лукаса как человека, который очищал картину."
+    ],
+    [
+     "Clara simply asked to see it at once.",
+     "Клара просто попросила сразу её показать."
+    ]
+   ]
+  },
+  {
+   "en": "For two hours she studied it in Max's gallery, under a bright lamp, with a magnifying glass and a small machine that she connected to her laptop. Max talked endlessly about the old family who had found the painting in their attic. Clara did not reply. At last she turned off the lamp.",
+   "ru": "Два часа она изучала её в галерее Макса под яркой лампой, с лупой и маленьким прибором, подключённым к ноутбуку. Макс бесконечно рассказывал о старинной семье, которая нашла картину у себя на чердаке. Клара не отвечала. Наконец она выключила лампу.",
+   "s": [
+    [
+     "For two hours she studied it in Max's gallery, under a bright lamp, with a magnifying glass and a small machine that she connected to her laptop.",
+     "Два часа она изучала её в галерее Макса под яркой лампой, с лупой и маленьким прибором, подключённым к ноутбуку."
+    ],
+    [
+     "Max talked endlessly about the old family who had found the painting in their attic.",
+     "Макс бесконечно рассказывал о старинной семье, которая нашла картину у себя на чердаке."
+    ],
+    [
+     "Clara did not reply.",
+     "Клара не отвечала."
+    ],
+    [
+     "At last she turned off the lamp.",
+     "Наконец она выключила лампу."
+    ]
+   ]
+  },
+  {
+   "en": "“It's perfect,” she said. Max smiled. Lukas felt something strange — not joy, not exactly, but something similar to it.",
+   "ru": "«Она идеальна», — сказала она. Макс улыбнулся. Лукас почувствовал что-то странное — не радость, не совсем, но что-то похожее на неё.",
+   "s": [
+    [
+     "“It's perfect,” she said.",
+     "«Она идеальна», — сказала она."
+    ],
+    [
+     "Max smiled.",
+     "Макс улыбнулся."
+    ],
+    [
+     "Lukas felt something strange — not joy, not exactly, but something similar to it.",
+     "Лукас почувствовал что-то странное — не радость, не совсем, но что-то похожее на неё."
+    ]
+   ]
+  },
+  {
+   "en": "“That,” Clara went on, “is the problem. Meyrinck was never perfect. He was a great painter, but he was not a consistent one. In his last years his eyes were weak, and his hand shook. He made mistakes with the shadows. He painted rocks that looked like bread. Every real Meyrinck from the 1880s has those mistakes. This one has none.” She looked at Lukas, not at Max. “Whoever painted this is better than Meyrinck was.”",
+   "ru": "«В этом, — продолжала Клара, — и проблема. Майринк никогда не был идеальным. Он был великим художником, но не последовательным. В последние годы у него было слабое зрение и дрожала рука. Он ошибался с тенями. Он писал скалы, похожие на хлеб. В каждом настоящем Майринке 1880-х есть эти ошибки. В этом — ни одной». Она смотрела на Лукаса, а не на Макса. «Тот, кто это написал, лучше, чем был Майринк».",
+   "s": [
+    [
+     "“That,” Clara went on, “is the problem.",
+     "«В этом, — продолжала Клара, — и проблема."
+    ],
+    [
+     "Meyrinck was never perfect.",
+     "Майринк никогда не был идеальным."
+    ],
+    [
+     "He was a great painter, but he was not a consistent one.",
+     "Он был великим художником, но не последовательным."
+    ],
+    [
+     "In his last years his eyes were weak, and his hand shook.",
+     "В последние годы у него было слабое зрение и дрожала рука."
+    ],
+    [
+     "He made mistakes with the shadows.",
+     "Он ошибался с тенями."
+    ],
+    [
+     "He painted rocks that looked like bread.",
+     "Он писал скалы, похожие на хлеб."
+    ],
+    [
+     "Every real Meyrinck from the 1880s has those mistakes.",
+     "В каждом настоящем Майринке 1880-х есть эти ошибки."
+    ],
+    [
+     "This one has none.”",
+     "В этом — ни одной»."
+    ],
+    [
+     "She looked at Lukas, not at Max.",
+     "Она смотрела на Лукаса, а не на Макса."
+    ],
+    [
+     "“Whoever painted this is better than Meyrinck was.”",
+     "«Тот, кто это написал, лучше, чем был Майринк»."
+    ]
+   ]
+  },
+  {
+   "en": "Max's face did not change. “With respect, Doctor, that is only an opinion.” “It's an opinion,” Clara agreed. “Which is why I also tested the paint. The canvas is from 1870 or so. The paint is about four months old. Oil paint takes decades to dry completely inside, whatever you do to the surface. You can bake it, but you can't fool chemistry.”",
+   "ru": "Лицо Макса не изменилось. «При всём уважении, доктор, это лишь мнение». «Это мнение, — согласилась Клара. — Именно поэтому я проверила и краску. Холст примерно 1870 года. А краске около четырёх месяцев. Масляной краске нужны десятилетия, чтобы полностью высохнуть внутри, что бы вы ни делали с поверхностью. Её можно запечь, но химию не обманешь».",
+   "s": [
+    [
+     "Max's face did not change.",
+     "Лицо Макса не изменилось."
+    ],
+    [
+     "“With respect, Doctor, that is only an opinion.”",
+     "«При всём уважении, доктор, это лишь мнение»."
+    ],
+    [
+     "“It's an opinion,” Clara agreed.",
+     "«Это мнение, — согласилась Клара."
+    ],
+    [
+     "“Which is why I also tested the paint.",
+     "— Именно поэтому я проверила и краску."
+    ],
+    [
+     "The canvas is from 1870 or so.",
+     "Холст примерно 1870 года."
+    ],
+    [
+     "The paint is about four months old.",
+     "А краске около четырёх месяцев."
+    ],
+    [
+     "Oil paint takes decades to dry completely inside, whatever you do to the surface.",
+     "Масляной краске нужны десятилетия, чтобы полностью высохнуть внутри, что бы вы ни делали с поверхностью."
+    ],
+    [
+     "You can bake it, but you can't fool chemistry.”",
+     "Её можно запечь, но химию не обманешь»."
+    ]
+   ]
+  },
+  {
+   "en": "The room was very quiet. Outside, the sea kept up its endless roar. Lukas waited for the police, for handcuffs, for the end of his life. Instead, Clara took a folder out of her bag and put it on the table.",
+   "ru": "В комнате было очень тихо. Снаружи море не умолкало в своём бесконечном рёве. Лукас ждал полиции, наручников, конца своей жизни. Вместо этого Клара достала из сумки папку и положила её на стол.",
+   "s": [
+    [
+     "The room was very quiet.",
+     "В комнате было очень тихо."
+    ],
+    [
+     "Outside, the sea kept up its endless roar.",
+     "Снаружи море не умолкало в своём бесконечном рёве."
+    ],
+    [
+     "Lukas waited for the police, for handcuffs, for the end of his life.",
+     "Лукас ждал полиции, наручников, конца своей жизни."
+    ],
+    [
+     "Instead, Clara took a folder out of her bag and put it on the table.",
+     "Вместо этого Клара достала из сумки папку и положила её на стол."
+    ]
+   ]
+  },
+  {
+   "en": "“I'm not here because of this painting,” she said. “I'm here because of these.” Inside the folder lay photographs of five famous Meyrincks from the National Museum, including “The Fisherman's Grave”, the painting which had made Lukas want to become an artist when he was a boy. “For the last two years I've been preparing an internal report. Officially, its topic is the development of Meyrinck's style. In fact, it's about the fact that these five paintings are fakes. They were painted around 1960, by the same hand.”",
+   "ru": "«Я здесь не из-за этой картины, — сказала она. — Я здесь из-за этих». В папке лежали фотографии пяти знаменитых Майринков из Национального музея, в том числе «Могилы рыбака» — картины, из-за которой Лукас ещё мальчиком захотел стать художником. «Последние два года я готовлю внутренний отчёт. Официально его тема — развитие стиля Майринка. На самом деле он о том, что эти пять картин — подделки. Они написаны около 1960 года одной и той же рукой».",
+   "s": [
+    [
+     "“I'm not here because of this painting,” she said.",
+     "«Я здесь не из-за этой картины, — сказала она."
+    ],
+    [
+     "“I'm here because of these.”",
+     "— Я здесь из-за этих»."
+    ],
+    [
+     "Inside the folder lay photographs of five famous Meyrincks from the National Museum, including “The Fisherman's Grave”, the painting which had made Lukas want to become an artist when he was a boy.",
+     "В папке лежали фотографии пяти знаменитых Майринков из Национального музея, в том числе «Могилы рыбака» — картины, из-за которой Лукас ещё мальчиком захотел стать художником."
+    ],
+    [
+     "“For the last two years I've been preparing an internal report.",
+     "«Последние два года я готовлю внутренний отчёт."
+    ],
+    [
+     "Officially, its topic is the development of Meyrinck's style.",
+     "Официально его тема — развитие стиля Майринка."
+    ],
+    [
+     "In fact, it's about the fact that these five paintings are fakes.",
+     "На самом деле он о том, что эти пять картин — подделки."
+    ],
+    [
+     "They were painted around 1960, by the same hand.”",
+     "Они написаны около 1960 года одной и той же рукой»."
+    ]
+   ]
+  },
+  {
+   "en": "Lukas stared at the photos. He had seen “The Fisherman's Grave” a hundred times; his father had taken him to the museum on the bus every school holiday. A grave on a rock above the sea, a woman in black, and a sky so bright that it hurt to look at it. That painting had defined Meyrinck for the whole world. Every critic called it his masterpiece.",
+   "ru": "Лукас уставился на фотографии. Он видел «Могилу рыбака» сто раз: отец возил его в музей на автобусе на каждых школьных каникулах. Могила на скале над морем, женщина в чёрном и небо такое яркое, что на него было больно смотреть. Эта картина определила Майринка для всего мира. Все критики называли её его шедевром.",
+   "s": [
+    [
+     "Lukas stared at the photos.",
+     "Лукас уставился на фотографии."
+    ],
+    [
+     "He had seen “The Fisherman's Grave” a hundred times; his father had taken him to the museum on the bus every school holiday.",
+     "Он видел «Могилу рыбака» сто раз: отец возил его в музей на автобусе на каждых школьных каникулах."
+    ],
+    [
+     "A grave on a rock above the sea, a woman in black, and a sky so bright that it hurt to look at it.",
+     "Могила на скале над морем, женщина в чёрном и небо такое яркое, что на него было больно смотреть."
+    ],
+    [
+     "That painting had defined Meyrinck for the whole world.",
+     "Эта картина определила Майринка для всего мира."
+    ],
+    [
+     "Every critic called it his masterpiece.",
+     "Все критики называли её его шедевром."
+    ]
+   ]
+  },
+  {
+   "en": "“The forger had a little habit,” Clara said. She pushed one photograph towards him. It was a close-up of the bottom corner, made a hundred times bigger. Hidden in the dark paint of the rocks was a tiny shape: a snake eating its own tail. “He signed all his work like this. I think he couldn't stand the idea of nobody ever knowing.”",
+   "ru": "«У подделывателя была одна маленькая привычка», — сказала Клара. Она подтолкнула к нему одну фотографию. Это был крупный план нижнего угла, увеличенный в сто раз. В тёмной краске скал пряталась крошечная фигурка: змея, кусающая собственный хвост. «Он подписывал так все свои работы. Думаю, он не мог вынести мысли, что никто никогда не узнает».",
+   "s": [
+    [
+     "“The forger had a little habit,” Clara said.",
+     "«У подделывателя была одна маленькая привычка», — сказала Клара."
+    ],
+    [
+     "She pushed one photograph towards him.",
+     "Она подтолкнула к нему одну фотографию."
+    ],
+    [
+     "It was a close-up of the bottom corner, made a hundred times bigger.",
+     "Это был крупный план нижнего угла, увеличенный в сто раз."
+    ],
+    [
+     "Hidden in the dark paint of the rocks was a tiny shape: a snake eating its own tail.",
+     "В тёмной краске скал пряталась крошечная фигурка: змея, кусающая собственный хвост."
+    ],
+    [
+     "“He signed all his work like this.",
+     "«Он подписывал так все свои работы."
+    ],
+    [
+     "I think he couldn't stand the idea of nobody ever knowing.”",
+     "Думаю, он не мог вынести мысли, что никто никогда не узнает»."
+    ]
+   ]
+  },
+  {
+   "en": "Lukas could not breathe. He knew that snake. He had seen it on the back of every birthday card his father had ever drawn for him. His father, Emil Brenner, had driven the number nine bus through the city for thirty years. On Sundays he painted in the kitchen, small and careful pictures of boats, and he had always said that he was just a poor amateur. He had died when Lukas was nineteen. He had never mentioned Meyrinck except to say, with a strange little smile, that the man was “overrated”.",
+   "ru": "Лукас не мог дышать. Он знал эту змею. Он видел её на обороте каждой открытки ко дню рождения, которую отец когда-либо рисовал для него. Его отец, Эмиль Бреннер, тридцать лет водил по городу девятый автобус. По воскресеньям он рисовал на кухне маленькие аккуратные картинки с лодками и всегда говорил, что он всего лишь бедный любитель. Он умер, когда Лукасу было девятнадцать. Он никогда не упоминал Майринка, разве что говорил со странной улыбкой, что тот «переоценён».",
+   "s": [
+    [
+     "Lukas could not breathe.",
+     "Лукас не мог дышать."
+    ],
+    [
+     "He knew that snake.",
+     "Он знал эту змею."
+    ],
+    [
+     "He had seen it on the back of every birthday card his father had ever drawn for him.",
+     "Он видел её на обороте каждой открытки ко дню рождения, которую отец когда-либо рисовал для него."
+    ],
+    [
+     "His father, Emil Brenner, had driven the number nine bus through the city for thirty years.",
+     "Его отец, Эмиль Бреннер, тридцать лет водил по городу девятый автобус."
+    ],
+    [
+     "On Sundays he painted in the kitchen, small and careful pictures of boats, and he had always said that he was just a poor amateur.",
+     "По воскресеньям он рисовал на кухне маленькие аккуратные картинки с лодками и всегда говорил, что он всего лишь бедный любитель."
+    ],
+    [
+     "He had died when Lukas was nineteen.",
+     "Он умер, когда Лукасу было девятнадцать."
+    ],
+    [
+     "He had never mentioned Meyrinck except to say, with a strange little smile, that the man was “overrated”.",
+     "Он никогда не упоминал Майринка, разве что говорил со странной улыбкой, что тот «переоценён»."
+    ]
+   ]
+  },
+  {
+   "en": "“So,” Clara said quietly, “I think you understand. I came here because I wanted to see if the talent ran in the family.”",
+   "ru": "«Итак, — тихо сказала Клара, — думаю, вы понимаете. Я приехала, потому что хотела увидеть, передаётся ли талант в этой семье по наследству».",
+   "s": [
+    [
+     "“So,” Clara said quietly, “I think you understand.",
+     "«Итак, — тихо сказала Клара, — думаю, вы понимаете."
+    ],
+    [
+     "I came here because I wanted to see if the talent ran in the family.”",
+     "Я приехала, потому что хотела увидеть, передаётся ли талант в этой семье по наследству»."
+    ]
+   ]
+  },
+  {
+   "en": "Max stood up. His warm voice was gone. “This is a horrible mistake,” he said. “We're leaving.” He took Lukas by the arm and tried to drag him towards the door. “Not a word to her. Do you hear me? She has nothing.”",
+   "ru": "Макс встал. Его тёплый голос исчез. «Это ужасная ошибка, — сказал он. — Мы уходим». Он схватил Лукаса за руку и попытался потащить его к двери. «Ни слова ей. Ты меня слышишь? У неё ничего нет».",
+   "s": [
+    [
+     "Max stood up.",
+     "Макс встал."
+    ],
+    [
+     "His warm voice was gone.",
+     "Его тёплый голос исчез."
+    ],
+    [
+     "“This is a horrible mistake,” he said.",
+     "«Это ужасная ошибка, — сказал он."
+    ],
+    [
+     "“We're leaving.”",
+     "— Мы уходим»."
+    ],
+    [
+     "He took Lukas by the arm and tried to drag him towards the door.",
+     "Он схватил Лукаса за руку и попытался потащить его к двери."
+    ],
+    [
+     "“Not a word to her.",
+     "«Ни слова ей."
+    ],
+    [
+     "Do you hear me?",
+     "Ты меня слышишь?"
+    ],
+    [
+     "She has nothing.”",
+     "У неё ничего нет»."
+    ]
+   ]
+  },
+  {
+   "en": "Lukas pulled his arm free. For years he had been scared of Max, of the critics, of his own weak hand. Now, at the sight of that little snake, the fear was simply gone. It was as if he had woken up after a very long sleep. “She has everything,” he said. “She has me.”",
+   "ru": "Лукас вырвал руку. Годами он боялся Макса, критиков, своей слабой руки. Теперь, при виде этой маленькой змеи, страх просто исчез. Словно он проснулся после очень долгого сна. «У неё есть всё, — сказал он. — У неё есть я».",
+   "s": [
+    [
+     "Lukas pulled his arm free.",
+     "Лукас вырвал руку."
+    ],
+    [
+     "For years he had been scared of Max, of the critics, of his own weak hand.",
+     "Годами он боялся Макса, критиков, своей слабой руки."
+    ],
+    [
+     "Now, at the sight of that little snake, the fear was simply gone.",
+     "Теперь, при виде этой маленькой змеи, страх просто исчез."
+    ],
+    [
+     "It was as if he had woken up after a very long sleep.",
+     "Словно он проснулся после очень долгого сна."
+    ],
+    [
+     "“She has everything,” he said.",
+     "«У неё есть всё, — сказал он."
+    ],
+    [
+     "“She has me.”",
+     "— У неё есть я»."
+    ]
+   ]
+  },
+  {
+   "en": "He told her the whole story — the nine paintings, the old canvases, the bread oven, the money, Max's buyers. Max shouted, then threatened, then finally ran out of the gallery, and Clara calmly called the police from her phone. They caught him at the station that evening, trying to get on the last train south.",
+   "ru": "Он рассказал ей всю историю — девять картин, старые холсты, хлебную печь, деньги, покупателей Макса. Макс кричал, потом угрожал, потом наконец выбежал из галереи, а Клара спокойно позвонила в полицию. Его поймали вечером на вокзале, когда он пытался сесть на последний поезд на юг.",
+   "s": [
+    [
+     "He told her the whole story — the nine paintings, the old canvases, the bread oven, the money, Max's buyers.",
+     "Он рассказал ей всю историю — девять картин, старые холсты, хлебную печь, деньги, покупателей Макса."
+    ],
+    [
+     "Max shouted, then threatened, then finally ran out of the gallery, and Clara calmly called the police from her phone.",
+     "Макс кричал, потом угрожал, потом наконец выбежал из галереи, а Клара спокойно позвонила в полицию."
+    ],
+    [
+     "They caught him at the station that evening, trying to get on the last train south.",
+     "Его поймали вечером на вокзале, когда он пытался сесть на последний поезд на юг."
+    ]
+   ]
+  },
+  {
+   "en": "Later, when it was dark, Lukas and Clara walked down to the beach. The wind had become cold, and the water was coming in over the rocks. “What will happen to me?” he asked.",
+   "ru": "Позже, когда стемнело, Лукас и Клара спустились к пляжу. Ветер стал холодным, и вода наступала на скалы. «Что со мной будет?» — спросил он.",
+   "s": [
+    [
+     "Later, when it was dark, Lukas and Clara walked down to the beach.",
+     "Позже, когда стемнело, Лукас и Клара спустились к пляжу."
+    ],
+    [
+     "The wind had become cold, and the water was coming in over the rocks.",
+     "Ветер стал холодным, и вода наступала на скалы."
+    ],
+    [
+     "“What will happen to me?” he asked.",
+     "«Что со мной будет?» — спросил он."
+    ]
+   ]
+  },
+  {
+   "en": "“You'll go to court,” she said. “You're a citizen who has committed a serious crime, and I can't fix that. But you've told the truth, and you'll help us find every false painting. A judge will remember that.” She paused. “And afterwards, the museum will need someone to help restore the real Meyrincks. Someone who understands them better than anyone alive.”",
+   "ru": "«Вы пойдёте под суд, — сказала она. — Вы гражданин, совершивший серьёзное преступление, и я не могу этого исправить. Но вы сказали правду и поможете нам найти каждую поддельную картину. Судья это учтёт». Она помолчала. «А потом музею понадобится человек, который поможет реставрировать настоящих Майринков. Человек, который понимает их лучше всех живущих».",
+   "s": [
+    [
+     "“You'll go to court,” she said.",
+     "«Вы пойдёте под суд, — сказала она."
+    ],
+    [
+     "“You're a citizen who has committed a serious crime, and I can't fix that.",
+     "— Вы гражданин, совершивший серьёзное преступление, и я не могу этого исправить."
+    ],
+    [
+     "But you've told the truth, and you'll help us find every false painting.",
+     "Но вы сказали правду и поможете нам найти каждую поддельную картину."
+    ],
+    [
+     "A judge will remember that.”",
+     "Судья это учтёт»."
+    ],
+    [
+     "She paused.",
+     "Она помолчала."
+    ],
+    [
+     "“And afterwards, the museum will need someone to help restore the real Meyrincks.",
+     "«А потом музею понадобится человек, который поможет реставрировать настоящих Майринков."
+    ],
+    [
+     "Someone who understands them better than anyone alive.”",
+     "Человек, который понимает их лучше всех живущих»."
+    ]
+   ]
+  },
+  {
+   "en": "Lukas laughed, and this time the laugh did not sound like the sea. “You'd trust a forger with your paintings?” “I'd trust a man who has finally got tired of lying,” Clara replied.",
+   "ru": "Лукас рассмеялся, и на этот раз его смех не был похож на море. «Вы доверите свои картины подделывателю?» «Я доверю их человеку, который наконец устал лгать», — ответила Клара.",
+   "s": [
+    [
+     "Lukas laughed, and this time the laugh did not sound like the sea.",
+     "Лукас рассмеялся, и на этот раз его смех не был похож на море."
+    ],
+    [
+     "“You'd trust a forger with your paintings?”",
+     "«Вы доверите свои картины подделывателю?»"
+    ],
+    [
+     "“I'd trust a man who has finally got tired of lying,” Clara replied.",
+     "«Я доверю их человеку, который наконец устал лгать», — ответила Клара."
+    ]
+   ]
+  },
+  {
+   "en": "He went home late that night and stood for a long time in front of the newest Meyrinck. The woman by the boat looked back at him with her painted eyes. For six years, he realised, he had lived inside a delusion: that if he could not be a great painter, he could at least be a great painter's shadow. His father had believed the same thing. It had been their shared fate.",
+   "ru": "Поздно вечером он вернулся домой и долго стоял перед новым Майринком. Женщина у лодки смотрела на него нарисованными глазами. Шесть лет, понял он, он жил в заблуждении: если он не может быть великим художником, то может хотя бы быть тенью великого художника. Его отец верил в то же самое. Это была их общая судьба.",
+   "s": [
+    [
+     "He went home late that night and stood for a long time in front of the newest Meyrinck.",
+     "Поздно вечером он вернулся домой и долго стоял перед новым Майринком."
+    ],
+    [
+     "The woman by the boat looked back at him with her painted eyes.",
+     "Женщина у лодки смотрела на него нарисованными глазами."
+    ],
+    [
+     "For six years, he realised, he had lived inside a delusion: that if he could not be a great painter, he could at least be a great painter's shadow.",
+     "Шесть лет, понял он, он жил в заблуждении: если он не может быть великим художником, то может хотя бы быть тенью великого художника."
+    ],
+    [
+     "His father had believed the same thing.",
+     "Его отец верил в то же самое."
+    ],
+    [
+     "It had been their shared fate.",
+     "Это была их общая судьба."
+    ]
+   ]
+  },
+  {
+   "en": "Lukas took a hammer from the kitchen drawer and broke the frame into pieces. Then he cut the canvas out, rolled it up and put it in a box for the police.",
+   "ru": "Лукас достал из кухонного ящика молоток и разбил раму на куски. Потом вырезал холст, свернул его и положил в коробку для полиции.",
+   "s": [
+    [
+     "Lukas took a hammer from the kitchen drawer and broke the frame into pieces.",
+     "Лукас достал из кухонного ящика молоток и разбил раму на куски."
+    ],
+    [
+     "Then he cut the canvas out, rolled it up and put it in a box for the police.",
+     "Потом вырезал холст, свернул его и положил в коробку для полиции."
+    ]
+   ]
+  },
+  {
+   "en": "On the easel there was now only a blank canvas, white and raw and a little frightening. He had always hated blank canvases. They asked questions he could not answer.",
+   "ru": "На мольберте теперь был только пустой холст — белый, сырой и немного пугающий. Он всегда ненавидел пустые холсты. Они задавали вопросы, на которые он не мог ответить.",
+   "s": [
+    [
+     "On the easel there was now only a blank canvas, white and raw and a little frightening.",
+     "На мольберте теперь был только пустой холст — белый, сырой и немного пугающий."
+    ],
+    [
+     "He had always hated blank canvases.",
+     "Он всегда ненавидел пустые холсты."
+    ],
+    [
+     "They asked questions he could not answer.",
+     "Они задавали вопросы, на которые он не мог ответить."
+    ]
+   ]
+  },
+  {
+   "en": "He looked at it for a long time. Then he mixed a colour that Meyrinck had never used, a deep, strange green like the inside of a wave, and he made his first mark — badly, with no confidence at all. It was not perfect. It was his.",
+   "ru": "Он долго смотрел на него. Потом смешал цвет, которым Майринк никогда не пользовался, — глубокий странный зелёный, как внутренность волны, — и сделал первый мазок: плохо, совсем без уверенности. Он не был идеальным. Он был его.",
+   "s": [
+    [
+     "He looked at it for a long time.",
+     "Он долго смотрел на него."
+    ],
+    [
+     "Then he mixed a colour that Meyrinck had never used, a deep, strange green like the inside of a wave, and he made his first mark — badly, with no confidence at all.",
+     "Потом смешал цвет, которым Майринк никогда не пользовался, — глубокий странный зелёный, как внутренность волны, — и сделал первый мазок: плохо, совсем без уверенности."
+    ],
+    [
+     "It was not perfect.",
+     "Он не был идеальным."
+    ],
+    [
+     "It was his.",
+     "Он был его."
+    ]
+   ]
+  },
+  {
+   "en": "Outside, the sea roared. For the first time in his life, it sounded like joy.",
+   "ru": "Снаружи ревело море. Впервые в жизни этот звук был похож на радость.",
+   "s": [
+    [
+     "Outside, the sea roared.",
+     "Снаружи ревело море."
+    ],
+    [
+     "For the first time in his life, it sounded like joy.",
+     "Впервые в жизни этот звук был похож на радость."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, об",
+  "above": "над",
+  "across": "через, по",
+  "after": "после",
+  "afterwards": "потом, впоследствии",
+  "ago": "назад",
+  "agreed": "согласилась",
+  "alive": "живой",
+  "all": "совсем (at all)",
+  "also": "также",
+  "always": "всегда",
+  "amateur": "любитель",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "answer": "отвечать",
+  "anton": "Антон (имя)",
+  "anyone": "кого-либо",
+  "applause": "аплодисменты",
+  "are": "(есть) — вы/они",
+  "arm": "рука",
+  "around": "вокруг, по",
+  "arrived": "приехала",
+  "article": "статья",
+  "artist": "художник",
+  "as": "как, так как",
+  "asked": "спросил(а)",
+  "at": "в, у, на",
+  "attic": "чердак",
+  "autumn": "осень",
+  "back": "назад",
+  "badly": "плохо",
+  "bag": "сумка",
+  "bake": "запечь",
+  "baked": "запекал",
+  "bakery": "пекарня",
+  "be": "быть",
+  "beach": "пляж",
+  "became": "стал(а)",
+  "because": "потому что",
+  "become": "стать",
+  "been": "был(о)",
+  "believed": "верил",
+  "belonged": "принадлежал",
+  "below": "внизу",
+  "best": "лучший",
+  "better": "лучше",
+  "bigger": "больше",
+  "birthday": "день рождения",
+  "black": "чёрный",
+  "blank": "пустой",
+  "boat": "лодка",
+  "boats": "лодки",
+  "both": "оба",
+  "bottom": "низ",
+  "box": "шкатулка, коробка",
+  "boy": "мальчик",
+  "bread": "хлеб",
+  "breathe": "дышать",
+  "brenner": "Бреннер (фамилия)",
+  "bright": "яркий",
+  "broke": "разбил",
+  "brought": "привозил",
+  "brush": "кисть",
+  "bus": "автобус",
+  "but": "но",
+  "butter": "масло",
+  "buyers": "покупатели",
+  "by": "у, к, от",
+  "called": "называли; позвонила (called the police)",
+  "calmly": "спокойно",
+  "came": "пришёл, пришли",
+  "can": "могу, можем",
+  "can't": "не может, нельзя",
+  "canvas": "холст",
+  "canvases": "холсты",
+  "capital": "столица",
+  "car": "машина",
+  "card": "открытка",
+  "careful": "осторожный, тщательный",
+  "carefully": "внимательно",
+  "caught": "поймали",
+  "century": "век",
+  "certainly": "конечно",
+  "change": "изменить",
+  "chemistry": "химия",
+  "chief": "главный",
+  "citizen": "гражданин",
+  "city": "город",
+  "clara": "Клара (имя)",
+  "cleaned": "очистил",
+  "climbed": "поднялся",
+  "close": "близко",
+  "coast": "побережье",
+  "cold": "холодный",
+  "collect": "собирать",
+  "collector": "коллекционер",
+  "colour": "цвет, краски",
+  "colours": "цвета",
+  "coming": "наступала (coming in)",
+  "committed": "совершил",
+  "completely": "полностью",
+  "confidence": "уверенность",
+  "connected": "подключила",
+  "consistent": "последовательный",
+  "corner": "угол",
+  "could": "мог(ла)",
+  "couldn't": "не мог",
+  "court": "суд",
+  "crack": "трескаться",
+  "crime": "преступление",
+  "critic": "критик",
+  "critics": "критики",
+  "cut": "вырезал",
+  "dark": "тёмный",
+  "days": "дни",
+  "decades": "десятилетия",
+  "deep": "глубокий",
+  "defense": "защита",
+  "defined": "определила",
+  "delusion": "заблуждение",
+  "development": "развитие",
+  "did": "делал; (вспом. гл.)",
+  "died": "умер(ла)",
+  "director": "директор",
+  "do": "(вспом. гл.)",
+  "doctor": "доктор",
+  "done": "сделал",
+  "door": "дверь",
+  "down": "вниз",
+  "dr": "доктор",
+  "drag": "тащить, протащить",
+  "drawer": "ящик",
+  "drawn": "рисовал",
+  "driven": "вёл, водил (машину)",
+  "dry": "высохнуть",
+  "each": "друг (each other)",
+  "easel": "мольберт",
+  "eating": "ест",
+  "eleven": "одиннадцать",
+  "emil": "Эмиль (имя)",
+  "end": "конец",
+  "endless": "бесконечный",
+  "endlessly": "бесконечно",
+  "europe": "Европа",
+  "even": "даже",
+  "evening": "вечер",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "everything": "всё",
+  "exactly": "точно",
+  "except": "кроме",
+  "exhibition": "выставка",
+  "existed": "существовал",
+  "expected": "ожидала",
+  "expensive": "дорогой",
+  "expert": "эксперт",
+  "expert's": "эксперта",
+  "eyes": "глаза",
+  "face": "лицо",
+  "fact": "факт",
+  "fakes": "подделки",
+  "fall": "падать",
+  "false": "ложный",
+  "family": "семья",
+  "famous": "знаменитый",
+  "fate": "судьба",
+  "father": "отец",
+  "fear": "страх",
+  "felt": "чувствовала",
+  "few": "несколько",
+  "finally": "наконец",
+  "find": "найти",
+  "fine": "неплохо",
+  "finished": "закончила",
+  "first": "первый",
+  "fisherman's": "рыбака",
+  "fishing": "рыболовный",
+  "five": "пять",
+  "fix": "исправить",
+  "folder": "папка",
+  "fool": "обмануть; дурак",
+  "for": "для, в течение",
+  "forger": "подделыватель, фальсификатор",
+  "fortune": "богатство",
+  "forty": "сорок",
+  "found": "нашли",
+  "four": "четыре",
+  "frame": "рама",
+  "free": "свободный (pulled free — вырвал)",
+  "friend": "друг",
+  "frightening": "пугающий",
+  "from": "из, от",
+  "front": "перед (in front of)",
+  "gallery": "галерея",
+  "gave": "издал (gave a laugh)",
+  "get": "сесть (на поезд); get used to — привыкнуть",
+  "glass": "стекло, стеклянный",
+  "go": "ехать, идти",
+  "gone": "исчез",
+  "got": "got used to — привык; got tired — устал",
+  "grave": "могила",
+  "great": "большой, отличный",
+  "green": "зелёный",
+  "grey": "серый",
+  "habit": "привычка",
+  "had": "(вспом. гл.); имела",
+  "hair": "волосы",
+  "half": "половина",
+  "hammer": "молоток",
+  "hand": "рука",
+  "handcuffs": "наручники",
+  "hands": "руки",
+  "handsome": "красивый",
+  "happen": "случиться",
+  "has": "(вспом. гл.)",
+  "hated": "ненавидела",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "hear": "слышать",
+  "hello": "привет",
+  "help": "помочь",
+  "her": "её, ей",
+  "here": "здесь",
+  "herself": "сама",
+  "hidden": "скрытый",
+  "him": "его, ему",
+  "himself": "сам, себе",
+  "his": "его",
+  "holiday": "каникулы",
+  "hollis": "Холлис (фамилия)",
+  "home": "домой",
+  "hope": "надеюсь",
+  "horrible": "ужасный",
+  "hour": "час",
+  "hours": "часы",
+  "house": "дом",
+  "how": "как",
+  "huge": "огромный",
+  "hundred": "сто",
+  "hung": "висела",
+  "hurt": "было больно",
+  "i": "я",
+  "i'd": "я бы",
+  "i'm": "я (есть)",
+  "i've": "я (уже)",
+  "idea": "мысль",
+  "if": "если, ли",
+  "important": "важный",
+  "impression": "впечатление",
+  "in": "в",
+  "including": "включая",
+  "increase": "увеличиться, вырасти",
+  "inside": "внутри",
+  "instead": "вместо этого",
+  "internal": "внутренний",
+  "into": "в",
+  "introduced": "представил",
+  "is": "есть, является",
+  "it": "он, оно, это",
+  "it's": "это",
+  "its": "его, её",
+  "job": "работа",
+  "joy": "радость",
+  "judge": "судья",
+  "just": "просто",
+  "kept": "хранил; kept up — продолжал",
+  "kitchen": "кухня",
+  "knew": "знал(и)",
+  "knowing": "знание",
+  "lamp": "лампа",
+  "laptop": "ноутбук",
+  "last": "прошлый",
+  "late": "поздно",
+  "later": "позже",
+  "laugh": "смех; смеяться",
+  "laughed": "засмеялся",
+  "lay": "лежали",
+  "least": "at least — по крайней мере",
+  "leaving": "уходить",
+  "life": "жизнь",
+  "light": "свет",
+  "like": "как, похожий; нравиться",
+  "likes": "понравится",
+  "little": "маленький, немного",
+  "lived": "жил",
+  "long": "долго, долгий",
+  "look": "смотреть",
+  "looked": "смотрел",
+  "looking": "смотрящая",
+  "lost": "потерянный",
+  "lukas": "Лукас (имя)",
+  "lying": "лгать",
+  "machine": "прибор",
+  "machines": "приборы",
+  "made": "сделал; заставила",
+  "magnifying": "увеличительный (magnifying glass — лупа)",
+  "make": "make a fortune — разбогатеть; заставить",
+  "man": "мужчина",
+  "mark": "мазок",
+  "masterpiece": "шедевр",
+  "max": "Макс (имя)",
+  "max's": "Макса",
+  "me": "меня, мне",
+  "mentioned": "упомянула",
+  "meyrinck": "Майринк (фамилия)",
+  "meyrinck's": "Майринка",
+  "meyrincks": "картины Майринка",
+  "mistake": "ошибка",
+  "mistakes": "ошибки",
+  "mix": "смешивать",
+  "mixed": "смешал",
+  "money": "деньги",
+  "months": "месяцы",
+  "more": "больше",
+  "morning": "утро",
+  "move": "двигаться",
+  "museum": "музей",
+  "my": "мой",
+  "name": "имя",
+  "narrow": "узкий",
+  "national": "национальный",
+  "need": "нужно",
+  "never": "никогда",
+  "newest": "новейший, самый новый",
+  "next": "следующий; рядом",
+  "night": "ночь",
+  "nine": "девять",
+  "nineteen": "девятнадцать",
+  "no": "нет",
+  "nobody": "никто",
+  "noise": "шум",
+  "none": "ничто",
+  "northern": "северный",
+  "not": "не",
+  "nothing": "ничего",
+  "now": "теперь",
+  "number": "номер",
+  "of": "из, о, (род. падеж)",
+  "off": "выключила (turned off)",
+  "officially": "официально",
+  "oil": "масло",
+  "old": "старый",
+  "on": "на",
+  "once": "однажды",
+  "one": "один, одна",
+  "only": "только",
+  "opinion": "мнение",
+  "or": "или",
+  "ost": "Ост (фамилия)",
+  "others": "другие",
+  "out": "наружу",
+  "outside": "снаружи",
+  "oven": "печка, духовка",
+  "over": "закончено",
+  "overrated": "переоценённый",
+  "own": "собственный",
+  "paint": "краска",
+  "painted": "нарисовал",
+  "painter": "художник",
+  "painter's": "художника",
+  "painters": "художники",
+  "painting": "картина",
+  "paintings": "картины",
+  "paper": "бумага",
+  "part": "часть",
+  "paused": "помолчала",
+  "perfect": "идеальный",
+  "phone": "телефон",
+  "photograph": "фотография",
+  "photographs": "фотографии",
+  "photos": "фотографии",
+  "pictures": "картинки",
+  "pieces": "куски",
+  "pigments": "пигменты",
+  "police": "полиция, полицейский",
+  "poor": "бедный",
+  "powder": "порошок",
+  "preparing": "готовить",
+  "price": "цена",
+  "private": "частный",
+  "problem": "проблема",
+  "pulled": "вытащенная; вырвал",
+  "pushed": "подтолкнула",
+  "put": "положил",
+  "questions": "вопросы",
+  "quiet": "тихий",
+  "quietly": "тихо",
+  "ran": "выбежал; ran in the family — передавался в семье",
+  "raw": "сырой",
+  "reach": "дойти до, коснуться",
+  "read": "читать, прочитала",
+  "real": "настоящий",
+  "realised": "понял",
+  "relied": "полагался",
+  "remember": "помню",
+  "replied": "ответил(а)",
+  "reply": "отвечать",
+  "report": "отчёт",
+  "respect": "уважать",
+  "rest": "остаток (до конца)",
+  "restore": "реставрировать, восстанавливать",
+  "roar": "рёв",
+  "roared": "ревело",
+  "rock": "камень, скала",
+  "rocks": "камни, скалы",
+  "rolled": "свернул",
+  "room": "комната",
+  "rude": "грубый",
+  "s": "(1880-е годы)",
+  "said": "сказал(а)",
+  "sales": "продажи",
+  "saltmere": "Солтмир (название города)",
+  "same": "тот же",
+  "satisfied": "довольный",
+  "say": "говорить",
+  "saying": "говоря",
+  "scared": "испуганный",
+  "school": "школа",
+  "sea": "море",
+  "see": "видеть",
+  "seemed": "казалось",
+  "seen": "видел",
+  "sending": "присылают",
+  "serious": "серьёзный",
+  "shadow": "тень",
+  "shadows": "тени",
+  "shake": "пожать (руки)",
+  "shape": "фигура",
+  "shared": "общий",
+  "she": "она",
+  "shook": "дрожала",
+  "short": "короткий",
+  "should": "должен",
+  "shouted": "кричала",
+  "showed": "показала",
+  "shown": "показал",
+  "sight": "вид, взгляд (at the sight — при виде)",
+  "signed": "подписывала",
+  "silver": "серебряный",
+  "similar": "похожий",
+  "simply": "просто",
+  "single": "единственный",
+  "six": "шесть",
+  "sixty": "шестьдесят",
+  "skin": "кожа",
+  "sky": "небо",
+  "sleep": "спать",
+  "small": "маленький",
+  "smile": "улыбка",
+  "smiled": "улыбнулся",
+  "smoke": "дым",
+  "snake": "змея",
+  "so": "поэтому; так",
+  "soft": "мягкий",
+  "sold": "продал",
+  "some": "некоторые",
+  "someone": "кто-то",
+  "something": "что-то",
+  "sometimes": "иногда",
+  "sound": "звук",
+  "sounded": "звучал",
+  "south": "юг",
+  "speaking": "говорить",
+  "stairs": "лестница",
+  "stand": "вынести, терпеть",
+  "standing": "стоящая",
+  "stared": "уставилась",
+  "station": "вокзал",
+  "still": "всё ещё; неподвижный",
+  "stood": "стоял",
+  "story": "история",
+  "strange": "странный",
+  "studied": "изучала",
+  "style": "стиль",
+  "suit": "костюм",
+  "sunday": "воскресенье",
+  "sundays": "воскресенья",
+  "sure": "уверенный",
+  "surface": "поверхность",
+  "table": "стол",
+  "tail": "хвост",
+  "taken": "брал; возил",
+  "takes": "требуется",
+  "talent": "талант",
+  "talk": "разговаривать",
+  "talked": "говорил(а)",
+  "technically": "технически",
+  "ten": "десять",
+  "test": "проверить",
+  "tested": "проверила",
+  "than": "чем",
+  "that": "что; тот, это",
+  "that's": "это (есть)",
+  "the": "(опр. артикль)",
+  "their": "их, свои",
+  "them": "их",
+  "then": "потом, тогда",
+  "there": "там",
+  "these": "эти",
+  "they": "они",
+  "they'll": "они (будут)",
+  "thick": "толстый",
+  "thing": "вещь",
+  "think": "думаю",
+  "thirty": "тридцать",
+  "this": "этот",
+  "those": "те",
+  "thought": "подумала",
+  "threatened": "угрожал",
+  "through": "через, сквозь",
+  "thursday": "четверг",
+  "time": "время, раз",
+  "times": "раз",
+  "tiny": "крошечный",
+  "tired": "got tired — устал",
+  "to": "к, в; (частица)",
+  "told": "рассказал",
+  "took": "взял; достала; возил",
+  "topic": "тема",
+  "towards": "к, по направлению к",
+  "town": "город",
+  "train": "поезд",
+  "tried": "пытались",
+  "true": "правда",
+  "trust": "доверять",
+  "truth": "правда",
+  "trying": "пытаясь",
+  "turned": "повернулся",
+  "twenty": "двадцать",
+  "two": "два",
+  "under": "под",
+  "understand": "понимать",
+  "understands": "понимает",
+  "until": "до",
+  "up": "вверх",
+  "us": "нам",
+  "use": "использовать",
+  "used": "used to — привык; использовал",
+  "very": "очень",
+  "voice": "голос",
+  "waited": "ждал",
+  "walked": "пошли, спустились",
+  "want": "хотеть",
+  "wanted": "хотел",
+  "warm": "тёплый",
+  "was": "был(а)",
+  "water": "вода",
+  "wave": "волна",
+  "way": "способ, так",
+  "we'll": "мы (буд. время)",
+  "we're": "мы (есть)",
+  "weak": "слабый",
+  "week": "неделя",
+  "went": "went on — продолжала; пошёл",
+  "were": "были",
+  "what": "что",
+  "whatever": "что угодно",
+  "when": "когда",
+  "where": "где",
+  "which": "который, что",
+  "white": "белый",
+  "who": "кто, который",
+  "whoever": "тот, кто",
+  "whole": "весь",
+  "whose": "чей",
+  "why": "почему",
+  "will": "будет",
+  "wind": "ветер",
+  "window": "окно",
+  "with": "с",
+  "without": "без",
+  "woke": "проснулся",
+  "woken": "проснулся (woken up)",
+  "woman": "женщина",
+  "word": "слово",
+  "work": "работа",
+  "world": "мир",
+  "worth": "стоить (be worth)",
+  "would": "бы",
+  "written": "написал",
+  "years": "лет, годы",
+  "you": "вы, ты",
+  "you'd": "вы бы (you would)",
+  "you'll": "вы будете (you will)",
+  "you're": "вы (есть)",
+  "you've": "вы (уже)",
+  "your": "ваш"
+ },
+ "vocab": {
+  "more": 6,
+  "roar": 16,
+  "roared": 16,
+  "perfect": 26,
+  "poor": 36,
+  "time": 46,
+  "butter": 56,
+  "woke": 66,
+  "woken": 66,
+  "laugh": 76,
+  "horrible": 86,
+  "tired": 96,
+  "bus": 106,
+  "driven": 116,
+  "below": 126,
+  "topic": 136,
+  "lay": 146,
+  "defense": 156,
+  "rock": 166,
+  "rocks": 166,
+  "sunday": 176,
+  "sundays": 176,
+  "joy": 186,
+  "pushed": 196,
+  "bright": 206,
+  "autumn": 217,
+  "similar": 227,
+  "opinion": 237,
+  "confidence": 247,
+  "replied": 257,
+  "reply": 257,
+  "all": 267,
+  "handsome": 277,
+  "snake": 287,
+  "same": 298,
+  "certainly": 308,
+  "little": 318,
+  "expected": 328,
+  "carefully": 338,
+  "weak": 348,
+  "used": 358,
+  "sight": 368,
+  "fix": 378,
+  "except": 388,
+  "fortune": 406,
+  "endlessly": 416,
+  "blank": 426,
+  "grave": 437,
+  "fate": 450,
+  "rude": 466,
+  "scared": 477,
+  "impression": 488,
+  "consistent": 498,
+  "increase": 509,
+  "raw": 519,
+  "relied": 530,
+  "defined": 540,
+  "drag": 551,
+  "development": 562,
+  "citizen": 572,
+  "which": 582,
+  "collect": 593,
+  "internal": 603,
+  "restore": 614,
+  "completely": 625,
+  "hammer": 636,
+  "delusion": 647
+ }
+}

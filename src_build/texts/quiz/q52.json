@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did CIA leaders start a program like MKUltra?",
+  "q_ru": "Почему руководители ЦРУ начали такую программу, как MKUltra?",
+  "options": [
+   "They wanted to sell LSD to hospitals",
+   "They feared the Soviet Union and China could already control minds",
+   "President Nixon asked them to help him win elections",
+   "Scientists at Camp Detrick demanded more money"
+  ],
+  "options_ru": [
+   "Они хотели продавать ЛСД больницам",
+   "Они боялись, что Советский Союз и Китай уже умеют управлять разумом",
+   "Президент Никсон попросил их помочь ему выиграть выборы",
+   "Учёные из Кэмп-Детрика требовали больше денег"
+  ],
+  "answer": 1,
+  "explain_ru": "В тексте: руководители ЦРУ боялись, что СССР и Китай нашли способ «промывать мозги» и что Америка отстаёт, поэтому было сильное давление догнать их."
+ },
+ {
+  "q": "What happened to Frank Olson at Deep Creek Lake in November 1953?",
+  "q_ru": "Что произошло с Фрэнком Олсоном на озере Дип-Крик в ноябре 1953 года?",
+  "options": [
+   "He was secretly given LSD in a drink",
+   "He agreed to take part in a hypnosis test",
+   "He was arrested for selling secrets",
+   "He fell from a window of the cabin"
+  ],
+  "options_ru": [
+   "Ему тайно подмешали ЛСД в напиток",
+   "Он согласился участвовать в опыте с гипнозом",
+   "Его арестовали за продажу секретов",
+   "Он выпал из окна домика"
+  ],
+  "answer": 0,
+  "explain_ru": "Готлиб подмешал ЛСД в бутылку ликёра и угостил им нескольких мужчин, рассказав об этом лишь примерно через двадцать минут. Олсон погиб позже, в Нью-Йорке."
+ },
+ {
+  "q": "What happened to most of the MKUltra files in 1973?",
+  "q_ru": "Что произошло с большей частью документов MKUltra в 1973 году?",
+  "options": [
+   "They were given to The New York Times",
+   "They were sent to the Olson family",
+   "They were stolen by Soviet agents",
+   "They were destroyed on the director's order"
+  ],
+  "options_ru": [
+   "Их передали газете The New York Times",
+   "Их отправили семье Олсона",
+   "Их украли советские агенты",
+   "Их уничтожили по приказу директора"
+  ],
+  "answer": 3,
+  "explain_ru": "Директор ЦРУ Ричард Хелмс незадолго до ухода приказал уничтожить документы, и Готлиб выполнил этот приказ."
+ },
+ {
+  "q": "How did the public learn details about MKUltra in 1977?",
+  "q_ru": "Как общество узнало подробности о MKUltra в 1977 году?",
+  "options": [
+   "Sidney Gottlieb wrote a book about it",
+   "A former patient found secret tapes",
+   "Surviving financial records were found in a different building",
+   "A Soviet newspaper published the plans"
+  ],
+  "options_ru": [
+   "Сидни Готлиб написал об этом книгу",
+   "Бывший пациент нашёл секретные записи",
+   "В другом здании нашли уцелевшие финансовые документы",
+   "Советская газета опубликовала планы"
+  ],
+  "answer": 2,
+  "explain_ru": "После запроса Джона Маркса по Закону о свободе информации сотрудники ЦРУ нашли тысячи страниц счетов и квитанций, которые хранились в другом здании; затем Сенат провёл слушания."
+ },
+ {
+  "q": "What does the article say about how Frank Olson died?",
+  "q_ru": "Что говорится в статье о том, как погиб Фрэнк Олсон?",
+  "options": [
+   "It is still debated, and there is no official proof of murder",
+   "A court proved that CIA officers murdered him",
+   "The 1994 tests showed that he was never given LSD",
+   "Historians agree that it was an ordinary accident"
+  ],
+  "options_ru": [
+   "Об этом до сих пор спорят, и официальных доказательств убийства нет",
+   "Суд доказал, что его убили сотрудники ЦРУ",
+   "Анализы 1994 года показали, что ему никогда не давали ЛСД",
+   "Историки согласны, что это был обычный несчастный случай"
+  ],
+  "answer": 0,
+  "explain_ru": "Семья считает, что его убили, но никому не предъявили обвинений, иск отклонили, и историки до сих пор спорят — вопрос остаётся открытым."
+ },
+ {
+  "q": "Which idea about MKUltra is NOT supported by evidence?",
+  "q_ru": "Какая идея о MKUltra НЕ подтверждается доказательствами?",
+  "options": [
+   "The CIA gave people LSD without their consent",
+   "Some research was done in universities and prisons",
+   "The CIA paid money through front organizations",
+   "The CIA learned how to control people's minds"
+  ],
+  "options_ru": [
+   "ЦРУ давало людям ЛСД без их согласия",
+   "Часть исследований проводилась в университетах и тюрьмах",
+   "ЦРУ платило деньги через подставные организации",
+   "ЦРУ научилось управлять разумом людей"
+  ],
+  "answer": 3,
+  "explain_ru": "По документам и показаниям на слушаниях, ЦРУ так и не нашло надёжного способа управлять чьим-либо разумом; остальные пункты подтверждены документами."
+ }
+]

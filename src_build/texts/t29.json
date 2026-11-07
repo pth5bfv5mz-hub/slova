@@ -1,0 +1,1440 @@
+{
+ "id": 29,
+ "level": "B1",
+ "title_en": "The Perfect Witness",
+ "title_ru": "Идеальный свидетель",
+ "genre": "Психологический детектив",
+ "summary_ru": "Художник видел убийство на берегу озера и помнит каждую мелочь — но опытного инспектора тревожит именно то, что он помнит слишком много.",
+ "paragraphs": [
+  {
+   "en": "Gerald Whitmore was found dead on a Tuesday afternoon in October, on the shore of Lake Harrow, a few metres from his private boathouse. He was lying on the stones below the old wooden walkway, and one of its planks was broken. At first it looked like an accident. Then the police found the marks on his neck.",
+   "ru": "Джеральда Уитмора нашли мёртвым во вторник днём в октябре, на берегу озера Харроу, в нескольких метрах от его частного лодочного сарая. Он лежал на камнях под старыми деревянными мостками, и одна из досок была сломана. Сначала это было похоже на несчастный случай. Потом полиция нашла следы на его шее.",
+   "s": [
+    [
+     "Gerald Whitmore was found dead on a Tuesday afternoon in October, on the shore of Lake Harrow, a few metres from his private boathouse.",
+     "Джеральда Уитмора нашли мёртвым во вторник днём в октябре, на берегу озера Харроу, в нескольких метрах от его частного лодочного сарая."
+    ],
+    [
+     "He was lying on the stones below the old wooden walkway, and one of its planks was broken.",
+     "Он лежал на камнях под старыми деревянными мостками, и одна из досок была сломана."
+    ],
+    [
+     "At first it looked like an accident.",
+     "Сначала это было похоже на несчастный случай."
+    ],
+    [
+     "Then the police found the marks on his neck.",
+     "Потом полиция нашла следы на его шее."
+    ]
+   ]
+  },
+  {
+   "en": "Detective Inspector Helen Marsh had been a police officer for twenty-two years, and she had learned not to trust a case that seemed easy. This one seemed very easy, because it had a witness.",
+   "ru": "Детектив-инспектор Хелен Марш служила в полиции двадцать два года и научилась не доверять делам, которые кажутся простыми. Это дело казалось очень простым, потому что в нём был свидетель.",
+   "s": [
+    [
+     "Detective Inspector Helen Marsh had been a police officer for twenty-two years, and she had learned not to trust a case that seemed easy.",
+     "Детектив-инспектор Хелен Марш служила в полиции двадцать два года и научилась не доверять делам, которые кажутся простыми."
+    ],
+    [
+     "This one seemed very easy, because it had a witness.",
+     "Это дело казалось очень простым, потому что в нём был свидетель."
+    ]
+   ]
+  },
+  {
+   "en": "His name was Oliver Finch. He was a painter, about forty, with untidy grey hair and long thin fingers covered in paint. On the day of the murder he had been sitting under a tree on the path across the bay, eating his lunch and drawing the water. He arrived at the police station on his own, before anybody had asked him to come.",
+   "ru": "Его звали Оливер Финч. Он был художником лет сорока, с растрёпанными седыми волосами и длинными худыми пальцами, перепачканными краской. В день убийства он сидел под деревом на тропинке на другом берегу залива, обедал и рисовал воду. Он сам пришёл в полицейский участок, прежде чем его кто-либо об этом попросил.",
+   "s": [
+    [
+     "His name was Oliver Finch.",
+     "Его звали Оливер Финч."
+    ],
+    [
+     "He was a painter, about forty, with untidy grey hair and long thin fingers covered in paint.",
+     "Он был художником лет сорока, с растрёпанными седыми волосами и длинными худыми пальцами, перепачканными краской."
+    ],
+    [
+     "On the day of the murder he had been sitting under a tree on the path across the bay, eating his lunch and drawing the water.",
+     "В день убийства он сидел под деревом на тропинке на другом берегу залива, обедал и рисовал воду."
+    ],
+    [
+     "He arrived at the police station on his own, before anybody had asked him to come.",
+     "Он сам пришёл в полицейский участок, прежде чем его кто-либо об этом попросил."
+    ]
+   ]
+  },
+  {
+   "en": "“I saw everything,” he said, and Helen's young sergeant, Tom Bailey, pressed the button on the recorder. “It was ten past three. A tall man walked along the walkway toward Mr Whitmore. He was wearing a long grey coat with black buttons, four of them. He had red hair, cut short, and a small scar on his chin. When he smiled, I could see that his front teeth were very white and slightly too big.”",
+   "ru": "«Я всё видел», — сказал он, и молодой сержант Хелен, Том Бейли, нажал кнопку на диктофоне. «Было десять минут четвёртого. Высокий мужчина шёл по мосткам к мистеру Уитмору. На нём было длинное серое пальто с чёрными пуговицами, их было четыре. У него были рыжие волосы, коротко подстриженные, и маленький шрам на подбородке. Когда он улыбнулся, я увидел, что его передние зубы очень белые и чуть великоваты».",
+   "s": [
+    [
+     "“I saw everything,” he said, and Helen's young sergeant, Tom Bailey, pressed the button on the recorder.",
+     "«Я всё видел», — сказал он, и молодой сержант Хелен, Том Бейли, нажал кнопку на диктофоне."
+    ],
+    [
+     "“It was ten past three.",
+     "«Было десять минут четвёртого."
+    ],
+    [
+     "A tall man walked along the walkway toward Mr Whitmore.",
+     "Высокий мужчина шёл по мосткам к мистеру Уитмору."
+    ],
+    [
+     "He was wearing a long grey coat with black buttons, four of them.",
+     "На нём было длинное серое пальто с чёрными пуговицами, их было четыре."
+    ],
+    [
+     "He had red hair, cut short, and a small scar on his chin.",
+     "У него были рыжие волосы, коротко подстриженные, и маленький шрам на подбородке."
+    ],
+    [
+     "When he smiled, I could see that his front teeth were very white and slightly too big.”",
+     "Когда он улыбнулся, я увидел, что его передние зубы очень белые и чуть великоваты»."
+    ]
+   ]
+  },
+  {
+   "en": "Oliver continued without stopping. The two men had argued. The tall man had taken off his coat and put it on the rail, as if he were preparing for a fight. There had been violence, quick and terrible, and then Gerald Whitmore had fallen through the broken plank. A brown dog with a white tail had run along the shore, barking. Behind Oliver, at the café on the road, a waiter had said “Bon appetit” to a woman who was eating a meat pie.",
+   "ru": "Оливер продолжал без остановки. Двое мужчин поспорили. Высокий снял пальто и повесил его на перила, будто готовился к драке. Последовало насилие, быстрое и страшное, а потом Джеральд Уитмор упал, проломив доску. Коричневая собака с белым хвостом бегала по берегу и лаяла. За спиной у Оливера, в кафе у дороги, официант сказал «Приятного аппетита» женщине, которая ела пирог с мясом.",
+   "s": [
+    [
+     "Oliver continued without stopping.",
+     "Оливер продолжал без остановки."
+    ],
+    [
+     "The two men had argued.",
+     "Двое мужчин поспорили."
+    ],
+    [
+     "The tall man had taken off his coat and put it on the rail, as if he were preparing for a fight.",
+     "Высокий снял пальто и повесил его на перила, будто готовился к драке."
+    ],
+    [
+     "There had been violence, quick and terrible, and then Gerald Whitmore had fallen through the broken plank.",
+     "Последовало насилие, быстрое и страшное, а потом Джеральд Уитмор упал, проломив доску."
+    ],
+    [
+     "A brown dog with a white tail had run along the shore, barking.",
+     "Коричневая собака с белым хвостом бегала по берегу и лаяла."
+    ],
+    [
+     "Behind Oliver, at the café on the road, a waiter had said “Bon appetit” to a woman who was eating a meat pie.",
+     "За спиной у Оливера, в кафе у дороги, официант сказал «Приятного аппетита» женщине, которая ела пирог с мясом."
+    ]
+   ]
+  },
+  {
+   "en": "When the painter had gone, Tom shook his head in admiration. “He's the perfect witness,” he said. “I've never heard anyone remember so much. And I know who he means. Victor Lane, Whitmore's business partner. Tall, red hair, scar on the chin. Everybody in the art world knows they hated each other.”",
+   "ru": "Когда художник ушёл, Том восхищённо покачал головой. «Это идеальный свидетель, — сказал он. Я никогда не слышал, чтобы кто-нибудь столько помнил. И я знаю, кого он имеет в виду. Виктор Лейн, деловой партнёр Уитмора. Высокий, рыжий, шрам на подбородке. Весь мир искусства знает, что они ненавидели друг друга».",
+   "s": [
+    [
+     "When the painter had gone, Tom shook his head in admiration.",
+     "Когда художник ушёл, Том восхищённо покачал головой."
+    ],
+    [
+     "“He's the perfect witness,” he said.",
+     "«Это идеальный свидетель, — сказал он."
+    ],
+    [
+     "“I've never heard anyone remember so much.",
+     "Я никогда не слышал, чтобы кто-нибудь столько помнил."
+    ],
+    [
+     "And I know who he means.",
+     "И я знаю, кого он имеет в виду."
+    ],
+    [
+     "Victor Lane, Whitmore's business partner.",
+     "Виктор Лейн, деловой партнёр Уитмора."
+    ],
+    [
+     "Tall, red hair, scar on the chin.",
+     "Высокий, рыжий, шрам на подбородке."
+    ],
+    [
+     "Everybody in the art world knows they hated each other.”",
+     "Весь мир искусства знает, что они ненавидели друг друга»."
+    ]
+   ]
+  },
+  {
+   "en": "“That's what worries me,” Helen said. “Honest witnesses forget things, Tom. They mix up colours, they aren't sure about the time, they change their story. Memory is untidy by nature. His memory is too clean. It's like a photograph.”",
+   "ru": "«Это меня и беспокоит», — сказала Хелен. «Честные свидетели забывают, Том. Они путают цвета, не уверены во времени, меняют показания. Память по своей природе неаккуратна. А его память слишком чистая. Она как фотография».",
+   "s": [
+    [
+     "“That's what worries me,” Helen said.",
+     "«Это меня и беспокоит», — сказала Хелен."
+    ],
+    [
+     "“Honest witnesses forget things, Tom.",
+     "«Честные свидетели забывают, Том."
+    ],
+    [
+     "They mix up colours, they aren't sure about the time, they change their story.",
+     "Они путают цвета, не уверены во времени, меняют показания."
+    ],
+    [
+     "Memory is untidy by nature.",
+     "Память по своей природе неаккуратна."
+    ],
+    [
+     "His memory is too clean.",
+     "А его память слишком чистая."
+    ],
+    [
+     "It's like a photograph.”",
+     "Она как фотография»."
+    ]
+   ]
+  },
+  {
+   "en": "Despite her doubts, Victor Lane was brought in the next morning. He was exactly as Oliver had described him, from the red hair to the slightly large teeth, and he owned a grey coat with four black buttons. But he was confident and angry rather than frightened. “I was in the city all afternoon,” he said. “I had meetings. Check my schedule.”",
+   "ru": "Несмотря на её сомнения, на следующее утро Виктора Лейна доставили в участок. Он был точно таким, каким его описал Оливер, от рыжих волос до чуть крупных зубов, и у него было серое пальто с четырьмя чёрными пуговицами. Но он был скорее уверенным и злым, чем испуганным. «Я весь день был в городе, — сказал он. У меня были встречи. Проверьте моё расписание».",
+   "s": [
+    [
+     "Despite her doubts, Victor Lane was brought in the next morning.",
+     "Несмотря на её сомнения, на следующее утро Виктора Лейна доставили в участок."
+    ],
+    [
+     "He was exactly as Oliver had described him, from the red hair to the slightly large teeth, and he owned a grey coat with four black buttons.",
+     "Он был точно таким, каким его описал Оливер, от рыжих волос до чуть крупных зубов, и у него было серое пальто с четырьмя чёрными пуговицами."
+    ],
+    [
+     "But he was confident and angry rather than frightened.",
+     "Но он был скорее уверенным и злым, чем испуганным."
+    ],
+    [
+     "“I was in the city all afternoon,” he said.",
+     "«Я весь день был в городе, — сказал он."
+    ],
+    [
+     "“I had meetings.",
+     "У меня были встречи."
+    ],
+    [
+     "Check my schedule.”",
+     "Проверьте моё расписание»."
+    ]
+   ]
+  },
+  {
+   "en": "They checked it. His last meeting had finished at two, and nobody had seen him after that until six. The drive from the city to the lake took less than an hour. It was not enough to prove he was innocent. Tom was ready to celebrate, but Helen asked for one more day.",
+   "ru": "Они проверили. Его последняя встреча закончилась в два, и после этого его никто не видел до шести. Дорога из города до озера занимала меньше часа. Этого было недостаточно, чтобы доказать его невиновность. Том уже был готов праздновать, но Хелен попросила ещё один день.",
+   "s": [
+    [
+     "They checked it.",
+     "Они проверили."
+    ],
+    [
+     "His last meeting had finished at two, and nobody had seen him after that until six.",
+     "Его последняя встреча закончилась в два, и после этого его никто не видел до шести."
+    ],
+    [
+     "The drive from the city to the lake took less than an hour.",
+     "Дорога из города до озера занимала меньше часа."
+    ],
+    [
+     "It was not enough to prove he was innocent.",
+     "Этого было недостаточно, чтобы доказать его невиновность."
+    ],
+    [
+     "Tom was ready to celebrate, but Helen asked for one more day.",
+     "Том уже был готов праздновать, но Хелен попросила ещё один день."
+    ]
+   ]
+  },
+  {
+   "en": "That afternoon she drove out to the lake alone. She found the tree where Oliver had been sitting: an old oak on the far side of the bay. The whole area was quiet, with only a few people walking their dogs. From there, the boathouse looked like a toy. She phoned Tom, who was standing on the walkway, and asked him to smile. She could barely see his face, let alone his teeth.",
+   "ru": "В тот день после обеда она одна поехала к озеру. Она нашла дерево, под которым сидел Оливер: старый дуб на дальней стороне залива. Вся округа была тихой, лишь несколько человек выгуливали собак. Оттуда лодочный сарай казался игрушечным. Она позвонила Тому, который стоял на мостках, и попросила его улыбнуться. Она едва различала его лицо, не говоря уже о зубах.",
+   "s": [
+    [
+     "That afternoon she drove out to the lake alone.",
+     "В тот день после обеда она одна поехала к озеру."
+    ],
+    [
+     "She found the tree where Oliver had been sitting: an old oak on the far side of the bay.",
+     "Она нашла дерево, под которым сидел Оливер: старый дуб на дальней стороне залива."
+    ],
+    [
+     "The whole area was quiet, with only a few people walking their dogs.",
+     "Вся округа была тихой, лишь несколько человек выгуливали собак."
+    ],
+    [
+     "From there, the boathouse looked like a toy.",
+     "Оттуда лодочный сарай казался игрушечным."
+    ],
+    [
+     "She phoned Tom, who was standing on the walkway, and asked him to smile.",
+     "Она позвонила Тому, который стоял на мостках, и попросила его улыбнуться."
+    ],
+    [
+     "She could barely see his face, let alone his teeth.",
+     "Она едва различала его лицо, не говоря уже о зубах."
+    ]
+   ]
+  },
+  {
+   "en": "“How far is it?” Tom asked on the phone. “About two hundred metres,” she said. “Nobody could see the buttons on a coat from here. Not even a painter.”",
+   "ru": "«Какое тут расстояние?» — спросил Том по телефону. «Метров двести, — ответила она. Отсюда никто не смог бы разглядеть пуговицы на пальто. Даже художник».",
+   "s": [
+    [
+     "“How far is it?” Tom asked on the phone.",
+     "«Какое тут расстояние?» — спросил Том по телефону."
+    ],
+    [
+     "“About two hundred metres,” she said.",
+     "«Метров двести, — ответила она."
+    ],
+    [
+     "“Nobody could see the buttons on a coat from here.",
+     "Отсюда никто не смог бы разглядеть пуговицы на пальто."
+    ],
+    [
+     "Not even a painter.”",
+     "Даже художник»."
+    ]
+   ]
+  },
+  {
+   "en": "There was something else. Oliver had said that the sun had been shining on the man's red hair, making it look like fire. Curiously, nobody else remembered any sun. Helen called the weather office and was told that the sky over Lake Harrow had been grey and cloudy for the whole of that Tuesday. The sunshine in Oliver's story had never existed.",
+   "ru": "Было и кое-что ещё. Оливер сказал, что солнце светило на рыжие волосы мужчины, и они казались огнём. Любопытно, но больше никто не помнил никакого солнца. Хелен позвонила в метеослужбу, и ей сказали, что небо над озером Харроу было серым и облачным весь тот вторник. Солнечного света из рассказа Оливера никогда не существовало.",
+   "s": [
+    [
+     "There was something else.",
+     "Было и кое-что ещё."
+    ],
+    [
+     "Oliver had said that the sun had been shining on the man's red hair, making it look like fire.",
+     "Оливер сказал, что солнце светило на рыжие волосы мужчины, и они казались огнём."
+    ],
+    [
+     "Curiously, nobody else remembered any sun.",
+     "Любопытно, но больше никто не помнил никакого солнца."
+    ],
+    [
+     "Helen called the weather office and was told that the sky over Lake Harrow had been grey and cloudy for the whole of that Tuesday.",
+     "Хелен позвонила в метеослужбу, и ей сказали, что небо над озером Харроу было серым и облачным весь тот вторник."
+    ],
+    [
+     "The sunshine in Oliver's story had never existed.",
+     "Солнечного света из рассказа Оливера никогда не существовало."
+    ]
+   ]
+  },
+  {
+   "en": "The next day she visited Oliver's studio, a small house near the shore. It was full of the familiar smell of paint and coffee. Colourful pictures covered every wall: the lake at sunrise, the lake in the rain, the lake under snow. Oliver offered her tea and a place on an old green sofa. He was dressed in casual clothes and seemed calm, almost pleased to see her.",
+   "ru": "На следующий день она пришла в мастерскую Оливера, маленький дом недалеко от берега. В ней стоял привычный запах краски и кофе. Все стены были увешаны яркими картинами: озеро на рассвете, озеро под дождём, озеро под снегом. Оливер предложил ей чаю и место на старом зелёном диване. Он был в повседневной одежде и казался спокойным, почти довольным её приходом.",
+   "s": [
+    [
+     "The next day she visited Oliver's studio, a small house near the shore.",
+     "На следующий день она пришла в мастерскую Оливера, маленький дом недалеко от берега."
+    ],
+    [
+     "It was full of the familiar smell of paint and coffee.",
+     "В ней стоял привычный запах краски и кофе."
+    ],
+    [
+     "Colourful pictures covered every wall: the lake at sunrise, the lake in the rain, the lake under snow.",
+     "Все стены были увешаны яркими картинами: озеро на рассвете, озеро под дождём, озеро под снегом."
+    ],
+    [
+     "Oliver offered her tea and a place on an old green sofa.",
+     "Оливер предложил ей чаю и место на старом зелёном диване."
+    ],
+    [
+     "He was dressed in casual clothes and seemed calm, almost pleased to see her.",
+     "Он был в повседневной одежде и казался спокойным, почти довольным её приходом."
+    ]
+   ]
+  },
+  {
+   "en": "“You knew Gerald Whitmore,” Helen said. It was not a question. “Everybody knew Gerald,” Oliver said with a small smile. “Years ago he sold some of my paintings. He told me I would be famous. He gave me a lot of advice about what people wanted to buy.”",
+   "ru": "«Вы были знакомы с Джеральдом Уитмором», — сказала Хелен. Это был не вопрос. «Все знали Джеральда», — сказал Оливер с лёгкой улыбкой. «Много лет назад он продал несколько моих картин. Он говорил, что я стану знаменитым. Он давал мне много советов о том, что люди хотят покупать».",
+   "s": [
+    [
+     "“You knew Gerald Whitmore,” Helen said.",
+     "«Вы были знакомы с Джеральдом Уитмором», — сказала Хелен."
+    ],
+    [
+     "It was not a question.",
+     "Это был не вопрос."
+    ],
+    [
+     "“Everybody knew Gerald,” Oliver said with a small smile.",
+     "«Все знали Джеральда», — сказал Оливер с лёгкой улыбкой."
+    ],
+    [
+     "“Years ago he sold some of my paintings.",
+     "«Много лет назад он продал несколько моих картин."
+    ],
+    [
+     "He told me I would be famous.",
+     "Он говорил, что я стану знаменитым."
+    ],
+    [
+     "He gave me a lot of advice about what people wanted to buy.”",
+     "Он давал мне много советов о том, что люди хотят покупать»."
+    ]
+   ]
+  },
+  {
+   "en": "“And were you famous?” Something changed in his face. “No,” he said. “Gerald bought my best work for almost nothing and sold it to Victor Lane, and Victor sold it to collectors as something he had discovered. They became rich. Their names are in all the magazines. My paintings hang in expensive houses, and nobody remembers who made them.”",
+   "ru": "«И вы стали знаменитым?» Что-то изменилось в его лице. «Нет, — сказал он. Джеральд купил мои лучшие работы почти даром и продал их Виктору Лейну, а Виктор продал их коллекционерам как своё открытие. Они разбогатели. Их имена во всех журналах. Мои картины висят в дорогих домах, и никто не помнит, кто их написал».",
+   "s": [
+    [
+     "“And were you famous?”",
+     "«И вы стали знаменитым?»"
+    ],
+    [
+     "Something changed in his face.",
+     "Что-то изменилось в его лице."
+    ],
+    [
+     "“No,” he said.",
+     "«Нет, — сказал он."
+    ],
+    [
+     "“Gerald bought my best work for almost nothing and sold it to Victor Lane, and Victor sold it to collectors as something he had discovered.",
+     "Джеральд купил мои лучшие работы почти даром и продал их Виктору Лейну, а Виктор продал их коллекционерам как своё открытие."
+    ],
+    [
+     "They became rich.",
+     "Они разбогатели."
+    ],
+    [
+     "Their names are in all the magazines.",
+     "Их имена во всех журналах."
+    ],
+    [
+     "My paintings hang in expensive houses, and nobody remembers who made them.”",
+     "Мои картины висят в дорогих домах, и никто не помнит, кто их написал»."
+    ]
+   ]
+  },
+  {
+   "en": "Helen heard the disappointment in his voice, twenty years of it. “So you and Victor had something in common,” she said. “You both had reasons to hate Gerald.” “Perhaps,” Oliver said. “But I'm not the one with red hair.”",
+   "ru": "Хелен услышала разочарование в его голосе — двадцать лет разочарования. «Значит, у вас с Виктором было кое-что общее, — сказала она. У вас обоих были причины ненавидеть Джеральда». «Возможно, — сказал Оливер. Но рыжие волосы не у меня».",
+   "s": [
+    [
+     "Helen heard the disappointment in his voice, twenty years of it.",
+     "Хелен услышала разочарование в его голосе — двадцать лет разочарования."
+    ],
+    [
+     "“So you and Victor had something in common,” she said.",
+     "«Значит, у вас с Виктором было кое-что общее, — сказала она."
+    ],
+    [
+     "“You both had reasons to hate Gerald.”",
+     "У вас обоих были причины ненавидеть Джеральда»."
+    ],
+    [
+     "“Perhaps,” Oliver said.",
+     "«Возможно, — сказал Оливер."
+    ],
+    [
+     "“But I'm not the one with red hair.”",
+     "Но рыжие волосы не у меня»."
+    ]
+   ]
+  },
+  {
+   "en": "While he was in the kitchen making more tea, Helen looked around the room. On a table by the window lay a box of pencils and a pile of sketches. Most of them were of the lake. One had fallen behind the sofa, and she picked it up.",
+   "ru": "Пока он на кухне заваривал ещё чаю, Хелен осмотрела комнату. На столе у окна лежали коробка карандашей и стопка набросков. Большинство из них изображали озеро. Один завалился за диван, и она его подняла.",
+   "s": [
+    [
+     "While he was in the kitchen making more tea, Helen looked around the room.",
+     "Пока он на кухне заваривал ещё чаю, Хелен осмотрела комнату."
+    ],
+    [
+     "On a table by the window lay a box of pencils and a pile of sketches.",
+     "На столе у окна лежали коробка карандашей и стопка набросков."
+    ],
+    [
+     "Most of them were of the lake.",
+     "Большинство из них изображали озеро."
+    ],
+    [
+     "One had fallen behind the sofa, and she picked it up.",
+     "Один завалился за диван, и она его подняла."
+    ]
+   ]
+  },
+  {
+   "en": "It was a pencil drawing of the walkway. A tall man in a long coat was walking toward an older man in a hat. There was a brown dog on the shore with its tail in the air, and a broken plank in exactly the right place. The sun was shining in the corner of the picture. At the bottom, in small neat letters, was a date: the Sunday before the murder.",
+   "ru": "Это был карандашный рисунок мостков. Высокий мужчина в длинном пальто шёл к пожилому мужчине в шляпе. На берегу была коричневая собака с задранным хвостом, а сломанная доска — точно на нужном месте. В углу рисунка светило солнце. Внизу маленькими аккуратными буквами стояла дата: воскресенье перед убийством.",
+   "s": [
+    [
+     "It was a pencil drawing of the walkway.",
+     "Это был карандашный рисунок мостков."
+    ],
+    [
+     "A tall man in a long coat was walking toward an older man in a hat.",
+     "Высокий мужчина в длинном пальто шёл к пожилому мужчине в шляпе."
+    ],
+    [
+     "There was a brown dog on the shore with its tail in the air, and a broken plank in exactly the right place.",
+     "На берегу была коричневая собака с задранным хвостом, а сломанная доска — точно на нужном месте."
+    ],
+    [
+     "The sun was shining in the corner of the picture.",
+     "В углу рисунка светило солнце."
+    ],
+    [
+     "At the bottom, in small neat letters, was a date: the Sunday before the murder.",
+     "Внизу маленькими аккуратными буквами стояла дата: воскресенье перед убийством."
+    ]
+   ]
+  },
+  {
+   "en": "When Oliver came back with the tea, Helen was holding the drawing. For a moment neither of them spoke. Then he put the cups down very carefully on the table, and she understood that he was not going to run.",
+   "ru": "Когда Оливер вернулся с чаем, Хелен держала рисунок в руках. Мгновение никто из них не говорил. Потом он очень осторожно поставил чашки на стол, и она поняла, что он не собирается бежать.",
+   "s": [
+    [
+     "When Oliver came back with the tea, Helen was holding the drawing.",
+     "Когда Оливер вернулся с чаем, Хелен держала рисунок в руках."
+    ],
+    [
+     "For a moment neither of them spoke.",
+     "Мгновение никто из них не говорил."
+    ],
+    [
+     "Then he put the cups down very carefully on the table, and she understood that he was not going to run.",
+     "Потом он очень осторожно поставил чашки на стол, и она поняла, что он не собирается бежать."
+    ]
+   ]
+  },
+  {
+   "en": "“It's a study,” he said. “I often draw the walkway. Artists have dreams, Inspector. Sometimes we see things before they happen. You could call it inspiration.”",
+   "ru": "«Это этюд, — сказал он. Я часто рисую мостки. У художников бывают сны, инспектор. Иногда мы видим вещи до того, как они случаются. Можете назвать это вдохновением».",
+   "s": [
+    [
+     "“It's a study,” he said.",
+     "«Это этюд, — сказал он."
+    ],
+    [
+     "“I often draw the walkway.",
+     "Я часто рисую мостки."
+    ],
+    [
+     "Artists have dreams, Inspector.",
+     "У художников бывают сны, инспектор."
+    ],
+    [
+     "Sometimes we see things before they happen.",
+     "Иногда мы видим вещи до того, как они случаются."
+    ],
+    [
+     "You could call it inspiration.”",
+     "Можете назвать это вдохновением»."
+    ]
+   ]
+  },
+  {
+   "en": "“I could,” said Helen. “But I don't think you remembered what happened on Tuesday, Mr Finch. I think you designed it. You drew the picture first, and then you made the world look like it. You must have watched Victor for months: his coat, his teeth, the scar on his chin. You knew Gerald walked on the walkway every afternoon, and you knew how weak that plank was. The only thing you couldn't plan was the weather.”",
+   "ru": "«Могла бы, — сказала Хелен. Но я не думаю, что вы вспомнили то, что произошло во вторник, мистер Финч. Я думаю, вы это придумали. Сначала вы нарисовали картину, а потом сделали так, чтобы мир стал на неё похож. Вы, должно быть, месяцами наблюдали за Виктором: его пальто, его зубы, шрам на подбородке. Вы знали, что Джеральд каждый день гуляет по мосткам, и знали, какая слабая там доска. Единственное, что вы не могли спланировать, — это погода».",
+   "s": [
+    [
+     "“I could,” said Helen.",
+     "«Могла бы, — сказала Хелен."
+    ],
+    [
+     "“But I don't think you remembered what happened on Tuesday, Mr Finch.",
+     "Но я не думаю, что вы вспомнили то, что произошло во вторник, мистер Финч."
+    ],
+    [
+     "I think you designed it.",
+     "Я думаю, вы это придумали."
+    ],
+    [
+     "You drew the picture first, and then you made the world look like it.",
+     "Сначала вы нарисовали картину, а потом сделали так, чтобы мир стал на неё похож."
+    ],
+    [
+     "You must have watched Victor for months: his coat, his teeth, the scar on his chin.",
+     "Вы, должно быть, месяцами наблюдали за Виктором: его пальто, его зубы, шрам на подбородке."
+    ],
+    [
+     "You knew Gerald walked on the walkway every afternoon, and you knew how weak that plank was.",
+     "Вы знали, что Джеральд каждый день гуляет по мосткам, и знали, какая слабая там доска."
+    ],
+    [
+     "The only thing you couldn't plan was the weather.”",
+     "Единственное, что вы не могли спланировать, — это погода»."
+    ]
+   ]
+  },
+  {
+   "en": "Oliver sat down slowly on the sofa. For a long time he looked at his paint-covered hands. Then he gave a long sigh, the sigh of a man who was tired rather than afraid. “The sun was a mistake,” he said quietly. “I had drawn it, and I couldn't take it out of the picture. Does it really matter? Gerald stole my life. Victor stole my name. They deserved what happened to them.”",
+   "ru": "Оливер медленно сел на диван. Он долго смотрел на свои руки в краске. Потом он протяжно вздохнул — так вздыхает человек, который скорее устал, чем боится. «Солнце было ошибкой, — тихо сказал он. Я его нарисовал и не смог убрать с картины. Разве это действительно важно? Джеральд украл мою жизнь. Виктор украл моё имя. Они заслужили то, что с ними случилось».",
+   "s": [
+    [
+     "Oliver sat down slowly on the sofa.",
+     "Оливер медленно сел на диван."
+    ],
+    [
+     "For a long time he looked at his paint-covered hands.",
+     "Он долго смотрел на свои руки в краске."
+    ],
+    [
+     "Then he gave a long sigh, the sigh of a man who was tired rather than afraid.",
+     "Потом он протяжно вздохнул — так вздыхает человек, который скорее устал, чем боится."
+    ],
+    [
+     "“The sun was a mistake,” he said quietly.",
+     "«Солнце было ошибкой, — тихо сказал он."
+    ],
+    [
+     "“I had drawn it, and I couldn't take it out of the picture.",
+     "Я его нарисовал и не смог убрать с картины."
+    ],
+    [
+     "Does it really matter?",
+     "Разве это действительно важно?"
+    ],
+    [
+     "Gerald stole my life.",
+     "Джеральд украл мою жизнь."
+    ],
+    [
+     "Victor stole my name.",
+     "Виктор украл моё имя."
+    ],
+    [
+     "They deserved what happened to them.”",
+     "Они заслужили то, что с ними случилось»."
+    ]
+   ]
+  },
+  {
+   "en": "“Was Victor there at all?” “No. I wore a red wig and a grey coat that I'd bought in a second-hand shop. From across the water nobody could tell the difference. Then I left the wig and the coat in my car, went back to my tree and finished my lunch.” He almost laughed. “The waiter really did say bon appetit, you know. That part was true.”",
+   "ru": "«Виктор вообще там был?» «Нет. Я надел рыжий парик и серое пальто, которое купил в комиссионном магазине. С другого берега никто не заметил бы разницы. Потом я оставил парик и пальто в машине, вернулся к своему дереву и доел обед». Он почти рассмеялся. «Официант правда сказал „приятного аппетита“, знаете ли. Эта часть была правдой».",
+   "s": [
+    [
+     "“Was Victor there at all?”",
+     "«Виктор вообще там был?»"
+    ],
+    [
+     "“No.",
+     "«Нет."
+    ],
+    [
+     "I wore a red wig and a grey coat that I'd bought in a second-hand shop.",
+     "Я надел рыжий парик и серое пальто, которое купил в комиссионном магазине."
+    ],
+    [
+     "From across the water nobody could tell the difference.",
+     "С другого берега никто не заметил бы разницы."
+    ],
+    [
+     "Then I left the wig and the coat in my car, went back to my tree and finished my lunch.”",
+     "Потом я оставил парик и пальто в машине, вернулся к своему дереву и доел обед»."
+    ],
+    [
+     "He almost laughed.",
+     "Он почти рассмеялся."
+    ],
+    [
+     "“The waiter really did say bon appetit, you know.",
+     "«Официант правда сказал „приятного аппетита“, знаете ли."
+    ],
+    [
+     "That part was true.”",
+     "Эта часть была правдой»."
+    ]
+   ]
+  },
+  {
+   "en": "Helen had met many killers, but few had frightened her as much as this quiet man. There had been no anger in his attempt to destroy Victor, no sudden loss of control; only a clear intention, planned like a painting, one colour at a time. “Why did you come to us so quickly?” she asked. “If you had stayed at home, we might never have found you.”",
+   "ru": "Хелен встречала многих убийц, но мало кто пугал её так, как этот тихий человек. В его попытке уничтожить Виктора не было ни злости, ни внезапной потери контроля — только ясное намерение, спланированное, как картина, по одному цвету за раз. «Почему вы так быстро пришли к нам?» — спросила она. «Если бы вы остались дома, мы, возможно, никогда бы вас не нашли».",
+   "s": [
+    [
+     "Helen had met many killers, but few had frightened her as much as this quiet man.",
+     "Хелен встречала многих убийц, но мало кто пугал её так, как этот тихий человек."
+    ],
+    [
+     "There had been no anger in his attempt to destroy Victor, no sudden loss of control; only a clear intention, planned like a painting, one colour at a time.",
+     "В его попытке уничтожить Виктора не было ни злости, ни внезапной потери контроля — только ясное намерение, спланированное, как картина, по одному цвету за раз."
+    ],
+    [
+     "“Why did you come to us so quickly?” she asked.",
+     "«Почему вы так быстро пришли к нам?» — спросила она."
+    ],
+    [
+     "“If you had stayed at home, we might never have found you.”",
+     "«Если бы вы остались дома, мы, возможно, никогда бы вас не нашли»."
+    ]
+   ]
+  },
+  {
+   "en": "Oliver looked at her with a strange, bright expression. “Because for once somebody was listening to me,” he said. “Do you know how that feels, Inspector, after twenty years? I wanted to convey every detail, every colour. I wanted you to see it the way I saw it. I suppose I wanted an audience.”",
+   "ru": "Оливер посмотрел на неё со странным, сияющим выражением лица. «Потому что впервые меня кто-то слушал, — сказал он. Знаете, каково это, инспектор, после двадцати лет? Я хотел передать каждую деталь, каждый цвет. Я хотел, чтобы вы увидели это так, как видел я. Наверное, мне нужны были зрители».",
+   "s": [
+    [
+     "Oliver looked at her with a strange, bright expression.",
+     "Оливер посмотрел на неё со странным, сияющим выражением лица."
+    ],
+    [
+     "“Because for once somebody was listening to me,” he said.",
+     "«Потому что впервые меня кто-то слушал, — сказал он."
+    ],
+    [
+     "“Do you know how that feels, Inspector, after twenty years?",
+     "Знаете, каково это, инспектор, после двадцати лет?"
+    ],
+    [
+     "I wanted to convey every detail, every colour.",
+     "Я хотел передать каждую деталь, каждый цвет."
+    ],
+    [
+     "I wanted you to see it the way I saw it.",
+     "Я хотел, чтобы вы увидели это так, как видел я."
+    ],
+    [
+     "I suppose I wanted an audience.”",
+     "Наверное, мне нужны были зрители»."
+    ]
+   ]
+  },
+  {
+   "en": "Victor Lane was released that evening. When Tom asked him whether he wanted to say anything to the press, he said no and walked quickly to his car, his grey coat over his arm. “I'd guess he won't wear that coat again,” Tom said.",
+   "ru": "Виктора Лейна отпустили в тот же вечер. Когда Том спросил его, не хочет ли он что-нибудь сказать журналистам, он отказался и быстро пошёл к своей машине, держа серое пальто на руке. «Думаю, он больше не наденет это пальто», — сказал Том.",
+   "s": [
+    [
+     "Victor Lane was released that evening.",
+     "Виктора Лейна отпустили в тот же вечер."
+    ],
+    [
+     "When Tom asked him whether he wanted to say anything to the press, he said no and walked quickly to his car, his grey coat over his arm.",
+     "Когда Том спросил его, не хочет ли он что-нибудь сказать журналистам, он отказался и быстро пошёл к своей машине, держа серое пальто на руке."
+    ],
+    [
+     "“I'd guess he won't wear that coat again,” Tom said.",
+     "«Думаю, он больше не наденет это пальто», — сказал Том."
+    ]
+   ]
+  },
+  {
+   "en": "Back at the station, Tom tried to convince Helen to go home and sleep. “You were right,” he said. “I'd have believed every word he said. What made you doubt him?”",
+   "ru": "В участке Том пытался убедить Хелен пойти домой и выспаться. «Вы были правы, — сказал он. Я бы поверил каждому его слову. Что заставило вас в нём усомниться?»",
+   "s": [
+    [
+     "Back at the station, Tom tried to convince Helen to go home and sleep.",
+     "В участке Том пытался убедить Хелен пойти домой и выспаться."
+    ],
+    [
+     "“You were right,” he said.",
+     "«Вы были правы, — сказал он."
+    ],
+    [
+     "“I'd have believed every word he said.",
+     "Я бы поверил каждому его слову."
+    ],
+    [
+     "What made you doubt him?”",
+     "Что заставило вас в нём усомниться?»"
+    ]
+   ]
+  },
+  {
+   "en": "Helen thought about it. “His behavior,” she said at last. “People who have really seen something terrible don't enjoy telling it. They're shocked, they're worried, they want to forget. Oliver wasn't any of those things. He was proud. It wasn't a memory he was describing, Tom. It was his best picture, and he had waited all his life to show it to someone.”",
+   "ru": "Хелен подумала. «Его поведение, — сказала она наконец. Люди, которые действительно видели что-то страшное, не получают удовольствия от рассказа. Они потрясены, обеспокоены, хотят забыть. Оливер не был ни тем, ни другим. Он гордился. Он описывал не воспоминание, Том. Это была его лучшая картина, и он всю жизнь ждал, чтобы кому-нибудь её показать».",
+   "s": [
+    [
+     "Helen thought about it.",
+     "Хелен подумала."
+    ],
+    [
+     "“His behavior,” she said at last.",
+     "«Его поведение, — сказала она наконец."
+    ],
+    [
+     "“People who have really seen something terrible don't enjoy telling it.",
+     "Люди, которые действительно видели что-то страшное, не получают удовольствия от рассказа."
+    ],
+    [
+     "They're shocked, they're worried, they want to forget.",
+     "Они потрясены, обеспокоены, хотят забыть."
+    ],
+    [
+     "Oliver wasn't any of those things.",
+     "Оливер не был ни тем, ни другим."
+    ],
+    [
+     "He was proud.",
+     "Он гордился."
+    ],
+    [
+     "It wasn't a memory he was describing, Tom.",
+     "Он описывал не воспоминание, Том."
+    ],
+    [
+     "It was his best picture, and he had waited all his life to show it to someone.”",
+     "Это была его лучшая картина, и он всю жизнь ждал, чтобы кому-нибудь её показать»."
+    ]
+   ]
+  },
+  {
+   "en": "A week later the story was in every newspaper in the country. Oliver Finch had finally found the fame he had always wanted, though it was not the kind of fame that anybody would choose. Curiously, the price of his paintings tripled. Helen did not buy one. Late that evening, she cut out the newspaper photograph of his pencil drawing and pinned it above her desk, as a sign, she told Tom, that the most dangerous lies are the ones with too much detail.",
+   "ru": "Через неделю эта история была во всех газетах страны. Оливер Финч наконец обрёл славу, которой всегда хотел, хотя это была не та слава, которую кто-нибудь выбрал бы. Любопытно, что цены на его картины выросли втрое. Хелен ни одной не купила. Поздно вечером она вырезала из газеты фотографию его карандашного рисунка и приколола над своим столом — как знак, сказала она Тому, что самая опасная ложь — та, в которой слишком много подробностей.",
+   "s": [
+    [
+     "A week later the story was in every newspaper in the country.",
+     "Через неделю эта история была во всех газетах страны."
+    ],
+    [
+     "Oliver Finch had finally found the fame he had always wanted, though it was not the kind of fame that anybody would choose.",
+     "Оливер Финч наконец обрёл славу, которой всегда хотел, хотя это была не та слава, которую кто-нибудь выбрал бы."
+    ],
+    [
+     "Curiously, the price of his paintings tripled.",
+     "Любопытно, что цены на его картины выросли втрое."
+    ],
+    [
+     "Helen did not buy one.",
+     "Хелен ни одной не купила."
+    ],
+    [
+     "Late that evening, she cut out the newspaper photograph of his pencil drawing and pinned it above her desk, as a sign, she told Tom, that the most dangerous lies are the ones with too much detail.",
+     "Поздно вечером она вырезала из газеты фотографию его карандашного рисунка и приколола над своим столом — как знак, сказала она Тому, что самая опасная ложь — та, в которой слишком много подробностей."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, про",
+  "above": "над",
+  "accident": "несчастный случай",
+  "across": "через",
+  "admiration": "восхищение",
+  "advice": "советы",
+  "afraid": "боящийся",
+  "after": "после",
+  "afternoon": "день, после полудня",
+  "again": "снова",
+  "ago": "назад",
+  "air": "воздух",
+  "all": "все, весь",
+  "almost": "почти",
+  "alone": "один, одна",
+  "along": "вдоль",
+  "always": "всегда",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "anger": "злость, гнев",
+  "angry": "злой, сердитый",
+  "any": "какой-либо; больше",
+  "anybody": "кто-нибудь",
+  "anyone": "кого-либо",
+  "anything": "что-нибудь",
+  "appetit": "bon appetit — приятного аппетита",
+  "are": "есть, являются",
+  "area": "местность, округа",
+  "aren't": "не (являются)",
+  "argued": "поспорили",
+  "arm": "рука",
+  "around": "вокруг",
+  "arrived": "пришёл",
+  "art": "искусство, художественный",
+  "artists": "художники",
+  "as": "как",
+  "asked": "спросил(а)",
+  "at": "в, у, на",
+  "attempt": "попытка",
+  "audience": "аудитория, зрители",
+  "back": "назад, обратно",
+  "bailey": "Бейли (фамилия)",
+  "barely": "едва",
+  "barking": "лая",
+  "bay": "залив",
+  "be": "быть",
+  "became": "стали",
+  "because": "потому что",
+  "been": "был(о)",
+  "before": "перед, до",
+  "behavior": "поведение",
+  "behind": "за, позади",
+  "believed": "верил",
+  "below": "внизу",
+  "best": "лучший",
+  "big": "большой",
+  "black": "чёрный",
+  "boathouse": "лодочный сарай",
+  "bon": "bon appetit — приятного аппетита",
+  "both": "оба",
+  "bottom": "низ",
+  "bought": "купил",
+  "box": "шкатулка, коробка",
+  "bright": "яркий",
+  "broken": "сломанный",
+  "brought": "доставили",
+  "brown": "коричневый",
+  "business": "бизнес",
+  "but": "но",
+  "button": "кнопка",
+  "buttons": "пуговицы",
+  "buy": "купить",
+  "by": "по, к",
+  "caf": "кафе (café)",
+  "call": "называть",
+  "called": "назывался, звали",
+  "calm": "спокойный",
+  "came": "пришёл, пришли",
+  "car": "машина",
+  "carefully": "осторожно",
+  "case": "дело",
+  "casual": "повседневный",
+  "celebrate": "праздновать",
+  "change": "менять",
+  "changed": "изменилось",
+  "check": "проверить",
+  "checked": "проверили",
+  "chin": "подбородок",
+  "choose": "выбирать",
+  "city": "город",
+  "clean": "чистый",
+  "clear": "ясный",
+  "clothes": "одежда",
+  "cloudy": "облачный",
+  "coat": "пальто",
+  "coffee": "кофе",
+  "collectors": "коллекционеры",
+  "colour": "цвет, краски",
+  "colourful": "яркий",
+  "colours": "цвета",
+  "come": "приходить",
+  "common": "общий (in common — общее)",
+  "confident": "уверенный",
+  "continued": "продолжал",
+  "control": "управление",
+  "convey": "передать",
+  "convince": "убедить",
+  "corner": "угол",
+  "could": "мог(ла)",
+  "couldn't": "не мог",
+  "country": "страна",
+  "covered": "покрытый",
+  "cups": "чашки",
+  "curiously": "любопытно",
+  "cut": "подстриженный; вырезала",
+  "dangerous": "опасный",
+  "date": "дата",
+  "day": "день",
+  "dead": "мёртвый",
+  "described": "описал",
+  "describing": "описывал",
+  "deserved": "заслужили",
+  "designed": "придумали, спланировали",
+  "desk": "стол",
+  "despite": "несмотря на",
+  "destroy": "разрушить",
+  "detail": "деталь",
+  "detective": "детектив",
+  "did": "сделал(а); (вспом.)",
+  "difference": "разница",
+  "disappointment": "разочарование",
+  "discovered": "открыл",
+  "do": "делать; (вспом.)",
+  "does": "(вспом. гл.)",
+  "dog": "собака",
+  "dogs": "собаки",
+  "don't": "не (вспом.)",
+  "doubt": "сомневаться",
+  "doubts": "сомнения",
+  "down": "вниз",
+  "draw": "рисовать",
+  "drawing": "рисунок",
+  "drawn": "нарисовал",
+  "dreams": "сны",
+  "dressed": "одетый",
+  "drew": "рисовал",
+  "drive": "поездка (на машине)",
+  "drove": "поехала",
+  "each": "друг (each other)",
+  "easy": "лёгкий",
+  "eating": "ела; обедая",
+  "else": "ещё, другой",
+  "enjoy": "получать удовольствие",
+  "enough": "достаточно",
+  "even": "даже",
+  "evening": "вечер",
+  "every": "каждый",
+  "everybody": "все",
+  "everything": "всё",
+  "exactly": "точно",
+  "existed": "существовал",
+  "expensive": "дорогой",
+  "expression": "выражение",
+  "face": "лицо",
+  "fallen": "упал",
+  "fame": "слава",
+  "familiar": "привычный",
+  "famous": "знаменитый",
+  "far": "дальний",
+  "feels": "чувствует себя",
+  "few": "несколько",
+  "fight": "драка",
+  "finally": "наконец",
+  "finch": "Финч (фамилия)",
+  "fingers": "пальцы",
+  "finished": "закончилась; доел",
+  "fire": "огонь",
+  "first": "первый",
+  "for": "для, в течение",
+  "forget": "забыть",
+  "forty": "сорок",
+  "found": "нашёл, нашла",
+  "four": "четыре",
+  "frightened": "напуганный; пугал",
+  "from": "из, от",
+  "front": "перед (in front of)",
+  "full": "полный",
+  "gave": "дал(а)",
+  "gerald": "Джеральд (имя)",
+  "go": "идти",
+  "going": "собираться (be going to)",
+  "gone": "ушёл",
+  "green": "зелёный",
+  "grey": "серый",
+  "guess": "предполагать",
+  "had": "имел; (вспом.)",
+  "hair": "волосы",
+  "hand": "рука",
+  "hands": "руки",
+  "hang": "висят",
+  "happen": "случиться",
+  "happened": "случилось",
+  "harrow": "Харроу (название)",
+  "hat": "шляпа",
+  "hate": "ненавидеть",
+  "hated": "ненавидела",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "he's": "он (есть)",
+  "head": "голова",
+  "heard": "слышал; услышала",
+  "helen": "Хелен (имя)",
+  "helen's": "Хелен (чей)",
+  "her": "её, ей",
+  "here": "здесь",
+  "him": "его, ему",
+  "his": "его",
+  "holding": "держала",
+  "home": "домой",
+  "honest": "честный",
+  "hour": "час",
+  "house": "дом",
+  "houses": "дома",
+  "how": "как",
+  "hundred": "сто",
+  "i": "я",
+  "i'd": "я бы",
+  "i'm": "я (есть)",
+  "i've": "я (уже)",
+  "if": "если; ли",
+  "in": "в",
+  "innocent": "невинный",
+  "inspector": "инспектор",
+  "inspiration": "вдохновение",
+  "intention": "намерение",
+  "is": "есть, является",
+  "it": "он, она, это",
+  "it's": "это",
+  "its": "его, её",
+  "killers": "убийцы",
+  "kind": "вид, род",
+  "kitchen": "кухня",
+  "knew": "знал",
+  "know": "знаю",
+  "knows": "знает",
+  "lake": "озеро",
+  "lane": "Лейн (фамилия)",
+  "large": "большой",
+  "last": "последний",
+  "late": "поздно",
+  "later": "позже",
+  "laughed": "смеялся, смеялись",
+  "lay": "лежал",
+  "learned": "научился",
+  "left": "оставил",
+  "less": "менее",
+  "let": "let alone — не говоря уже",
+  "letters": "буквы",
+  "lies": "ложь",
+  "life": "жизнь",
+  "like": "как; нравиться",
+  "listening": "слушал",
+  "long": "долгий, длинный",
+  "look": "смотреть",
+  "looked": "посмотрел; выглядел",
+  "loss": "потеря",
+  "lot": "много (a lot)",
+  "lunch": "обед",
+  "lying": "лежащий",
+  "made": "сделал; сделанный",
+  "magazines": "журналы",
+  "making": "заваривая",
+  "man": "человек, мужчина",
+  "man's": "мужчины",
+  "many": "много",
+  "marks": "следы",
+  "marsh": "Марш (фамилия)",
+  "matter": "иметь значение",
+  "me": "меня, мне",
+  "means": "имеет в виду",
+  "meat": "мясо",
+  "meeting": "встреча",
+  "meetings": "встречи",
+  "memory": "память",
+  "men": "люди, мужчины",
+  "met": "встречала",
+  "metres": "метров",
+  "might": "мог бы",
+  "mistake": "ошибка",
+  "mix": "mix up — путать",
+  "moment": "мгновение",
+  "months": "месяцы",
+  "more": "больше",
+  "morning": "утро",
+  "most": "большая часть",
+  "mr": "мистер",
+  "much": "гораздо",
+  "murder": "убийство",
+  "must": "должен",
+  "my": "мой",
+  "name": "имя",
+  "names": "имена",
+  "nature": "природа",
+  "near": "возле, у",
+  "neat": "аккуратный",
+  "neck": "шея",
+  "neither": "ни один",
+  "never": "никогда",
+  "newspaper": "газета",
+  "next": "следующий; рядом",
+  "no": "нет, никакой",
+  "nobody": "никто",
+  "not": "не",
+  "nothing": "ничего",
+  "oak": "дуб",
+  "october": "октябрь",
+  "of": "из, о, (род. падеж)",
+  "off": "(take off — снимать)",
+  "offered": "предложил",
+  "office": "служба (weather office — метеослужба)",
+  "officer": "полицейский, офицер",
+  "often": "часто",
+  "old": "старый",
+  "older": "старше",
+  "oliver": "Оливер (имя)",
+  "oliver's": "Оливера",
+  "on": "на",
+  "once": "однажды, раз",
+  "one": "один",
+  "ones": "те",
+  "only": "только",
+  "other": "другой",
+  "out": "из, наружу",
+  "over": "над; на (руке)",
+  "own": "собственный",
+  "owned": "имел, владел",
+  "paint": "краска",
+  "painter": "художник",
+  "painting": "картина",
+  "paintings": "картины",
+  "part": "часть",
+  "partner": "партнёр",
+  "past": "мимо",
+  "path": "тропинка, путь",
+  "pencil": "карандашный; карандаш",
+  "pencils": "карандаши",
+  "people": "люди",
+  "perfect": "идеальный",
+  "perhaps": "может быть",
+  "phone": "телефон",
+  "phoned": "позвонила",
+  "photograph": "фотография",
+  "picked": "(picked up) взял",
+  "picture": "картина, рисунок",
+  "pictures": "картины",
+  "pie": "пирог",
+  "pile": "стопка",
+  "pinned": "приколола",
+  "place": "место",
+  "plan": "планировать",
+  "plank": "доска",
+  "planks": "доски",
+  "planned": "спланированный",
+  "pleased": "довольный",
+  "police": "полиция, полицейский",
+  "preparing": "готовился",
+  "press": "пресса, журналисты",
+  "pressed": "нажал",
+  "price": "цена",
+  "private": "частный",
+  "proud": "гордый",
+  "prove": "доказать",
+  "put": "положил(а)",
+  "question": "вопрос",
+  "quick": "быстрый",
+  "quickly": "быстро",
+  "quiet": "тихий",
+  "quietly": "тихо",
+  "rail": "перила",
+  "rain": "дождь",
+  "rather": "скорее",
+  "ready": "готовый",
+  "really": "действительно",
+  "reasons": "причины",
+  "recorder": "диктофон",
+  "red": "красный",
+  "released": "отпустили",
+  "remember": "помню",
+  "remembered": "вспомнил",
+  "remembers": "помнит",
+  "rich": "богатый",
+  "right": "нужный, правильный",
+  "road": "дорога",
+  "room": "комната",
+  "run": "бежать",
+  "said": "сказал(а)",
+  "sat": "сидел(а)",
+  "saw": "увидел(а)",
+  "say": "говорить",
+  "scar": "шрам",
+  "schedule": "расписание",
+  "second": "второй; секунда",
+  "see": "видеть",
+  "seemed": "казался",
+  "seen": "видел",
+  "sergeant": "сержант",
+  "she": "она",
+  "shining": "светило",
+  "shocked": "потрясённый",
+  "shook": "покачал",
+  "shop": "магазин",
+  "shore": "берег",
+  "short": "короткий",
+  "show": "показать",
+  "side": "сторона",
+  "sigh": "вздох",
+  "sign": "знак",
+  "sitting": "сидел",
+  "six": "шесть",
+  "sketches": "наброски",
+  "sky": "небо",
+  "sleep": "спать",
+  "slightly": "слегка, чуть",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smell": "запах",
+  "smile": "улыбка",
+  "smiled": "улыбнулся",
+  "snow": "снег",
+  "so": "так, поэтому",
+  "sofa": "диван",
+  "sold": "продал",
+  "some": "некоторые",
+  "somebody": "кто-то",
+  "someone": "кто-то",
+  "something": "что-то",
+  "sometimes": "иногда",
+  "spoke": "говорил",
+  "standing": "стоял",
+  "station": "участок",
+  "stayed": "остался",
+  "stole": "украл",
+  "stones": "камни",
+  "stopping": "остановка",
+  "story": "история",
+  "strange": "странный",
+  "studio": "мастерская, студия",
+  "study": "этюд",
+  "sudden": "внезапный",
+  "sun": "солнце",
+  "sunday": "воскресенье",
+  "sunrise": "рассвет",
+  "sunshine": "солнечный свет",
+  "suppose": "предполагать",
+  "sure": "уверенный",
+  "table": "стол",
+  "tail": "хвост",
+  "take": "убрать (take out)",
+  "taken": "снял (take off — снимать)",
+  "tall": "высокий",
+  "tea": "чай",
+  "teeth": "зубы",
+  "tell": "сказать",
+  "telling": "рассказывать",
+  "ten": "десять",
+  "terrible": "ужасный",
+  "than": "чем",
+  "that": "что, тот, который",
+  "that's": "это",
+  "the": "(артикль)",
+  "their": "их, свои",
+  "them": "их, им",
+  "then": "затем, тогда",
+  "there": "там; (есть)",
+  "they": "они",
+  "they're": "они (есть)",
+  "thin": "худой",
+  "thing": "вещь",
+  "things": "вещи",
+  "think": "думать",
+  "this": "этот, это",
+  "those": "те",
+  "though": "хотя",
+  "thought": "подумала",
+  "three": "три",
+  "through": "через, по",
+  "time": "время, раз",
+  "tired": "усталый",
+  "to": "к, в, (инфинитив)",
+  "told": "сказал(а)",
+  "tom": "Том (имя)",
+  "too": "тоже, слишком",
+  "took": "занимала",
+  "toward": "к, по направлению к",
+  "toy": "игрушка",
+  "tree": "дерево",
+  "tried": "пытался",
+  "tripled": "утроилась",
+  "true": "правда",
+  "trust": "доверять",
+  "tuesday": "вторник",
+  "twenty": "двадцать",
+  "two": "два",
+  "under": "под",
+  "understood": "понял(а)",
+  "untidy": "растрёпанный; неаккуратный",
+  "until": "до",
+  "up": "вверх",
+  "us": "нам",
+  "very": "очень",
+  "victor": "Виктор (имя)",
+  "violence": "насилие",
+  "visited": "посетила",
+  "voice": "голос",
+  "waited": "ждал",
+  "waiter": "официант",
+  "walked": "пошёл, вошёл",
+  "walking": "выгуливая; гуляя",
+  "walkway": "мостки",
+  "wall": "стена",
+  "want": "хотеть",
+  "wanted": "хотел(и)",
+  "was": "был(а)",
+  "wasn't": "не был",
+  "watched": "наблюдали",
+  "water": "вода",
+  "way": "способ",
+  "we": "мы",
+  "weak": "слабый",
+  "wear": "надевать",
+  "wearing": "носил, был одет",
+  "weather": "погода",
+  "week": "неделя",
+  "went": "пошёл, пошли",
+  "were": "были",
+  "what": "что, какой",
+  "when": "когда",
+  "where": "где",
+  "whether": "ли",
+  "while": "пока",
+  "white": "белый",
+  "whitmore": "Уитмор (фамилия)",
+  "whitmore's": "Уитмора",
+  "who": "кто, который",
+  "whole": "весь, целый",
+  "why": "почему",
+  "wig": "парик",
+  "window": "окно",
+  "with": "с",
+  "without": "без",
+  "witness": "свидетель",
+  "witnesses": "свидетели",
+  "woman": "женщина",
+  "won't": "не (буд. время)",
+  "wooden": "деревянный",
+  "word": "слово",
+  "wore": "надел",
+  "work": "работа, работать",
+  "world": "мир",
+  "worried": "обеспокоенный",
+  "worries": "беспокоит",
+  "would": "бы",
+  "years": "лет, годы",
+  "you": "ты, вы",
+  "young": "молодой"
+ },
+ "vocab": {
+  "continued": 9,
+  "colourful": 19,
+  "tail": 29,
+  "coat": 39,
+  "taken": 49,
+  "off": 49,
+  "meat": 59,
+  "tree": 69,
+  "lunch": 79,
+  "hair": 89,
+  "seemed": 99,
+  "behind": 109,
+  "tall": 119,
+  "bon": 129,
+  "appetit": 129,
+  "common": 139,
+  "shore": 149,
+  "though": 159,
+  "left": 169,
+  "pencil": 179,
+  "pencils": 179,
+  "plank": 189,
+  "planks": 189,
+  "late": 199,
+  "toward": 210,
+  "tuesday": 220,
+  "afternoon": 230,
+  "nature": 240,
+  "matter": 250,
+  "existed": 260,
+  "offered": 270,
+  "means": 280,
+  "chin": 291,
+  "expensive": 301,
+  "teeth": 311,
+  "attempt": 321,
+  "honest": 331,
+  "violence": 341,
+  "sofa": 351,
+  "intention": 361,
+  "confident": 371,
+  "schedule": 381,
+  "advice": 392,
+  "road": 409,
+  "area": 419,
+  "guess": 429,
+  "sign": 441,
+  "curiously": 454,
+  "stole": 469,
+  "worried": 480,
+  "disappointment": 491,
+  "fame": 501,
+  "familiar": 512,
+  "pressed": 522,
+  "rather": 533,
+  "casual": 544,
+  "path": 554,
+  "convey": 565,
+  "deserved": 575,
+  "behavior": 585,
+  "dreams": 596,
+  "until": 606,
+  "barely": 617,
+  "convince": 628,
+  "sigh": 639,
+  "inspiration": 650
+ }
+}

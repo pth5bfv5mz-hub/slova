@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did Jonah hate Margit Sorell?",
+  "q_ru": "Почему Джона ненавидел Маргит Сорелл?",
+  "options": [
+   "She refused to eat at his restaurant",
+   "Her bad review closed his father's restaurant",
+   "She gave his own restaurant a two",
+   "She stole his father's soup recipe"
+  ],
+  "options_ru": [
+   "Она отказалась есть в его ресторане",
+   "Её плохая рецензия закрыла ресторан его отца",
+   "Она поставила двойку его собственному ресторану",
+   "Она украла рецепт супа его отца"
+  ],
+  "answer": 1,
+  "explain_ru": "Семь лет назад она дала The Anchor оценку два. Через три месяца ресторан закрылся, а через два года отец умер."
+ },
+ {
+  "q": "Bea \"could read his face like a menu\". What does this mean?",
+  "q_ru": "Беа «could read his face like a menu». Что это значит?",
+  "options": [
+   "She liked to look at his face",
+   "She understood his feelings very easily",
+   "She thought he looked hungry",
+   "She couldn't understand him at all"
+  ],
+  "options_ru": [
+   "Ей нравилось смотреть на его лицо",
+   "Она очень легко понимала его чувства",
+   "Ей казалось, что он голодный",
+   "Она совсем его не понимала"
+  ],
+  "answer": 1,
+  "explain_ru": "Беа — его давняя подруга. Она сразу по лицу понимает новость: «She's coming», — прежде чем он что-то скажет."
+ },
+ {
+  "q": "What did Jonah notice in the old review on Thursday night?",
+  "q_ru": "Что Джона заметил в старой рецензии в четверг ночью?",
+  "options": [
+   "It had the wrong date on it",
+   "It was signed by another critic",
+   "It gave The Anchor a nine, not a two",
+   "The sentence about the insect was his father's joke"
+  ],
+  "options_ru": [
+   "В ней была неправильная дата",
+   "Она была подписана другим критиком",
+   "Она давала The Anchor девятку, а не двойку",
+   "Фраза про насекомое была шуткой его отца"
+  ],
+  "answer": 3,
+  "explain_ru": "Отец часто шутил: «The day someone finds an insect in my soup, son, you'll know I'm finished». Откуда незнакомка знала эти слова?"
+ },
+ {
+  "q": "Why did Jonah stop cooking the expensive dishes?",
+  "q_ru": "Почему Джона перестал готовить дорогие блюда?",
+  "options": [
+   "He saw that this food was for fighting, not really his",
+   "He had no more truffles in the kitchen",
+   "Margit asked for fish soup",
+   "Bea told him the beef was bad"
+  ],
+  "options_ru": [
+   "Он понял, что эта еда — для борьбы, а не его настоящая",
+   "У него закончились трюфели",
+   "Маргит попросила рыбный суп",
+   "Беа сказала, что говядина плохая"
+  ],
+  "answer": 0,
+  "explain_ru": "Он увидел своё отражение: «Not a single dish tonight was really his. Every plate was a sword». Он взял старую кастрюлю отца."
+ },
+ {
+  "q": "Why did Margit write the bad review seven years ago?",
+  "q_ru": "Почему Маргит написала плохую рецензию семь лет назад?",
+  "options": [
+   "She really found an insect in the soup",
+   "A rival restaurant paid her to do it",
+   "Samuel asked her, so he could close and Jonah could leave",
+   "She was angry with Samuel since she was young"
+  ],
+  "options_ru": [
+   "Она правда нашла насекомое в супе",
+   "Ей заплатил ресторан-конкурент",
+   "Сэмюэл попросил её — чтобы закрыться и отпустить сына",
+   "Она злилась на Сэмюэла с юности"
+  ],
+  "answer": 2,
+  "explain_ru": "Сэмюэл был болен, но из гордости не мог сам закрыть ресторан, а сын готов был остаться. «He asked me to write the worst review of my life»."
+ },
+ {
+  "q": "What did Jonah realise on the boat at the end?",
+  "q_ru": "Что Джона понял в лодке в конце рассказа?",
+  "options": [
+   "He wanted to sell the restaurant",
+   "He would never forgive Margit",
+   "He was having the vacation his father wanted for him",
+   "He should become a fisherman like his father"
+  ],
+  "options_ru": [
+   "Он хочет продать ресторан",
+   "Он никогда не простит Маргит",
+   "У него наконец тот отдых, которого хотел для него отец",
+   "Ему нужно стать рыбаком, как отец"
+  ],
+  "answer": 2,
+  "explain_ru": "Он впервые за много лет ничего не делал: «It was, he realised, the vacation that his father had always wanted for him»."
+ }
+]

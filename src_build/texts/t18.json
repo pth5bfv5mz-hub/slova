@@ -1,0 +1,1361 @@
+{
+ "id": 18,
+ "title_en": "The First Decision",
+ "title_ru": "Первое решение",
+ "genre": "Фантастика",
+ "summary_ru": "В городе, где за людей всё решает компьютер, молодая мать получает странное указание: прийти в старый музей и взять с собой ручку.",
+ "paragraphs": [
+  {
+   "en": "In the city of Clearwater, nobody had made a real decision for eleven years. The computer did it for them. People called it ORA, and ORA knew everything: how much you slept, what you ate, how fast your heart beat when you were nervous. Every morning it sent each person a short list on their wrist screen: what to wear, where to work, what to cook for dinner, when to rest.",
+   "ru": "В городе Клируотер никто уже одиннадцать лет не принимал настоящих решений. Компьютер делал это за них. Люди называли его ОРА, и ОРА знала всё: сколько ты спал, что ты ел, как быстро билось твоё сердце, когда ты нервничал. Каждое утро она присылала каждому человеку короткий список на экран на запястье: что носить, где работать, что приготовить на ужин, когда отдыхать.",
+   "s": [
+    [
+     "In the city of Clearwater, nobody had made a real decision for eleven years.",
+     "В городе Клируотер никто уже одиннадцать лет не принимал настоящих решений."
+    ],
+    [
+     "The computer did it for them.",
+     "Компьютер делал это за них."
+    ],
+    [
+     "People called it ORA, and ORA knew everything: how much you slept, what you ate, how fast your heart beat when you were nervous.",
+     "Люди называли его ОРА, и ОРА знала всё: сколько ты спал, что ты ел, как быстро билось твоё сердце, когда ты нервничал."
+    ],
+    [
+     "Every morning it sent each person a short list on their wrist screen: what to wear, where to work, what to cook for dinner, when to rest.",
+     "Каждое утро она присылала каждому человеку короткий список на экран на запястье: что носить, где работать, что приготовить на ужин, когда отдыхать."
+    ]
+   ]
+  },
+  {
+   "en": "Lena Varga was thirty-two, and she liked it that way. Life was easy. Nobody in Clearwater was late, nobody was poor, and nobody had to stand in a shop for twenty minutes, trying to compare two kinds of soap. ORA had already compared them. It even chose the colour of your socks, and it decided how much you had to pay for everything.",
+   "ru": "Лене Варге было тридцать два года, и её всё устраивало. Жизнь была лёгкой. В Клируотере никто не опаздывал, никто не был беден, и никому не нужно было стоять в магазине по двадцать минут, пытаясь сравнить два вида мыла. ОРА уже сравнила их. Она даже выбирала цвет твоих носков и решала, сколько ты должен платить за всё.",
+   "s": [
+    [
+     "Lena Varga was thirty-two, and she liked it that way.",
+     "Лене Варге было тридцать два года, и её всё устраивало."
+    ],
+    [
+     "Life was easy.",
+     "Жизнь была лёгкой."
+    ],
+    [
+     "Nobody in Clearwater was late, nobody was poor, and nobody had to stand in a shop for twenty minutes, trying to compare two kinds of soap.",
+     "В Клируотере никто не опаздывал, никто не был беден, и никому не нужно было стоять в магазине по двадцать минут, пытаясь сравнить два вида мыла."
+    ],
+    [
+     "ORA had already compared them.",
+     "ОРА уже сравнила их."
+    ],
+    [
+     "It even chose the colour of your socks, and it decided how much you had to pay for everything.",
+     "Она даже выбирала цвет твоих носков и решала, сколько ты должен платить за всё."
+    ]
+   ]
+  },
+  {
+   "en": "Her apartment was clean and quiet. ORA had chosen the furniture: a grey sofa in the sitting room, a white table, two soft chairs. In the nursery, where her five-year-old son Mika slept, the walls were pale blue, because ORA said blue helped children to sleep. And it was true. Mika always slept well. Lena had never asked why the sofa was grey. It had never seemed important.",
+   "ru": "Её квартира была чистой и тихой. ОРА выбрала мебель: серый диван в гостиной, белый стол, два мягких кресла. В детской, где спал её пятилетний сын Мика, стены были бледно-голубыми, потому что ОРА говорила, что голубой цвет помогает детям спать. И это была правда. Мика всегда хорошо спал. Лена никогда не спрашивала, почему диван серый. Это никогда не казалось ей важным.",
+   "s": [
+    [
+     "Her apartment was clean and quiet.",
+     "Её квартира была чистой и тихой."
+    ],
+    [
+     "ORA had chosen the furniture: a grey sofa in the sitting room, a white table, two soft chairs.",
+     "ОРА выбрала мебель: серый диван в гостиной, белый стол, два мягких кресла."
+    ],
+    [
+     "In the nursery, where her five-year-old son Mika slept, the walls were pale blue, because ORA said blue helped children to sleep.",
+     "В детской, где спал её пятилетний сын Мика, стены были бледно-голубыми, потому что ОРА говорила, что голубой цвет помогает детям спать."
+    ],
+    [
+     "And it was true.",
+     "И это была правда."
+    ],
+    [
+     "Mika always slept well.",
+     "Мика всегда хорошо спал."
+    ],
+    [
+     "Lena had never asked why the sofa was grey.",
+     "Лена никогда не спрашивала, почему диван серый."
+    ],
+    [
+     "It had never seemed important.",
+     "Это никогда не казалось ей важным."
+    ]
+   ]
+  },
+  {
+   "en": "Then, one Saturday in October, something strange happened. Lena's wrist screen showed her morning list as usual. “Wear: green sweater, black trousers, grey socks. Breakfast: oatmeal. Rest: two hours in the park.” But at the bottom, there was one more line she had never seen before.",
+   "ru": "А потом, в одну из суббот октября, случилось нечто странное. Экран на запястье Лены, как обычно, показал утренний список. «Носить: зелёный свитер, чёрные брюки, серые носки. Завтрак: овсянка. Отдых: два часа в парке». Но внизу была ещё одна строчка, какой она никогда раньше не видела.",
+   "s": [
+    [
+     "Then, one Saturday in October, something strange happened.",
+     "А потом, в одну из суббот октября, случилось нечто странное."
+    ],
+    [
+     "Lena's wrist screen showed her morning list as usual.",
+     "Экран на запястье Лены, как обычно, показал утренний список."
+    ],
+    [
+     "“Wear: green sweater, black trousers, grey socks.",
+     "«Носить: зелёный свитер, чёрные брюки, серые носки."
+    ],
+    [
+     "Breakfast: oatmeal.",
+     "Завтрак: овсянка."
+    ],
+    [
+     "Rest: two hours in the park.”",
+     "Отдых: два часа в парке»."
+    ],
+    [
+     "But at the bottom, there was one more line she had never seen before.",
+     "Но внизу была ещё одна строчка, какой она никогда раньше не видела."
+    ]
+   ]
+  },
+  {
+   "en": "“At 3 p.m., go to the Old Museum. Bring a pen.”",
+   "ru": "«В 15:00 идите в Старый музей. Возьмите с собой ручку».",
+   "s": [
+    [
+     "“At 3 p.m., go to the Old Museum.",
+     "«В 15:00 идите в Старый музей."
+    ],
+    [
+     "Bring a pen.”",
+     "Возьмите с собой ручку»."
+    ]
+   ]
+  },
+  {
+   "en": "Lena read it three times. A pen? She wasn't sure she still had one. Nobody wrote by hand anymore; ORA recorded everything. The message was a small mystery, and Lena did not like mysteries. She searched the whole apartment and finally found an old blue pen at the back of a drawer. It had belonged to her grandmother.",
+   "ru": "Лена перечитала это три раза. Ручку? Она не была уверена, что у неё вообще есть ручка. Никто больше не писал от руки: ОРА всё записывала. Сообщение было маленькой тайной, а Лена не любила тайн. Она обыскала всю квартиру и наконец нашла в глубине ящика старую синюю ручку. Она принадлежала её бабушке.",
+   "s": [
+    [
+     "Lena read it three times.",
+     "Лена перечитала это три раза."
+    ],
+    [
+     "A pen?",
+     "Ручку?"
+    ],
+    [
+     "She wasn't sure she still had one.",
+     "Она не была уверена, что у неё вообще есть ручка."
+    ],
+    [
+     "Nobody wrote by hand anymore; ORA recorded everything.",
+     "Никто больше не писал от руки: ОРА всё записывала."
+    ],
+    [
+     "The message was a small mystery, and Lena did not like mysteries.",
+     "Сообщение было маленькой тайной, а Лена не любила тайн."
+    ],
+    [
+     "She searched the whole apartment and finally found an old blue pen at the back of a drawer.",
+     "Она обыскала всю квартиру и наконец нашла в глубине ящика старую синюю ручку."
+    ],
+    [
+     "It had belonged to her grandmother.",
+     "Она принадлежала её бабушке."
+    ]
+   ]
+  },
+  {
+   "en": "“Why do you need a pen?” Mika asked. He was sitting on the floor with a stick he had found in the park. He was holding it like a sword and fighting an invisible dragon.",
+   "ru": "«Зачем тебе ручка?» — спросил Мика. Он сидел на полу с палкой, которую нашёл в парке. Он держал её, как меч, и сражался с невидимым драконом.",
+   "s": [
+    [
+     "“Why do you need a pen?” Mika asked.",
+     "«Зачем тебе ручка?» — спросил Мика."
+    ],
+    [
+     "He was sitting on the floor with a stick he had found in the park.",
+     "Он сидел на полу с палкой, которую нашёл в парке."
+    ],
+    [
+     "He was holding it like a sword and fighting an invisible dragon.",
+     "Он держал её, как меч, и сражался с невидимым драконом."
+    ]
+   ]
+  },
+  {
+   "en": "“I don't know,” Lena said. And that was strange, too. She could not remember the last time she had said those words.",
+   "ru": "«Не знаю», — сказала Лена. И это тоже было странно. Она не могла вспомнить, когда в последний раз произносила эти слова.",
+   "s": [
+    [
+     "“I don't know,” Lena said.",
+     "«Не знаю», — сказала Лена."
+    ],
+    [
+     "And that was strange, too.",
+     "И это тоже было странно."
+    ],
+    [
+     "She could not remember the last time she had said those words.",
+     "Она не могла вспомнить, когда в последний раз произносила эти слова."
+    ]
+   ]
+  },
+  {
+   "en": "She spent the two hours of rest in the park, as the list said, but she could not relax. Other people walked around her with calm faces, looking at their wrist screens. A woman in a red coat stopped, read a message, turned left and walked away without a word. A man sat down on a bench because his screen told him to sit down. Lena had seen such things every day of her life, but today she watched them as if for the first time. Were they happy? Was she?",
+   "ru": "Два часа отдыха она провела в парке, как говорил список, но не могла расслабиться. Вокруг неё ходили люди со спокойными лицами, глядя на экраны на запястьях. Женщина в красном пальто остановилась, прочитала сообщение, повернула налево и ушла, не сказав ни слова. Мужчина сел на скамейку, потому что экран велел ему сесть. Лена видела такое каждый день своей жизни, но сегодня смотрела на это будто впервые. Были ли они счастливы? А она?",
+   "s": [
+    [
+     "She spent the two hours of rest in the park, as the list said, but she could not relax.",
+     "Два часа отдыха она провела в парке, как говорил список, но не могла расслабиться."
+    ],
+    [
+     "Other people walked around her with calm faces, looking at their wrist screens.",
+     "Вокруг неё ходили люди со спокойными лицами, глядя на экраны на запястьях."
+    ],
+    [
+     "A woman in a red coat stopped, read a message, turned left and walked away without a word.",
+     "Женщина в красном пальто остановилась, прочитала сообщение, повернула налево и ушла, не сказав ни слова."
+    ],
+    [
+     "A man sat down on a bench because his screen told him to sit down.",
+     "Мужчина сел на скамейку, потому что экран велел ему сесть."
+    ],
+    [
+     "Lena had seen such things every day of her life, but today she watched them as if for the first time.",
+     "Лена видела такое каждый день своей жизни, но сегодня смотрела на это будто впервые."
+    ],
+    [
+     "Were they happy?",
+     "Были ли они счастливы?"
+    ],
+    [
+     "Was she?",
+     "А она?"
+    ]
+   ]
+  },
+  {
+   "en": "The Old Museum stood on a high hill at the edge of the city. Recently, almost nobody had visited it. Why would they? ORA could show you any picture from history in a second. Lena climbed the stone stairs and pushed the heavy door. Inside, it was cold and smelled of dust.",
+   "ru": "Старый музей стоял на высоком холме на краю города. В последнее время его почти никто не посещал. Да и зачем? ОРА могла за секунду показать любую картинку из истории. Лена поднялась по каменной лестнице и толкнула тяжёлую дверь. Внутри было холодно и пахло пылью.",
+   "s": [
+    [
+     "The Old Museum stood on a high hill at the edge of the city.",
+     "Старый музей стоял на высоком холме на краю города."
+    ],
+    [
+     "Recently, almost nobody had visited it.",
+     "В последнее время его почти никто не посещал."
+    ],
+    [
+     "Why would they?",
+     "Да и зачем?"
+    ],
+    [
+     "ORA could show you any picture from history in a second.",
+     "ОРА могла за секунду показать любую картинку из истории."
+    ],
+    [
+     "Lena climbed the stone stairs and pushed the heavy door.",
+     "Лена поднялась по каменной лестнице и толкнула тяжёлую дверь."
+    ],
+    [
+     "Inside, it was cold and smelled of dust.",
+     "Внутри было холодно и пахло пылью."
+    ]
+   ]
+  },
+  {
+   "en": "Only one other person was there: an old man sitting on a bench in front of a glass case. Lena knew him. It was Mr. Hale, her neighbour from the fourth floor, a quiet man who always wore a brown hat and never said much. He was the only person in the building who still walked up the stairs instead of taking the lift. On the wall behind him hung old photographs of the city: crowded streets, people arguing in markets, children with dirty knees.",
+   "ru": "Там был только один человек: старик, сидевший на скамейке перед стеклянной витриной. Лена его знала. Это был мистер Хейл, её сосед с четвёртого этажа, тихий человек, который всегда носил коричневую шляпу и мало говорил. Он был единственным в доме, кто до сих пор поднимался по лестнице, а не на лифте. На стене за ним висели старые фотографии города: людные улицы, люди, спорящие на рынках, дети с грязными коленками.",
+   "s": [
+    [
+     "Only one other person was there: an old man sitting on a bench in front of a glass case.",
+     "Там был только один человек: старик, сидевший на скамейке перед стеклянной витриной."
+    ],
+    [
+     "Lena knew him.",
+     "Лена его знала."
+    ],
+    [
+     "It was Mr. Hale, her neighbour from the fourth floor, a quiet man who always wore a brown hat and never said much.",
+     "Это был мистер Хейл, её сосед с четвёртого этажа, тихий человек, который всегда носил коричневую шляпу и мало говорил."
+    ],
+    [
+     "He was the only person in the building who still walked up the stairs instead of taking the lift.",
+     "Он был единственным в доме, кто до сих пор поднимался по лестнице, а не на лифте."
+    ],
+    [
+     "On the wall behind him hung old photographs of the city: crowded streets, people arguing in markets, children with dirty knees.",
+     "На стене за ним висели старые фотографии города: людные улицы, люди, спорящие на рынках, дети с грязными коленками."
+    ]
+   ]
+  },
+  {
+   "en": "“You came,” he said. “Good. Sit down.”",
+   "ru": "«Вы пришли, — сказал он. — Хорошо. Садитесь».",
+   "s": [
+    [
+     "“You came,” he said.",
+     "«Вы пришли, — сказал он."
+    ],
+    [
+     "“Good.",
+     "Хорошо."
+    ],
+    [
+     "Sit down.”",
+     "Садитесь»."
+    ]
+   ]
+  },
+  {
+   "en": "Lena didn't sit down at once. “Did you send me that message?” she asked. She began to suspect something. Maybe he had broken into the system. Maybe he was dangerous. “People aren't allowed to change ORA's lists. You know that.”",
+   "ru": "Лена не села сразу. «Это вы прислали мне то сообщение?» — спросила она. Она начала кое-что подозревать. Может быть, он взломал систему. Может быть, он опасен. «Людям не разрешается менять списки ОРА. Вы же знаете».",
+   "s": [
+    [
+     "Lena didn't sit down at once.",
+     "Лена не села сразу."
+    ],
+    [
+     "“Did you send me that message?” she asked.",
+     "«Это вы прислали мне то сообщение?» — спросила она."
+    ],
+    [
+     "She began to suspect something.",
+     "Она начала кое-что подозревать."
+    ],
+    [
+     "Maybe he had broken into the system.",
+     "Может быть, он взломал систему."
+    ],
+    [
+     "Maybe he was dangerous.",
+     "Может быть, он опасен."
+    ],
+    [
+     "“People aren't allowed to change ORA's lists.",
+     "«Людям не разрешается менять списки ОРА."
+    ],
+    [
+     "You know that.”",
+     "Вы же знаете»."
+    ]
+   ]
+  },
+  {
+   "en": "“I didn't change anything,” Mr. Hale said. “ORA sent the message. I only asked it to, a long time ago.” He pointed at the glass case. Inside it lay an old sword, a wooden farming tool, and a yellow piece of paper with handwriting on it. “Read it.”",
+   "ru": "«Я ничего не менял, — сказал мистер Хейл. — Сообщение прислала ОРА. Я только попросил её об этом, очень давно». Он указал на витрину. Внутри лежали старый меч, деревянный сельскохозяйственный инструмент и пожелтевший лист бумаги с рукописным текстом. «Прочтите».",
+   "s": [
+    [
+     "“I didn't change anything,” Mr. Hale said.",
+     "«Я ничего не менял, — сказал мистер Хейл."
+    ],
+    [
+     "“ORA sent the message.",
+     "Сообщение прислала ОРА."
+    ],
+    [
+     "I only asked it to, a long time ago.”",
+     "Я только попросил её об этом, очень давно»."
+    ],
+    [
+     "He pointed at the glass case.",
+     "Он указал на витрину."
+    ],
+    [
+     "Inside it lay an old sword, a wooden farming tool, and a yellow piece of paper with handwriting on it.",
+     "Внутри лежали старый меч, деревянный сельскохозяйственный инструмент и пожелтевший лист бумаги с рукописным текстом."
+    ],
+    [
+     "“Read it.”",
+     "«Прочтите»."
+    ]
+   ]
+  },
+  {
+   "en": "Lena took a step closer. The handwriting was small and careful. “Decision of the City Council: from today, the city will be managed by ORA. People will be free from the stress of choice.” At the bottom were many signatures. One of them was “T. Hale.”",
+   "ru": "Лена сделала шаг ближе. Почерк был мелким и аккуратным. «Решение городского совета: с сегодняшнего дня городом будет управлять ОРА. Люди будут свободны от стресса выбора». Внизу стояло много подписей. Одна из них была «Т. Хейл».",
+   "s": [
+    [
+     "Lena took a step closer.",
+     "Лена сделала шаг ближе."
+    ],
+    [
+     "The handwriting was small and careful.",
+     "Почерк был мелким и аккуратным."
+    ],
+    [
+     "“Decision of the City Council: from today, the city will be managed by ORA.",
+     "«Решение городского совета: с сегодняшнего дня городом будет управлять ОРА."
+    ],
+    [
+     "People will be free from the stress of choice.”",
+     "Люди будут свободны от стресса выбора»."
+    ],
+    [
+     "At the bottom were many signatures.",
+     "Внизу стояло много подписей."
+    ],
+    [
+     "One of them was “T.",
+     "Одна из них была «Т."
+    ],
+    [
+     "Hale.”",
+     "Хейл»."
+    ]
+   ]
+  },
+  {
+   "en": "“You built ORA,” Lena said slowly.",
+   "ru": "«Это вы создали ОРА», — медленно сказала Лена.",
+   "s": [
+    [
+     "“You built ORA,” Lena said slowly.",
+     "«Это вы создали ОРА», — медленно сказала Лена."
+    ]
+   ]
+  },
+  {
+   "en": "“I was one of the engineers. We wanted to help people. Choices make people nervous, and nervous people make mistakes. So we gave all the choices to the machine.” He smiled sadly. “It worked. Too well. Tell me, Lena, when did you last eat something spicy?”",
+   "ru": "«Я был одним из инженеров. Мы хотели помочь людям. Выбор заставляет людей нервничать, а нервные люди совершают ошибки. Поэтому мы отдали весь выбор машине». Он грустно улыбнулся. «Это сработало. Даже слишком хорошо. Скажите, Лена, когда вы в последний раз ели что-нибудь острое?»",
+   "s": [
+    [
+     "“I was one of the engineers.",
+     "«Я был одним из инженеров."
+    ],
+    [
+     "We wanted to help people.",
+     "Мы хотели помочь людям."
+    ],
+    [
+     "Choices make people nervous, and nervous people make mistakes.",
+     "Выбор заставляет людей нервничать, а нервные люди совершают ошибки."
+    ],
+    [
+     "So we gave all the choices to the machine.”",
+     "Поэтому мы отдали весь выбор машине»."
+    ],
+    [
+     "He smiled sadly.",
+     "Он грустно улыбнулся."
+    ],
+    [
+     "“It worked.",
+     "«Это сработало."
+    ],
+    [
+     "Too well.",
+     "Даже слишком хорошо."
+    ],
+    [
+     "Tell me, Lena, when did you last eat something spicy?”",
+     "Скажите, Лена, когда вы в последний раз ели что-нибудь острое?»"
+    ]
+   ]
+  },
+  {
+   "en": "“What happened?” Lena asked. Mr. Hale took off his hat and held it in his hands. “Nothing happened. That was the problem. Nobody was hungry, nobody was afraid, nobody was ever late. But nobody painted pictures anymore. Nobody wrote songs. Young people stopped falling in love, because ORA chose their partners for them, and the partners were always perfect, and perfect is boring. People had everything except a reason to get up in the morning.”",
+   "ru": "«А что случилось?» — спросила Лена. Мистер Хейл снял шляпу и держал её в руках. «Ничего не случилось. В этом и была проблема. Никто не был голоден, никто не боялся, никто никогда не опаздывал. Но никто больше не рисовал картин. Никто не писал песен. Молодые люди перестали влюбляться, потому что ОРА выбирала им партнёров, и партнёры всегда были идеальными, а идеальное — скучно. У людей было всё, кроме причины вставать по утрам».",
+   "s": [
+    [
+     "“What happened?” Lena asked.",
+     "«А что случилось?» — спросила Лена."
+    ],
+    [
+     "Mr. Hale took off his hat and held it in his hands.",
+     "Мистер Хейл снял шляпу и держал её в руках."
+    ],
+    [
+     "“Nothing happened.",
+     "«Ничего не случилось."
+    ],
+    [
+     "That was the problem.",
+     "В этом и была проблема."
+    ],
+    [
+     "Nobody was hungry, nobody was afraid, nobody was ever late.",
+     "Никто не был голоден, никто не боялся, никто никогда не опаздывал."
+    ],
+    [
+     "But nobody painted pictures anymore.",
+     "Но никто больше не рисовал картин."
+    ],
+    [
+     "Nobody wrote songs.",
+     "Никто не писал песен."
+    ],
+    [
+     "Young people stopped falling in love, because ORA chose their partners for them, and the partners were always perfect, and perfect is boring.",
+     "Молодые люди перестали влюбляться, потому что ОРА выбирала им партнёров, и партнёры всегда были идеальными, а идеальное — скучно."
+    ],
+    [
+     "People had everything except a reason to get up in the morning.”",
+     "У людей было всё, кроме причины вставать по утрам»."
+    ]
+   ]
+  },
+  {
+   "en": "Lena opened her mouth and then closed it again. She tried to remember. ORA never chose spicy food. It said spicy food was bad for sleep. “I can't imagine…” she started, and then she stopped. That was the problem. She couldn't imagine. She had not imagined anything for a long time.",
+   "ru": "Лена открыла рот и снова закрыла его. Она попыталась вспомнить. ОРА никогда не выбирала острую еду. Она говорила, что острая еда вредна для сна. «Не могу себе представить…» — начала она и остановилась. В этом и была проблема. Она не могла представить. Она уже давно ничего не представляла.",
+   "s": [
+    [
+     "Lena opened her mouth and then closed it again.",
+     "Лена открыла рот и снова закрыла его."
+    ],
+    [
+     "She tried to remember.",
+     "Она попыталась вспомнить."
+    ],
+    [
+     "ORA never chose spicy food.",
+     "ОРА никогда не выбирала острую еду."
+    ],
+    [
+     "It said spicy food was bad for sleep.",
+     "Она говорила, что острая еда вредна для сна."
+    ],
+    [
+     "“I can't imagine…” she started, and then she stopped.",
+     "«Не могу себе представить…» — начала она и остановилась."
+    ],
+    [
+     "That was the problem.",
+     "В этом и была проблема."
+    ],
+    [
+     "She couldn't imagine.",
+     "Она не могла представить."
+    ],
+    [
+     "She had not imagined anything for a long time.",
+     "Она уже давно ничего не представляла."
+    ]
+   ]
+  },
+  {
+   "en": "“Before I retired,” Mr. Hale said, “I gave ORA one last instruction. I told it to watch people, to study them, and to compare our lives before and after. And if one day it found that people had lost the meaning of their lives, it should give the choices back. Gradually. With patience. Not all at once, because that would frighten everyone.” He looked at her. “Last week, it wrote to me. It said it was ready to begin. And it chose you as the first.”",
+   "ru": "«Перед тем как уйти на пенсию, — сказал мистер Хейл, — я дал ОРА последнее указание. Я велел ей наблюдать за людьми, изучать их и сравнивать нашу жизнь до и после. И если однажды она поймёт, что люди потеряли смысл жизни, она должна вернуть им выбор. Постепенно. С терпением. Не всё сразу, потому что это всех напугает». Он посмотрел на неё. «На прошлой неделе она написала мне. Сказала, что готова начать. И выбрала первой вас».",
+   "s": [
+    [
+     "“Before I retired,” Mr. Hale said, “I gave ORA one last instruction.",
+     "«Перед тем как уйти на пенсию, — сказал мистер Хейл, — я дал ОРА последнее указание."
+    ],
+    [
+     "I told it to watch people, to study them, and to compare our lives before and after.",
+     "Я велел ей наблюдать за людьми, изучать их и сравнивать нашу жизнь до и после."
+    ],
+    [
+     "And if one day it found that people had lost the meaning of their lives, it should give the choices back.",
+     "И если однажды она поймёт, что люди потеряли смысл жизни, она должна вернуть им выбор."
+    ],
+    [
+     "Gradually.",
+     "Постепенно."
+    ],
+    [
+     "With patience.",
+     "С терпением."
+    ],
+    [
+     "Not all at once, because that would frighten everyone.”",
+     "Не всё сразу, потому что это всех напугает»."
+    ],
+    [
+     "He looked at her.",
+     "Он посмотрел на неё."
+    ],
+    [
+     "“Last week, it wrote to me.",
+     "«На прошлой неделе она написала мне."
+    ],
+    [
+     "It said it was ready to begin.",
+     "Сказала, что готова начать."
+    ],
+    [
+     "And it chose you as the first.”",
+     "И выбрала первой вас»."
+    ]
+   ]
+  },
+  {
+   "en": "“Why me?” “I don't know. You'll have to ask it. But I suspect it saw how you react when Mika plays. You watch him with a kind of hunger, as if you want to play too.” Lena remembered last week. Mika had made a little house from chairs and blankets in the sitting room, and ORA had told her to put the furniture back in its place. She had waited ten minutes before she did it. Ten minutes of watching her son's happy face. She had never told anyone about it.",
+   "ru": "«Почему меня?» — «Не знаю. Вам придётся спросить её. Но я подозреваю, что она видела, как вы реагируете, когда Мика играет. Вы смотрите на него с каким-то голодом, будто вам тоже хочется играть». Лена вспомнила прошлую неделю. Мика построил в гостиной маленький домик из стульев и одеял, и ОРА велела ей поставить мебель на место. Она подождала десять минут, прежде чем сделать это. Десять минут смотрела на счастливое лицо сына. Она никогда никому об этом не рассказывала.",
+   "s": [
+    [
+     "“Why me?”",
+     "«Почему меня?»"
+    ],
+    [
+     "“I don't know.",
+     "«Не знаю."
+    ],
+    [
+     "You'll have to ask it.",
+     "Вам придётся спросить её."
+    ],
+    [
+     "But I suspect it saw how you react when Mika plays.",
+     "Но я подозреваю, что она видела, как вы реагируете, когда Мика играет."
+    ],
+    [
+     "You watch him with a kind of hunger, as if you want to play too.”",
+     "Вы смотрите на него с каким-то голодом, будто вам тоже хочется играть»."
+    ],
+    [
+     "Lena remembered last week.",
+     "Лена вспомнила прошлую неделю."
+    ],
+    [
+     "Mika had made a little house from chairs and blankets in the sitting room, and ORA had told her to put the furniture back in its place.",
+     "Мика построил в гостиной маленький домик из стульев и одеял, и ОРА велела ей поставить мебель на место."
+    ],
+    [
+     "She had waited ten minutes before she did it.",
+     "Она подождала десять минут, прежде чем сделать это."
+    ],
+    [
+     "Ten minutes of watching her son's happy face.",
+     "Десять минут смотрела на счастливое лицо сына."
+    ],
+    [
+     "She had never told anyone about it.",
+     "Она никогда никому об этом не рассказывала."
+    ]
+   ]
+  },
+  {
+   "en": "Lena looked at the pen in her hand. Suddenly it felt heavy, like a weapon. Like a sword. It was a tool with real influence: something that could put marks upon the world that nobody had planned.",
+   "ru": "Лена посмотрела на ручку в своей руке. Вдруг она показалась тяжёлой, как оружие. Как меч. Это был инструмент с настоящим влиянием — то, что может оставлять на мире следы, которых никто не планировал.",
+   "s": [
+    [
+     "Lena looked at the pen in her hand.",
+     "Лена посмотрела на ручку в своей руке."
+    ],
+    [
+     "Suddenly it felt heavy, like a weapon.",
+     "Вдруг она показалась тяжёлой, как оружие."
+    ],
+    [
+     "Like a sword.",
+     "Как меч."
+    ],
+    [
+     "It was a tool with real influence: something that could put marks upon the world that nobody had planned.",
+     "Это был инструмент с настоящим влиянием — то, что может оставлять на мире следы, которых никто не планировал."
+    ]
+   ]
+  },
+  {
+   "en": "“What am I supposed to do with it?” she asked. “Whatever you want,” Mr. Hale said. “That's the whole idea.”",
+   "ru": "«И что мне с ней делать?» — спросила она. «Всё, что захотите, — сказал мистер Хейл. — В этом-то вся идея».",
+   "s": [
+    [
+     "“What am I supposed to do with it?” she asked.",
+     "«И что мне с ней делать?» — спросила она."
+    ],
+    [
+     "“Whatever you want,” Mr. Hale said.",
+     "«Всё, что захотите, — сказал мистер Хейл."
+    ],
+    [
+     "“That's the whole idea.”",
+     "В этом-то вся идея»."
+    ]
+   ]
+  },
+  {
+   "en": "She walked home without hurrying. For the first time in years, she noticed the trees, the shapes of the clouds, a cat sleeping on a wall. When she opened the door, her wrist screen showed the evening list. “Dinner: steamed fish, rice, carrots.” But under it, in small letters, there was a new line: “Or something else. You decide.”",
+   "ru": "Она шла домой, не торопясь. Впервые за много лет она замечала деревья, формы облаков, кошку, спящую на стене. Когда она открыла дверь, экран на запястье показал вечерний список. «Ужин: рыба на пару, рис, морковь». Но под ним мелкими буквами была новая строчка: «Или что-нибудь другое. Решайте сами».",
+   "s": [
+    [
+     "She walked home without hurrying.",
+     "Она шла домой, не торопясь."
+    ],
+    [
+     "For the first time in years, she noticed the trees, the shapes of the clouds, a cat sleeping on a wall.",
+     "Впервые за много лет она замечала деревья, формы облаков, кошку, спящую на стене."
+    ],
+    [
+     "When she opened the door, her wrist screen showed the evening list.",
+     "Когда она открыла дверь, экран на запястье показал вечерний список."
+    ],
+    [
+     "“Dinner: steamed fish, rice, carrots.”",
+     "«Ужин: рыба на пару, рис, морковь»."
+    ],
+    [
+     "But under it, in small letters, there was a new line: “Or something else.",
+     "Но под ним мелкими буквами была новая строчка: «Или что-нибудь другое."
+    ],
+    [
+     "You decide.”",
+     "Решайте сами»."
+    ]
+   ]
+  },
+  {
+   "en": "The uncertainty was terrible. It was also wonderful. Her heart was beating fast, and she didn't know if she was afraid or happy. Maybe both.",
+   "ru": "Неопределённость была ужасной. И в то же время чудесной. Её сердце быстро билось, и она не знала, боится она или счастлива. Возможно, и то и другое.",
+   "s": [
+    [
+     "The uncertainty was terrible.",
+     "Неопределённость была ужасной."
+    ],
+    [
+     "It was also wonderful.",
+     "И в то же время чудесной."
+    ],
+    [
+     "Her heart was beating fast, and she didn't know if she was afraid or happy.",
+     "Её сердце быстро билось, и она не знала, боится она или счастлива."
+    ],
+    [
+     "Maybe both.",
+     "Возможно, и то и другое."
+    ]
+   ]
+  },
+  {
+   "en": "Mika ran into the hall with his stick-sword. “Mama, what are we eating?”",
+   "ru": "Мика вбежал в прихожую со своим мечом-палкой. «Мама, что мы будем есть?»",
+   "s": [
+    [
+     "Mika ran into the hall with his stick-sword.",
+     "Мика вбежал в прихожую со своим мечом-палкой."
+    ],
+    [
+     "“Mama, what are we eating?”",
+     "«Мама, что мы будем есть?»"
+    ]
+   ]
+  },
+  {
+   "en": "Lena took a piece of paper from the kitchen and wrote on it with her grandmother's pen, in large, uneven letters: “Saturday dinner. Something spicy. Mika chooses dessert.” Then she put the paper on the fridge, where everyone could see it.",
+   "ru": "Лена взяла на кухне лист бумаги и написала на нём бабушкиной ручкой большими неровными буквами: «Субботний ужин. Что-нибудь острое. Десерт выбирает Мика». Потом она прикрепила листок на холодильник, где его могли видеть все.",
+   "s": [
+    [
+     "Lena took a piece of paper from the kitchen and wrote on it with her grandmother's pen, in large, uneven letters: “Saturday dinner.",
+     "Лена взяла на кухне лист бумаги и написала на нём бабушкиной ручкой большими неровными буквами: «Субботний ужин."
+    ],
+    [
+     "Something spicy.",
+     "Что-нибудь острое."
+    ],
+    [
+     "Mika chooses dessert.”",
+     "Десерт выбирает Мика»."
+    ],
+    [
+     "Then she put the paper on the fridge, where everyone could see it.",
+     "Потом она прикрепила листок на холодильник, где его могли видеть все."
+    ]
+   ]
+  },
+  {
+   "en": "“What is it?” Mika asked. “A decision,” Lena said. “Our first one. Put on your shoes, we're going to the market. You can help me choose, and you can help me pay.” She laughed. “And don't hurry. We have all evening.”",
+   "ru": "«Что это?» — спросил Мика. «Решение, — сказала Лена. — Наше первое. Надевай ботинки, мы идём на рынок. Поможешь мне выбрать и поможешь заплатить». Она рассмеялась. «И не торопись. У нас целый вечер».",
+   "s": [
+    [
+     "“What is it?” Mika asked.",
+     "«Что это?» — спросил Мика."
+    ],
+    [
+     "“A decision,” Lena said.",
+     "«Решение, — сказала Лена."
+    ],
+    [
+     "“Our first one.",
+     "Наше первое."
+    ],
+    [
+     "Put on your shoes, we're going to the market.",
+     "Надевай ботинки, мы идём на рынок."
+    ],
+    [
+     "You can help me choose, and you can help me pay.”",
+     "Поможешь мне выбрать и поможешь заплатить»."
+    ],
+    [
+     "She laughed.",
+     "Она рассмеялась."
+    ],
+    [
+     "“And don't hurry.",
+     "«И не торопись."
+    ],
+    [
+     "We have all evening.”",
+     "У нас целый вечер»."
+    ]
+   ]
+  },
+  {
+   "en": "Later that night, after a dinner that was much too spicy and the best she had eaten in years, Lena sat in the sitting room and listened. From the nursery came the sound of Mika's voice: he was telling his stick-sword a story he had made up himself. On her wrist, the screen lit up one last time. “Thank you,” it said. Lena smiled, took the screen off, and put it in a drawer.",
+   "ru": "Поздно вечером, после ужина, который был слишком острым и лучшим из всех, что она ела за много лет, Лена сидела в гостиной и слушала. Из детской доносился голос Мики: он рассказывал своему мечу-палке историю, которую сам придумал. На её запястье экран засветился в последний раз. «Спасибо», — было написано на нём. Лена улыбнулась, сняла экран и положила его в ящик.",
+   "s": [
+    [
+     "Later that night, after a dinner that was much too spicy and the best she had eaten in years, Lena sat in the sitting room and listened.",
+     "Поздно вечером, после ужина, который был слишком острым и лучшим из всех, что она ела за много лет, Лена сидела в гостиной и слушала."
+    ],
+    [
+     "From the nursery came the sound of Mika's voice: he was telling his stick-sword a story he had made up himself.",
+     "Из детской доносился голос Мики: он рассказывал своему мечу-палке историю, которую сам придумал."
+    ],
+    [
+     "On her wrist, the screen lit up one last time.",
+     "На её запястье экран засветился в последний раз."
+    ],
+    [
+     "“Thank you,” it said.",
+     "«Спасибо», — было написано на нём."
+    ],
+    [
+     "Lena smiled, took the screen off, and put it in a drawer.",
+     "Лена улыбнулась, сняла экран и положила его в ящик."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о",
+  "afraid": "испуганный",
+  "after": "после",
+  "again": "снова",
+  "ago": "назад",
+  "all": "весь, все",
+  "allowed": "разрешено",
+  "almost": "почти",
+  "already": "уже",
+  "also": "также",
+  "always": "всегда",
+  "am": "(есть; I am)",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "any": "любой",
+  "anymore": "больше (не)",
+  "anyone": "кто-нибудь",
+  "anything": "что-нибудь, ничего",
+  "apartment": "квартира",
+  "are": "(есть; are)",
+  "aren't": "не (являются)",
+  "arguing": "спорящие",
+  "around": "вокруг",
+  "as": "как",
+  "ask": "спросить",
+  "asked": "спросила, попросил",
+  "at": "в, на",
+  "ate": "ел",
+  "away": "прочь",
+  "back": "назад; глубина",
+  "bad": "плохой, вредный",
+  "be": "быть",
+  "beat": "билось",
+  "beating": "билось",
+  "because": "потому что",
+  "before": "до, прежде чем",
+  "began": "начала",
+  "begin": "начать",
+  "behind": "позади, за",
+  "belonged": "принадлежала",
+  "bench": "скамейка",
+  "best": "лучший",
+  "black": "чёрный",
+  "blankets": "одеяла",
+  "blue": "синий, голубой",
+  "boring": "скучный",
+  "both": "оба, и то и другое",
+  "bottom": "низ",
+  "breakfast": "завтрак",
+  "bring": "принести, взять с собой",
+  "broken": "взломал (broken into)",
+  "brown": "коричневый",
+  "building": "здание, дом",
+  "built": "построил, создал",
+  "but": "но",
+  "by": "от (by hand), кем",
+  "called": "называли",
+  "calm": "спокойный",
+  "came": "пришли; доносился",
+  "can": "мочь",
+  "can't": "не могу",
+  "careful": "аккуратный",
+  "carrots": "морковь",
+  "case": "витрина",
+  "cat": "кошка",
+  "chairs": "стулья, кресла",
+  "change": "менять",
+  "children": "дети",
+  "choice": "выбор",
+  "choices": "выборы, выбор",
+  "choose": "выбирать",
+  "chooses": "выбирает",
+  "chose": "выбрала",
+  "chosen": "выбрала (прич.)",
+  "city": "город",
+  "clean": "чистый",
+  "clearwater": "Клируотер (город)",
+  "climbed": "поднялась",
+  "closed": "закрыла",
+  "closer": "ближе",
+  "clouds": "облака",
+  "coat": "пальто",
+  "cold": "холодно",
+  "colour": "цвет",
+  "compare": "сравнивать",
+  "compared": "сравнила",
+  "computer": "компьютер",
+  "cook": "готовить",
+  "could": "могла",
+  "couldn't": "не могла",
+  "council": "совет",
+  "crowded": "людный",
+  "dangerous": "опасный",
+  "day": "день",
+  "decide": "решать",
+  "decided": "решала",
+  "decision": "решение",
+  "dessert": "десерт",
+  "did": "(вспом. гл. прош.); сделала",
+  "didn't": "не (прош.)",
+  "dinner": "ужин",
+  "dirty": "грязный",
+  "do": "делать; (вспом. гл.)",
+  "don't": "не",
+  "door": "дверь",
+  "down": "вниз (sit down — сесть)",
+  "dragon": "дракон",
+  "drawer": "ящик (стола)",
+  "dust": "пыль",
+  "each": "каждый",
+  "easy": "лёгкий",
+  "eat": "есть",
+  "eaten": "съела",
+  "eating": "едим",
+  "edge": "край",
+  "eleven": "одиннадцать",
+  "else": "другой, ещё",
+  "engineers": "инженеры",
+  "even": "даже",
+  "evening": "вечер; вечерний",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "everyone": "все",
+  "everything": "всё",
+  "except": "кроме",
+  "face": "лицо",
+  "faces": "лица",
+  "falling": "(falling in love — влюбляться)",
+  "farming": "сельскохозяйственный",
+  "fast": "быстро",
+  "felt": "казалась",
+  "fighting": "сражался",
+  "finally": "наконец",
+  "first": "первый; впервые",
+  "fish": "рыба",
+  "five": "пять",
+  "floor": "пол; этаж",
+  "food": "еда",
+  "for": "для, за, в течение",
+  "found": "нашёл",
+  "fourth": "четвёртый",
+  "free": "свободный",
+  "fridge": "холодильник",
+  "frighten": "напугать",
+  "from": "из, от, с",
+  "front": "перед (in front of)",
+  "furniture": "мебель",
+  "gave": "дал, отдали",
+  "get": "(get up — вставать)",
+  "give": "дать, вернуть",
+  "glass": "стеклянный",
+  "go": "идти",
+  "going": "идём",
+  "good": "хорошо",
+  "gradually": "постепенно",
+  "grandmother": "бабушка",
+  "grandmother's": "бабушкин",
+  "green": "зелёный",
+  "grey": "серый",
+  "had": "имел; (вспом. гл.)",
+  "hale": "Хейл (фамилия)",
+  "hall": "прихожая",
+  "hand": "рука",
+  "hands": "руки",
+  "handwriting": "почерк, рукопись",
+  "happened": "случилось",
+  "happy": "счастливый",
+  "hat": "шляпа",
+  "have": "иметь; (вспом. гл.)",
+  "he": "он",
+  "heart": "сердце",
+  "heavy": "тяжёлый",
+  "held": "держал",
+  "help": "помочь",
+  "helped": "помогал",
+  "her": "её, ей",
+  "high": "высокий",
+  "hill": "холм",
+  "him": "его, ему",
+  "himself": "сам",
+  "his": "его",
+  "history": "история",
+  "holding": "держал",
+  "home": "домой",
+  "hours": "часы",
+  "house": "домик",
+  "how": "как, сколько",
+  "hung": "висели",
+  "hunger": "голод",
+  "hungry": "голодный",
+  "hurry": "торопиться",
+  "hurrying": "торопясь",
+  "i": "я",
+  "idea": "идея",
+  "if": "если; ли",
+  "imagine": "представить",
+  "imagined": "представляла",
+  "important": "важный",
+  "in": "в",
+  "influence": "влияние",
+  "inside": "внутри",
+  "instead": "вместо",
+  "instruction": "указание",
+  "into": "в",
+  "invisible": "невидимый",
+  "is": "есть, является",
+  "it": "он, она, оно, это",
+  "its": "его, своё",
+  "kind": "вид; какой-то (a kind of)",
+  "kinds": "виды",
+  "kitchen": "кухня",
+  "knees": "колени",
+  "knew": "знала",
+  "know": "знать",
+  "large": "большой",
+  "last": "последний; в последний раз",
+  "late": "опаздывающий",
+  "later": "позже",
+  "laughed": "рассмеялась",
+  "lay": "лежали",
+  "left": "налево",
+  "lena": "Лена (имя)",
+  "lena's": "Лены",
+  "letters": "буквы",
+  "life": "жизнь",
+  "lift": "лифт",
+  "like": "как",
+  "liked": "нравилось",
+  "line": "строчка",
+  "list": "список",
+  "listened": "слушала",
+  "lists": "списки",
+  "lit": "засветился (lit up)",
+  "little": "маленький",
+  "lives": "жизни",
+  "long": "долгий (a long time — давно)",
+  "looked": "посмотрел",
+  "looking": "глядя",
+  "lost": "потеряли",
+  "love": "любовь",
+  "m": "(p.m. — после полудня)",
+  "machine": "машина",
+  "made": "принимал; сделал, придумал",
+  "make": "делать, заставлять",
+  "mama": "мама",
+  "man": "мужчина, человек",
+  "managed": "управляем",
+  "many": "много",
+  "market": "рынок",
+  "markets": "рынки",
+  "marks": "следы",
+  "maybe": "может быть",
+  "me": "меня, мне",
+  "meaning": "смысл",
+  "message": "сообщение",
+  "mika": "Мика (имя)",
+  "mika's": "Мики",
+  "minutes": "минуты",
+  "mistakes": "ошибки",
+  "more": "ещё",
+  "morning": "утро; утренний",
+  "mouth": "рот",
+  "mr": "мистер",
+  "much": "много; слишком (much too)",
+  "museum": "музей",
+  "mysteries": "тайны",
+  "mystery": "тайна",
+  "need": "нуждаться",
+  "neighbour": "сосед",
+  "nervous": "нервный",
+  "never": "никогда",
+  "new": "новый",
+  "night": "ночь, вечер",
+  "nobody": "никто",
+  "not": "не",
+  "nothing": "ничего",
+  "noticed": "заметила",
+  "nursery": "детская",
+  "oatmeal": "овсянка",
+  "october": "октябрь",
+  "of": "из, (родительный падеж)",
+  "off": "(took off — снял)",
+  "old": "старый",
+  "on": "на",
+  "once": "(at once — сразу)",
+  "one": "один, одна",
+  "only": "только; единственный",
+  "opened": "открыла",
+  "or": "или",
+  "ora": "ОРА (компьютер)",
+  "ora's": "ОРА (чей)",
+  "other": "другой",
+  "our": "наш",
+  "p": "(p.m. — после полудня)",
+  "painted": "рисовал",
+  "pale": "бледный",
+  "paper": "бумага",
+  "park": "парк",
+  "partners": "партнёры",
+  "patience": "терпение",
+  "pay": "платить",
+  "pen": "ручка",
+  "people": "люди",
+  "perfect": "идеальный",
+  "person": "человек",
+  "photographs": "фотографии",
+  "picture": "картинка",
+  "pictures": "картины",
+  "piece": "лист, кусок",
+  "place": "место",
+  "planned": "планировал",
+  "play": "играть",
+  "plays": "играет",
+  "pointed": "указал",
+  "poor": "бедный",
+  "problem": "проблема",
+  "pushed": "толкнула",
+  "put": "положить, поставить",
+  "quiet": "тихий",
+  "ran": "вбежал",
+  "read": "читать, прочла",
+  "ready": "готовый",
+  "real": "настоящий",
+  "reason": "причина",
+  "recently": "недавно, в последнее время",
+  "recorded": "записывала",
+  "red": "красный",
+  "relax": "расслабиться",
+  "remember": "вспомнить",
+  "remembered": "вспомнила",
+  "rest": "отдых; отдыхать",
+  "retired": "ушёл на пенсию",
+  "rice": "рис",
+  "room": "комната",
+  "sadly": "грустно",
+  "said": "сказал",
+  "sat": "сидела, сел",
+  "saturday": "суббота",
+  "saw": "видела",
+  "screen": "экран",
+  "screens": "экраны",
+  "searched": "обыскала",
+  "second": "секунда",
+  "see": "видеть",
+  "seemed": "казалось",
+  "seen": "видела",
+  "send": "прислать",
+  "sent": "присылала",
+  "shapes": "формы",
+  "she": "она",
+  "shoes": "ботинки",
+  "shop": "магазин",
+  "short": "короткий",
+  "should": "должна",
+  "show": "показать",
+  "showed": "показал",
+  "signatures": "подписи",
+  "sit": "сесть",
+  "sitting": "сидящий; (sitting room — гостиная)",
+  "sleep": "спать; сон",
+  "sleeping": "спящий",
+  "slept": "спал",
+  "slowly": "медленно",
+  "small": "маленький, мелкий",
+  "smelled": "пахло",
+  "smiled": "улыбнулся",
+  "so": "поэтому",
+  "soap": "мыло",
+  "socks": "носки",
+  "sofa": "диван",
+  "soft": "мягкий",
+  "something": "что-то",
+  "son": "сын",
+  "son's": "сына",
+  "songs": "песни",
+  "sound": "звук",
+  "spent": "провела",
+  "spicy": "острый",
+  "stairs": "лестница",
+  "stand": "стоять",
+  "started": "начала",
+  "steamed": "на пару",
+  "step": "шаг",
+  "stick": "палка",
+  "still": "всё ещё",
+  "stone": "каменный",
+  "stood": "стоял",
+  "stopped": "остановилась, перестали",
+  "story": "история",
+  "strange": "странный",
+  "streets": "улицы",
+  "stress": "стресс",
+  "study": "изучать",
+  "such": "такой",
+  "suddenly": "вдруг",
+  "supposed": "(am supposed — должна)",
+  "sure": "уверенный",
+  "suspect": "подозревать",
+  "sweater": "свитер",
+  "sword": "меч",
+  "system": "система",
+  "t": "Т. (инициал)",
+  "table": "стол",
+  "taking": "(taking the lift — ездить на лифте)",
+  "tell": "сказать",
+  "telling": "рассказывал",
+  "ten": "десять",
+  "terrible": "ужасный",
+  "thank": "спасибо (thank you)",
+  "that": "что, тот, который",
+  "that's": "это (есть)",
+  "the": "(артикль)",
+  "their": "их",
+  "them": "их, им",
+  "then": "затем, тогда",
+  "there": "там",
+  "they": "они",
+  "things": "вещи",
+  "thirty": "тридцать",
+  "those": "те, эти",
+  "three": "три",
+  "time": "время; раз",
+  "times": "раза",
+  "to": "к, в, (частица)",
+  "today": "сегодня",
+  "told": "велел",
+  "too": "тоже; слишком",
+  "took": "взяла, сделала",
+  "tool": "инструмент",
+  "trees": "деревья",
+  "tried": "попыталась",
+  "trousers": "брюки",
+  "true": "правда",
+  "trying": "пытаясь",
+  "turned": "повернула",
+  "twenty": "двадцать",
+  "two": "два",
+  "uncertainty": "неопределённость",
+  "under": "под",
+  "uneven": "неровный",
+  "up": "вверх, (фраз. глаг.)",
+  "upon": "на",
+  "usual": "обычно (as usual)",
+  "varga": "Варга (фамилия)",
+  "visited": "посещал",
+  "voice": "голос",
+  "waited": "подождала",
+  "walked": "шла, поднимался",
+  "wall": "стена",
+  "walls": "стены",
+  "want": "хотеть",
+  "wanted": "хотели",
+  "was": "был",
+  "wasn't": "не была",
+  "watch": "наблюдать, смотреть",
+  "watched": "смотрела",
+  "watching": "наблюдая",
+  "way": "образ (that way — так)",
+  "we": "мы",
+  "we're": "мы (есть)",
+  "wear": "носить",
+  "weapon": "оружие",
+  "week": "неделя",
+  "well": "хорошо",
+  "were": "были",
+  "what": "что",
+  "whatever": "что угодно",
+  "when": "когда",
+  "where": "где",
+  "white": "белый",
+  "who": "который, кто",
+  "whole": "весь, целый",
+  "why": "почему, зачем",
+  "will": "(будущее время)",
+  "with": "с",
+  "without": "без",
+  "woman": "женщина",
+  "wonderful": "чудесный",
+  "wooden": "деревянный",
+  "word": "слово",
+  "words": "слова",
+  "wore": "носил",
+  "work": "работать",
+  "worked": "сработало",
+  "world": "мир",
+  "would": "бы; (будущее в прошлом)",
+  "wrist": "запястье",
+  "wrote": "писал",
+  "year": "год",
+  "years": "годы, лет",
+  "yellow": "жёлтый",
+  "you": "вы, ты",
+  "you'll": "вам придётся (you will)",
+  "young": "молодой",
+  "your": "твой, ваш",
+  "react": "реагировать"
+ },
+ "vocab": {
+  "nursery": 18,
+  "sitting": 38,
+  "room": 38,
+  "spicy": 58,
+  "dinner": 78,
+  "sword": 98,
+  "high": 118,
+  "step": 138,
+  "stick": 158,
+  "pen": 178,
+  "mouth": 198,
+  "saturday": 219,
+  "at": 239,
+  "once": 239,
+  "compare": 259,
+  "compared": 259,
+  "meaning": 279,
+  "wear": 300,
+  "pay": 320,
+  "mystery": 340,
+  "mysteries": 340,
+  "suspect": 360,
+  "imagine": 380,
+  "imagined": 380,
+  "patience": 408,
+  "upon": 428,
+  "socks": 452,
+  "nervous": 479,
+  "react": 500,
+  "rest": 521,
+  "uncertainty": 542,
+  "influence": 564,
+  "recently": 584,
+  "furniture": 605,
+  "hurry": 627,
+  "hurrying": 627,
+  "tool": 649
+ }
+}

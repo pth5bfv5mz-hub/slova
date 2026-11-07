@@ -1,0 +1,1495 @@
+{
+ "id": 23,
+ "level": "B1",
+ "title_en": "The Red Umbrella",
+ "title_ru": "Красный зонт",
+ "genre": "Приключения, тайна",
+ "summary_ru": "В пустыне археологи открывают древний зал, где на стене, на языке, мёртвом уже две тысячи лет, вырезано послание, которого там просто не может быть.",
+ "paragraphs": [
+  {
+   "en": "Dr. Lena Varga had never liked the desert. She had spent her last vacation in a cool northern city, walking from museum to café, and she had planned to spend the next one in exactly the same way. But when Professor Edmund Rourke wrote to her and asked her to join his expedition to the Qarsa Basin, she could not refuse. Rourke was a legend, and an invitation from him was an honour that came once in a career.",
+   "ru": "Доктор Лена Варга никогда не любила пустыню. Свой последний отпуск она провела в прохладном северном городе, гуляя от музея к кафе, и собиралась провести следующий точно так же. Но когда профессор Эдмунд Рурк написал ей и пригласил присоединиться к его экспедиции в котловину Карса, она не смогла отказаться. Рурк был легендой, а приглашение от него было честью, которая выпадает раз в жизни учёного.",
+   "s": [
+    [
+     "Dr. Lena Varga had never liked the desert.",
+     "Доктор Лена Варга никогда не любила пустыню."
+    ],
+    [
+     "She had spent her last vacation in a cool northern city, walking from museum to café, and she had planned to spend the next one in exactly the same way.",
+     "Свой последний отпуск она провела в прохладном северном городе, гуляя от музея к кафе, и собиралась провести следующий точно так же."
+    ],
+    [
+     "But when Professor Edmund Rourke wrote to her and asked her to join his expedition to the Qarsa Basin, she could not refuse.",
+     "Но когда профессор Эдмунд Рурк написал ей и пригласил присоединиться к его экспедиции в котловину Карса, она не смогла отказаться."
+    ],
+    [
+     "Rourke was a legend, and an invitation from him was an honour that came once in a career.",
+     "Рурк был легендой, а приглашение от него было честью, которая выпадает раз в жизни учёного."
+    ]
+   ]
+  },
+  {
+   "en": "“I need someone who can read the old Qarsi script,” his message had said. “Unfortunately, the last people who could read it fluently died a long time ago. There are no native speakers of the language left, only a few desert families who still use some of its words.” Lena was one of perhaps five scholars in the world who had studied the script, and Rourke knew it.",
+   "ru": "«Мне нужен человек, который умеет читать древнее карсийское письмо», — говорилось в его письме. «К сожалению, последние люди, которые свободно его читали, умерли очень давно. Носителей этого языка не осталось, лишь несколько семей в пустыне до сих пор употребляют некоторые его слова». Лена была одной из, может быть, пяти учёных в мире, которые изучали это письмо, и Рурк это знал.",
+   "s": [
+    [
+     "“I need someone who can read the old Qarsi script,” his message had said.",
+     "«Мне нужен человек, который умеет читать древнее карсийское письмо», — говорилось в его письме."
+    ],
+    [
+     "“Unfortunately, the last people who could read it fluently died a long time ago.",
+     "«К сожалению, последние люди, которые свободно его читали, умерли очень давно."
+    ],
+    [
+     "There are no native speakers of the language left, only a few desert families who still use some of its words.”",
+     "Носителей этого языка не осталось, лишь несколько семей в пустыне до сих пор употребляют некоторые его слова»."
+    ],
+    [
+     "Lena was one of perhaps five scholars in the world who had studied the script, and Rourke knew it.",
+     "Лена была одной из, может быть, пяти учёных в мире, которые изучали это письмо, и Рурк это знал."
+    ]
+   ]
+  },
+  {
+   "en": "The camp stood at the edge of a sea of yellow dunes, three hours from the nearest town. Every morning a thin mist lay over the sand, and every afternoon the heat was so strong that Lena walked around under a white umbrella, which the workers found very funny. A black crow had made a habit of sitting on her tent, watching her with its small bright eyes. “It likes you,” said Samir, the young guide who had been hired to find water and to deal with the local families. “That is a good sign. Or a bad one. My grandmother would know.”",
+   "ru": "Лагерь стоял на краю моря жёлтых дюн, в трёх часах от ближайшего города. Каждое утро над песком лежал лёгкий туман, а каждый день жара была такой сильной, что Лена ходила под белым зонтом, что рабочим казалось очень смешным. Чёрная ворона взяла привычку сидеть на её палатке и смотреть на неё маленькими блестящими глазами. «Вы ей нравитесь», — сказал Самир, молодой проводник, которого наняли, чтобы находить воду и договариваться с местными семьями. «Это хороший знак. Или плохой. Моя бабушка знала бы».",
+   "s": [
+    [
+     "The camp stood at the edge of a sea of yellow dunes, three hours from the nearest town.",
+     "Лагерь стоял на краю моря жёлтых дюн, в трёх часах от ближайшего города."
+    ],
+    [
+     "Every morning a thin mist lay over the sand, and every afternoon the heat was so strong that Lena walked around under a white umbrella, which the workers found very funny.",
+     "Каждое утро над песком лежал лёгкий туман, а каждый день жара была такой сильной, что Лена ходила под белым зонтом, что рабочим казалось очень смешным."
+    ],
+    [
+     "A black crow had made a habit of sitting on her tent, watching her with its small bright eyes.",
+     "Чёрная ворона взяла привычку сидеть на её палатке и смотреть на неё маленькими блестящими глазами."
+    ],
+    [
+     "“It likes you,” said Samir, the young guide who had been hired to find water and to deal with the local families.",
+     "«Вы ей нравитесь», — сказал Самир, молодой проводник, которого наняли, чтобы находить воду и договариваться с местными семьями."
+    ],
+    [
+     "“That is a good sign.",
+     "«Это хороший знак."
+    ],
+    [
+     "Or a bad one.",
+     "Или плохой."
+    ],
+    [
+     "My grandmother would know.”",
+     "Моя бабушка знала бы»."
+    ]
+   ]
+  },
+  {
+   "en": "Samir's grandmother lived in a stone house nearby, where she kept a small flock of sheep. The workers said she was a witch. They said she could talk to animals and that she knew when people would die. Lena had seen her once, standing on a hill, an old woman in a dark blue scarf, looking at the camp for a long time before she turned and walked away.",
+   "ru": "Бабушка Самира жила неподалёку в каменном доме, где держала небольшое стадо овец. Рабочие говорили, что она ведьма. Говорили, что она умеет разговаривать с животными и знает, когда люди умрут. Лена видела её однажды: старуха в тёмно-синем платке стояла на холме и долго смотрела на лагерь, а потом повернулась и ушла.",
+   "s": [
+    [
+     "Samir's grandmother lived in a stone house nearby, where she kept a small flock of sheep.",
+     "Бабушка Самира жила неподалёку в каменном доме, где держала небольшое стадо овец."
+    ],
+    [
+     "The workers said she was a witch.",
+     "Рабочие говорили, что она ведьма."
+    ],
+    [
+     "They said she could talk to animals and that she knew when people would die.",
+     "Говорили, что она умеет разговаривать с животными и знает, когда люди умрут."
+    ],
+    [
+     "Lena had seen her once, standing on a hill, an old woman in a dark blue scarf, looking at the camp for a long time before she turned and walked away.",
+     "Лена видела её однажды: старуха в тёмно-синем платке стояла на холме и долго смотрела на лагерь, а потом повернулась и ушла."
+    ]
+   ]
+  },
+  {
+   "en": "For three weeks the expedition found nothing. The workers were tired, Rourke was anxious, and Lena's feet were covered in blisters. Each evening she sat in front of her laptop and wrote an update for the university, and each evening the screen showed the same sad sentence: “No important finds today.” Rourke read these reports over her shoulder without a word. He had a strange habit of touching his shirt pocket when he was nervous, as if something important was kept there.",
+   "ru": "Три недели экспедиция ничего не находила. Рабочие устали, Рурк был встревожен, а ноги Лены были покрыты мозолями. Каждый вечер она садилась перед ноутбуком и писала для университета отчёт с новостями, и каждый вечер на экране было одно и то же грустное предложение: «Важных находок сегодня нет». Рурк молча читал эти отчёты через её плечо. У него была странная привычка трогать карман рубашки, когда он нервничал, будто там хранилось что-то важное.",
+   "s": [
+    [
+     "For three weeks the expedition found nothing.",
+     "Три недели экспедиция ничего не находила."
+    ],
+    [
+     "The workers were tired, Rourke was anxious, and Lena's feet were covered in blisters.",
+     "Рабочие устали, Рурк был встревожен, а ноги Лены были покрыты мозолями."
+    ],
+    [
+     "Each evening she sat in front of her laptop and wrote an update for the university, and each evening the screen showed the same sad sentence: “No important finds today.”",
+     "Каждый вечер она садилась перед ноутбуком и писала для университета отчёт с новостями, и каждый вечер на экране было одно и то же грустное предложение: «Важных находок сегодня нет»."
+    ],
+    [
+     "Rourke read these reports over her shoulder without a word.",
+     "Рурк молча читал эти отчёты через её плечо."
+    ],
+    [
+     "He had a strange habit of touching his shirt pocket when he was nervous, as if something important was kept there.",
+     "У него была странная привычка трогать карман рубашки, когда он нервничал, будто там хранилось что-то важное."
+    ]
+   ]
+  },
+  {
+   "en": "Then, on the twenty-second day, a storm moved the dunes with terrible force. When the wind finally stopped, one of the workers ran into the camp shouting. Where there had been only sand, the top of a stone doorway could now be seen.",
+   "ru": "А потом, на двадцать второй день, буря с ужасной силой сдвинула дюны. Когда ветер наконец утих, один из рабочих с криками вбежал в лагерь. Там, где раньше был только песок, теперь виднелся верх каменного дверного проёма.",
+   "s": [
+    [
+     "Then, on the twenty-second day, a storm moved the dunes with terrible force.",
+     "А потом, на двадцать второй день, буря с ужасной силой сдвинула дюны."
+    ],
+    [
+     "When the wind finally stopped, one of the workers ran into the camp shouting.",
+     "Когда ветер наконец утих, один из рабочих с криками вбежал в лагерь."
+    ],
+    [
+     "Where there had been only sand, the top of a stone doorway could now be seen.",
+     "Там, где раньше был только песок, теперь виднелся верх каменного дверного проёма."
+    ]
+   ]
+  },
+  {
+   "en": "It took them two days to clear the entrance. Behind it a staircase went down into the dark, and at the bottom they found a hall. It was long and cool, and it had clearly been built by people who had known exactly what they were doing. There was a fireplace in one wall, black with old smoke. Clay plates and cups stood on a low stone shelf, as if the owners had just left for a moment. “Incredible,” Rourke whispered. His voice was shaking. “Nobody has been inside this room for three thousand years.”",
+   "ru": "У них ушло два дня, чтобы расчистить вход. За ним в темноту уходила лестница, а внизу они нашли зал. Он был длинным и прохладным, и его явно построили люди, которые точно знали, что делают. В одной из стен был камин, чёрный от старой копоти. Глиняные тарелки и чашки стояли на низкой каменной полке, будто хозяева вышли всего на минуту. «Невероятно», — прошептал Рурк. Его голос дрожал. «Внутри этой комнаты никто не был три тысячи лет».",
+   "s": [
+    [
+     "It took them two days to clear the entrance.",
+     "У них ушло два дня, чтобы расчистить вход."
+    ],
+    [
+     "Behind it a staircase went down into the dark, and at the bottom they found a hall.",
+     "За ним в темноту уходила лестница, а внизу они нашли зал."
+    ],
+    [
+     "It was long and cool, and it had clearly been built by people who had known exactly what they were doing.",
+     "Он был длинным и прохладным, и его явно построили люди, которые точно знали, что делают."
+    ],
+    [
+     "There was a fireplace in one wall, black with old smoke.",
+     "В одной из стен был камин, чёрный от старой копоти."
+    ],
+    [
+     "Clay plates and cups stood on a low stone shelf, as if the owners had just left for a moment.",
+     "Глиняные тарелки и чашки стояли на низкой каменной полке, будто хозяева вышли всего на минуту."
+    ],
+    [
+     "“Incredible,” Rourke whispered.",
+     "«Невероятно», — прошептал Рурк."
+    ],
+    [
+     "His voice was shaking.",
+     "Его голос дрожал."
+    ],
+    [
+     "“Nobody has been inside this room for three thousand years.”",
+     "«Внутри этой комнаты никто не был три тысячи лет»."
+    ]
+   ]
+  },
+  {
+   "en": "Lena walked slowly along the walls with her torch. They were covered in carved symbols, and she felt her heart beat faster as she recognised them. This was Qarsi, the most exciting example of the script she had ever seen. She began to translate at once, writing the words down in her notebook.",
+   "ru": "Лена медленно шла вдоль стен с фонариком. Они были покрыты вырезанными знаками, и она почувствовала, как сердце забилось быстрее, когда она их узнала. Это было карсийское письмо — самый захватывающий его пример, какой она когда-либо видела. Она сразу начала переводить, записывая слова в блокнот.",
+   "s": [
+    [
+     "Lena walked slowly along the walls with her torch.",
+     "Лена медленно шла вдоль стен с фонариком."
+    ],
+    [
+     "They were covered in carved symbols, and she felt her heart beat faster as she recognised them.",
+     "Они были покрыты вырезанными знаками, и она почувствовала, как сердце забилось быстрее, когда она их узнала."
+    ],
+    [
+     "This was Qarsi, the most exciting example of the script she had ever seen.",
+     "Это было карсийское письмо — самый захватывающий его пример, какой она когда-либо видела."
+    ],
+    [
+     "She began to translate at once, writing the words down in her notebook.",
+     "Она сразу начала переводить, записывая слова в блокнот."
+    ]
+   ]
+  },
+  {
+   "en": "Most of it was what she had expected: the names of kings, prayers to the gods of water and wind, lists of sheep and goats. But near the fireplace there was a smaller text, and the symbols there looked different. They were less deep, and the edges were sharper, as if they had been cut much later than the rest. Lena read the first line three times before she could believe it.",
+   "ru": "Бо́льшая часть была тем, чего она и ожидала: имена царей, молитвы богам воды и ветра, списки овец и коз. Но возле камина был текст поменьше, и знаки там выглядели иначе. Они были менее глубокими, а края — острее, словно их вырезали гораздо позже остальных. Лена перечитала первую строку три раза, прежде чем смогла в это поверить.",
+   "s": [
+    [
+     "Most of it was what she had expected: the names of kings, prayers to the gods of water and wind, lists of sheep and goats.",
+     "Бо́льшая часть была тем, чего она и ожидала: имена царей, молитвы богам воды и ветра, списки овец и коз."
+    ],
+    [
+     "But near the fireplace there was a smaller text, and the symbols there looked different.",
+     "Но возле камина был текст поменьше, и знаки там выглядели иначе."
+    ],
+    [
+     "They were less deep, and the edges were sharper, as if they had been cut much later than the rest.",
+     "Они были менее глубокими, а края — острее, словно их вырезали гораздо позже остальных."
+    ],
+    [
+     "Lena read the first line three times before she could believe it.",
+     "Лена перечитала первую строку три раза, прежде чем смогла в это поверить."
+    ]
+   ]
+  },
+  {
+   "en": "“Professor,” she said quietly. “Come and look at this.”",
+   "ru": "«Профессор, — тихо сказала она. — Подойдите и посмотрите».",
+   "s": [
+    [
+     "“Professor,” she said quietly.",
+     "«Профессор, — тихо сказала она."
+    ],
+    [
+     "“Come and look at this.”",
+     "— Подойдите и посмотрите»."
+    ]
+   ]
+  },
+  {
+   "en": "Rourke came and stood beside her. “What does it say?”",
+   "ru": "Рурк подошёл и встал рядом с ней. «Что здесь написано?»",
+   "s": [
+    [
+     "Rourke came and stood beside her.",
+     "Рурк подошёл и встал рядом с ней."
+    ],
+    [
+     "“What does it say?”",
+     "«Что здесь написано?»"
+    ]
+   ]
+  },
+  {
+   "en": "“It says: ‘I am Ellie, the daughter of the man who digs. The sand took me, but the people of the sheep took me in. My red umbrella I leave here, so my brother will know.’” Lena lowered her notebook. “That's impossible. These words are written in a language that has been dead for twenty centuries. And the name Ellie... it isn't Qarsi at all.”",
+   "ru": "«Здесь сказано: „Я Элли, дочь человека, который копает. Песок забрал меня, но люди овец приняли меня. Свой красный зонт я оставляю здесь, чтобы мой брат узнал“». Лена опустила блокнот. «Это невозможно. Эти слова написаны на языке, который мёртв уже двадцать веков. А имя Элли… оно вовсе не карсийское».",
+   "s": [
+    [
+     "“It says: ‘I am Ellie, the daughter of the man who digs.",
+     "«Здесь сказано: „Я Элли, дочь человека, который копает."
+    ],
+    [
+     "The sand took me, but the people of the sheep took me in.",
+     "Песок забрал меня, но люди овец приняли меня."
+    ],
+    [
+     "My red umbrella I leave here, so my brother will know.’”",
+     "Свой красный зонт я оставляю здесь, чтобы мой брат узнал“»."
+    ],
+    [
+     "Lena lowered her notebook.",
+     "Лена опустила блокнот."
+    ],
+    [
+     "“That's impossible.",
+     "«Это невозможно."
+    ],
+    [
+     "These words are written in a language that has been dead for twenty centuries.",
+     "Эти слова написаны на языке, который мёртв уже двадцать веков."
+    ],
+    [
+     "And the name Ellie... it isn't Qarsi at all.”",
+     "А имя Элли… оно вовсе не карсийское»."
+    ]
+   ]
+  },
+  {
+   "en": "She expected him to laugh, or to tell her she had made a mistake. Instead, Rourke's face went white. He sat down heavily on the stone floor, as if his legs could no longer hold him. Then he turned to the corner behind the fireplace, where the shadows were deepest, and he began to dig in the sand with his bare hands. After a minute he pulled something out. It was a child's umbrella, old and torn, but still clearly red.",
+   "ru": "Она ожидала, что он рассмеётся или скажет, что она ошиблась. Вместо этого Рурк побелел. Он тяжело сел на каменный пол, будто ноги больше не держали его. Потом он повернулся к углу за камином, где тени были гуще всего, и начал копать песок голыми руками. Через минуту он что-то вытащил. Это был детский зонтик, старый и порванный, но всё ещё явно красный.",
+   "s": [
+    [
+     "She expected him to laugh, or to tell her she had made a mistake.",
+     "Она ожидала, что он рассмеётся или скажет, что она ошиблась."
+    ],
+    [
+     "Instead, Rourke's face went white.",
+     "Вместо этого Рурк побелел."
+    ],
+    [
+     "He sat down heavily on the stone floor, as if his legs could no longer hold him.",
+     "Он тяжело сел на каменный пол, будто ноги больше не держали его."
+    ],
+    [
+     "Then he turned to the corner behind the fireplace, where the shadows were deepest, and he began to dig in the sand with his bare hands.",
+     "Потом он повернулся к углу за камином, где тени были гуще всего, и начал копать песок голыми руками."
+    ],
+    [
+     "After a minute he pulled something out.",
+     "Через минуту он что-то вытащил."
+    ],
+    [
+     "It was a child's umbrella, old and torn, but still clearly red.",
+     "Это был детский зонтик, старый и порванный, но всё ещё явно красный."
+    ]
+   ]
+  },
+  {
+   "en": "Rourke held it as if it were made of glass, and for the first time since she had met him, Lena saw him cry.",
+   "ru": "Рурк держал его так, будто он был из стекла, и впервые с тех пор, как они познакомились, Лена увидела, как он плачет.",
+   "s": [
+    [
+     "Rourke held it as if it were made of glass, and for the first time since she had met him, Lena saw him cry.",
+     "Рурк держал его так, будто он был из стекла, и впервые с тех пор, как они познакомились, Лена увидела, как он плачет."
+    ]
+   ]
+  },
+  {
+   "en": "That night, by the fire, he told her the story. Forty-six years earlier, when he was ten years old, his father had led an expedition to this same basin. Edmund had come with his little sister, Eleanor, who was six and who never went anywhere without her red umbrella. Everybody called her Ellie. One afternoon a sandstorm had hit the camp. When it was over, Ellie was gone. They searched for weeks. The police investigated, the newspapers wrote about the “lost girl of the desert”, and finally everybody accepted that she had died.",
+   "ru": "Той ночью у костра он рассказал ей всю историю. Сорок шесть лет назад, когда ему было десять, его отец возглавлял экспедицию в эту самую котловину. Эдмунд приехал с младшей сестрой Элеонорой, которой было шесть лет и которая никуда не ходила без своего красного зонтика. Все звали её Элли. Однажды днём на лагерь обрушилась песчаная буря. Когда она закончилась, Элли не было. Её искали неделями. Полиция вела расследование, газеты писали о «потерянной девочке пустыни», и в конце концов все смирились с тем, что она погибла.",
+   "s": [
+    [
+     "That night, by the fire, he told her the story.",
+     "Той ночью у костра он рассказал ей всю историю."
+    ],
+    [
+     "Forty-six years earlier, when he was ten years old, his father had led an expedition to this same basin.",
+     "Сорок шесть лет назад, когда ему было десять, его отец возглавлял экспедицию в эту самую котловину."
+    ],
+    [
+     "Edmund had come with his little sister, Eleanor, who was six and who never went anywhere without her red umbrella.",
+     "Эдмунд приехал с младшей сестрой Элеонорой, которой было шесть лет и которая никуда не ходила без своего красного зонтика."
+    ],
+    [
+     "Everybody called her Ellie.",
+     "Все звали её Элли."
+    ],
+    [
+     "One afternoon a sandstorm had hit the camp.",
+     "Однажды днём на лагерь обрушилась песчаная буря."
+    ],
+    [
+     "When it was over, Ellie was gone.",
+     "Когда она закончилась, Элли не было."
+    ],
+    [
+     "They searched for weeks.",
+     "Её искали неделями."
+    ],
+    [
+     "The police investigated, the newspapers wrote about the “lost girl of the desert”, and finally everybody accepted that she had died.",
+     "Полиция вела расследование, газеты писали о «потерянной девочке пустыни», и в конце концов все смирились с тем, что она погибла."
+    ]
+   ]
+  },
+  {
+   "en": "“My father never forgave himself,” Rourke said. “He never came back. But I did, again and again, all my life. People thought I was looking for kings and temples. I was looking for her.” He touched his shirt pocket and took out an old photograph: a small girl laughing under a red umbrella. “I have carried this for forty-six years. I suppose it's my destiny to finish what the storm began.”",
+   "ru": "«Отец так и не простил себя, — сказал Рурк. — Он больше никогда сюда не возвращался. А я возвращался, снова и снова, всю жизнь. Люди думали, что я ищу царей и храмы. А я искал её». Он коснулся кармана рубашки и достал старую фотографию: маленькая девочка смеётся под красным зонтиком. «Я ношу её с собой сорок шесть лет. Наверное, моя судьба — закончить то, что начала буря».",
+   "s": [
+    [
+     "“My father never forgave himself,” Rourke said.",
+     "«Отец так и не простил себя, — сказал Рурк."
+    ],
+    [
+     "“He never came back.",
+     "— Он больше никогда сюда не возвращался."
+    ],
+    [
+     "But I did, again and again, all my life.",
+     "А я возвращался, снова и снова, всю жизнь."
+    ],
+    [
+     "People thought I was looking for kings and temples.",
+     "Люди думали, что я ищу царей и храмы."
+    ],
+    [
+     "I was looking for her.”",
+     "А я искал её»."
+    ],
+    [
+     "He touched his shirt pocket and took out an old photograph: a small girl laughing under a red umbrella.",
+     "Он коснулся кармана рубашки и достал старую фотографию: маленькая девочка смеётся под красным зонтиком."
+    ],
+    [
+     "“I have carried this for forty-six years.",
+     "«Я ношу её с собой сорок шесть лет."
+    ],
+    [
+     "I suppose it's my destiny to finish what the storm began.”",
+     "Наверное, моя судьба — закончить то, что начала буря»."
+    ]
+   ]
+  },
+  {
+   "en": "Lena did not sleep. She lay in her tent, listening to the wind, and tried to find a flaw in the story. Perhaps somebody had hidden the umbrella and carved the text to play a cruel joke on an old man. Rourke had enemies; a rival professor, Dr. Hollis, had once accused him of inventing evidence, and Rourke had publicly called Hollis a fool. Was this somebody's revenge? But who could write in Qarsi well enough to fool her? And how could anyone have known about the umbrella?",
+   "ru": "Лена не спала. Она лежала в палатке, слушала ветер и пыталась найти в этой истории слабое место. Может быть, кто-то спрятал зонтик и вырезал текст, чтобы жестоко подшутить над стариком. У Рурка были враги: соперник, профессор Холлис, однажды обвинил его в подделке доказательств, и Рурк публично назвал Холлиса дураком. Не чья-то ли это месть? Но кто мог писать по-карсийски так хорошо, чтобы обмануть её? И откуда кто-то мог знать про зонтик?",
+   "s": [
+    [
+     "Lena did not sleep.",
+     "Лена не спала."
+    ],
+    [
+     "She lay in her tent, listening to the wind, and tried to find a flaw in the story.",
+     "Она лежала в палатке, слушала ветер и пыталась найти в этой истории слабое место."
+    ],
+    [
+     "Perhaps somebody had hidden the umbrella and carved the text to play a cruel joke on an old man.",
+     "Может быть, кто-то спрятал зонтик и вырезал текст, чтобы жестоко подшутить над стариком."
+    ],
+    [
+     "Rourke had enemies; a rival professor, Dr. Hollis, had once accused him of inventing evidence, and Rourke had publicly called Hollis a fool.",
+     "У Рурка были враги: соперник, профессор Холлис, однажды обвинил его в подделке доказательств, и Рурк публично назвал Холлиса дураком."
+    ],
+    [
+     "Was this somebody's revenge?",
+     "Не чья-то ли это месть?"
+    ],
+    [
+     "But who could write in Qarsi well enough to fool her?",
+     "Но кто мог писать по-карсийски так хорошо, чтобы обмануть её?"
+    ],
+    [
+     "And how could anyone have known about the umbrella?",
+     "И откуда кто-то мог знать про зонтик?"
+    ]
+   ]
+  },
+  {
+   "en": "The next morning she received an email from the university. Somebody had read her update, and the director wanted to release the news immediately. “This is the find of the century,” he had written. “Prepare photographs and a short narrative for the press by Friday.” Lena felt a wave of disgust. For them it was only a story worth money and fame. For Rourke it was his whole life.",
+   "ru": "На следующее утро она получила письмо из университета. Кто-то прочитал её отчёт, и директор хотел немедленно опубликовать новость. «Это находка века», — написал он. «Подготовьте фотографии и короткий рассказ для прессы к пятнице». Лену захлестнула волна отвращения. Для них это была всего лишь история, которая стоит денег и славы. Для Рурка это была вся его жизнь.",
+   "s": [
+    [
+     "The next morning she received an email from the university.",
+     "На следующее утро она получила письмо из университета."
+    ],
+    [
+     "Somebody had read her update, and the director wanted to release the news immediately.",
+     "Кто-то прочитал её отчёт, и директор хотел немедленно опубликовать новость."
+    ],
+    [
+     "“This is the find of the century,” he had written.",
+     "«Это находка века», — написал он."
+    ],
+    [
+     "“Prepare photographs and a short narrative for the press by Friday.”",
+     "«Подготовьте фотографии и короткий рассказ для прессы к пятнице»."
+    ],
+    [
+     "Lena felt a wave of disgust.",
+     "Лену захлестнула волна отвращения."
+    ],
+    [
+     "For them it was only a story worth money and fame.",
+     "Для них это была всего лишь история, которая стоит денег и славы."
+    ],
+    [
+     "For Rourke it was his whole life.",
+     "Для Рурка это была вся его жизнь."
+    ]
+   ]
+  },
+  {
+   "en": "“We are not releasing anything,” Rourke said when she showed him the message. He did not raise his voice, but she understood that he would not change his mind. “Not until I know the truth.”",
+   "ru": "«Мы ничего не публикуем», — сказал Рурк, когда она показала ему письмо. Он не повысил голос, но она поняла, что он не передумает. «Пока я не узнаю правду».",
+   "s": [
+    [
+     "“We are not releasing anything,” Rourke said when she showed him the message.",
+     "«Мы ничего не публикуем», — сказал Рурк, когда она показала ему письмо."
+    ],
+    [
+     "He did not raise his voice, but she understood that he would not change his mind.",
+     "Он не повысил голос, но она поняла, что он не передумает."
+    ],
+    [
+     "“Not until I know the truth.”",
+     "«Пока я не узнаю правду»."
+    ]
+   ]
+  },
+  {
+   "en": "In the afternoon Lena went to see the only person who might help: Samir's grandmother. Samir walked with her through the evening mist, past the sheep and up the hill to the stone house. “She doesn't like strangers,” he warned. “Especially strangers with questions. Let me speak first.”",
+   "ru": "Днём Лена отправилась к единственному человеку, который мог помочь, — к бабушке Самира. Самир шёл с ней сквозь вечерний туман, мимо овец, вверх по холму к каменному дому. «Она не любит чужих», — предупредил он. «Особенно чужих с вопросами. Дайте мне сначала поговорить с ней».",
+   "s": [
+    [
+     "In the afternoon Lena went to see the only person who might help: Samir's grandmother.",
+     "Днём Лена отправилась к единственному человеку, который мог помочь, — к бабушке Самира."
+    ],
+    [
+     "Samir walked with her through the evening mist, past the sheep and up the hill to the stone house.",
+     "Самир шёл с ней сквозь вечерний туман, мимо овец, вверх по холму к каменному дому."
+    ],
+    [
+     "“She doesn't like strangers,” he warned.",
+     "«Она не любит чужих», — предупредил он."
+    ],
+    [
+     "“Especially strangers with questions.",
+     "«Особенно чужих с вопросами."
+    ],
+    [
+     "Let me speak first.”",
+     "Дайте мне сначала поговорить с ней»."
+    ]
+   ]
+  },
+  {
+   "en": "The old woman was sitting on a mat near a small fire. She listened to Samir without looking up. Then she looked at Lena, and Lena noticed with a strange feeling that her eyes were not dark like Samir's. They were grey-blue. Lena explained who she was and what they had found, and the woman's face didn't change. But when Lena took out her phone and showed her a photograph of the umbrella on the screen, the old woman pressed a hand to her stomach as though she felt a sudden pain.",
+   "ru": "Старуха сидела на коврике у маленького костра. Она выслушала Самира, не поднимая глаз. Потом она посмотрела на Лену, и Лена со странным чувством заметила, что глаза у неё не тёмные, как у Самира. Они были серо-голубыми. Лена объяснила, кто она и что они нашли, и лицо женщины не изменилось. Но когда Лена достала телефон и показала ей на экране фотографию зонтика, старуха прижала руку к животу, словно почувствовала внезапную боль.",
+   "s": [
+    [
+     "The old woman was sitting on a mat near a small fire.",
+     "Старуха сидела на коврике у маленького костра."
+    ],
+    [
+     "She listened to Samir without looking up.",
+     "Она выслушала Самира, не поднимая глаз."
+    ],
+    [
+     "Then she looked at Lena, and Lena noticed with a strange feeling that her eyes were not dark like Samir's.",
+     "Потом она посмотрела на Лену, и Лена со странным чувством заметила, что глаза у неё не тёмные, как у Самира."
+    ],
+    [
+     "They were grey-blue.",
+     "Они были серо-голубыми."
+    ],
+    [
+     "Lena explained who she was and what they had found, and the woman's face didn't change.",
+     "Лена объяснила, кто она и что они нашли, и лицо женщины не изменилось."
+    ],
+    [
+     "But when Lena took out her phone and showed her a photograph of the umbrella on the screen, the old woman pressed a hand to her stomach as though she felt a sudden pain.",
+     "Но когда Лена достала телефон и показала ей на экране фотографию зонтика, старуха прижала руку к животу, словно почувствовала внезапную боль."
+    ]
+   ]
+  },
+  {
+   "en": "“I wrote that text,” she said at last, in slow, strange English that she clearly had not used for many years. “I was very young when the storm came. I walked and walked until my feet were bleeding. I was exhausted. I thought I would drown in the sand. The people of the sheep found me in that old hall, which the wind had opened for a few days. They gave me water and food and a new name. My new father was a wise man. He knew the old letters, and he wanted to teach them to someone before he died. I was a good student.”",
+   "ru": "«Этот текст написала я», — сказала она наконец на медленном, странном английском, на котором явно не говорила много лет. «Я была совсем маленькой, когда пришла буря. Я шла и шла, пока ноги не стали кровоточить. Я совсем выбилась из сил. Я думала, что утону в песке. Люди овец нашли меня в том старом зале, который ветер открыл на несколько дней. Они дали мне воду, еду и новое имя. Мой новый отец был мудрым человеком. Он знал древние буквы и хотел научить им кого-нибудь, прежде чем умрёт. Я была хорошей ученицей».",
+   "s": [
+    [
+     "“I wrote that text,” she said at last, in slow, strange English that she clearly had not used for many years.",
+     "«Этот текст написала я», — сказала она наконец на медленном, странном английском, на котором явно не говорила много лет."
+    ],
+    [
+     "“I was very young when the storm came.",
+     "«Я была совсем маленькой, когда пришла буря."
+    ],
+    [
+     "I walked and walked until my feet were bleeding.",
+     "Я шла и шла, пока ноги не стали кровоточить."
+    ],
+    [
+     "I was exhausted.",
+     "Я совсем выбилась из сил."
+    ],
+    [
+     "I thought I would drown in the sand.",
+     "Я думала, что утону в песке."
+    ],
+    [
+     "The people of the sheep found me in that old hall, which the wind had opened for a few days.",
+     "Люди овец нашли меня в том старом зале, который ветер открыл на несколько дней."
+    ],
+    [
+     "They gave me water and food and a new name.",
+     "Они дали мне воду, еду и новое имя."
+    ],
+    [
+     "My new father was a wise man.",
+     "Мой новый отец был мудрым человеком."
+    ],
+    [
+     "He knew the old letters, and he wanted to teach them to someone before he died.",
+     "Он знал древние буквы и хотел научить им кого-нибудь, прежде чем умрёт."
+    ],
+    [
+     "I was a good student.”",
+     "Я была хорошей ученицей»."
+    ]
+   ]
+  },
+  {
+   "en": "“Why didn't you go back to your family?” Lena asked. “Why didn't you try to find them?”",
+   "ru": "«Почему вы не вернулись к своей семье? — спросила Лена. — Почему не попытались их найти?»",
+   "s": [
+    [
+     "“Why didn't you go back to your family?” Lena asked.",
+     "«Почему вы не вернулись к своей семье? — спросила Лена."
+    ],
+    [
+     "“Why didn't you try to find them?”",
+     "— Почему не попытались их найти?»"
+    ]
+   ]
+  },
+  {
+   "en": "The woman was quiet for a long time. “I was six. By the time I was old enough to understand, they had left. I had no cash for a bus, no papers, nothing. This life became mine. These people became mine. I belong here now. But every year, when the sand moved, I went to see if the hall was open. Twenty years ago it was, so I wrote my message there, in the only writing my new father had taught me. I hoped that one day the man who digs would come back and read it.”",
+   "ru": "Женщина долго молчала. «Мне было шесть. Когда я подросла и смогла понять, они уже уехали. У меня не было ни денег на автобус, ни документов, ничего. Эта жизнь стала моей. Эти люди стали моими. Теперь моё место здесь. Но каждый год, когда песок двигался, я ходила посмотреть, не открылся ли зал. Двадцать лет назад он открылся, и я написала там своё послание единственным письмом, которому научил меня новый отец. Я надеялась, что однажды человек, который копает, вернётся и прочитает его».",
+   "s": [
+    [
+     "The woman was quiet for a long time.",
+     "Женщина долго молчала."
+    ],
+    [
+     "“I was six.",
+     "«Мне было шесть."
+    ],
+    [
+     "By the time I was old enough to understand, they had left.",
+     "Когда я подросла и смогла понять, они уже уехали."
+    ],
+    [
+     "I had no cash for a bus, no papers, nothing.",
+     "У меня не было ни денег на автобус, ни документов, ничего."
+    ],
+    [
+     "This life became mine.",
+     "Эта жизнь стала моей."
+    ],
+    [
+     "These people became mine.",
+     "Эти люди стали моими."
+    ],
+    [
+     "I belong here now.",
+     "Теперь моё место здесь."
+    ],
+    [
+     "But every year, when the sand moved, I went to see if the hall was open.",
+     "Но каждый год, когда песок двигался, я ходила посмотреть, не открылся ли зал."
+    ],
+    [
+     "Twenty years ago it was, so I wrote my message there, in the only writing my new father had taught me.",
+     "Двадцать лет назад он открылся, и я написала там своё послание единственным письмом, которому научил меня новый отец."
+    ],
+    [
+     "I hoped that one day the man who digs would come back and read it.”",
+     "Я надеялась, что однажды человек, который копает, вернётся и прочитает его»."
+    ]
+   ]
+  },
+  {
+   "en": "“He has come back,” Lena said softly. “But not your father. The man who digs now is your brother.”",
+   "ru": "«Он вернулся, — мягко сказала Лена. — Только не ваш отец. Теперь копает ваш брат».",
+   "s": [
+    [
+     "“He has come back,” Lena said softly.",
+     "«Он вернулся, — мягко сказала Лена."
+    ],
+    [
+     "“But not your father.",
+     "— Только не ваш отец."
+    ],
+    [
+     "The man who digs now is your brother.”",
+     "Теперь копает ваш брат»."
+    ]
+   ]
+  },
+  {
+   "en": "The woman closed her eyes. She did not express joy or surprise. She simply sat very still, and Lena understood that some feelings are too big for any face to show. Then she said something to Samir in the desert language, and he stared at her, then at Lena. “She says she is ready,” he translated. “She says she has endured the waiting long enough. And she says she is my grandmother, but she is also Ellie.”",
+   "ru": "Женщина закрыла глаза. Она не выразила ни радости, ни удивления. Она просто сидела неподвижно, и Лена поняла, что некоторые чувства слишком велики, чтобы их могло показать лицо. Потом она что-то сказала Самиру на языке пустыни, и он уставился на неё, а затем на Лену. «Она говорит, что готова», — перевёл он. «Она говорит, что достаточно долго терпела ожидание. И ещё говорит, что она моя бабушка, но она же и Элли».",
+   "s": [
+    [
+     "The woman closed her eyes.",
+     "Женщина закрыла глаза."
+    ],
+    [
+     "She did not express joy or surprise.",
+     "Она не выразила ни радости, ни удивления."
+    ],
+    [
+     "She simply sat very still, and Lena understood that some feelings are too big for any face to show.",
+     "Она просто сидела неподвижно, и Лена поняла, что некоторые чувства слишком велики, чтобы их могло показать лицо."
+    ],
+    [
+     "Then she said something to Samir in the desert language, and he stared at her, then at Lena.",
+     "Потом она что-то сказала Самиру на языке пустыни, и он уставился на неё, а затем на Лену."
+    ],
+    [
+     "“She says she is ready,” he translated.",
+     "«Она говорит, что готова», — перевёл он."
+    ],
+    [
+     "“She says she has endured the waiting long enough.",
+     "«Она говорит, что достаточно долго терпела ожидание."
+    ],
+    [
+     "And she says she is my grandmother, but she is also Ellie.”",
+     "И ещё говорит, что она моя бабушка, но она же и Элли»."
+    ]
+   ]
+  },
+  {
+   "en": "Lena never forgot the moment when Rourke climbed the hill. He stopped a few steps from the house, holding the red umbrella in front of him like a flag. The old woman stood up. For a second neither of them moved. Then she said in English, “Eddie, you are late,” and the most famous archaeologist in the world ran to her like a ten-year-old boy.",
+   "ru": "Лена никогда не забыла момент, когда Рурк поднялся на холм. Он остановился в нескольких шагах от дома, держа красный зонтик перед собой, как флаг. Старуха встала. Секунду ни один из них не двигался. Потом она сказала по-английски: «Эдди, ты опоздал», — и самый знаменитый археолог в мире бросился к ней, как десятилетний мальчишка.",
+   "s": [
+    [
+     "Lena never forgot the moment when Rourke climbed the hill.",
+     "Лена никогда не забыла момент, когда Рурк поднялся на холм."
+    ],
+    [
+     "He stopped a few steps from the house, holding the red umbrella in front of him like a flag.",
+     "Он остановился в нескольких шагах от дома, держа красный зонтик перед собой, как флаг."
+    ],
+    [
+     "The old woman stood up.",
+     "Старуха встала."
+    ],
+    [
+     "For a second neither of them moved.",
+     "Секунду ни один из них не двигался."
+    ],
+    [
+     "Then she said in English, “Eddie, you are late,” and the most famous archaeologist in the world ran to her like a ten-year-old boy.",
+     "Потом она сказала по-английски: «Эдди, ты опоздал», — и самый знаменитый археолог в мире бросился к ней, как десятилетний мальчишка."
+    ]
+   ]
+  },
+  {
+   "en": "Later, Lena wrote her report, and this time she chose a completely different approach. She did not write about the power of ancient kings or the worth of the find for science, although both were real. She wrote about a girl who had been lost, a language that had been useful to nobody for two thousand years, and a message that had waited almost forever for one reader. The university was disappointed. The newspapers were not.",
+   "ru": "Позже Лена написала отчёт, и на этот раз выбрала совсем другой подход. Она не писала о власти древних царей или о ценности находки для науки, хотя и то и другое было реальным. Она написала о девочке, которая потерялась, о языке, который две тысячи лет был никому не нужен, и о послании, которое почти вечность ждало одного читателя. Университет был разочарован. Газеты — нет.",
+   "s": [
+    [
+     "Later, Lena wrote her report, and this time she chose a completely different approach.",
+     "Позже Лена написала отчёт, и на этот раз выбрала совсем другой подход."
+    ],
+    [
+     "She did not write about the power of ancient kings or the worth of the find for science, although both were real.",
+     "Она не писала о власти древних царей или о ценности находки для науки, хотя и то и другое было реальным."
+    ],
+    [
+     "She wrote about a girl who had been lost, a language that had been useful to nobody for two thousand years, and a message that had waited almost forever for one reader.",
+     "Она написала о девочке, которая потерялась, о языке, который две тысячи лет был никому не нужен, и о послании, которое почти вечность ждало одного читателя."
+    ],
+    [
+     "The university was disappointed.",
+     "Университет был разочарован."
+    ],
+    [
+     "The newspapers were not.",
+     "Газеты — нет."
+    ]
+   ]
+  },
+  {
+   "en": "Rourke never returned to the city. He stayed in the stone house and learned to look after sheep, behaviour that his colleagues found impossible to understand. “I have spent my life digging,” he told Lena when she came to say goodbye. “It would be better to spend what's left of it listening.” The crow was sitting on the roof above him. Lena thought of shopping malls, cool museums and her easy, comfortable holidays, and to her surprise she did not regret a single day in the desert. When she had first arrived, she had believed that the sand only hid old stuff: pots, plates and bones. Now she knew it could hide something much more alive. If anyone asked her whether the expedition had failed, she would say that she had not found a king, but she had found something better.",
+   "ru": "Рурк так и не вернулся в город. Он остался в каменном доме и научился ухаживать за овцами — поведение, которое его коллеги никак не могли понять. «Я всю жизнь копал, — сказал он Лене, когда она пришла попрощаться. — Лучше потратить то, что осталось, на то, чтобы слушать». Ворона сидела на крыше над ним. Лена вспомнила торговые центры, прохладные музеи и свои лёгкие, удобные каникулы и, к своему удивлению, не пожалела ни об одном дне в пустыне. Когда она только приехала, она думала, что песок прячет лишь старые вещи: горшки, тарелки и кости. Теперь она знала, что он может прятать нечто гораздо более живое. Если бы кто-нибудь спросил её, провалилась ли экспедиция, она ответила бы, что царя она не нашла, но нашла кое-что получше.",
+   "s": [
+    [
+     "Rourke never returned to the city.",
+     "Рурк так и не вернулся в город."
+    ],
+    [
+     "He stayed in the stone house and learned to look after sheep, behaviour that his colleagues found impossible to understand.",
+     "Он остался в каменном доме и научился ухаживать за овцами — поведение, которое его коллеги никак не могли понять."
+    ],
+    [
+     "“I have spent my life digging,” he told Lena when she came to say goodbye.",
+     "«Я всю жизнь копал, — сказал он Лене, когда она пришла попрощаться."
+    ],
+    [
+     "“It would be better to spend what's left of it listening.”",
+     "— Лучше потратить то, что осталось, на то, чтобы слушать»."
+    ],
+    [
+     "The crow was sitting on the roof above him.",
+     "Ворона сидела на крыше над ним."
+    ],
+    [
+     "Lena thought of shopping malls, cool museums and her easy, comfortable holidays, and to her surprise she did not regret a single day in the desert.",
+     "Лена вспомнила торговые центры, прохладные музеи и свои лёгкие, удобные каникулы и, к своему удивлению, не пожалела ни об одном дне в пустыне."
+    ],
+    [
+     "When she had first arrived, she had believed that the sand only hid old stuff: pots, plates and bones.",
+     "Когда она только приехала, она думала, что песок прячет лишь старые вещи: горшки, тарелки и кости."
+    ],
+    [
+     "Now she knew it could hide something much more alive.",
+     "Теперь она знала, что он может прятать нечто гораздо более живое."
+    ],
+    [
+     "If anyone asked her whether the expedition had failed, she would say that she had not found a king, but she had found something better.",
+     "Если бы кто-нибудь спросил её, провалилась ли экспедиция, она ответила бы, что царя она не нашла, но нашла кое-что получше."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "dr": "доктор",
+  "lena": "Лена (имя)",
+  "varga": "Варга (фамилия)",
+  "had": "(вспом. глагол); имел",
+  "never": "никогда",
+  "liked": "любила",
+  "the": "(опр. артикль)",
+  "desert": "пустыня",
+  "she": "она",
+  "spent": "провела",
+  "her": "её, ей, неё",
+  "last": "последний; at last — наконец",
+  "vacation": "отпуск",
+  "in": "в, на",
+  "a": "(неопр. артикль)",
+  "cool": "прохладный",
+  "northern": "северный",
+  "city": "город",
+  "walking": "гуляя",
+  "from": "из, от",
+  "museum": "музей",
+  "to": "к, в; (частица инфинитива)",
+  "caf": "кафе (café)",
+  "and": "и",
+  "planned": "планировала",
+  "spend": "провести, потратить",
+  "next": "следующий",
+  "one": "один; одна",
+  "exactly": "точно",
+  "same": "тот же",
+  "way": "образ, способ",
+  "but": "но",
+  "when": "когда",
+  "professor": "профессор",
+  "edmund": "Эдмунд (имя)",
+  "rourke": "Рурк (фамилия)",
+  "wrote": "написала",
+  "asked": "спросила; пригласил",
+  "join": "присоединиться",
+  "his": "его",
+  "expedition": "экспедиция",
+  "qarsa": "Карса (название)",
+  "basin": "котловина",
+  "could": "могла, мог",
+  "not": "не",
+  "refuse": "отказаться",
+  "was": "был(а)",
+  "legend": "легенда",
+  "an": "(неопр. артикль)",
+  "invitation": "приглашение",
+  "him": "его, ему, нём",
+  "honour": "честь",
+  "that": "что; тот; который",
+  "came": "пришёл, пришла",
+  "once": "однажды; раз",
+  "career": "карьера",
+  "i": "я",
+  "need": "нуждаться",
+  "someone": "кто-нибудь",
+  "who": "который; кто",
+  "can": "может",
+  "read": "читать; прочитал",
+  "old": "старый, древний",
+  "qarsi": "карсийский (язык)",
+  "script": "письмо, письменность",
+  "message": "послание, письмо",
+  "said": "сказал(а)",
+  "unfortunately": "к сожалению",
+  "people": "люди",
+  "it": "он, она, оно, это",
+  "fluently": "свободно (о языке)",
+  "died": "умер(ли)",
+  "long": "длинный; долго",
+  "time": "время; for the first time — впервые; by the time — к тому времени",
+  "ago": "назад",
+  "there": "там",
+  "are": "(есть), являются",
+  "no": "нет, никакой",
+  "native": "родной; native speakers — носители языка",
+  "speakers": "носители (языка)",
+  "of": "(род. падеж)",
+  "language": "язык",
+  "left": "ушли, уехали; осталось",
+  "only": "только; единственный",
+  "few": "несколько",
+  "families": "семьи",
+  "still": "всё ещё; неподвижно",
+  "use": "употреблять",
+  "some": "некоторые",
+  "its": "его, её (о предмете)",
+  "words": "слова",
+  "perhaps": "может быть",
+  "five": "пять",
+  "scholars": "учёные",
+  "world": "мир",
+  "studied": "изучали",
+  "knew": "знал(а)",
+  "camp": "лагерь",
+  "stood": "стоял(и); stood up — встала",
+  "at": "в, у, на",
+  "edge": "край",
+  "sea": "море",
+  "yellow": "жёлтый",
+  "dunes": "дюны",
+  "three": "три",
+  "hours": "часы",
+  "nearest": "ближайший",
+  "town": "город",
+  "every": "каждый",
+  "morning": "утро",
+  "thin": "лёгкий, тонкий",
+  "mist": "туман",
+  "lay": "лежал(а)",
+  "over": "над; через; закончилась",
+  "sand": "песок",
+  "afternoon": "день, после полудня",
+  "heat": "жара",
+  "so": "так; поэтому; чтобы",
+  "strong": "сильный",
+  "walked": "ходила, шла",
+  "around": "вокруг; walk around — ходить",
+  "under": "под",
+  "white": "белый",
+  "umbrella": "зонт",
+  "which": "который; что",
+  "workers": "рабочие",
+  "found": "нашли; находили; found funny — считали смешным",
+  "very": "очень",
+  "funny": "смешной",
+  "black": "чёрный",
+  "crow": "ворона",
+  "made": "сделан; made a habit — взяла привычку; made a mistake — ошиблась",
+  "habit": "привычка",
+  "sitting": "сидеть, сидела",
+  "on": "на",
+  "tent": "палатка",
+  "watching": "наблюдая",
+  "with": "с",
+  "small": "маленький",
+  "bright": "блестящий, яркий",
+  "eyes": "глаза",
+  "likes": "нравится",
+  "you": "вы, ты",
+  "samir": "Самир (имя)",
+  "young": "молодой, маленький",
+  "guide": "проводник",
+  "been": "был(о)",
+  "hired": "нанят",
+  "find": "находить; находка",
+  "water": "вода",
+  "deal": "иметь дело; deal with — договариваться с",
+  "local": "местный",
+  "is": "есть, является",
+  "good": "хороший",
+  "sign": "знак",
+  "or": "или",
+  "bad": "плохой",
+  "my": "мой",
+  "grandmother": "бабушка",
+  "would": "(вспом.) бы",
+  "know": "знать",
+  "samir's": "Самира",
+  "lived": "жила",
+  "stone": "каменный",
+  "house": "дом",
+  "nearby": "поблизости",
+  "where": "где",
+  "kept": "держала; хранилось",
+  "flock": "стадо",
+  "sheep": "овца, овцы",
+  "witch": "ведьма",
+  "they": "они",
+  "talk": "разговаривать",
+  "animals": "животные",
+  "die": "умереть",
+  "seen": "видела; could be seen — виднелся",
+  "standing": "стоящая",
+  "hill": "холм",
+  "woman": "женщина",
+  "dark": "тёмный; темнота",
+  "blue": "синий",
+  "scarf": "платок",
+  "looking": "глядя; искал",
+  "for": "для, в течение, за",
+  "before": "прежде чем, раньше",
+  "turned": "повернулась",
+  "away": "прочь",
+  "weeks": "недели",
+  "nothing": "ничего",
+  "were": "были",
+  "tired": "усталый",
+  "anxious": "встревоженный",
+  "lena's": "Лены",
+  "feet": "ноги (ступни)",
+  "covered": "покрыт",
+  "blisters": "мозоли",
+  "each": "каждый",
+  "evening": "вечер; вечерний",
+  "sat": "сидела, сел",
+  "front": "перед; in front of — перед",
+  "laptop": "ноутбук",
+  "update": "отчёт с новостями, обновление",
+  "university": "университет",
+  "screen": "экран",
+  "showed": "показала",
+  "sad": "грустный",
+  "sentence": "предложение",
+  "important": "важный",
+  "finds": "находки",
+  "today": "сегодня",
+  "these": "эти",
+  "reports": "отчёты",
+  "shoulder": "плечо",
+  "without": "без",
+  "word": "слово; without a word — молча",
+  "he": "он",
+  "strange": "странный",
+  "touching": "трогать",
+  "shirt": "рубашка",
+  "pocket": "карман",
+  "nervous": "нервный",
+  "as": "как, когда; as if — будто",
+  "if": "если; ли; as if — будто",
+  "something": "что-то",
+  "then": "потом, затем",
+  "twenty": "двадцать",
+  "second": "секунда; второй",
+  "day": "день",
+  "storm": "буря",
+  "moved": "двигался, сдвинула; moved — двигались",
+  "terrible": "ужасный",
+  "force": "сила",
+  "wind": "ветер",
+  "finally": "наконец",
+  "stopped": "остановился; утих",
+  "ran": "побежал, вбежал",
+  "into": "в",
+  "shouting": "крича",
+  "top": "верх",
+  "doorway": "дверной проём",
+  "now": "теперь",
+  "be": "быть",
+  "took": "забрал; took in — приняли; took out — достал; took — ушло (о времени)",
+  "them": "их, им",
+  "two": "два",
+  "days": "дни",
+  "clear": "расчистить",
+  "entrance": "вход",
+  "behind": "за, позади",
+  "staircase": "лестница",
+  "went": "ходила; went white — побелел",
+  "down": "вниз; write down — записать",
+  "bottom": "низ, дно",
+  "hall": "зал",
+  "clearly": "явно",
+  "built": "построен",
+  "by": "у; к (сроку); by the time — к тому времени, когда",
+  "known": "знали",
+  "what": "что",
+  "doing": "делать",
+  "fireplace": "камин",
+  "wall": "стена",
+  "smoke": "дым, копоть",
+  "clay": "глиняный",
+  "plates": "тарелки",
+  "cups": "чашки",
+  "low": "низкий",
+  "shelf": "полка",
+  "owners": "хозяева",
+  "just": "только что, просто",
+  "moment": "момент, минута",
+  "incredible": "невероятный",
+  "whispered": "прошептал",
+  "voice": "голос",
+  "shaking": "дрожал",
+  "nobody": "никто",
+  "has": "(вспом.); имеет",
+  "inside": "внутри",
+  "this": "это, этот",
+  "room": "комната",
+  "thousand": "тысяча",
+  "years": "годы, лет",
+  "slowly": "медленно",
+  "along": "вдоль",
+  "walls": "стены",
+  "torch": "фонарик",
+  "carved": "вырезанный, вырезал",
+  "symbols": "знаки, символы",
+  "felt": "почувствовала",
+  "heart": "сердце",
+  "beat": "биться",
+  "faster": "быстрее",
+  "recognised": "узнала",
+  "most": "самый; большинство",
+  "exciting": "захватывающий",
+  "example": "пример",
+  "ever": "когда-либо",
+  "began": "начал(а)",
+  "translate": "переводить",
+  "writing": "письмо, письменность; записывая",
+  "notebook": "блокнот",
+  "expected": "ожидала",
+  "names": "имена",
+  "kings": "цари",
+  "prayers": "молитвы",
+  "gods": "боги",
+  "lists": "списки",
+  "goats": "козы",
+  "near": "около, возле",
+  "smaller": "меньше",
+  "text": "текст",
+  "looked": "выглядели; посмотрела",
+  "different": "другой, иначе",
+  "less": "менее",
+  "deep": "глубокий",
+  "edges": "края",
+  "sharper": "острее",
+  "cut": "вырезаны",
+  "much": "гораздо",
+  "later": "позже",
+  "than": "чем",
+  "rest": "остальное",
+  "first": "первый; впервые; сначала",
+  "line": "строка",
+  "times": "раз(а)",
+  "believe": "поверить",
+  "quietly": "тихо",
+  "come": "приходить; подойти",
+  "look": "смотреть; look after — ухаживать",
+  "beside": "рядом с",
+  "does": "(вспом.); what does it say — что написано",
+  "say": "сказать",
+  "says": "говорит; сказано",
+  "am": "(есть), являюсь",
+  "ellie": "Элли (имя)",
+  "daughter": "дочь",
+  "man": "человек, мужчина",
+  "digs": "копает",
+  "me": "меня, мне",
+  "red": "красный",
+  "leave": "оставлять",
+  "here": "здесь",
+  "brother": "брат",
+  "will": "(вспом. буд. вр.)",
+  "lowered": "опустила",
+  "that's": "это",
+  "impossible": "невозможный",
+  "written": "написаны",
+  "dead": "мёртвый",
+  "centuries": "века",
+  "name": "имя",
+  "isn't": "не является",
+  "all": "весь, все",
+  "laugh": "засмеяться",
+  "tell": "сказать",
+  "mistake": "ошибка",
+  "instead": "вместо этого",
+  "rourke's": "Рурка",
+  "face": "лицо",
+  "heavily": "тяжело",
+  "floor": "пол",
+  "legs": "ноги",
+  "longer": "дольше; no longer — больше не",
+  "hold": "держать",
+  "corner": "угол",
+  "shadows": "тени",
+  "deepest": "самый густой, глубокий",
+  "dig": "копать",
+  "bare": "голый",
+  "hands": "руки",
+  "after": "через, после",
+  "minute": "минута",
+  "pulled": "вытащил",
+  "out": "наружу; take out — достать",
+  "child's": "детский",
+  "torn": "порванный",
+  "held": "держал",
+  "glass": "стекло",
+  "since": "с тех пор как",
+  "met": "познакомилась",
+  "saw": "увидела",
+  "cry": "плакать",
+  "night": "ночь",
+  "fire": "костёр, огонь",
+  "told": "рассказал, сказал",
+  "story": "история",
+  "forty": "сорок",
+  "six": "шесть",
+  "earlier": "раньше; years earlier — лет назад",
+  "ten": "десять",
+  "father": "отец",
+  "led": "возглавлял",
+  "little": "маленький, младший",
+  "sister": "сестра",
+  "eleanor": "Элеонора (имя)",
+  "anywhere": "куда-нибудь, никуда",
+  "everybody": "все",
+  "called": "назвал; звали",
+  "sandstorm": "песчаная буря",
+  "hit": "обрушилась, ударила",
+  "gone": "исчезла, пропала",
+  "searched": "искали",
+  "police": "полиция",
+  "investigated": "расследовала",
+  "newspapers": "газеты",
+  "about": "о, про",
+  "lost": "потерянный",
+  "girl": "девочка",
+  "accepted": "смирились, приняли",
+  "forgave": "простил",
+  "himself": "себя",
+  "back": "назад, обратно",
+  "did": "(вспом. глагол прош. вр.); сделал",
+  "again": "снова",
+  "life": "жизнь",
+  "thought": "думала",
+  "temples": "храмы",
+  "touched": "коснулся",
+  "photograph": "фотография",
+  "laughing": "смеющаяся",
+  "have": "(вспом.); иметь",
+  "carried": "носил",
+  "suppose": "полагать",
+  "it's": "это",
+  "destiny": "судьба",
+  "finish": "закончить",
+  "sleep": "спать",
+  "listening": "слушая, слушать",
+  "tried": "пыталась",
+  "flaw": "недостаток, слабое место",
+  "somebody": "кто-то",
+  "hidden": "спрятал",
+  "play": "играть; play a joke — подшутить",
+  "cruel": "жестокий",
+  "joke": "шутка; play a joke — подшутить",
+  "enemies": "враги",
+  "rival": "соперник",
+  "hollis": "Холлис (фамилия)",
+  "accused": "обвинил",
+  "inventing": "выдумывание, подделка",
+  "evidence": "доказательства",
+  "publicly": "публично",
+  "fool": "обмануть; дурак",
+  "somebody's": "чей-то",
+  "revenge": "месть",
+  "write": "писать",
+  "well": "хорошо",
+  "enough": "достаточно",
+  "how": "как, откуда",
+  "anyone": "кто-нибудь",
+  "received": "получила",
+  "email": "электронное письмо",
+  "director": "директор",
+  "wanted": "хотел",
+  "release": "выпускать, опубликовать",
+  "news": "новость",
+  "immediately": "немедленно",
+  "century": "век",
+  "prepare": "подготовить",
+  "photographs": "фотографии",
+  "short": "короткий",
+  "narrative": "рассказ",
+  "press": "пресса",
+  "friday": "пятница",
+  "wave": "волна",
+  "disgust": "отвращение",
+  "worth": "стоящий; worth money — стоит денег; ценность",
+  "money": "деньги",
+  "fame": "слава",
+  "whole": "весь, целый",
+  "we": "мы",
+  "releasing": "публикуем",
+  "anything": "что-либо, ничего",
+  "raise": "повышать; raise his voice — повысить голос",
+  "understood": "поняла",
+  "change": "меняться; change his mind — передумать",
+  "mind": "мнение; change one's mind — передумать",
+  "until": "пока не; not until — не раньше чем",
+  "truth": "правда",
+  "see": "видеть; посмотреть",
+  "person": "человек",
+  "might": "мог бы",
+  "help": "помочь",
+  "through": "сквозь",
+  "past": "мимо",
+  "up": "вверх; look up — поднять глаза",
+  "doesn't": "не (вспом.)",
+  "like": "как; нравиться",
+  "strangers": "чужие, незнакомцы",
+  "warned": "предупредил",
+  "especially": "особенно",
+  "questions": "вопросы",
+  "let": "позволить; let me — дайте мне",
+  "speak": "говорить",
+  "mat": "коврик",
+  "listened": "выслушала",
+  "noticed": "заметила",
+  "feeling": "чувство",
+  "grey": "серый",
+  "explained": "объяснила",
+  "woman's": "женщины",
+  "didn't": "не (вспом.)",
+  "phone": "телефон",
+  "pressed": "прижала",
+  "hand": "рука",
+  "stomach": "живот",
+  "though": "as though — словно",
+  "sudden": "внезапный",
+  "pain": "боль",
+  "slow": "медленный",
+  "english": "английский язык",
+  "used": "использовала, говорила на",
+  "many": "много",
+  "bleeding": "кровоточить",
+  "exhausted": "измученный, без сил",
+  "drown": "утонуть",
+  "opened": "открыл",
+  "gave": "дали",
+  "food": "еда",
+  "new": "новый",
+  "wise": "мудрый",
+  "letters": "буквы",
+  "teach": "учить, научить",
+  "student": "ученица",
+  "why": "почему",
+  "go": "идти, ехать",
+  "your": "ваш",
+  "family": "семья",
+  "try": "пытаться",
+  "quiet": "тихий; was quiet — молчала",
+  "understand": "понимать",
+  "cash": "наличные (деньги)",
+  "bus": "автобус",
+  "papers": "документы",
+  "became": "стала",
+  "mine": "мой, моя",
+  "belong": "принадлежать; I belong here — моё место здесь",
+  "year": "год",
+  "open": "открытый",
+  "taught": "научил",
+  "hoped": "надеялась",
+  "softly": "мягко",
+  "closed": "закрыла",
+  "express": "выражать",
+  "joy": "радость",
+  "surprise": "удивление",
+  "simply": "просто",
+  "feelings": "чувства",
+  "too": "слишком",
+  "big": "большой",
+  "any": "любой",
+  "show": "показать",
+  "stared": "уставился",
+  "ready": "готовый",
+  "translated": "перевёл",
+  "endured": "терпела",
+  "waiting": "ожидание",
+  "also": "также, же",
+  "forgot": "забыла",
+  "climbed": "поднялся",
+  "steps": "шаги",
+  "holding": "держа",
+  "flag": "флаг",
+  "neither": "ни один",
+  "eddie": "Эдди (уменьш. от Эдмунд)",
+  "late": "поздно; you are late — ты опоздал",
+  "famous": "знаменитый",
+  "archaeologist": "археолог",
+  "boy": "мальчик",
+  "report": "отчёт",
+  "chose": "выбрала",
+  "completely": "совсем, полностью",
+  "approach": "подход",
+  "power": "власть",
+  "ancient": "древний",
+  "science": "наука",
+  "although": "хотя",
+  "both": "оба, и то и другое",
+  "real": "настоящий, реальный",
+  "useful": "полезный",
+  "waited": "ждало",
+  "almost": "почти",
+  "forever": "навсегда, вечно",
+  "reader": "читатель",
+  "disappointed": "разочарован",
+  "returned": "вернулся",
+  "stayed": "остался",
+  "learned": "научился",
+  "behaviour": "поведение",
+  "colleagues": "коллеги",
+  "digging": "копание, копать",
+  "goodbye": "до свидания; say goodbye — попрощаться",
+  "better": "лучше",
+  "what's": "что (есть); what's left — что осталось",
+  "roof": "крыша",
+  "above": "над",
+  "shopping": "покупки; shopping malls — торговые центры",
+  "malls": "торговые центры",
+  "museums": "музеи",
+  "easy": "лёгкий",
+  "comfortable": "удобный",
+  "holidays": "каникулы, отпуск",
+  "regret": "жалеть",
+  "single": "единственный, ни один",
+  "arrived": "приехала",
+  "believed": "думала, верила",
+  "hid": "прятал",
+  "stuff": "вещи",
+  "pots": "горшки",
+  "bones": "кости",
+  "hide": "прятать",
+  "more": "более",
+  "alive": "живой",
+  "whether": "ли",
+  "failed": "провалилась",
+  "king": "царь"
+ },
+ "vocab": {
+  "these": 3,
+  "better": 13,
+  "turned": 23,
+  "inside": 33,
+  "native": 43,
+  "speakers": 43,
+  "tired": 53,
+  "feet": 63,
+  "teach": 73,
+  "listening": 83,
+  "listened": 83,
+  "stomach": 93,
+  "umbrella": 103,
+  "cry": 113,
+  "translate": 123,
+  "translated": 123,
+  "exciting": 133,
+  "drown": 143,
+  "sheep": 153,
+  "witch": 163,
+  "pain": 173,
+  "fireplace": 183,
+  "stood": 193,
+  "standing": 193,
+  "incredible": 203,
+  "received": 214,
+  "forever": 224,
+  "screen": 234,
+  "belong": 244,
+  "express": 254,
+  "useful": 264,
+  "hall": 274,
+  "cash": 284,
+  "malls": 295,
+  "crow": 305,
+  "nearby": 315,
+  "prepare": 325,
+  "unfortunately": 335,
+  "honour": 345,
+  "pocket": 355,
+  "regret": 365,
+  "plates": 375,
+  "vacation": 385,
+  "especially": 403,
+  "mist": 413,
+  "example": 423,
+  "destiny": 434,
+  "behaviour": 446,
+  "force": 461,
+  "habit": 473,
+  "exhausted": 484,
+  "anxious": 495,
+  "failed": 505,
+  "worth": 516,
+  "update": 527,
+  "power": 537,
+  "endured": 548,
+  "narrative": 558,
+  "investigated": 569,
+  "flaw": 579,
+  "release": 590,
+  "releasing": 590,
+  "revenge": 600,
+  "approach": 611,
+  "stuff": 622,
+  "raise": 632,
+  "disgust": 643
+ }
+}

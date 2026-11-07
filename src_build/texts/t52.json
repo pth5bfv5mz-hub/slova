@@ -1,0 +1,1317 @@
+{
+ "id": 52,
+ "level": "B1",
+ "cat": "cons",
+ "title_en": "The Secret in the Glass: The Story of MKUltra",
+ "title_ru": "Секрет в бокале: история MKUltra",
+ "genre": "Конспирология: правда",
+ "summary_ru": "В 1953 году учёный армии США выпал из окна нью-йоркского отеля, и лишь через двадцать с лишним лет его семья узнала, что ЦРУ тайно дало ему ЛСД в рамках секретной программы по «управлению разумом».",
+ "paragraphs": [
+  {
+   "en": "Early on the morning of 28 November 1953, a man fell from a high window of a hotel in Manhattan, New York. His name was Frank Olson. He was forty-three years old, he had a wife and three children, and he worked as a scientist for the US Army. His family was told that he had suffered a nervous breakdown, a sudden mental collapse, and had jumped. For more than twenty years, nobody told them the rest of the story.",
+   "ru": "Рано утром 28 ноября 1953 года мужчина выпал из высокого окна гостиницы на Манхэттене в Нью-Йорке. Его звали Фрэнк Олсон. Ему было сорок три года, у него были жена и трое детей, и он работал учёным в армии США. Его семье сказали, что у него случился нервный срыв, внезапный психический упадок, и что он прыгнул сам. Больше двадцати лет никто не рассказывал им остальную часть истории.",
+   "s": [
+    [
+     "Early on the morning of 28 November 1953, a man fell from a high window of a hotel in Manhattan, New York.",
+     "Рано утром 28 ноября 1953 года мужчина выпал из высокого окна гостиницы на Манхэттене в Нью-Йорке."
+    ],
+    [
+     "His name was Frank Olson.",
+     "Его звали Фрэнк Олсон."
+    ],
+    [
+     "He was forty-three years old, he had a wife and three children, and he worked as a scientist for the US Army.",
+     "Ему было сорок три года, у него были жена и трое детей, и он работал учёным в армии США."
+    ],
+    [
+     "His family was told that he had suffered a nervous breakdown, a sudden mental collapse, and had jumped.",
+     "Его семье сказали, что у него случился нервный срыв, внезапный психический упадок, и что он прыгнул сам."
+    ],
+    [
+     "For more than twenty years, nobody told them the rest of the story.",
+     "Больше двадцати лет никто не рассказывал им остальную часть истории."
+    ]
+   ]
+  },
+  {
+   "en": "The rest of the story was this: nine days before his death, Olson had been given LSD without his knowledge. The drug had been secretly put into his drink by officers of the Central Intelligence Agency, the CIA. Olson was one of the victims of a secret program called MKUltra, the CIA's attempt to learn how to control the human mind.",
+   "ru": "А остальная часть истории была такой: за девять дней до смерти Олсону без его ведома дали ЛСД. Наркотик тайно подмешали ему в напиток сотрудники Центрального разведывательного управления, ЦРУ. Олсон стал одной из жертв секретной программы под названием MKUltra — попытки ЦРУ научиться управлять человеческим разумом.",
+   "s": [
+    [
+     "The rest of the story was this: nine days before his death, Olson had been given LSD without his knowledge.",
+     "А остальная часть истории была такой: за девять дней до смерти Олсону без его ведома дали ЛСД."
+    ],
+    [
+     "The drug had been secretly put into his drink by officers of the Central Intelligence Agency, the CIA.",
+     "Наркотик тайно подмешали ему в напиток сотрудники Центрального разведывательного управления, ЦРУ."
+    ],
+    [
+     "Olson was one of the victims of a secret program called MKUltra, the CIA's attempt to learn how to control the human mind.",
+     "Олсон стал одной из жертв секретной программы под названием MKUltra — попытки ЦРУ научиться управлять человеческим разумом."
+    ]
+   ]
+  },
+  {
+   "en": "Today, MKUltra is one of the most famous examples of a conspiracy theory that turned out to be true. But the way the truth came out was almost an accident. Most of the secret files were destroyed on purpose in 1973. If some boxes of financial papers had not been kept in the wrong place, we might know very little about it.",
+   "ru": "Сегодня MKUltra — один из самых известных примеров теории заговора, которая оказалась правдой. Но то, как правда вышла наружу, было почти случайностью. Большая часть секретных документов была намеренно уничтожена в 1973 году. Если бы несколько коробок с финансовыми бумагами не хранились не в том месте, мы, возможно, знали бы о ней очень мало.",
+   "s": [
+    [
+     "Today, MKUltra is one of the most famous examples of a conspiracy theory that turned out to be true.",
+     "Сегодня MKUltra — один из самых известных примеров теории заговора, которая оказалась правдой."
+    ],
+    [
+     "But the way the truth came out was almost an accident.",
+     "Но то, как правда вышла наружу, было почти случайностью."
+    ],
+    [
+     "Most of the secret files were destroyed on purpose in 1973.",
+     "Большая часть секретных документов была намеренно уничтожена в 1973 году."
+    ],
+    [
+     "If some boxes of financial papers had not been kept in the wrong place, we might know very little about it.",
+     "Если бы несколько коробок с финансовыми бумагами не хранились не в том месте, мы, возможно, знали бы о ней очень мало."
+    ]
+   ]
+  },
+  {
+   "en": "To understand why the CIA started such a program, we need to go back to the early 1950s. The Cold War between the United States and the Soviet Union was at its height, and the Korean War was being fought. Some American soldiers who had been captured in Korea appeared in films and on the radio, \"confessing\" to crimes such as using germ weapons. Many Americans were shocked. How could their own soldiers say such things?",
+   "ru": "Чтобы понять, почему ЦРУ начало такую программу, нужно вернуться в начало 1950-х. Холодная война между США и Советским Союзом была в самом разгаре, и шла Корейская война. Некоторые американские военные, попавшие в плен в Корее, появлялись в фильмах и по радио и «признавались» в преступлениях, например в применении бактериологического оружия. Многие американцы были потрясены. Как их собственные солдаты могли говорить такое?",
+   "s": [
+    [
+     "To understand why the CIA started such a program, we need to go back to the early 1950s.",
+     "Чтобы понять, почему ЦРУ начало такую программу, нужно вернуться в начало 1950-х."
+    ],
+    [
+     "The Cold War between the United States and the Soviet Union was at its height, and the Korean War was being fought.",
+     "Холодная война между США и Советским Союзом была в самом разгаре, и шла Корейская война."
+    ],
+    [
+     "Some American soldiers who had been captured in Korea appeared in films and on the radio, \"confessing\" to crimes such as using germ weapons.",
+     "Некоторые американские военные, попавшие в плен в Корее, появлялись в фильмах и по радио и «признавались» в преступлениях, например в применении бактериологического оружия."
+    ],
+    [
+     "Many Americans were shocked.",
+     "Многие американцы были потрясены."
+    ],
+    [
+     "How could their own soldiers say such things?",
+     "Как их собственные солдаты могли говорить такое?"
+    ]
+   ]
+  },
+  {
+   "en": "A new word became popular: \"brainwashing\". Its meaning was simple and frightening: the idea that an enemy could wash a person's mind clean and fill it with new beliefs. CIA leaders were afraid that the Soviet Union and China had found a way to do this, and that America was falling behind. There was strong pressure to catch up. If mind control was possible, they thought, the United States had to discover it first.",
+   "ru": "Популярным стало новое слово — «промывание мозгов». Его смысл был простым и пугающим: мысль о том, что враг может начисто «промыть» разум человека и наполнить его новыми убеждениями. Руководители ЦРУ боялись, что Советский Союз и Китай нашли способ это делать и что Америка отстаёт. Было сильное давление: нужно было догнать соперников. Если управление разумом возможно, думали они, Соединённые Штаты должны открыть его первыми.",
+   "s": [
+    [
+     "A new word became popular: \"brainwashing\".",
+     "Популярным стало новое слово — «промывание мозгов»."
+    ],
+    [
+     "Its meaning was simple and frightening: the idea that an enemy could wash a person's mind clean and fill it with new beliefs.",
+     "Его смысл был простым и пугающим: мысль о том, что враг может начисто «промыть» разум человека и наполнить его новыми убеждениями."
+    ],
+    [
+     "CIA leaders were afraid that the Soviet Union and China had found a way to do this, and that America was falling behind.",
+     "Руководители ЦРУ боялись, что Советский Союз и Китай нашли способ это делать и что Америка отстаёт."
+    ],
+    [
+     "There was strong pressure to catch up.",
+     "Было сильное давление: нужно было догнать соперников."
+    ],
+    [
+     "If mind control was possible, they thought, the United States had to discover it first.",
+     "Если управление разумом возможно, думали они, Соединённые Штаты должны открыть его первыми."
+    ]
+   ]
+  },
+  {
+   "en": "Earlier projects with code names such as Bluebird and Artichoke had already tested drugs and hypnosis in interrogations, the questioning of prisoners. In April 1953, the director of the CIA, Allen Dulles, approved a much bigger program. It was called MKUltra. The letters MK were a CIA code, and \"Ultra\" was a word that had been used during the Second World War for the most secret information.",
+   "ru": "Более ранние проекты с кодовыми названиями вроде «Синяя птица» и «Артишок» уже испытывали наркотики и гипноз на допросах, то есть при опросе пленных. В апреле 1953 года директор ЦРУ Аллен Даллес одобрил гораздо более крупную программу. Она называлась MKUltra. Буквы MK были кодом ЦРУ, а словом «Ультра» во время Второй мировой войны называли самые секретные сведения.",
+   "s": [
+    [
+     "Earlier projects with code names such as Bluebird and Artichoke had already tested drugs and hypnosis in interrogations, the questioning of prisoners.",
+     "Более ранние проекты с кодовыми названиями вроде «Синяя птица» и «Артишок» уже испытывали наркотики и гипноз на допросах, то есть при опросе пленных."
+    ],
+    [
+     "In April 1953, the director of the CIA, Allen Dulles, approved a much bigger program.",
+     "В апреле 1953 года директор ЦРУ Аллен Даллес одобрил гораздо более крупную программу."
+    ],
+    [
+     "It was called MKUltra.",
+     "Она называлась MKUltra."
+    ],
+    [
+     "The letters MK were a CIA code, and \"Ultra\" was a word that had been used during the Second World War for the most secret information.",
+     "Буквы MK были кодом ЦРУ, а словом «Ультра» во время Второй мировой войны называли самые секретные сведения."
+    ]
+   ]
+  },
+  {
+   "en": "The man who managed the program was Sidney Gottlieb, a chemist. People who knew him described a polite, hard-working man who lived quietly in the countryside and enjoyed folk dancing. At work, his approach was to test almost everything: drugs, hypnosis, electric shocks, lack of sleep and long periods of isolation.",
+   "ru": "Руководил программой химик Сидни Готлиб. Знавшие его люди описывали вежливого, трудолюбивого человека, который тихо жил за городом и любил народные танцы. На работе его подход состоял в том, чтобы испытывать почти всё: наркотики, гипноз, удары током, лишение сна и долгие периоды изоляции.",
+   "s": [
+    [
+     "The man who managed the program was Sidney Gottlieb, a chemist.",
+     "Руководил программой химик Сидни Готлиб."
+    ],
+    [
+     "People who knew him described a polite, hard-working man who lived quietly in the countryside and enjoyed folk dancing.",
+     "Знавшие его люди описывали вежливого, трудолюбивого человека, который тихо жил за городом и любил народные танцы."
+    ],
+    [
+     "At work, his approach was to test almost everything: drugs, hypnosis, electric shocks, lack of sleep and long periods of isolation.",
+     "На работе его подход состоял в том, чтобы испытывать почти всё: наркотики, гипноз, удары током, лишение сна и долгие периоды изоляции."
+    ]
+   ]
+  },
+  {
+   "en": "The most important substance was LSD, a powerful drug that had been created by the Swiss chemist Albert Hofmann. A tiny amount can change the way a person sees, hears and thinks for many hours. The CIA's expectations were high. Its scientists hoped that LSD might work as a \"truth drug\" that would make enemy agents reveal their secrets, or as a weapon that could confuse an enemy.",
+   "ru": "Самым важным веществом был ЛСД — сильный наркотик, созданный швейцарским химиком Альбертом Хофманом. Крошечная доза может на много часов изменить то, как человек видит, слышит и думает. Ожидания ЦРУ были высокими. Его учёные надеялись, что ЛСД может стать «сывороткой правды», которая заставит вражеских агентов раскрыть свои секреты, или оружием, способным сбить врага с толку.",
+   "s": [
+    [
+     "The most important substance was LSD, a powerful drug that had been created by the Swiss chemist Albert Hofmann.",
+     "Самым важным веществом был ЛСД — сильный наркотик, созданный швейцарским химиком Альбертом Хофманом."
+    ],
+    [
+     "A tiny amount can change the way a person sees, hears and thinks for many hours.",
+     "Крошечная доза может на много часов изменить то, как человек видит, слышит и думает."
+    ],
+    [
+     "The CIA's expectations were high.",
+     "Ожидания ЦРУ были высокими."
+    ],
+    [
+     "Its scientists hoped that LSD might work as a \"truth drug\" that would make enemy agents reveal their secrets, or as a weapon that could confuse an enemy.",
+     "Его учёные надеялись, что ЛСД может стать «сывороткой правды», которая заставит вражеских агентов раскрыть свои секреты, или оружием, способным сбить врага с толку."
+    ]
+   ]
+  },
+  {
+   "en": "Over the next twenty years, MKUltra grew to include 149 separate subprojects. Research was done at about 80 institutions, including universities, hospitals, prisons and drug companies. Many of the scientists did not know that their money came from the CIA, because it was sent through front organizations: foundations that looked like ordinary charities but had been established by the agency.",
+   "ru": "За следующие двадцать лет MKUltra разрослась до 149 отдельных подпроектов. Исследования проводились примерно в 80 учреждениях, в том числе в университетах, больницах, тюрьмах и фармацевтических компаниях. Многие учёные не знали, что их деньги поступают от ЦРУ, потому что их переводили через подставные организации — фонды, которые выглядели как обычные благотворительные организации, но были созданы управлением.",
+   "s": [
+    [
+     "Over the next twenty years, MKUltra grew to include 149 separate subprojects.",
+     "За следующие двадцать лет MKUltra разрослась до 149 отдельных подпроектов."
+    ],
+    [
+     "Research was done at about 80 institutions, including universities, hospitals, prisons and drug companies.",
+     "Исследования проводились примерно в 80 учреждениях, в том числе в университетах, больницах, тюрьмах и фармацевтических компаниях."
+    ],
+    [
+     "Many of the scientists did not know that their money came from the CIA, because it was sent through front organizations: foundations that looked like ordinary charities but had been established by the agency.",
+     "Многие учёные не знали, что их деньги поступают от ЦРУ, потому что их переводили через подставные организации — фонды, которые выглядели как обычные благотворительные организации, но были созданы управлением."
+    ]
+   ]
+  },
+  {
+   "en": "Who were the test subjects? Some were volunteers, but many were prisoners, patients in hospitals, people addicted to drugs, or ordinary citizens who had no idea what was happening to them. At a federal center for drug addicts in Lexington, Kentucky, some prisoners were given LSD every day for weeks.",
+   "ru": "Кто был подопытными? Некоторые были добровольцами, но многие были заключёнными, пациентами больниц, людьми с наркотической зависимостью или обычными гражданами, которые понятия не имели, что с ними происходит. В федеральном центре для наркозависимых в Лексингтоне (штат Кентукки) некоторым заключённым неделями давали ЛСД каждый день.",
+   "s": [
+    [
+     "Who were the test subjects?",
+     "Кто был подопытными?"
+    ],
+    [
+     "Some were volunteers, but many were prisoners, patients in hospitals, people addicted to drugs, or ordinary citizens who had no idea what was happening to them.",
+     "Некоторые были добровольцами, но многие были заключёнными, пациентами больниц, людьми с наркотической зависимостью или обычными гражданами, которые понятия не имели, что с ними происходит."
+    ],
+    [
+     "At a federal center for drug addicts in Lexington, Kentucky, some prisoners were given LSD every day for weeks.",
+     "В федеральном центре для наркозависимых в Лексингтоне (штат Кентукки) некоторым заключённым неделями давали ЛСД каждый день."
+    ]
+   ]
+  },
+  {
+   "en": "In Montreal, Canada, a famous psychiatrist named Ewen Cameron received CIA money through one of the front organizations. His patients had come to him for help with problems such as anxiety and depression. Instead, some of them were kept asleep with drugs for weeks, given very strong electric shocks and forced to listen to recorded messages that were repeated thousands of times. Some lost their memories of whole years of their lives. Much later, in 1988, the US government paid compensation to a group of these former patients.",
+   "ru": "В Монреале (Канада) известный психиатр по имени Юэн Кэмерон получал деньги ЦРУ через одну из подставных организаций. Его пациенты приходили к нему за помощью при таких проблемах, как тревожность и депрессия. Вместо этого некоторых из них неделями держали во сне с помощью препаратов, подвергали очень сильным ударам током и заставляли слушать записанные сообщения, которые повторялись тысячи раз. Некоторые потеряли воспоминания о целых годах своей жизни. Гораздо позже, в 1988 году, правительство США выплатило компенсацию группе этих бывших пациентов.",
+   "s": [
+    [
+     "In Montreal, Canada, a famous psychiatrist named Ewen Cameron received CIA money through one of the front organizations.",
+     "В Монреале (Канада) известный психиатр по имени Юэн Кэмерон получал деньги ЦРУ через одну из подставных организаций."
+    ],
+    [
+     "His patients had come to him for help with problems such as anxiety and depression.",
+     "Его пациенты приходили к нему за помощью при таких проблемах, как тревожность и депрессия."
+    ],
+    [
+     "Instead, some of them were kept asleep with drugs for weeks, given very strong electric shocks and forced to listen to recorded messages that were repeated thousands of times.",
+     "Вместо этого некоторых из них неделями держали во сне с помощью препаратов, подвергали очень сильным ударам током и заставляли слушать записанные сообщения, которые повторялись тысячи раз."
+    ],
+    [
+     "Some lost their memories of whole years of their lives.",
+     "Некоторые потеряли воспоминания о целых годах своей жизни."
+    ],
+    [
+     "Much later, in 1988, the US government paid compensation to a group of these former patients.",
+     "Гораздо позже, в 1988 году, правительство США выплатило компенсацию группе этих бывших пациентов."
+    ]
+   ]
+  },
+  {
+   "en": "Perhaps the strangest part of the program had the code name Operation Midnight Climax. In New York and later in San Francisco, the CIA set up secret flats called \"safe houses\". Women who were paid by the agency brought men there, and the men were secretly given LSD. Behind a special mirror, which looked like an ordinary mirror from the other side, an agent named George White watched and took notes. The men never agreed to take part, and they never learned what had been done to them.",
+   "ru": "Пожалуй, самая странная часть программы носила кодовое название «Операция „Полуночная кульминация“». В Нью-Йорке, а позже в Сан-Франциско ЦРУ устроило тайные квартиры, которые называли «конспиративными». Женщины, которым платило управление, приводили туда мужчин, и тем тайно давали ЛСД. За специальным зеркалом, которое с другой стороны выглядело как обычное, агент по имени Джордж Уайт наблюдал и делал записи. Мужчины никогда не соглашались участвовать и так и не узнали, что с ними сделали.",
+   "s": [
+    [
+     "Perhaps the strangest part of the program had the code name Operation Midnight Climax.",
+     "Пожалуй, самая странная часть программы носила кодовое название «Операция „Полуночная кульминация“»."
+    ],
+    [
+     "In New York and later in San Francisco, the CIA set up secret flats called \"safe houses\".",
+     "В Нью-Йорке, а позже в Сан-Франциско ЦРУ устроило тайные квартиры, которые называли «конспиративными»."
+    ],
+    [
+     "Women who were paid by the agency brought men there, and the men were secretly given LSD.",
+     "Женщины, которым платило управление, приводили туда мужчин, и тем тайно давали ЛСД."
+    ],
+    [
+     "Behind a special mirror, which looked like an ordinary mirror from the other side, an agent named George White watched and took notes.",
+     "За специальным зеркалом, которое с другой стороны выглядело как обычное, агент по имени Джордж Уайт наблюдал и делал записи."
+    ],
+    [
+     "The men never agreed to take part, and they never learned what had been done to them.",
+     "Мужчины никогда не соглашались участвовать и так и не узнали, что с ними сделали."
+    ]
+   ]
+  },
+  {
+   "en": "CIA staff even tested drugs on their own colleagues. In November 1953, Gottlieb organized a three-day meeting for CIA and Army scientists at a cabin near Deep Creek Lake in Maryland. Frank Olson was one of the guests. He worked at Camp Detrick, an Army base where secret biological research was done, and his team cooperated with the CIA.",
+   "ru": "Сотрудники ЦРУ испытывали наркотики даже на собственных коллегах. В ноябре 1953 года Готлиб организовал трёхдневную встречу для учёных ЦРУ и армии в домике у озера Дип-Крик в штате Мэриленд. Фрэнк Олсон был одним из гостей. Он работал в Кэмп-Детрике, армейской базе, где велись секретные биологические исследования, и его группа сотрудничала с ЦРУ.",
+   "s": [
+    [
+     "CIA staff even tested drugs on their own colleagues.",
+     "Сотрудники ЦРУ испытывали наркотики даже на собственных коллегах."
+    ],
+    [
+     "In November 1953, Gottlieb organized a three-day meeting for CIA and Army scientists at a cabin near Deep Creek Lake in Maryland.",
+     "В ноябре 1953 года Готлиб организовал трёхдневную встречу для учёных ЦРУ и армии в домике у озера Дип-Крик в штате Мэриленд."
+    ],
+    [
+     "Frank Olson was one of the guests.",
+     "Фрэнк Олсон был одним из гостей."
+    ],
+    [
+     "He worked at Camp Detrick, an Army base where secret biological research was done, and his team cooperated with the CIA.",
+     "Он работал в Кэмп-Детрике, армейской базе, где велись секретные биологические исследования, и его группа сотрудничала с ЦРУ."
+    ]
+   ]
+  },
+  {
+   "en": "On the evening of 19 November, while the men were taking a break from work after dinner, Gottlieb put LSD into a bottle of liqueur, a sweet alcoholic drink, and served it to several of the men. About twenty minutes later, he told them what he had done. For most of them, the experience was unpleasant but soon over. Unfortunately, for Olson it was not.",
+   "ru": "Вечером 19 ноября, когда мужчины отдыхали от работы после ужина, Готлиб подмешал ЛСД в бутылку ликёра, сладкого алкогольного напитка, и угостил им нескольких мужчин. Примерно через двадцать минут он рассказал им, что сделал. Для большинства из них этот опыт был неприятным, но быстро закончился. К сожалению, для Олсона всё было иначе.",
+   "s": [
+    [
+     "On the evening of 19 November, while the men were taking a break from work after dinner, Gottlieb put LSD into a bottle of liqueur, a sweet alcoholic drink, and served it to several of the men.",
+     "Вечером 19 ноября, когда мужчины отдыхали от работы после ужина, Готлиб подмешал ЛСД в бутылку ликёра, сладкого алкогольного напитка, и угостил им нескольких мужчин."
+    ],
+    [
+     "About twenty minutes later, he told them what he had done.",
+     "Примерно через двадцать минут он рассказал им, что сделал."
+    ],
+    [
+     "For most of them, the experience was unpleasant but soon over.",
+     "Для большинства из них этот опыт был неприятным, но быстро закончился."
+    ],
+    [
+     "Unfortunately, for Olson it was not.",
+     "К сожалению, для Олсона всё было иначе."
+    ]
+   ]
+  },
+  {
+   "en": "In the days that followed, Olson seemed confused and deeply anxious. He told his boss that he wanted to leave his job, and he said that he had made terrible mistakes. Instead of sending him home to his family, the CIA took him to New York to see a doctor who worked with the agency on LSD. On the night of 27 November, he stayed in a hotel room with a CIA officer, Robert Lashbrook. According to Lashbrook, he woke up when Olson ran through the closed window.",
+   "ru": "В последующие дни Олсон казался растерянным и глубоко встревоженным. Он сказал начальнику, что хочет уйти с работы, и говорил, что совершил ужасные ошибки. Вместо того чтобы отправить его домой к семье, ЦРУ отвезло его в Нью-Йорк к врачу, который работал с управлением над ЛСД. В ночь на 28 ноября он остался в гостиничном номере с сотрудником ЦРУ Робертом Лэшбруком. По словам Лэшбрука, он проснулся, когда Олсон бросился сквозь закрытое окно.",
+   "s": [
+    [
+     "In the days that followed, Olson seemed confused and deeply anxious.",
+     "В последующие дни Олсон казался растерянным и глубоко встревоженным."
+    ],
+    [
+     "He told his boss that he wanted to leave his job, and he said that he had made terrible mistakes.",
+     "Он сказал начальнику, что хочет уйти с работы, и говорил, что совершил ужасные ошибки."
+    ],
+    [
+     "Instead of sending him home to his family, the CIA took him to New York to see a doctor who worked with the agency on LSD.",
+     "Вместо того чтобы отправить его домой к семье, ЦРУ отвезло его в Нью-Йорк к врачу, который работал с управлением над ЛСД."
+    ],
+    [
+     "On the night of 27 November, he stayed in a hotel room with a CIA officer, Robert Lashbrook.",
+     "В ночь на 28 ноября он остался в гостиничном номере с сотрудником ЦРУ Робертом Лэшбруком."
+    ],
+    [
+     "According to Lashbrook, he woke up when Olson ran through the closed window.",
+     "По словам Лэшбрука, он проснулся, когда Олсон бросился сквозь закрытое окно."
+    ]
+   ]
+  },
+  {
+   "en": "The CIA did everything it could to hide its role. Olson's wife and children were not told about the LSD. Inside the agency, Gottlieb and his colleagues received only mild criticism in writing, and nobody lost their job. The program continued for almost twenty more years.",
+   "ru": "ЦРУ сделало всё возможное, чтобы скрыть свою роль. Жене и детям Олсона ничего не сказали про ЛСД. Внутри управления Готлиб и его коллеги получили лишь мягкие письменные замечания, и никто не потерял работу. Программа продолжалась ещё почти двадцать лет.",
+   "s": [
+    [
+     "The CIA did everything it could to hide its role.",
+     "ЦРУ сделало всё возможное, чтобы скрыть свою роль."
+    ],
+    [
+     "Olson's wife and children were not told about the LSD.",
+     "Жене и детям Олсона ничего не сказали про ЛСД."
+    ],
+    [
+     "Inside the agency, Gottlieb and his colleagues received only mild criticism in writing, and nobody lost their job.",
+     "Внутри управления Готлиб и его коллеги получили лишь мягкие письменные замечания, и никто не потерял работу."
+    ],
+    [
+     "The program continued for almost twenty more years.",
+     "Программа продолжалась ещё почти двадцать лет."
+    ]
+   ]
+  },
+  {
+   "en": "By the early 1970s, the political climate in America was changing. The Watergate scandal, which would force President Richard Nixon to resign in 1974, was growing, and journalists were starting to ask hard questions about secret government activities. In early 1973, shortly before he left his post, the CIA director Richard Helms ordered the MKUltra files to be destroyed. Gottlieb, who was also retiring, carried out the order. Many historians believe that the aim was to keep the program hidden from future investigators.",
+   "ru": "К началу 1970-х политическая атмосфера в Америке менялась. Разрастался Уотергейтский скандал, который в 1974 году вынудит президента Ричарда Никсона уйти в отставку, и журналисты начинали задавать трудные вопросы о секретной деятельности правительства. В начале 1973 года, незадолго до ухода с поста, директор ЦРУ Ричард Хелмс приказал уничтожить документы MKUltra. Готлиб, который тоже уходил на пенсию, выполнил приказ. Многие историки считают, что цель состояла в том, чтобы скрыть программу от будущих следователей.",
+   "s": [
+    [
+     "By the early 1970s, the political climate in America was changing.",
+     "К началу 1970-х политическая атмосфера в Америке менялась."
+    ],
+    [
+     "The Watergate scandal, which would force President Richard Nixon to resign in 1974, was growing, and journalists were starting to ask hard questions about secret government activities.",
+     "Разрастался Уотергейтский скандал, который в 1974 году вынудит президента Ричарда Никсона уйти в отставку, и журналисты начинали задавать трудные вопросы о секретной деятельности правительства."
+    ],
+    [
+     "In early 1973, shortly before he left his post, the CIA director Richard Helms ordered the MKUltra files to be destroyed.",
+     "В начале 1973 года, незадолго до ухода с поста, директор ЦРУ Ричард Хелмс приказал уничтожить документы MKUltra."
+    ],
+    [
+     "Gottlieb, who was also retiring, carried out the order.",
+     "Готлиб, который тоже уходил на пенсию, выполнил приказ."
+    ],
+    [
+     "Many historians believe that the aim was to keep the program hidden from future investigators.",
+     "Многие историки считают, что цель состояла в том, чтобы скрыть программу от будущих следователей."
+    ]
+   ]
+  },
+  {
+   "en": "For a while, the plan seemed to work. But in December 1974, The New York Times reported that the CIA had illegally spied on American citizens. In 1975, two official investigations began: a commission led by Vice President Nelson Rockefeller and a Senate committee led by Senator Frank Church.",
+   "ru": "Какое-то время план, казалось, срабатывал. Но в декабре 1974 года газета The New York Times сообщила, что ЦРУ незаконно шпионило за американскими гражданами. В 1975 году начались два официальных расследования: комиссия во главе с вице-президентом Нельсоном Рокфеллером и сенатский комитет во главе с сенатором Фрэнком Черчем.",
+   "s": [
+    [
+     "For a while, the plan seemed to work.",
+     "Какое-то время план, казалось, срабатывал."
+    ],
+    [
+     "But in December 1974, The New York Times reported that the CIA had illegally spied on American citizens.",
+     "Но в декабре 1974 года газета The New York Times сообщила, что ЦРУ незаконно шпионило за американскими гражданами."
+    ],
+    [
+     "In 1975, two official investigations began: a commission led by Vice President Nelson Rockefeller and a Senate committee led by Senator Frank Church.",
+     "В 1975 году начались два официальных расследования: комиссия во главе с вице-президентом Нельсоном Рокфеллером и сенатский комитет во главе с сенатором Фрэнком Черчем."
+    ]
+   ]
+  },
+  {
+   "en": "The Rockefeller report, published in June 1975, contained a short passage about an Army employee who had been given LSD without his knowledge and had jumped from a hotel window about a week later. No name was given, but when the Olson family read about it in the newspaper, they understood at once. The family announced that they would take the government to court, and their lawyers began to prepare a case. In July 1975, President Gerald Ford invited the Olsons to the White House and apologized to them personally. In 1976, Congress approved a payment of 750,000 dollars to the family.",
+   "ru": "В докладе Рокфеллера, опубликованном в июне 1975 года, был короткий фрагмент о сотруднике армии, которому без его ведома дали ЛСД и который примерно через неделю выпрыгнул из окна гостиницы. Имя не называлось, но когда семья Олсона прочитала об этом в газете, они сразу всё поняли. Семья объявила, что подаст на правительство в суд, и её адвокаты начали готовить иск. В июле 1975 года президент Джеральд Форд пригласил Олсонов в Белый дом и лично принёс им извинения. В 1976 году Конгресс одобрил выплату семье 750 000 долларов.",
+   "s": [
+    [
+     "The Rockefeller report, published in June 1975, contained a short passage about an Army employee who had been given LSD without his knowledge and had jumped from a hotel window about a week later.",
+     "В докладе Рокфеллера, опубликованном в июне 1975 года, был короткий фрагмент о сотруднике армии, которому без его ведома дали ЛСД и который примерно через неделю выпрыгнул из окна гостиницы."
+    ],
+    [
+     "No name was given, but when the Olson family read about it in the newspaper, they understood at once.",
+     "Имя не называлось, но когда семья Олсона прочитала об этом в газете, они сразу всё поняли."
+    ],
+    [
+     "The family announced that they would take the government to court, and their lawyers began to prepare a case.",
+     "Семья объявила, что подаст на правительство в суд, и её адвокаты начали готовить иск."
+    ],
+    [
+     "In July 1975, President Gerald Ford invited the Olsons to the White House and apologized to them personally.",
+     "В июле 1975 года президент Джеральд Форд пригласил Олсонов в Белый дом и лично принёс им извинения."
+    ],
+    [
+     "In 1976, Congress approved a payment of 750,000 dollars to the family.",
+     "В 1976 году Конгресс одобрил выплату семье 750 000 долларов."
+    ]
+   ]
+  },
+  {
+   "en": "Still, because the files had been destroyed, the full picture of MKUltra remained unknown. Then came an amazing piece of luck. A researcher named John Marks had asked for CIA documents under the Freedom of Information Act, a law that allows the public to request government records. In 1977, while searching for them, CIA staff discovered thousands of pages that had survived. They were financial records, such as bills and receipts, and they had been stored in a different building, so nobody had destroyed them.",
+   "ru": "И всё же, поскольку документы были уничтожены, полная картина MKUltra оставалась неизвестной. А потом случилась удивительная удача. Исследователь по имени Джон Маркс запросил документы ЦРУ на основании Закона о свободе информации — закона, который позволяет гражданам запрашивать правительственные документы. В 1977 году, разыскивая их, сотрудники ЦРУ обнаружили тысячи уцелевших страниц. Это были финансовые документы, например счета и квитанции, и они хранились в другом здании, поэтому их никто не уничтожил.",
+   "s": [
+    [
+     "Still, because the files had been destroyed, the full picture of MKUltra remained unknown.",
+     "И всё же, поскольку документы были уничтожены, полная картина MKUltra оставалась неизвестной."
+    ],
+    [
+     "Then came an amazing piece of luck.",
+     "А потом случилась удивительная удача."
+    ],
+    [
+     "A researcher named John Marks had asked for CIA documents under the Freedom of Information Act, a law that allows the public to request government records.",
+     "Исследователь по имени Джон Маркс запросил документы ЦРУ на основании Закона о свободе информации — закона, который позволяет гражданам запрашивать правительственные документы."
+    ],
+    [
+     "In 1977, while searching for them, CIA staff discovered thousands of pages that had survived.",
+     "В 1977 году, разыскивая их, сотрудники ЦРУ обнаружили тысячи уцелевших страниц."
+    ],
+    [
+     "They were financial records, such as bills and receipts, and they had been stored in a different building, so nobody had destroyed them.",
+     "Это были финансовые документы, например счета и квитанции, и они хранились в другом здании, поэтому их никто не уничтожил."
+    ]
+   ]
+  },
+  {
+   "en": "The agency's accountants had kept excellent records. The papers showed who had received money, how much, and for what kind of work. The new CIA director, Admiral Stansfield Turner, informed Congress, and in August 1977 the Senate held public hearings about MKUltra. Senator Edward Kennedy was one of the politicians who led them. It was at these hearings that Turner described the 149 subprojects and the institutions that had taken part.",
+   "ru": "Бухгалтеры управления вели отличный учёт. Бумаги показывали, кто получал деньги, сколько и за какую работу. Новый директор ЦРУ, адмирал Стэнсфилд Тёрнер, сообщил об этом Конгрессу, и в августе 1977 года Сенат провёл открытые слушания о MKUltra. Сенатор Эдвард Кеннеди был одним из политиков, которые их вели. Именно на этих слушаниях Тёрнер рассказал о 149 подпроектах и учреждениях, которые в них участвовали.",
+   "s": [
+    [
+     "The agency's accountants had kept excellent records.",
+     "Бухгалтеры управления вели отличный учёт."
+    ],
+    [
+     "The papers showed who had received money, how much, and for what kind of work.",
+     "Бумаги показывали, кто получал деньги, сколько и за какую работу."
+    ],
+    [
+     "The new CIA director, Admiral Stansfield Turner, informed Congress, and in August 1977 the Senate held public hearings about MKUltra.",
+     "Новый директор ЦРУ, адмирал Стэнсфилд Тёрнер, сообщил об этом Конгрессу, и в августе 1977 года Сенат провёл открытые слушания о MKUltra."
+    ],
+    [
+     "Senator Edward Kennedy was one of the politicians who led them.",
+     "Сенатор Эдвард Кеннеди был одним из политиков, которые их вели."
+    ],
+    [
+     "It was at these hearings that Turner described the 149 subprojects and the institutions that had taken part.",
+     "Именно на этих слушаниях Тёрнер рассказал о 149 подпроектах и учреждениях, которые в них участвовали."
+    ]
+   ]
+  },
+  {
+   "en": "So what did the CIA learn from twenty years of experiments? According to the surviving documents and the officials who spoke at the hearings, it never found a reliable way to control anyone's mind. LSD did not make people tell the truth; it made them confused, frightened and impossible to predict. In 1976, President Ford signed an executive order which, among other things, banned drug experiments on people who had not agreed to them.",
+   "ru": "Так чему же ЦРУ научилось за двадцать лет экспериментов? Согласно уцелевшим документам и словам чиновников, выступавших на слушаниях, оно так и не нашло надёжного способа управлять чьим-либо разумом. ЛСД не заставлял людей говорить правду: из-за него они становились растерянными, испуганными и непредсказуемыми. В 1976 году президент Форд подписал указ, который, помимо прочего, запретил эксперименты с наркотиками на людях без их согласия.",
+   "s": [
+    [
+     "So what did the CIA learn from twenty years of experiments?",
+     "Так чему же ЦРУ научилось за двадцать лет экспериментов?"
+    ],
+    [
+     "According to the surviving documents and the officials who spoke at the hearings, it never found a reliable way to control anyone's mind.",
+     "Согласно уцелевшим документам и словам чиновников, выступавших на слушаниях, оно так и не нашло надёжного способа управлять чьим-либо разумом."
+    ],
+    [
+     "LSD did not make people tell the truth; it made them confused, frightened and impossible to predict.",
+     "ЛСД не заставлял людей говорить правду: из-за него они становились растерянными, испуганными и непредсказуемыми."
+    ],
+    [
+     "In 1976, President Ford signed an executive order which, among other things, banned drug experiments on people who had not agreed to them.",
+     "В 1976 году президент Форд подписал указ, который, помимо прочего, запретил эксперименты с наркотиками на людях без их согласия."
+    ]
+   ]
+  },
+  {
+   "en": "For the Olson family, however, the road to the truth did not end there. Frank Olson's son Eric spent most of his life trying to find out what had really happened in that hotel room. In 1994, the family had his father's grave opened, and a forensic scientist, an expert who studies bodies for evidence, examined the remains. He reported a head injury that, in his opinion, had happened before the fall.",
+   "ru": "Однако для семьи Олсона путь к правде на этом не закончился. Сын Фрэнка Олсона Эрик потратил большую часть жизни на то, чтобы выяснить, что на самом деле произошло в том гостиничном номере. В 1994 году семья добилась вскрытия могилы его отца, и судебный эксперт — специалист, который изучает тела в поисках улик, — осмотрел останки. Он сообщил о травме головы, которая, по его мнению, появилась ещё до падения.",
+   "s": [
+    [
+     "For the Olson family, however, the road to the truth did not end there.",
+     "Однако для семьи Олсона путь к правде на этом не закончился."
+    ],
+    [
+     "Frank Olson's son Eric spent most of his life trying to find out what had really happened in that hotel room.",
+     "Сын Фрэнка Олсона Эрик потратил большую часть жизни на то, чтобы выяснить, что на самом деле произошло в том гостиничном номере."
+    ],
+    [
+     "In 1994, the family had his father's grave opened, and a forensic scientist, an expert who studies bodies for evidence, examined the remains.",
+     "В 1994 году семья добилась вскрытия могилы его отца, и судебный эксперт — специалист, который изучает тела в поисках улик, — осмотрел останки."
+    ],
+    [
+     "He reported a head injury that, in his opinion, had happened before the fall.",
+     "Он сообщил о травме головы, которая, по его мнению, появилась ещё до падения."
+    ]
+   ]
+  },
+  {
+   "en": "The family came to believe that Frank Olson had been murdered because he knew dangerous secrets and might talk. Prosecutors in New York investigated the case again in the 1990s, but no one was charged. A later lawsuit by his sons against the government was dismissed by a judge. Historians still disagree about how Olson died, and there is no official proof of murder. This part of the story remains an open question.",
+   "ru": "Семья пришла к убеждению, что Фрэнка Олсона убили, потому что он знал опасные секреты и мог проговориться. Прокуроры Нью-Йорка снова расследовали дело в 1990-х, но никому не предъявили обвинений. Более поздний иск его сыновей против правительства судья отклонил. Историки до сих пор спорят о том, как погиб Олсон, и официальных доказательств убийства нет. Эта часть истории остаётся открытым вопросом.",
+   "s": [
+    [
+     "The family came to believe that Frank Olson had been murdered because he knew dangerous secrets and might talk.",
+     "Семья пришла к убеждению, что Фрэнка Олсона убили, потому что он знал опасные секреты и мог проговориться."
+    ],
+    [
+     "Prosecutors in New York investigated the case again in the 1990s, but no one was charged.",
+     "Прокуроры Нью-Йорка снова расследовали дело в 1990-х, но никому не предъявили обвинений."
+    ],
+    [
+     "A later lawsuit by his sons against the government was dismissed by a judge.",
+     "Более поздний иск его сыновей против правительства судья отклонил."
+    ],
+    [
+     "Historians still disagree about how Olson died, and there is no official proof of murder.",
+     "Историки до сих пор спорят о том, как погиб Олсон, и официальных доказательств убийства нет."
+    ],
+    [
+     "This part of the story remains an open question.",
+     "Эта часть истории остаётся открытым вопросом."
+    ]
+   ]
+  },
+  {
+   "en": "Today, the name MKUltra appears in many conspiracy theories, and here it is important to separate facts from claims. Some people believe that the program never ended, or that famous singers and actors are secretly being controlled by the government. There is no evidence for these ideas. The documents show a real program that used real people without their consent, but they also show that it failed to achieve its main goal.",
+   "ru": "Сегодня название MKUltra встречается во многих теориях заговора, и здесь важно отделять факты от домыслов. Некоторые люди верят, что программа так и не закончилась или что известных певцов и актёров тайно контролирует правительство. Доказательств этих идей нет. Документы показывают реальную программу, которая использовала реальных людей без их согласия, но они также показывают, что ей не удалось достичь главной цели.",
+   "s": [
+    [
+     "Today, the name MKUltra appears in many conspiracy theories, and here it is important to separate facts from claims.",
+     "Сегодня название MKUltra встречается во многих теориях заговора, и здесь важно отделять факты от домыслов."
+    ],
+    [
+     "Some people believe that the program never ended, or that famous singers and actors are secretly being controlled by the government.",
+     "Некоторые люди верят, что программа так и не закончилась или что известных певцов и актёров тайно контролирует правительство."
+    ],
+    [
+     "There is no evidence for these ideas.",
+     "Доказательств этих идей нет."
+    ],
+    [
+     "The documents show a real program that used real people without their consent, but they also show that it failed to achieve its main goal.",
+     "Документы показывают реальную программу, которая использовала реальных людей без их согласия, но они также показывают, что ей не удалось достичь главной цели."
+    ]
+   ]
+  },
+  {
+   "en": "Why does MKUltra still matter? It is a story of fear and of the shame that follows when a government decides that the rules do not apply to it. It shows why scientists must always ask people for their informed consent, which means that people understand an experiment and freely agree to it. And it shows how the truth can come out: through journalists, official investigations, a law about public information, and a few boxes of bills that somebody forgot to destroy.",
+   "ru": "Почему MKUltra всё ещё важна? Это история о страхе и о позоре, который наступает, когда правительство решает, что правила к нему не относятся. Она показывает, почему учёные всегда должны спрашивать у людей информированное согласие — это значит, что люди понимают суть эксперимента и добровольно на него соглашаются. И она показывает, как правда может выйти наружу: благодаря журналистам, официальным расследованиям, закону об открытой информации и нескольким коробкам счетов, которые кто-то забыл уничтожить.",
+   "s": [
+    [
+     "Why does MKUltra still matter?",
+     "Почему MKUltra всё ещё важна?"
+    ],
+    [
+     "It is a story of fear and of the shame that follows when a government decides that the rules do not apply to it.",
+     "Это история о страхе и о позоре, который наступает, когда правительство решает, что правила к нему не относятся."
+    ],
+    [
+     "It shows why scientists must always ask people for their informed consent, which means that people understand an experiment and freely agree to it.",
+     "Она показывает, почему учёные всегда должны спрашивать у людей информированное согласие — это значит, что люди понимают суть эксперимента и добровольно на него соглашаются."
+    ],
+    [
+     "And it shows how the truth can come out: through journalists, official investigations, a law about public information, and a few boxes of bills that somebody forgot to destroy.",
+     "И она показывает, как правда может выйти наружу: благодаря журналистам, официальным расследованиям, закону об открытой информации и нескольким коробкам счетов, которые кто-то забыл уничтожить."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "early": "рано; ранний, начало",
+  "on": "на",
+  "the": "(опр. артикль)",
+  "morning": "утро",
+  "of": "из, о, (род. падеж)",
+  "november": "ноябрь",
+  "a": "(неопр. артикль)",
+  "man": "мужчина",
+  "fell": "выпал, упал",
+  "from": "из, от",
+  "high": "высокий, высоко",
+  "window": "окно",
+  "hotel": "гостиница",
+  "in": "в",
+  "manhattan": "Манхэттен",
+  "new": "Нью (New York); новый",
+  "york": "Йорк (New York — Нью-Йорк)",
+  "his": "его",
+  "name": "имя; название",
+  "was": "был(а)",
+  "frank": "Фрэнк (имя)",
+  "olson": "Олсон (фамилия)",
+  "he": "он",
+  "forty": "сорок (forty-three)",
+  "three": "три (forty-three, three-day)",
+  "years": "лет, годы",
+  "old": "(years old) лет",
+  "had": "(вспом. гл.); имел; был",
+  "wife": "жена",
+  "and": "и",
+  "children": "дети",
+  "worked": "работал",
+  "as": "как; в качестве",
+  "scientist": "учёный",
+  "for": "для, в течение",
+  "us": "США",
+  "army": "армия",
+  "family": "семья",
+  "told": "сказали; рассказал",
+  "that": "что; тот, это",
+  "suffered": "перенёс, у него случился",
+  "nervous": "нервный",
+  "breakdown": "срыв (nervous breakdown — нервный срыв)",
+  "sudden": "внезапный",
+  "mental": "психический",
+  "collapse": "упадок, срыв",
+  "jumped": "прыгнул",
+  "more": "больше",
+  "than": "чем",
+  "twenty": "двадцать",
+  "nobody": "никто",
+  "them": "их",
+  "rest": "остальное, остальная часть",
+  "story": "история",
+  "this": "этот",
+  "nine": "девять",
+  "days": "дни",
+  "before": "до; за (nine days before)",
+  "death": "смерть",
+  "been": "(вспом. гл.) был(о)",
+  "given": "дали, давали",
+  "lsd": "ЛСД (наркотик)",
+  "without": "без",
+  "knowledge": "ведома (without his knowledge), знание",
+  "drug": "наркотик, препарат",
+  "secretly": "тайно",
+  "put": "подмешал, положил",
+  "into": "в",
+  "drink": "напиток",
+  "by": "(пассив) кем; к (by the early 1970s)",
+  "officers": "сотрудники",
+  "central": "центральный",
+  "intelligence": "разведка",
+  "agency": "управление, агентство",
+  "cia": "ЦРУ",
+  "one": "один, одна",
+  "victims": "жертвы",
+  "secret": "тайный",
+  "program": "программа",
+  "called": "называлась; под названием",
+  "mkultra": "MKUltra (название программы)",
+  "cia's": "ЦРУ (принадлежащий)",
+  "attempt": "попытка",
+  "to": "к, в; (частица)",
+  "learn": "научиться, узнать",
+  "how": "как",
+  "control": "управлять; управление",
+  "human": "человеческий, по-человечески",
+  "mind": "разум",
+  "today": "сегодня",
+  "is": "есть, является",
+  "most": "самый; большая часть, большинство",
+  "famous": "известный",
+  "examples": "примеры",
+  "conspiracy": "заговор",
+  "theory": "теория",
+  "turned": "(turned out) оказалась",
+  "out": "(came out, turned out, carried out, find out) — частица",
+  "be": "быть",
+  "true": "правдой",
+  "but": "но",
+  "way": "способ; то, как",
+  "truth": "правда",
+  "came": "(came out) вышла; (then came) случилась; пришли",
+  "almost": "почти",
+  "an": "(неопр. артикль)",
+  "accident": "случайность; несчастный случай",
+  "files": "документы",
+  "were": "были",
+  "destroyed": "уничтожены, уничтожил",
+  "purpose": "(on purpose) намеренно",
+  "if": "если, ли",
+  "some": "некоторые",
+  "boxes": "коробки",
+  "financial": "финансовый",
+  "papers": "бумаги",
+  "not": "не",
+  "kept": "хранились; держали; вели (учёт)",
+  "wrong": "не тот, неправильный",
+  "place": "место",
+  "we": "мы",
+  "might": "возможно, мог бы",
+  "know": "знать",
+  "very": "очень",
+  "little": "мало",
+  "about": "о, про; примерно",
+  "it": "он, оно, это",
+  "understand": "понимать",
+  "why": "почему",
+  "started": "начало",
+  "such": "такой",
+  "need": "нужно",
+  "go": "(go back) вернуться",
+  "back": "назад",
+  "s": "(1950s) -е годы",
+  "cold": "холодный",
+  "war": "война",
+  "between": "между",
+  "united": "Соединённые (Штаты)",
+  "states": "Штаты",
+  "soviet": "Советский",
+  "union": "Союз",
+  "at": "в, на; (at its height) в разгаре",
+  "its": "его, её",
+  "height": "разгар, высота",
+  "korean": "корейский",
+  "being": "(was being fought) велась",
+  "fought": "велась (о войне)",
+  "american": "американский",
+  "soldiers": "солдаты",
+  "who": "кто, который",
+  "captured": "взятые в плен",
+  "korea": "Корея",
+  "appeared": "появлялись",
+  "films": "фильмы",
+  "radio": "радио",
+  "confessing": "признаваясь",
+  "crimes": "преступления",
+  "using": "применение, использование",
+  "germ": "бактериологический (germ weapons)",
+  "weapons": "оружие",
+  "many": "много",
+  "americans": "американцы",
+  "shocked": "потрясены",
+  "could": "могли",
+  "their": "их, свои",
+  "own": "собственный",
+  "say": "говорить",
+  "things": "вещи; (such things) такое",
+  "word": "слово",
+  "became": "стало",
+  "popular": "популярный",
+  "brainwashing": "промывание мозгов",
+  "meaning": "смысл",
+  "simple": "простой",
+  "frightening": "пугающий",
+  "idea": "мысль, идея",
+  "enemy": "враг; вражеский",
+  "wash": "промыть",
+  "person's": "человека",
+  "clean": "начисто",
+  "fill": "наполнить",
+  "with": "с",
+  "beliefs": "убеждения",
+  "leaders": "руководители",
+  "afraid": "(were afraid) боялись",
+  "china": "Китай",
+  "found": "нашли; нашёл",
+  "do": "(вспом. гл.)",
+  "america": "Америка",
+  "falling": "(falling behind) отставать",
+  "behind": "(falling behind) отставать",
+  "there": "(there was / there is) есть, было",
+  "strong": "сильный",
+  "pressure": "давление",
+  "catch": "(catch up) догнать",
+  "up": "(catch up, set up) — частица",
+  "possible": "возможным",
+  "they": "они",
+  "thought": "думали",
+  "discover": "обнаружить",
+  "first": "первыми",
+  "earlier": "более ранний",
+  "projects": "проекты",
+  "code": "код; кодовый",
+  "names": "названия",
+  "bluebird": "«Синяя птица» (кодовое название)",
+  "artichoke": "«Артишок» (кодовое название)",
+  "already": "уже",
+  "tested": "испытывали",
+  "drugs": "наркотики, препараты",
+  "hypnosis": "гипноз",
+  "interrogations": "допросы",
+  "questioning": "опрос, допрос",
+  "prisoners": "пленные, заключённые",
+  "april": "апрель",
+  "director": "директор",
+  "allen": "Аллен (имя)",
+  "dulles": "Даллес (фамилия)",
+  "approved": "одобрил",
+  "much": "гораздо",
+  "bigger": "крупнее, больше",
+  "letters": "буквы",
+  "mk": "MK (код ЦРУ)",
+  "ultra": "«Ультра» (кодовое слово)",
+  "used": "использовалось; использовала",
+  "during": "во время",
+  "second": "второй",
+  "world": "мир; мировой",
+  "information": "информация, сведения",
+  "managed": "руководил, управлял",
+  "sidney": "Сидни (имя)",
+  "gottlieb": "Готлиб (фамилия)",
+  "chemist": "химик",
+  "people": "люди",
+  "knew": "знали",
+  "him": "его, ему",
+  "described": "описывали",
+  "polite": "вежливый",
+  "hard": "(hard-working) трудолюбивый; трудные",
+  "working": "(hard-working) трудолюбивый",
+  "lived": "жил",
+  "quietly": "тихо",
+  "countryside": "сельская местность (in the countryside — за городом)",
+  "enjoyed": "любил",
+  "folk": "народный",
+  "dancing": "танцы",
+  "work": "работа",
+  "approach": "подход",
+  "test": "испытывать",
+  "everything": "всё",
+  "electric": "электрический",
+  "shocks": "удары (током)",
+  "lack": "нехватка, лишение",
+  "sleep": "сон",
+  "long": "долгий",
+  "periods": "периоды",
+  "isolation": "изоляция",
+  "important": "важный",
+  "substance": "вещество",
+  "powerful": "мощный, сильный",
+  "created": "создан",
+  "swiss": "швейцарский",
+  "albert": "Альберт (имя)",
+  "hofmann": "Хофман (фамилия)",
+  "tiny": "крошечный",
+  "amount": "количество, доза",
+  "can": "может",
+  "change": "изменить",
+  "person": "человек",
+  "sees": "видит",
+  "hears": "слышит",
+  "thinks": "думает",
+  "hours": "часы",
+  "expectations": "ожидания",
+  "scientists": "учёные",
+  "hoped": "надеялись",
+  "would": "(в прошедшем) будет; бы",
+  "make": "заставить",
+  "agents": "агенты",
+  "reveal": "раскрыть",
+  "secrets": "тайны, секреты",
+  "or": "или",
+  "weapon": "оружие",
+  "confuse": "сбить с толку",
+  "over": "за (за следующие годы)",
+  "next": "следующий; рядом",
+  "grew": "разрослась",
+  "include": "включать",
+  "separate": "отдельный",
+  "subprojects": "подпроекты",
+  "research": "исследования",
+  "done": "проводились, делались; сделали",
+  "institutions": "учреждения",
+  "including": "включая, в том числе",
+  "universities": "университеты",
+  "hospitals": "больницы",
+  "prisons": "тюрьмы",
+  "companies": "компании",
+  "did": "(вспом. гл.); сделало",
+  "money": "деньги",
+  "because": "потому что",
+  "sent": "переводились, отправлялись",
+  "through": "через, сквозь",
+  "front": "(front organizations) подставные",
+  "organizations": "организации",
+  "foundations": "фонды",
+  "looked": "выглядели",
+  "like": "как",
+  "ordinary": "обычный",
+  "charities": "благотворительные организации",
+  "established": "созданы",
+  "subjects": "испытуемые (test subjects — подопытные)",
+  "volunteers": "добровольцы",
+  "patients": "пациенты",
+  "addicted": "зависимые (addicted to drugs — наркозависимые)",
+  "citizens": "граждане",
+  "no": "нет",
+  "what": "что",
+  "happening": "происходило",
+  "federal": "федеральный",
+  "center": "центр",
+  "addicts": "наркоманы, зависимые",
+  "lexington": "Лексингтон (город)",
+  "kentucky": "Кентукки (штат)",
+  "every": "каждый",
+  "day": "день",
+  "weeks": "недели",
+  "montreal": "Монреаль",
+  "canada": "Канада",
+  "psychiatrist": "психиатр",
+  "named": "по имени",
+  "ewen": "Юэн (имя)",
+  "cameron": "Кэмерон (фамилия)",
+  "received": "получил(и)",
+  "come": "пришли",
+  "help": "помощь",
+  "problems": "проблемы",
+  "anxiety": "тревожность",
+  "depression": "депрессия",
+  "instead": "вместо этого",
+  "asleep": "во сне, спящими",
+  "forced": "заставляли",
+  "listen": "слушать",
+  "recorded": "записанные",
+  "messages": "сообщения",
+  "repeated": "повторялись",
+  "thousands": "тысячи",
+  "times": "раз",
+  "lost": "потеряли, потерял",
+  "memories": "воспоминания",
+  "whole": "весь",
+  "lives": "жизни",
+  "later": "позже",
+  "government": "правительство",
+  "paid": "выплатило; платили",
+  "compensation": "компенсация",
+  "group": "группа",
+  "these": "эти",
+  "former": "бывший",
+  "perhaps": "пожалуй",
+  "strangest": "самый странный",
+  "part": "часть",
+  "operation": "операция",
+  "midnight": "полуночный",
+  "climax": "кульминация",
+  "san": "Сан (San Francisco)",
+  "francisco": "Франциско (San Francisco — Сан-Франциско)",
+  "set": "(set up) устроило",
+  "flats": "квартиры",
+  "safe": "(safe houses) конспиративные",
+  "houses": "дома (safe houses — конспиративные квартиры)",
+  "women": "женщины",
+  "brought": "приводили",
+  "men": "мужчины",
+  "special": "специальный",
+  "mirror": "зеркало",
+  "which": "который, что",
+  "other": "другой",
+  "side": "сторона",
+  "agent": "агент",
+  "george": "Джордж (имя)",
+  "white": "Белый (дом); Уайт (фамилия)",
+  "watched": "наблюдал",
+  "took": "(took notes) делал (записи)",
+  "notes": "записи",
+  "never": "никогда; так и не",
+  "agreed": "соглашались",
+  "take": "(take part) принимать (участие); (take to court) подать (в суд)",
+  "learned": "узнали",
+  "staff": "сотрудники",
+  "even": "даже",
+  "colleagues": "коллеги",
+  "organized": "организовал",
+  "meeting": "встреча",
+  "cabin": "домик",
+  "near": "возле, у",
+  "deep": "Дип (в названии озера)",
+  "creek": "Крик (Deep Creek — название озера)",
+  "lake": "озеро",
+  "maryland": "Мэриленд (штат)",
+  "guests": "гости",
+  "camp": "Кэмп (в названии базы)",
+  "detrick": "Детрик (Camp Detrick — база)",
+  "base": "база",
+  "where": "где",
+  "biological": "биологический",
+  "team": "группа",
+  "cooperated": "сотрудничала",
+  "evening": "вечер",
+  "while": "когда, пока",
+  "taking": "(taking a break) отдыхали",
+  "break": "перерыв (take a break — отдохнуть)",
+  "after": "после",
+  "dinner": "ужин",
+  "bottle": "бутылка",
+  "liqueur": "ликёр",
+  "sweet": "сладкий",
+  "alcoholic": "алкогольный",
+  "served": "угостил",
+  "several": "несколько",
+  "minutes": "минуты",
+  "experience": "опыт",
+  "unpleasant": "неприятный",
+  "soon": "скоро",
+  "unfortunately": "к сожалению",
+  "followed": "последовали",
+  "seemed": "казался",
+  "confused": "растерянный",
+  "deeply": "глубоко",
+  "anxious": "встревоженный",
+  "boss": "начальник",
+  "wanted": "хотел",
+  "leave": "уйти (с работы)",
+  "job": "работа",
+  "said": "говорил",
+  "made": "совершил",
+  "terrible": "ужасный",
+  "mistakes": "ошибки",
+  "sending": "отправить",
+  "home": "домой",
+  "see": "(see a doctor) показаться (врачу)",
+  "doctor": "врач",
+  "night": "ночь",
+  "stayed": "остался",
+  "room": "номер, комната",
+  "officer": "сотрудник",
+  "robert": "Роберт (имя)",
+  "lashbrook": "Лэшбрук (фамилия)",
+  "according": "(according to) по словам, согласно",
+  "woke": "проснулся",
+  "when": "когда",
+  "ran": "бросился, побежал",
+  "closed": "закрытое",
+  "hide": "скрыть",
+  "role": "роль",
+  "olson's": "Олсона",
+  "inside": "внутри",
+  "only": "только, лишь",
+  "mild": "мягкий",
+  "criticism": "критика, замечания",
+  "writing": "(in writing) письменно",
+  "continued": "продолжалась",
+  "political": "политический",
+  "climate": "климат, атмосфера",
+  "changing": "менялся",
+  "watergate": "Уотергейт (скандал)",
+  "scandal": "скандал",
+  "force": "вынудить",
+  "president": "президент",
+  "richard": "Ричард (имя)",
+  "nixon": "Никсон (фамилия)",
+  "resign": "уйти в отставку",
+  "growing": "разрастался",
+  "journalists": "журналисты",
+  "starting": "начинали",
+  "ask": "спросить",
+  "questions": "вопросы",
+  "activities": "деятельность",
+  "shortly": "незадолго",
+  "left": "покинул",
+  "post": "пост, должность",
+  "helms": "Хелмс (фамилия)",
+  "ordered": "приказал",
+  "also": "также",
+  "retiring": "уходил на пенсию",
+  "carried": "(carried out) выполнил",
+  "order": "приказ",
+  "historians": "историки",
+  "believe": "считают, верят",
+  "aim": "цель",
+  "keep": "держать, сохранять",
+  "hidden": "скрытый",
+  "future": "будущее",
+  "investigators": "следователи",
+  "plan": "план",
+  "december": "декабрь",
+  "reported": "сообщила; сообщил",
+  "illegally": "незаконно",
+  "spied": "шпионило",
+  "two": "два",
+  "official": "официальный",
+  "investigations": "расследования",
+  "began": "начались; начали",
+  "commission": "комиссия",
+  "led": "во главе с; вели",
+  "vice": "вице- (vice president — вице-президент)",
+  "nelson": "Нельсон (имя)",
+  "rockefeller": "Рокфеллер (фамилия)",
+  "senate": "сенат",
+  "committee": "комитет",
+  "senator": "сенатор",
+  "church": "Черч (фамилия)",
+  "report": "доклад",
+  "published": "опубликованный",
+  "june": "июнь",
+  "contained": "содержал",
+  "short": "короткий",
+  "passage": "фрагмент (текста)",
+  "employee": "сотрудник, служащий",
+  "week": "неделя",
+  "read": "прочитала",
+  "newspaper": "газета",
+  "understood": "поняли",
+  "once": "(at once) сразу",
+  "announced": "объявила",
+  "court": "(take to court) подать в суд",
+  "lawyers": "адвокаты, юристы",
+  "prepare": "готовить",
+  "case": "дело; иск",
+  "july": "июль",
+  "gerald": "Джеральд (имя)",
+  "ford": "Форд (фамилия)",
+  "invited": "пригласил",
+  "olsons": "Олсоны (семья)",
+  "house": "(White House) дом",
+  "apologized": "извинился",
+  "personally": "лично",
+  "congress": "Конгресс",
+  "payment": "выплата",
+  "dollars": "долларов",
+  "still": "всё же; до сих пор",
+  "full": "полный",
+  "picture": "картина",
+  "remained": "оставалась",
+  "unknown": "неизвестный",
+  "then": "потом, тогда",
+  "amazing": "удивительный",
+  "piece": "кусок; (a piece of luck) удача",
+  "luck": "удача",
+  "researcher": "исследователь",
+  "john": "Джон (имя)",
+  "marks": "Маркс (фамилия)",
+  "asked": "запросил",
+  "documents": "документы",
+  "under": "на основании, по (закону)",
+  "freedom": "свобода",
+  "act": "закон, акт",
+  "law": "закон",
+  "allows": "позволяет",
+  "public": "граждане, общественность; открытый",
+  "request": "запрашивать",
+  "records": "документы; учёт",
+  "searching": "разыскивая",
+  "discovered": "обнаружили",
+  "pages": "страницы",
+  "survived": "уцелели",
+  "bills": "счета",
+  "receipts": "квитанции",
+  "stored": "хранились",
+  "different": "другой, не такой",
+  "building": "здание",
+  "so": "поэтому; (so what) так",
+  "agency's": "управления",
+  "accountants": "бухгалтеры",
+  "excellent": "превосходный",
+  "showed": "показывали",
+  "kind": "вид, род",
+  "admiral": "адмирал",
+  "stansfield": "Стэнсфилд (имя)",
+  "turner": "Тёрнер (фамилия)",
+  "informed": "сообщил, проинформировал; (informed consent) информированный",
+  "august": "август",
+  "held": "провёл (слушания)",
+  "hearings": "слушания",
+  "edward": "Эдвард (имя)",
+  "kennedy": "Кеннеди (фамилия)",
+  "politicians": "политики",
+  "taken": "(taken part) участвовали",
+  "experiments": "эксперименты",
+  "surviving": "уцелевший",
+  "officials": "чиновники",
+  "spoke": "выступали",
+  "reliable": "надёжный",
+  "anyone's": "чей-либо",
+  "tell": "говорить",
+  "frightened": "испуганный",
+  "impossible": "невозможно",
+  "predict": "предсказать",
+  "signed": "подписал",
+  "executive": "(executive order) указ (исполнительный)",
+  "among": "(among other things) помимо прочего",
+  "banned": "запретил",
+  "however": "однако",
+  "road": "путь, дорога",
+  "end": "закончиться",
+  "son": "сын",
+  "eric": "Эрик (имя)",
+  "spent": "потратил",
+  "life": "жизнь",
+  "trying": "пытаясь",
+  "find": "(find out) выяснить",
+  "really": "на самом деле",
+  "happened": "произошло",
+  "father's": "отца",
+  "grave": "могила",
+  "opened": "вскрыть, открыть",
+  "forensic": "судебный (forensic scientist — судебный эксперт)",
+  "expert": "специалист, эксперт",
+  "studies": "изучает",
+  "bodies": "тела",
+  "evidence": "улики, доказательства",
+  "examined": "осмотрел",
+  "remains": "останки",
+  "head": "голова",
+  "injury": "травма",
+  "opinion": "мнение",
+  "fall": "падение",
+  "murdered": "убит",
+  "dangerous": "опасный",
+  "talk": "проговориться",
+  "prosecutors": "прокуроры",
+  "investigated": "расследовали",
+  "again": "снова",
+  "charged": "обвинён (no one was charged — никому не предъявили обвинений)",
+  "lawsuit": "иск",
+  "sons": "сыновья",
+  "against": "против",
+  "dismissed": "отклонён",
+  "judge": "судья",
+  "disagree": "не соглашаться, спорить",
+  "died": "погиб, умер",
+  "proof": "доказательство",
+  "murder": "убийство",
+  "open": "открытый",
+  "question": "вопрос",
+  "appears": "встречается, появляется",
+  "theories": "теории",
+  "here": "здесь",
+  "facts": "факты",
+  "claims": "заявления, домыслы",
+  "ended": "закончилась",
+  "singers": "певцы",
+  "actors": "актёры",
+  "are": "(есть) — вы/они",
+  "controlled": "контролируемы",
+  "ideas": "идеи",
+  "show": "показывают",
+  "real": "реальный",
+  "consent": "согласие",
+  "failed": "не удалось",
+  "achieve": "достичь",
+  "main": "главный",
+  "goal": "цель",
+  "does": "(вспом. гл.)",
+  "matter": "иметь значение, быть важным",
+  "fear": "страх",
+  "shame": "позор, стыд",
+  "follows": "следует, наступает",
+  "decides": "решает",
+  "rules": "правила",
+  "apply": "относиться, применяться",
+  "shows": "показывает",
+  "must": "должен",
+  "always": "всегда",
+  "means": "означает",
+  "experiment": "эксперимент",
+  "freely": "добровольно, свободно",
+  "agree": "соглашаться",
+  "few": "несколько",
+  "somebody": "кто-то",
+  "forgot": "забыл",
+  "destroy": "уничтожить"
+ },
+ "vocab": {
+  "unfortunately": 335,
+  "accident": 319,
+  "amazing": 171,
+  "approach": 611,
+  "break": 140,
+  "established": 573,
+  "excellent": 430,
+  "expectations": 435,
+  "force": 461,
+  "forced": 461,
+  "grave": 437,
+  "investigated": 569,
+  "knowledge": 101,
+  "lawyers": 281,
+  "learn": 15,
+  "learned": 15,
+  "managed": 609,
+  "meaning": 279,
+  "mind": 302,
+  "pressure": 583,
+  "road": 409,
+  "shame": 493,
+  "talk": 135
+ }
+}

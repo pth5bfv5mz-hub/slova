@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did Hanna Wirth come up the mountain to the hotel?",
+  "q_ru": "Зачем Ханна Вирт приехала в горы, в отель?",
+  "options": [
+   "To spend a quiet holiday in the snow",
+   "To buy the slopes from Matthias Ober",
+   "To watch a contract signing and take the document back",
+   "To take photos of the mountains"
+  ],
+  "options_ru": [
+   "Чтобы спокойно отдохнуть в снегах",
+   "Чтобы купить склоны у Маттиаса Обера",
+   "Чтобы присутствовать при подписании договора и увезти документ",
+   "Чтобы фотографировать горы"
+  ],
+  "answer": 2,
+  "explain_ru": "Она нотариус и приехала «to watch two men sign a contract and to take the signed document safely back to her office». Фотографировать горы приехал Нильс."
+ },
+ {
+  "q": "\"The contract had vanished.\" What does \"vanished\" mean here?",
+  "q_ru": "«The contract had vanished». Что здесь значит «vanished»?",
+  "options": [
+   "It was torn into pieces",
+   "It had disappeared",
+   "It had become wet",
+   "It had been signed again"
+  ],
+  "options_ru": [
+   "Его разорвали на куски",
+   "Он исчез",
+   "Он намок",
+   "Его подписали заново"
+  ],
+  "answer": 1,
+  "explain_ru": "Vanish — исчезнуть: сейф открыли, а внутри «an empty box» — договора там не было."
+ },
+ {
+  "q": "What did the old photograph above the fireplace show Hanna?",
+  "q_ru": "Что Ханна поняла по старой фотографии над камином?",
+  "options": [
+   "Matthias and Edda were brother and sister",
+   "Gregor had visited the hotel before",
+   "Nils had once worked at the hotel",
+   "Edda had once owned the north meadow"
+  ],
+  "options_ru": [
+   "Маттиас и Эдда — брат и сестра",
+   "Грегор уже бывал в этом отеле",
+   "Нильс когда-то работал в отеле",
+   "Эдда когда-то владела северным лугом"
+  ],
+  "answer": 0,
+  "explain_ru": "Под фото детей подписано «Matthias and Edda, 1958» — Ханна понимает: «Brother and sister». А у сестры был ключ от сейфа."
+ },
+ {
+  "q": "Why had Matthias asked Hanna to read the contract aloud?",
+  "q_ru": "Почему Маттиас попросил Ханну прочитать договор вслух?",
+  "options": [
+   "He could not read at all",
+   "His eyes were really very bad",
+   "He wanted Gregor to feel nervous",
+   "He wanted to hear every word with a witness present"
+  ],
+  "options_ru": [
+   "Он совсем не умел читать",
+   "У него действительно было очень плохое зрение",
+   "Он хотел, чтобы Грегор понервничал",
+   "Он хотел услышать каждое слово при свидетеле"
+  ],
+  "answer": 3,
+  "explain_ru": "Утром он легко читает газету без очков. Он сам объясняет: «I wanted to hear every word in front of a witness». Он не доверял Грегору."
+ },
+ {
+  "q": "What happened to the contract during the two minutes of darkness?",
+  "q_ru": "Что случилось с договором за две минуты темноты?",
+  "options": [
+   "Somebody opened the hotel safe",
+   "Page three was replaced with a different page",
+   "The silver paper clip was lost",
+   "Matthias signed the wrong copy by mistake"
+  ],
+  "options_ru": [
+   "Кто-то открыл сейф отеля",
+   "Третью страницу заменили другой",
+   "Серебряная скрепка потерялась",
+   "Маттиас по ошибке подписал не ту копию"
+  ],
+  "answer": 1,
+  "explain_ru": "Страницы были скреплены скрепкой, и в темноте было легко «take out one page and put in another». В подменённой странице продавалась вся долина: «Fields 12 to 47»."
+ },
+ {
+  "q": "What did Hanna never do again after this story?",
+  "q_ru": "Чего Ханна больше никогда не делала после этой истории?",
+  "options": [
+   "She never went back to the mountains",
+   "She never worked as a notary again",
+   "She never used lavender soap again",
+   "She never used a paper clip again"
+  ],
+  "options_ru": [
+   "Никогда не возвращалась в горы",
+   "Никогда больше не работала нотариусом",
+   "Никогда не пользовалась лавандовым мылом",
+   "Никогда больше не пользовалась скрепкой"
+  ],
+  "answer": 3,
+  "explain_ru": "Последняя фраза: «But she never used a paper clip again». В горы она, наоборот, ездила каждый год: «She always went»."
+ }
+]

@@ -1,0 +1,1234 @@
+{
+ "id": 61,
+ "level": "B1",
+ "cat": "cons",
+ "title_en": "Project Stargate: The Psychic Spies",
+ "title_ru": "Проект «Звёздные врата»: шпионы-экстрасенсы",
+ "genre": "Конспирология: правда",
+ "summary_ru": "Более двадцати лет правительство США тайно платило людям, которые пытались «увидеть» вражеские объекты силой мысли, — документы подтверждают, что программа существовала, но доказательств того, что она работала, так и не нашлось.",
+ "paragraphs": [
+  {
+   "en": "A man sits alone in a small, dark room at an army base in Maryland. In front of him there is a pencil, a pile of white paper and nothing else. Somewhere in the building, in a sealed envelope that he is not allowed to see, there is a set of map coordinates of a place thousands of kilometres away. The man closes his eyes and waits. After a few minutes, he starts to draw: a tall tower, a road, something round, like a huge wheel.",
+   "ru": "Мужчина сидит один в маленькой тёмной комнате на армейской базе в штате Мэриленд. Перед ним лежат карандаш, стопка белой бумаги — и больше ничего. Где-то в здании, в запечатанном конверте, который ему нельзя видеть, лежат координаты места, находящегося за тысячи километров отсюда. Мужчина закрывает глаза и ждёт. Через несколько минут он начинает рисовать: высокую башню, дорогу, что-то круглое, похожее на огромное колесо.",
+   "s": [
+    [
+     "A man sits alone in a small, dark room at an army base in Maryland.",
+     "Мужчина сидит один в маленькой тёмной комнате на армейской базе в штате Мэриленд."
+    ],
+    [
+     "In front of him there is a pencil, a pile of white paper and nothing else.",
+     "Перед ним лежат карандаш, стопка белой бумаги — и больше ничего."
+    ],
+    [
+     "Somewhere in the building, in a sealed envelope that he is not allowed to see, there is a set of map coordinates of a place thousands of kilometres away.",
+     "Где-то в здании, в запечатанном конверте, который ему нельзя видеть, лежат координаты места, находящегося за тысячи километров отсюда."
+    ],
+    [
+     "The man closes his eyes and waits.",
+     "Мужчина закрывает глаза и ждёт."
+    ],
+    [
+     "After a few minutes, he starts to draw: a tall tower, a road, something round, like a huge wheel.",
+     "Через несколько минут он начинает рисовать: высокую башню, дорогу, что-то круглое, похожее на огромное колесо."
+    ]
+   ]
+  },
+  {
+   "en": "It sounds like a scene from a science fiction film. But for more than twenty years, the United States government really paid people to try to spy on its enemies with nothing but their minds. The secret programme had several code names, and the last and most famous one was Stargate. It was closed in 1995.",
+   "ru": "Это похоже на сцену из научно-фантастического фильма. Но более двадцати лет правительство Соединённых Штатов действительно платило людям за то, чтобы они пытались шпионить за врагами страны, используя только силу мысли. У секретной программы было несколько кодовых названий, и последним и самым известным из них было «Звёздные врата» (Stargate). Её закрыли в 1995 году.",
+   "s": [
+    [
+     "It sounds like a scene from a science fiction film.",
+     "Это похоже на сцену из научно-фантастического фильма."
+    ],
+    [
+     "But for more than twenty years, the United States government really paid people to try to spy on its enemies with nothing but their minds.",
+     "Но более двадцати лет правительство Соединённых Штатов действительно платило людям за то, чтобы они пытались шпионить за врагами страны, используя только силу мысли."
+    ],
+    [
+     "The secret programme had several code names, and the last and most famous one was Stargate.",
+     "У секретной программы было несколько кодовых названий, и последним и самым известным из них было «Звёздные врата» (Stargate)."
+    ],
+    [
+     "It was closed in 1995.",
+     "Её закрыли в 1995 году."
+    ]
+   ]
+  },
+  {
+   "en": "For many years, stories about American \"psychic spies\" sounded like a typical conspiracy theory. Today we know that the programme really existed, because the government itself has made thousands of pages of documents public. But a much more difficult question remains: did any of it actually work?",
+   "ru": "Долгие годы рассказы об американских «шпионах-экстрасенсах» звучали как типичная теория заговора. Сегодня мы знаем, что программа действительно существовала, потому что само правительство опубликовало тысячи страниц документов. Но остаётся гораздо более трудный вопрос: работало ли хоть что-нибудь из этого на самом деле?",
+   "s": [
+    [
+     "For many years, stories about American \"psychic spies\" sounded like a typical conspiracy theory.",
+     "Долгие годы рассказы об американских «шпионах-экстрасенсах» звучали как типичная теория заговора."
+    ],
+    [
+     "Today we know that the programme really existed, because the government itself has made thousands of pages of documents public.",
+     "Сегодня мы знаем, что программа действительно существовала, потому что само правительство опубликовало тысячи страниц документов."
+    ],
+    [
+     "But a much more difficult question remains: did any of it actually work?",
+     "Но остаётся гораздо более трудный вопрос: работало ли хоть что-нибудь из этого на самом деле?"
+    ]
+   ]
+  },
+  {
+   "en": "To understand why serious people spent money on such ideas, we must go back to the Cold War. In the early 1970s, American intelligence agencies received reports that the Soviet Union was studying \"psychic\" abilities, such as reading other people's thoughts or influencing objects with the mind. Nobody knew how serious this Soviet research was. However, American officials were afraid of falling behind.",
+   "ru": "Чтобы понять, почему серьёзные люди тратили деньги на такие идеи, нужно вернуться во времена холодной войны. В начале 1970-х годов американские спецслужбы получали сообщения о том, что Советский Союз изучает «экстрасенсорные» способности, например чтение чужих мыслей или воздействие на предметы силой мысли. Никто не знал, насколько серьёзными были эти советские исследования. Однако американские чиновники боялись отстать.",
+   "s": [
+    [
+     "To understand why serious people spent money on such ideas, we must go back to the Cold War.",
+     "Чтобы понять, почему серьёзные люди тратили деньги на такие идеи, нужно вернуться во времена холодной войны."
+    ],
+    [
+     "In the early 1970s, American intelligence agencies received reports that the Soviet Union was studying \"psychic\" abilities, such as reading other people's thoughts or influencing objects with the mind.",
+     "В начале 1970-х годов американские спецслужбы получали сообщения о том, что Советский Союз изучает «экстрасенсорные» способности, например чтение чужих мыслей или воздействие на предметы силой мысли."
+    ],
+    [
+     "Nobody knew how serious this Soviet research was.",
+     "Никто не знал, насколько серьёзными были эти советские исследования."
+    ],
+    [
+     "However, American officials were afraid of falling behind.",
+     "Однако американские чиновники боялись отстать."
+    ]
+   ]
+  },
+  {
+   "en": "Their logic was simple. Even if the chance of success was very small, nobody wanted the enemy to have a secret weapon that America did not have. This kind of worry drove many strange projects on both sides during the Cold War.",
+   "ru": "Их логика была простой. Даже если шанс на успех был очень мал, никто не хотел, чтобы у противника было секретное оружие, которого нет у Америки. Подобное беспокойство в годы холодной войны стояло за множеством странных проектов с обеих сторон.",
+   "s": [
+    [
+     "Their logic was simple.",
+     "Их логика была простой."
+    ],
+    [
+     "Even if the chance of success was very small, nobody wanted the enemy to have a secret weapon that America did not have.",
+     "Даже если шанс на успех был очень мал, никто не хотел, чтобы у противника было секретное оружие, которого нет у Америки."
+    ],
+    [
+     "This kind of worry drove many strange projects on both sides during the Cold War.",
+     "Подобное беспокойство в годы холодной войны стояло за множеством странных проектов с обеих сторон."
+    ]
+   ]
+  },
+  {
+   "en": "In 1972, the CIA began to pay for experiments at the Stanford Research Institute, known as SRI, in California. The work was led by two physicists who specialised in lasers, Russell Targ and Harold Puthoff. They wanted to test whether some people could receive information about distant places without using their normal senses.",
+   "ru": "В 1972 году ЦРУ начало финансировать эксперименты в Стэнфордском исследовательском институте (SRI) в Калифорнии. Работой руководили два физика, специалисты по лазерам, — Рассел Тарг и Гарольд Путхофф. Они хотели проверить, могут ли некоторые люди получать сведения о далёких местах, не пользуясь обычными органами чувств.",
+   "s": [
+    [
+     "In 1972, the CIA began to pay for experiments at the Stanford Research Institute, known as SRI, in California.",
+     "В 1972 году ЦРУ начало финансировать эксперименты в Стэнфордском исследовательском институте (SRI) в Калифорнии."
+    ],
+    [
+     "The work was led by two physicists who specialised in lasers, Russell Targ and Harold Puthoff.",
+     "Работой руководили два физика, специалисты по лазерам, — Рассел Тарг и Гарольд Путхофф."
+    ],
+    [
+     "They wanted to test whether some people could receive information about distant places without using their normal senses.",
+     "Они хотели проверить, могут ли некоторые люди получать сведения о далёких местах, не пользуясь обычными органами чувств."
+    ]
+   ]
+  },
+  {
+   "en": "One of their most important subjects was Ingo Swann, an artist from New York who said that he had psychic powers. Swann is often credited with the term \"remote viewing\", which means trying to describe a place, a person or an object that is far away, using only the mind. Another famous subject was Pat Price, a former police official from California. Supporters of the programme later said that Price had described secret sites with surprising details. Critics replied that his descriptions mixed correct details with many wrong ones.",
+   "ru": "Одним из их самых важных испытуемых был Инго Свонн, художник из Нью-Йорка, который утверждал, что обладает экстрасенсорными способностями. Свонну часто приписывают термин «удалённое видение» (remote viewing), который означает попытку описать место, человека или предмет, находящиеся далеко, с помощью одного лишь разума. Другим известным испытуемым был Пэт Прайс, бывший полицейский начальник из Калифорнии. Сторонники программы позже говорили, что Прайс описывал секретные объекты с поразительными подробностями. Критики отвечали, что в его описаниях верные подробности перемешаны с множеством неверных.",
+   "s": [
+    [
+     "One of their most important subjects was Ingo Swann, an artist from New York who said that he had psychic powers.",
+     "Одним из их самых важных испытуемых был Инго Свонн, художник из Нью-Йорка, который утверждал, что обладает экстрасенсорными способностями."
+    ],
+    [
+     "Swann is often credited with the term \"remote viewing\", which means trying to describe a place, a person or an object that is far away, using only the mind.",
+     "Свонну часто приписывают термин «удалённое видение» (remote viewing), который означает попытку описать место, человека или предмет, находящиеся далеко, с помощью одного лишь разума."
+    ],
+    [
+     "Another famous subject was Pat Price, a former police official from California.",
+     "Другим известным испытуемым был Пэт Прайс, бывший полицейский начальник из Калифорнии."
+    ],
+    [
+     "Supporters of the programme later said that Price had described secret sites with surprising details.",
+     "Сторонники программы позже говорили, что Прайс описывал секретные объекты с поразительными подробностями."
+    ],
+    [
+     "Critics replied that his descriptions mixed correct details with many wrong ones.",
+     "Критики отвечали, что в его описаниях верные подробности перемешаны с множеством неверных."
+    ]
+   ]
+  },
+  {
+   "en": "The scientists at SRI also tested Uri Geller, a performer from Israel who became famous for bending spoons on stage and on television screens around the world. In 1974, Targ and Puthoff published a paper about some of their experiments in the respected science journal Nature. Some of the experiments in the paper involved Geller, and others involved Pat Price. The journal printed it together with a note explaining that the reviewers had serious doubts about the way the tests had been done.",
+   "ru": "Учёные из SRI также проверяли Ури Геллера, артиста из Израиля, который прославился тем, что гнул ложки на сцене и на телеэкранах по всему миру. В 1974 году Тарг и Путхофф опубликовали статью о некоторых своих экспериментах в уважаемом научном журнале Nature. Часть экспериментов, описанных в статье, проводилась с Геллером, а другие — с Пэтом Прайсом. Журнал напечатал её вместе с примечанием, в котором объяснялось, что у рецензентов были серьёзные сомнения в том, как проводились испытания.",
+   "s": [
+    [
+     "The scientists at SRI also tested Uri Geller, a performer from Israel who became famous for bending spoons on stage and on television screens around the world.",
+     "Учёные из SRI также проверяли Ури Геллера, артиста из Израиля, который прославился тем, что гнул ложки на сцене и на телеэкранах по всему миру."
+    ],
+    [
+     "In 1974, Targ and Puthoff published a paper about some of their experiments in the respected science journal Nature.",
+     "В 1974 году Тарг и Путхофф опубликовали статью о некоторых своих экспериментах в уважаемом научном журнале Nature."
+    ],
+    [
+     "Some of the experiments in the paper involved Geller, and others involved Pat Price.",
+     "Часть экспериментов, описанных в статье, проводилась с Геллером, а другие — с Пэтом Прайсом."
+    ],
+    [
+     "The journal printed it together with a note explaining that the reviewers had serious doubts about the way the tests had been done.",
+     "Журнал напечатал её вместе с примечанием, в котором объяснялось, что у рецензентов были серьёзные сомнения в том, как проводились испытания."
+    ]
+   ]
+  },
+  {
+   "en": "Many stage magicians, especially James Randi, showed that bending spoons and similar tricks could be done without any special powers. To the annoyance of many scientists, however, the idea of psychic spies did not go away. Instead, it moved from the laboratory to the army.",
+   "ru": "Многие фокусники, особенно Джеймс Рэнди, показали, что сгибание ложек и подобные трюки можно выполнить без всяких особых способностей. Однако, к раздражению многих учёных, идея шпионов-экстрасенсов никуда не делась. Вместо этого она перебралась из лаборатории в армию.",
+   "s": [
+    [
+     "Many stage magicians, especially James Randi, showed that bending spoons and similar tricks could be done without any special powers.",
+     "Многие фокусники, особенно Джеймс Рэнди, показали, что сгибание ложек и подобные трюки можно выполнить без всяких особых способностей."
+    ],
+    [
+     "To the annoyance of many scientists, however, the idea of psychic spies did not go away.",
+     "Однако, к раздражению многих учёных, идея шпионов-экстрасенсов никуда не делась."
+    ],
+    [
+     "Instead, it moved from the laboratory to the army.",
+     "Вместо этого она перебралась из лаборатории в армию."
+    ]
+   ]
+  },
+  {
+   "en": "In the late 1970s, the US Army set up its own small unit at Fort Meade in Maryland. Over the years, the programme changed its code name several times, from Gondola Wish and Grill Flame to Sun Streak, and finally to Stargate in 1991. In the 1980s, control of the work passed to the Defense Intelligence Agency, the military's own intelligence service.",
+   "ru": "В конце 1970-х годов армия США создала собственное небольшое подразделение в Форт-Миде, штат Мэриленд. За эти годы программа несколько раз меняла кодовое название — от «Гондола Уиш» и «Гриль Флейм» до «Сан Стрик» и, наконец, в 1991 году — «Звёздные врата». В 1980-х годах руководство работой перешло к Разведывательному управлению министерства обороны — собственной разведывательной службе военных.",
+   "s": [
+    [
+     "In the late 1970s, the US Army set up its own small unit at Fort Meade in Maryland.",
+     "В конце 1970-х годов армия США создала собственное небольшое подразделение в Форт-Миде, штат Мэриленд."
+    ],
+    [
+     "Over the years, the programme changed its code name several times, from Gondola Wish and Grill Flame to Sun Streak, and finally to Stargate in 1991.",
+     "За эти годы программа несколько раз меняла кодовое название — от «Гондола Уиш» и «Гриль Флейм» до «Сан Стрик» и, наконец, в 1991 году — «Звёздные врата»."
+    ],
+    [
+     "In the 1980s, control of the work passed to the Defense Intelligence Agency, the military's own intelligence service.",
+     "В 1980-х годах руководство работой перешло к Разведывательному управлению министерства обороны — собственной разведывательной службе военных."
+    ]
+   ]
+  },
+  {
+   "en": "The viewers were ordinary soldiers and civilians, chosen because they seemed to have a natural talent. One of the first recruits was Joseph McMoneagle, an Army intelligence officer, who later became one of the best-known remote viewers. Each year, someone in the government had to approve the money for the unit, and very few people knew what it really did.",
+   "ru": "«Видящими» были обычные солдаты и гражданские лица, отобранные потому, что у них, как казалось, был природный талант. Одним из первых новобранцев стал Джозеф Макмонигл, офицер армейской разведки, который позже стал одним из самых известных «видящих». Каждый год кто-то в правительстве должен был утверждать деньги на подразделение, и очень немногие знали, чем оно на самом деле занимается.",
+   "s": [
+    [
+     "The viewers were ordinary soldiers and civilians, chosen because they seemed to have a natural talent.",
+     "«Видящими» были обычные солдаты и гражданские лица, отобранные потому, что у них, как казалось, был природный талант."
+    ],
+    [
+     "One of the first recruits was Joseph McMoneagle, an Army intelligence officer, who later became one of the best-known remote viewers.",
+     "Одним из первых новобранцев стал Джозеф Макмонигл, офицер армейской разведки, который позже стал одним из самых известных «видящих»."
+    ],
+    [
+     "Each year, someone in the government had to approve the money for the unit, and very few people knew what it really did.",
+     "Каждый год кто-то в правительстве должен был утверждать деньги на подразделение, и очень немногие знали, чем оно на самом деле занимается."
+    ]
+   ]
+  },
+  {
+   "en": "The viewers were trained to follow strict steps. A monitor sat in the room with the viewer, but often he did not know the target either, so that he could not give any hints by accident. The viewer was asked to write down only simple first impressions, such as shapes, colours, sounds and feelings.",
+   "ru": "«Видящих» учили следовать строгим этапам. В комнате вместе с «видящим» сидел ведущий, но часто он и сам не знал цели, чтобы случайно не дать никаких подсказок. «Видящего» просили записывать только простые первые впечатления: формы, цвета, звуки и ощущения.",
+   "s": [
+    [
+     "The viewers were trained to follow strict steps.",
+     "«Видящих» учили следовать строгим этапам."
+    ],
+    [
+     "A monitor sat in the room with the viewer, but often he did not know the target either, so that he could not give any hints by accident.",
+     "В комнате вместе с «видящим» сидел ведущий, но часто он и сам не знал цели, чтобы случайно не дать никаких подсказок."
+    ],
+    [
+     "The viewer was asked to write down only simple first impressions, such as shapes, colours, sounds and feelings.",
+     "«Видящего» просили записывать только простые первые впечатления: формы, цвета, звуки и ощущения."
+    ]
+   ]
+  },
+  {
+   "en": "Naming things too early was seen as a trap. If a viewer saw something round and decided at once that it was a stadium, his mind would quickly fill the picture with familiar details that were not really there. The impressions were often weak and unclear, like shapes in a mist, and it was a real challenge to convey them on paper without adding imagination.",
+   "ru": "Слишком раннее называние предметов считалось ловушкой. Если «видящий» замечал что-то круглое и сразу решал, что это стадион, его разум быстро заполнял картинку знакомыми деталями, которых на самом деле не было. Впечатления часто были слабыми и неясными, как очертания в тумане, и передать их на бумаге, ничего не добавив от себя, было настоящим испытанием.",
+   "s": [
+    [
+     "Naming things too early was seen as a trap.",
+     "Слишком раннее называние предметов считалось ловушкой."
+    ],
+    [
+     "If a viewer saw something round and decided at once that it was a stadium, his mind would quickly fill the picture with familiar details that were not really there.",
+     "Если «видящий» замечал что-то круглое и сразу решал, что это стадион, его разум быстро заполнял картинку знакомыми деталями, которых на самом деле не было."
+    ],
+    [
+     "The impressions were often weak and unclear, like shapes in a mist, and it was a real challenge to convey them on paper without adding imagination.",
+     "Впечатления часто были слабыми и неясными, как очертания в тумане, и передать их на бумаге, ничего не добавив от себя, было настоящим испытанием."
+    ]
+   ]
+  },
+  {
+   "en": "The unit's \"customers\" were military and intelligence officers who wanted help with real problems. They asked about Soviet weapons, missing aircraft and people that the government was looking for. For example, viewers were asked about the American hostages who were held in Iran in 1979 to 1981. The customers then judged whether the results had been useful.",
+   "ru": "«Заказчиками» подразделения были военные офицеры и сотрудники разведки, которым нужна была помощь в реальных задачах. Они спрашивали о советском оружии, пропавших самолётах и людях, которых разыскивало правительство. Например, «видящих» спрашивали об американских заложниках, которых удерживали в Иране с 1979 по 1981 год. Затем заказчики оценивали, оказались ли результаты полезными.",
+   "s": [
+    [
+     "The unit's \"customers\" were military and intelligence officers who wanted help with real problems.",
+     "«Заказчиками» подразделения были военные офицеры и сотрудники разведки, которым нужна была помощь в реальных задачах."
+    ],
+    [
+     "They asked about Soviet weapons, missing aircraft and people that the government was looking for.",
+     "Они спрашивали о советском оружии, пропавших самолётах и людях, которых разыскивало правительство."
+    ],
+    [
+     "For example, viewers were asked about the American hostages who were held in Iran in 1979 to 1981.",
+     "Например, «видящих» спрашивали об американских заложниках, которых удерживали в Иране с 1979 по 1981 год."
+    ],
+    [
+     "The customers then judged whether the results had been useful.",
+     "Затем заказчики оценивали, оказались ли результаты полезными."
+    ]
+   ]
+  },
+  {
+   "en": "Supporters later told remarkable stories about these sessions. In some of them, a viewer drew a building or a village that seemed very similar to the real target. But such stories are hard to judge. People naturally remember the surprising hits and forget the many misses, and a vague drawing of a tower and a road could match thousands of places on Earth.",
+   "ru": "Позже сторонники рассказывали о таких сеансах удивительные истории. В некоторых из них «видящий» нарисовал здание или деревню, которые казались очень похожими на настоящую цель. Но о таких историях трудно судить. Люди, естественно, запоминают удивительные попадания и забывают многочисленные промахи, а расплывчатый рисунок башни и дороги может подойти к тысячам мест на Земле.",
+   "s": [
+    [
+     "Supporters later told remarkable stories about these sessions.",
+     "Позже сторонники рассказывали о таких сеансах удивительные истории."
+    ],
+    [
+     "In some of them, a viewer drew a building or a village that seemed very similar to the real target.",
+     "В некоторых из них «видящий» нарисовал здание или деревню, которые казались очень похожими на настоящую цель."
+    ],
+    [
+     "But such stories are hard to judge.",
+     "Но о таких историях трудно судить."
+    ],
+    [
+     "People naturally remember the surprising hits and forget the many misses, and a vague drawing of a tower and a road could match thousands of places on Earth.",
+     "Люди, естественно, запоминают удивительные попадания и забывают многочисленные промахи, а расплывчатый рисунок башни и дороги может подойти к тысячам мест на Земле."
+    ]
+   ]
+  },
+  {
+   "en": "Inside the intelligence world, opinions about the unit were mixed. Some officers believed that it might one day produce something valuable. Others were confused about why the money was being spent at all, and many were worried about what Congress and the public would say if the secret came out. In total, the various projects cost about 20 million dollars.",
+   "ru": "Внутри разведывательного сообщества мнения о подразделении расходились. Некоторые офицеры верили, что однажды оно может дать что-то ценное. Другие не понимали, зачем вообще тратятся эти деньги, и многие беспокоились о том, что скажут Конгресс и общество, если тайна раскроется. В общей сложности различные проекты обошлись примерно в 20 миллионов долларов.",
+   "s": [
+    [
+     "Inside the intelligence world, opinions about the unit were mixed.",
+     "Внутри разведывательного сообщества мнения о подразделении расходились."
+    ],
+    [
+     "Some officers believed that it might one day produce something valuable.",
+     "Некоторые офицеры верили, что однажды оно может дать что-то ценное."
+    ],
+    [
+     "Others were confused about why the money was being spent at all, and many were worried about what Congress and the public would say if the secret came out.",
+     "Другие не понимали, зачем вообще тратятся эти деньги, и многие беспокоились о том, что скажут Конгресс и общество, если тайна раскроется."
+    ],
+    [
+     "In total, the various projects cost about 20 million dollars.",
+     "В общей сложности различные проекты обошлись примерно в 20 миллионов долларов."
+    ]
+   ]
+  },
+  {
+   "en": "In 1995, the programme was moved to the CIA, which decided to find out once and for all whether it was worth keeping. It asked an independent organisation, the American Institutes for Research, to carry out an evaluation. Two experts were invited to study the evidence: Jessica Utts, a statistician, and Ray Hyman, a psychologist who had long been a critic of psychic research.",
+   "ru": "В 1995 году программу передали ЦРУ, которое решило раз и навсегда выяснить, стоит ли её сохранять. Оно попросило независимую организацию — Американские институты исследований — провести оценку. Изучить доказательства пригласили двух экспертов: статистика Джессику Аттс и психолога Рэя Хаймана, который давно критиковал исследования экстрасенсорики.",
+   "s": [
+    [
+     "In 1995, the programme was moved to the CIA, which decided to find out once and for all whether it was worth keeping.",
+     "В 1995 году программу передали ЦРУ, которое решило раз и навсегда выяснить, стоит ли её сохранять."
+    ],
+    [
+     "It asked an independent organisation, the American Institutes for Research, to carry out an evaluation.",
+     "Оно попросило независимую организацию — Американские институты исследований — провести оценку."
+    ],
+    [
+     "Two experts were invited to study the evidence: Jessica Utts, a statistician, and Ray Hyman, a psychologist who had long been a critic of psychic research.",
+     "Изучить доказательства пригласили двух экспертов: статистика Джессику Аттс и психолога Рэя Хаймана, который давно критиковал исследования экстрасенсорики."
+    ]
+   ]
+  },
+  {
+   "en": "Interestingly, the two experts did not reach the same conclusion about the laboratory experiments. Utts looked at the statistics and found that the results were better than pure chance. In her opinion, this showed that psychic functioning was real and had been well established.",
+   "ru": "Интересно, что два эксперта пришли к разным выводам о лабораторных экспериментах. Аттс изучила статистику и обнаружила, что результаты были лучше чистой случайности. По её мнению, это показывало, что экстрасенсорные способности реальны и надёжно подтверждены.",
+   "s": [
+    [
+     "Interestingly, the two experts did not reach the same conclusion about the laboratory experiments.",
+     "Интересно, что два эксперта пришли к разным выводам о лабораторных экспериментах."
+    ],
+    [
+     "Utts looked at the statistics and found that the results were better than pure chance.",
+     "Аттс изучила статистику и обнаружила, что результаты были лучше чистой случайности."
+    ],
+    [
+     "In her opinion, this showed that psychic functioning was real and had been well established.",
+     "По её мнению, это показывало, что экстрасенсорные способности реальны и надёжно подтверждены."
+    ]
+   ]
+  },
+  {
+   "en": "What does \"better than chance\" mean? Imagine that a viewer has to choose the correct target from five pictures. By pure guessing, he will be right about one time in five. If he is right a little more often over thousands of tests, a statistician can say that the result is unlikely to be just luck. But statistics alone cannot tell us why it happened.",
+   "ru": "Что значит «лучше случайности»? Представьте, что «видящий» должен выбрать правильную цель из пяти картинок. Просто угадывая, он будет прав примерно в одном случае из пяти. Если на протяжении тысяч испытаний он оказывается прав чуть чаще, статистик может сказать, что такой результат вряд ли объясняется простым везением. Но одна лишь статистика не может сказать нам, почему так произошло.",
+   "s": [
+    [
+     "What does \"better than chance\" mean?",
+     "Что значит «лучше случайности»?"
+    ],
+    [
+     "Imagine that a viewer has to choose the correct target from five pictures.",
+     "Представьте, что «видящий» должен выбрать правильную цель из пяти картинок."
+    ],
+    [
+     "By pure guessing, he will be right about one time in five.",
+     "Просто угадывая, он будет прав примерно в одном случае из пяти."
+    ],
+    [
+     "If he is right a little more often over thousands of tests, a statistician can say that the result is unlikely to be just luck.",
+     "Если на протяжении тысяч испытаний он оказывается прав чуть чаще, статистик может сказать, что такой результат вряд ли объясняется простым везением."
+    ],
+    [
+     "But statistics alone cannot tell us why it happened.",
+     "Но одна лишь статистика не может сказать нам, почему так произошло."
+    ]
+   ]
+  },
+  {
+   "en": "Hyman firmly disagreed. He replied that results which are better than chance do not prove that psychic powers exist. Small mistakes in the way experiments are designed or judged can also produce such results. He argued that the experiments had to be repeated successfully by independent scientists before anyone could accept such an unusual claim.",
+   "ru": "Хайман был решительно не согласен. Он ответил, что результаты лучше случайных не доказывают существования экстрасенсорных способностей. К таким результатам могут приводить и небольшие ошибки в том, как эксперименты планируются или оцениваются. Он утверждал, что эксперименты должны быть успешно повторены независимыми учёными, прежде чем кто-либо сможет принять столь необычное утверждение.",
+   "s": [
+    [
+     "Hyman firmly disagreed.",
+     "Хайман был решительно не согласен."
+    ],
+    [
+     "He replied that results which are better than chance do not prove that psychic powers exist.",
+     "Он ответил, что результаты лучше случайных не доказывают существования экстрасенсорных способностей."
+    ],
+    [
+     "Small mistakes in the way experiments are designed or judged can also produce such results.",
+     "К таким результатам могут приводить и небольшие ошибки в том, как эксперименты планируются или оцениваются."
+    ],
+    [
+     "He argued that the experiments had to be repeated successfully by independent scientists before anyone could accept such an unusual claim.",
+     "Он утверждал, что эксперименты должны быть успешно повторены независимыми учёными, прежде чем кто-либо сможет принять столь необычное утверждение."
+    ]
+   ]
+  },
+  {
+   "en": "On the most important question, however, the experts agreed. Neither of them found evidence that remote viewing had ever been useful in real intelligence work. The final report concluded that the descriptions were usually too vague, often wrong, and could not be used to guide any operation. Even when a viewer seemed to be right, the information was so general that it needed a lot of interpretation, and it never told the customers anything they could act on.",
+   "ru": "Однако по самому важному вопросу эксперты согласились. Ни один из них не нашёл доказательств того, что удалённое видение когда-либо приносило пользу в реальной разведывательной работе. В итоговом отчёте был сделан вывод, что описания обычно были слишком расплывчатыми, часто неверными и не могли служить основой ни для какой операции. Даже когда «видящий», казалось, оказывался прав, информация была настолько общей, что требовала долгого толкования, и она ни разу не сообщила заказчикам ничего, на основе чего можно было бы действовать.",
+   "s": [
+    [
+     "On the most important question, however, the experts agreed.",
+     "Однако по самому важному вопросу эксперты согласились."
+    ],
+    [
+     "Neither of them found evidence that remote viewing had ever been useful in real intelligence work.",
+     "Ни один из них не нашёл доказательств того, что удалённое видение когда-либо приносило пользу в реальной разведывательной работе."
+    ],
+    [
+     "The final report concluded that the descriptions were usually too vague, often wrong, and could not be used to guide any operation.",
+     "В итоговом отчёте был сделан вывод, что описания обычно были слишком расплывчатыми, часто неверными и не могли служить основой ни для какой операции."
+    ],
+    [
+     "Even when a viewer seemed to be right, the information was so general that it needed a lot of interpretation, and it never told the customers anything they could act on.",
+     "Даже когда «видящий», казалось, оказывался прав, информация была настолько общей, что требовала долгого толкования, и она ни разу не сообщила заказчикам ничего, на основе чего можно было бы действовать."
+    ]
+   ]
+  },
+  {
+   "en": "Soon after the report, in 1995, the programme was closed. At the end of that year, the news became public, and former viewers began to give interviews. For a wide audience, it was a shock to learn that their taxes had paid for psychic spies.",
+   "ru": "Вскоре после отчёта, в 1995 году, программу закрыли. В конце того же года эта новость стала достоянием общественности, а бывшие «видящие» начали давать интервью. Для широкой аудитории было потрясением узнать, что их налоги шли на оплату шпионов-экстрасенсов.",
+   "s": [
+    [
+     "Soon after the report, in 1995, the programme was closed.",
+     "Вскоре после отчёта, в 1995 году, программу закрыли."
+    ],
+    [
+     "At the end of that year, the news became public, and former viewers began to give interviews.",
+     "В конце того же года эта новость стала достоянием общественности, а бывшие «видящие» начали давать интервью."
+    ],
+    [
+     "For a wide audience, it was a shock to learn that their taxes had paid for psychic spies.",
+     "Для широкой аудитории было потрясением узнать, что их налоги шли на оплату шпионов-экстрасенсов."
+    ]
+   ]
+  },
+  {
+   "en": "More documents were released in the following years. In 2017, the CIA put millions of pages from its archive online, and the Stargate files were among them. Today anyone can read the transcripts of the sessions and look at the strange pencil drawings.",
+   "ru": "В последующие годы было опубликовано больше документов. В 2017 году ЦРУ выложило в интернет миллионы страниц из своего архива, и среди них были материалы «Звёздных врат». Сегодня любой может прочитать стенограммы сеансов и посмотреть на странные карандашные рисунки.",
+   "s": [
+    [
+     "More documents were released in the following years.",
+     "В последующие годы было опубликовано больше документов."
+    ],
+    [
+     "In 2017, the CIA put millions of pages from its archive online, and the Stargate files were among them.",
+     "В 2017 году ЦРУ выложило в интернет миллионы страниц из своего архива, и среди них были материалы «Звёздных врат»."
+    ],
+    [
+     "Today anyone can read the transcripts of the sessions and look at the strange pencil drawings.",
+     "Сегодня любой может прочитать стенограммы сеансов и посмотреть на странные карандашные рисунки."
+    ]
+   ]
+  },
+  {
+   "en": "The story also entered popular culture. The journalist Jon Ronson wrote a book called The Men Who Stare at Goats, and in 2009 it was turned into a comedy film with George Clooney. The book looked at several unusual ideas that had been explored inside the US military, and the film was only loosely based on real events.",
+   "ru": "Эта история вошла и в массовую культуру. Журналист Джон Ронсон написал книгу «Безумный спецназ» (The Men Who Stare at Goats), а в 2009 году по ней сняли комедию с Джорджем Клуни. В книге рассматривались несколько необычных идей, которые изучались в армии США, а фильм был основан на реальных событиях лишь очень приблизительно.",
+   "s": [
+    [
+     "The story also entered popular culture.",
+     "Эта история вошла и в массовую культуру."
+    ],
+    [
+     "The journalist Jon Ronson wrote a book called The Men Who Stare at Goats, and in 2009 it was turned into a comedy film with George Clooney.",
+     "Журналист Джон Ронсон написал книгу «Безумный спецназ» (The Men Who Stare at Goats), а в 2009 году по ней сняли комедию с Джорджем Клуни."
+    ],
+    [
+     "The book looked at several unusual ideas that had been explored inside the US military, and the film was only loosely based on real events.",
+     "В книге рассматривались несколько необычных идей, которые изучались в армии США, а фильм был основан на реальных событиях лишь очень приблизительно."
+    ]
+   ]
+  },
+  {
+   "en": "Some former viewers still firmly believe that their abilities were real, and a few of them have taught remote viewing to paying students. On the internet, people also claim that the programme secretly continued after 1995 or that its results were much better than the government admits. There is no evidence for these claims. Personal belief, however sincere, is not the same as scientific proof.",
+   "ru": "Некоторые бывшие «видящие» до сих пор твёрдо верят, что их способности были настоящими, а некоторые из них обучали удалённому видению платных учеников. В интернете люди также утверждают, что программа тайно продолжалась после 1995 года или что её результаты были гораздо лучше, чем признаёт правительство. Доказательств этих утверждений нет. Личная вера, какой бы искренней она ни была, — не то же самое, что научное доказательство.",
+   "s": [
+    [
+     "Some former viewers still firmly believe that their abilities were real, and a few of them have taught remote viewing to paying students.",
+     "Некоторые бывшие «видящие» до сих пор твёрдо верят, что их способности были настоящими, а некоторые из них обучали удалённому видению платных учеников."
+    ],
+    [
+     "On the internet, people also claim that the programme secretly continued after 1995 or that its results were much better than the government admits.",
+     "В интернете люди также утверждают, что программа тайно продолжалась после 1995 года или что её результаты были гораздо лучше, чем признаёт правительство."
+    ],
+    [
+     "There is no evidence for these claims.",
+     "Доказательств этих утверждений нет."
+    ],
+    [
+     "Personal belief, however sincere, is not the same as scientific proof.",
+     "Личная вера, какой бы искренней она ни была, — не то же самое, что научное доказательство."
+    ]
+   ]
+  },
+  {
+   "en": "So what part of the Stargate story is true? The documents prove that the US government spent money on psychic research for more than twenty years, trained soldiers as remote viewers and kept the work secret. They do not prove that remote viewing works. Most scientists do not accept that psychic powers exist, and the government's own evaluation found that the programme never produced useful intelligence.",
+   "ru": "Так какая же часть истории «Звёздных врат» правдива? Документы доказывают, что правительство США более двадцати лет тратило деньги на экстрасенсорные исследования, обучало солдат «удалённому видению» и держало эту работу в секрете. Но они не доказывают, что удалённое видение работает. Большинство учёных не признают существования экстрасенсорных способностей, а собственная оценка правительства показала, что программа так и не дала полезных разведывательных данных.",
+   "s": [
+    [
+     "So what part of the Stargate story is true?",
+     "Так какая же часть истории «Звёздных врат» правдива?"
+    ],
+    [
+     "The documents prove that the US government spent money on psychic research for more than twenty years, trained soldiers as remote viewers and kept the work secret.",
+     "Документы доказывают, что правительство США более двадцати лет тратило деньги на экстрасенсорные исследования, обучало солдат «удалённому видению» и держало эту работу в секрете."
+    ],
+    [
+     "They do not prove that remote viewing works.",
+     "Но они не доказывают, что удалённое видение работает."
+    ],
+    [
+     "Most scientists do not accept that psychic powers exist, and the government's own evaluation found that the programme never produced useful intelligence.",
+     "Большинство учёных не признают существования экстрасенсорных способностей, а собственная оценка правительства показала, что программа так и не дала полезных разведывательных данных."
+    ]
+   ]
+  },
+  {
+   "en": "Perhaps the most important lesson of Stargate is about fear. When governments are afraid that an enemy might have a secret advantage, they may carry on with strange projects for years, simply because nobody wants to be the one who stopped them. The other lesson is about science: careful tests, honest records and independent checks are the only way to separate a real discovery from wishful thinking.",
+   "ru": "Возможно, самый важный урок «Звёздных врат» касается страха. Когда правительства боятся, что у противника может быть тайное преимущество, они способны годами продолжать странные проекты просто потому, что никто не хочет быть тем, кто их остановил. Другой урок касается науки: тщательные испытания, честные записи и независимые проверки — единственный способ отличить настоящее открытие от принятия желаемого за действительное.",
+   "s": [
+    [
+     "Perhaps the most important lesson of Stargate is about fear.",
+     "Возможно, самый важный урок «Звёздных врат» касается страха."
+    ],
+    [
+     "When governments are afraid that an enemy might have a secret advantage, they may carry on with strange projects for years, simply because nobody wants to be the one who stopped them.",
+     "Когда правительства боятся, что у противника может быть тайное преимущество, они способны годами продолжать странные проекты просто потому, что никто не хочет быть тем, кто их остановил."
+    ],
+    [
+     "The other lesson is about science: careful tests, honest records and independent checks are the only way to separate a real discovery from wishful thinking.",
+     "Другой урок касается науки: тщательные испытания, честные записи и независимые проверки — единственный способ отличить настоящее открытие от принятия желаемого за действительное."
+    ]
+   ]
+  },
+  {
+   "en": "Somewhere in the CIA archive, there is still a drawing of a tall tower, a road and something round. Maybe it matched a real place, and maybe it did not. After more than twenty years and millions of dollars, nobody was able to show that drawings like it could tell spies anything that they could not learn in more ordinary ways.",
+   "ru": "Где-то в архиве ЦРУ до сих пор хранится рисунок высокой башни, дороги и чего-то круглого. Может быть, он совпал с реальным местом, а может быть, и нет. За более чем двадцать лет и миллионы долларов никто так и не смог показать, что подобные рисунки способны сообщить шпионам что-то такое, чего нельзя узнать более обычными способами.",
+   "s": [
+    [
+     "Somewhere in the CIA archive, there is still a drawing of a tall tower, a road and something round.",
+     "Где-то в архиве ЦРУ до сих пор хранится рисунок высокой башни, дороги и чего-то круглого."
+    ],
+    [
+     "Maybe it matched a real place, and maybe it did not.",
+     "Может быть, он совпал с реальным местом, а может быть, и нет."
+    ],
+    [
+     "After more than twenty years and millions of dollars, nobody was able to show that drawings like it could tell spies anything that they could not learn in more ordinary ways.",
+     "За более чем двадцать лет и миллионы долларов никто так и не смог показать, что подобные рисунки способны сообщить шпионам что-то такое, чего нельзя узнать более обычными способами."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "man": "мужчина",
+  "sits": "сидит",
+  "alone": "один; (statistics alone) одна лишь",
+  "in": "в",
+  "small": "маленький",
+  "dark": "тёмный",
+  "room": "комната",
+  "at": "в, у, на",
+  "an": "(неопр. артикль)",
+  "army": "армия",
+  "base": "база",
+  "maryland": "Мэриленд (штат)",
+  "front": "перед (in front of)",
+  "of": "из, о, (род. падеж)",
+  "him": "его, ему",
+  "there": "там",
+  "is": "есть, является",
+  "pencil": "карандаш; карандашный",
+  "pile": "стопка",
+  "white": "белый",
+  "paper": "бумага; статья",
+  "and": "и",
+  "nothing": "ничего",
+  "else": "(nothing else) больше ничего",
+  "somewhere": "где-то",
+  "the": "(опр. артикль)",
+  "building": "здание",
+  "sealed": "запечатанный",
+  "envelope": "конверт",
+  "that": "что; тот, это",
+  "he": "он",
+  "not": "не",
+  "allowed": "разрешено (is allowed)",
+  "to": "к, в; (частица)",
+  "see": "видеть; (see you — увидимся)",
+  "set": "набор",
+  "map": "карта",
+  "coordinates": "координаты",
+  "place": "место",
+  "thousands": "тысячи",
+  "kilometres": "километров",
+  "away": "далеко (far away; thousands of km away)",
+  "closes": "закрывает",
+  "his": "его",
+  "eyes": "глаза",
+  "waits": "ждёт",
+  "after": "после",
+  "few": "несколько",
+  "minutes": "минуты",
+  "starts": "начинает",
+  "draw": "рисовать",
+  "tall": "высокий",
+  "tower": "башня",
+  "road": "дорога",
+  "something": "что-то",
+  "round": "круглый",
+  "like": "как; (look like — выглядеть)",
+  "huge": "огромный",
+  "wheel": "колесо",
+  "it": "он, оно, это",
+  "sounds": "звучит",
+  "scene": "сцена",
+  "from": "из, от",
+  "science": "наука",
+  "fiction": "вымысел (science fiction - научная фантастика)",
+  "film": "фильм",
+  "but": "но",
+  "for": "для, в течение",
+  "more": "больше",
+  "than": "чем",
+  "twenty": "двадцать",
+  "years": "лет, годы",
+  "united": "соединённые",
+  "states": "штаты",
+  "government": "правительство",
+  "really": "действительно",
+  "paid": "платило",
+  "people": "люди",
+  "try": "пытаться",
+  "spy": "шпионить",
+  "on": "на",
+  "its": "его, её",
+  "enemies": "враги",
+  "with": "с",
+  "their": "их, свои",
+  "minds": "разум, мысли",
+  "secret": "секретный; тайна",
+  "programme": "программа",
+  "had": "(had to) должен был; было; (вспом. гл.)",
+  "several": "несколько",
+  "code": "код",
+  "names": "названия",
+  "last": "последний",
+  "most": "самый",
+  "famous": "знаменитый",
+  "one": "один, одна",
+  "was": "был(а)",
+  "stargate": "Stargate («Звёздные врата», кодовое название)",
+  "closed": "закрыта, закрыли",
+  "many": "много",
+  "stories": "истории",
+  "about": "о, об",
+  "american": "американский",
+  "psychic": "экстрасенсорный; экстрасенс",
+  "spies": "шпионы",
+  "sounded": "звучал",
+  "typical": "типичный",
+  "conspiracy": "заговор",
+  "theory": "теория",
+  "today": "сегодня",
+  "we": "мы",
+  "know": "знаем",
+  "existed": "существовал(а)",
+  "because": "потому что",
+  "itself": "само",
+  "has": "(вспом. гл.)",
+  "made": "(made public) опубликовало; сделал(о)",
+  "pages": "страницы",
+  "documents": "документы",
+  "public": "публичный; (the public) общественность",
+  "much": "гораздо",
+  "difficult": "трудный",
+  "question": "вопрос",
+  "remains": "остаётся",
+  "did": "(вспом. гл.); сделал",
+  "any": "(any of it) хоть что-то; любой",
+  "actually": "на самом деле",
+  "work": "работа; работать",
+  "understand": "понимать",
+  "why": "почему",
+  "serious": "серьёзный",
+  "spent": "тратили; тратились",
+  "money": "деньги",
+  "such": "такой",
+  "ideas": "идеи",
+  "must": "должен",
+  "go": "вернуться (go back)",
+  "back": "назад",
+  "cold": "холодный",
+  "war": "война",
+  "early": "рано",
+  "s": "(1970s) -е годы",
+  "intelligence": "разведка",
+  "agencies": "агентства, службы (intelligence agencies - спецслужбы)",
+  "received": "получали",
+  "reports": "сообщения",
+  "soviet": "советский",
+  "union": "союз",
+  "studying": "изучал",
+  "abilities": "способности",
+  "as": "как, так как",
+  "reading": "чтение",
+  "other": "другой",
+  "people's": "людей",
+  "thoughts": "мысли",
+  "or": "или",
+  "influencing": "воздействие, влияние",
+  "objects": "предметы",
+  "mind": "разум, ум",
+  "nobody": "никто",
+  "knew": "знал(и)",
+  "how": "как",
+  "this": "этот",
+  "research": "исследования",
+  "however": "однако; сколько бы",
+  "officials": "чиновники",
+  "were": "были",
+  "afraid": "(were afraid of) боялись",
+  "falling": "(falling behind) отставание",
+  "behind": "(fall behind) отстать",
+  "logic": "логика",
+  "simple": "простой",
+  "even": "даже",
+  "if": "если, ли",
+  "chance": "шанс, вероятность; случайность",
+  "success": "успех",
+  "very": "очень",
+  "wanted": "хотел",
+  "enemy": "противник, враг",
+  "have": "иметь; (вспом.)",
+  "weapon": "оружие",
+  "america": "Америка",
+  "kind": "род, вид",
+  "worry": "беспокойство, тревога",
+  "drove": "двигало, стояло за",
+  "strange": "странный",
+  "projects": "проекты",
+  "both": "оба",
+  "sides": "стороны",
+  "during": "во время",
+  "cia": "ЦРУ",
+  "began": "начал(а)",
+  "pay": "платить",
+  "experiments": "эксперименты",
+  "stanford": "Стэнфордский",
+  "institute": "институт",
+  "known": "известный как",
+  "sri": "SRI (Стэнфордский исследовательский институт)",
+  "california": "Калифорния",
+  "led": "руководили (was led by)",
+  "by": "(led by) под руководством; (by accident) случайно",
+  "two": "два",
+  "physicists": "физики",
+  "who": "кто, который",
+  "specialised": "специализировались",
+  "lasers": "лазеры",
+  "russell": "Рассел (имя)",
+  "targ": "Тарг (фамилия)",
+  "harold": "Гарольд (имя)",
+  "puthoff": "Путхофф (фамилия)",
+  "they": "они",
+  "test": "проверить",
+  "whether": "ли",
+  "some": "несколько; какой-то",
+  "could": "мог(ла)",
+  "receive": "получать",
+  "information": "информация",
+  "distant": "далёкий",
+  "places": "места",
+  "without": "без",
+  "using": "используя",
+  "normal": "нормальный",
+  "senses": "органы чувств",
+  "important": "важный",
+  "subjects": "испытуемые",
+  "ingo": "Инго (имя)",
+  "swann": "Свонн (фамилия)",
+  "artist": "художник",
+  "new": "новый",
+  "york": "Йорк (New York - Нью-Йорк)",
+  "said": "сказал(а)",
+  "powers": "способности, силы",
+  "often": "часто",
+  "credited": "(is credited with) приписывают",
+  "term": "термин",
+  "remote": "удалённый",
+  "viewing": "видение",
+  "which": "который, что",
+  "means": "означает",
+  "trying": "попытка",
+  "describe": "описать",
+  "person": "человек",
+  "object": "предмет",
+  "far": "далеко",
+  "only": "только",
+  "another": "ещё одну",
+  "subject": "испытуемый",
+  "pat": "Пэт (имя)",
+  "price": "Прайс (фамилия)",
+  "former": "бывший",
+  "police": "полиция",
+  "official": "должностное лицо (police official - полицейский начальник)",
+  "supporters": "сторонники",
+  "later": "позже",
+  "described": "описывал",
+  "sites": "объекты, места",
+  "surprising": "поразительный",
+  "details": "подробности",
+  "critics": "критики",
+  "replied": "ответил(и)",
+  "descriptions": "описания",
+  "mixed": "смешивали; (were mixed) расходились",
+  "correct": "верный, правильный",
+  "wrong": "неверный",
+  "ones": "(wrong ones) неверные",
+  "scientists": "учёные",
+  "also": "также",
+  "tested": "проверяли",
+  "uri": "Ури (имя)",
+  "geller": "Геллер (фамилия)",
+  "performer": "артист",
+  "israel": "Израиль",
+  "became": "стал(а)",
+  "bending": "сгибание, гнул",
+  "spoons": "ложки",
+  "stage": "сцена; (stage magicians) фокусники",
+  "television": "теле- (television screens - телеэкраны)",
+  "screens": "экраны",
+  "around": "вокруг, по",
+  "world": "мир",
+  "published": "опубликовали",
+  "respected": "уважаемый",
+  "journal": "журнал",
+  "nature": "Nature (название журнала); природа",
+  "involved": "(involved Geller) проводились с участием",
+  "others": "другие",
+  "printed": "напечатал",
+  "together": "вместе",
+  "note": "примечание",
+  "explaining": "объясняя",
+  "reviewers": "рецензенты",
+  "doubts": "сомнения",
+  "way": "способ (in a way — в каком-то смысле)",
+  "tests": "испытания, тесты",
+  "been": "был(о)",
+  "done": "проведены, выполнены",
+  "magicians": "фокусники",
+  "especially": "особенно",
+  "james": "Джеймс (имя)",
+  "randi": "Рэнди (фамилия)",
+  "showed": "показали",
+  "similar": "похожий",
+  "tricks": "трюки, фокусы",
+  "be": "быть",
+  "special": "особенный",
+  "annoyance": "раздражение",
+  "idea": "идея",
+  "instead": "вместо этого",
+  "moved": "переместилась; передана",
+  "laboratory": "лаборатория",
+  "late": "поздно",
+  "us": "США (US)",
+  "up": "(set up) создать",
+  "own": "собственный",
+  "unit": "подразделение",
+  "fort": "форт",
+  "meade": "Мид (Fort Meade - Форт-Мид)",
+  "over": "(over the years) за, в течение",
+  "changed": "изменила",
+  "name": "имя",
+  "times": "раз",
+  "gondola": "Гондола (часть кодового названия)",
+  "wish": "Уиш (часть кодового названия Gondola Wish)",
+  "grill": "Гриль (часть кодового названия)",
+  "flame": "Флейм (часть кодового названия Grill Flame)",
+  "sun": "Сан (часть кодового названия Sun Streak)",
+  "streak": "Стрик (часть кодового названия)",
+  "finally": "наконец",
+  "control": "управление",
+  "passed": "перешло",
+  "defense": "оборона",
+  "agency": "агентство",
+  "military's": "военных",
+  "service": "служба",
+  "viewers": "«видящие» (участники удалённого видения)",
+  "ordinary": "обычный",
+  "soldiers": "солдаты",
+  "civilians": "гражданские лица",
+  "chosen": "отобранные",
+  "seemed": "казалось",
+  "natural": "естественный",
+  "talent": "талант",
+  "first": "первый (for the first time — впервые)",
+  "recruits": "новобранцы",
+  "joseph": "Джозеф (имя)",
+  "mcmoneagle": "Макмонигл (фамилия)",
+  "officer": "офицер",
+  "best": "(best-known) самый известный",
+  "each": "каждый",
+  "year": "год",
+  "someone": "кто-то",
+  "approve": "утвердить",
+  "what": "что",
+  "trained": "учили, обучали",
+  "follow": "следовать",
+  "strict": "строгий",
+  "steps": "этапы, шаги",
+  "monitor": "ведущий, наблюдатель",
+  "sat": "сидел",
+  "viewer": "«видящий»",
+  "target": "цель",
+  "either": "(not... either) тоже не",
+  "so": "поэтому; так",
+  "give": "дать",
+  "hints": "подсказки",
+  "accident": "(by accident) случайно",
+  "asked": "спрашивали; просили",
+  "write": "(write down) записывать",
+  "down": "(write down) записывать",
+  "impressions": "впечатления",
+  "shapes": "очертания",
+  "colours": "цвета",
+  "feelings": "чувства",
+  "naming": "называние",
+  "things": "предметы, вещи",
+  "too": "слишком",
+  "seen": "(was seen as) считался",
+  "trap": "ловушка",
+  "saw": "замечал",
+  "decided": "решал",
+  "once": "(at once) сразу; (once and for all) раз и навсегда",
+  "stadium": "стадион",
+  "would": "бы",
+  "quickly": "быстро",
+  "fill": "заполнять",
+  "picture": "картинка",
+  "familiar": "знакомый",
+  "weak": "слабый",
+  "unclear": "неясный",
+  "mist": "туман",
+  "real": "настоящий",
+  "challenge": "испытание",
+  "convey": "передать (чувства)",
+  "them": "их",
+  "adding": "добавление",
+  "imagination": "воображение",
+  "unit's": "подразделения",
+  "customers": "заказчики",
+  "military": "военный",
+  "officers": "офицеры",
+  "help": "помощь",
+  "problems": "задачи, проблемы",
+  "weapons": "оружие",
+  "missing": "пропавший",
+  "aircraft": "самолёты",
+  "looking": "(looking for) искать",
+  "example": "пример",
+  "hostages": "заложники",
+  "held": "удерживали",
+  "iran": "Иран",
+  "then": "потом, тогда",
+  "judged": "оценивали",
+  "results": "результаты",
+  "useful": "полезный",
+  "told": "рассказывали; сообщила",
+  "remarkable": "удивительный",
+  "these": "эти",
+  "sessions": "сеансы",
+  "drew": "нарисовал",
+  "village": "деревня",
+  "are": "(есть) — вы/они",
+  "hard": "трудный",
+  "judge": "судить",
+  "naturally": "естественно",
+  "remember": "запоминают",
+  "hits": "попадания",
+  "forget": "забыть",
+  "misses": "промахи",
+  "vague": "расплывчатый",
+  "drawing": "рисунок",
+  "match": "подойти, совпасть",
+  "earth": "Земля",
+  "inside": "внутри",
+  "opinions": "мнения",
+  "believed": "верили",
+  "might": "мог бы",
+  "day": "(one day) однажды",
+  "produce": "дать, произвести",
+  "valuable": "ценный",
+  "confused": "(were confused) не понимали; растерянный",
+  "being": "(being spent) тратятся",
+  "all": "все; совсем (at all); (all right — в порядке)",
+  "worried": "(were worried) беспокоились",
+  "congress": "Конгресс",
+  "say": "сказать (say goodbye — попрощаться)",
+  "came": "(came out) раскрылась",
+  "out": "(came out) раскрыться; (find out) выяснить",
+  "total": "(in total) в общей сложности",
+  "various": "различные",
+  "cost": "стоили, обошлись",
+  "million": "миллион",
+  "dollars": "долларов",
+  "find": "(find out) выяснить",
+  "worth": "(worth keeping) стоит сохранять",
+  "keeping": "сохранять",
+  "independent": "независимый",
+  "organisation": "организация",
+  "institutes": "институты",
+  "carry": "(carry out) провести, осуществить; (carry on) продолжать",
+  "evaluation": "оценка",
+  "experts": "эксперты",
+  "invited": "пригласили",
+  "study": "изучить",
+  "evidence": "доказательства",
+  "jessica": "Джессика (имя)",
+  "utts": "Аттс (фамилия)",
+  "statistician": "статистик",
+  "ray": "Рэй (имя)",
+  "hyman": "Хайман (фамилия)",
+  "psychologist": "психолог",
+  "long": "давно",
+  "critic": "критик",
+  "interestingly": "интересно, что",
+  "reach": "прийти (к выводу)",
+  "same": "тот же самый",
+  "conclusion": "вывод",
+  "looked": "изучила; (looked at) рассматривала",
+  "statistics": "статистика",
+  "found": "обнаружила; нашли",
+  "better": "лучше",
+  "pure": "чистый",
+  "her": "её, ей",
+  "opinion": "мнение",
+  "functioning": "функционирование (psychic functioning - экстрасенсорные способности)",
+  "well": "(well established) надёжно",
+  "established": "установлены, подтверждены",
+  "does": "(вспом. гл.)",
+  "mean": "(I mean) то есть",
+  "imagine": "представить",
+  "choose": "выбрать",
+  "five": "пять",
+  "pictures": "картинки",
+  "guessing": "угадывание",
+  "will": "будет",
+  "right": "прав",
+  "time": "раз (one time in five)",
+  "little": "маленький, немного",
+  "can": "могу, можно",
+  "result": "результат",
+  "unlikely": "маловероятный (is unlikely to be - вряд ли)",
+  "just": "просто",
+  "luck": "везение, удача",
+  "cannot": "не могу",
+  "tell": "сообщить",
+  "happened": "произошло",
+  "firmly": "твёрдо",
+  "disagreed": "не согласился",
+  "do": "(вспом. гл.)",
+  "prove": "доказать",
+  "exist": "существовать",
+  "mistakes": "ошибки",
+  "designed": "спланированы",
+  "argued": "утверждал",
+  "repeated": "повторены",
+  "successfully": "успешно",
+  "before": "до, прежде чем",
+  "anyone": "кто-либо, кто-то",
+  "accept": "принять",
+  "unusual": "необычный",
+  "claim": "утверждение",
+  "agreed": "согласились",
+  "neither": "ни один",
+  "ever": "когда-либо",
+  "final": "итоговый",
+  "report": "отчёт",
+  "concluded": "пришёл к выводу",
+  "usually": "обычно",
+  "used": "использован(ы)",
+  "guide": "направлять",
+  "operation": "операция",
+  "when": "когда",
+  "general": "общий",
+  "needed": "требовала",
+  "lot": "(a lot of) много",
+  "interpretation": "толкование",
+  "never": "никогда",
+  "anything": "что-нибудь",
+  "act": "действовать (act on - действовать на основе)",
+  "soon": "вскоре",
+  "end": "конец",
+  "news": "новость",
+  "interviews": "интервью",
+  "wide": "широкий",
+  "audience": "аудитория, зрители",
+  "shock": "потрясение",
+  "learn": "узнать",
+  "taxes": "налоги",
+  "released": "опубликован(ы)",
+  "following": "последующий",
+  "put": "(put online) выложить",
+  "millions": "миллионы",
+  "archive": "архив",
+  "online": "в интернете; интернет-",
+  "files": "материалы, дела",
+  "among": "среди",
+  "read": "читать; прочитал",
+  "transcripts": "стенограммы",
+  "look": "посмотреть",
+  "drawings": "рисунки",
+  "story": "история",
+  "entered": "вошла",
+  "popular": "массовый, популярный",
+  "culture": "культура",
+  "journalist": "журналист",
+  "jon": "Джон (имя)",
+  "ronson": "Ронсон (фамилия)",
+  "wrote": "написал",
+  "book": "книга",
+  "called": "под названием",
+  "men": "люди, мужчины",
+  "stare": "пристально смотреть",
+  "goats": "козы",
+  "turned": "(turned into) превращена (экранизирована)",
+  "into": "в",
+  "comedy": "комедия",
+  "george": "Джордж (имя)",
+  "clooney": "Клуни (фамилия)",
+  "explored": "изучались",
+  "loosely": "приблизительно, вольно",
+  "based": "основан",
+  "events": "события",
+  "still": "всё ещё; и всё же",
+  "believe": "верить",
+  "taught": "обучали",
+  "paying": "платный, платящий",
+  "students": "ученики, студенты",
+  "internet": "интернет",
+  "secretly": "тайно",
+  "continued": "продолжалась",
+  "admits": "признаёт",
+  "no": "нет",
+  "claims": "утверждения",
+  "personal": "личный",
+  "belief": "вера",
+  "sincere": "искренний",
+  "scientific": "научный",
+  "proof": "доказательство",
+  "part": "часть",
+  "true": "правдивый",
+  "kept": "держало",
+  "works": "работает",
+  "government's": "правительства",
+  "produced": "дала, произвела",
+  "perhaps": "может быть",
+  "lesson": "урок",
+  "fear": "страх",
+  "governments": "правительства",
+  "advantage": "преимущество",
+  "may": "могут",
+  "simply": "просто",
+  "wants": "хочет",
+  "stopped": "остановил",
+  "careful": "тщательный",
+  "honest": "честный",
+  "records": "записи",
+  "checks": "проверки",
+  "separate": "отличить, отделить",
+  "discovery": "открытие",
+  "wishful": "(wishful thinking) принятие желаемого за действительное",
+  "thinking": "(wishful thinking) принятие желаемого за действительное",
+  "maybe": "может быть",
+  "matched": "совпал",
+  "able": "(be able to) смочь",
+  "show": "показать",
+  "ways": "способы"
+ },
+ "vocab": {
+  "their": 21,
+  "received": 214,
+  "receive": 214,
+  "afraid": 478,
+  "worry": 258,
+  "replied": 257,
+  "correct": 222,
+  "spoons": 599,
+  "screens": 234,
+  "annoyance": 476,
+  "natural": 225,
+  "approve": 612,
+  "trained": 45,
+  "trap": 638,
+  "familiar": 512,
+  "mist": 413,
+  "challenge": 364,
+  "convey": 565,
+  "village": 104,
+  "confused": 485,
+  "worried": 258,
+  "carry": 150,
+  "same": 298,
+  "firmly": 27,
+  "audience": 559
+ }
+}

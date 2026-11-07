@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What two secret actions were at the centre of the Iran–Contra affair?",
+  "q_ru": "Какие два тайных действия были в центре дела «Иран — контрас»?",
+  "options": [
+   "Buying oil from Iraq and selling it to Cuba",
+   "Spying on Congress and closing newspapers",
+   "Selling weapons to Iran and sending money to the Contras",
+   "Training Hezbollah and attacking Nicaragua"
+  ],
+  "options_ru": [
+   "Покупка нефти у Ирака и её продажа Кубе",
+   "Слежка за Конгрессом и закрытие газет",
+   "Продажа оружия Ирану и отправка денег «контрас»",
+   "Обучение «Хезболлы» и нападение на Никарагуа"
+  ],
+  "answer": 2,
+  "explain_ru": "Чиновники тайно продавали оружие Ирану, надеясь освободить заложников, а часть денег отправляли «контрас», хотя Конгресс запретил такую помощь."
+ },
+ {
+  "q": "Why was helping the Contras a problem in 1984?",
+  "q_ru": "Почему помощь «контрас» в 1984 году была проблемой?",
+  "options": [
+   "A law passed by Congress banned such military support",
+   "The Contras had already won the war",
+   "Iran refused to pay for the weapons",
+   "The Soviet Union threatened to attack"
+  ],
+  "options_ru": [
+   "Закон, принятый Конгрессом, запрещал такую военную поддержку",
+   "«Контрас» уже выиграли войну",
+   "Иран отказывался платить за оружие",
+   "Советский Союз угрожал нападением"
+  ],
+  "answer": 0,
+  "explain_ru": "Поправка Боланда запрещала американским спецслужбам тратить деньги на военную поддержку «контрас»."
+ },
+ {
+  "q": "Which event first began to reveal the secret in October 1986?",
+  "q_ru": "Какое событие в октябре 1986 года первым начало раскрывать тайну?",
+  "options": [
+   "Reagan's speech on television",
+   "Fawn Hall's interview with a newspaper",
+   "The release of William Buckley",
+   "A cargo plane with weapons was shot down over Nicaragua"
+  ],
+  "options_ru": [
+   "Выступление Рейгана по телевидению",
+   "Интервью Фон Холл газете",
+   "Освобождение Уильяма Бакли",
+   "Над Никарагуа сбили грузовой самолёт с оружием"
+  ],
+  "answer": 3,
+  "explain_ru": "5 октября 1986 года над Никарагуа сбили самолёт с оружием для «контрас»; выживший Юджин Хазенфус сказал, что, по его мнению, работал на ЦРУ."
+ },
+ {
+  "q": "How did investigators get back many messages that North and Poindexter had deleted?",
+  "q_ru": "Как следователи вернули многие сообщения, которые удалили Норт и Пойндекстер?",
+  "options": [
+   "From backup copies kept on tapes",
+   "From Hasenfus's notebook",
+   "From an Iranian magazine",
+   "From Reagan's personal diary"
+  ],
+  "options_ru": [
+   "Из резервных копий, хранившихся на плёнках",
+   "Из записной книжки Хазенфуса",
+   "Из иранского журнала",
+   "Из личного дневника Рейгана"
+  ],
+  "answer": 0,
+  "explain_ru": "Они пользовались ранней системой электронной почты и не знали, что резервные копии хранились на плёнках, — следователи восстановили тысячи сообщений."
+ },
+ {
+  "q": "What did Reagan admit in his speech of March 1987?",
+  "q_ru": "Что Рейган признал в своей речи в марте 1987 года?",
+  "options": [
+   "That he had planned the diversion himself",
+   "That the facts showed arms had been traded for hostages",
+   "That Oliver North had worked for Iran",
+   "That Congress had approved the sales"
+  ],
+  "options_ru": [
+   "Что сам спланировал перенаправление денег",
+   "Что факты показали обмен оружия на заложников",
+   "Что Оливер Норт работал на Иран",
+   "Что Конгресс одобрил продажи"
+  ],
+  "answer": 1,
+  "explain_ru": "Рейган сказал, что сердце и лучшие намерения говорят ему одно, но факты и доказательства показывают, что оружие на заложников всё-таки обменивали."
+ },
+ {
+  "q": "Which statement is NOT supported by the evidence, according to the article?",
+  "q_ru": "Какое утверждение, согласно статье, НЕ подтверждается доказательствами?",
+  "options": [
+   "North shredded documents",
+   "Iran paid more than the official price",
+   "Six people were pardoned in 1992",
+   "The CIA itself planned the drug trade in American cities"
+  ],
+  "options_ru": [
+   "Норт уничтожал документы в шредере",
+   "Иран платил больше официальной цены",
+   "В 1992 году помиловали шесть человек",
+   "ЦРУ само организовало торговлю наркотиками в американских городах"
+  ],
+  "answer": 3,
+  "explain_ru": "В статье сказано, что доказательств этой идеи нет; подтверждено лишь, что ЦРУ работало с некоторыми людьми, обвинёнными в наркопреступлениях."
+ }
+]

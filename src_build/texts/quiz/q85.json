@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What did two biologists find in 2019 about the recording published by AP?",
+  "q_ru": "Что обнаружили два биолога в 2019 году в записи, опубликованной AP?",
+  "options": [
+   "It contained the sound of a microwave weapon",
+   "It had been made by Cuban intelligence",
+   "The sound closely matched the song of a Caribbean cricket",
+   "It was recorded in Washington, not in Havana"
+  ],
+  "options_ru": [
+   "В ней был звук микроволнового оружия",
+   "Её сделала кубинская разведка",
+   "Звук очень точно совпадал с песней карибского сверчка",
+   "Её записали в Вашингтоне, а не в Гаване"
+  ],
+  "answer": 2,
+  "explain_ru": "Биологи проанализировали запись и пришли к выводу, что звук совпадает с песней одного из видов сверчков, живущих в Карибском регионе."
+ },
+ {
+  "q": "Why did physicists doubt the \"sonic weapon\" theory?",
+  "q_ru": "Почему физики сомневались в теории «звукового оружия»?",
+  "options": [
+   "Ultrasound weakens fast in air, and harmful loud sound would be heard by everyone",
+   "Sound cannot travel at night",
+   "Nobody in Havana had ever heard any noise",
+   "Cuba did not have enough electricity"
+  ],
+  "options_ru": [
+   "Ультразвук быстро слабеет в воздухе, а опасно громкий звук слышали бы все",
+   "Звук не может распространяться ночью",
+   "Никто в Гаване никогда не слышал никакого шума",
+   "На Кубе не хватало электричества"
+  ],
+  "answer": 0,
+  "explain_ru": "Ультразвук быстро теряет силу в воздухе и плохо проходит сквозь стены, а обычный звук, способный повредить мозг, слышали бы все вокруг."
+ },
+ {
+  "q": "According to the article, what does \"mass psychogenic illness\" mean?",
+  "q_ru": "Что, согласно статье, означает «массовое психогенное заболевание»?",
+  "options": [
+   "People pretend to be ill to get money",
+   "An illness caused by a new virus",
+   "Brain damage caused by microwaves",
+   "Real symptoms that spread in a group because of stress, fear and expectation"
+  ],
+  "options_ru": [
+   "Люди притворяются больными, чтобы получить деньги",
+   "Болезнь, вызванная новым вирусом",
+   "Повреждение мозга от микроволн",
+   "Реальные симптомы, которые распространяются в группе из-за стресса, страха и ожиданий"
+  ],
+  "answer": 3,
+  "explain_ru": "Эта теория не утверждает, что люди лгали: симптомы реальны, но вызваны стрессом, страхом и ожиданиями, а не внешним воздействием."
+ },
+ {
+  "q": "What did most US intelligence agencies conclude in March 2023?",
+  "q_ru": "К какому выводу пришло большинство разведывательных ведомств США в марте 2023 года?",
+  "options": [
+   "Russia had definitely used a microwave weapon",
+   "It was very unlikely that a foreign adversary was responsible",
+   "The victims had invented their symptoms",
+   "Cuban insects caused all the cases"
+  ],
+  "options_ru": [
+   "Россия точно применила микроволновое оружие",
+   "Очень маловероятно, что виноват иностранный противник",
+   "Пострадавшие выдумали свои симптомы",
+   "Все случаи вызвали кубинские насекомые"
+  ],
+  "answer": 1,
+  "explain_ru": "Большинство ведомств сочли «очень маловероятным» участие иностранного противника и не нашли правдоподобных доказательств существования такого оружия."
+ },
+ {
+  "q": "What did the NIH studies published in March 2024 find?",
+  "q_ru": "Что показали исследования NIH, опубликованные в марте 2024 года?",
+  "options": [
+   "No significant evidence of brain injury, but more tiredness, stress and depression",
+   "Clear damage to the brain in most patients",
+   "That the symptoms were not real",
+   "That ultrasound had injured the ears of the victims"
+  ],
+  "options_ru": [
+   "Значимых признаков повреждения мозга нет, но больше усталости, стресса и депрессии",
+   "Явное повреждение мозга у большинства пациентов",
+   "Что симптомы ненастоящие",
+   "Что ультразвук повредил уши пострадавших"
+  ],
+  "answer": 0,
+  "explain_ru": "Снимки мозга и большинство анализов почти не отличались от здоровой группы, но пострадавшие чаще сообщали об усталости, стрессе и депрессии; исследователи подчеркнули, что симптомы реальны."
+ },
+ {
+  "q": "Which statement best matches the article's conclusion?",
+  "q_ru": "Какое утверждение лучше всего соответствует выводу статьи?",
+  "options": [
+   "A secret weapon has now been proven",
+   "Havana syndrome was invented by journalists",
+   "All cases have been fully explained",
+   "There is no proof of a weapon, but the suffering is real and some cases remain unexplained"
+  ],
+  "options_ru": [
+   "Существование тайного оружия теперь доказано",
+   "Гаванский синдром придумали журналисты",
+   "Все случаи полностью объяснены",
+   "Доказательств оружия нет, но страдания реальны, и некоторые случаи остаются необъяснёнными"
+  ],
+  "answer": 3,
+  "explain_ru": "Люди действительно страдали, доказательств звукового или микроволнового оружия нет, но небольшое число случаев так и не объяснено."
+ }
+]

@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What was strange about Number Nine, Quarry Lane?",
+  "q_ru": "Что было странного в доме номер девять по Карьерной улице?",
+  "options": [
+   "Its lights were on every night",
+   "Its owner never paid his bills",
+   "It got a letter every week, but nobody lived there",
+   "Its garden was always perfectly neat"
+  ],
+  "options_ru": [
+   "Каждую ночь там горел свет",
+   "Хозяин никогда не платил по счетам",
+   "Туда каждую неделю приходило письмо, хотя там никто не жил",
+   "Его сад всегда был идеально ухожен"
+  ],
+  "answer": 2,
+  "explain_ru": "Дом пустовал семь лет, но каждый четверг Бернард приносил туда голубой конверт."
+ },
+ {
+  "q": "What did Bernard see when he looked through the letterbox?",
+  "q_ru": "Что увидел Бернард, заглянув в щель для писем?",
+  "options": [
+   "An empty floor, apart from the new letter",
+   "A huge pile of unopened letters",
+   "A man sleeping in the hall",
+   "A cat eating the post"
+  ],
+  "options_ru": [
+   "Пустой пол, если не считать нового письма",
+   "Огромную кучу нераспечатанных писем",
+   "Мужчину, спящего в прихожей",
+   "Кошку, которая ела почту"
+  ],
+  "answer": 0,
+  "explain_ru": "Он ожидал увидеть гору старых писем, но пол был пуст — значит, кто-то письма забирал."
+ },
+ {
+  "q": "Why did people in Ainsley call Colin a traitor?",
+  "q_ru": "Почему жители Эйнсли называли Колина предателем?",
+  "options": [
+   "He sold the town's secrets abroad",
+   "He stole money from the factory",
+   "He refused to help his mother",
+   "He told the government the factory was poisoning the water"
+  ],
+  "options_ru": [
+   "Он продал секреты города за границу",
+   "Он украл деньги у завода",
+   "Он отказался помогать матери",
+   "Он сообщил правительству, что завод отравляет воду"
+  ],
+  "answer": 3,
+  "explain_ru": "После его сообщения завод закрыли, и более трёхсот человек потеряли работу."
+ },
+ {
+  "q": "Who was writing the blue letters?",
+  "q_ru": "Кто писал голубые письма?",
+  "options": [
+   "Bernard's wife, Hazel",
+   "Colin's mother, Mrs Benn",
+   "The woman from the newsagent's",
+   "Colin himself"
+  ],
+  "options_ru": [
+   "Жена Бернарда, Хейзел",
+   "Мать Колина, миссис Бенн",
+   "Женщина из газетного киоска",
+   "Сам Колин"
+  ],
+  "answer": 1,
+  "explain_ru": "Бернард увидел, как миссис Бенн, вышедшая замуж второй раз, опускает голубой конверт в почтовый ящик."
+ },
+ {
+  "q": "Why had Colin never knocked on his mother's door?",
+  "q_ru": "Почему Колин так ни разу и не постучал в дверь матери?",
+  "options": [
+   "He did not know where she lived",
+   "He was still in prison",
+   "He was ashamed and did not know how to say sorry",
+   "She had told him never to come back"
+  ],
+  "options_ru": [
+   "Он не знал, где она живёт",
+   "Он всё ещё сидел в тюрьме",
+   "Ему было стыдно, и он не знал, как попросить прощения",
+   "Она велела ему никогда не возвращаться"
+  ],
+  "answer": 2,
+  "explain_ru": "Каждую неделю он обещал себе сделать это в следующий раз, но не мог: «Как попросить прощения за семь лет?»"
+ },
+ {
+  "q": "How did Bernard learn how the story ended?",
+  "q_ru": "Как Бернард узнал, чем закончилась эта история?",
+  "options": [
+   "Colin sent him a thank-you letter",
+   "Hazel heard it in the town",
+   "Mrs Benn told him at the post box",
+   "There was no blue letter, and Colin came out of his mother's house"
+  ],
+  "options_ru": [
+   "Колин прислал ему письмо с благодарностью",
+   "Хейзел услышала об этом в городе",
+   "Миссис Бенн рассказала ему у почтового ящика",
+   "Голубого письма не было, а Колин вышел из дома матери"
+  ],
+  "answer": 3,
+  "explain_ru": "В четверг конверта впервые не оказалось, а из дома миссис Бенн вышел Колин, и на кухне смеялась его мать."
+ }
+]

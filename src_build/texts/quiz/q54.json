@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What did Carl Bernstein claim in his 1977 article?",
+  "q_ru": "Что утверждал Карл Бернстайн в своей статье 1977 года?",
+  "options": [
+   "More than 400 US journalists had secretly done jobs for the CIA",
+   "The CIA had bought Rolling Stone magazine",
+   "The Watergate scandal was organised by the CIA",
+   "The CIA had stopped all work with the press in 1947"
+  ],
+  "options_ru": [
+   "Более 400 американских журналистов тайно выполняли задания ЦРУ",
+   "ЦРУ купило журнал Rolling Stone",
+   "Уотергейтский скандал организовало ЦРУ",
+   "ЦРУ прекратило всякую работу с прессой в 1947 году"
+  ],
+  "answer": 0,
+  "explain_ru": "В тексте: «for about twenty-five years, more than 400 American journalists had secretly done jobs for the Central Intelligence Agency»."
+ },
+ {
+  "q": "What was the project that the CIA's own files really call Mockingbird?",
+  "q_ru": "Что за проект в документах самого ЦРУ действительно называется «Пересмешник»?",
+  "options": [
+   "A radio station for Eastern Europe",
+   "A plan to buy American newspapers",
+   "Tapping the phones of two Washington columnists in 1963",
+   "A secret series of books about the Cold War"
+  ],
+  "options_ru": [
+   "Радиостанция для Восточной Европы",
+   "План покупки американских газет",
+   "Прослушивание телефонов двух вашингтонских обозревателей в 1963 году",
+   "Тайная серия книг о холодной войне"
+  ],
+  "answer": 2,
+  "explain_ru": "В 1963 году ЦРУ прослушивало телефоны обозревателей Роберта Аллена и Пола Скотта, чтобы найти источник утечек; именно это в документах называется Mockingbird."
+ },
+ {
+  "q": "How did the full text of the \"Family Jewels\" become public?",
+  "q_ru": "Как полный текст «Фамильных драгоценностей» стал общедоступным?",
+  "options": [
+   "Seymour Hersh published all of it in 1974",
+   "It was released in 2007 after a Freedom of Information Act request",
+   "Carl Bernstein found it in a CIA office",
+   "The Church Committee printed it in its final report"
+  ],
+  "options_ru": [
+   "Сеймур Херш опубликовал его целиком в 1974 году",
+   "Его опубликовали в 2007 году после запроса по Закону о свободе информации",
+   "Карл Бернстайн нашёл его в кабинете ЦРУ",
+   "Комитет Чёрча напечатал его в своём итоговом докладе"
+  ],
+  "answer": 1,
+  "explain_ru": "В тексте: «it was finally released in 2007, after a long request under the Freedom of Information Act»."
+ },
+ {
+  "q": "What did the Church Committee's report NOT do?",
+  "q_ru": "Чего НЕ сделал доклад комитета Чёрча?",
+  "options": [
+   "Confirm that the CIA had used journalists",
+   "Discuss the CIA's work with foreign media",
+   "Warn about danger to the freedom of the press",
+   "Name the journalists and news organisations involved"
+  ],
+  "options_ru": [
+   "Подтвердить, что ЦРУ использовало журналистов",
+   "Обсудить работу ЦРУ с иностранными СМИ",
+   "Предупредить об опасности для свободы прессы",
+   "Назвать причастных журналистов и СМИ"
+  ],
+  "answer": 3,
+  "explain_ru": "В тексте: «the committee's report did not name a single journalist, and it did not name the news organisations involved»."
+ },
+ {
+  "q": "What new rule did CIA director George H. W. Bush announce in February 1976?",
+  "q_ru": "Какое новое правило объявил директор ЦРУ Джордж Буш-старший в феврале 1976 года?",
+  "options": [
+   "No paid or contract relationships with accredited US journalists",
+   "No contacts at all with any journalist in the world",
+   "All CIA officers had to work as reporters",
+   "Journalists could read all CIA files"
+  ],
+  "options_ru": [
+   "Никаких оплачиваемых или договорных отношений с аккредитованными американскими журналистами",
+   "Вообще никаких контактов ни с одним журналистом в мире",
+   "Все сотрудники ЦРУ должны были работать репортёрами",
+   "Журналисты могли читать все дела ЦРУ"
+  ],
+  "answer": 0,
+  "explain_ru": "ЦРУ отказалось от оплачиваемых и договорных отношений с журналистами, аккредитованными при американских СМИ; на неоплачиваемых помощников правило не распространялось."
+ },
+ {
+  "q": "What is the article's main conclusion about \"Operation Mockingbird\"?",
+  "q_ru": "Каков главный вывод статьи об «операции „Пересмешник“»?",
+  "options": [
+   "It is a complete invention with no true facts",
+   "It still controls every major news organisation today",
+   "The CIA–press links were real, but no document shows one programme controlling the media",
+   "It was a Soviet operation against American newspapers"
+  ],
+  "options_ru": [
+   "Это полная выдумка без единого правдивого факта",
+   "Она до сих пор контролирует каждое крупное СМИ",
+   "Связи ЦРУ с прессой были реальными, но ни один документ не показывает единой программы, контролирующей СМИ",
+   "Это была советская операция против американских газет"
+  ],
+  "answer": 2,
+  "explain_ru": "Суть истории правдива и подтверждена документами, но версия о «едином безумном плане», который контролирует всё, «goes far beyond the evidence»."
+ }
+]

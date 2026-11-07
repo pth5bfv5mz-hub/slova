@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What did the newspapers say about Kate's father's death?",
+  "q_ru": "Что газеты писали о гибели отца Кейт?",
+  "options": [
+   "A rock fell on him in bad weather.",
+   "He got lost because his map was wrong.",
+   "He climbed too fast and wanted glory more than life.",
+   "He died while saving another climber."
+  ],
+  "options_ru": [
+   "На него упал камень в плохую погоду.",
+   "Он заблудился, потому что карта была неправильной.",
+   "Он поднимался слишком быстро и хотел славы больше, чем жизни.",
+   "Он погиб, спасая другого альпиниста."
+  ],
+  "answer": 2,
+  "explain_ru": "Газеты писали, что он «had tried to reach the top too fast... had wanted glory more than life». Правда выяснилась только в конце."
+ },
+ {
+  "q": "Why did Samir put salt in the tea?",
+  "q_ru": "Зачем Самир клал соль в чай?",
+  "options": [
+   "Because the body loses salt high in the mountains.",
+   "Because there was no sugar in the camp.",
+   "Because it was a joke for new climbers.",
+   "Because Kate's father always did it."
+  ],
+  "options_ru": [
+   "Потому что высоко в горах организм теряет соль.",
+   "Потому что в лагере не было сахара.",
+   "Потому что это шутка для новичков.",
+   "Потому что так всегда делал отец Кейт."
+  ],
+  "answer": 0,
+  "explain_ru": "Самир объясняет: «Up there, the body loses salt»."
+ },
+ {
+  "q": "\"The air was so thin that every step was an effort.\" What does \"effort\" mean here?",
+  "q_ru": "«The air was so thin that every step was an effort». Что здесь значит «effort»?",
+  "options": [
+   "A short rest.",
+   "A big mistake.",
+   "A kind of pleasure.",
+   "Something that needs a lot of strength."
+  ],
+  "options_ru": [
+   "Короткий отдых.",
+   "Большая ошибка.",
+   "Своего рода удовольствие.",
+   "То, что требует много сил."
+  ],
+  "answer": 3,
+  "explain_ru": "«Effort» — усилие. В разреженном воздухе каждый шаг давался с трудом."
+ },
+ {
+  "q": "Why did Kate not go to the top on that Friday morning?",
+  "q_ru": "Почему Кейт не пошла к вершине в ту пятницу утром?",
+  "options": [
+   "The storm was still very strong.",
+   "She went down to help two climbers after a radio call.",
+   "Samir was sick and could not walk.",
+   "Her sponsors told her to wait."
+  ],
+  "options_ru": [
+   "Буря была ещё очень сильной.",
+   "После вызова по рации она спустилась помочь двум альпинистам.",
+   "Самир заболел и не мог идти.",
+   "Спонсоры велели ей подождать."
+  ],
+  "answer": 1,
+  "explain_ru": "Погода была идеальной, но по рации Ларс сообщил, что его друг сломал ногу. Кейт ответила: «We are coming» — и вершина была потеряна на этот год."
+ },
+ {
+  "q": "What really happened to Kate's father?",
+  "q_ru": "Что на самом деле случилось с отцом Кейт?",
+  "options": [
+   "He did not listen to his guide and fell.",
+   "He reached the top but got lost on the way down.",
+   "He went back to save Samir and slipped on the way down.",
+   "He left his team because he wanted to be first."
+  ],
+  "options_ru": [
+   "Он не послушал проводника и сорвался.",
+   "Он достиг вершины, но заблудился на спуске.",
+   "Он вернулся спасти Самира и поскользнулся на спуске.",
+   "Он бросил команду, потому что хотел быть первым."
+  ],
+  "answer": 2,
+  "explain_ru": "Самир, тогда молодой носильщик, упал в трещину. Отец Кейт вернулся за ним, а на спуске «he slipped». «He did not rush to the top... He rushed to save me»."
+ },
+ {
+  "q": "What did Kate do when she reached the top a year later?",
+  "q_ru": "Что сделала Кейт, когда через год поднялась на вершину?",
+  "options": [
+   "She called her sponsors from the top.",
+   "She put a flag with her father's name there.",
+   "She threw the notebook down the mountain.",
+   "She wrote in her father's notebook and left it in the snow."
+  ],
+  "options_ru": [
+   "Позвонила спонсорам с вершины.",
+   "Поставила там флаг с именем отца.",
+   "Сбросила тетрадь с горы.",
+   "Написала в тетради отца и оставила её в снегу."
+  ],
+  "answer": 3,
+  "explain_ru": "Под словами отца она написала «Friday. We came back for you.» и оставила тетрадь в металлической коробке в снегу."
+ }
+]

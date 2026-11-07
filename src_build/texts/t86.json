@@ -1,0 +1,1250 @@
+{
+ "id": 86,
+ "level": "B1",
+ "cat": "cons",
+ "title_en": "Who Really Wrote Shakespeare?",
+ "title_ru": "Кто на самом деле написал Шекспира?",
+ "genre": "Конспирология: миф",
+ "summary_ru": "Уже около 170 лет некоторые утверждают, что пьесы Шекспира написал кто-то другой — граф Оксфорд, Фрэнсис Бэкон или Кристофер Марло, — но документы, даты и свидетельства современников упрямо указывают на человека из Стратфорда.",
+ "paragraphs": [
+  {
+   "en": "In April 1616, a man died in the small market town of Stratford-upon-Avon in the middle of England. He was buried in the town's church, Holy Trinity, and a few years later a monument was put on the wall above his grave. His name was William Shakespeare. Today, his plays are performed across the world, and lines like \"To be, or not to be\" are known by people who have never read a single page of his work.",
+   "ru": "В апреле 1616 года в маленьком торговом городке Стратфорд-на-Эйвоне в центре Англии умер человек. Его похоронили в городской церкви Святой Троицы, а через несколько лет на стене над его могилой установили памятник. Его звали Уильям Шекспир. Сегодня его пьесы ставят по всему миру, а такие строки, как «Быть или не быть», знают даже люди, которые не прочитали ни одной страницы его произведений.",
+   "s": [
+    [
+     "In April 1616, a man died in the small market town of Stratford-upon-Avon in the middle of England.",
+     "В апреле 1616 года в маленьком торговом городке Стратфорд-на-Эйвоне в центре Англии умер человек."
+    ],
+    [
+     "He was buried in the town's church, Holy Trinity, and a few years later a monument was put on the wall above his grave.",
+     "Его похоронили в городской церкви Святой Троицы, а через несколько лет на стене над его могилой установили памятник."
+    ],
+    [
+     "His name was William Shakespeare.",
+     "Его звали Уильям Шекспир."
+    ],
+    [
+     "Today, his plays are performed across the world, and lines like \"To be, or not to be\" are known by people who have never read a single page of his work.",
+     "Сегодня его пьесы ставят по всему миру, а такие строки, как «Быть или не быть», знают даже люди, которые не прочитали ни одной страницы его произведений."
+    ]
+   ]
+  },
+  {
+   "en": "But for about 170 years, a small but determined group of people has claimed that the man from Stratford did not write them at all. In their opinion, \"William Shakespeare\" was a mask, a false name used by someone else who could not or would not publish under his own name. This is known as the Shakespeare authorship question.",
+   "ru": "Но уже около 170 лет небольшая, но упорная группа людей утверждает, что человек из Стратфорда их вовсе не писал. По их мнению, «Уильям Шекспир» был маской — вымышленным именем, которым пользовался кто-то другой, кто не мог или не хотел печататься под своим именем. Это называют вопросом об авторстве Шекспира.",
+   "s": [
+    [
+     "But for about 170 years, a small but determined group of people has claimed that the man from Stratford did not write them at all.",
+     "Но уже около 170 лет небольшая, но упорная группа людей утверждает, что человек из Стратфорда их вовсе не писал."
+    ],
+    [
+     "In their opinion, \"William Shakespeare\" was a mask, a false name used by someone else who could not or would not publish under his own name.",
+     "По их мнению, «Уильям Шекспир» был маской — вымышленным именем, которым пользовался кто-то другой, кто не мог или не хотел печататься под своим именем."
+    ],
+    [
+     "This is known as the Shakespeare authorship question.",
+     "Это называют вопросом об авторстве Шекспира."
+    ]
+   ]
+  },
+  {
+   "en": "The doubters include some famous names. The American writer Mark Twain doubted that Shakespeare was the author, and so did Sigmund Freud, the founder of psychoanalysis. In 2007, two well-known British actors, Derek Jacobi and Mark Rylance, signed a \"Declaration of Reasonable Doubt\" about the author's identity. Yet almost all professional historians and literature experts are sure that the answer is simple: Shakespeare wrote Shakespeare. To understand why, we need to look at both the doubts and the evidence.",
+   "ru": "Среди сомневающихся есть известные имена. Американский писатель Марк Твен сомневался, что автором был Шекспир, и так же думал Зигмунд Фрейд, основатель психоанализа. В 2007 году два известных британских актёра, Дерек Джекоби и Марк Райлэнс, подписали «Декларацию обоснованного сомнения» в том, кто был автором. И всё же почти все профессиональные историки и литературоведы уверены, что ответ прост: Шекспира написал Шекспир. Чтобы понять почему, нужно рассмотреть и сомнения, и доказательства.",
+   "s": [
+    [
+     "The doubters include some famous names.",
+     "Среди сомневающихся есть известные имена."
+    ],
+    [
+     "The American writer Mark Twain doubted that Shakespeare was the author, and so did Sigmund Freud, the founder of psychoanalysis.",
+     "Американский писатель Марк Твен сомневался, что автором был Шекспир, и так же думал Зигмунд Фрейд, основатель психоанализа."
+    ],
+    [
+     "In 2007, two well-known British actors, Derek Jacobi and Mark Rylance, signed a \"Declaration of Reasonable Doubt\" about the author's identity.",
+     "В 2007 году два известных британских актёра, Дерек Джекоби и Марк Райлэнс, подписали «Декларацию обоснованного сомнения» в том, кто был автором."
+    ],
+    [
+     "Yet almost all professional historians and literature experts are sure that the answer is simple: Shakespeare wrote Shakespeare.",
+     "И всё же почти все профессиональные историки и литературоведы уверены, что ответ прост: Шекспира написал Шекспир."
+    ],
+    [
+     "To understand why, we need to look at both the doubts and the evidence.",
+     "Чтобы понять почему, нужно рассмотреть и сомнения, и доказательства."
+    ]
+   ]
+  },
+  {
+   "en": "Let us start with what is documented. William Shakespeare was baptised in Stratford on 26 April 1564. His father, John, made gloves and other leather goods, and for a time he was one of the most important officials in the town. In 1582, at the age of eighteen, William married Anne Hathaway, who was eight years older, and they had three children. By the early 1590s he was in London, where the theatre was a new and fast-growing business.",
+   "ru": "Начнём с того, что подтверждено документами. Уильяма Шекспира крестили в Стратфорде 26 апреля 1564 года. Его отец Джон делал перчатки и другие кожаные изделия и какое-то время был одним из самых важных должностных лиц в городе. В 1582 году, в восемнадцать лет, Уильям женился на Энн Хэтэуэй, которая была на восемь лет старше, и у них родилось трое детей. К началу 1590-х он был в Лондоне, где театр был новым и быстро растущим делом.",
+   "s": [
+    [
+     "Let us start with what is documented.",
+     "Начнём с того, что подтверждено документами."
+    ],
+    [
+     "William Shakespeare was baptised in Stratford on 26 April 1564.",
+     "Уильяма Шекспира крестили в Стратфорде 26 апреля 1564 года."
+    ],
+    [
+     "His father, John, made gloves and other leather goods, and for a time he was one of the most important officials in the town.",
+     "Его отец Джон делал перчатки и другие кожаные изделия и какое-то время был одним из самых важных должностных лиц в городе."
+    ],
+    [
+     "In 1582, at the age of eighteen, William married Anne Hathaway, who was eight years older, and they had three children.",
+     "В 1582 году, в восемнадцать лет, Уильям женился на Энн Хэтэуэй, которая была на восемь лет старше, и у них родилось трое детей."
+    ],
+    [
+     "By the early 1590s he was in London, where the theatre was a new and fast-growing business.",
+     "К началу 1590-х он был в Лондоне, где театр был новым и быстро растущим делом."
+    ]
+   ]
+  },
+  {
+   "en": "In London, Shakespeare was an actor and a part-owner of a theatre company, the Lord Chamberlain's Men, which later became the King's Men. From 1599 the company performed at the Globe, a theatre on the south bank of the River Thames. He earned enough money to buy one of the biggest houses in Stratford, New Place, in 1597. A year earlier, his father had been given a coat of arms, a sign of the family's rise in society.",
+   "ru": "В Лондоне Шекспир был актёром и одним из совладельцев театральной труппы «Слуги лорда-камергера», которая позже стала «Слугами короля». С 1599 года труппа играла в «Глобусе» — театре на южном берегу Темзы. Он заработал достаточно денег, чтобы в 1597 году купить один из самых больших домов в Стратфорде — Нью-Плейс. Годом раньше его отец получил герб — знак того, что семья поднялась по общественной лестнице.",
+   "s": [
+    [
+     "In London, Shakespeare was an actor and a part-owner of a theatre company, the Lord Chamberlain's Men, which later became the King's Men.",
+     "В Лондоне Шекспир был актёром и одним из совладельцев театральной труппы «Слуги лорда-камергера», которая позже стала «Слугами короля»."
+    ],
+    [
+     "From 1599 the company performed at the Globe, a theatre on the south bank of the River Thames.",
+     "С 1599 года труппа играла в «Глобусе» — театре на южном берегу Темзы."
+    ],
+    [
+     "He earned enough money to buy one of the biggest houses in Stratford, New Place, in 1597.",
+     "Он заработал достаточно денег, чтобы в 1597 году купить один из самых больших домов в Стратфорде — Нью-Плейс."
+    ],
+    [
+     "A year earlier, his father had been given a coat of arms, a sign of the family's rise in society.",
+     "Годом раньше его отец получил герб — знак того, что семья поднялась по общественной лестнице."
+    ]
+   ]
+  },
+  {
+   "en": "He died in 1616 at the age of fifty-two. In his will, he left money to three men from his theatre company, Richard Burbage, John Heminges and Henry Condell, so that they could buy rings to remember him. He also famously left his wife his \"second-best bed\".",
+   "ru": "Он умер в 1616 году в возрасте пятидесяти двух лет. В завещании он оставил деньги трём людям из своей труппы — Ричарду Бёрбеджу, Джону Хемингсу и Генри Конделу, — чтобы они купили себе кольца в память о нём. А ещё, как известно, он оставил жене свою «вторую по качеству кровать».",
+   "s": [
+    [
+     "He died in 1616 at the age of fifty-two.",
+     "Он умер в 1616 году в возрасте пятидесяти двух лет."
+    ],
+    [
+     "In his will, he left money to three men from his theatre company, Richard Burbage, John Heminges and Henry Condell, so that they could buy rings to remember him.",
+     "В завещании он оставил деньги трём людям из своей труппы — Ричарду Бёрбеджу, Джону Хемингсу и Генри Конделу, — чтобы они купили себе кольца в память о нём."
+    ],
+    [
+     "He also famously left his wife his \"second-best bed\".",
+     "А ещё, как известно, он оставил жене свою «вторую по качеству кровать»."
+    ]
+   ]
+  },
+  {
+   "en": "For more than two hundred years after his death, almost nobody asked whether he had really written the plays. Serious doubts began in the 1850s. An American writer, Delia Bacon, argued in a long book in 1857 that the works had been written by a group of educated men, led by the philosopher and statesman Francis Bacon. She was not related to him. Scholars did not take her ideas seriously, but they spread quickly among ordinary readers.",
+   "ru": "Больше двухсот лет после его смерти почти никто не спрашивал, действительно ли он написал эти пьесы. Серьёзные сомнения появились в 1850-х годах. Американская писательница Делия Бэкон в длинной книге 1857 года доказывала, что произведения написала группа образованных людей во главе с философом и государственным деятелем Фрэнсисом Бэконом. Она не была его родственницей. Учёные не восприняли её идеи всерьёз, но среди обычных читателей они быстро распространились.",
+   "s": [
+    [
+     "For more than two hundred years after his death, almost nobody asked whether he had really written the plays.",
+     "Больше двухсот лет после его смерти почти никто не спрашивал, действительно ли он написал эти пьесы."
+    ],
+    [
+     "Serious doubts began in the 1850s.",
+     "Серьёзные сомнения появились в 1850-х годах."
+    ],
+    [
+     "An American writer, Delia Bacon, argued in a long book in 1857 that the works had been written by a group of educated men, led by the philosopher and statesman Francis Bacon.",
+     "Американская писательница Делия Бэкон в длинной книге 1857 года доказывала, что произведения написала группа образованных людей во главе с философом и государственным деятелем Фрэнсисом Бэконом."
+    ],
+    [
+     "She was not related to him.",
+     "Она не была его родственницей."
+    ],
+    [
+     "Scholars did not take her ideas seriously, but they spread quickly among ordinary readers.",
+     "Учёные не восприняли её идеи всерьёз, но среди обычных читателей они быстро распространились."
+    ]
+   ]
+  },
+  {
+   "en": "The main argument of the doubters has always been the same. How, they ask, could a glove-maker's son from a small town, who never went to university, write about kings and courts, law, Italian cities and ancient history with such knowledge? Where are his letters and his manuscripts? Why does his will, which lists beds, a silver bowl, clothes and money, not mention a single book?",
+   "ru": "Главный довод сомневающихся всегда был одним и тем же. Как, спрашивают они, сын перчаточника из маленького городка, который никогда не учился в университете, мог писать о королях и дворах, о праве, об итальянских городах и древней истории с таким знанием дела? Где его письма и рукописи? Почему в его завещании, где перечислены кровати, серебряная чаша, одежда и деньги, не упомянуто ни одной книги?",
+   "s": [
+    [
+     "The main argument of the doubters has always been the same.",
+     "Главный довод сомневающихся всегда был одним и тем же."
+    ],
+    [
+     "How, they ask, could a glove-maker's son from a small town, who never went to university, write about kings and courts, law, Italian cities and ancient history with such knowledge?",
+     "Как, спрашивают они, сын перчаточника из маленького городка, который никогда не учился в университете, мог писать о королях и дворах, о праве, об итальянских городах и древней истории с таким знанием дела?"
+    ],
+    [
+     "Where are his letters and his manuscripts?",
+     "Где его письма и рукописи?"
+    ],
+    [
+     "Why does his will, which lists beds, a silver bowl, clothes and money, not mention a single book?",
+     "Почему в его завещании, где перечислены кровати, серебряная чаша, одежда и деньги, не упомянуто ни одной книги?"
+    ]
+   ]
+  },
+  {
+   "en": "They also point out that only six of his signatures survive, all on legal documents, and that the name is spelled in different ways. To the doubters, this looks like the record of a businessman, not of the greatest writer in the English language.",
+   "ru": "Ещё они отмечают, что сохранилось всего шесть его подписей, все на юридических документах, и что имя в них написано по-разному. Сомневающимся кажется, что это следы жизни делового человека, а не величайшего писателя на английском языке.",
+   "s": [
+    [
+     "They also point out that only six of his signatures survive, all on legal documents, and that the name is spelled in different ways.",
+     "Ещё они отмечают, что сохранилось всего шесть его подписей, все на юридических документах, и что имя в них написано по-разному."
+    ],
+    [
+     "To the doubters, this looks like the record of a businessman, not of the greatest writer in the English language.",
+     "Сомневающимся кажется, что это следы жизни делового человека, а не величайшего писателя на английском языке."
+    ]
+   ]
+  },
+  {
+   "en": "Francis Bacon, who lived from 1561 to 1626, was the first serious candidate. He was a brilliant lawyer, philosopher and scientist, and he rose to one of the highest positions of power in the government of King James I. Supporters of the Bacon theory believed that he had hidden secret messages in the plays. In 1888, the American politician Ignatius Donnelly published a huge book claiming to have found a code that proved Bacon was the author.",
+   "ru": "Фрэнсис Бэкон, живший с 1561 по 1626 год, стал первым серьёзным кандидатом. Он был блестящим юристом, философом и учёным и поднялся до одного из самых высоких постов в правительстве короля Якова I. Сторонники теории о Бэконе считали, что он спрятал в пьесах тайные послания. В 1888 году американский политик Игнатиус Доннелли издал огромную книгу, в которой утверждал, что нашёл шифр, доказывающий авторство Бэкона.",
+   "s": [
+    [
+     "Francis Bacon, who lived from 1561 to 1626, was the first serious candidate.",
+     "Фрэнсис Бэкон, живший с 1561 по 1626 год, стал первым серьёзным кандидатом."
+    ],
+    [
+     "He was a brilliant lawyer, philosopher and scientist, and he rose to one of the highest positions of power in the government of King James I.",
+     "Он был блестящим юристом, философом и учёным и поднялся до одного из самых высоких постов в правительстве короля Якова I."
+    ],
+    [
+     "Supporters of the Bacon theory believed that he had hidden secret messages in the plays.",
+     "Сторонники теории о Бэконе считали, что он спрятал в пьесах тайные послания."
+    ],
+    [
+     "In 1888, the American politician Ignatius Donnelly published a huge book claiming to have found a code that proved Bacon was the author.",
+     "В 1888 году американский политик Игнатиус Доннелли издал огромную книгу, в которой утверждал, что нашёл шифр, доказывающий авторство Бэкона."
+    ]
+   ]
+  },
+  {
+   "en": "But codes can be dangerous things. In 1957, two of America's greatest code breakers, William and Elizebeth Friedman, who had worked for the US government, examined these \"Shakespeare ciphers\" carefully. They showed that the methods were not real codes at all: with the same tricks, you could find almost any message you wanted in almost any long text. Today, very few people support Bacon.",
+   "ru": "Но с шифрами нужно быть осторожным. В 1957 году двое величайших американских дешифровщиков, Уильям и Элизебет Фридман, работавшие на правительство США, внимательно изучили эти «шекспировские шифры». Они показали, что эти методы вовсе не настоящие шифры: с помощью тех же приёмов почти в любом длинном тексте можно найти почти любое желаемое сообщение. Сегодня Бэкона поддерживают очень немногие.",
+   "s": [
+    [
+     "But codes can be dangerous things.",
+     "Но с шифрами нужно быть осторожным."
+    ],
+    [
+     "In 1957, two of America's greatest code breakers, William and Elizebeth Friedman, who had worked for the US government, examined these \"Shakespeare ciphers\" carefully.",
+     "В 1957 году двое величайших американских дешифровщиков, Уильям и Элизебет Фридман, работавшие на правительство США, внимательно изучили эти «шекспировские шифры»."
+    ],
+    [
+     "They showed that the methods were not real codes at all: with the same tricks, you could find almost any message you wanted in almost any long text.",
+     "Они показали, что эти методы вовсе не настоящие шифры: с помощью тех же приёмов почти в любом длинном тексте можно найти почти любое желаемое сообщение."
+    ],
+    [
+     "Today, very few people support Bacon.",
+     "Сегодня Бэкона поддерживают очень немногие."
+    ]
+   ]
+  },
+  {
+   "en": "In 1920, an English schoolteacher called John Thomas Looney put forward a new candidate: Edward de Vere, the 17th Earl of Oxford. Today this \"Oxfordian\" theory is the most popular alternative. De Vere, born in 1550, was a well-educated nobleman who lived close to the court of Queen Elizabeth I. He was born into great wealth, although he lost much of it during his life. He wrote poems, supported a company of actors and travelled in Italy in the 1570s.",
+   "ru": "В 1920 году английский школьный учитель Джон Томас Луни предложил нового кандидата — Эдуарда де Вера, 17-го графа Оксфорда. Сегодня эта «оксфордианская» теория — самая популярная альтернатива. Де Вер, родившийся в 1550 году, был образованным аристократом, близким ко двору королевы Елизаветы I. Он родился в большом богатстве, хотя за свою жизнь растратил значительную его часть. Он писал стихи, покровительствовал труппе актёров и в 1570-х путешествовал по Италии.",
+   "s": [
+    [
+     "In 1920, an English schoolteacher called John Thomas Looney put forward a new candidate: Edward de Vere, the 17th Earl of Oxford.",
+     "В 1920 году английский школьный учитель Джон Томас Луни предложил нового кандидата — Эдуарда де Вера, 17-го графа Оксфорда."
+    ],
+    [
+     "Today this \"Oxfordian\" theory is the most popular alternative.",
+     "Сегодня эта «оксфордианская» теория — самая популярная альтернатива."
+    ],
+    [
+     "De Vere, born in 1550, was a well-educated nobleman who lived close to the court of Queen Elizabeth I.",
+     "Де Вер, родившийся в 1550 году, был образованным аристократом, близким ко двору королевы Елизаветы I."
+    ],
+    [
+     "He was born into great wealth, although he lost much of it during his life.",
+     "Он родился в большом богатстве, хотя за свою жизнь растратил значительную его часть."
+    ],
+    [
+     "He wrote poems, supported a company of actors and travelled in Italy in the 1570s.",
+     "Он писал стихи, покровительствовал труппе актёров и в 1570-х путешествовал по Италии."
+    ]
+   ]
+  },
+  {
+   "en": "Oxfordians see his life in the plays. In Hamlet, for example, they say that the old adviser Polonius looks very much like de Vere's own father-in-law, the powerful statesman Lord Burghley. They believe de Vere used a false name because it was not considered proper for a nobleman to write plays for the public theatre, which many people saw as a low form of entertainment.",
+   "ru": "Оксфордианцы видят его жизнь в пьесах. Например, они говорят, что старый советник Полоний в «Гамлете» очень похож на собственного тестя де Вера, влиятельного государственного деятеля лорда Бёрли. Они считают, что де Вер взял вымышленное имя, потому что аристократу не подобало писать пьесы для публичного театра, который многие считали низким развлечением.",
+   "s": [
+    [
+     "Oxfordians see his life in the plays.",
+     "Оксфордианцы видят его жизнь в пьесах."
+    ],
+    [
+     "In Hamlet, for example, they say that the old adviser Polonius looks very much like de Vere's own father-in-law, the powerful statesman Lord Burghley.",
+     "Например, они говорят, что старый советник Полоний в «Гамлете» очень похож на собственного тестя де Вера, влиятельного государственного деятеля лорда Бёрли."
+    ],
+    [
+     "They believe de Vere used a false name because it was not considered proper for a nobleman to write plays for the public theatre, which many people saw as a low form of entertainment.",
+     "Они считают, что де Вер взял вымышленное имя, потому что аристократу не подобало писать пьесы для публичного театра, который многие считали низким развлечением."
+    ]
+   ]
+  },
+  {
+   "en": "The biggest problem for the theory is a date. Edward de Vere died in 1604. But experts believe that about ten of Shakespeare's plays were written after that year, including Macbeth, King Lear and The Tempest. The Tempest seems to use reports of a real shipwreck near Bermuda in 1609, five years after de Vere's death. Oxfordians answer that the plays were written earlier and only finished or published later, but most historians find this explanation unconvincing.",
+   "ru": "Главная проблема этой теории — одна дата. Эдуард де Вер умер в 1604 году. Но специалисты считают, что около десяти пьес Шекспира было написано после этого года, в том числе «Макбет», «Король Лир» и «Буря». В «Буре», похоже, использованы рассказы о настоящем кораблекрушении у Бермудских островов в 1609 году, через пять лет после смерти де Вера. Оксфордианцы отвечают, что пьесы были написаны раньше и лишь закончены или изданы позже, но большинство историков находят это объяснение неубедительным.",
+   "s": [
+    [
+     "The biggest problem for the theory is a date.",
+     "Главная проблема этой теории — одна дата."
+    ],
+    [
+     "Edward de Vere died in 1604.",
+     "Эдуард де Вер умер в 1604 году."
+    ],
+    [
+     "But experts believe that about ten of Shakespeare's plays were written after that year, including Macbeth, King Lear and The Tempest.",
+     "Но специалисты считают, что около десяти пьес Шекспира было написано после этого года, в том числе «Макбет», «Король Лир» и «Буря»."
+    ],
+    [
+     "The Tempest seems to use reports of a real shipwreck near Bermuda in 1609, five years after de Vere's death.",
+     "В «Буре», похоже, использованы рассказы о настоящем кораблекрушении у Бермудских островов в 1609 году, через пять лет после смерти де Вера."
+    ],
+    [
+     "Oxfordians answer that the plays were written earlier and only finished or published later, but most historians find this explanation unconvincing.",
+     "Оксфордианцы отвечают, что пьесы были написаны раньше и лишь закончены или изданы позже, но большинство историков находят это объяснение неубедительным."
+    ]
+   ]
+  },
+  {
+   "en": "The third well-known candidate is Christopher Marlowe, a brilliant playwright born in the same year as Shakespeare. In 1593, at the age of twenty-nine, Marlowe was stabbed to death in a house in Deptford, near London. Some people believe that his death was faked: that he was a government spy who escaped abroad and continued to write, sending his plays back to London under Shakespeare's name.",
+   "ru": "Третий известный кандидат — Кристофер Марло, блестящий драматург, родившийся в один год с Шекспиром. В 1593 году, в двадцать девять лет, Марло был заколот насмерть в одном доме в Дептфорде, недалеко от Лондона. Некоторые считают, что его смерть была инсценирована: будто он был правительственным шпионом, бежал за границу и продолжал писать, отправляя пьесы в Лондон под именем Шекспира.",
+   "s": [
+    [
+     "The third well-known candidate is Christopher Marlowe, a brilliant playwright born in the same year as Shakespeare.",
+     "Третий известный кандидат — Кристофер Марло, блестящий драматург, родившийся в один год с Шекспиром."
+    ],
+    [
+     "In 1593, at the age of twenty-nine, Marlowe was stabbed to death in a house in Deptford, near London.",
+     "В 1593 году, в двадцать девять лет, Марло был заколот насмерть в одном доме в Дептфорде, недалеко от Лондона."
+    ],
+    [
+     "Some people believe that his death was faked: that he was a government spy who escaped abroad and continued to write, sending his plays back to London under Shakespeare's name.",
+     "Некоторые считают, что его смерть была инсценирована: будто он был правительственным шпионом, бежал за границу и продолжал писать, отправляя пьесы в Лондон под именем Шекспира."
+    ]
+   ]
+  },
+  {
+   "en": "The problem is that his death is unusually well documented. In 1925, a scholar named Leslie Hotson found the official report of the investigation into Marlowe's death. It names the man who killed him, describes the wound above his eye and records that sixteen men of the jury saw the body. There is no evidence that Marlowe lived after 1593.",
+   "ru": "Проблема в том, что его смерть необычайно хорошо задокументирована. В 1925 году исследователь Лесли Хотсон нашёл официальный отчёт о расследовании смерти Марло. В нём названо имя человека, который его убил, описана рана над глазом и записано, что шестнадцать присяжных видели тело. Нет никаких доказательств того, что Марло жил после 1593 года.",
+   "s": [
+    [
+     "The problem is that his death is unusually well documented.",
+     "Проблема в том, что его смерть необычайно хорошо задокументирована."
+    ],
+    [
+     "In 1925, a scholar named Leslie Hotson found the official report of the investigation into Marlowe's death.",
+     "В 1925 году исследователь Лесли Хотсон нашёл официальный отчёт о расследовании смерти Марло."
+    ],
+    [
+     "It names the man who killed him, describes the wound above his eye and records that sixteen men of the jury saw the body.",
+     "В нём названо имя человека, который его убил, описана рана над глазом и записано, что шестнадцать присяжных видели тело."
+    ],
+    [
+     "There is no evidence that Marlowe lived after 1593.",
+     "Нет никаких доказательств того, что Марло жил после 1593 года."
+    ]
+   ]
+  },
+  {
+   "en": "There is an interesting twist, however. Modern scholars agree that Shakespeare, like most playwrights of his time, sometimes worked with other writers. Computer studies of language and style suggest that he wrote some plays together with writers such as John Fletcher and Thomas Middleton. In 2016, the editors of a major new edition, the New Oxford Shakespeare, even named Marlowe as a co-author of the three parts of Henry VI. So Marlowe may really be in Shakespeare's works, but as a colleague, not as a secret author.",
+   "ru": "Однако здесь есть интересный поворот. Современные учёные согласны, что Шекспир, как и большинство драматургов его времени, иногда работал вместе с другими авторами. Компьютерные исследования языка и стиля показывают, что некоторые пьесы он написал вместе с такими авторами, как Джон Флетчер и Томас Мидлтон. В 2016 году редакторы крупного нового издания, «Нового Оксфордского Шекспира», даже назвали Марло соавтором трёх частей «Генриха VI». Так что Марло, возможно, действительно присутствует в произведениях Шекспира, но как коллега, а не как тайный автор.",
+   "s": [
+    [
+     "There is an interesting twist, however.",
+     "Однако здесь есть интересный поворот."
+    ],
+    [
+     "Modern scholars agree that Shakespeare, like most playwrights of his time, sometimes worked with other writers.",
+     "Современные учёные согласны, что Шекспир, как и большинство драматургов его времени, иногда работал вместе с другими авторами."
+    ],
+    [
+     "Computer studies of language and style suggest that he wrote some plays together with writers such as John Fletcher and Thomas Middleton.",
+     "Компьютерные исследования языка и стиля показывают, что некоторые пьесы он написал вместе с такими авторами, как Джон Флетчер и Томас Мидлтон."
+    ],
+    [
+     "In 2016, the editors of a major new edition, the New Oxford Shakespeare, even named Marlowe as a co-author of the three parts of Henry VI.",
+     "В 2016 году редакторы крупного нового издания, «Нового Оксфордского Шекспира», даже назвали Марло соавтором трёх частей «Генриха VI»."
+    ],
+    [
+     "So Marlowe may really be in Shakespeare's works, but as a colleague, not as a secret author.",
+     "Так что Марло, возможно, действительно присутствует в произведениях Шекспира, но как коллега, а не как тайный автор."
+    ]
+   ]
+  },
+  {
+   "en": "What, then, is the evidence for the man from Stratford? First, his name appeared on his poems and plays during his lifetime, starting in the 1590s. In 1592, a pamphlet published under the name of the writer Robert Greene attacked an \"upstart crow\", an actor who believed he could write as well as university men, and called him \"Shake-scene\", an obvious joke on Shakespeare's name. In 1598, a writer named Francis Meres published a book that listed twelve of Shakespeare's plays and mentioned his sonnets.",
+   "ru": "Какие же тогда есть доказательства в пользу человека из Стратфорда? Во-первых, его имя появлялось на его поэмах и пьесах ещё при жизни, начиная с 1590-х годов. В 1592 году в памфлете, изданном под именем писателя Роберта Грина, высмеивалась «ворона-выскочка» — актёр, считавший, что пишет не хуже людей с университетским образованием, — и он был назван «Потрясцена», что явно было игрой слов с фамилией Шекспира. В 1598 году писатель Фрэнсис Мирес издал книгу, в которой перечислил двенадцать пьес Шекспира и упомянул его сонеты.",
+   "s": [
+    [
+     "What, then, is the evidence for the man from Stratford?",
+     "Какие же тогда есть доказательства в пользу человека из Стратфорда?"
+    ],
+    [
+     "First, his name appeared on his poems and plays during his lifetime, starting in the 1590s.",
+     "Во-первых, его имя появлялось на его поэмах и пьесах ещё при жизни, начиная с 1590-х годов."
+    ],
+    [
+     "In 1592, a pamphlet published under the name of the writer Robert Greene attacked an \"upstart crow\", an actor who believed he could write as well as university men, and called him \"Shake-scene\", an obvious joke on Shakespeare's name.",
+     "В 1592 году в памфлете, изданном под именем писателя Роберта Грина, высмеивалась «ворона-выскочка» — актёр, считавший, что пишет не хуже людей с университетским образованием, — и он был назван «Потрясцена», что явно было игрой слов с фамилией Шекспира."
+    ],
+    [
+     "In 1598, a writer named Francis Meres published a book that listed twelve of Shakespeare's plays and mentioned his sonnets.",
+     "В 1598 году писатель Фрэнсис Мирес издал книгу, в которой перечислил двенадцать пьес Шекспира и упомянул его сонеты."
+    ]
+   ]
+  },
+  {
+   "en": "The strongest evidence is the First Folio, the first collected edition of his plays, published in 1623, seven years after his death. It contains thirty-six plays, and eighteen of them had never been printed before. Thanks to this book, works such as Macbeth and The Tempest were not lost forever. It was put together by John Heminges and Henry Condell, two of the actors who were mentioned in Shakespeare's will.",
+   "ru": "Самое весомое доказательство — Первое фолио, первое собрание его пьес, изданное в 1623 году, через семь лет после его смерти. В нём тридцать шесть пьес, и восемнадцать из них никогда раньше не печатались. Благодаря этой книге такие произведения, как «Макбет» и «Буря», не были утрачены навсегда. Его составили Джон Хемингс и Генри Кондел — двое из актёров, упомянутых в завещании Шекспира.",
+   "s": [
+    [
+     "The strongest evidence is the First Folio, the first collected edition of his plays, published in 1623, seven years after his death.",
+     "Самое весомое доказательство — Первое фолио, первое собрание его пьес, изданное в 1623 году, через семь лет после его смерти."
+    ],
+    [
+     "It contains thirty-six plays, and eighteen of them had never been printed before.",
+     "В нём тридцать шесть пьес, и восемнадцать из них никогда раньше не печатались."
+    ],
+    [
+     "Thanks to this book, works such as Macbeth and The Tempest were not lost forever.",
+     "Благодаря этой книге такие произведения, как «Макбет» и «Буря», не были утрачены навсегда."
+    ],
+    [
+     "It was put together by John Heminges and Henry Condell, two of the actors who were mentioned in Shakespeare's will.",
+     "Его составили Джон Хемингс и Генри Кондел — двое из актёров, упомянутых в завещании Шекспира."
+    ]
+   ]
+  },
+  {
+   "en": "In the same book, the playwright Ben Jonson, who knew Shakespeare personally, wrote a poem calling him the \"Sweet Swan of Avon\", and the Avon is the river that flows through Stratford. Another poem in the book mentions \"thy Stratford monument\". In other words, the people who knew him best, and who published his plays, clearly connected the author with the man from Stratford.",
+   "ru": "В той же книге драматург Бен Джонсон, лично знавший Шекспира, написал стихотворение, где назвал его «милым лебедем Эйвона», а Эйвон — это река, которая течёт через Стратфорд. В другом стихотворении из этой книги упоминается «твой стратфордский памятник». Иными словами, люди, которые знали его лучше всех и издали его пьесы, явно связывали автора с человеком из Стратфорда.",
+   "s": [
+    [
+     "In the same book, the playwright Ben Jonson, who knew Shakespeare personally, wrote a poem calling him the \"Sweet Swan of Avon\", and the Avon is the river that flows through Stratford.",
+     "В той же книге драматург Бен Джонсон, лично знавший Шекспира, написал стихотворение, где назвал его «милым лебедем Эйвона», а Эйвон — это река, которая течёт через Стратфорд."
+    ],
+    [
+     "Another poem in the book mentions \"thy Stratford monument\".",
+     "В другом стихотворении из этой книги упоминается «твой стратфордский памятник»."
+    ],
+    [
+     "In other words, the people who knew him best, and who published his plays, clearly connected the author with the man from Stratford.",
+     "Иными словами, люди, которые знали его лучше всех и издали его пьесы, явно связывали автора с человеком из Стратфорда."
+    ]
+   ]
+  },
+  {
+   "en": "What about his education? Historians point out that the grammar school in Stratford, although its records of pupils have not survived, would have taught boys Latin, classical poetry and history for many hours every day. Many of the books Shakespeare used, such as histories of England and translations of ancient writers, were easy to find in London. Jonson wrote that Shakespeare had \"small Latin and less Greek\", meaning that he was well-read but was not a university scholar.",
+   "ru": "А как же его образование? Историки указывают, что грамматическая школа в Стратфорде, хотя списки её учеников не сохранились, должна была учить мальчиков латыни, античной поэзии и истории по многу часов каждый день. Многие книги, которыми пользовался Шекспир, например хроники Англии и переводы древних авторов, было легко найти в Лондоне. Джонсон писал, что Шекспир знал «мало латыни и ещё меньше греческого», имея в виду, что он был начитан, но не был учёным с университетским образованием.",
+   "s": [
+    [
+     "What about his education?",
+     "А как же его образование?"
+    ],
+    [
+     "Historians point out that the grammar school in Stratford, although its records of pupils have not survived, would have taught boys Latin, classical poetry and history for many hours every day.",
+     "Историки указывают, что грамматическая школа в Стратфорде, хотя списки её учеников не сохранились, должна была учить мальчиков латыни, античной поэзии и истории по многу часов каждый день."
+    ],
+    [
+     "Many of the books Shakespeare used, such as histories of England and translations of ancient writers, were easy to find in London.",
+     "Многие книги, которыми пользовался Шекспир, например хроники Англии и переводы древних авторов, было легко найти в Лондоне."
+    ],
+    [
+     "Jonson wrote that Shakespeare had \"small Latin and less Greek\", meaning that he was well-read but was not a university scholar.",
+     "Джонсон писал, что Шекспир знал «мало латыни и ещё меньше греческого», имея в виду, что он был начитан, но не был учёным с университетским образованием."
+    ]
+   ]
+  },
+  {
+   "en": "Experts also note that the plays contain mistakes that a well-travelled nobleman would probably not make. In The Winter's Tale, for example, Bohemia, a country with no sea, has a coast. The lack of letters and manuscripts is not unusual either: very few personal papers survive from people of that time who were not nobles, and plays were usually seen as working scripts, not treasures to be kept. Even so, many experts believe that three handwritten pages of a play called Sir Thomas More, now in the British Library, were written by Shakespeare himself.",
+   "ru": "Специалисты также отмечают, что в пьесах есть ошибки, которых много путешествовавший аристократ, вероятно, не допустил бы. Например, в «Зимней сказке» у Богемии, страны без моря, есть морское побережье. И отсутствие писем и рукописей тоже не удивительно: от людей того времени, не принадлежавших к знати, сохранилось очень мало личных бумаг, а пьесы обычно считались рабочими текстами, а не сокровищами, которые надо хранить. И всё же многие специалисты считают, что три рукописные страницы пьесы «Сэр Томас Мор», которые сейчас хранятся в Британской библиотеке, написаны рукой самого Шекспира.",
+   "s": [
+    [
+     "Experts also note that the plays contain mistakes that a well-travelled nobleman would probably not make.",
+     "Специалисты также отмечают, что в пьесах есть ошибки, которых много путешествовавший аристократ, вероятно, не допустил бы."
+    ],
+    [
+     "In The Winter's Tale, for example, Bohemia, a country with no sea, has a coast.",
+     "Например, в «Зимней сказке» у Богемии, страны без моря, есть морское побережье."
+    ],
+    [
+     "The lack of letters and manuscripts is not unusual either: very few personal papers survive from people of that time who were not nobles, and plays were usually seen as working scripts, not treasures to be kept.",
+     "И отсутствие писем и рукописей тоже не удивительно: от людей того времени, не принадлежавших к знати, сохранилось очень мало личных бумаг, а пьесы обычно считались рабочими текстами, а не сокровищами, которые надо хранить."
+    ],
+    [
+     "Even so, many experts believe that three handwritten pages of a play called Sir Thomas More, now in the British Library, were written by Shakespeare himself.",
+     "И всё же многие специалисты считают, что три рукописные страницы пьесы «Сэр Томас Мор», которые сейчас хранятся в Британской библиотеке, написаны рукой самого Шекспира."
+    ]
+   ]
+  },
+  {
+   "en": "Many historians believe the doubts say more about the doubters than about Shakespeare. The theory appeared in the 19th century, when many educated people found it hard to believe that genius could come from an ordinary family in the countryside. Yet Shakespeare's background was not unique among writers of his time. Ben Jonson was the stepson of a bricklayer, and Marlowe was the son of a shoemaker.",
+   "ru": "Многие историки считают, что эти сомнения больше говорят о самих сомневающихся, чем о Шекспире. Теория появилась в XIX веке, когда многим образованным людям было трудно поверить, что гений мог выйти из обычной провинциальной семьи. Однако происхождение Шекспира не было чем-то уникальным среди писателей его времени. Бен Джонсон был пасынком каменщика, а Марло — сыном сапожника.",
+   "s": [
+    [
+     "Many historians believe the doubts say more about the doubters than about Shakespeare.",
+     "Многие историки считают, что эти сомнения больше говорят о самих сомневающихся, чем о Шекспире."
+    ],
+    [
+     "The theory appeared in the 19th century, when many educated people found it hard to believe that genius could come from an ordinary family in the countryside.",
+     "Теория появилась в XIX веке, когда многим образованным людям было трудно поверить, что гений мог выйти из обычной провинциальной семьи."
+    ],
+    [
+     "Yet Shakespeare's background was not unique among writers of his time.",
+     "Однако происхождение Шекспира не было чем-то уникальным среди писателей его времени."
+    ],
+    [
+     "Ben Jonson was the stepson of a bricklayer, and Marlowe was the son of a shoemaker.",
+     "Бен Джонсон был пасынком каменщика, а Марло — сыном сапожника."
+    ]
+   ]
+  },
+  {
+   "en": "Even so, the debate refuses to die. In 1987, three judges of the US Supreme Court listened to arguments for and against de Vere at a mock trial, and they decided in favour of Shakespeare. The 2011 film Anonymous presented de Vere as the true author, and Oxfordian societies still publish books and articles. For some supporters, the question has become an obsession; for most scholars, it is a distraction from the real study of the plays.",
+   "ru": "И всё же спор не утихает. В 1987 году трое судей Верховного суда США выслушали доводы за и против де Вера на показательном суде и решили дело в пользу Шекспира. Фильм «Аноним» 2011 года представил де Вера настоящим автором, а оксфордианские общества по-прежнему издают книги и статьи. Для некоторых сторонников этот вопрос стал одержимостью; для большинства учёных он лишь отвлекает от настоящего изучения пьес.",
+   "s": [
+    [
+     "Even so, the debate refuses to die.",
+     "И всё же спор не утихает."
+    ],
+    [
+     "In 1987, three judges of the US Supreme Court listened to arguments for and against de Vere at a mock trial, and they decided in favour of Shakespeare.",
+     "В 1987 году трое судей Верховного суда США выслушали доводы за и против де Вера на показательном суде и решили дело в пользу Шекспира."
+    ],
+    [
+     "The 2011 film Anonymous presented de Vere as the true author, and Oxfordian societies still publish books and articles.",
+     "Фильм «Аноним» 2011 года представил де Вера настоящим автором, а оксфордианские общества по-прежнему издают книги и статьи."
+    ],
+    [
+     "For some supporters, the question has become an obsession; for most scholars, it is a distraction from the real study of the plays.",
+     "Для некоторых сторонников этот вопрос стал одержимостью; для большинства учёных он лишь отвлекает от настоящего изучения пьес."
+    ]
+   ]
+  },
+  {
+   "en": "So what can we say? It is impossible to prove anything about the past with complete certainty, and there are real gaps in Shakespeare's life story. But there is no documentary evidence that anyone else wrote his works, while there is a great deal of evidence that William Shakespeare of Stratford did. Each alternative theory depends on secret plans, hidden codes or faked deaths for which no record exists.",
+   "ru": "Так что же мы можем сказать? Ничего о прошлом невозможно доказать с полной уверенностью, и в биографии Шекспира есть настоящие пробелы. Но нет никаких документальных доказательств того, что его произведения написал кто-то другой, тогда как доказательств того, что их написал Уильям Шекспир из Стратфорда, очень много. Каждая альтернативная теория опирается на тайные замыслы, скрытые шифры или инсценированные смерти, о которых нет никаких записей.",
+   "s": [
+    [
+     "So what can we say?",
+     "Так что же мы можем сказать?"
+    ],
+    [
+     "It is impossible to prove anything about the past with complete certainty, and there are real gaps in Shakespeare's life story.",
+     "Ничего о прошлом невозможно доказать с полной уверенностью, и в биографии Шекспира есть настоящие пробелы."
+    ],
+    [
+     "But there is no documentary evidence that anyone else wrote his works, while there is a great deal of evidence that William Shakespeare of Stratford did.",
+     "Но нет никаких документальных доказательств того, что его произведения написал кто-то другой, тогда как доказательств того, что их написал Уильям Шекспир из Стратфорда, очень много."
+    ],
+    [
+     "Each alternative theory depends on secret plans, hidden codes or faked deaths for which no record exists.",
+     "Каждая альтернативная теория опирается на тайные замыслы, скрытые шифры или инсценированные смерти, о которых нет никаких записей."
+    ]
+   ]
+  },
+  {
+   "en": "Perhaps the most sensible answer was given four hundred years ago by the two actors who published his plays. They had worked with him for years and had spoken his words on stage, and they trusted readers to remember him. In one of his sonnets, Shakespeare wrote that his poem would live \"So long as men can breathe or eyes can see\". For now, at least, the name on the cover is still his.",
+   "ru": "Возможно, самый разумный ответ дали ещё четыреста лет назад те двое актёров, которые издали его пьесы. Они годами работали с ним и произносили его слова на сцене, и они верили, что читатели будут его помнить. В одном из сонетов Шекспир написал, что его стихотворение будет жить, «пока дышать и видеть могут люди». По крайней мере пока что имя на обложке по-прежнему принадлежит ему.",
+   "s": [
+    [
+     "Perhaps the most sensible answer was given four hundred years ago by the two actors who published his plays.",
+     "Возможно, самый разумный ответ дали ещё четыреста лет назад те двое актёров, которые издали его пьесы."
+    ],
+    [
+     "They had worked with him for years and had spoken his words on stage, and they trusted readers to remember him.",
+     "Они годами работали с ним и произносили его слова на сцене, и они верили, что читатели будут его помнить."
+    ],
+    [
+     "In one of his sonnets, Shakespeare wrote that his poem would live \"So long as men can breathe or eyes can see\".",
+     "В одном из сонетов Шекспир написал, что его стихотворение будет жить, «пока дышать и видеть могут люди»."
+    ],
+    [
+     "For now, at least, the name on the cover is still his.",
+     "По крайней мере пока что имя на обложке по-прежнему принадлежит ему."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, об",
+  "above": "над",
+  "abroad": "за границу",
+  "across": "через, по",
+  "actor": "актёр",
+  "actors": "актёры",
+  "adviser": "советник",
+  "after": "после",
+  "against": "против",
+  "age": "возраст",
+  "ago": "назад",
+  "agree": "соглашаться",
+  "all": "все; (at all) вовсе",
+  "almost": "почти",
+  "also": "также",
+  "alternative": "альтернатива; альтернативный",
+  "although": "хотя",
+  "always": "всегда",
+  "america's": "Америки",
+  "american": "американский",
+  "among": "среди",
+  "an": "(неопр. артикль)",
+  "ancient": "древний",
+  "and": "и",
+  "anne": "Энн (имя)",
+  "anonymous": "«Аноним» (фильм)",
+  "another": "другой",
+  "answer": "отвечать",
+  "any": "любой",
+  "anyone": "кого-либо",
+  "anything": "что-либо, ничего",
+  "appeared": "появился",
+  "april": "апрель",
+  "are": "(есть) являются",
+  "argued": "доказывала, утверждала",
+  "argument": "довод",
+  "arguments": "доводы",
+  "arms": "(coat of arms) герб",
+  "articles": "статьи",
+  "as": "как, так как",
+  "ask": "спросить",
+  "asked": "спросил(а)",
+  "at": "в, у, на",
+  "attacked": "высмеивал, нападал",
+  "author": "автор",
+  "author's": "автора",
+  "authorship": "авторство",
+  "avon": "Эйвон (река)",
+  "back": "назад",
+  "background": "происхождение",
+  "bacon": "Бэкон (фамилия)",
+  "bank": "берег (реки)",
+  "baptised": "крещён",
+  "be": "быть",
+  "became": "стала",
+  "because": "потому что",
+  "become": "стать",
+  "bed": "кровать",
+  "beds": "кровати",
+  "been": "был(о)",
+  "before": "раньше, до",
+  "began": "начались",
+  "believe": "считать, верить",
+  "believed": "считал(и)",
+  "ben": "Бен (имя)",
+  "bermuda": "Бермуды; Бермудский",
+  "best": "(knew him best) лучше всех",
+  "biggest": "самый большой",
+  "body": "тело",
+  "bohemia": "Богемия",
+  "book": "книга",
+  "books": "книги",
+  "born": "родился, родившийся",
+  "both": "оба",
+  "bowl": "чаша",
+  "boys": "мальчики",
+  "breakers": "(code breakers) дешифровщики",
+  "breathe": "дышать",
+  "bricklayer": "каменщик",
+  "brilliant": "блестящий",
+  "british": "британский",
+  "burbage": "Бёрбедж (фамилия)",
+  "burghley": "Бёрли (лорд)",
+  "buried": "похоронили",
+  "business": "бизнес",
+  "businessman": "бизнесмен",
+  "but": "но",
+  "buy": "купить",
+  "by": "(пассив) кем-то; к (by the early 1590s)",
+  "called": "по имени; назвал",
+  "calling": "называя",
+  "can": "может, можно",
+  "candidate": "кандидат",
+  "carefully": "внимательно",
+  "century": "век",
+  "certainty": "уверенность",
+  "chamberlain's": "лорда-камергера",
+  "children": "дети",
+  "christopher": "Кристофер (имя)",
+  "church": "церковь",
+  "ciphers": "шифры",
+  "cities": "города",
+  "claimed": "утверждает",
+  "claiming": "утверждая",
+  "classical": "античный, классический",
+  "clearly": "явно, чётко",
+  "close": "близко",
+  "clothes": "одежда",
+  "co": "со- (co-author — соавтор)",
+  "coast": "побережье",
+  "coat": "(coat of arms) герб",
+  "code": "шифр",
+  "codes": "шифры",
+  "colleague": "коллега",
+  "collected": "(collected edition) собрание сочинений",
+  "come": "выйти, происходить",
+  "company": "труппа",
+  "complete": "полный",
+  "computer": "компьютер",
+  "condell": "Кондел (фамилия)",
+  "connected": "связывали",
+  "considered": "считалось",
+  "contain": "содержать",
+  "contains": "содержит",
+  "continued": "продолжал",
+  "could": "мог(ла)",
+  "country": "страна",
+  "countryside": "сельская местность (in the countryside — за городом)",
+  "court": "двор (королевский); суд (Supreme Court)",
+  "courts": "дворы (королевские)",
+  "cover": "обложка",
+  "crow": "ворона",
+  "dangerous": "опасный",
+  "date": "дата",
+  "day": "день",
+  "de": "де (часть фамилии de Vere)",
+  "deal": "(a great deal) много",
+  "death": "смерть",
+  "deaths": "смерти",
+  "debate": "спор, дискуссия",
+  "decided": "решили",
+  "declaration": "декларация",
+  "delia": "Делия (имя)",
+  "depends": "зависит",
+  "deptford": "Дептфорд (район Лондона)",
+  "derek": "Дерек (имя)",
+  "describes": "описывает",
+  "determined": "упорный",
+  "did": "(вспом. гл.); сделал",
+  "die": "умереть (refuses to die — не утихает)",
+  "died": "умер(ла)",
+  "different": "разные",
+  "distraction": "отвлечение",
+  "documentary": "документальный",
+  "documented": "подтверждён документами",
+  "documents": "документы",
+  "does": "(вспом. гл.)",
+  "donnelly": "Доннелли (фамилия)",
+  "doubt": "сомнение",
+  "doubted": "сомневался",
+  "doubters": "сомневающиеся",
+  "doubts": "сомнения",
+  "during": "во время",
+  "each": "каждый",
+  "earl": "граф",
+  "earlier": "раньше",
+  "early": "(early 1590s) начало",
+  "earned": "заработал",
+  "easy": "лёгкий",
+  "edition": "издание",
+  "editors": "редакторы",
+  "educated": "образованный",
+  "education": "образование",
+  "edward": "Эдуард (имя)",
+  "eight": "восемь",
+  "eighteen": "восемнадцать",
+  "either": "тоже (не)",
+  "elizabeth": "Елизавета (королева)",
+  "elizebeth": "Элизебет (имя)",
+  "else": "ещё, другой",
+  "england": "Англия",
+  "english": "английский",
+  "enough": "достаточно",
+  "entertainment": "развлечение",
+  "escaped": "бежал",
+  "even": "даже",
+  "every": "каждый",
+  "evidence": "доказательства",
+  "examined": "изучили",
+  "example": "пример",
+  "exists": "существует",
+  "experts": "эксперты",
+  "explanation": "объяснение",
+  "eye": "глаз",
+  "eyes": "глаза",
+  "faked": "инсценирована",
+  "false": "вымышленный, ложный",
+  "family": "семья",
+  "family's": "семьи",
+  "famous": "знаменитый",
+  "famously": "как известно",
+  "fast": "(fast-growing) быстро",
+  "father": "отец",
+  "favour": "(in favour of) в пользу",
+  "few": "несколько",
+  "fifty": "пятьдесят",
+  "film": "фильм",
+  "find": "найти",
+  "finished": "закончены",
+  "first": "первый; во-первых",
+  "five": "пять",
+  "fletcher": "Флетчер (фамилия)",
+  "flows": "течёт",
+  "folio": "фолио (большая книга)",
+  "for": "для, в течение",
+  "forever": "навсегда",
+  "form": "форма, вид",
+  "forward": "(put forward) выдвинул, предложил",
+  "found": "нашёл",
+  "founder": "основатель",
+  "four": "четыре",
+  "francis": "Фрэнсис (имя)",
+  "freud": "Фрейд (фамилия)",
+  "friedman": "Фридман (фамилия)",
+  "from": "из, от",
+  "gaps": "пробелы",
+  "genius": "гений",
+  "given": "дан, получил",
+  "globe": "«Глобус» (театр)",
+  "glove": "перчатка (glove-maker — перчаточник)",
+  "gloves": "перчатки",
+  "goods": "изделия, товары",
+  "government": "правительство",
+  "grammar": "(grammar school) грамматическая школа",
+  "grave": "могила",
+  "great": "великий; большой",
+  "greatest": "величайший",
+  "greek": "греческий (язык)",
+  "greene": "Грин (фамилия)",
+  "group": "группа",
+  "growing": "растущий",
+  "had": "(вспом. гл.); имел; было",
+  "hamlet": "«Гамлет» (пьеса)",
+  "handwritten": "написанный от руки",
+  "hard": "трудно",
+  "has": "(вспом. гл.)",
+  "hathaway": "Хэтэуэй (фамилия)",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "heminges": "Хемингс (фамилия)",
+  "henry": "Генри; Генрих (король)",
+  "her": "её, ей",
+  "hidden": "скрытый",
+  "highest": "самый высокий",
+  "him": "его, ему",
+  "himself": "сам, самого",
+  "his": "его",
+  "historians": "историки",
+  "histories": "хроники, истории",
+  "history": "история",
+  "holy": "святой (Holy Trinity — Святая Троица)",
+  "hotson": "Хотсон (фамилия)",
+  "hours": "часы",
+  "house": "дом",
+  "houses": "дома",
+  "how": "как",
+  "however": "однако",
+  "huge": "огромный",
+  "hundred": "сто",
+  "i": "I (Первый, о королях)",
+  "ideas": "идеи",
+  "identity": "личность",
+  "ignatius": "Игнатиус (имя)",
+  "important": "важный",
+  "impossible": "невозможный",
+  "in": "в",
+  "include": "включать",
+  "including": "включая",
+  "interesting": "интересный",
+  "into": "в",
+  "investigation": "расследование",
+  "is": "есть, является",
+  "it": "он, оно, это",
+  "italian": "итальянский",
+  "italy": "Италия",
+  "its": "его, её",
+  "jacobi": "Джекоби (фамилия)",
+  "james": "Яков (король)",
+  "john": "Джон (имя)",
+  "joke": "шутка",
+  "jonson": "Джонсон (фамилия)",
+  "judges": "судьи",
+  "jury": "присяжные",
+  "kept": "храниться",
+  "killed": "убил",
+  "king": "король",
+  "king's": "короля",
+  "kings": "короли",
+  "knew": "знал(и)",
+  "knowledge": "знание",
+  "known": "известен",
+  "lack": "отсутствие",
+  "language": "язык",
+  "later": "позже",
+  "latin": "латынь",
+  "law": "право, закон",
+  "lawyer": "юрист",
+  "lear": "Лир (король, пьеса)",
+  "least": "(at least) по крайней мере",
+  "leather": "кожаный",
+  "led": "во главе (led by)",
+  "left": "оставил",
+  "legal": "юридический",
+  "leslie": "Лесли (имя)",
+  "less": "меньше",
+  "let": "(let us) давайте",
+  "letters": "письма",
+  "library": "библиотека",
+  "life": "жизнь",
+  "lifetime": "(during his lifetime) при жизни",
+  "like": "как, такой как",
+  "lines": "строки",
+  "listed": "перечислил",
+  "listened": "выслушали",
+  "lists": "перечисляет",
+  "literature": "литература",
+  "live": "жить",
+  "lived": "жил",
+  "london": "Лондон",
+  "long": "долго, долгий",
+  "look": "смотреть",
+  "looks": "выглядит, похож",
+  "looney": "Луни (фамилия)",
+  "lord": "лорд",
+  "lost": "растратил; утрачен",
+  "low": "низкий",
+  "macbeth": "«Макбет» (пьеса)",
+  "made": "делал",
+  "main": "главный",
+  "major": "крупный",
+  "make": "сделать, допустить",
+  "maker's": "(glove-maker's) перчаточника",
+  "man": "мужчина",
+  "manuscripts": "рукописи",
+  "many": "много",
+  "mark": "Марк (имя)",
+  "market": "(market town) торговый",
+  "marlowe": "Марло (фамилия)",
+  "marlowe's": "Марло (притяж.)",
+  "married": "женился",
+  "mask": "маска",
+  "may": "(may be) возможно",
+  "meaning": "имея в виду",
+  "men": "люди, мужчины",
+  "mention": "упоминать",
+  "mentioned": "упомянул; упомянутые",
+  "mentions": "упоминает",
+  "meres": "Мирес (фамилия)",
+  "message": "сообщение",
+  "messages": "сообщения",
+  "methods": "методы",
+  "middle": "середина",
+  "middleton": "Мидлтон (фамилия)",
+  "mistakes": "ошибки",
+  "mock": "показательный, инсценированный",
+  "modern": "современный",
+  "money": "деньги",
+  "monument": "памятник",
+  "more": "больше",
+  "most": "самый; большинство",
+  "much": "гораздо",
+  "name": "имя",
+  "named": "назвали; по имени",
+  "names": "имена",
+  "near": "возле, у",
+  "need": "нужно",
+  "never": "никогда",
+  "new": "новый",
+  "nine": "девять",
+  "no": "нет",
+  "nobleman": "аристократ, дворянин",
+  "nobles": "знать, аристократы",
+  "nobody": "никто",
+  "not": "не",
+  "note": "отмечать",
+  "now": "теперь",
+  "obsession": "одержимость",
+  "obvious": "явный",
+  "of": "из, о, (род. падеж)",
+  "official": "официальный",
+  "officials": "чиновники",
+  "old": "старый",
+  "older": "старше",
+  "on": "на",
+  "one": "один, одна",
+  "only": "только",
+  "opinion": "мнение",
+  "or": "или",
+  "ordinary": "обычный",
+  "other": "другой",
+  "out": "(point out) указывать",
+  "own": "собственный",
+  "owner": "(part-owner) совладелец",
+  "oxford": "Оксфорд",
+  "oxfordian": "оксфордианский",
+  "oxfordians": "оксфордианцы",
+  "page": "страница",
+  "pages": "страницы",
+  "pamphlet": "памфлет",
+  "papers": "бумаги",
+  "part": "часть",
+  "parts": "части",
+  "past": "прошлое",
+  "people": "люди",
+  "performed": "ставят, играла",
+  "perhaps": "может быть",
+  "personal": "личный",
+  "personally": "лично",
+  "philosopher": "философ",
+  "place": "(New Place) Плейс (название дома)",
+  "plans": "планы",
+  "play": "пьеса",
+  "plays": "пьесы",
+  "playwright": "драматург",
+  "playwrights": "драматурги",
+  "poem": "стихотворение",
+  "poems": "стихи",
+  "poetry": "поэзия",
+  "point": "(point out) указывать",
+  "politician": "политик",
+  "polonius": "Полоний (персонаж)",
+  "popular": "популярный",
+  "positions": "должности",
+  "power": "власть",
+  "powerful": "влиятельный",
+  "presented": "представила",
+  "printed": "напечатаны",
+  "probably": "вероятно",
+  "problem": "проблема",
+  "professional": "профессиональный",
+  "proper": "подобающий, приличный",
+  "prove": "доказать",
+  "proved": "доказывающий",
+  "psychoanalysis": "психоанализ",
+  "public": "публичный",
+  "publish": "опубликовать",
+  "published": "опубликовал; изданный",
+  "pupils": "учеников",
+  "put": "(put on the wall) установили; (put together) составили; (put forward) предложил",
+  "queen": "королева",
+  "question": "вопрос",
+  "quickly": "быстро",
+  "read": "прочитали",
+  "readers": "читатели",
+  "real": "настоящий",
+  "really": "действительно",
+  "reasonable": "обоснованный",
+  "record": "запись, свидетельство",
+  "records": "записи; записывает",
+  "refuses": "отказывается",
+  "related": "(related to) родственник",
+  "remember": "помнить",
+  "report": "отчёт",
+  "reports": "рассказы, сообщения",
+  "richard": "Ричард (имя)",
+  "rings": "кольца",
+  "rise": "подъём, возвышение",
+  "river": "река",
+  "robert": "Роберт (имя)",
+  "rose": "поднялся",
+  "rylance": "Райлэнс (фамилия)",
+  "s": "(-е годы: 1850s — 1850-е)",
+  "same": "тот же",
+  "saw": "видели; считали (saw as)",
+  "say": "говорить",
+  "scene": "сцена (Shake-scene — Потрясцена)",
+  "scholar": "учёный, исследователь",
+  "scholars": "учёные",
+  "school": "школа",
+  "schoolteacher": "школьный учитель",
+  "scientist": "учёный",
+  "scripts": "тексты (пьес)",
+  "sea": "море",
+  "second": "(second-best) второй",
+  "secret": "тайный",
+  "see": "видеть",
+  "seems": "кажется",
+  "seen": "считались (seen as)",
+  "sending": "отправляя",
+  "sensible": "разумный",
+  "serious": "серьёзный",
+  "seriously": "серьёзно",
+  "seven": "семь",
+  "shake": "потрясать (Shake-scene — Потрясцена)",
+  "shakespeare": "Шекспир (фамилия)",
+  "shakespeare's": "Шекспира",
+  "she": "она",
+  "shipwreck": "кораблекрушение",
+  "shoemaker": "сапожник",
+  "showed": "показали",
+  "sigmund": "Зигмунд (имя)",
+  "sign": "знак",
+  "signatures": "подписи",
+  "signed": "подписали",
+  "silver": "серебряный",
+  "simple": "простой",
+  "single": "ни одной (not a single)",
+  "sir": "сэр",
+  "six": "шесть",
+  "sixteen": "шестнадцать",
+  "small": "маленький",
+  "so": "поэтому; так",
+  "societies": "общества",
+  "society": "общество",
+  "some": "некоторые",
+  "someone": "кто-то",
+  "sometimes": "иногда",
+  "son": "сын",
+  "sonnets": "сонеты",
+  "south": "юг",
+  "spelled": "написано (по буквам)",
+  "spoken": "произносили",
+  "spread": "распространились",
+  "spy": "шпион",
+  "stabbed": "ударил ножом",
+  "stage": "сцена",
+  "start": "начать",
+  "starting": "начиная",
+  "statesman": "государственный деятель",
+  "stepson": "пасынок",
+  "still": "всё ещё, по-прежнему",
+  "story": "история",
+  "stratford": "Стратфорд (город)",
+  "strongest": "самый весомый",
+  "studies": "исследования",
+  "study": "изучение",
+  "style": "стиль",
+  "such": "такой",
+  "suggest": "показывают, предполагают",
+  "support": "поддерживают",
+  "supported": "покровительствовал",
+  "supporters": "сторонники",
+  "supreme": "верховный",
+  "sure": "уверены",
+  "survive": "сохраняются",
+  "survived": "сохранились",
+  "swan": "лебедь",
+  "sweet": "милый",
+  "take": "(take seriously) воспринимать",
+  "tale": "сказка",
+  "taught": "научил",
+  "tempest": "«Буря» (пьеса)",
+  "ten": "десять",
+  "text": "текст",
+  "th": "(17th) -й (порядковое окончание)",
+  "thames": "Темза",
+  "than": "чем",
+  "thanks": "(thanks to) благодаря",
+  "that": "что; тот, это",
+  "the": "(опр. артикль)",
+  "theatre": "театр; театральный",
+  "their": "их",
+  "them": "их",
+  "then": "тогда, же",
+  "theory": "теория",
+  "there": "там",
+  "these": "эти",
+  "they": "они",
+  "things": "вещи",
+  "third": "третий",
+  "thirty": "тридцать",
+  "this": "этот",
+  "thomas": "Томас (имя)",
+  "three": "три",
+  "through": "через",
+  "thy": "твой (старин.)",
+  "time": "время",
+  "to": "к, в; (частица)",
+  "today": "сегодня",
+  "together": "вместе",
+  "town": "город",
+  "town's": "городской",
+  "translations": "переводы",
+  "travelled": "путешествовал",
+  "treasures": "сокровища",
+  "trial": "суд",
+  "tricks": "приёмы",
+  "trinity": "Троица",
+  "true": "настоящий",
+  "trusted": "верили, доверяли",
+  "twain": "Твен (фамилия)",
+  "twelve": "двенадцать",
+  "twenty": "двадцать",
+  "twist": "поворот",
+  "two": "два",
+  "unconvincing": "неубедительный",
+  "under": "под",
+  "understand": "понимать",
+  "unique": "уникальный",
+  "university": "университет",
+  "unusual": "необычный",
+  "unusually": "необычно",
+  "upon": "на (Stratford-upon-Avon)",
+  "upstart": "выскочка",
+  "us": "(let us) давайте; (US) США",
+  "use": "использовать",
+  "used": "пользовался, использовал",
+  "usually": "обычно",
+  "vere": "Вер (фамилия de Vere)",
+  "vere's": "де Вера",
+  "very": "очень",
+  "vi": "VI (Шестой)",
+  "wall": "стена",
+  "wanted": "хотели",
+  "was": "был(а)",
+  "ways": "(in different ways) по-разному",
+  "we": "мы",
+  "wealth": "богатство",
+  "well": "(well-known) хорошо; (as well as) так же хорошо, как",
+  "went": "(went to university) учился",
+  "were": "были",
+  "what": "что",
+  "when": "когда",
+  "where": "где",
+  "whether": "ли",
+  "which": "который",
+  "while": "тогда как",
+  "who": "кто, который",
+  "why": "почему",
+  "wife": "жена",
+  "will": "завещание",
+  "william": "Уильям (имя)",
+  "winter's": "(The Winter's Tale) зимняя",
+  "with": "с",
+  "words": "слова",
+  "work": "произведения",
+  "worked": "работал(и)",
+  "working": "рабочий",
+  "works": "произведения",
+  "world": "мир",
+  "would": "бы; (буд. в прошедшем)",
+  "wound": "рана",
+  "write": "писать",
+  "writer": "писатель",
+  "writers": "писатели",
+  "written": "написан(ы)",
+  "wrote": "написал",
+  "year": "год",
+  "years": "лет, годы",
+  "yet": "и всё же, однако",
+  "you": "вы, ты"
+ },
+ "vocab": {
+  "across": 414,
+  "government": 383,
+  "power": 537,
+  "rose": 436,
+  "rise": 436,
+  "wealth": 539,
+  "coat": 39,
+  "forward": 242,
+  "record": 567,
+  "records": 567,
+  "unique": 591,
+  "obsession": 651,
+  "trusted": 131,
+  "breathe": 354,
+  "thanks": 12
+ }
+}

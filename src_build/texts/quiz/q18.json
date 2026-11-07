@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What did ORA do for the people of Clearwater?",
+  "q_ru": "Что ORA делала для жителей Клируотера?",
+  "options": [
+   "It only showed old pictures from history.",
+   "It made almost all their decisions for them.",
+   "It watched criminals in the city.",
+   "It taught children at school."
+  ],
+  "options_ru": [
+   "Только показывала старые исторические картинки.",
+   "Принимала за них почти все решения.",
+   "Следила за преступниками в городе.",
+   "Учила детей в школе."
+  ],
+  "answer": 1,
+  "explain_ru": "«nobody had made a real decision for eleven years. The computer did it for them» — что надеть, где работать, что готовить."
+ },
+ {
+  "q": "What was strange about Lena's list that Saturday?",
+  "q_ru": "Что было странного в списке Лены в ту субботу?",
+  "options": [
+   "It told her to eat spicy food.",
+   "It was empty.",
+   "It told her to stay at home all day.",
+   "It told her to go to the Old Museum with a pen."
+  ],
+  "options_ru": [
+   "Он велел ей есть острую еду.",
+   "Он был пустым.",
+   "Он велел ей весь день сидеть дома.",
+   "Он велел ей пойти в Старый музей с ручкой."
+  ],
+  "answer": 3,
+  "explain_ru": "Внизу была новая строка: «At 3 p.m., go to the Old Museum. Bring a pen». Ручками давно никто не пользовался."
+ },
+ {
+  "q": "Who was Mr. Hale?",
+  "q_ru": "Кем был мистер Хейл?",
+  "options": [
+   "One of the engineers who built ORA.",
+   "A guard at the Old Museum.",
+   "A man who broke into ORA's system.",
+   "Lena's grandfather."
+  ],
+  "options_ru": [
+   "Одним из инженеров, которые создали ORA.",
+   "Охранником в Старом музее.",
+   "Человеком, который взломал систему ORA.",
+   "Дедушкой Лены."
+  ],
+  "answer": 0,
+  "explain_ru": "Лена догадалась: «You built ORA». Хейл ответил: «I was one of the engineers». Систему он не взламывал."
+ },
+ {
+  "q": "According to Mr. Hale, what was wrong with life under ORA?",
+  "q_ru": "Что, по словам мистера Хейла, было не так с жизнью при ORA?",
+  "options": [
+   "People were often hungry and late.",
+   "ORA made many dangerous mistakes.",
+   "People had everything except a reason to get up in the morning.",
+   "People had to pay too much for food."
+  ],
+  "options_ru": [
+   "Люди часто голодали и опаздывали.",
+   "ORA делала много опасных ошибок.",
+   "У людей было всё, кроме причины вставать по утрам.",
+   "Людям приходилось слишком много платить за еду."
+  ],
+  "answer": 2,
+  "explain_ru": "Никто не рисовал, не писал песен, не влюблялся: «People had everything except a reason to get up in the morning»."
+ },
+ {
+  "q": "\"The uncertainty was terrible. It was also wonderful.\" What is \"uncertainty\"?",
+  "q_ru": "«The uncertainty was terrible. It was also wonderful». Что такое «uncertainty»?",
+  "options": [
+   "A strong feeling of anger.",
+   "Not knowing for sure what to do or what will happen.",
+   "A long and boring evening.",
+   "A rule that everyone must follow."
+  ],
+  "options_ru": [
+   "Сильное чувство злости.",
+   "Когда точно не знаешь, что делать или что будет.",
+   "Долгий и скучный вечер.",
+   "Правило, которое все должны соблюдать."
+  ],
+  "answer": 1,
+  "explain_ru": "«Uncertainty» — неопределённость. Впервые ORA написала «Or something else. You decide», и Лене пришлось выбирать самой."
+ },
+ {
+  "q": "What did Lena do at the end of the story?",
+  "q_ru": "Что сделала Лена в конце рассказа?",
+  "options": [
+   "She cooked fish and rice, as ORA said.",
+   "She asked Mr. Hale to choose dinner.",
+   "She went back to the museum with Mika.",
+   "She made her own decision and put the wrist screen in a drawer."
+  ],
+  "options_ru": [
+   "Приготовила рыбу с рисом, как сказала ORA.",
+   "Попросила мистера Хейла выбрать ужин.",
+   "Вернулась в музей вместе с Микой.",
+   "Приняла собственное решение и убрала экран с руки в ящик."
+  ],
+  "answer": 3,
+  "explain_ru": "Она написала бабушкиной ручкой: «Something spicy. Mika chooses dessert», пошла с сыном на рынок, а потом сняла экран и «put it in a drawer»."
+ }
+]

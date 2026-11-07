@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What was Nora's job?",
+  "q_ru": "Кем работала Нора?",
+  "options": [
+   "She was a manager at a supermarket.",
+   "She tasted chocolate at a factory.",
+   "She was a police officer in Bellwood.",
+   "She sold sweets in a small shop."
+  ],
+  "options_ru": [
+   "Она была менеджером в супермаркете.",
+   "Она дегустировала шоколад на фабрике.",
+   "Она была полицейским в Беллвуде.",
+   "Она продавала сладости в маленьком магазине."
+  ],
+  "answer": 1,
+  "explain_ru": "В начале сказано: «For six years she had worked as a taster at the Bellwood chocolate factory»."
+ },
+ {
+  "q": "Why were the first messages so frightening for Nora?",
+  "q_ru": "Почему первые сообщения так напугали Нору?",
+  "options": [
+   "They came from her ex-boyfriend Dan.",
+   "They said that she would lose her job.",
+   "They were written in a strange language.",
+   "The sender knew small details about her life."
+  ],
+  "options_ru": [
+   "Они пришли от её бывшего парня Дэна.",
+   "В них говорилось, что она потеряет работу.",
+   "Они были написаны на странном языке.",
+   "Отправитель знал мелкие подробности её жизни."
+  ],
+  "answer": 3,
+  "explain_ru": "Незнакомец знал, что её растение не полито («Your plant is thirsty») и что на ней красная кепка («Nice red cap today»). Нора решила, что за ней следят."
+ },
+ {
+  "q": "What did Nora notice when she tasted batch 14?",
+  "q_ru": "Что заметила Нора, когда попробовала партию 14?",
+  "options": [
+   "A light bitter taste, like almonds.",
+   "Too much sugar and too little cocoa.",
+   "The chocolate was very old.",
+   "Nothing — it tasted perfect."
+  ],
+  "options_ru": [
+   "Лёгкий горький привкус, как у миндаля.",
+   "Слишком много сахара и мало какао.",
+   "Шоколад был очень старым.",
+   "Ничего — вкус был идеальным."
+  ],
+  "answer": 0,
+  "explain_ru": "В конце вкуса она почувствовала «a light, bitter taste, like almonds», хотя миндаля в рецепте не было."
+ },
+ {
+  "q": "The room was \"accessible only through the low door behind the boilers.\" What does \"accessible\" mean?",
+  "q_ru": "Комната была «accessible only through the low door behind the boilers». Что значит «accessible»?",
+  "options": [
+   "Dangerous to stay in.",
+   "Possible to get into.",
+   "Closed for many years.",
+   "Easy to see from outside."
+  ],
+  "options_ru": [
+   "Опасный для пребывания.",
+   "Такой, куда можно попасть.",
+   "Закрытый много лет.",
+   "Хорошо видный снаружи."
+  ],
+  "answer": 1,
+  "explain_ru": "«Accessible» — доступный: в комнату можно попасть только через низкую дверь за котлами."
+ },
+ {
+  "q": "Why was Mr. Crane putting poison in the chocolate?",
+  "q_ru": "Зачем мистер Крейн добавлял яд в шоколад?",
+  "options": [
+   "He wanted to punish Nora for her reports.",
+   "He made a mistake with the recipe.",
+   "Marlow Sweets promised him money for destroying Bellwood's name.",
+   "The supermarket asked him to make the chocolate cheaper."
+  ],
+  "options_ru": [
+   "Он хотел наказать Нору за её отчёты.",
+   "Он ошибся с рецептом.",
+   "«Марлоу Свитс» обещала ему деньги за то, что он погубит репутацию Беллвуда.",
+   "Супермаркет попросил его сделать шоколад дешевле."
+  ],
+  "answer": 2,
+  "explain_ru": "В папке были письма конкурента: «When Bellwood's name is destroyed, we will buy the factory at a low price, and you will have your money, Mr. Crane»."
+ },
+ {
+  "q": "Who was sending the messages, and why?",
+  "q_ru": "Кто посылал сообщения и зачем?",
+  "options": [
+   "Dan, because he wanted to play a joke on Nora.",
+   "Old Sam, because he worked on the night shift.",
+   "Mr. Crane, because he wanted to frighten Nora.",
+   "Ruth Shaw, the old taster, because Crane had blamed her too."
+  ],
+  "options_ru": [
+   "Дэн, потому что хотел подшутить над Норой.",
+   "Старый Сэм, потому что работал в ночную смену.",
+   "Мистер Крейн, потому что хотел напугать Нору.",
+   "Рут Шоу, бывшая дегустатор, потому что Крейн раньше обвинил и её."
+  ],
+  "answer": 3,
+  "explain_ru": "Это была Рут Шоу: два года назад Крейн свалил вину на неё. Она следила за Крейном и Норой и писала, чтобы Нора поверила ей («I needed you to believe me»). В итоге Крейна арестовали."
+ }
+]

@@ -1,0 +1,1271 @@
+{
+ "id": 73,
+ "level": "B1",
+ "cat": "cons",
+ "title_en": "The Ship That Sailed Alone: The Mystery of the Mary Celeste",
+ "title_ru": "Корабль, который плыл один: загадка «Мэри Селест»",
+ "genre": "Конспирология: загадка",
+ "summary_ru": "В 1872 году посреди Атлантики нашли целый корабль с запасом еды на полгода — но без единого человека на борту; что известно точно, какие версии предлагались и почему многие из них не выдерживают проверки.",
+ "paragraphs": [
+  {
+   "en": "On the afternoon of 4 December 1872, sailors on a small ship called the Dei Gratia noticed another vessel in the middle of the Atlantic Ocean, somewhere between the Azores and the coast of Portugal. She was moving strangely, as if nobody was steering her. Some of her sails were torn, and no one answered their signals. The captain of the Dei Gratia, David Morehouse, decided to take a closer look. What his men found on board has puzzled people for more than 150 years.",
+   "ru": "Днём 4 декабря 1872 года моряки с небольшого судна «Деи Грация» заметили другой корабль посреди Атлантического океана, где-то между Азорскими островами и побережьем Португалии. Он двигался странно, как будто им никто не управлял. Часть его парусов была порвана, и никто не отвечал на их сигналы. Капитан «Деи Грации» Дэвид Морхаус решил рассмотреть его поближе. То, что его люди нашли на борту, вот уже более 150 лет не даёт людям покоя.",
+   "s": [
+    [
+     "On the afternoon of 4 December 1872, sailors on a small ship called the Dei Gratia noticed another vessel in the middle of the Atlantic Ocean, somewhere between the Azores and the coast of Portugal.",
+     "Днём 4 декабря 1872 года моряки с небольшого судна «Деи Грация» заметили другой корабль посреди Атлантического океана, где-то между Азорскими островами и побережьем Португалии."
+    ],
+    [
+     "She was moving strangely, as if nobody was steering her.",
+     "Он двигался странно, как будто им никто не управлял."
+    ],
+    [
+     "Some of her sails were torn, and no one answered their signals.",
+     "Часть его парусов была порвана, и никто не отвечал на их сигналы."
+    ],
+    [
+     "The captain of the Dei Gratia, David Morehouse, decided to take a closer look.",
+     "Капитан «Деи Грации» Дэвид Морхаус решил рассмотреть его поближе."
+    ],
+    [
+     "What his men found on board has puzzled people for more than 150 years.",
+     "То, что его люди нашли на борту, вот уже более 150 лет не даёт людям покоя."
+    ]
+   ]
+  },
+  {
+   "en": "The ship was the Mary Celeste, and she was completely empty. There was no captain, no crew and no passengers – not a single living person and not a single body. Ten people had sailed on her from New York less than a month earlier. None of them was ever seen again.",
+   "ru": "Это была «Мэри Селест», и она была совершенно пуста. На ней не было ни капитана, ни команды, ни пассажиров — ни одного живого человека и ни одного тела. Меньше чем за месяц до этого на ней вышли из Нью-Йорка десять человек. Никого из них больше никогда не видели.",
+   "s": [
+    [
+     "The ship was the Mary Celeste, and she was completely empty.",
+     "Это была «Мэри Селест», и она была совершенно пуста."
+    ],
+    [
+     "There was no captain, no crew and no passengers – not a single living person and not a single body.",
+     "На ней не было ни капитана, ни команды, ни пассажиров — ни одного живого человека и ни одного тела."
+    ],
+    [
+     "Ten people had sailed on her from New York less than a month earlier.",
+     "Меньше чем за месяц до этого на ней вышли из Нью-Йорка десять человек."
+    ],
+    [
+     "None of them was ever seen again.",
+     "Никого из них больше никогда не видели."
+    ]
+   ]
+  },
+  {
+   "en": "It is one of the most famous mysteries of the sea. Over the years, people have tried to explain it with alcohol fumes, storms, pirates, murder and even sea monsters. But before we look at the theories, it makes sense to look carefully at what is actually documented, because a lot of what people \"know\" about the Mary Celeste comes not from history, but from fiction.",
+   "ru": "Это одна из самых известных морских загадок. За эти годы её пытались объяснить парами алкоголя, штормами, пиратами, убийством и даже морскими чудовищами. Но прежде чем рассматривать версии, имеет смысл внимательно посмотреть на то, что действительно подтверждено документами, потому что многое из того, что люди «знают» о «Мэри Селест», взято не из истории, а из художественной литературы.",
+   "s": [
+    [
+     "It is one of the most famous mysteries of the sea.",
+     "Это одна из самых известных морских загадок."
+    ],
+    [
+     "Over the years, people have tried to explain it with alcohol fumes, storms, pirates, murder and even sea monsters.",
+     "За эти годы её пытались объяснить парами алкоголя, штормами, пиратами, убийством и даже морскими чудовищами."
+    ],
+    [
+     "But before we look at the theories, it makes sense to look carefully at what is actually documented, because a lot of what people \"know\" about the Mary Celeste comes not from history, but from fiction.",
+     "Но прежде чем рассматривать версии, имеет смысл внимательно посмотреть на то, что действительно подтверждено документами, потому что многое из того, что люди «знают» о «Мэри Селест», взято не из истории, а из художественной литературы."
+    ]
+   ]
+  },
+  {
+   "en": "The Mary Celeste was a brigantine, a sailing ship with two masts, about 30 metres long. She had been built in 1861 in Nova Scotia, in Canada, under a different name, the Amazon. After an accident and several changes of owner, she was bought by Americans, repaired and given her new name. One of the people she belonged to was her captain, Benjamin Spooner Briggs, who owned a share of the ship.",
+   "ru": "«Мэри Селест» была бригантиной — парусным судном с двумя мачтами длиной около 30 метров. Её построили в 1861 году в Новой Шотландии, в Канаде, под другим названием — «Амазонка». После аварии и нескольких смен владельцев её купили американцы, отремонтировали и дали ей новое название. Одним из тех, кому она принадлежала, был её капитан Бенджамин Спунер Бриггс, которому принадлежала доля в судне.",
+   "s": [
+    [
+     "The Mary Celeste was a brigantine, a sailing ship with two masts, about 30 metres long.",
+     "«Мэри Селест» была бригантиной — парусным судном с двумя мачтами длиной около 30 метров."
+    ],
+    [
+     "She had been built in 1861 in Nova Scotia, in Canada, under a different name, the Amazon.",
+     "Её построили в 1861 году в Новой Шотландии, в Канаде, под другим названием — «Амазонка»."
+    ],
+    [
+     "After an accident and several changes of owner, she was bought by Americans, repaired and given her new name.",
+     "После аварии и нескольких смен владельцев её купили американцы, отремонтировали и дали ей новое название."
+    ],
+    [
+     "One of the people she belonged to was her captain, Benjamin Spooner Briggs, who owned a share of the ship.",
+     "Одним из тех, кому она принадлежала, был её капитан Бенджамин Спунер Бриггс, которому принадлежала доля в судне."
+    ]
+   ]
+  },
+  {
+   "en": "Briggs was 37 years old, an experienced sailor from Massachusetts who came from a family of sea captains. People who knew him described him as a serious, religious and fair man. On this voyage he took his wife, Sarah, and their two-year-old daughter, Sophia. Their seven-year-old son, Arthur, was left at home with relatives so that he could go to school. The crew consisted of seven men: two officers, a cook and four ordinary sailors, several of whom came from Germany.",
+   "ru": "Бриггсу было 37 лет; это был опытный моряк из Массачусетса, происходивший из семьи морских капитанов. Знавшие его люди описывали его как серьёзного, религиозного и справедливого человека. В этот рейс он взял с собой жену Сару и их двухлетнюю дочь Софию. Их семилетнего сына Артура оставили дома с родственниками, чтобы он мог ходить в школу. Команда состояла из семи человек: двух помощников капитана, кока и четырёх простых матросов, несколько из которых были родом из Германии.",
+   "s": [
+    [
+     "Briggs was 37 years old, an experienced sailor from Massachusetts who came from a family of sea captains.",
+     "Бриггсу было 37 лет; это был опытный моряк из Массачусетса, происходивший из семьи морских капитанов."
+    ],
+    [
+     "People who knew him described him as a serious, religious and fair man.",
+     "Знавшие его люди описывали его как серьёзного, религиозного и справедливого человека."
+    ],
+    [
+     "On this voyage he took his wife, Sarah, and their two-year-old daughter, Sophia.",
+     "В этот рейс он взял с собой жену Сару и их двухлетнюю дочь Софию."
+    ],
+    [
+     "Their seven-year-old son, Arthur, was left at home with relatives so that he could go to school.",
+     "Их семилетнего сына Артура оставили дома с родственниками, чтобы он мог ходить в школу."
+    ],
+    [
+     "The crew consisted of seven men: two officers, a cook and four ordinary sailors, several of whom came from Germany.",
+     "Команда состояла из семи человек: двух помощников капитана, кока и четырёх простых матросов, несколько из которых были родом из Германии."
+    ]
+   ]
+  },
+  {
+   "en": "The ship left her pier in New York on Tuesday, 5 November 1872, but bad weather kept her in the harbour for two more days. She finally sailed into the open sea on 7 November, heading for Genoa in Italy. Her cargo was 1,701 barrels of industrial alcohol – strong alcohol that was meant for factories, not for drinking. About a week later, the Dei Gratia left New York too, on her way to Gibraltar.",
+   "ru": "Судно отошло от причала в Нью-Йорке во вторник, 5 ноября 1872 года, но плохая погода задержала его в гавани ещё на два дня. Наконец 7 ноября оно вышло в открытое море, взяв курс на Геную в Италии. Её грузом была 1701 бочка технического спирта — крепкого спирта, предназначенного для заводов, а не для питья. Примерно через неделю из Нью-Йорка вышла и «Деи Грация», направлявшаяся в Гибралтар.",
+   "s": [
+    [
+     "The ship left her pier in New York on Tuesday, 5 November 1872, but bad weather kept her in the harbour for two more days.",
+     "Судно отошло от причала в Нью-Йорке во вторник, 5 ноября 1872 года, но плохая погода задержала его в гавани ещё на два дня."
+    ],
+    [
+     "She finally sailed into the open sea on 7 November, heading for Genoa in Italy.",
+     "Наконец 7 ноября оно вышло в открытое море, взяв курс на Геную в Италии."
+    ],
+    [
+     "Her cargo was 1,701 barrels of industrial alcohol – strong alcohol that was meant for factories, not for drinking.",
+     "Её грузом была 1701 бочка технического спирта — крепкого спирта, предназначенного для заводов, а не для питья."
+    ],
+    [
+     "About a week later, the Dei Gratia left New York too, on her way to Gibraltar.",
+     "Примерно через неделю из Нью-Йорка вышла и «Деи Грация», направлявшаяся в Гибралтар."
+    ]
+   ]
+  },
+  {
+   "en": "When the two ships met in the ocean almost a month later, Morehouse sent his first officer, Oliver Deveau, and a sailor named John Wright across in a small boat. Later, at an official inquiry, they described what they had seen. The ship was wet and untidy, but she was still able to sail. There was about a metre of water in the hold, the space below deck where the cargo is kept, and one of the pumps was not working.",
+   "ru": "Когда почти через месяц два судна встретились в океане, Морхаус отправил туда на маленькой лодке своего старшего помощника Оливера Дево и матроса по имени Джон Райт. Позже, на официальном расследовании, они описали то, что увидели. Судно было мокрым и неубранным, но всё ещё могло идти под парусами. В трюме — пространстве под палубой, где хранится груз, — было около метра воды, а один из насосов не работал.",
+   "s": [
+    [
+     "When the two ships met in the ocean almost a month later, Morehouse sent his first officer, Oliver Deveau, and a sailor named John Wright across in a small boat.",
+     "Когда почти через месяц два судна встретились в океане, Морхаус отправил туда на маленькой лодке своего старшего помощника Оливера Дево и матроса по имени Джон Райт."
+    ],
+    [
+     "Later, at an official inquiry, they described what they had seen.",
+     "Позже, на официальном расследовании, они описали то, что увидели."
+    ],
+    [
+     "The ship was wet and untidy, but she was still able to sail.",
+     "Судно было мокрым и неубранным, но всё ещё могло идти под парусами."
+    ],
+    [
+     "There was about a metre of water in the hold, the space below deck where the cargo is kept, and one of the pumps was not working.",
+     "В трюме — пространстве под палубой, где хранится груз, — было около метра воды, а один из насосов не работал."
+    ]
+   ]
+  },
+  {
+   "en": "Most importantly, the ship's only lifeboat was missing. Several hatches, the openings in the deck that lead down into the ship, were open. The sextant and the chronometer, the instruments that sailors used to work out their position, were gone, and so were the ship's papers. However, there was plenty of food and fresh water on board, enough for about six months. The sailors' personal belongings, such as clothes, boots and pipes, had been left behind.",
+   "ru": "Самое главное — пропала единственная шлюпка судна. Несколько люков — отверстий в палубе, которые ведут внутрь судна, — были открыты. Секстант и хронометр — приборы, с помощью которых моряки определяли своё местоположение, — исчезли, как и судовые документы. Однако на борту было много еды и пресной воды — примерно на полгода. Личные вещи матросов — одежда, сапоги, трубки — остались на месте.",
+   "s": [
+    [
+     "Most importantly, the ship's only lifeboat was missing.",
+     "Самое главное — пропала единственная шлюпка судна."
+    ],
+    [
+     "Several hatches, the openings in the deck that lead down into the ship, were open.",
+     "Несколько люков — отверстий в палубе, которые ведут внутрь судна, — были открыты."
+    ],
+    [
+     "The sextant and the chronometer, the instruments that sailors used to work out their position, were gone, and so were the ship's papers.",
+     "Секстант и хронометр — приборы, с помощью которых моряки определяли своё местоположение, — исчезли, как и судовые документы."
+    ],
+    [
+     "However, there was plenty of food and fresh water on board, enough for about six months.",
+     "Однако на борту было много еды и пресной воды — примерно на полгода."
+    ],
+    [
+     "The sailors' personal belongings, such as clothes, boots and pipes, had been left behind.",
+     "Личные вещи матросов — одежда, сапоги, трубки — остались на месте."
+    ]
+   ]
+  },
+  {
+   "en": "The last note on the ship's log slate, a board on which officers wrote notes before copying them into the logbook, had been made at 8 a.m. on 25 November. It recorded that the ship was passing the island of Santa Maria, in the Azores. If that was the last day anyone was on board, the Mary Celeste had sailed alone for about nine days and hundreds of miles before she was found.",
+   "ru": "Последняя запись на грифельной доске судового журнала — доске, на которой офицеры делали заметки, прежде чем переписать их в вахтенный журнал, — была сделана в 8 часов утра 25 ноября. В ней отмечалось, что судно проходит мимо острова Санта-Мария на Азорах. Если это был последний день, когда на борту кто-то был, то «Мэри Селест» плыла одна около девяти дней и прошла сотни миль, прежде чем её нашли.",
+   "s": [
+    [
+     "The last note on the ship's log slate, a board on which officers wrote notes before copying them into the logbook, had been made at 8 a.m. on 25 November.",
+     "Последняя запись на грифельной доске судового журнала — доске, на которой офицеры делали заметки, прежде чем переписать их в вахтенный журнал, — была сделана в 8 часов утра 25 ноября."
+    ],
+    [
+     "It recorded that the ship was passing the island of Santa Maria, in the Azores.",
+     "В ней отмечалось, что судно проходит мимо острова Санта-Мария на Азорах."
+    ],
+    [
+     "If that was the last day anyone was on board, the Mary Celeste had sailed alone for about nine days and hundreds of miles before she was found.",
+     "Если это был последний день, когда на борту кто-то был, то «Мэри Селест» плыла одна около девяти дней и прошла сотни миль, прежде чем её нашли."
+    ]
+   ]
+  },
+  {
+   "en": "Morehouse divided his small crew. Deveau and two other men sailed the Mary Celeste to Gibraltar, where both ships arrived in the middle of December. The sailors expected a salvage reward, a payment that the law gives to people who save a ship and its cargo at sea. Instead, they were met with suspicion.",
+   "ru": "Морхаус разделил свою небольшую команду. Дево и ещё двое моряков привели «Мэри Селест» в Гибралтар, куда оба судна прибыли в середине декабря. Моряки рассчитывали на вознаграждение за спасение — выплату, которую закон даёт тем, кто спас судно и его груз в море. Вместо этого их встретили с подозрением.",
+   "s": [
+    [
+     "Morehouse divided his small crew.",
+     "Морхаус разделил свою небольшую команду."
+    ],
+    [
+     "Deveau and two other men sailed the Mary Celeste to Gibraltar, where both ships arrived in the middle of December.",
+     "Дево и ещё двое моряков привели «Мэри Селест» в Гибралтар, куда оба судна прибыли в середине декабря."
+    ],
+    [
+     "The sailors expected a salvage reward, a payment that the law gives to people who save a ship and its cargo at sea.",
+     "Моряки рассчитывали на вознаграждение за спасение — выплату, которую закон даёт тем, кто спас судно и его груз в море."
+    ],
+    [
+     "Instead, they were met with suspicion.",
+     "Вместо этого их встретили с подозрением."
+    ]
+   ]
+  },
+  {
+   "en": "The inquiry was led by Frederick Solly-Flood, a senior British legal official in Gibraltar. He was sure that a crime had been committed. He pointed to marks on the ship's wooden rail and to stains on a sword found in the captain's cabin, which he believed could be blood. His first guess was that the sailors had drunk the alcohol, killed the captain and his family, and escaped in the lifeboat. Later, there were also rumours that Morehouse and Briggs had planned the whole thing together in order to get the reward.",
+   "ru": "Расследование вёл Фредерик Солли-Флад, высокопоставленный британский юрист-чиновник в Гибралтаре. Он был уверен, что было совершено преступление. Он указывал на следы на деревянных перилах судна и на пятна на сабле, найденной в каюте капитана, которые, по его мнению, могли быть кровью. Его первое предположение было таким: матросы напились спирта, убили капитана и его семью и сбежали на шлюпке. Позже ходили и слухи, будто Морхаус и Бриггс спланировали всё это вместе, чтобы получить вознаграждение.",
+   "s": [
+    [
+     "The inquiry was led by Frederick Solly-Flood, a senior British legal official in Gibraltar.",
+     "Расследование вёл Фредерик Солли-Флад, высокопоставленный британский юрист-чиновник в Гибралтаре."
+    ],
+    [
+     "He was sure that a crime had been committed.",
+     "Он был уверен, что было совершено преступление."
+    ],
+    [
+     "He pointed to marks on the ship's wooden rail and to stains on a sword found in the captain's cabin, which he believed could be blood.",
+     "Он указывал на следы на деревянных перилах судна и на пятна на сабле, найденной в каюте капитана, которые, по его мнению, могли быть кровью."
+    ],
+    [
+     "His first guess was that the sailors had drunk the alcohol, killed the captain and his family, and escaped in the lifeboat.",
+     "Его первое предположение было таким: матросы напились спирта, убили капитана и его семью и сбежали на шлюпке."
+    ],
+    [
+     "Later, there were also rumours that Morehouse and Briggs had planned the whole thing together in order to get the reward.",
+     "Позже ходили и слухи, будто Морхаус и Бриггс спланировали всё это вместе, чтобы получить вознаграждение."
+    ]
+   ]
+  },
+  {
+   "en": "The evidence did not support these ideas. When the stains on the sword were examined, they were found not to be blood. There were no signs of a fight anywhere on the ship, and nothing of value seemed to have been stolen. The industrial alcohol would have been very unpleasant and dangerous to drink. In the end, the court found no proof of a crime, but it gave the Dei Gratia's crew a reward of only £1,700, a small part of the value of the ship and her cargo. Many historians think this shows that some suspicion remained.",
+   "ru": "Улики не подтвердили этих предположений. Когда пятна на сабле исследовали, оказалось, что это не кровь. Нигде на судне не было следов борьбы, и, судя по всему, ничего ценного не украли. Технический спирт было бы очень неприятно и опасно пить. В итоге суд не нашёл доказательств преступления, но присудил команде «Деи Грации» вознаграждение всего в 1700 фунтов — лишь небольшую часть стоимости судна и груза. Многие историки считают, что это показывает: какие-то подозрения остались.",
+   "s": [
+    [
+     "The evidence did not support these ideas.",
+     "Улики не подтвердили этих предположений."
+    ],
+    [
+     "When the stains on the sword were examined, they were found not to be blood.",
+     "Когда пятна на сабле исследовали, оказалось, что это не кровь."
+    ],
+    [
+     "There were no signs of a fight anywhere on the ship, and nothing of value seemed to have been stolen.",
+     "Нигде на судне не было следов борьбы, и, судя по всему, ничего ценного не украли."
+    ],
+    [
+     "The industrial alcohol would have been very unpleasant and dangerous to drink.",
+     "Технический спирт было бы очень неприятно и опасно пить."
+    ],
+    [
+     "In the end, the court found no proof of a crime, but it gave the Dei Gratia's crew a reward of only £1,700, a small part of the value of the ship and her cargo.",
+     "В итоге суд не нашёл доказательств преступления, но присудил команде «Деи Грации» вознаграждение всего в 1700 фунтов — лишь небольшую часть стоимости судна и груза."
+    ],
+    [
+     "Many historians think this shows that some suspicion remained.",
+     "Многие историки считают, что это показывает: какие-то подозрения остались."
+    ]
+   ]
+  },
+  {
+   "en": "The story might have been forgotten if a young writer had not become interested in it. In January 1884, the Cornhill Magazine in London published a story called \"J. Habakuk Jephson's Statement\". It was written as if it were the real report of a survivor, and it appeared without the author's name. The author was Arthur Conan Doyle, then a young doctor, who a few years later would create Sherlock Holmes.",
+   "ru": "Эта история, возможно, была бы забыта, если бы ею не заинтересовался один молодой писатель. В январе 1884 года лондонский журнал «Корнхилл» опубликовал рассказ под названием «Сообщение Дж. Хабакука Джефсона». Он был написан так, будто это настоящий отчёт выжившего, и вышел без имени автора. Автором был Артур Конан Дойл, тогда ещё молодой врач, который через несколько лет создаст Шерлока Холмса.",
+   "s": [
+    [
+     "The story might have been forgotten if a young writer had not become interested in it.",
+     "Эта история, возможно, была бы забыта, если бы ею не заинтересовался один молодой писатель."
+    ],
+    [
+     "In January 1884, the Cornhill Magazine in London published a story called \"J. Habakuk Jephson's Statement\".",
+     "В январе 1884 года лондонский журнал «Корнхилл» опубликовал рассказ под названием «Сообщение Дж. Хабакука Джефсона»."
+    ],
+    [
+     "It was written as if it were the real report of a survivor, and it appeared without the author's name.",
+     "Он был написан так, будто это настоящий отчёт выжившего, и вышел без имени автора."
+    ],
+    [
+     "The author was Arthur Conan Doyle, then a young doctor, who a few years later would create Sherlock Holmes.",
+     "Автором был Артур Конан Дойл, тогда ещё молодой врач, который через несколько лет создаст Шерлока Холмса."
+    ]
+   ]
+  },
+  {
+   "en": "Doyle changed many facts and invented a violent plot. He also called the ship the Marie Celeste, and that wrong name is still often used today. Some readers believed that the story was true, and its details began to mix with the real case. Later retellings added even more drama: a half-eaten breakfast on the table and cups of tea that were still warm. There is no reliable evidence for any of these details in the reports from 1872 and 1873.",
+   "ru": "Дойл изменил многие факты и придумал сюжет, полный насилия. Он также назвал судно «Мари Селест», и это неправильное название часто используют до сих пор. Некоторые читатели поверили, что история правдива, и её подробности начали смешиваться с настоящим делом. Позднейшие пересказы добавили ещё больше драматизма: недоеденный завтрак на столе и чашки ещё тёплого чая. В отчётах 1872 и 1873 годов нет надёжных подтверждений ни одной из этих подробностей.",
+   "s": [
+    [
+     "Doyle changed many facts and invented a violent plot.",
+     "Дойл изменил многие факты и придумал сюжет, полный насилия."
+    ],
+    [
+     "He also called the ship the Marie Celeste, and that wrong name is still often used today.",
+     "Он также назвал судно «Мари Селест», и это неправильное название часто используют до сих пор."
+    ],
+    [
+     "Some readers believed that the story was true, and its details began to mix with the real case.",
+     "Некоторые читатели поверили, что история правдива, и её подробности начали смешиваться с настоящим делом."
+    ],
+    [
+     "Later retellings added even more drama: a half-eaten breakfast on the table and cups of tea that were still warm.",
+     "Позднейшие пересказы добавили ещё больше драматизма: недоеденный завтрак на столе и чашки ещё тёплого чая."
+    ],
+    [
+     "There is no reliable evidence for any of these details in the reports from 1872 and 1873.",
+     "В отчётах 1872 и 1873 годов нет надёжных подтверждений ни одной из этих подробностей."
+    ]
+   ]
+  },
+  {
+   "en": "So what really happened? Let us start with the most dramatic explanations. One popular idea is that pirates attacked the ship. But pirates usually wanted money, goods or the ship itself, and here nothing seems to have been taken. The cargo was still in the hold, the crew's belongings were still in their places, and the ship was simply left to drift.",
+   "ru": "Так что же произошло на самом деле? Начнём с самых драматичных объяснений. Одна из популярных версий — на судно напали пираты. Но пиратам обычно нужны были деньги, товары или само судно, а здесь, судя по всему, ничего не взяли. Груз оставался в трюме, вещи команды лежали на своих местах, а судно просто оставили дрейфовать.",
+   "s": [
+    [
+     "So what really happened?",
+     "Так что же произошло на самом деле?"
+    ],
+    [
+     "Let us start with the most dramatic explanations.",
+     "Начнём с самых драматичных объяснений."
+    ],
+    [
+     "One popular idea is that pirates attacked the ship.",
+     "Одна из популярных версий — на судно напали пираты."
+    ],
+    [
+     "But pirates usually wanted money, goods or the ship itself, and here nothing seems to have been taken.",
+     "Но пиратам обычно нужны были деньги, товары или само судно, а здесь, судя по всему, ничего не взяли."
+    ],
+    [
+     "The cargo was still in the hold, the crew's belongings were still in their places, and the ship was simply left to drift.",
+     "Груз оставался в трюме, вещи команды лежали на своих местах, а судно просто оставили дрейфовать."
+    ]
+   ]
+  },
+  {
+   "en": "A mutiny, in which the sailors rise up against their captain, also makes little sense. The crew had a good reputation, and there were no signs of violence. Besides, mutineers would hardly leave a good ship full of food and escape in a small open boat in the middle of the ocean. As for sea monsters and other supernatural stories, there is simply no evidence for them at all.",
+   "ru": "Бунт, при котором матросы восстают против капитана, тоже лишён особого смысла. У команды была хорошая репутация, и не было никаких следов насилия. К тому же бунтовщики вряд ли бросили бы хорошее судно, полное еды, чтобы бежать на маленькой открытой лодке посреди океана. Что же касается морских чудовищ и других сверхъестественных историй, для них просто нет никаких доказательств.",
+   "s": [
+    [
+     "A mutiny, in which the sailors rise up against their captain, also makes little sense.",
+     "Бунт, при котором матросы восстают против капитана, тоже лишён особого смысла."
+    ],
+    [
+     "The crew had a good reputation, and there were no signs of violence.",
+     "У команды была хорошая репутация, и не было никаких следов насилия."
+    ],
+    [
+     "Besides, mutineers would hardly leave a good ship full of food and escape in a small open boat in the middle of the ocean.",
+     "К тому же бунтовщики вряд ли бросили бы хорошее судно, полное еды, чтобы бежать на маленькой открытой лодке посреди океана."
+    ],
+    [
+     "As for sea monsters and other supernatural stories, there is simply no evidence for them at all.",
+     "Что же касается морских чудовищ и других сверхъестественных историй, для них просто нет никаких доказательств."
+    ]
+   ]
+  },
+  {
+   "en": "Most serious researchers suppose that the people on board left the ship on purpose, in the lifeboat, because they believed they were in danger. This idea fits the known facts: the missing lifeboat, the missing instruments and papers, and the belongings left behind in a hurry. The difficult question is why an experienced captain would take his wife and baby daughter off a ship that was still able to float.",
+   "ru": "Большинство серьёзных исследователей предполагают, что люди покинули судно намеренно, на шлюпке, потому что считали, что им грозит опасность. Эта мысль согласуется с известными фактами: пропавшей шлюпкой, пропавшими приборами и документами и вещами, оставленными в спешке. Трудный вопрос в том, зачем опытному капитану было снимать жену и маленькую дочь с судна, которое всё ещё держалось на плаву.",
+   "s": [
+    [
+     "Most serious researchers suppose that the people on board left the ship on purpose, in the lifeboat, because they believed they were in danger.",
+     "Большинство серьёзных исследователей предполагают, что люди покинули судно намеренно, на шлюпке, потому что считали, что им грозит опасность."
+    ],
+    [
+     "This idea fits the known facts: the missing lifeboat, the missing instruments and papers, and the belongings left behind in a hurry.",
+     "Эта мысль согласуется с известными фактами: пропавшей шлюпкой, пропавшими приборами и документами и вещами, оставленными в спешке."
+    ],
+    [
+     "The difficult question is why an experienced captain would take his wife and baby daughter off a ship that was still able to float.",
+     "Трудный вопрос в том, зачем опытному капитану было снимать жену и маленькую дочь с судна, которое всё ещё держалось на плаву."
+    ]
+   ]
+  },
+  {
+   "en": "One answer points to the cargo. When the barrels were unloaded in Genoa, nine of them were found to be empty. They had been made of red oak, a wood that lets liquid through more easily than the white oak used for the other barrels. According to this theory, alcohol leaked into the hold and filled it with strong fumes. Perhaps the crew noticed the smell or heard a noise, and Briggs feared that the ship might explode.",
+   "ru": "Один из ответов указывает на груз. Когда бочки выгрузили в Генуе, девять из них оказались пустыми. Они были сделаны из красного дуба — древесины, которая пропускает жидкость легче, чем белый дуб, из которого были сделаны остальные бочки. Согласно этой версии, спирт протёк в трюм и наполнил его сильными парами. Возможно, команда почувствовала запах или услышала шум, и Бриггс испугался, что судно может взорваться.",
+   "s": [
+    [
+     "One answer points to the cargo.",
+     "Один из ответов указывает на груз."
+    ],
+    [
+     "When the barrels were unloaded in Genoa, nine of them were found to be empty.",
+     "Когда бочки выгрузили в Генуе, девять из них оказались пустыми."
+    ],
+    [
+     "They had been made of red oak, a wood that lets liquid through more easily than the white oak used for the other barrels.",
+     "Они были сделаны из красного дуба — древесины, которая пропускает жидкость легче, чем белый дуб, из которого были сделаны остальные бочки."
+    ],
+    [
+     "According to this theory, alcohol leaked into the hold and filled it with strong fumes.",
+     "Согласно этой версии, спирт протёк в трюм и наполнил его сильными парами."
+    ],
+    [
+     "Perhaps the crew noticed the smell or heard a noise, and Briggs feared that the ship might explode.",
+     "Возможно, команда почувствовала запах или услышала шум, и Бриггс испугался, что судно может взорваться."
+    ]
+   ]
+  },
+  {
+   "en": "If that is what happened, Briggs may have ordered everyone into the lifeboat, planning to wait at a safe distance and return when the danger was over. The open hatches would fit this story, since someone may have opened them to let the fumes out. Then, perhaps, the wind became stronger, the ship sailed away, and the small boat was left behind in the empty ocean.",
+   "ru": "Если всё было так, Бриггс, возможно, приказал всем сесть в шлюпку, собираясь подождать на безопасном расстоянии и вернуться, когда опасность минует. С этой историей согласуются и открытые люки: кто-то мог открыть их, чтобы выпустить пары. А затем, возможно, ветер усилился, судно ушло, а маленькая лодка осталась позади в пустом океане.",
+   "s": [
+    [
+     "If that is what happened, Briggs may have ordered everyone into the lifeboat, planning to wait at a safe distance and return when the danger was over.",
+     "Если всё было так, Бриггс, возможно, приказал всем сесть в шлюпку, собираясь подождать на безопасном расстоянии и вернуться, когда опасность минует."
+    ],
+    [
+     "The open hatches would fit this story, since someone may have opened them to let the fumes out.",
+     "С этой историей согласуются и открытые люки: кто-то мог открыть их, чтобы выпустить пары."
+    ],
+    [
+     "Then, perhaps, the wind became stronger, the ship sailed away, and the small boat was left behind in the empty ocean.",
+     "А затем, возможно, ветер усилился, судно ушло, а маленькая лодка осталась позади в пустом океане."
+    ]
+   ]
+  },
+  {
+   "en": "In 2006, a chemist at University College London, Andrea Sella, tested part of this idea for a television documentary. He built a model of the hold, filled it with gas and set it on fire. The result was a sudden, frightening burst of flame that was not hot enough to leave burn marks on the paper boxes inside the model. The experiment showed that a small explosion could have terrified the crew without leaving any signs, but it did not prove that this actually happened.",
+   "ru": "В 2006 году химик из Университетского колледжа Лондона Андреа Селла проверил часть этой идеи для документального телефильма. Он построил модель трюма, наполнил её газом и поджёг. В результате произошла внезапная, пугающая вспышка пламени, которая оказалась недостаточно горячей, чтобы оставить следы ожогов на бумажных коробках внутри модели. Эксперимент показал, что небольшой взрыв мог до смерти напугать команду, не оставив никаких следов, но он не доказал, что именно так всё и было.",
+   "s": [
+    [
+     "In 2006, a chemist at University College London, Andrea Sella, tested part of this idea for a television documentary.",
+     "В 2006 году химик из Университетского колледжа Лондона Андреа Селла проверил часть этой идеи для документального телефильма."
+    ],
+    [
+     "He built a model of the hold, filled it with gas and set it on fire.",
+     "Он построил модель трюма, наполнил её газом и поджёг."
+    ],
+    [
+     "The result was a sudden, frightening burst of flame that was not hot enough to leave burn marks on the paper boxes inside the model.",
+     "В результате произошла внезапная, пугающая вспышка пламени, которая оказалась недостаточно горячей, чтобы оставить следы ожогов на бумажных коробках внутри модели."
+    ],
+    [
+     "The experiment showed that a small explosion could have terrified the crew without leaving any signs, but it did not prove that this actually happened.",
+     "Эксперимент показал, что небольшой взрыв мог до смерти напугать команду, не оставив никаких следов, но он не доказал, что именно так всё и было."
+    ]
+   ]
+  },
+  {
+   "en": "Other researchers prefer more ordinary explanations. A waterspout, a kind of tornado over the sea, could have hit the ship, damaged the sails and pushed water inside. Another theory suggests that the chronometer was not accurate, so Briggs was closer to land than he thought, and that the pumps had become blocked. If he believed that water was coming in fast and he could see land nearby, leaving the ship might have seemed the safest choice. However, there is no record of a waterspout in the area, and these ideas, too, are only guesses.",
+   "ru": "Другие исследователи предпочитают более обыденные объяснения. Водяной смерч — что-то вроде торнадо над морем — мог налететь на судно, повредить паруса и загнать внутрь воду. Согласно другой версии, хронометр был неточным, поэтому Бриггс находился ближе к суше, чем думал, а насосы засорились. Если он считал, что вода быстро прибывает, и видел неподалёку сушу, покинуть судно могло показаться самым безопасным решением. Однако нет никаких записей о смерче в этом районе, и эти идеи — тоже лишь догадки.",
+   "s": [
+    [
+     "Other researchers prefer more ordinary explanations.",
+     "Другие исследователи предпочитают более обыденные объяснения."
+    ],
+    [
+     "A waterspout, a kind of tornado over the sea, could have hit the ship, damaged the sails and pushed water inside.",
+     "Водяной смерч — что-то вроде торнадо над морем — мог налететь на судно, повредить паруса и загнать внутрь воду."
+    ],
+    [
+     "Another theory suggests that the chronometer was not accurate, so Briggs was closer to land than he thought, and that the pumps had become blocked.",
+     "Согласно другой версии, хронометр был неточным, поэтому Бриггс находился ближе к суше, чем думал, а насосы засорились."
+    ],
+    [
+     "If he believed that water was coming in fast and he could see land nearby, leaving the ship might have seemed the safest choice.",
+     "Если он считал, что вода быстро прибывает, и видел неподалёку сушу, покинуть судно могло показаться самым безопасным решением."
+    ],
+    [
+     "However, there is no record of a waterspout in the area, and these ideas, too, are only guesses.",
+     "Однако нет никаких записей о смерче в этом районе, и эти идеи — тоже лишь догадки."
+    ]
+   ]
+  },
+  {
+   "en": "All of the \"abandon ship\" theories share the same sad ending. The Mary Celeste stayed afloat, while the small boat, with ten people inside, was probably lost at sea. Leaving the security of a large ship for an open boat in the Atlantic in November must have taken either great courage or great fear. We will never know how the people in that boat felt as they watched their ship disappear.",
+   "ru": "У всех версий о том, что судно покинули, один и тот же печальный конец. «Мэри Селест» осталась на плаву, а маленькая лодка с десятью людьми, вероятно, погибла в море. Чтобы променять надёжность большого корабля на открытую лодку в Атлантике в ноябре, нужна была либо огромная храбрость, либо огромный страх. Мы никогда не узнаем, что чувствовали люди в той лодке, глядя, как исчезает их корабль.",
+   "s": [
+    [
+     "All of the \"abandon ship\" theories share the same sad ending.",
+     "У всех версий о том, что судно покинули, один и тот же печальный конец."
+    ],
+    [
+     "The Mary Celeste stayed afloat, while the small boat, with ten people inside, was probably lost at sea.",
+     "«Мэри Селест» осталась на плаву, а маленькая лодка с десятью людьми, вероятно, погибла в море."
+    ],
+    [
+     "Leaving the security of a large ship for an open boat in the Atlantic in November must have taken either great courage or great fear.",
+     "Чтобы променять надёжность большого корабля на открытую лодку в Атлантике в ноябре, нужна была либо огромная храбрость, либо огромный страх."
+    ],
+    [
+     "We will never know how the people in that boat felt as they watched their ship disappear.",
+     "Мы никогда не узнаем, что чувствовали люди в той лодке, глядя, как исчезает их корабль."
+    ]
+   ]
+  },
+  {
+   "en": "The ship herself had a long and unlucky life after 1872. She was sold many times and gained a reputation for bad luck. In January 1885, her last captain, Gilman Parker, deliberately ran her onto a reef near Haiti, hoping to collect insurance money, but the fraud was discovered. In 2001, a team led by the American writer Clive Cussler announced that it had found the wreck, but later tests on the wood suggested that it was probably a different ship.",
+   "ru": "У самого судна после 1872 года была долгая и несчастливая жизнь. Его много раз продавали, и оно приобрело репутацию несчастливого. В январе 1885 года её последний капитан Гилман Паркер намеренно посадил её на риф у берегов Гаити, надеясь получить страховку, но мошенничество раскрыли. В 2001 году команда под руководством американского писателя Клайва Касслера объявила, что нашла её обломки, но более поздние анализы древесины показали, что это, вероятно, было другое судно.",
+   "s": [
+    [
+     "The ship herself had a long and unlucky life after 1872.",
+     "У самого судна после 1872 года была долгая и несчастливая жизнь."
+    ],
+    [
+     "She was sold many times and gained a reputation for bad luck.",
+     "Его много раз продавали, и оно приобрело репутацию несчастливого."
+    ],
+    [
+     "In January 1885, her last captain, Gilman Parker, deliberately ran her onto a reef near Haiti, hoping to collect insurance money, but the fraud was discovered.",
+     "В январе 1885 года её последний капитан Гилман Паркер намеренно посадил её на риф у берегов Гаити, надеясь получить страховку, но мошенничество раскрыли."
+    ],
+    [
+     "In 2001, a team led by the American writer Clive Cussler announced that it had found the wreck, but later tests on the wood suggested that it was probably a different ship.",
+     "В 2001 году команда под руководством американского писателя Клайва Касслера объявила, что нашла её обломки, но более поздние анализы древесины показали, что это, вероятно, было другое судно."
+    ]
+   ]
+  },
+  {
+   "en": "So what can we say with confidence? The ship was found in good enough condition to sail, with food, water and belongings on board, and with her lifeboat gone. No evidence of murder, mutiny or piracy has ever been found. The half-eaten breakfast, the warm tea and the name \"Marie Celeste\" belong to fiction, not to history.",
+   "ru": "Так что же мы можем сказать с уверенностью? Судно нашли в достаточно хорошем состоянии, чтобы идти под парусами, с едой, водой и вещами на борту и без шлюпки. Никаких доказательств убийства, бунта или пиратства так и не нашли. Недоеденный завтрак, тёплый чай и название «Мари Селест» относятся к вымыслу, а не к истории.",
+   "s": [
+    [
+     "So what can we say with confidence?",
+     "Так что же мы можем сказать с уверенностью?"
+    ],
+    [
+     "The ship was found in good enough condition to sail, with food, water and belongings on board, and with her lifeboat gone.",
+     "Судно нашли в достаточно хорошем состоянии, чтобы идти под парусами, с едой, водой и вещами на борту и без шлюпки."
+    ],
+    [
+     "No evidence of murder, mutiny or piracy has ever been found.",
+     "Никаких доказательств убийства, бунта или пиратства так и не нашли."
+    ],
+    [
+     "The half-eaten breakfast, the warm tea and the name \"Marie Celeste\" belong to fiction, not to history.",
+     "Недоеденный завтрак, тёплый чай и название «Мари Селест» относятся к вымыслу, а не к истории."
+    ]
+   ]
+  },
+  {
+   "en": "What we cannot say is exactly why ten people left a ship that did not sink. Leaking alcohol, a broken pump, a storm or a simple mistake are all possible, and experts still disagree about which is most likely. Far away in Massachusetts, a seven-year-old boy named Arthur grew up without his parents and his little sister, and he never learned what had happened to them. In the end, that is the real mystery of the Mary Celeste: not ghosts or monsters, but a family and a crew who disappeared somewhere in a very large ocean.",
+   "ru": "А вот чего мы сказать не можем — так это почему именно десять человек покинули судно, которое не затонуло. Протёкший спирт, сломанный насос, шторм или простая ошибка — всё это возможно, и эксперты до сих пор спорят, что из этого наиболее вероятно. Далеко в Массачусетсе семилетний мальчик по имени Артур вырос без родителей и младшей сестры и так и не узнал, что с ними случилось. В конечном счёте именно в этом и состоит настоящая загадка «Мэри Селест»: не в призраках или чудовищах, а в семье и команде, которые исчезли где-то в очень большом океане.",
+   "s": [
+    [
+     "What we cannot say is exactly why ten people left a ship that did not sink.",
+     "А вот чего мы сказать не можем — так это почему именно десять человек покинули судно, которое не затонуло."
+    ],
+    [
+     "Leaking alcohol, a broken pump, a storm or a simple mistake are all possible, and experts still disagree about which is most likely.",
+     "Протёкший спирт, сломанный насос, шторм или простая ошибка — всё это возможно, и эксперты до сих пор спорят, что из этого наиболее вероятно."
+    ],
+    [
+     "Far away in Massachusetts, a seven-year-old boy named Arthur grew up without his parents and his little sister, and he never learned what had happened to them.",
+     "Далеко в Массачусетсе семилетний мальчик по имени Артур вырос без родителей и младшей сестры и так и не узнал, что с ними случилось."
+    ],
+    [
+     "In the end, that is the real mystery of the Mary Celeste: not ghosts or monsters, but a family and a crew who disappeared somewhere in a very large ocean.",
+     "В конечном счёте именно в этом и состоит настоящая загадка «Мэри Селест»: не в призраках или чудовищах, а в семье и команде, которые исчезли где-то в очень большом океане."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "abandon": "(abandon ship) покинуть судно",
+  "able": "(was able to) мог(ло)",
+  "about": "о, об",
+  "accident": "авария, несчастный случай",
+  "according": "согласно",
+  "accurate": "точный",
+  "across": "через, по",
+  "actually": "на самом деле",
+  "added": "добавили",
+  "afloat": "на плаву",
+  "after": "после",
+  "afternoon": "день, после полудня",
+  "again": "снова",
+  "against": "против",
+  "alcohol": "спирт, алкоголь",
+  "all": "весь, все",
+  "almost": "почти",
+  "alone": "одна, в одиночку",
+  "also": "также",
+  "amazon": "Амазонка (название судна)",
+  "american": "американский",
+  "americans": "американцы",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "andrea": "Андреа (имя)",
+  "announced": "объявила",
+  "another": "ещё один",
+  "answer": "ответ",
+  "answered": "ответил; (be answered) получить ответ",
+  "any": "какой-либо, никакой",
+  "anyone": "кто-либо, любой",
+  "anywhere": "где-либо (нигде)",
+  "appeared": "вышел, появились",
+  "are": "есть, являются",
+  "area": "район, округа",
+  "arrived": "прибыли, приехал",
+  "arthur": "Артур (имя)",
+  "as": "как, так как",
+  "at": "в, у, на",
+  "atlantic": "Атлантика, Атлантический океан",
+  "attacked": "напали",
+  "author": "автор",
+  "author's": "автора",
+  "away": "прочь, (sailed away) ушло",
+  "azores": "Азорские острова",
+  "baby": "маленький (baby daughter)",
+  "bad": "плохой",
+  "barrels": "бочки",
+  "be": "быть",
+  "became": "стал(а)",
+  "because": "потому что",
+  "become": "стать",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "began": "начал(а)",
+  "behind": "за, позади",
+  "believed": "считал(и), верил(и)",
+  "belong": "принадлежать",
+  "belonged": "принадлежал",
+  "belongings": "вещи, имущество",
+  "below": "под, ниже",
+  "benjamin": "Бенджамин (имя)",
+  "besides": "к тому же",
+  "between": "между",
+  "blocked": "засорились",
+  "blood": "кровь",
+  "board": "доска; (on board) на борту",
+  "boat": "лодка",
+  "body": "тело",
+  "boots": "сапоги",
+  "both": "оба",
+  "bought": "купили",
+  "boxes": "коробки",
+  "boy": "мальчик",
+  "breakfast": "завтрак",
+  "brigantine": "бригантина",
+  "briggs": "Бриггс (фамилия)",
+  "british": "британский",
+  "broken": "сломанный",
+  "built": "построил(и)",
+  "burn": "ожог; (burn marks) следы ожогов",
+  "burst": "вспышка",
+  "but": "но",
+  "by": "(кем-то), к, у",
+  "cabin": "каюта",
+  "called": "назывался, звали",
+  "came": "пришли, приехали; (came from) был родом; (came back) вернулся",
+  "can": "можем, может",
+  "canada": "Канада",
+  "cannot": "не можем, не могут",
+  "captain": "капитан",
+  "captain's": "капитана",
+  "captains": "капитаны",
+  "carefully": "внимательно",
+  "cargo": "груз; грузовой",
+  "case": "дело",
+  "celeste": "Селест (часть названия судна)",
+  "changed": "изменил(и)",
+  "changes": "смены",
+  "chemist": "химик",
+  "choice": "выбор",
+  "chronometer": "хронометр",
+  "clive": "Клайв (имя)",
+  "closer": "ближе",
+  "clothes": "одежда",
+  "coast": "побережье",
+  "collect": "получить",
+  "college": "колледж",
+  "comes": "берётся",
+  "coming": "(coming in) поступать",
+  "committed": "совершено",
+  "completely": "полностью",
+  "conan": "Конан (часть фамилии)",
+  "condition": "состояние",
+  "confidence": "уверенность",
+  "consisted": "состояла",
+  "cook": "кок, повар",
+  "copying": "переписывая",
+  "cornhill": "Корнхилл (название журнала)",
+  "could": "мог(ла, ли)",
+  "courage": "храбрость",
+  "court": "суд",
+  "create": "создать",
+  "crew": "команда, экипаж",
+  "crew's": "команды",
+  "crime": "преступление",
+  "cups": "чашки",
+  "cussler": "Касслер (фамилия)",
+  "damaged": "повредить",
+  "danger": "опасность",
+  "dangerous": "опасный",
+  "daughter": "дочь",
+  "david": "Дэвид (имя)",
+  "day": "день",
+  "days": "дней, дни",
+  "december": "декабрь",
+  "decided": "решил",
+  "deck": "палуба",
+  "dei": "Деи (часть названия судна)",
+  "deliberately": "намеренно",
+  "described": "описали",
+  "details": "подробности",
+  "deveau": "Дево (фамилия)",
+  "did": "(вспом. гл.)",
+  "different": "другой, разный",
+  "difficult": "трудный",
+  "disagree": "расходиться во мнениях, спорить",
+  "disappear": "исчезнуть",
+  "disappeared": "исчез(ли)",
+  "discovered": "раскрыто, обнаружено",
+  "distance": "расстояние",
+  "divided": "разделил",
+  "doctor": "врач",
+  "documentary": "документальный; документальный фильм",
+  "documented": "документально подтверждённый",
+  "down": "вниз",
+  "doyle": "Дойл (фамилия)",
+  "drama": "драматизм",
+  "dramatic": "драматичный",
+  "drift": "дрейфовать",
+  "drink": "пить",
+  "drinking": "питьё",
+  "drunk": "выпили",
+  "earlier": "раньше",
+  "easily": "легко",
+  "eaten": "(half-eaten) недоеденный",
+  "either": "(either…or) либо…либо; тоже (не)",
+  "empty": "пустой",
+  "end": "конец; (in the end) в итоге",
+  "ending": "конец, развязка",
+  "enough": "достаточно",
+  "escape": "бежать",
+  "escaped": "сбежали",
+  "even": "даже",
+  "ever": "когда-либо",
+  "everyone": "все",
+  "evidence": "доказательства",
+  "exactly": "точно",
+  "examined": "исследовали",
+  "expected": "ожидали, рассчитывали",
+  "experienced": "опытный",
+  "experiment": "эксперимент",
+  "experts": "эксперты",
+  "explain": "объяснять",
+  "explanations": "объяснения",
+  "explode": "взорваться",
+  "explosion": "взрыв",
+  "factories": "заводы",
+  "facts": "факты",
+  "fair": "справедливый",
+  "family": "семья",
+  "famous": "знаменитый",
+  "far": "далеко",
+  "fast": "быстро",
+  "fear": "страх",
+  "feared": "боялся, испугался",
+  "felt": "чувствовали",
+  "few": "несколько",
+  "fiction": "вымысел, художественная литература",
+  "fight": "борьба, драка",
+  "filled": "наполнил",
+  "finally": "наконец",
+  "fire": "(set on fire) поджечь; огонь",
+  "first": "первый; (first officer) старший помощник",
+  "fit": "согласовываться",
+  "fits": "согласуется",
+  "flame": "пламя",
+  "float": "держаться на плаву",
+  "flood": "Флад (часть фамилии)",
+  "food": "еда",
+  "for": "для, в течение",
+  "forgotten": "забыта",
+  "found": "нашли, найденный; оказались",
+  "four": "четыре",
+  "fraud": "мошенничество",
+  "frederick": "Фредерик (имя)",
+  "fresh": "пресный, свежий",
+  "frightening": "пугающий",
+  "from": "из, от",
+  "full": "полный",
+  "fumes": "пары",
+  "gained": "приобрело",
+  "gas": "газ",
+  "gave": "дал, присудил; (gave up) сдались",
+  "genoa": "Генуя",
+  "germany": "Германия",
+  "get": "получить",
+  "ghosts": "привидения",
+  "gibraltar": "Гибралтар",
+  "gilman": "Гилман (имя)",
+  "given": "дали, дано",
+  "gives": "даёт",
+  "go": "идти, ходить; (go further) двигаться дальше",
+  "gone": "исчезли, пропал",
+  "good": "хороший",
+  "goods": "товары",
+  "gratia": "Грация (часть названия судна)",
+  "gratia's": "«Деи Грации» (притяж.)",
+  "great": "огромный",
+  "grew": "(grew up) вырос",
+  "guess": "предполагать",
+  "guesses": "догадки",
+  "habakuk": "Хабакук (имя)",
+  "had": "(вспом. гл.); имела",
+  "haiti": "Гаити",
+  "half": "пол-, половина",
+  "happened": "случилось",
+  "harbour": "гавань",
+  "hardly": "вряд ли",
+  "has": "(вспом. гл.)",
+  "hatches": "люки",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "heading": "(heading for) взяв курс на",
+  "heard": "услышали",
+  "her": "её, ей",
+  "here": "здесь",
+  "herself": "само, сама",
+  "him": "его, ему",
+  "his": "его",
+  "historians": "историки",
+  "history": "история",
+  "hit": "ударить, налететь",
+  "hold": "трюм",
+  "holmes": "Холмс (фамилия)",
+  "home": "домой",
+  "hoping": "надеясь",
+  "hot": "горячий",
+  "how": "как",
+  "however": "однако",
+  "hundreds": "сотни",
+  "hurry": "спешка",
+  "idea": "идея",
+  "ideas": "идеи",
+  "if": "если, ли",
+  "importantly": "важно; (most importantly) самое главное",
+  "in": "в",
+  "industrial": "технический",
+  "inquiry": "расследование",
+  "inside": "внутри",
+  "instead": "вместо этого",
+  "instruments": "приборы",
+  "insurance": "страховка",
+  "interested": "(became interested) заинтересовался",
+  "into": "в",
+  "invented": "придумал, выдумали",
+  "is": "есть, является",
+  "island": "остров",
+  "it": "он, оно, это",
+  "italy": "Италия",
+  "its": "его, её",
+  "itself": "само",
+  "j": "Дж. (инициал)",
+  "january": "январь",
+  "jephson's": "Джефсона",
+  "john": "Джон (имя)",
+  "kept": "хранится; задержала; заставляет (kept people dreaming)",
+  "killed": "убили, погиб",
+  "kind": "вид; a kind of — что-то вроде",
+  "knew": "знал(и)",
+  "know": "знать",
+  "known": "известный",
+  "land": "земля",
+  "large": "большой",
+  "last": "последний",
+  "later": "позже",
+  "law": "закон",
+  "lead": "вести",
+  "leaked": "протёк",
+  "leaking": "протёкший",
+  "learned": "узнал",
+  "leave": "оставить; (where does this leave us) к чему мы пришли",
+  "leaving": "оставлять",
+  "led": "вёл, под руководством",
+  "left": "оставил(и), оставленный; отошло, вышла",
+  "legal": "юридический",
+  "less": "менее",
+  "let": "(let out) выпустить",
+  "lets": "позволяет",
+  "life": "жизнь",
+  "lifeboat": "спасательная шлюпка",
+  "likely": "вероятный (most likely — скорее всего)",
+  "liquid": "жидкость",
+  "little": "маленький, немного",
+  "living": "живой; жить",
+  "log": "судовой журнал",
+  "logbook": "вахтенный журнал",
+  "london": "Лондон",
+  "long": "долго, долгий",
+  "look": "взгляд; (take a look) посмотреть; (look similar) выглядеть",
+  "lost": "потерянный, погибший; лишились",
+  "lot": "много (a lot)",
+  "luck": "удача",
+  "m": "(a.m.) утра",
+  "made": "сделал; сделан(ный); созданный",
+  "magazine": "журнал",
+  "makes": "имеет (makes sense — имеет смысл); делает, заставляет",
+  "man": "человек, мужчина",
+  "many": "много",
+  "maria": "Мария (Санта-Мария, остров)",
+  "marie": "Мари (часть неверного названия судна)",
+  "marks": "следы",
+  "mary": "Мэри (часть названия судна)",
+  "massachusetts": "Массачусетс",
+  "masts": "мачты",
+  "may": "может, возможно",
+  "meant": "предназначенный",
+  "men": "мужчины",
+  "met": "встретились; встретили",
+  "metre": "метр",
+  "metres": "метров",
+  "middle": "середина",
+  "might": "мог бы, может",
+  "miles": "мили",
+  "missing": "пропавший",
+  "mistake": "ошибка",
+  "mix": "смешиваться",
+  "model": "модель",
+  "money": "деньги",
+  "monsters": "чудовища",
+  "month": "месяц",
+  "months": "месяцы",
+  "more": "больше",
+  "morehouse": "Морхаус (фамилия)",
+  "most": "самый; большинство, большая часть",
+  "moving": "двигался",
+  "murder": "убийство",
+  "must": "должен",
+  "mutineers": "бунтовщики",
+  "mutiny": "бунт (на судне)",
+  "mysteries": "тайны",
+  "mystery": "тайна",
+  "name": "имя",
+  "named": "по имени",
+  "near": "возле, у",
+  "nearby": "поблизости",
+  "never": "никогда",
+  "new": "новый",
+  "nine": "девять",
+  "no": "нет",
+  "nobody": "никто",
+  "noise": "шум",
+  "none": "ничто",
+  "not": "не",
+  "note": "запись",
+  "notes": "заметки",
+  "nothing": "ничего",
+  "noticed": "заметили, заметил",
+  "nova": "Новая (Новая Шотландия)",
+  "november": "ноябрь",
+  "oak": "дуб; дубовый",
+  "ocean": "океан",
+  "of": "из, о, (род. падеж)",
+  "off": "с, у (у побережья)",
+  "officer": "помощник капитана",
+  "officers": "офицеры, помощники капитана",
+  "official": "официальный",
+  "often": "часто",
+  "old": "старый",
+  "oliver": "Оливер (имя)",
+  "on": "на",
+  "one": "один, одна",
+  "only": "только",
+  "onto": "на",
+  "open": "открытый",
+  "opened": "открыл",
+  "openings": "отверстия",
+  "or": "или",
+  "order": "порядок; (in order to) чтобы; орден",
+  "ordered": "приказал",
+  "ordinary": "обычный",
+  "other": "другой",
+  "out": "наружу; (point out) указывать",
+  "over": "за (over the years); над; (be over) миновать",
+  "owned": "владел",
+  "owner": "владелец",
+  "paper": "бумага",
+  "papers": "бумаги",
+  "parents": "родители",
+  "parker": "Паркер (фамилия)",
+  "part": "часть",
+  "passengers": "пассажиры",
+  "passing": "проходить мимо",
+  "payment": "платёж",
+  "people": "люди",
+  "perhaps": "может быть",
+  "person": "человек",
+  "personal": "личный",
+  "pier": "причал",
+  "pipes": "(курительные) трубки",
+  "piracy": "пиратство",
+  "pirates": "пираты",
+  "places": "места",
+  "planned": "спланировали",
+  "planning": "собираясь",
+  "plenty": "(plenty of) много",
+  "plot": "сюжет; заговор",
+  "pointed": "указывал",
+  "points": "указывает",
+  "popular": "популярный",
+  "portugal": "Португалия",
+  "position": "местоположение",
+  "possible": "возможный",
+  "prefer": "предпочитать",
+  "probably": "вероятно",
+  "proof": "доказательство",
+  "prove": "доказать",
+  "published": "опубликовал",
+  "pump": "насос",
+  "pumps": "насосы",
+  "purpose": "цель (on purpose — нарочно)",
+  "pushed": "загнать",
+  "puzzled": "озадачивало",
+  "question": "вопрос",
+  "rail": "перила, поручень",
+  "ran": "(ran onto) посадил (на мель, риф)",
+  "readers": "читатели",
+  "real": "настоящий",
+  "really": "действительно",
+  "record": "запись",
+  "recorded": "отметил, записал",
+  "red": "красный",
+  "reef": "риф",
+  "relatives": "родственники",
+  "reliable": "надёжный",
+  "religious": "религиозный",
+  "remained": "остались",
+  "repaired": "отремонтировали",
+  "report": "отчёт",
+  "reports": "отчёты",
+  "reputation": "репутация",
+  "researchers": "исследователи",
+  "result": "результат",
+  "retellings": "пересказы",
+  "return": "вернуться",
+  "reward": "награда",
+  "rise": "(rise up) восставать",
+  "rumours": "слухи",
+  "sad": "грустный",
+  "safe": "безопасный",
+  "safest": "самый безопасный",
+  "sail": "идти под парусами, плыть",
+  "sailed": "плыла, вышла (в море), привели (судно)",
+  "sailing": "парусный",
+  "sailor": "моряк",
+  "sailors": "моряки, матросы",
+  "sails": "паруса",
+  "salvage": "спасение (судна); за спасение",
+  "same": "тот же",
+  "santa": "Санта (Санта-Мария)",
+  "sarah": "Сара (имя)",
+  "save": "спасти",
+  "say": "говорить",
+  "school": "школа",
+  "scotia": "Шотландия (Новая Шотландия)",
+  "sea": "море",
+  "security": "безопасность",
+  "see": "видеть",
+  "seemed": "казалось",
+  "seems": "кажется",
+  "seen": "видели",
+  "sella": "Селла (фамилия)",
+  "senior": "высокопоставленный, старший",
+  "sense": "смысл",
+  "sent": "отправил",
+  "serious": "серьёзный",
+  "set": "(set on fire) поджечь",
+  "seven": "семь",
+  "several": "несколько",
+  "sextant": "секстант",
+  "share": "доля; иметь общее",
+  "she": "она",
+  "sherlock": "Шерлок (имя)",
+  "ship": "судно, корабль",
+  "ship's": "судна, судовой",
+  "ships": "суда, корабли",
+  "showed": "показал",
+  "shows": "показывает",
+  "signals": "сигналы",
+  "signs": "следы, признаки",
+  "simple": "простой",
+  "simply": "просто",
+  "since": "так как",
+  "single": "(not a single) ни одного",
+  "sink": "затонуть",
+  "sister": "сестра",
+  "six": "шесть",
+  "slate": "грифельная доска",
+  "small": "маленький",
+  "smell": "запах",
+  "so": "поэтому; так",
+  "sold": "продали",
+  "solly": "Солли (часть фамилии)",
+  "some": "некоторые",
+  "someone": "кто-то",
+  "somewhere": "где-то",
+  "son": "сын",
+  "sophia": "София (имя)",
+  "space": "пространство",
+  "spooner": "Спунер (второе имя)",
+  "stains": "пятна",
+  "start": "начать",
+  "statement": "сообщение, заявление",
+  "stayed": "осталась",
+  "steering": "управлял (судном)",
+  "still": "всё ещё",
+  "stolen": "украдено",
+  "stories": "истории",
+  "storm": "шторм",
+  "storms": "штормы",
+  "story": "история",
+  "strangely": "странно",
+  "strong": "сильный, крепкий",
+  "stronger": "сильнее",
+  "such": "такой",
+  "sudden": "внезапный",
+  "suggested": "предположил; показали",
+  "suggests": "предполагает",
+  "supernatural": "сверхъестественный",
+  "support": "подтверждать",
+  "suppose": "предполагать",
+  "sure": "уверенный",
+  "survivor": "выживший",
+  "suspicion": "подозрение",
+  "sword": "сабля",
+  "table": "стол",
+  "take": "взять, снять; (take a look) посмотреть",
+  "taken": "взято; потребовало бы",
+  "tea": "чай",
+  "team": "команда",
+  "television": "телевидение",
+  "ten": "десять",
+  "terrified": "до смерти напугать",
+  "tested": "проверил",
+  "tests": "анализы, проверки",
+  "than": "чем",
+  "that": "что; тот, это",
+  "the": "(опр. артикль)",
+  "their": "их, свои",
+  "them": "их",
+  "then": "затем, тогда; тогда ещё",
+  "theories": "теории",
+  "theory": "теория",
+  "there": "там",
+  "these": "эти",
+  "they": "они",
+  "thing": "вещь",
+  "think": "думать",
+  "this": "этот",
+  "thought": "думал",
+  "through": "через, благодаря",
+  "times": "раз",
+  "to": "к, в; (частица)",
+  "today": "сегодня",
+  "together": "вместе",
+  "too": "тоже",
+  "took": "взял; (took place) прошли",
+  "torn": "порванный",
+  "tornado": "торнадо",
+  "tried": "пытались",
+  "true": "правдивый",
+  "tuesday": "вторник",
+  "two": "два",
+  "under": "под",
+  "university": "университет",
+  "unloaded": "выгрузили",
+  "unlucky": "несчастливый",
+  "unpleasant": "неприятный",
+  "untidy": "неубранный",
+  "up": "вверх",
+  "us": "нам, нас",
+  "used": "использовали, использовался; (got used to) привыкли",
+  "usually": "обычно",
+  "value": "стоимость, ценность",
+  "very": "очень",
+  "vessel": "судно",
+  "violence": "насилие, жестокость",
+  "violent": "жестокий, склонный к насилию",
+  "voyage": "рейс, плавание",
+  "wait": "ждать",
+  "wanted": "хотели",
+  "warm": "тёплый",
+  "was": "был(а)",
+  "watched": "смотрели",
+  "water": "вода",
+  "waterspout": "водяной смерч",
+  "way": "путь; способ",
+  "we": "мы",
+  "weather": "погода",
+  "week": "неделя",
+  "were": "были",
+  "wet": "мокрый",
+  "what": "что",
+  "when": "когда",
+  "where": "где",
+  "which": "который, что",
+  "while": "а, в то время как",
+  "white": "белый",
+  "who": "кто, который",
+  "whole": "весь, всё",
+  "whom": "которых",
+  "why": "почему",
+  "wife": "жена",
+  "will": "будет",
+  "wind": "ветер",
+  "with": "с",
+  "without": "без",
+  "wood": "дерево (материал)",
+  "wooden": "деревянный",
+  "work": "работа",
+  "working": "работать (не работал)",
+  "would": "бы",
+  "wreck": "обломки (затонувшего судна)",
+  "wright": "Райт (фамилия)",
+  "writer": "писатель",
+  "written": "написан",
+  "wrong": "неправильный",
+  "wrote": "писали, записал",
+  "year": "год",
+  "years": "лет, годы",
+  "york": "Йорк (Нью-Йорк)",
+  "young": "молодой"
+ },
+ "vocab": {
+  "relatives": 568,
+  "security": 307,
+  "sense": 401,
+  "there": 2,
+  "left": 169,
+  "leave": 169,
+  "leaving": 169,
+  "able": 229,
+  "felt": 120,
+  "suppose": 442,
+  "courage": 616,
+  "belong": 244,
+  "belonged": 244,
+  "lead": 502,
+  "led": 502,
+  "however": 411,
+  "guess": 429,
+  "guesses": 429,
+  "tuesday": 220
+ }
+}

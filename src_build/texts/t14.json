@@ -1,0 +1,1227 @@
+{
+ "id": 14,
+ "title_en": "The Voices in the Reading Room",
+ "title_ru": "Голоса в читальном зале",
+ "genre": "Мистика",
+ "summary_ru": "Нина устраивается ночным сторожем в старую библиотеку маленького городка — и на восьмую ночь слышит в пустом читальном зале детский шёпот.",
+ "paragraphs": [
+  {
+   "en": "Nina arrived in the town of Larkwell on a cold evening in November. The journey had taken two days: three trains, a bus, and a long walk from the station in the rain. She was tired, wet and hungry, but she did not care. After a difficult year in the city — a lost job, a broken engagement, too many evenings alone — she wanted something quiet. And a night job at a small town library sounded like the quietest thing in the world.",
+   "ru": "Нина приехала в городок Ларкуэлл холодным ноябрьским вечером. Путешествие заняло два дня: три поезда, автобус и долгая прогулка под дождём от станции. Она устала, промокла и проголодалась, но ей было всё равно. После тяжёлого года в городе — потерянная работа, разорванная помолвка, слишком много вечеров в одиночестве — ей хотелось тишины. А ночная работа в маленькой городской библиотеке казалась самым тихим занятием на свете.",
+   "s": [
+    [
+     "Nina arrived in the town of Larkwell on a cold evening in November.",
+     "Нина приехала в городок Ларкуэлл холодным ноябрьским вечером."
+    ],
+    [
+     "The journey had taken two days: three trains, a bus, and a long walk from the station in the rain.",
+     "Путешествие заняло два дня: три поезда, автобус и долгая прогулка под дождём от станции."
+    ],
+    [
+     "She was tired, wet and hungry, but she did not care.",
+     "Она устала, промокла и проголодалась, но ей было всё равно."
+    ],
+    [
+     "After a difficult year in the city — a lost job, a broken engagement, too many evenings alone — she wanted something quiet.",
+     "После тяжёлого года в городе — потерянная работа, разорванная помолвка, слишком много вечеров в одиночестве — ей хотелось тишины."
+    ],
+    [
+     "And a night job at a small town library sounded like the quietest thing in the world.",
+     "А ночная работа в маленькой городской библиотеке казалась самым тихим занятием на свете."
+    ]
+   ]
+  },
+  {
+   "en": "The library was an old red building in the middle of the main square. Across the street there was a pharmacy with a green light over the door, and that was the only light on the square after nine o'clock.",
+   "ru": "Библиотека была старым красным зданием посреди главной площади. Через дорогу была аптека с зелёным фонарём над дверью, и после девяти часов это был единственный свет на площади.",
+   "s": [
+    [
+     "The library was an old red building in the middle of the main square.",
+     "Библиотека была старым красным зданием посреди главной площади."
+    ],
+    [
+     "Across the street there was a pharmacy with a green light over the door, and that was the only light on the square after nine o'clock.",
+     "Через дорогу была аптека с зелёным фонарём над дверью, и после девяти часов это был единственный свет на площади."
+    ]
+   ]
+  },
+  {
+   "en": "The man who gave her the keys was the pharmacist, Mr. Hale. He was very old and very thin, with long white hands and kind, nervous eyes. He also looked after the library building, he explained, because nobody else wanted to.",
+   "ru": "Ключи ей дал аптекарь, мистер Хейл. Он был очень старым и очень худым, с длинными белыми руками и добрыми, беспокойными глазами. Он объяснил, что ещё и присматривает за зданием библиотеки, потому что больше никто не хочет.",
+   "s": [
+    [
+     "The man who gave her the keys was the pharmacist, Mr. Hale.",
+     "Ключи ей дал аптекарь, мистер Хейл."
+    ],
+    [
+     "He was very old and very thin, with long white hands and kind, nervous eyes.",
+     "Он был очень старым и очень худым, с длинными белыми руками и добрыми, беспокойными глазами."
+    ],
+    [
+     "He also looked after the library building, he explained, because nobody else wanted to.",
+     "Он объяснил, что ещё и присматривает за зданием библиотеки, потому что больше никто не хочет."
+    ]
+   ]
+  },
+  {
+   "en": "“The work is easy,” he said. “You sort the returned books, you check the windows, you keep the place warm. Nobody comes at night. You will probably die of boredom.” He smiled, but the smile was gone quickly. “One more thing. If you hear anything strange in the reading room, don't go in. Just stay in the office and wait for the morning.” “What kind of strange?” Nina asked. But Mr. Hale had already turned to leave.",
+   "ru": "«Работа лёгкая, — сказал он. — Разбираете возвращённые книги, проверяете окна, следите, чтобы было тепло. Ночью никто не приходит. Вы, наверное, умрёте от скуки». Он улыбнулся, но улыбка быстро исчезла. «И ещё одно. Если услышите что-нибудь странное в читальном зале, не заходите туда. Просто оставайтесь в кабинете и ждите утра». «Странное — это какое?» — спросила Нина. Но мистер Хейл уже повернулся, чтобы уйти.",
+   "s": [
+    [
+     "“The work is easy,” he said.",
+     "«Работа лёгкая», — сказал он."
+    ],
+    [
+     "“You sort the returned books, you check the windows, you keep the place warm.",
+     "«Разбираете возвращённые книги, проверяете окна, следите, чтобы было тепло."
+    ],
+    [
+     "Nobody comes at night.",
+     "Ночью никто не приходит."
+    ],
+    [
+     "You will probably die of boredom.”",
+     "Вы, наверное, умрёте от скуки»."
+    ],
+    [
+     "He smiled, but the smile was gone quickly.",
+     "Он улыбнулся, но улыбка быстро исчезла."
+    ],
+    [
+     "“One more thing.",
+     "«И ещё одно."
+    ],
+    [
+     "If you hear anything strange in the reading room, don't go in.",
+     "Если услышите что-нибудь странное в читальном зале, не заходите туда."
+    ],
+    [
+     "Just stay in the office and wait for the morning.”",
+     "Просто оставайтесь в кабинете и ждите утра»."
+    ],
+    [
+     "“What kind of strange?” Nina asked.",
+     "«Странное — это какое?» — спросила Нина."
+    ],
+    [
+     "But Mr. Hale had already turned to leave.",
+     "Но мистер Хейл уже повернулся, чтобы уйти."
+    ]
+   ]
+  },
+  {
+   "en": "For the first week, nothing happened. Hale was right about the boredom. Nina sorted books, drank too much tea and washed the dishes in the tiny kitchen behind the office again and again, just to have something to do. Sometimes she watched the snow falling on the square and the green light of the pharmacy.",
+   "ru": "Первую неделю ничего не происходило. Хейл был прав насчёт скуки. Нина разбирала книги, пила слишком много чая и снова и снова мыла посуду в крошечной кухне за кабинетом, лишь бы чем-то заняться. Иногда она смотрела, как снег падает на площадь, и на зелёный огонёк аптеки.",
+   "s": [
+    [
+     "For the first week, nothing happened.",
+     "Первую неделю ничего не происходило."
+    ],
+    [
+     "Hale was right about the boredom.",
+     "Хейл был прав насчёт скуки."
+    ],
+    [
+     "Nina sorted books, drank too much tea and washed the dishes in the tiny kitchen behind the office again and again, just to have something to do.",
+     "Нина разбирала книги, пила слишком много чая и снова и снова мыла посуду в крошечной кухне за кабинетом, лишь бы чем-то заняться."
+    ],
+    [
+     "Sometimes she watched the snow falling on the square and the green light of the pharmacy.",
+     "Иногда она смотрела, как снег падает на площадь, и на зелёный огонёк аптеки."
+    ]
+   ]
+  },
+  {
+   "en": "On the eighth night, she heard the first whisper.",
+   "ru": "На восьмую ночь она услышала первый шёпот.",
+   "s": [
+    [
+     "On the eighth night, she heard the first whisper.",
+     "На восьмую ночь она услышала первый шёпот."
+    ]
+   ]
+  },
+  {
+   "en": "It came from the reading room — a large hall with high windows and long wooden tables. It was so quiet that at first she thought it was the wind. Then she understood that it was a voice. A child's voice. A kid was whispering something, very fast, as if he was trying to remember it.",
+   "ru": "Он доносился из читального зала — большой комнаты с высокими окнами и длинными деревянными столами. Он был таким тихим, что сначала она подумала, что это ветер. Потом она поняла, что это голос. Детский голос. Ребёнок что-то шептал, очень быстро, как будто пытался это запомнить.",
+   "s": [
+    [
+     "It came from the reading room — a large hall with high windows and long wooden tables.",
+     "Он доносился из читального зала — большой комнаты с высокими окнами и длинными деревянными столами."
+    ],
+    [
+     "It was so quiet that at first she thought it was the wind.",
+     "Он был таким тихим, что сначала она подумала, что это ветер."
+    ],
+    [
+     "Then she understood that it was a voice.",
+     "Потом она поняла, что это голос."
+    ],
+    [
+     "A child's voice.",
+     "Детский голос."
+    ],
+    [
+     "A kid was whispering something, very fast, as if he was trying to remember it.",
+     "Ребёнок что-то шептал, очень быстро, как будто пытался это запомнить."
+    ]
+   ]
+  },
+  {
+   "en": "Nina stood very still. Her mind looked for an external explanation: a radio, a neighbour, the pipes. But the building stood alone, and the radio in the office was off. She told herself to stay in the office, as Mr. Hale had said. She pretended to read a book. She read the same page five times.",
+   "ru": "Нина замерла. Её разум искал внешнее объяснение: радио, сосед, трубы. Но здание стояло отдельно, а радио в кабинете было выключено. Она велела себе оставаться в кабинете, как сказал мистер Хейл. Она притворилась, что читает книгу. Она прочитала одну и ту же страницу пять раз.",
+   "s": [
+    [
+     "Nina stood very still.",
+     "Нина замерла."
+    ],
+    [
+     "Her mind looked for an external explanation: a radio, a neighbour, the pipes.",
+     "Её разум искал внешнее объяснение: радио, сосед, трубы."
+    ],
+    [
+     "But the building stood alone, and the radio in the office was off.",
+     "Но здание стояло отдельно, а радио в кабинете было выключено."
+    ],
+    [
+     "She told herself to stay in the office, as Mr. Hale had said.",
+     "Она велела себе оставаться в кабинете, как сказал мистер Хейл."
+    ],
+    [
+     "She pretended to read a book.",
+     "Она притворилась, что читает книгу."
+    ],
+    [
+     "She read the same page five times.",
+     "Она прочитала одну и ту же страницу пять раз."
+    ]
+   ]
+  },
+  {
+   "en": "Then a second voice spoke, and it was not a whisper. It was a man's voice, deep and loud, full of cold frustration. “Louder, boy! The audience can't hear you. Do you think they came here to listen to a mouse?”",
+   "ru": "Затем заговорил второй голос, и это был не шёпот. Это был мужской голос, низкий и громкий, полный холодного разочарования. «Громче, мальчик! Зрители тебя не слышат. Ты думаешь, они пришли сюда слушать мышь?»",
+   "s": [
+    [
+     "Then a second voice spoke, and it was not a whisper.",
+     "Затем заговорил второй голос, и это был не шёпот."
+    ],
+    [
+     "It was a man's voice, deep and loud, full of cold frustration.",
+     "Это был мужской голос, низкий и громкий, полный холодного разочарования."
+    ],
+    [
+     "“Louder, boy!",
+     "«Громче, мальчик!"
+    ],
+    [
+     "The audience can't hear you.",
+     "Зрители тебя не слышат."
+    ],
+    [
+     "Do you think they came here to listen to a mouse?”",
+     "Ты думаешь, они пришли сюда слушать мышь?»"
+    ]
+   ]
+  },
+  {
+   "en": "Something hit a table — once, twice — like a heavy stick. The child's voice broke. Then there was laughter: many children laughing together. And then silence.",
+   "ru": "Что-то ударило по столу — раз, другой — как тяжёлая палка. Детский голос сорвался. Потом раздался смех: много детей смеялись вместе. А потом — тишина.",
+   "s": [
+    [
+     "Something hit a table — once, twice — like a heavy stick.",
+     "Что-то ударило по столу — раз, другой — как тяжёлая палка."
+    ],
+    [
+     "The child's voice broke.",
+     "Детский голос сорвался."
+    ],
+    [
+     "Then there was laughter: many children laughing together.",
+     "Потом раздался смех: много детей смеялись вместе."
+    ],
+    [
+     "And then silence.",
+     "А потом — тишина."
+    ]
+   ]
+  },
+  {
+   "en": "Nina did not sleep at all that day. In the afternoon she went to the town archive and looked through old papers. She found the answer quickly. Before it became a library, the building had been a school. Its director, a man called Edmund Crane, was famous in the town. Every year he organised a poetry evening, and the children had to read poems on stage in front of their parents. The reading room had been the school hall. The stage was still there, under the bookshelves.",
+   "ru": "Нина в тот день совсем не спала. После обеда она пошла в городской архив и просмотрела старые бумаги. Ответ она нашла быстро. До того как стать библиотекой, здание было школой. Её директор, человек по имени Эдмунд Крейн, был известен в городе. Каждый год он устраивал вечер поэзии, и дети должны были читать стихи на сцене перед родителями. Читальный зал раньше был школьным залом. Сцена всё ещё была там, под книжными полками.",
+   "s": [
+    [
+     "Nina did not sleep at all that day.",
+     "Нина в тот день совсем не спала."
+    ],
+    [
+     "In the afternoon she went to the town archive and looked through old papers.",
+     "После обеда она пошла в городской архив и просмотрела старые бумаги."
+    ],
+    [
+     "She found the answer quickly.",
+     "Ответ она нашла быстро."
+    ],
+    [
+     "Before it became a library, the building had been a school.",
+     "До того как стать библиотекой, здание было школой."
+    ],
+    [
+     "Its director, a man called Edmund Crane, was famous in the town.",
+     "Её директор, человек по имени Эдмунд Крейн, был известен в городе."
+    ],
+    [
+     "Every year he organised a poetry evening, and the children had to read poems on stage in front of their parents.",
+     "Каждый год он устраивал вечер поэзии, и дети должны были читать стихи на сцене перед родителями."
+    ],
+    [
+     "The reading room had been the school hall.",
+     "Читальный зал раньше был школьным залом."
+    ],
+    [
+     "The stage was still there, under the bookshelves.",
+     "Сцена всё ещё была там, под книжными полками."
+    ]
+   ]
+  },
+  {
+   "en": "An old newspaper article from 1958 described one of those evenings. A boy had forgotten the words of his poem. Mr. Crane, the article said with pride, “did not allow the boy to leave the stage until he finished, because a strong school does not accept weakness.” The boy's name was not written. Crane himself had been dead for more than forty years.",
+   "ru": "Старая газетная статья 1958 года описывала один из таких вечеров. Мальчик забыл слова своего стихотворения. Мистер Крейн, с гордостью сообщала статья, «не позволил мальчику уйти со сцены, пока тот не закончил, потому что сильная школа не принимает слабости». Имя мальчика не было указано. Сам Крейн был мёртв уже больше сорока лет.",
+   "s": [
+    [
+     "An old newspaper article from 1958 described one of those evenings.",
+     "Старая газетная статья 1958 года описывала один из таких вечеров."
+    ],
+    [
+     "A boy had forgotten the words of his poem.",
+     "Мальчик забыл слова своего стихотворения."
+    ],
+    [
+     "Mr. Crane, the article said with pride, “did not allow the boy to leave the stage until he finished, because a strong school does not accept weakness.”",
+     "Мистер Крейн, с гордостью сообщала статья, «не позволил мальчику уйти со сцены, пока тот не закончил, потому что сильная школа не принимает слабости»."
+    ],
+    [
+     "The boy's name was not written.",
+     "Имя мальчика не было указано."
+    ],
+    [
+     "Crane himself had been dead for more than forty years.",
+     "Сам Крейн был мёртв уже больше сорока лет."
+    ]
+   ]
+  },
+  {
+   "en": "That night the voices came again, and the next night, and the next. Always the same scene. The whisper. The angry man. The stick hitting the table. The laughter. Nina felt overwhelmed. She could not eat; she jumped at every sound. Perhaps she should leave, she thought. Perhaps the city had not been so bad after all.",
+   "ru": "В ту ночь голоса пришли снова, и на следующую ночь, и на следующую. Всегда одна и та же сцена. Шёпот. Злой мужчина. Палка, бьющая по столу. Смех. Нина была совершенно измотана. Она не могла есть; она вздрагивала от каждого звука. Может быть, ей стоит уехать, думала она. Может быть, город был не так уж и плох.",
+   "s": [
+    [
+     "That night the voices came again, and the next night, and the next.",
+     "В ту ночь голоса пришли снова, и на следующую ночь, и на следующую."
+    ],
+    [
+     "Always the same scene.",
+     "Всегда одна и та же сцена."
+    ],
+    [
+     "The whisper.",
+     "Шёпот."
+    ],
+    [
+     "The angry man.",
+     "Злой мужчина."
+    ],
+    [
+     "The stick hitting the table.",
+     "Палка, бьющая по столу."
+    ],
+    [
+     "The laughter.",
+     "Смех."
+    ],
+    [
+     "Nina felt overwhelmed.",
+     "Нина была совершенно измотана."
+    ],
+    [
+     "She could not eat; she jumped at every sound.",
+     "Она не могла есть; она вздрагивала от каждого звука."
+    ],
+    [
+     "Perhaps she should leave, she thought.",
+     "Может быть, ей стоит уехать, думала она."
+    ],
+    [
+     "Perhaps the city had not been so bad after all.",
+     "Может быть, город был не так уж и плох."
+    ]
+   ]
+  },
+  {
+   "en": "But on the fourth night something new happened. The lights in the whole building went out. Nina sat in total darkness, her heart beating loudly. With shaking hands she found the lighter in her bag — she did not smoke, but she always carried one on a trip — and lit it. The small flame showed the door of the reading room. It was open. She was sure she had shut it.",
+   "ru": "Но на четвёртую ночь случилось кое-что новое. Во всём здании погас свет. Нина сидела в полной темноте, и её сердце громко стучало. Дрожащими руками она нашла в сумке зажигалку — она не курила, но всегда брала её с собой в поездку — и зажгла её. Маленькое пламя осветило дверь читального зала. Она была открыта. Нина была уверена, что закрыла её.",
+   "s": [
+    [
+     "But on the fourth night something new happened.",
+     "Но на четвёртую ночь случилось кое-что новое."
+    ],
+    [
+     "The lights in the whole building went out.",
+     "Во всём здании погас свет."
+    ],
+    [
+     "Nina sat in total darkness, her heart beating loudly.",
+     "Нина сидела в полной темноте, и её сердце громко стучало."
+    ],
+    [
+     "With shaking hands she found the lighter in her bag — she did not smoke, but she always carried one on a trip — and lit it.",
+     "Дрожащими руками она нашла в сумке зажигалку — она не курила, но всегда брала её с собой в поездку — и зажгла её."
+    ],
+    [
+     "The small flame showed the door of the reading room.",
+     "Маленькое пламя осветило дверь читального зала."
+    ],
+    [
+     "It was open.",
+     "Она была открыта."
+    ],
+    [
+     "She was sure she had shut it.",
+     "Нина была уверена, что закрыла её."
+    ]
+   ]
+  },
+  {
+   "en": "Despite her fear, she went in.",
+   "ru": "Несмотря на страх, она вошла.",
+   "s": [
+    [
+     "Despite her fear, she went in.",
+     "Несмотря на страх, она вошла."
+    ]
+   ]
+  },
+  {
+   "en": "The room was empty and cold. She looked around. On the old stage, between two bookshelves, something white lay on the floor. She picked it up. It was a page from a school notebook, yellow with age. A poem was written on it in a child's careful hand. It was called “The Journey Home”. At the bottom, in red ink, someone had written: Weak. Must improve. — E. Crane.",
+   "ru": "Зал был пустым и холодным. Она огляделась вокруг. На старой сцене, между двумя книжными полками, на полу лежало что-то белое. Она подняла это. Это была страница из школьной тетради, пожелтевшая от времени. На ней аккуратным детским почерком было написано стихотворение. Оно называлось «Путешествие домой». Внизу красными чернилами кто-то написал: Слабо. Нужно улучшить. — Э. Крейн.",
+   "s": [
+    [
+     "The room was empty and cold.",
+     "Зал был пустым и холодным."
+    ],
+    [
+     "She looked around.",
+     "Она огляделась вокруг."
+    ],
+    [
+     "On the old stage, between two bookshelves, something white lay on the floor.",
+     "На старой сцене, между двумя книжными полками, на полу лежало что-то белое."
+    ],
+    [
+     "She picked it up.",
+     "Она подняла это."
+    ],
+    [
+     "It was a page from a school notebook, yellow with age.",
+     "Это была страница из школьной тетради, пожелтевшая от времени."
+    ],
+    [
+     "A poem was written on it in a child's careful hand.",
+     "На ней аккуратным детским почерком было написано стихотворение."
+    ],
+    [
+     "It was called “The Journey Home”.",
+     "Оно называлось «Путешествие домой»."
+    ],
+    [
+     "At the bottom, in red ink, someone had written: Weak.",
+     "Внизу красными чернилами кто-то написал: Слабо."
+    ],
+    [
+     "Must improve. — E. Crane.",
+     "Нужно улучшить. — Э. Крейн."
+    ]
+   ]
+  },
+  {
+   "en": "In the corner of the page there was a name, small, almost hidden: Thomas Hale.",
+   "ru": "В углу страницы было имя, маленькое, почти незаметное: Томас Хейл.",
+   "s": [
+    [
+     "In the corner of the page there was a name, small, almost hidden: Thomas Hale.",
+     "В углу страницы было имя, маленькое, почти незаметное: Томас Хейл."
+    ]
+   ]
+  },
+  {
+   "en": "The next morning Nina crossed the square and walked into the pharmacy. Mr. Hale was behind the counter. When he saw the yellow page in her hand, his face became grey.",
+   "ru": "На следующее утро Нина пересекла площадь и вошла в аптеку. Мистер Хейл стоял за прилавком. Когда он увидел жёлтую страницу у неё в руке, его лицо стало серым.",
+   "s": [
+    [
+     "The next morning Nina crossed the square and walked into the pharmacy.",
+     "На следующее утро Нина пересекла площадь и вошла в аптеку."
+    ],
+    [
+     "Mr. Hale was behind the counter.",
+     "Мистер Хейл стоял за прилавком."
+    ],
+    [
+     "When he saw the yellow page in her hand, his face became grey.",
+     "Когда он увидел жёлтую страницу у неё в руке, его лицо стало серым."
+    ]
+   ]
+  },
+  {
+   "en": "“You were the boy,” she said softly.",
+   "ru": "«Тем мальчиком были вы», — тихо сказала она.",
+   "s": [
+    [
+     "“You were the boy,” she said softly.",
+     "«Тем мальчиком были вы», — тихо сказала она."
+    ]
+   ]
+  },
+  {
+   "en": "For a long time he didn't answer. Then he sat down on a small chair behind the counter, like a man who was very tired. “Edmund Crane was my father,” he said. “He wanted me to be strong. He thought the best way to make a child strong was to humiliate him in front of everybody. I stood on that stage for forty minutes that night. I could not remember the last verse. I didn't cry. I didn't fight. I just stood there while they laughed.” He looked at his thin hands. “After that I never read anything aloud again. Not even to my own kids.”",
+   "ru": "Он долго не отвечал. Потом сел на маленький стул за прилавком, как очень уставший человек. «Эдмунд Крейн был моим отцом, — сказал он. — Он хотел, чтобы я был сильным. Он считал, что лучший способ сделать ребёнка сильным — унизить его перед всеми. Той ночью я простоял на сцене сорок минут. Я не мог вспомнить последнюю строфу. Я не плакал. Я не сопротивлялся. Я просто стоял, пока они смеялись». Он посмотрел на свои худые руки. «После этого я больше никогда ничего не читал вслух. Даже собственным детям».",
+   "s": [
+    [
+     "For a long time he didn't answer.",
+     "Он долго не отвечал."
+    ],
+    [
+     "Then he sat down on a small chair behind the counter, like a man who was very tired.",
+     "Потом сел на маленький стул за прилавком, как очень уставший человек."
+    ],
+    [
+     "“Edmund Crane was my father,” he said.",
+     "«Эдмунд Крейн был моим отцом», — сказал он."
+    ],
+    [
+     "“He wanted me to be strong.",
+     "«Он хотел, чтобы я был сильным."
+    ],
+    [
+     "He thought the best way to make a child strong was to humiliate him in front of everybody.",
+     "Он считал, что лучший способ сделать ребёнка сильным — унизить его перед всеми."
+    ],
+    [
+     "I stood on that stage for forty minutes that night.",
+     "Той ночью я простоял на сцене сорок минут."
+    ],
+    [
+     "I could not remember the last verse.",
+     "Я не мог вспомнить последнюю строфу."
+    ],
+    [
+     "I didn't cry.",
+     "Я не плакал."
+    ],
+    [
+     "I didn't fight.",
+     "Я не сопротивлялся."
+    ],
+    [
+     "I just stood there while they laughed.”",
+     "Я просто стоял, пока они смеялись»."
+    ],
+    [
+     "He looked at his thin hands.",
+     "Он посмотрел на свои худые руки."
+    ],
+    [
+     "“After that I never read anything aloud again.",
+     "«После этого я больше никогда ничего не читал вслух."
+    ],
+    [
+     "Not even to my own kids.”",
+     "Даже собственным детям»."
+    ]
+   ]
+  },
+  {
+   "en": "“And the voices?” Nina asked. “I have heard them every night since my father died,” he said. “That's why I can't stay in that building. I think he is still waiting. Perhaps I am, too.”",
+   "ru": "«А голоса?» — спросила Нина. «Я слышу их каждую ночь с тех пор, как умер отец, — сказал он. — Поэтому я не могу оставаться в том здании. Думаю, он всё ещё ждёт. Может быть, и я тоже».",
+   "s": [
+    [
+     "“And the voices?” Nina asked.",
+     "«А голоса?» — спросила Нина."
+    ],
+    [
+     "“I have heard them every night since my father died,” he said.",
+     "«Я слышу их каждую ночь с тех пор, как умер отец», — сказал он."
+    ],
+    [
+     "“That's why I can't stay in that building.",
+     "«Поэтому я не могу оставаться в том здании."
+    ],
+    [
+     "I think he is still waiting.",
+     "Думаю, он всё ещё ждёт."
+    ],
+    [
+     "Perhaps I am, too.”",
+     "Может быть, и я тоже»."
+    ]
+   ]
+  },
+  {
+   "en": "Nina put the page on the counter. “Then let's finish it,” she said.",
+   "ru": "Нина положила страницу на прилавок. «Тогда давайте закончим это», — сказала она.",
+   "s": [
+    [
+     "Nina put the page on the counter.",
+     "Нина положила страницу на прилавок."
+    ],
+    [
+     "“Then let's finish it,” she said.",
+     "«Тогда давайте закончим это», — сказала она."
+    ]
+   ]
+  },
+  {
+   "en": "That night, they went into the reading room together. Mr. Hale held the lighter; Nina held the page. At midnight the whisper began, the small, fast, frightened voice of a boy. Then the loud voice of the dead man: “Louder! The audience can't hear you!”",
+   "ru": "Той ночью они вместе вошли в читальный зал. Мистер Хейл держал зажигалку, Нина — страницу. В полночь начался шёпот, тихий, быстрый, испуганный голос мальчика. Затем громкий голос мёртвого: «Громче! Зрители тебя не слышат!»",
+   "s": [
+    [
+     "That night, they went into the reading room together.",
+     "Той ночью они вместе вошли в читальный зал."
+    ],
+    [
+     "Mr. Hale held the lighter; Nina held the page.",
+     "Мистер Хейл держал зажигалку, Нина — страницу."
+    ],
+    [
+     "At midnight the whisper began, the small, fast, frightened voice of a boy.",
+     "В полночь начался шёпот, тихий, быстрый, испуганный голос мальчика."
+    ],
+    [
+     "Then the loud voice of the dead man: “Louder!",
+     "Затем громкий голос мёртвого: «Громче!"
+    ],
+    [
+     "The audience can't hear you!”",
+     "Зрители тебя не слышат!»"
+    ]
+   ]
+  },
+  {
+   "en": "Mr. Hale's hands were shaking. Nina could see the struggle in his face — seventy years of fear against one small piece of paper. Then he stepped onto the old stage. He did not look at the page. He did not need it. He knew everything by heart; he had known it all his life.",
+   "ru": "Руки мистера Хейла дрожали. Нина видела борьбу на его лице — семьдесят лет страха против одного маленького листка бумаги. Затем он шагнул на старую сцену. Он не смотрел на страницу. Она была ему не нужна. Он знал всё наизусть; он знал это всю жизнь.",
+   "s": [
+    [
+     "Mr. Hale's hands were shaking.",
+     "Руки мистера Хейла дрожали."
+    ],
+    [
+     "Nina could see the struggle in his face — seventy years of fear against one small piece of paper.",
+     "Нина видела борьбу на его лице — семьдесят лет страха против одного маленького листка бумаги."
+    ],
+    [
+     "Then he stepped onto the old stage.",
+     "Затем он шагнул на старую сцену."
+    ],
+    [
+     "He did not look at the page.",
+     "Он не смотрел на страницу."
+    ],
+    [
+     "He did not need it.",
+     "Она была ему не нужна."
+    ],
+    [
+     "He knew everything by heart; he had known it all his life.",
+     "Он знал всё наизусть; он знал это всю жизнь."
+    ]
+   ]
+  },
+  {
+   "en": "He read the poem from the beginning to the end, slowly and clearly, in a voice that filled the whole room. When he came to the last verse — the verse he could not remember at nine years old — his voice became stronger, not weaker.",
+   "ru": "Он прочитал стихотворение от начала до конца, медленно и чётко, голосом, который заполнил весь зал. Когда он дошёл до последней строфы — той, которую не смог вспомнить в девять лет, — его голос стал сильнее, а не слабее.",
+   "s": [
+    [
+     "He read the poem from the beginning to the end, slowly and clearly, in a voice that filled the whole room.",
+     "Он прочитал стихотворение от начала до конца, медленно и чётко, голосом, который заполнил весь зал."
+    ],
+    [
+     "When he came to the last verse — the verse he could not remember at nine years old — his voice became stronger, not weaker.",
+     "Когда он дошёл до последней строфы — той, которую не смог вспомнить в девять лет, — его голос стал сильнее, а не слабее."
+    ]
+   ]
+  },
+  {
+   "en": "Then silence. No laughter. No stick. Only the snow against the high windows.",
+   "ru": "Потом — тишина. Ни смеха. Ни палки. Только снег за высокими окнами.",
+   "s": [
+    [
+     "Then silence.",
+     "Потом — тишина."
+    ],
+    [
+     "No laughter.",
+     "Ни смеха."
+    ],
+    [
+     "No stick.",
+     "Ни палки."
+    ],
+    [
+     "Only the snow against the high windows.",
+     "Только снег за высокими окнами."
+    ]
+   ]
+  },
+  {
+   "en": "And then, very quietly, from the dark at the back of the hall, a man's voice said something that Nina could hardly hear. Not “louder”. Not “improve”. Just two words: “Well done.”",
+   "ru": "А потом очень тихо, из темноты в глубине зала, мужской голос сказал что-то, что Нина едва расслышала. Не «громче». Не «улучшить». Всего два слова: «Молодец, хорошо».",
+   "s": [
+    [
+     "And then, very quietly, from the dark at the back of the hall, a man's voice said something that Nina could hardly hear.",
+     "А потом очень тихо, из темноты в глубине зала, мужской голос сказал что-то, что Нина едва расслышала."
+    ],
+    [
+     "Not “louder”.",
+     "Не «громче»."
+    ],
+    [
+     "Not “improve”.",
+     "Не «улучшить»."
+    ],
+    [
+     "Just two words: “Well done.”",
+     "Всего два слова: «Молодец, хорошо»."
+    ]
+   ]
+  },
+  {
+   "en": "Mr. Hale stood on the stage with tears on his old face. He did not answer — not yet. He stood there a little longer, as if he was listening to applause that only he could hear.",
+   "ru": "Мистер Хейл стоял на сцене со слезами на старом лице. Он не ответил — пока ещё нет. Он постоял там ещё немного, как будто слушал аплодисменты, которые слышал только он.",
+   "s": [
+    [
+     "Mr. Hale stood on the stage with tears on his old face.",
+     "Мистер Хейл стоял на сцене со слезами на старом лице."
+    ],
+    [
+     "He did not answer — not yet.",
+     "Он не ответил — пока ещё нет."
+    ],
+    [
+     "He stood there a little longer, as if he was listening to applause that only he could hear.",
+     "Он постоял там ещё немного, как будто слушал аплодисменты, которые слышал только он."
+    ]
+   ]
+  },
+  {
+   "en": "The voices never came back. Nina stayed in Larkwell. In spring, the library began a new evening event: every Friday, anyone could come and read a poem aloud. Nobody laughed, and nobody was judged. The first reader was a thin old pharmacist, and the first poem he read was called “The Journey Home”.",
+   "ru": "Голоса больше не вернулись. Нина осталась в Ларкуэлле. Весной библиотека начала новые вечерние встречи: каждую пятницу любой мог прийти и прочитать стихотворение вслух. Никто не смеялся, и никого не судили. Первым чтецом был худой старый аптекарь, и первое стихотворение, которое он прочитал, называлось «Путешествие домой».",
+   "s": [
+    [
+     "The voices never came back.",
+     "Голоса больше не вернулись."
+    ],
+    [
+     "Nina stayed in Larkwell.",
+     "Нина осталась в Ларкуэлле."
+    ],
+    [
+     "In spring, the library began a new evening event: every Friday, anyone could come and read a poem aloud.",
+     "Весной библиотека начала новые вечерние встречи: каждую пятницу любой мог прийти и прочитать стихотворение вслух."
+    ],
+    [
+     "Nobody laughed, and nobody was judged.",
+     "Никто не смеялся, и никого не судили."
+    ],
+    [
+     "The first reader was a thin old pharmacist, and the first poem he read was called “The Journey Home”.",
+     "Первым чтецом был худой старый аптекарь, и первое стихотворение, которое он прочитал, называлось «Путешествие домой»."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, про",
+  "accept": "принимать",
+  "across": "через",
+  "after": "после",
+  "afternoon": "после обеда",
+  "again": "снова",
+  "against": "против, о (стекло)",
+  "age": "возраст, время",
+  "all": "все, весь",
+  "allow": "позволить",
+  "almost": "почти",
+  "alone": "один, отдельно",
+  "aloud": "вслух",
+  "already": "уже",
+  "also": "также",
+  "always": "всегда",
+  "am": "(есть) являюсь",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "angry": "злой",
+  "answer": "ответ, ответить",
+  "anyone": "любой",
+  "anything": "что-нибудь",
+  "applause": "аплодисменты",
+  "archive": "архив",
+  "around": "вокруг",
+  "arrived": "приехала",
+  "article": "статья",
+  "as": "как",
+  "asked": "спросил(а)",
+  "at": "в, у, на",
+  "audience": "аудитория, зрители",
+  "back": "назад, обратно",
+  "bad": "плохой",
+  "bag": "сумка",
+  "be": "быть",
+  "beating": "стучащий",
+  "became": "стал(о)",
+  "because": "потому что",
+  "been": "был(о)",
+  "before": "перед, до",
+  "began": "начал(ся)",
+  "beginning": "начало",
+  "behind": "за, позади",
+  "best": "лучший",
+  "between": "между",
+  "book": "книга",
+  "books": "книги",
+  "bookshelves": "книжные полки",
+  "boredom": "скука",
+  "bottom": "низ",
+  "boy": "мальчик",
+  "boy's": "мальчика",
+  "broke": "сорвался",
+  "broken": "сломанный",
+  "building": "здание",
+  "bus": "автобус",
+  "but": "но",
+  "by": "по, к",
+  "called": "назывался, звали",
+  "came": "пришёл, пришли",
+  "can't": "не могут, не могу",
+  "care": "заботиться (all равно)",
+  "careful": "осторожный, аккуратный",
+  "carried": "нёс, носил",
+  "chair": "стул, кресло",
+  "check": "проверить",
+  "child": "ребёнок",
+  "child's": "детский",
+  "children": "дети",
+  "city": "город",
+  "clearly": "чётко",
+  "cold": "холодный",
+  "come": "приходить",
+  "comes": "приходит",
+  "corner": "угол",
+  "could": "мог(ла)",
+  "counter": "прилавок",
+  "crane": "Крейн (фамилия)",
+  "crossed": "пересекла",
+  "cry": "плакать",
+  "dark": "темнота, тёмный",
+  "darkness": "темнота",
+  "day": "день",
+  "days": "дня",
+  "dead": "мёртвый",
+  "deep": "глубокий, глубоко",
+  "described": "описывала",
+  "despite": "несмотря на",
+  "did": "сделал(а); (вспом.)",
+  "didn't": "не (вспом.)",
+  "die": "умереть",
+  "died": "умер",
+  "difficult": "трудный",
+  "director": "директор",
+  "dishes": "посуда",
+  "do": "делать; (вспом.)",
+  "does": "(вспом.)",
+  "don't": "не (вспом.)",
+  "done": "сделано",
+  "door": "дверь",
+  "down": "вниз",
+  "drank": "пила",
+  "e": "Э (инициал)",
+  "easy": "лёгкий",
+  "eat": "есть",
+  "edmund": "Эдмунд (имя)",
+  "eighth": "восьмой",
+  "else": "ещё, другой",
+  "empty": "пустой",
+  "end": "конец",
+  "engagement": "помолвка",
+  "even": "даже",
+  "evening": "вечер",
+  "evenings": "вечера",
+  "event": "мероприятие",
+  "every": "каждый",
+  "everybody": "все",
+  "everything": "всё",
+  "explained": "объяснил",
+  "explanation": "объяснение",
+  "external": "внешний",
+  "eyes": "глаза",
+  "face": "лицо",
+  "falling": "падающий",
+  "famous": "известный",
+  "fast": "быстрый",
+  "father": "отец",
+  "fear": "страх",
+  "felt": "чувствовал(а)",
+  "fight": "сопротивляться, драться",
+  "filled": "заполнил",
+  "finish": "закончить",
+  "finished": "закончил",
+  "first": "первый",
+  "five": "пять",
+  "flame": "пламя",
+  "floor": "пол",
+  "for": "для, в течение",
+  "forgotten": "забыл",
+  "forty": "сорок",
+  "found": "нашёл, нашла",
+  "fourth": "четвёртый",
+  "friday": "пятница",
+  "frightened": "испуганный",
+  "from": "из, от",
+  "front": "перед (in front of)",
+  "frustration": "разочарование",
+  "full": "полный",
+  "gave": "дал(а)",
+  "go": "идти",
+  "gone": "исчезла",
+  "green": "зелёный",
+  "grey": "серый",
+  "had": "имел; (вспом.)",
+  "hale": "Хейл (фамилия)",
+  "hale's": "Хейла",
+  "hall": "зал",
+  "hand": "рука, почерк",
+  "hands": "руки",
+  "happened": "случилось",
+  "hardly": "едва",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "hear": "слышать",
+  "heard": "слышал(а)",
+  "heart": "сердце",
+  "heavy": "тяжёлый",
+  "held": "держал(а)",
+  "her": "её, ей",
+  "here": "здесь",
+  "herself": "себе",
+  "hidden": "скрытый",
+  "high": "высокий",
+  "him": "его, ему",
+  "himself": "сам",
+  "his": "его",
+  "hit": "ударил",
+  "hitting": "бьющий",
+  "home": "домой",
+  "humiliate": "унижать",
+  "hungry": "голодный",
+  "i": "я",
+  "if": "если; ли",
+  "improve": "улучшать",
+  "in": "в",
+  "ink": "чернила",
+  "into": "в (внутрь)",
+  "is": "есть, является",
+  "it": "он, она, это",
+  "its": "его, её",
+  "job": "работа",
+  "journey": "путешествие",
+  "judged": "осуждали",
+  "jumped": "вздрагивала",
+  "just": "просто, только",
+  "keep": "держать",
+  "keys": "ключи",
+  "kid": "ребёнок",
+  "kids": "дети",
+  "kind": "добрый; вид",
+  "kitchen": "кухня",
+  "knew": "знал",
+  "known": "знал",
+  "large": "большой",
+  "larkwell": "Ларкуэлл (город)",
+  "last": "последний",
+  "laughed": "смеялся, смеялись",
+  "laughing": "смеющийся",
+  "laughter": "смех",
+  "lay": "лежало",
+  "leave": "уйти, оставить",
+  "let's": "давайте",
+  "library": "библиотека",
+  "life": "жизнь",
+  "light": "свет, фонарь",
+  "lighter": "зажигалка",
+  "lights": "свет",
+  "like": "как; нравиться",
+  "listen": "слушать",
+  "listening": "слушая",
+  "lit": "зажгла",
+  "little": "немного",
+  "long": "долгий, длинный",
+  "longer": "дольше",
+  "look": "смотреть",
+  "looked": "посмотрел; выглядел",
+  "lost": "потерянный",
+  "loud": "громкий",
+  "louder": "громче",
+  "loudly": "громко",
+  "main": "главный",
+  "make": "сделать",
+  "man": "человек, мужчина",
+  "man's": "мужской",
+  "many": "много",
+  "me": "меня, мне",
+  "middle": "середина",
+  "midnight": "полночь",
+  "mind": "разум",
+  "minutes": "минут",
+  "more": "больше",
+  "morning": "утро",
+  "mouse": "мышь",
+  "mr": "мистер",
+  "much": "много",
+  "must": "должен",
+  "my": "мой",
+  "name": "имя",
+  "need": "нуждаться",
+  "neighbour": "сосед",
+  "nervous": "беспокойный",
+  "never": "никогда",
+  "new": "новый",
+  "newspaper": "газетный",
+  "next": "следующий",
+  "night": "ночь",
+  "nina": "Нина (имя)",
+  "nine": "девять",
+  "no": "нет, никакой",
+  "nobody": "никто",
+  "not": "не",
+  "notebook": "тетрадь",
+  "nothing": "ничего",
+  "november": "ноябрь",
+  "o'clock": "часов",
+  "of": "из, о, (род. падеж)",
+  "off": "выключен",
+  "office": "кабинет",
+  "old": "старый",
+  "on": "на",
+  "once": "однажды, раз",
+  "one": "один",
+  "only": "только",
+  "onto": "на",
+  "open": "открытый",
+  "organised": "устраивал",
+  "out": "(went out — погас)",
+  "over": "над",
+  "overwhelmed": "перегруженный, измотанный",
+  "own": "собственный",
+  "page": "страница",
+  "paper": "бумага",
+  "papers": "бумаги",
+  "parents": "родители",
+  "perhaps": "возможно, может быть",
+  "pharmacist": "аптекарь",
+  "pharmacy": "аптека",
+  "picked": "подняла",
+  "piece": "кусок",
+  "pipes": "трубы",
+  "place": "место",
+  "poem": "стихотворение",
+  "poems": "стихи",
+  "poetry": "поэзия",
+  "pretended": "притворилась",
+  "pride": "гордость",
+  "probably": "наверное",
+  "put": "положил(а)",
+  "quickly": "быстро",
+  "quiet": "тихий",
+  "quietest": "самый тихий",
+  "quietly": "тихо",
+  "radio": "радио",
+  "rain": "дождь",
+  "read": "читать, читал",
+  "reader": "чтец",
+  "reading": "читальный; чтение",
+  "red": "красный",
+  "remember": "вспомнить",
+  "returned": "возвращённые",
+  "right": "прав",
+  "room": "комната",
+  "said": "сказал(а)",
+  "same": "тот же",
+  "sat": "сидел(а)",
+  "saw": "увидел(а)",
+  "scene": "сцена",
+  "school": "школа",
+  "second": "второй; секунда",
+  "see": "видеть",
+  "seventy": "семьдесят",
+  "shaking": "дрожащий",
+  "she": "она",
+  "should": "следует",
+  "showed": "показал(а)",
+  "shut": "закрыла",
+  "silence": "тишина",
+  "since": "с тех пор как",
+  "sleep": "спать",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smile": "улыбка",
+  "smiled": "улыбнулся",
+  "smoke": "курить",
+  "snow": "снег",
+  "so": "так",
+  "softly": "тихо",
+  "someone": "кто-то",
+  "something": "что-то",
+  "sometimes": "иногда",
+  "sort": "разбирать",
+  "sorted": "разбирала",
+  "sound": "звук",
+  "sounded": "казалось",
+  "spoke": "заговорил",
+  "spring": "весна",
+  "square": "площадь",
+  "station": "станция",
+  "stay": "оставаться",
+  "stayed": "осталась",
+  "stepped": "шагнул",
+  "stick": "палка",
+  "still": "ещё, неподвижно",
+  "stood": "стоял(а)",
+  "strange": "странный",
+  "street": "улица",
+  "strong": "сильный",
+  "stronger": "сильнее",
+  "struggle": "борьба",
+  "sure": "уверенный",
+  "table": "стол",
+  "tables": "столы",
+  "taken": "заняло",
+  "tea": "чай",
+  "tears": "слёзы",
+  "than": "чем",
+  "that": "что, тот, который",
+  "that's": "это",
+  "the": "(артикль)",
+  "their": "их",
+  "them": "их, им",
+  "then": "затем, тогда",
+  "there": "там; (есть)",
+  "they": "они",
+  "thin": "худой",
+  "thing": "вещь",
+  "think": "думать",
+  "thomas": "Томас (имя)",
+  "those": "те",
+  "thought": "подумал(а)",
+  "three": "три",
+  "through": "через, по",
+  "time": "время, раз",
+  "times": "раз",
+  "tiny": "крошечный",
+  "tired": "усталый",
+  "to": "к, в, (инфинитив)",
+  "together": "вместе",
+  "told": "сказал(а)",
+  "too": "тоже, слишком",
+  "total": "полный",
+  "town": "город(ок)",
+  "trains": "поезда",
+  "trip": "поездка",
+  "trying": "пытаясь",
+  "turned": "повернулся",
+  "twice": "дважды",
+  "two": "два",
+  "under": "под",
+  "understood": "понял(а)",
+  "until": "пока не",
+  "up": "вверх",
+  "verse": "строфа",
+  "very": "очень",
+  "voice": "голос",
+  "voices": "голоса",
+  "wait": "ждать",
+  "waiting": "ждал(а)",
+  "walk": "прогулка",
+  "walked": "пошёл, вошёл",
+  "wanted": "хотел(а)",
+  "warm": "тёплый",
+  "was": "был(а)",
+  "washed": "мыла",
+  "watched": "смотрела",
+  "way": "способ",
+  "weak": "слабый, слабо",
+  "weaker": "слабее",
+  "weakness": "слабость",
+  "week": "неделя",
+  "well": "хорошо (well done — молодец)",
+  "went": "пошла, погас (went out)",
+  "were": "были",
+  "wet": "мокрый",
+  "what": "что, какой",
+  "when": "когда",
+  "while": "пока",
+  "whisper": "шёпот",
+  "whispering": "шептал",
+  "white": "белый",
+  "who": "кто, который",
+  "whole": "весь, целый",
+  "why": "почему",
+  "will": "(буд. время)",
+  "wind": "ветер",
+  "windows": "окна",
+  "with": "с",
+  "wooden": "деревянный",
+  "words": "слова",
+  "work": "работа, работать",
+  "world": "мир",
+  "written": "написан",
+  "year": "год",
+  "years": "лет, годы",
+  "yellow": "жёлтый",
+  "yet": "ещё",
+  "you": "ты, вы",
+  "stage": "сцена"
+ },
+ "vocab": {
+  "watched": 14,
+  "shut": 34,
+  "kid": 54,
+  "kids": 54,
+  "dishes": 74,
+  "arrived": 94,
+  "even": 114,
+  "journey": 134,
+  "perhaps": 154,
+  "fight": 174,
+  "loud": 194,
+  "loudly": 194,
+  "everything": 215,
+  "improve": 235,
+  "pretended": 255,
+  "trip": 275,
+  "thin": 296,
+  "pharmacy": 316,
+  "dead": 336,
+  "whisper": 356,
+  "whispering": 356,
+  "hit": 376,
+  "pride": 404,
+  "boredom": 424,
+  "lighter": 447,
+  "frustration": 475,
+  "overwhelmed": 496,
+  "yet": 517,
+  "humiliate": 538,
+  "audience": 559,
+  "struggle": 580,
+  "external": 601,
+  "despite": 623,
+  "around": 644
+ }
+}

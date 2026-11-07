@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Who solved the first, 408-symbol code in 1969?",
+  "q_ru": "Кто разгадал первый шифр из 408 символов в 1969 году?",
+  "options": [
+   "FBI code experts",
+   "A schoolteacher and his wife",
+   "A reporter at the Chronicle",
+   "Three amateurs online"
+  ],
+  "options_ru": [
+   "Специалисты ФБР по шифрам",
+   "Школьный учитель и его жена",
+   "Журналист из Chronicle",
+   "Трое любителей в интернете"
+  ],
+  "answer": 1,
+  "explain_ru": "Шифр из 408 символов разгадали Дональд и Бетти Харден из Салинаса примерно через неделю после публикации."
+ },
+ {
+  "q": "What did the solved 340 code reveal?",
+  "q_ru": "Что открыл разгаданный шифр из 340 символов?",
+  "options": [
+   "A message with no name",
+   "The killer's real name",
+   "A map of a hidden bomb",
+   "The names of his victims"
+  ],
+  "options_ru": [
+   "Сообщение без имени",
+   "Настоящее имя убийцы",
+   "Карту спрятанной бомбы",
+   "Имена его жертв"
+  ],
+  "answer": 0,
+  "explain_ru": "В сообщении говорилось о том, что ему весело, что он не боится газовой камеры и т. д., но имени там не было."
+ },
+ {
+  "q": "Why was the 340 code so hard to read?",
+  "q_ru": "Почему шифр из 340 символов было так трудно прочитать?",
+  "options": [
+   "It was written in Russian",
+   "It had no repeated symbols",
+   "Half of it was lost",
+   "The symbols were written diagonally"
+  ],
+  "options_ru": [
+   "Он был написан по-русски",
+   "В нём не было повторяющихся символов",
+   "Половина его была утеряна",
+   "Символы были записаны по диагонали"
+  ],
+  "answer": 3,
+  "explain_ru": "Автор разделил текст на части и записал символы по диагонали по особой схеме, поэтому обычное чтение строк не работало."
+ },
+ {
+  "q": "Which piece of evidence pointed TOWARD Arthur Leigh Allen?",
+  "q_ru": "Какая улика указывала НА Артура Ли Аллена?",
+  "options": [
+   "His fingerprints matched",
+   "His handwriting matched",
+   "He wore a Zodiac brand watch",
+   "His DNA matched a stamp"
+  ],
+  "options_ru": [
+   "Совпали его отпечатки пальцев",
+   "Совпал его почерк",
+   "Он носил часы марки Zodiac",
+   "Его ДНК совпала с ДНК на марке"
+  ],
+  "answer": 2,
+  "explain_ru": "Против Аллена говорили косвенные детали: часы Zodiac с символом круга и креста, слова знакомого, опознание Мажо. Отпечатки, почерк и ДНК не совпали."
+ },
+ {
+  "q": "Why do critics say Mageau's identification of Allen was weak?",
+  "q_ru": "Почему критики считают опознание Аллена Майклом Мажо слабым?",
+  "options": [
+   "Mageau never saw the shooter",
+   "He saw him briefly, in the dark, over 20 years earlier",
+   "Mageau later said he had lied",
+   "Allen was in prison in 1969"
+  ],
+  "options_ru": [
+   "Мажо вообще не видел стрелявшего",
+   "Он видел его несколько секунд, в темноте, больше 20 лет назад",
+   "Мажо позже признался, что солгал",
+   "В 1969 году Аллен сидел в тюрьме"
+  ],
+  "answer": 1,
+  "explain_ru": "Мажо видел стрелявшего всего несколько секунд, в темноте и со светом в глаза, а опознал его только в 1991 году."
+ },
+ {
+  "q": "What is the honest conclusion of the article?",
+  "q_ru": "Какой честный вывод делает статья?",
+  "options": [
+   "Allen was clearly the Zodiac",
+   "The 2021 volunteers solved the case",
+   "The Zodiac never existed",
+   "The killer's identity is still unknown"
+  ],
+  "options_ru": [
+   "Аллен определённо был Зодиаком",
+   "Добровольцы в 2021 году раскрыли дело",
+   "Зодиака никогда не существовало",
+   "Личность убийцы до сих пор неизвестна"
+  ],
+  "answer": 3,
+  "explain_ru": "Дело официально остаётся открытым: самый длинный шифр прочитан, но имя убийцы не установлено, и ни одна версия не доказана."
+ }
+]

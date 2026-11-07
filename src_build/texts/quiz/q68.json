@@ -1,0 +1,110 @@
+[
+ {
+  "q": "According to the rumour, what had happened to Paul?",
+  "q_ru": "Что, согласно слуху, случилось с Полом?",
+  "options": [
+   "He had left the band to live in Scotland",
+   "He had died in a car crash and been replaced by a lookalike",
+   "He had lost his voice and stopped singing",
+   "He had been arrested in Canada"
+  ],
+  "options_ru": [
+   "Он ушёл из группы, чтобы жить в Шотландии",
+   "Он погиб в автокатастрофе, и его заменили двойником",
+   "Он потерял голос и перестал петь",
+   "Его арестовали в Канаде"
+  ],
+  "answer": 1,
+  "explain_ru": "По слуху, Пол погиб в аварии в конце 1966 года, а остальные «Битлз» тайно заменили его двойником."
+ },
+ {
+  "q": "What made the rumour explode in October 1969?",
+  "q_ru": "Из-за чего слух «взорвался» в октябре 1969 года?",
+  "options": [
+   "An official statement from Apple",
+   "A TV interview with John Lennon",
+   "A photo of Paul in hospital",
+   "A listener's call to a Detroit radio DJ"
+  ],
+  "options_ru": [
+   "Официальное заявление компании Apple",
+   "Телеинтервью Джона Леннона",
+   "Фотография Пола в больнице",
+   "Звонок слушателя диджею детройтского радио"
+  ],
+  "answer": 3,
+  "explain_ru": "12 октября 1969 года слушатель по имени Том позвонил Рассу Гиббу на WKNR-FM и попросил проиграть «Revolution 9» задом наперёд."
+ },
+ {
+  "q": "What did Fred LaBour later admit about his article?",
+  "q_ru": "В чём позже признался Фред Лабур насчёт своей статьи?",
+  "options": [
+   "He had invented many of the clues as a joke",
+   "He had been paid by the Beatles",
+   "He had copied it from a British newspaper",
+   "He had never heard Abbey Road"
+  ],
+  "options_ru": [
+   "Он придумал многие подсказки ради шутки",
+   "Ему заплатили «Битлз»",
+   "Он списал её из британской газеты",
+   "Он никогда не слышал «Abbey Road»"
+  ],
+  "answer": 0,
+  "explain_ru": "«LaBour admitted that he had invented a lot of the clues himself, as a joke.»"
+ },
+ {
+  "q": "What did the patch that fans read as \"OPD\" really say?",
+  "q_ru": "Что на самом деле было написано на нашивке, которую поклонники прочли как «OPD»?",
+  "options": [
+   "\"OBD\", a London club",
+   "\"OPP\", for Ontario Provincial Police",
+   "\"OPD\", for a police department in Ohio",
+   "Paul's initials"
+  ],
+  "options_ru": [
+   "«OBD» — лондонский клуб",
+   "«OPP» — полиция провинции Онтарио",
+   "«OPD» — полицейское управление в Огайо",
+   "Инициалы Пола"
+  ],
+  "answer": 1,
+  "explain_ru": "«In fact, the patch said \"OPP\", for Ontario Provincial Police, and it was a souvenir from Canada.»"
+ },
+ {
+  "q": "Why was the \"28IF\" clue on the Abbey Road cover wrong?",
+  "q_ru": "Почему подсказка «28IF» на обложке «Abbey Road» была ошибочной?",
+  "options": [
+   "The car belonged to Paul",
+   "The plate was added later by the designer",
+   "In 1969 Paul would actually have been 27",
+   "Paul was older than 28"
+  ],
+  "options_ru": [
+   "Машина принадлежала Полу",
+   "Номер позже добавил дизайнер",
+   "В 1969 году Полу на самом деле было бы 27",
+   "Пол был старше 28 лет"
+  ],
+  "answer": 2,
+  "explain_ru": "Пол родился в июне 1942 года, поэтому, когда вышел «Abbey Road», ему было бы 27, а не 28."
+ },
+ {
+  "q": "What is the article's main conclusion about why people believed the rumour?",
+  "q_ru": "Каков главный вывод статьи о том, почему люди поверили слуху?",
+  "options": [
+   "The Beatles secretly planned it to sell records",
+   "There was strong evidence that Paul had died",
+   "Only very young fans believed it",
+   "People who look hard for patterns will usually find them"
+  ],
+  "options_ru": [
+   "«Битлз» тайно спланировали это, чтобы продать пластинки",
+   "Были веские доказательства смерти Пола",
+   "В это верили только очень юные поклонники",
+   "Люди, которые старательно ищут закономерности, обычно их находят"
+  ],
+  "answer": 3,
+  "explain_ru": "«When we look hard enough for a hidden pattern, we will usually find one, whether it exists or not.» Доказательств того, что «Битлз» всё спланировали, нет."
+ }
+]

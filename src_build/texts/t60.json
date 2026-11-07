@@ -1,0 +1,1328 @@
+{
+ "id": 60,
+ "level": "B1",
+ "cat": "cons",
+ "title_en": "Operation Paperclip: Rockets, Secrets and Cleaned-Up Files",
+ "title_ru": "Операция «Скрепка»: ракеты, тайны и «отбеленные» досье",
+ "genre": "Конспирология: правда",
+ "summary_ru": "Как после Второй мировой войны США тайно привезли более 1600 немецких учёных, включая создателя Фау-2 Вернера фон Брауна, — и как чиновники переписывали их досье, чтобы скрыть нацистское прошлое.",
+ "paragraphs": [
+  {
+   "en": "In September 1944, a huge explosion shook a quiet street in west London. There had been no warning: no siren, no engine noise, no plane in the sky. Only after the explosion did people nearby hear a strange roar, like a train passing high above them. The weapon had travelled faster than its own sound. It was the V-2, the world's first long-range ballistic missile, a rocket that climbed to the edge of space before falling on its target.",
+   "ru": "В сентябре 1944 года мощный взрыв потряс тихую улицу на западе Лондона. Никакого предупреждения не было: ни сирены, ни шума двигателя, ни самолёта в небе. Лишь после взрыва люди поблизости услышали странный рёв, похожий на шум поезда, проносящегося высоко над ними. Оружие летело быстрее собственного звука. Это была Фау-2, первая в мире баллистическая ракета большой дальности — ракета, которая поднималась к границе космоса, прежде чем упасть на цель.",
+   "s": [
+    [
+     "In September 1944, a huge explosion shook a quiet street in west London.",
+     "В сентябре 1944 года мощный взрыв потряс тихую улицу на западе Лондона."
+    ],
+    [
+     "There had been no warning: no siren, no engine noise, no plane in the sky.",
+     "Никакого предупреждения не было: ни сирены, ни шума двигателя, ни самолёта в небе."
+    ],
+    [
+     "Only after the explosion did people nearby hear a strange roar, like a train passing high above them.",
+     "Лишь после взрыва люди поблизости услышали странный рёв, похожий на шум поезда, проносящегося высоко над ними."
+    ],
+    [
+     "The weapon had travelled faster than its own sound.",
+     "Оружие летело быстрее собственного звука."
+    ],
+    [
+     "It was the V-2, the world's first long-range ballistic missile, a rocket that climbed to the edge of space before falling on its target.",
+     "Это была Фау-2, первая в мире баллистическая ракета большой дальности — ракета, которая поднималась к границе космоса, прежде чем упасть на цель."
+    ]
+   ]
+  },
+  {
+   "en": "Twenty-five years later, in July 1969, another rocket climbed into the sky, this time from Florida. It was the giant Saturn V, and it carried three American astronauts on their way to the Moon. Both rockets were connected to the same man: Wernher von Braun. How did an engineer who had built weapons for Adolf Hitler become one of the heroes of the American space programme? The answer is a secret government project called Operation Paperclip.",
+   "ru": "Двадцать пять лет спустя, в июле 1969 года, другая ракета поднялась в небо, на этот раз из Флориды. Это был гигантский «Сатурн-5», и он нёс трёх американских астронавтов на пути к Луне. Обе ракеты были связаны с одним и тем же человеком — Вернером фон Брауном. Как инженер, создававший оружие для Адольфа Гитлера, стал одним из героев американской космической программы? Ответ — секретный государственный проект под названием операция «Скрепка».",
+   "s": [
+    [
+     "Twenty-five years later, in July 1969, another rocket climbed into the sky, this time from Florida.",
+     "Двадцать пять лет спустя, в июле 1969 года, другая ракета поднялась в небо, на этот раз из Флориды."
+    ],
+    [
+     "It was the giant Saturn V, and it carried three American astronauts on their way to the Moon.",
+     "Это был гигантский «Сатурн-5», и он нёс трёх американских астронавтов на пути к Луне."
+    ],
+    [
+     "Both rockets were connected to the same man: Wernher von Braun.",
+     "Обе ракеты были связаны с одним и тем же человеком — Вернером фон Брауном."
+    ],
+    [
+     "How did an engineer who had built weapons for Adolf Hitler become one of the heroes of the American space programme?",
+     "Как инженер, создававший оружие для Адольфа Гитлера, стал одним из героев американской космической программы?"
+    ],
+    [
+     "The answer is a secret government project called Operation Paperclip.",
+     "Ответ — секретный государственный проект под названием операция «Скрепка»."
+    ]
+   ]
+  },
+  {
+   "en": "In the spring of 1945, as Nazi Germany collapsed, the Allies were not only looking for soldiers and weapons. They were also hunting for brains. German scientists had developed jet planes, rockets and new chemical weapons, and American, British and Soviet officers all wanted that knowledge for themselves.",
+   "ru": "Весной 1945 года, когда нацистская Германия рушилась, союзники искали не только солдат и оружие. Они также охотились за умами. Немецкие учёные создали реактивные самолёты, ракеты и новое химическое оружие, и американские, британские и советские офицеры хотели заполучить эти знания себе.",
+   "s": [
+    [
+     "In the spring of 1945, as Nazi Germany collapsed, the Allies were not only looking for soldiers and weapons.",
+     "Весной 1945 года, когда нацистская Германия рушилась, союзники искали не только солдат и оружие."
+    ],
+    [
+     "They were also hunting for brains.",
+     "Они также охотились за умами."
+    ],
+    [
+     "German scientists had developed jet planes, rockets and new chemical weapons, and American, British and Soviet officers all wanted that knowledge for themselves.",
+     "Немецкие учёные создали реактивные самолёты, ракеты и новое химическое оружие, и американские, британские и советские офицеры хотели заполучить эти знания себе."
+    ]
+   ]
+  },
+  {
+   "en": "Von Braun and his rocket team had worked at Peenemunde, a secret research centre on the Baltic coast. As the Soviet army came closer, the team moved south. In early May 1945, in the Alps near the border between Germany and Austria, von Braun's younger brother Magnus rode a bicycle down a mountain road to find American soldiers, and the group surrendered to the US Army. Von Braun later explained that the team had chosen the Americans on purpose. Fortunately for him, the Americans were very happy to see them.",
+   "ru": "Фон Браун и его ракетная команда работали в Пенемюнде — секретном исследовательском центре на побережье Балтийского моря. Когда советская армия приблизилась, команда перебралась на юг. В начале мая 1945 года в Альпах, у границы Германии и Австрии, младший брат фон Брауна Магнус спустился на велосипеде по горной дороге, чтобы найти американских солдат, и группа сдалась армии США. Позже фон Браун объяснял, что команда выбрала американцев намеренно. К счастью для него, американцы были очень рады их видеть.",
+   "s": [
+    [
+     "Von Braun and his rocket team had worked at Peenemunde, a secret research centre on the Baltic coast.",
+     "Фон Браун и его ракетная команда работали в Пенемюнде — секретном исследовательском центре на побережье Балтийского моря."
+    ],
+    [
+     "As the Soviet army came closer, the team moved south.",
+     "Когда советская армия приблизилась, команда перебралась на юг."
+    ],
+    [
+     "In early May 1945, in the Alps near the border between Germany and Austria, von Braun's younger brother Magnus rode a bicycle down a mountain road to find American soldiers, and the group surrendered to the US Army.",
+     "В начале мая 1945 года в Альпах, у границы Германии и Австрии, младший брат фон Брауна Магнус спустился на велосипеде по горной дороге, чтобы найти американских солдат, и группа сдалась армии США."
+    ],
+    [
+     "Von Braun later explained that the team had chosen the Americans on purpose.",
+     "Позже фон Браун объяснял, что команда выбрала американцев намеренно."
+    ],
+    [
+     "Fortunately for him, the Americans were very happy to see them.",
+     "К счастью для него, американцы были очень рады их видеть."
+    ]
+   ]
+  },
+  {
+   "en": "At first, the plan was simple and temporary. Under a programme called Operation Overcast, German experts would be brought to the United States for a short time to help finish the war against Japan and then be sent home. But the war in the Pacific ended in August 1945, and a new fear quickly took its place. American officials believed that the Soviet Union would soon become their main enemy, and they did not want German experts to work for Moscow. If the Americans did not take these scientists, they argued, the Soviets would.",
+   "ru": "Сначала план был простым и временным. По программе под названием операция «Оверкаст» немецких специалистов должны были ненадолго привезти в США, чтобы они помогли завершить войну с Японией, а затем отправить домой. Но война на Тихом океане закончилась в августе 1945 года, и её место быстро занял новый страх. Американские чиновники считали, что Советский Союз скоро станет их главным врагом, и не хотели, чтобы немецкие специалисты работали на Москву. Если американцы не заберут этих учёных, рассуждали они, это сделают Советы.",
+   "s": [
+    [
+     "At first, the plan was simple and temporary.",
+     "Сначала план был простым и временным."
+    ],
+    [
+     "Under a programme called Operation Overcast, German experts would be brought to the United States for a short time to help finish the war against Japan and then be sent home.",
+     "По программе под названием операция «Оверкаст» немецких специалистов должны были ненадолго привезти в США, чтобы они помогли завершить войну с Японией, а затем отправить домой."
+    ],
+    [
+     "But the war in the Pacific ended in August 1945, and a new fear quickly took its place.",
+     "Но война на Тихом океане закончилась в августе 1945 года, и её место быстро занял новый страх."
+    ],
+    [
+     "American officials believed that the Soviet Union would soon become their main enemy, and they did not want German experts to work for Moscow.",
+     "Американские чиновники считали, что Советский Союз скоро станет их главным врагом, и не хотели, чтобы немецкие специалисты работали на Москву."
+    ],
+    [
+     "If the Americans did not take these scientists, they argued, the Soviets would.",
+     "Если американцы не заберут этих учёных, рассуждали они, это сделают Советы."
+    ]
+   ]
+  },
+  {
+   "en": "In 1946 the project got a new name. According to the usual explanation, officers marked the files of the specialists they wanted by attaching an ordinary paperclip to them. The name stuck: Operation Paperclip. It was run by a small agency called the Joint Intelligence Objectives Agency, or JIOA, which was part of the US military intelligence system.",
+   "ru": "В 1946 году проект получил новое название. Согласно обычному объяснению, офицеры помечали досье нужных им специалистов, прикрепляя к ним обычную канцелярскую скрепку. Название прижилось: операция «Скрепка». Ею руководило небольшое ведомство под названием Объединённое агентство разведывательных целей (JIOA), входившее в систему военной разведки США.",
+   "s": [
+    [
+     "In 1946 the project got a new name.",
+     "В 1946 году проект получил новое название."
+    ],
+    [
+     "According to the usual explanation, officers marked the files of the specialists they wanted by attaching an ordinary paperclip to them.",
+     "Согласно обычному объяснению, офицеры помечали досье нужных им специалистов, прикрепляя к ним обычную канцелярскую скрепку."
+    ],
+    [
+     "The name stuck: Operation Paperclip.",
+     "Название прижилось: операция «Скрепка»."
+    ],
+    [
+     "It was run by a small agency called the Joint Intelligence Objectives Agency, or JIOA, which was part of the US military intelligence system.",
+     "Ею руководило небольшое ведомство под названием Объединённое агентство разведывательных целей (JIOA), входившее в систему военной разведки США."
+    ]
+   ]
+  },
+  {
+   "en": "There was one serious problem. Many of the most useful scientists had been members of the Nazi Party, and some had belonged to the SS, Hitler's feared political army. In September 1946, President Harry Truman approved the programme, but with a clear condition: no one who had been more than a nominal member of the Nazi Party, that is, a member only on paper, or an active supporter of Nazism could be brought to America. The rule was meant to protect the country from war criminals.",
+   "ru": "Была одна серьёзная проблема. Многие из самых полезных учёных были членами нацистской партии, а некоторые состояли в СС — внушавшей страх политической армии Гитлера. В сентябре 1946 года президент Гарри Трумэн одобрил программу, но с чётким условием: в Америку нельзя было привозить никого, кто был в нацистской партии не просто номинальным членом, то есть членом лишь на бумаге, или кто был активным сторонником нацизма. Это правило должно было защитить страну от военных преступников.",
+   "s": [
+    [
+     "There was one serious problem.",
+     "Была одна серьёзная проблема."
+    ],
+    [
+     "Many of the most useful scientists had been members of the Nazi Party, and some had belonged to the SS, Hitler's feared political army.",
+     "Многие из самых полезных учёных были членами нацистской партии, а некоторые состояли в СС — внушавшей страх политической армии Гитлера."
+    ],
+    [
+     "In September 1946, President Harry Truman approved the programme, but with a clear condition: no one who had been more than a nominal member of the Nazi Party, that is, a member only on paper, or an active supporter of Nazism could be brought to America.",
+     "В сентябре 1946 года президент Гарри Трумэн одобрил программу, но с чётким условием: в Америку нельзя было привозить никого, кто был в нацистской партии не просто номинальным членом, то есть членом лишь на бумаге, или кто был активным сторонником нацизма."
+    ],
+    [
+     "The rule was meant to protect the country from war criminals.",
+     "Это правило должно было защитить страну от военных преступников."
+    ]
+   ]
+  },
+  {
+   "en": "In practice, the rule was quietly avoided. Security reports written by military investigators in Germany described some scientists as committed Nazis or as possible threats to security. Officials at the JIOA knew that such reports would stop the scientists from getting visas, so they sent files back to be reviewed and rewritten. Damaging details disappeared, and new, softer reports appeared in their place. Critics later called this process \"bleaching\" the files, as if the past could simply be washed clean.",
+   "ru": "На практике это правило тихо обходили. В отчётах о благонадёжности, написанных военными следователями в Германии, некоторые учёные описывались как убеждённые нацисты или как возможная угроза безопасности. Сотрудники JIOA знали, что такие отчёты помешают учёным получить визы, поэтому отправляли досье обратно на пересмотр и переписывание. Порочащие подробности исчезали, а на их месте появлялись новые, более мягкие отчёты. Позже критики назвали этот процесс «отбеливанием» досье — как будто прошлое можно было просто отмыть.",
+   "s": [
+    [
+     "In practice, the rule was quietly avoided.",
+     "На практике это правило тихо обходили."
+    ],
+    [
+     "Security reports written by military investigators in Germany described some scientists as committed Nazis or as possible threats to security.",
+     "В отчётах о благонадёжности, написанных военными следователями в Германии, некоторые учёные описывались как убеждённые нацисты или как возможная угроза безопасности."
+    ],
+    [
+     "Officials at the JIOA knew that such reports would stop the scientists from getting visas, so they sent files back to be reviewed and rewritten.",
+     "Сотрудники JIOA знали, что такие отчёты помешают учёным получить визы, поэтому отправляли досье обратно на пересмотр и переписывание."
+    ],
+    [
+     "Damaging details disappeared, and new, softer reports appeared in their place.",
+     "Порочащие подробности исчезали, а на их месте появлялись новые, более мягкие отчёты."
+    ],
+    [
+     "Critics later called this process \"bleaching\" the files, as if the past could simply be washed clean.",
+     "Позже критики назвали этот процесс «отбеливанием» досье — как будто прошлое можно было просто отмыть."
+    ]
+   ]
+  },
+  {
+   "en": "Von Braun's own case shows how this worked. He had joined the Nazi Party in 1937 and became an officer in the SS in 1940, later rising to a rank equal to major. A military report from 1947 called him a possible threat to security. A few months later, a new report said that he might not be a threat after all. His past had not changed; only the paperwork had. The same pattern was repeated in many other cases.",
+   "ru": "Дело самого фон Брауна показывает, как это работало. Он вступил в нацистскую партию в 1937 году, а в 1940 году стал офицером СС, позже дослужившись до звания, равного майору. В военном отчёте 1947 года он был назван возможной угрозой безопасности. Через несколько месяцев в новом отчёте говорилось, что он, возможно, всё-таки не представляет угрозы. Его прошлое не изменилось — изменились только бумаги. Та же схема повторялась во многих других случаях.",
+   "s": [
+    [
+     "Von Braun's own case shows how this worked.",
+     "Дело самого фон Брауна показывает, как это работало."
+    ],
+    [
+     "He had joined the Nazi Party in 1937 and became an officer in the SS in 1940, later rising to a rank equal to major.",
+     "Он вступил в нацистскую партию в 1937 году, а в 1940 году стал офицером СС, позже дослужившись до звания, равного майору."
+    ],
+    [
+     "A military report from 1947 called him a possible threat to security.",
+     "В военном отчёте 1947 года он был назван возможной угрозой безопасности."
+    ],
+    [
+     "A few months later, a new report said that he might not be a threat after all.",
+     "Через несколько месяцев в новом отчёте говорилось, что он, возможно, всё-таки не представляет угрозы."
+    ],
+    [
+     "His past had not changed; only the paperwork had.",
+     "Его прошлое не изменилось — изменились только бумаги."
+    ],
+    [
+     "The same pattern was repeated in many other cases.",
+     "Та же схема повторялась во многих других случаях."
+    ]
+   ]
+  },
+  {
+   "en": "Between 1945 and 1959, more than 1,600 German scientists, engineers and technicians were brought to the United States under Paperclip and related programmes, often with their families. They worked on rockets, jet engines, aviation medicine, chemical weapons and much more. Von Braun and more than a hundred members of his team arrived in late 1945 and were sent to Fort Bliss, an army base in Texas. From there they tested captured V-2 rockets in the desert of New Mexico.",
+   "ru": "С 1945 по 1959 год по программе «Скрепка» и связанным с ней программам в США привезли более 1600 немецких учёных, инженеров и техников, часто вместе с семьями. Они работали над ракетами, реактивными двигателями, авиационной медициной, химическим оружием и многим другим. Фон Браун и более сотни членов его команды прибыли в конце 1945 года и были направлены в Форт-Блисс, армейскую базу в Техасе. Оттуда они испытывали трофейные ракеты Фау-2 в пустыне Нью-Мексико.",
+   "s": [
+    [
+     "Between 1945 and 1959, more than 1,600 German scientists, engineers and technicians were brought to the United States under Paperclip and related programmes, often with their families.",
+     "С 1945 по 1959 год по программе «Скрепка» и связанным с ней программам в США привезли более 1600 немецких учёных, инженеров и техников, часто вместе с семьями."
+    ],
+    [
+     "They worked on rockets, jet engines, aviation medicine, chemical weapons and much more.",
+     "Они работали над ракетами, реактивными двигателями, авиационной медициной, химическим оружием и многим другим."
+    ],
+    [
+     "Von Braun and more than a hundred members of his team arrived in late 1945 and were sent to Fort Bliss, an army base in Texas.",
+     "Фон Браун и более сотни членов его команды прибыли в конце 1945 года и были направлены в Форт-Блисс, армейскую базу в Техасе."
+    ],
+    [
+     "From there they tested captured V-2 rockets in the desert of New Mexico.",
+     "Оттуда они испытывали трофейные ракеты Фау-2 в пустыне Нью-Мексико."
+    ]
+   ]
+  },
+  {
+   "en": "The programme was not completely invisible. By the end of 1946, newspapers had reported that German scientists were working for the US military, and some Americans reacted angrily. Critics, including some well-known scientists, argued that it was wrong to give jobs and homes to people who had served Hitler. There was also resistance inside the government: some officials at the State Department did not want to give visas to former Nazis. But the details of individual files, and the way they had been changed, stayed secret for decades.",
+   "ru": "Программа не была полностью невидимой. К концу 1946 года газеты сообщили, что немецкие учёные работают на американских военных, и некоторые американцы отреагировали гневно. Критики, в том числе некоторые известные учёные, утверждали, что неправильно давать работу и жильё людям, служившим Гитлеру. Было и сопротивление внутри правительства: некоторые чиновники Государственного департамента не хотели выдавать визы бывшим нацистам. Но подробности отдельных досье и то, как их меняли, оставались тайной десятилетиями.",
+   "s": [
+    [
+     "The programme was not completely invisible.",
+     "Программа не была полностью невидимой."
+    ],
+    [
+     "By the end of 1946, newspapers had reported that German scientists were working for the US military, and some Americans reacted angrily.",
+     "К концу 1946 года газеты сообщили, что немецкие учёные работают на американских военных, и некоторые американцы отреагировали гневно."
+    ],
+    [
+     "Critics, including some well-known scientists, argued that it was wrong to give jobs and homes to people who had served Hitler.",
+     "Критики, в том числе некоторые известные учёные, утверждали, что неправильно давать работу и жильё людям, служившим Гитлеру."
+    ],
+    [
+     "There was also resistance inside the government: some officials at the State Department did not want to give visas to former Nazis.",
+     "Было и сопротивление внутри правительства: некоторые чиновники Государственного департамента не хотели выдавать визы бывшим нацистам."
+    ],
+    [
+     "But the details of individual files, and the way they had been changed, stayed secret for decades.",
+     "Но подробности отдельных досье и то, как их меняли, оставались тайной десятилетиями."
+    ]
+   ]
+  },
+  {
+   "en": "The darkest part of the story lay underground. From late 1943, the V-2 was produced at the Mittelwerk, a huge factory built in tunnels inside a mountain near the town of Nordhausen. The workers were prisoners from the concentration camp Mittelbau-Dora, many of them from the Soviet Union, Poland and France. They worked in cold, dusty tunnels, with very little food and terrible punishments, including public hangings. In the early months, many prisoners even slept in the tunnels and did not see daylight for weeks.",
+   "ru": "Самая мрачная часть истории скрывалась под землёй. С конца 1943 года Фау-2 производили на заводе «Миттельверк» — огромной фабрике, построенной в туннелях внутри горы около города Нордхаузен. Рабочими были узники концлагеря Миттельбау-Дора, многие из них — из Советского Союза, Польши и Франции. Они работали в холодных пыльных туннелях, получая очень мало еды и подвергаясь страшным наказаниям, включая публичные казни через повешение. В первые месяцы многие узники даже спали в туннелях и неделями не видели дневного света.",
+   "s": [
+    [
+     "The darkest part of the story lay underground.",
+     "Самая мрачная часть истории скрывалась под землёй."
+    ],
+    [
+     "From late 1943, the V-2 was produced at the Mittelwerk, a huge factory built in tunnels inside a mountain near the town of Nordhausen.",
+     "С конца 1943 года Фау-2 производили на заводе «Миттельверк» — огромной фабрике, построенной в туннелях внутри горы около города Нордхаузен."
+    ],
+    [
+     "The workers were prisoners from the concentration camp Mittelbau-Dora, many of them from the Soviet Union, Poland and France.",
+     "Рабочими были узники концлагеря Миттельбау-Дора, многие из них — из Советского Союза, Польши и Франции."
+    ],
+    [
+     "They worked in cold, dusty tunnels, with very little food and terrible punishments, including public hangings.",
+     "Они работали в холодных пыльных туннелях, получая очень мало еды и подвергаясь страшным наказаниям, включая публичные казни через повешение."
+    ],
+    [
+     "In the early months, many prisoners even slept in the tunnels and did not see daylight for weeks.",
+     "В первые месяцы многие узники даже спали в туннелях и неделями не видели дневного света."
+    ]
+   ]
+  },
+  {
+   "en": "This leads to a horrible fact. Historians estimate that V-2 attacks killed around 9,000 people, while at least 12,000 prisoners died producing the weapon. In other words, the rocket killed more people while it was being built than when it was used in war. The question that followed the Paperclip scientists for the rest of their lives was simple: what did they know?",
+   "ru": "Это приводит к ужасному факту. По оценкам историков, удары Фау-2 убили около 9000 человек, тогда как не менее 12 000 узников погибли, производя это оружие. Иными словами, ракета убила больше людей, пока её строили, чем когда её применяли на войне. Вопрос, который преследовал учёных «Скрепки» всю оставшуюся жизнь, был простым: что они знали?",
+   "s": [
+    [
+     "This leads to a horrible fact.",
+     "Это приводит к ужасному факту."
+    ],
+    [
+     "Historians estimate that V-2 attacks killed around 9,000 people, while at least 12,000 prisoners died producing the weapon.",
+     "По оценкам историков, удары Фау-2 убили около 9000 человек, тогда как не менее 12 000 узников погибли, производя это оружие."
+    ],
+    [
+     "In other words, the rocket killed more people while it was being built than when it was used in war.",
+     "Иными словами, ракета убила больше людей, пока её строили, чем когда её применяли на войне."
+    ],
+    [
+     "The question that followed the Paperclip scientists for the rest of their lives was simple: what did they know?",
+     "Вопрос, который преследовал учёных «Скрепки» всю оставшуюся жизнь, был простым: что они знали?"
+    ]
+   ]
+  },
+  {
+   "en": "For many years, von Braun said that he had been a scientist, not a politician. He explained that joining the party and the SS had been necessary to continue his work, and he pointed out that the Gestapo, the Nazi secret police, had even arrested him for a short time in 1944. Later research, however, showed a more complicated picture. Historians found that he had visited the Mittelwerk a number of times and knew about the terrible conditions there. There is also evidence, including a letter from 1944, that he took part in choosing skilled prisoners at the Buchenwald concentration camp for work on the project. Historians still argue about how much real power and choice he had, but few now accept the image of an innocent dreamer who only cared about space.",
+   "ru": "Много лет фон Браун говорил, что был учёным, а не политиком. Он объяснял, что вступление в партию и СС было необходимо, чтобы продолжать работу, и указывал, что гестапо — нацистская тайная полиция — даже ненадолго арестовало его в 1944 году. Однако более поздние исследования показали более сложную картину. Историки установили, что он несколько раз бывал на «Миттельверке» и знал о царивших там ужасных условиях. Есть также свидетельства, включая письмо 1944 года, что он участвовал в отборе квалифицированных заключённых в концлагере Бухенвальд для работы над проектом. Историки до сих пор спорят о том, сколько реальной власти и выбора у него было, но мало кто сегодня принимает образ невинного мечтателя, которого интересовал только космос.",
+   "s": [
+    [
+     "For many years, von Braun said that he had been a scientist, not a politician.",
+     "Много лет фон Браун говорил, что был учёным, а не политиком."
+    ],
+    [
+     "He explained that joining the party and the SS had been necessary to continue his work, and he pointed out that the Gestapo, the Nazi secret police, had even arrested him for a short time in 1944.",
+     "Он объяснял, что вступление в партию и СС было необходимо, чтобы продолжать работу, и указывал, что гестапо — нацистская тайная полиция — даже ненадолго арестовало его в 1944 году."
+    ],
+    [
+     "Later research, however, showed a more complicated picture.",
+     "Однако более поздние исследования показали более сложную картину."
+    ],
+    [
+     "Historians found that he had visited the Mittelwerk a number of times and knew about the terrible conditions there.",
+     "Историки установили, что он несколько раз бывал на «Миттельверке» и знал о царивших там ужасных условиях."
+    ],
+    [
+     "There is also evidence, including a letter from 1944, that he took part in choosing skilled prisoners at the Buchenwald concentration camp for work on the project.",
+     "Есть также свидетельства, включая письмо 1944 года, что он участвовал в отборе квалифицированных заключённых в концлагере Бухенвальд для работы над проектом."
+    ],
+    [
+     "Historians still argue about how much real power and choice he had, but few now accept the image of an innocent dreamer who only cared about space.",
+     "Историки до сих пор спорят о том, сколько реальной власти и выбора у него было, но мало кто сегодня принимает образ невинного мечтателя, которого интересовал только космос."
+    ]
+   ]
+  },
+  {
+   "en": "Meanwhile, in America, the German team became extremely valuable. In 1950 they moved to the Redstone Arsenal in Huntsville, Alabama, where they built missiles for the US Army. When the Soviet Union launched Sputnik, the first artificial satellite, in October 1957, Americans suddenly felt vulnerable. Their first attempt to answer, a Navy rocket called Vanguard, ended in a famous failure in December 1957, when it exploded on the launch pad just seconds after it started to rise. On 31 January 1958, their Jupiter-C rocket put Explorer 1, the first American satellite, into orbit.",
+   "ru": "Тем временем в Америке немецкая команда стала чрезвычайно ценной. В 1950 году они переехали в арсенал Редстоун в Хантсвилле, штат Алабама, где строили ракеты для армии США. Когда в октябре 1957 года Советский Союз запустил «Спутник», первый искусственный спутник Земли, американцы внезапно почувствовали себя уязвимыми. Их первая попытка ответить — ракета ВМС «Авангард» — закончилась знаменитым провалом в декабре 1957 года, когда она взорвалась на стартовой площадке всего через несколько секунд после того, как начала подниматься. 31 января 1958 года их ракета «Юпитер-С» вывела на орбиту «Эксплорер-1», первый американский спутник.",
+   "s": [
+    [
+     "Meanwhile, in America, the German team became extremely valuable.",
+     "Тем временем в Америке немецкая команда стала чрезвычайно ценной."
+    ],
+    [
+     "In 1950 they moved to the Redstone Arsenal in Huntsville, Alabama, where they built missiles for the US Army.",
+     "В 1950 году они переехали в арсенал Редстоун в Хантсвилле, штат Алабама, где строили ракеты для армии США."
+    ],
+    [
+     "When the Soviet Union launched Sputnik, the first artificial satellite, in October 1957, Americans suddenly felt vulnerable.",
+     "Когда в октябре 1957 года Советский Союз запустил «Спутник», первый искусственный спутник Земли, американцы внезапно почувствовали себя уязвимыми."
+    ],
+    [
+     "Their first attempt to answer, a Navy rocket called Vanguard, ended in a famous failure in December 1957, when it exploded on the launch pad just seconds after it started to rise.",
+     "Их первая попытка ответить — ракета ВМС «Авангард» — закончилась знаменитым провалом в декабре 1957 года, когда она взорвалась на стартовой площадке всего через несколько секунд после того, как начала подниматься."
+    ],
+    [
+     "On 31 January 1958, their Jupiter-C rocket put Explorer 1, the first American satellite, into orbit.",
+     "31 января 1958 года их ракета «Юпитер-С» вывела на орбиту «Эксплорер-1», первый американский спутник."
+    ]
+   ]
+  },
+  {
+   "en": "In 1960 von Braun and much of his team joined NASA, the new American space agency, and he became the first director of its Marshall Space Flight Center in Huntsville. There they developed the Saturn V, which carried astronauts to the Moon. Huntsville, once a quiet southern town, became known as \"Rocket City\". Not everyone forgot the past, though. In 1965 the songwriter Tom Lehrer joked in a song: \"Once the rockets are up, who cares where they come down? That's not my department, says Wernher von Braun.\"",
+   "ru": "В 1960 году фон Браун и значительная часть его команды перешли в НАСА, новое американское космическое агентство, и он стал первым директором его Центра космических полётов имени Маршалла в Хантсвилле. Там они создали «Сатурн-5», который доставлял астронавтов на Луну. Хантсвилл, когда-то тихий южный городок, стал известен как «Ракетный город». Впрочем, не все забыли прошлое. В 1965 году автор песен Том Лерер пошутил в одной из песен: «Когда ракеты взлетели, кого волнует, куда они упадут? Это не мой отдел, — говорит Вернер фон Браун».",
+   "s": [
+    [
+     "In 1960 von Braun and much of his team joined NASA, the new American space agency, and he became the first director of its Marshall Space Flight Center in Huntsville.",
+     "В 1960 году фон Браун и значительная часть его команды перешли в НАСА, новое американское космическое агентство, и он стал первым директором его Центра космических полётов имени Маршалла в Хантсвилле."
+    ],
+    [
+     "There they developed the Saturn V, which carried astronauts to the Moon.",
+     "Там они создали «Сатурн-5», который доставлял астронавтов на Луну."
+    ],
+    [
+     "Huntsville, once a quiet southern town, became known as \"Rocket City\".",
+     "Хантсвилл, когда-то тихий южный городок, стал известен как «Ракетный город»."
+    ],
+    [
+     "Not everyone forgot the past, though.",
+     "Впрочем, не все забыли прошлое."
+    ],
+    [
+     "In 1965 the songwriter Tom Lehrer joked in a song: \"Once the rockets are up, who cares where they come down? That's not my department, says Wernher von Braun.\"",
+     "В 1965 году автор песен Том Лерер пошутил в одной из песен: «Когда ракеты взлетели, кого волнует, куда они упадут? Это не мой отдел, — говорит Вернер фон Браун»."
+    ]
+   ]
+  },
+  {
+   "en": "The full story began to come out only decades later. In 1979 the US Department of Justice created the Office of Special Investigations, or OSI, to find Nazi war criminals living in the United States. One of the people it investigated was Arthur Rudolph, a Paperclip engineer who had been an important manager at the Mittelwerk and who later led the Saturn V programme for NASA. In 1984, rather than face a trial, Rudolph agreed to leave the United States and give up his American citizenship.",
+   "ru": "Полная история начала выходить наружу лишь спустя десятилетия. В 1979 году министерство юстиции США создало Управление специальных расследований (OSI), чтобы разыскивать нацистских военных преступников, живущих в США. Одним из тех, кого оно расследовало, был Артур Рудольф — инженер «Скрепки», который был важным руководителем на «Миттельверке», а позже руководил программой «Сатурн-5» в НАСА. В 1984 году, чтобы не предстать перед судом, Рудольф согласился покинуть США и отказаться от американского гражданства.",
+   "s": [
+    [
+     "The full story began to come out only decades later.",
+     "Полная история начала выходить наружу лишь спустя десятилетия."
+    ],
+    [
+     "In 1979 the US Department of Justice created the Office of Special Investigations, or OSI, to find Nazi war criminals living in the United States.",
+     "В 1979 году министерство юстиции США создало Управление специальных расследований (OSI), чтобы разыскивать нацистских военных преступников, живущих в США."
+    ],
+    [
+     "One of the people it investigated was Arthur Rudolph, a Paperclip engineer who had been an important manager at the Mittelwerk and who later led the Saturn V programme for NASA.",
+     "Одним из тех, кого оно расследовало, был Артур Рудольф — инженер «Скрепки», который был важным руководителем на «Миттельверке», а позже руководил программой «Сатурн-5» в НАСА."
+    ],
+    [
+     "In 1984, rather than face a trial, Rudolph agreed to leave the United States and give up his American citizenship.",
+     "В 1984 году, чтобы не предстать перед судом, Рудольф согласился покинуть США и отказаться от американского гражданства."
+    ]
+   ]
+  },
+  {
+   "en": "At around the same time, an American journalist named Linda Hunt began requesting old government files under the Freedom of Information Act, a law that allows citizens to ask for official documents. In 1985 she published an article showing that JIOA officials had ignored Truman's rule and changed scientists' records. Many more files about Nazi war criminals and their links with American agencies were made public after Congress passed the Nazi War Crimes Disclosure Act in 1998.",
+   "ru": "Примерно в то же время американская журналистка Линда Хант начала запрашивать старые государственные досье на основании Закона о свободе информации — закона, который позволяет гражданам запрашивать официальные документы. В 1985 году она опубликовала статью, показывавшую, что сотрудники JIOA проигнорировали правило Трумэна и изменили досье учёных. Ещё больше документов о нацистских военных преступниках и их связях с американскими ведомствами было обнародовано после того, как в 1998 году Конгресс принял Закон о раскрытии информации о нацистских военных преступлениях.",
+   "s": [
+    [
+     "At around the same time, an American journalist named Linda Hunt began requesting old government files under the Freedom of Information Act, a law that allows citizens to ask for official documents.",
+     "Примерно в то же время американская журналистка Линда Хант начала запрашивать старые государственные досье на основании Закона о свободе информации — закона, который позволяет гражданам запрашивать официальные документы."
+    ],
+    [
+     "In 1985 she published an article showing that JIOA officials had ignored Truman's rule and changed scientists' records.",
+     "В 1985 году она опубликовала статью, показывавшую, что сотрудники JIOA проигнорировали правило Трумэна и изменили досье учёных."
+    ],
+    [
+     "Many more files about Nazi war criminals and their links with American agencies were made public after Congress passed the Nazi War Crimes Disclosure Act in 1998.",
+     "Ещё больше документов о нацистских военных преступниках и их связях с американскими ведомствами было обнародовано после того, как в 1998 году Конгресс принял Закон о раскрытии информации о нацистских военных преступлениях."
+    ]
+   ]
+  },
+  {
+   "en": "Rudolph was not the only difficult case. Hubertus Strughold, a doctor who is often called the \"father of space medicine\", had led an aviation medicine institute of the Nazi air force. After the war, documents and witnesses linked doctors from his circle to cruel experiments on prisoners at the Dachau concentration camp, in which people were frozen or exposed to very low air pressure. Strughold always denied any connection to these crimes, and he was never charged. Still, after his past became widely known, several honours that had been named after him were removed.",
+   "ru": "Рудольф был не единственным сложным случаем. Хубертус Штругхольд, врач, которого часто называют «отцом космической медицины», руководил институтом авиационной медицины нацистских ВВС. После войны документы и свидетели связали врачей из его окружения с жестокими экспериментами над узниками концлагеря Дахау, в ходе которых людей замораживали или подвергали воздействию очень низкого давления воздуха. Штругхольд всегда отрицал какую-либо связь с этими преступлениями, и ему так и не предъявили обвинений. Тем не менее после того, как его прошлое стало широко известно, несколько наград и почётных званий, связанных с его именем, были отменены.",
+   "s": [
+    [
+     "Rudolph was not the only difficult case.",
+     "Рудольф был не единственным сложным случаем."
+    ],
+    [
+     "Hubertus Strughold, a doctor who is often called the \"father of space medicine\", had led an aviation medicine institute of the Nazi air force.",
+     "Хубертус Штругхольд, врач, которого часто называют «отцом космической медицины», руководил институтом авиационной медицины нацистских ВВС."
+    ],
+    [
+     "After the war, documents and witnesses linked doctors from his circle to cruel experiments on prisoners at the Dachau concentration camp, in which people were frozen or exposed to very low air pressure.",
+     "После войны документы и свидетели связали врачей из его окружения с жестокими экспериментами над узниками концлагеря Дахау, в ходе которых людей замораживали или подвергали воздействию очень низкого давления воздуха."
+    ],
+    [
+     "Strughold always denied any connection to these crimes, and he was never charged.",
+     "Штругхольд всегда отрицал какую-либо связь с этими преступлениями, и ему так и не предъявили обвинений."
+    ],
+    [
+     "Still, after his past became widely known, several honours that had been named after him were removed.",
+     "Тем не менее после того, как его прошлое стало широко известно, несколько наград и почётных званий, связанных с его именем, были отменены."
+    ]
+   ]
+  },
+  {
+   "en": "The United States was not alone. Britain had its own programmes, and the Soviet Union went even further. On a single night in October 1946, in an operation known as Osoaviakhim, Soviet officers woke up more than 2,000 German specialists in the Soviet zone of Germany and sent them, with their families, by train to the USSR, mostly without asking for their agreement. Both superpowers were ready to forget a great deal in exchange for useful knowledge.",
+   "ru": "Соединённые Штаты были не одиноки. У Великобритании были свои программы, а Советский Союз пошёл ещё дальше. За одну ночь в октябре 1946 года, в ходе операции, известной как «Осоавиахим», советские офицеры подняли с постели более 2000 немецких специалистов в советской зоне Германии и отправили их вместе с семьями поездами в СССР, в большинстве случаев не спрашивая их согласия. Обе сверхдержавы были готовы многое забыть в обмен на полезные знания.",
+   "s": [
+    [
+     "The United States was not alone.",
+     "Соединённые Штаты были не одиноки."
+    ],
+    [
+     "Britain had its own programmes, and the Soviet Union went even further.",
+     "У Великобритании были свои программы, а Советский Союз пошёл ещё дальше."
+    ],
+    [
+     "On a single night in October 1946, in an operation known as Osoaviakhim, Soviet officers woke up more than 2,000 German specialists in the Soviet zone of Germany and sent them, with their families, by train to the USSR, mostly without asking for their agreement.",
+     "За одну ночь в октябре 1946 года, в ходе операции, известной как «Осоавиахим», советские офицеры подняли с постели более 2000 немецких специалистов в советской зоне Германии и отправили их вместе с семьями поездами в СССР, в большинстве случаев не спрашивая их согласия."
+    ],
+    [
+     "Both superpowers were ready to forget a great deal in exchange for useful knowledge.",
+     "Обе сверхдержавы были готовы многое забыть в обмен на полезные знания."
+    ]
+   ]
+  },
+  {
+   "en": "So was Operation Paperclip a success or a moral failure? People still argue about this. Supporters point out that the programme gave the United States important technology, helped it win the race to the Moon and kept the scientists away from the Soviet Union during the Cold War. Critics answer that officials hid the truth from their own people, broke the president's rule and allowed men linked to horrible crimes to live comfortable, respected lives. For the survivors of Mittelbau-Dora, many of whom never received justice, the rockets' success had a bitter taste.",
+   "ru": "Так была ли операция «Скрепка» успехом или моральным провалом? Люди до сих пор спорят об этом. Сторонники указывают, что программа дала США важные технологии, помогла выиграть гонку к Луне и удержала учёных подальше от Советского Союза во время холодной войны. Критики отвечают, что чиновники скрыли правду от собственного народа, нарушили правило президента и позволили людям, связанным с ужасными преступлениями, жить комфортной и уважаемой жизнью. Для выживших узников Миттельбау-Дора, многие из которых так и не дождались справедливости, успех ракет имел горький привкус.",
+   "s": [
+    [
+     "So was Operation Paperclip a success or a moral failure?",
+     "Так была ли операция «Скрепка» успехом или моральным провалом?"
+    ],
+    [
+     "People still argue about this.",
+     "Люди до сих пор спорят об этом."
+    ],
+    [
+     "Supporters point out that the programme gave the United States important technology, helped it win the race to the Moon and kept the scientists away from the Soviet Union during the Cold War.",
+     "Сторонники указывают, что программа дала США важные технологии, помогла выиграть гонку к Луне и удержала учёных подальше от Советского Союза во время холодной войны."
+    ],
+    [
+     "Critics answer that officials hid the truth from their own people, broke the president's rule and allowed men linked to horrible crimes to live comfortable, respected lives.",
+     "Критики отвечают, что чиновники скрыли правду от собственного народа, нарушили правило президента и позволили людям, связанным с ужасными преступлениями, жить комфортной и уважаемой жизнью."
+    ],
+    [
+     "For the survivors of Mittelbau-Dora, many of whom never received justice, the rockets' success had a bitter taste.",
+     "Для выживших узников Миттельбау-Дора, многие из которых так и не дождались справедливости, успех ракет имел горький привкус."
+    ]
+   ]
+  },
+  {
+   "en": "It is worth being honest about what is proven and what is not. The documents clearly show that the programme existed, that Truman set a rule against bringing active Nazis, and that officials worked around that rule by changing security reports. On the other hand, there is no evidence for some of the wilder stories found online, such as claims that Paperclip scientists secretly controlled the American government or built a hidden \"Fourth Reich\". The real story is disturbing enough without inventions.",
+   "ru": "Стоит честно сказать, что доказано, а что нет. Документы ясно показывают, что программа существовала, что Трумэн установил правило против ввоза активных нацистов и что чиновники обходили это правило, изменяя отчёты о благонадёжности. С другой стороны, нет никаких доказательств для некоторых более диких историй, которые можно найти в интернете, например утверждений, что учёные «Скрепки» тайно управляли американским правительством или построили скрытый «Четвёртый рейх». Настоящая история и без выдумок достаточно тревожна.",
+   "s": [
+    [
+     "It is worth being honest about what is proven and what is not.",
+     "Стоит честно сказать, что доказано, а что нет."
+    ],
+    [
+     "The documents clearly show that the programme existed, that Truman set a rule against bringing active Nazis, and that officials worked around that rule by changing security reports.",
+     "Документы ясно показывают, что программа существовала, что Трумэн установил правило против ввоза активных нацистов и что чиновники обходили это правило, изменяя отчёты о благонадёжности."
+    ],
+    [
+     "On the other hand, there is no evidence for some of the wilder stories found online, such as claims that Paperclip scientists secretly controlled the American government or built a hidden \"Fourth Reich\".",
+     "С другой стороны, нет никаких доказательств для некоторых более диких историй, которые можно найти в интернете, например утверждений, что учёные «Скрепки» тайно управляли американским правительством или построили скрытый «Четвёртый рейх»."
+    ],
+    [
+     "The real story is disturbing enough without inventions.",
+     "Настоящая история и без выдумок достаточно тревожна."
+    ]
+   ]
+  },
+  {
+   "en": "Today the memory of Paperclip is still divided. In Huntsville, visitors can see a real Saturn V at the US Space and Rocket Center, and a large concert and sports centre in the city is named after von Braun. In Germany, the old tunnels near Nordhausen are part of the Mittelbau-Dora memorial, where visitors learn about the prisoners who built the V-2. Both places tell true stories, but they are two halves of the same history.",
+   "ru": "Сегодня память о «Скрепке» по-прежнему неоднозначна. В Хантсвилле посетители могут увидеть настоящий «Сатурн-5» в Космическом и ракетном центре США, а большой концертно-спортивный центр города назван в честь фон Брауна. В Германии старые туннели около Нордхаузена — часть мемориала Миттельбау-Дора, где посетители узнают об узниках, строивших Фау-2. Оба места рассказывают правдивые истории, но это две половины одной и той же истории.",
+   "s": [
+    [
+     "Today the memory of Paperclip is still divided.",
+     "Сегодня память о «Скрепке» по-прежнему неоднозначна."
+    ],
+    [
+     "In Huntsville, visitors can see a real Saturn V at the US Space and Rocket Center, and a large concert and sports centre in the city is named after von Braun.",
+     "В Хантсвилле посетители могут увидеть настоящий «Сатурн-5» в Космическом и ракетном центре США, а большой концертно-спортивный центр города назван в честь фон Брауна."
+    ],
+    [
+     "In Germany, the old tunnels near Nordhausen are part of the Mittelbau-Dora memorial, where visitors learn about the prisoners who built the V-2.",
+     "В Германии старые туннели около Нордхаузена — часть мемориала Миттельбау-Дора, где посетители узнают об узниках, строивших Фау-2."
+    ],
+    [
+     "Both places tell true stories, but they are two halves of the same history.",
+     "Оба места рассказывают правдивые истории, но это две половины одной и той же истории."
+    ]
+   ]
+  },
+  {
+   "en": "Operation Paperclip is a rare case where a \"conspiracy\" was not a theory at all. A small group of officials secretly decided that useful knowledge mattered more than an honest record of the past, and they changed documents to make it happen. The truth came out not because of rumours, but because of the patient work of journalists, investigators and historians who read the files. That may be the most important lesson: real secrets are usually uncovered by documents, not by guesses.",
+   "ru": "Операция «Скрепка» — редкий случай, когда «заговор» вовсе не был теорией. Небольшая группа чиновников тайно решила, что полезные знания важнее честной записи о прошлом, и изменила документы, чтобы этого добиться. Правда вышла наружу не благодаря слухам, а благодаря терпеливой работе журналистов, следователей и историков, которые читали досье. Возможно, это самый важный урок: настоящие тайны обычно раскрываются с помощью документов, а не догадок.",
+   "s": [
+    [
+     "Operation Paperclip is a rare case where a \"conspiracy\" was not a theory at all.",
+     "Операция «Скрепка» — редкий случай, когда «заговор» вовсе не был теорией."
+    ],
+    [
+     "A small group of officials secretly decided that useful knowledge mattered more than an honest record of the past, and they changed documents to make it happen.",
+     "Небольшая группа чиновников тайно решила, что полезные знания важнее честной записи о прошлом, и изменила документы, чтобы этого добиться."
+    ],
+    [
+     "The truth came out not because of rumours, but because of the patient work of journalists, investigators and historians who read the files.",
+     "Правда вышла наружу не благодаря слухам, а благодаря терпеливой работе журналистов, следователей и историков, которые читали досье."
+    ],
+    [
+     "That may be the most important lesson: real secrets are usually uncovered by documents, not by guesses.",
+     "Возможно, это самый важный урок: настоящие тайны обычно раскрываются с помощью документов, а не догадок."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, об",
+  "above": "над",
+  "accept": "принять",
+  "according": "согласно",
+  "act": "закон",
+  "active": "активный",
+  "adolf": "Адольф (имя)",
+  "after": "после",
+  "against": "против",
+  "agencies": "ведомства, агентства",
+  "agency": "агентство",
+  "agreed": "согласился",
+  "agreement": "согласие",
+  "air": "воздух",
+  "alabama": "Алабама (штат США)",
+  "all": "совсем (at all)",
+  "allies": "союзники",
+  "allowed": "позволили",
+  "allows": "позволяет",
+  "alone": "одинокий, один",
+  "alps": "Альпы",
+  "also": "также",
+  "always": "всегда",
+  "america": "Америка",
+  "american": "американский",
+  "americans": "американцы",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "angrily": "сердито",
+  "another": "ещё один",
+  "answer": "ответ; отвечают",
+  "any": "какой-либо",
+  "appeared": "появился",
+  "approved": "утвердил",
+  "are": "есть, являются",
+  "argue": "спорят",
+  "argued": "рассуждали, утверждали",
+  "army": "армия",
+  "around": "вокруг, по",
+  "arrested": "арестовало",
+  "arrived": "прибыли",
+  "arsenal": "арсенал",
+  "arthur": "Артур (имя)",
+  "article": "статья",
+  "artificial": "искусственный",
+  "as": "как, так как",
+  "ask": "спросить",
+  "asking": "спрашивая",
+  "astronauts": "астронавты",
+  "at": "в, у, на",
+  "attaching": "прикрепляя",
+  "attacks": "удары, нападения",
+  "attempt": "попытка",
+  "august": "август",
+  "austria": "Австрия",
+  "aviation": "авиационный, авиация",
+  "avoided": "обходили, избегали",
+  "away": "прочь",
+  "back": "назад",
+  "ballistic": "баллистический",
+  "baltic": "Балтийский",
+  "base": "база",
+  "be": "быть",
+  "became": "стал(а)",
+  "because": "потому что",
+  "become": "стать",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "began": "начал(а)",
+  "being": "быть (быть другим)",
+  "believed": "верил",
+  "belonged": "принадлежал",
+  "between": "между",
+  "bicycle": "велосипед",
+  "bitter": "горький",
+  "bleaching": "отбеливание",
+  "bliss": "Блисс (в названии Форт-Блисс)",
+  "border": "граница",
+  "both": "оба",
+  "brains": "мозги, умы",
+  "braun": "Браун (фамилия: фон Браун)",
+  "braun's": "фон Брауна",
+  "bringing": "привоз, ввоз",
+  "britain": "Великобритания",
+  "british": "британский",
+  "broke": "нарушили",
+  "brother": "брат",
+  "brought": "привезены",
+  "buchenwald": "Бухенвальд (концлагерь)",
+  "built": "построил(и)",
+  "but": "но",
+  "by": "к; посредством; (кем-то)",
+  "c": "C (в названии «Юпитер-С»)",
+  "called": "называемый; назвали",
+  "came": "пришёл, пришли",
+  "camp": "лагерь",
+  "can": "могут",
+  "captured": "трофейный, захваченный",
+  "cared": "интересовался, заботился",
+  "cares": "волнует",
+  "carried": "нёс, доставлял",
+  "case": "дело, случай",
+  "cases": "случаи",
+  "center": "центр",
+  "centre": "центр",
+  "changed": "изменились; изменили",
+  "changing": "изменяя",
+  "charged": "обвинён",
+  "chemical": "химический",
+  "choice": "выбор",
+  "choosing": "отбор, выбор",
+  "chosen": "выбрали",
+  "circle": "круг",
+  "citizens": "граждане",
+  "citizenship": "гражданство",
+  "city": "город",
+  "claims": "утверждения",
+  "clean": "чистый",
+  "clear": "ясный",
+  "clearly": "явно, чётко",
+  "climbed": "поднималась",
+  "closer": "ближе",
+  "coast": "побережье",
+  "cold": "холодный (Cold War — холодная война)",
+  "collapsed": "рухнула",
+  "come": "выходить (come out); падать (come down)",
+  "comfortable": "удобный",
+  "committed": "убеждённый",
+  "completely": "полностью",
+  "complicated": "сложный",
+  "concentration": "концентрационный (concentration camp — концлагерь)",
+  "concert": "концерт",
+  "condition": "условие",
+  "conditions": "условия",
+  "congress": "Конгресс",
+  "connected": "связаны",
+  "connection": "связь",
+  "conspiracy": "заговор",
+  "continue": "продолжать",
+  "controlled": "управляли",
+  "could": "мог(ла)",
+  "country": "страна",
+  "created": "создал",
+  "crimes": "преступления",
+  "criminals": "преступники",
+  "critics": "критики",
+  "cruel": "жестокий",
+  "dachau": "Дахау (концлагерь)",
+  "damaging": "порочащий, вредный",
+  "darkest": "самый мрачный",
+  "daylight": "дневной свет",
+  "deal": "(a great deal) много",
+  "decades": "десятилетия",
+  "december": "декабрь",
+  "decided": "решили",
+  "denied": "отрицал",
+  "department": "министерство; отдел",
+  "described": "описывали",
+  "desert": "пустыня",
+  "details": "подробности",
+  "developed": "создали",
+  "did": "(вспом. гл.)",
+  "died": "умер(ла)",
+  "difficult": "трудный",
+  "director": "директор",
+  "disappeared": "исчезали",
+  "disclosure": "раскрытие (информации)",
+  "disturbing": "тревожный",
+  "divided": "разделённый, неоднозначный",
+  "doctor": "врач",
+  "doctors": "врачи",
+  "documents": "документы",
+  "dora": "Дора (в названии лагеря Миттельбау-Дора)",
+  "down": "вниз",
+  "dreamer": "мечтатель",
+  "during": "во время",
+  "dusty": "пыльный",
+  "early": "рано",
+  "edge": "край, окраина",
+  "end": "конец",
+  "ended": "закончилась",
+  "enemy": "враг",
+  "engine": "двигатель",
+  "engineer": "инженер",
+  "engineers": "инженеры",
+  "engines": "двигатели",
+  "enough": "достаточно",
+  "equal": "равный",
+  "estimate": "оценивают, подсчитывают",
+  "even": "даже",
+  "everyone": "все",
+  "evidence": "доказательства",
+  "exchange": "обмен (in exchange — взамен)",
+  "existed": "существовала",
+  "experiments": "эксперименты",
+  "experts": "эксперты",
+  "explained": "объяснил",
+  "explanation": "объяснение",
+  "exploded": "взорвалась",
+  "explorer": "«Эксплорер» (название спутника)",
+  "explosion": "взрыв",
+  "exposed": "подвергнуты (воздействию)",
+  "extremely": "чрезвычайно",
+  "face": "лицо",
+  "fact": "факт",
+  "factory": "фабрика",
+  "failure": "неудача",
+  "falling": "падающий",
+  "families": "семьи",
+  "famous": "знаменитый",
+  "faster": "быстрее",
+  "father": "отец",
+  "fear": "страх",
+  "feared": "внушавший страх",
+  "felt": "чувствовала",
+  "few": "несколько; (few now) мало кто",
+  "files": "досье, дела",
+  "find": "найти",
+  "finish": "завершить",
+  "first": "первый; сначала",
+  "five": "пять",
+  "flight": "полёт",
+  "florida": "Флорида",
+  "followed": "преследовал",
+  "food": "еда",
+  "for": "для, в течение",
+  "force": "сила",
+  "forget": "забыть",
+  "forgot": "забыли",
+  "former": "бывший",
+  "fort": "форт",
+  "fortunately": "к счастью",
+  "found": "найденный; установили",
+  "fourth": "четвёртый",
+  "france": "Франция",
+  "freedom": "свобода",
+  "from": "из, от",
+  "frozen": "заморожены",
+  "full": "полный",
+  "further": "дальнейший",
+  "gave": "дала",
+  "german": "немецкий",
+  "germany": "Германия",
+  "gestapo": "гестапо",
+  "getting": "получать",
+  "giant": "гигантский",
+  "give": "дать",
+  "got": "получил",
+  "government": "правительство; государственный",
+  "great": "большой, отличный",
+  "group": "группа",
+  "guesses": "догадки",
+  "had": "(вспом. гл.); имел",
+  "halves": "половины",
+  "hand": "(on the other hand) с другой стороны",
+  "hangings": "казни через повешение",
+  "happen": "случиться",
+  "happy": "счастливый",
+  "harry": "Гарри (имя)",
+  "he": "он",
+  "hear": "слышать",
+  "help": "помочь",
+  "helped": "помогла",
+  "heroes": "герои",
+  "hid": "скрыли",
+  "hidden": "скрытый",
+  "high": "высокий, высоко",
+  "him": "его, ему",
+  "his": "его",
+  "historians": "историки",
+  "history": "история",
+  "hitler": "Гитлер",
+  "hitler's": "Гитлера",
+  "home": "домой",
+  "homes": "жильё, дома",
+  "honest": "честный",
+  "honours": "награды, почести",
+  "horrible": "ужасный",
+  "how": "как",
+  "however": "однако; сколько бы",
+  "hubertus": "Хубертус (имя)",
+  "huge": "огромный",
+  "hundred": "сто",
+  "hunt": "Хант (фамилия)",
+  "hunting": "охотились",
+  "huntsville": "Хантсвилл (город)",
+  "if": "если, ли",
+  "ignored": "проигнорировали",
+  "image": "образ",
+  "important": "важный",
+  "in": "в",
+  "including": "включая",
+  "individual": "отдельный",
+  "information": "информация",
+  "innocent": "невинный",
+  "inside": "внутри",
+  "institute": "институт",
+  "intelligence": "разведка",
+  "into": "в",
+  "inventions": "выдумки",
+  "investigated": "расследовала",
+  "investigations": "расследования",
+  "investigators": "следователи",
+  "invisible": "невидимый",
+  "is": "есть, является",
+  "it": "он, оно, это",
+  "its": "его, её",
+  "january": "январь",
+  "japan": "Япония",
+  "jet": "реактивный",
+  "jioa": "JIOA (Объединённое агентство разведывательных целей)",
+  "jobs": "работы",
+  "joined": "вступил; перешёл",
+  "joining": "вступление",
+  "joint": "объединённый",
+  "joked": "пошутил",
+  "journalist": "журналист",
+  "journalists": "журналисты",
+  "july": "июль",
+  "jupiter": "«Юпитер» (название ракеты)",
+  "just": "просто",
+  "justice": "справедливость",
+  "kept": "удержала",
+  "killed": "убили",
+  "knew": "знал(и)",
+  "know": "знать",
+  "knowledge": "знание",
+  "known": "известный",
+  "large": "большой",
+  "late": "поздно",
+  "later": "позже",
+  "launch": "запуск (launch pad — стартовая площадка)",
+  "launched": "запустил",
+  "law": "закон",
+  "lay": "лежала, скрывалась",
+  "leads": "приводит",
+  "learn": "узнают",
+  "least": "(at least) не менее",
+  "leave": "покинуть",
+  "led": "руководил",
+  "lehrer": "Лерер (фамилия)",
+  "lesson": "урок",
+  "letter": "письмо",
+  "like": "как, похожий на",
+  "linda": "Линда (имя)",
+  "linked": "связанный; связали",
+  "links": "связи",
+  "little": "маленький, немного",
+  "live": "жить",
+  "lives": "жизни",
+  "living": "живущий",
+  "london": "Лондон",
+  "long": "долго, долгий",
+  "looking": "искали (looking for)",
+  "low": "низкий",
+  "made": "сделаны (made public — обнародованы)",
+  "magnus": "Магнус (имя)",
+  "main": "главный",
+  "major": "майор",
+  "make": "(make it happen) добиться этого",
+  "man": "мужчина",
+  "manager": "управляющий",
+  "many": "много",
+  "marked": "помечали",
+  "marshall": "Маршалл (в названии центра)",
+  "mattered": "имели значение, были важнее",
+  "may": "может",
+  "meant": "должно было",
+  "meanwhile": "тем временем",
+  "medicine": "медицина",
+  "member": "член",
+  "members": "члены",
+  "memorial": "мемориал",
+  "memory": "память",
+  "men": "люди, мужчины",
+  "mexico": "Мексико (New Mexico — Нью-Мексико)",
+  "might": "мог бы",
+  "military": "военный",
+  "missile": "ракетный",
+  "missiles": "ракеты",
+  "mittelbau": "Миттельбау (концлагерь)",
+  "mittelwerk": "«Миттельверк» (подземный завод)",
+  "months": "месяцы",
+  "moon": "луна",
+  "moral": "моральный",
+  "more": "больше",
+  "moscow": "Москва",
+  "most": "самый; большинство",
+  "mostly": "в основном",
+  "mountain": "гора",
+  "moved": "перебралась, переехали",
+  "much": "много; значительная часть",
+  "my": "мой",
+  "name": "имя",
+  "named": "по имени; названный",
+  "nasa": "НАСА",
+  "navy": "военно-морской флот",
+  "nazi": "нацистский",
+  "nazis": "нацисты",
+  "nazism": "нацизм",
+  "near": "возле, у",
+  "nearby": "поблизости",
+  "necessary": "необходимо",
+  "never": "никогда",
+  "new": "новый",
+  "newspapers": "газеты",
+  "night": "ночь",
+  "no": "нет",
+  "noise": "шум",
+  "nominal": "номинальный, формальный",
+  "nordhausen": "Нордхаузен (город)",
+  "not": "не",
+  "now": "теперь",
+  "number": "(a number of) несколько",
+  "objectives": "цели",
+  "october": "октябрь",
+  "of": "из, о, (род. падеж)",
+  "office": "офис",
+  "officer": "офицер",
+  "officers": "офицеры",
+  "official": "официальный",
+  "officials": "чиновники",
+  "often": "часто",
+  "old": "старый",
+  "on": "на",
+  "once": "однажды",
+  "one": "один, одна",
+  "online": "в интернете; интернет-",
+  "only": "только",
+  "operation": "операция",
+  "or": "или",
+  "orbit": "орбита",
+  "ordinary": "обычный",
+  "osi": "OSI (Управление специальных расследований)",
+  "osoaviakhim": "«Осоавиахим» (название операции)",
+  "other": "другой",
+  "out": "наружу",
+  "overcast": "«Оверкаст» (название операции)",
+  "own": "собственный",
+  "pacific": "Тихий океан",
+  "pad": "площадка (launch pad)",
+  "paper": "бумага",
+  "paperclip": "скрепка; «Скрепка» (операция)",
+  "paperwork": "бумаги, документы",
+  "part": "часть",
+  "party": "партия",
+  "passed": "принял (закон)",
+  "passing": "проносящийся",
+  "past": "прошлое",
+  "patient": "терпеливый",
+  "pattern": "схема",
+  "peenemunde": "Пенемюнде (место)",
+  "people": "люди",
+  "picture": "картина",
+  "place": "место",
+  "places": "места",
+  "plan": "план",
+  "plane": "самолёт",
+  "planes": "самолёты",
+  "point": "(point out) указывать",
+  "pointed": "указывал",
+  "poland": "Польша",
+  "police": "полиция, полицейский",
+  "political": "политический",
+  "politician": "политик",
+  "possible": "возможный",
+  "power": "власть",
+  "practice": "практика",
+  "president": "президент",
+  "president's": "президента",
+  "pressure": "давление",
+  "prisoners": "пленные, заключённые",
+  "problem": "проблема",
+  "process": "процесс",
+  "produced": "производили",
+  "producing": "производя",
+  "programme": "программа",
+  "programmes": "программы",
+  "project": "проект",
+  "protect": "защитить",
+  "proven": "доказано",
+  "public": "публичный; (made public) обнародованы",
+  "published": "опубликовала",
+  "punishments": "наказания",
+  "purpose": "(on purpose) намеренно",
+  "put": "вывела",
+  "question": "вопрос",
+  "quickly": "быстро",
+  "quiet": "тихий",
+  "quietly": "тихо",
+  "race": "гонка",
+  "range": "дальность (long-range — большой дальности)",
+  "rank": "звание",
+  "rare": "редкий",
+  "rather": "(rather than) вместо того чтобы",
+  "reacted": "отреагировала",
+  "read": "читали",
+  "ready": "готовый",
+  "real": "настоящий",
+  "received": "получили",
+  "record": "запись",
+  "records": "досье, записи",
+  "redstone": "Редстоун (название арсенала)",
+  "reich": "рейх",
+  "related": "связанный",
+  "removed": "отменены, убраны",
+  "repeated": "повторялась",
+  "report": "отчёт",
+  "reported": "сообщили",
+  "reports": "отчёты",
+  "requesting": "запрашивать",
+  "research": "исследования",
+  "resistance": "сопротивление",
+  "respected": "уважаемый",
+  "rest": "остаток (for the rest of their lives — всю оставшуюся жизнь)",
+  "reviewed": "пересмотрены",
+  "rewritten": "переписаны",
+  "rise": "рост; повышение",
+  "rising": "дослужившись",
+  "road": "дорога",
+  "roar": "рёв",
+  "rocket": "ракета; ракетный",
+  "rockets": "ракеты",
+  "rode": "ехал, спустился (на велосипеде)",
+  "rudolph": "Рудольф (фамилия)",
+  "rule": "правило",
+  "rumours": "слухи",
+  "run": "руководить (was run by — руководило)",
+  "said": "говорил; говорилось",
+  "same": "тот же",
+  "satellite": "спутник",
+  "saturn": "«Сатурн» (название ракеты)",
+  "says": "говорит",
+  "scientist": "учёный",
+  "scientists": "учёные",
+  "seconds": "секунды",
+  "secret": "тайный",
+  "secretly": "тайно",
+  "secrets": "тайны, секреты",
+  "security": "безопасность, благонадёжность",
+  "see": "видеть",
+  "sent": "отправили, направили",
+  "september": "сентябрь",
+  "serious": "серьёзный",
+  "served": "служили",
+  "set": "установил",
+  "several": "несколько",
+  "she": "она",
+  "shook": "потряс",
+  "short": "короткий",
+  "show": "показать",
+  "showed": "показала",
+  "showing": "показывая",
+  "shows": "показывает",
+  "simple": "простой",
+  "simply": "просто",
+  "single": "единственный, одна",
+  "siren": "сирена",
+  "skilled": "квалифицированный",
+  "sky": "небо",
+  "slept": "спали",
+  "small": "маленький",
+  "so": "поэтому; так",
+  "softer": "более мягкий",
+  "soldiers": "солдаты",
+  "some": "некоторые",
+  "song": "песня",
+  "songwriter": "автор песен",
+  "soon": "вскоре",
+  "sound": "звук",
+  "south": "юг",
+  "southern": "южный",
+  "soviet": "советский",
+  "soviets": "Советы, советские",
+  "space": "космос; космический",
+  "special": "специальный",
+  "specialists": "специалисты",
+  "sports": "спортивный",
+  "spring": "весна",
+  "sputnik": "«Спутник»",
+  "ss": "СС",
+  "started": "начала",
+  "state": "государственный (State Department — Госдепартамент)",
+  "states": "штаты",
+  "stayed": "оставались",
+  "still": "до сих пор; тем не менее; по-прежнему",
+  "stop": "помешать",
+  "stories": "истории",
+  "story": "история",
+  "strange": "странный",
+  "street": "улица",
+  "strughold": "Штругхольд (фамилия)",
+  "stuck": "прижилось",
+  "success": "успех",
+  "such": "такой",
+  "suddenly": "вдруг",
+  "superpowers": "сверхдержавы",
+  "supporter": "сторонник",
+  "supporters": "сторонники",
+  "surrendered": "сдалась",
+  "survivors": "выжившие",
+  "system": "система",
+  "take": "забрать",
+  "target": "цель",
+  "taste": "привкус",
+  "team": "команда",
+  "technicians": "техники",
+  "technology": "технологии",
+  "tell": "рассказывают",
+  "temporary": "временный",
+  "terrible": "ужасный",
+  "tested": "испытывали",
+  "texas": "Техас",
+  "than": "чем",
+  "that": "что; тот, это",
+  "that's": "это (есть)",
+  "the": "(опр. артикль)",
+  "their": "их, свои",
+  "them": "их",
+  "themselves": "сами",
+  "then": "потом, тогда",
+  "theory": "теория",
+  "there": "там",
+  "these": "эти",
+  "they": "они",
+  "this": "этот",
+  "though": "хотя; однако",
+  "threat": "угроза",
+  "threats": "угрозы",
+  "three": "три",
+  "time": "время (for a short time — ненадолго)",
+  "times": "раз",
+  "to": "к, в; (частица)",
+  "today": "сегодня",
+  "tom": "Том (имя)",
+  "took": "заняла (took its place)",
+  "town": "город",
+  "train": "поезд",
+  "travelled": "летело",
+  "trial": "суд, судебный процесс",
+  "true": "правдивый",
+  "truman": "Трумэн (фамилия)",
+  "truman's": "Трумэна",
+  "truth": "правда",
+  "tunnels": "туннели",
+  "twenty": "двадцать",
+  "two": "два",
+  "uncovered": "раскрыты",
+  "under": "по (программе); под",
+  "underground": "подземный",
+  "union": "союз (Soviet Union — Советский Союз)",
+  "united": "соединённый (United States — Соединённые Штаты)",
+  "up": "вверх",
+  "us": "нам",
+  "used": "применяли",
+  "useful": "полезный",
+  "ussr": "СССР",
+  "usual": "обычный",
+  "usually": "обычно",
+  "v": "В (буква)",
+  "valuable": "ценный",
+  "vanguard": "«Авангард» (название ракеты)",
+  "very": "очень",
+  "visas": "визы",
+  "visited": "бывал, посещал",
+  "visitors": "посетители",
+  "von": "фон (в фамилии)",
+  "vulnerable": "уязвимый",
+  "want": "хотеть",
+  "wanted": "хотели; нужный",
+  "war": "война",
+  "warning": "предупреждение",
+  "was": "был(а)",
+  "washed": "отмыто",
+  "way": "способ; путь",
+  "weapon": "оружие",
+  "weapons": "оружие",
+  "weeks": "недели",
+  "well": "(well-known) хорошо (известный)",
+  "went": "шёл, вышел",
+  "were": "были",
+  "wernher": "Вернер (имя)",
+  "west": "запад",
+  "what": "что",
+  "when": "когда",
+  "where": "где",
+  "which": "который, что",
+  "while": "тогда как; пока",
+  "who": "кто, который",
+  "whom": "которого",
+  "widely": "широко",
+  "wilder": "более дикий",
+  "win": "выиграть",
+  "with": "с",
+  "without": "без",
+  "witnesses": "свидетели",
+  "woke": "разбудили (woke up)",
+  "words": "(in other words) иными словами",
+  "work": "работа",
+  "worked": "работали; (worked around) обходили",
+  "workers": "рабочие",
+  "working": "работающий",
+  "world's": "мира",
+  "worth": "(it is worth) стоит",
+  "would": "(буд. в прошедшем) будут; бы",
+  "written": "написанный",
+  "wrong": "неправильно",
+  "years": "лет, годы",
+  "younger": "младший",
+  "zone": "зона"
+ },
+ "vocab": {
+  "roar": 16,
+  "though": 159,
+  "repeated": 181,
+  "climbed": 204,
+  "passing": 223,
+  "passed": 223,
+  "memory": 624,
+  "fortunately": 334,
+  "horrible": 86,
+  "reacted": 500,
+  "failure": 518,
+  "taste": 52,
+  "argued": 297,
+  "argue": 297,
+  "honest": 331,
+  "resistance": 629,
+  "protect": 157,
+  "explosion": 526,
+  "high": 118,
+  "vulnerable": 570,
+  "nearby": 315,
+  "lay": 146
+ }
+}

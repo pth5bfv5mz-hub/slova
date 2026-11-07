@@ -1,0 +1,1264 @@
+{
+ "id": 79,
+ "level": "B1",
+ "cat": "cons",
+ "title_en": "Jack the Ripper: The Killer Who Was Never Named",
+ "title_ru": "Джек-потрошитель: убийца, которого так и не назвали",
+ "genre": "Конспирология: загадка",
+ "summary_ru": "Осенью 1888 года в бедном лондонском районе Уайтчепел были зверски убиты пять женщин; за сто с лишним лет назвали больше сотни подозреваемых, а в 2014 году объявили, что анализ ДНК с шали наконец раскрыл тайну, — но многие учёные с этим не согласны.",
+ "paragraphs": [
+  {
+   "en": "At about twenty to four on the morning of 31 August 1888, a cart driver named Charles Cross was walking to work along Buck's Row, a dark, narrow street in the East End of London. In front of a gate he noticed something lying on the ground. At first he thought it was an old piece of canvas. Then he realised that it was a woman.",
+   "ru": "Примерно без двадцати четыре утра 31 августа 1888 года возчик по имени Чарльз Кросс шёл на работу по Бакс-Роу — тёмной узкой улице в Ист-Энде Лондона. Перед воротами он заметил, что на земле что-то лежит. Сначала он подумал, что это старый кусок брезента. Потом он понял, что это женщина.",
+   "s": [
+    [
+     "At about twenty to four on the morning of 31 August 1888, a cart driver named Charles Cross was walking to work along Buck's Row, a dark, narrow street in the East End of London.",
+     "Примерно без двадцати четыре утра 31 августа 1888 года возчик по имени Чарльз Кросс шёл на работу по Бакс-Роу — тёмной узкой улице в Ист-Энде Лондона."
+    ],
+    [
+     "In front of a gate he noticed something lying on the ground.",
+     "Перед воротами он заметил, что на земле что-то лежит."
+    ],
+    [
+     "At first he thought it was an old piece of canvas.",
+     "Сначала он подумал, что это старый кусок брезента."
+    ],
+    [
+     "Then he realised that it was a woman.",
+     "Потом он понял, что это женщина."
+    ]
+   ]
+  },
+  {
+   "en": "Another worker, Robert Paul, came along the road a few moments later, and the two men looked at her together. They hurried off to find a police officer. Only later, at the mortuary, did anyone see how horrible her injuries were: her throat had been cut deeply, and her stomach had been cut open with a knife.",
+   "ru": "Через несколько мгновений по дороге подошёл другой рабочий, Роберт Пол, и мужчины осмотрели её вместе. Они поспешили найти полицейского. Только позже, в морге, увидели, насколько ужасны её раны: горло было глубоко перерезано, а живот вспорот ножом.",
+   "s": [
+    [
+     "Another worker, Robert Paul, came along the road a few moments later, and the two men looked at her together.",
+     "Через несколько мгновений по дороге подошёл другой рабочий, Роберт Пол, и мужчины осмотрели её вместе."
+    ],
+    [
+     "They hurried off to find a police officer.",
+     "Они поспешили найти полицейского."
+    ],
+    [
+     "Only later, at the mortuary, did anyone see how horrible her injuries were: her throat had been cut deeply, and her stomach had been cut open with a knife.",
+     "Только позже, в морге, увидели, насколько ужасны её раны: горло было глубоко перерезано, а живот вспорот ножом."
+    ]
+   ]
+  },
+  {
+   "en": "The dead woman was Mary Ann Nichols, aged 43, whom her friends called \"Polly\". She had no home of her own. A few hours before she died, she had been sent away from a cheap lodging house because she did not have the four pennies that she needed to pay for a bed. Her death began the most famous series of unsolved murders in history. The killer was never caught, and even today nobody can say for certain who he was.",
+   "ru": "Погибшей была Мэри Энн Николс, 43 лет, которую друзья называли «Полли». У неё не было своего дома. За несколько часов до смерти её выгнали из дешёвой ночлежки, потому что у неё не было четырёх пенсов, нужных, чтобы заплатить за койку. С её смерти началась самая знаменитая серия нераскрытых убийств в истории. Убийцу так и не поймали, и даже сегодня никто не может с уверенностью сказать, кем он был.",
+   "s": [
+    [
+     "The dead woman was Mary Ann Nichols, aged 43, whom her friends called \"Polly\".",
+     "Погибшей была Мэри Энн Николс, 43 лет, которую друзья называли «Полли»."
+    ],
+    [
+     "She had no home of her own.",
+     "У неё не было своего дома."
+    ],
+    [
+     "A few hours before she died, she had been sent away from a cheap lodging house because she did not have the four pennies that she needed to pay for a bed.",
+     "За несколько часов до смерти её выгнали из дешёвой ночлежки, потому что у неё не было четырёх пенсов, нужных, чтобы заплатить за койку."
+    ],
+    [
+     "Her death began the most famous series of unsolved murders in history.",
+     "С её смерти началась самая знаменитая серия нераскрытых убийств в истории."
+    ],
+    [
+     "The killer was never caught, and even today nobody can say for certain who he was.",
+     "Убийцу так и не поймали, и даже сегодня никто не может с уверенностью сказать, кем он был."
+    ]
+   ]
+  },
+  {
+   "en": "Whitechapel, the district where Nichols was killed, was one of the poorest parts of London. Tens of thousands of people lived crowded together in small, dirty rooms, and many of them were new immigrants, including Jewish families who had escaped from violence in the Russian Empire and Eastern Europe. In October 1888, the police estimated that about 1,200 women in Whitechapel were working as prostitutes, most of them because poverty left them no other way to pay for food and a bed.",
+   "ru": "Уайтчепел — район, где убили Николс, — был одним из самых бедных районов Лондона. Десятки тысяч людей жили в тесноте в маленьких грязных комнатах, и многие из них были недавними иммигрантами, в том числе еврейскими семьями, бежавшими от насилия в Российской империи и Восточной Европе. В октябре 1888 года полиция подсчитала, что в Уайтчепеле около 1200 женщин занимались проституцией, большинство из них — потому что бедность не оставляла им другого способа заплатить за еду и ночлег.",
+   "s": [
+    [
+     "Whitechapel, the district where Nichols was killed, was one of the poorest parts of London.",
+     "Уайтчепел — район, где убили Николс, — был одним из самых бедных районов Лондона."
+    ],
+    [
+     "Tens of thousands of people lived crowded together in small, dirty rooms, and many of them were new immigrants, including Jewish families who had escaped from violence in the Russian Empire and Eastern Europe.",
+     "Десятки тысяч людей жили в тесноте в маленьких грязных комнатах, и многие из них были недавними иммигрантами, в том числе еврейскими семьями, бежавшими от насилия в Российской империи и Восточной Европе."
+    ],
+    [
+     "In October 1888, the police estimated that about 1,200 women in Whitechapel were working as prostitutes, most of them because poverty left them no other way to pay for food and a bed.",
+     "В октябре 1888 года полиция подсчитала, что в Уайтчепеле около 1200 женщин занимались проституцией, большинство из них — потому что бедность не оставляла им другого способа заплатить за еду и ночлег."
+    ]
+   ]
+  },
+  {
+   "en": "Violence was common in these streets, and Nichols was not the first woman to be murdered there that year. The police later collected eleven killings that took place between April 1888 and February 1891 in one file, which they called \"the Whitechapel murders\". However, most experts agree that only five of them were probably committed by the same man. These five victims are known as the \"canonical five\", which means the generally accepted list.",
+   "ru": "Насилие было обычным делом на этих улицах, и Николс была не первой женщиной, убитой там в тот год. Позже полиция собрала одиннадцать убийств, совершённых с апреля 1888 по февраль 1891 года, в одно дело, которое назвали «Уайтчепельскими убийствами». Однако большинство специалистов согласны, что лишь пять из них, вероятно, совершил один и тот же человек. Этих пятерых жертв называют «канонической пятёркой», то есть общепринятым списком.",
+   "s": [
+    [
+     "Violence was common in these streets, and Nichols was not the first woman to be murdered there that year.",
+     "Насилие было обычным делом на этих улицах, и Николс была не первой женщиной, убитой там в тот год."
+    ],
+    [
+     "The police later collected eleven killings that took place between April 1888 and February 1891 in one file, which they called \"the Whitechapel murders\".",
+     "Позже полиция собрала одиннадцать убийств, совершённых с апреля 1888 по февраль 1891 года, в одно дело, которое назвали «Уайтчепельскими убийствами»."
+    ],
+    [
+     "However, most experts agree that only five of them were probably committed by the same man.",
+     "Однако большинство специалистов согласны, что лишь пять из них, вероятно, совершил один и тот же человек."
+    ],
+    [
+     "These five victims are known as the \"canonical five\", which means the generally accepted list.",
+     "Этих пятерых жертв называют «канонической пятёркой», то есть общепринятым списком."
+    ]
+   ]
+  },
+  {
+   "en": "The second of them was Annie Chapman, aged 47. Early on 8 September, her body was found in the backyard of a house at 29 Hanbury Street, only a few minutes' walk from Buck's Row. This time the killer had removed some of her internal organs. The doctor who examined her thought that the murderer had some knowledge of anatomy, the science of the human body, and soon there were rumours that he might be a doctor or a butcher.",
+   "ru": "Второй из них была Энни Чэпмен, 47 лет. Рано утром 8 сентября её тело нашли на заднем дворе дома 29 по Ханбери-стрит, всего в нескольких минутах ходьбы от Бакс-Роу. На этот раз убийца извлёк некоторые её внутренние органы. Врач, который её осматривал, решил, что убийца имел некоторые познания в анатомии — науке о строении человеческого тела, и вскоре пошли слухи, что он может быть врачом или мясником.",
+   "s": [
+    [
+     "The second of them was Annie Chapman, aged 47.",
+     "Второй из них была Энни Чэпмен, 47 лет."
+    ],
+    [
+     "Early on 8 September, her body was found in the backyard of a house at 29 Hanbury Street, only a few minutes' walk from Buck's Row.",
+     "Рано утром 8 сентября её тело нашли на заднем дворе дома 29 по Ханбери-стрит, всего в нескольких минутах ходьбы от Бакс-Роу."
+    ],
+    [
+     "This time the killer had removed some of her internal organs.",
+     "На этот раз убийца извлёк некоторые её внутренние органы."
+    ],
+    [
+     "The doctor who examined her thought that the murderer had some knowledge of anatomy, the science of the human body, and soon there were rumours that he might be a doctor or a butcher.",
+     "Врач, который её осматривал, решил, что убийца имел некоторые познания в анатомии — науке о строении человеческого тела, и вскоре пошли слухи, что он может быть врачом или мясником."
+    ]
+   ]
+  },
+  {
+   "en": "Then came the night that is remembered as the \"double event\". At about one o'clock in the morning on 30 September, the body of Elizabeth Stride, a 44-year-old woman who had been born in Sweden, was found in a yard off Berner Street. Her throat had been cut, but there were no other injuries, and some people think that the man who found her had disturbed the killer. Others doubt that she was a Ripper victim at all.",
+   "ru": "Затем наступила ночь, которую помнят как «двойное событие». Около часа ночи 30 сентября во дворе у Бернер-стрит нашли тело Элизабет Страйд, 44-летней женщины, родившейся в Швеции. Горло у неё было перерезано, но других ран не было, и некоторые считают, что человек, который её нашёл, спугнул убийцу. Другие вообще сомневаются, что она была жертвой Потрошителя.",
+   "s": [
+    [
+     "Then came the night that is remembered as the \"double event\".",
+     "Затем наступила ночь, которую помнят как «двойное событие»."
+    ],
+    [
+     "At about one o'clock in the morning on 30 September, the body of Elizabeth Stride, a 44-year-old woman who had been born in Sweden, was found in a yard off Berner Street.",
+     "Около часа ночи 30 сентября во дворе у Бернер-стрит нашли тело Элизабет Страйд, 44-летней женщины, родившейся в Швеции."
+    ],
+    [
+     "Her throat had been cut, but there were no other injuries, and some people think that the man who found her had disturbed the killer.",
+     "Горло у неё было перерезано, но других ран не было, и некоторые считают, что человек, который её нашёл, спугнул убийцу."
+    ],
+    [
+     "Others doubt that she was a Ripper victim at all.",
+     "Другие вообще сомневаются, что она была жертвой Потрошителя."
+    ]
+   ]
+  },
+  {
+   "en": "Less than an hour later, a police officer found Catherine Eddowes, aged 46, in Mitre Square, not far away. She had been terribly mutilated, and her left kidney had been taken. Later that night, a piece of her apron was discovered in a doorway in Goulston Street. On the wall above it someone had written a message in chalk that seemed to mention Jews. The head of the Metropolitan Police, Sir Charles Warren, was worried that it might cause attacks on Jewish people, so he ordered it to be washed off before it could be photographed. Its exact words are still disputed, and nobody knows whether the killer wrote it.",
+   "ru": "Меньше чем через час полицейский нашёл Кэтрин Эддоус, 46 лет, на Митр-сквер, неподалёку оттуда. Её страшно изуродовали, а левую почку забрали. Позже той же ночью кусок её фартука обнаружили в дверном проёме на Гоулстон-стрит. На стене над ним кто-то написал мелом послание, в котором, похоже, упоминались евреи. Глава столичной полиции сэр Чарльз Уоррен опасался, что оно может вызвать нападения на евреев, поэтому приказал смыть его, прежде чем его успели сфотографировать. Его точная формулировка до сих пор оспаривается, и никто не знает, написал ли его убийца.",
+   "s": [
+    [
+     "Less than an hour later, a police officer found Catherine Eddowes, aged 46, in Mitre Square, not far away.",
+     "Меньше чем через час полицейский нашёл Кэтрин Эддоус, 46 лет, на Митр-сквер, неподалёку оттуда."
+    ],
+    [
+     "She had been terribly mutilated, and her left kidney had been taken.",
+     "Её страшно изуродовали, а левую почку забрали."
+    ],
+    [
+     "Later that night, a piece of her apron was discovered in a doorway in Goulston Street.",
+     "Позже той же ночью кусок её фартука обнаружили в дверном проёме на Гоулстон-стрит."
+    ],
+    [
+     "On the wall above it someone had written a message in chalk that seemed to mention Jews.",
+     "На стене над ним кто-то написал мелом послание, в котором, похоже, упоминались евреи."
+    ],
+    [
+     "The head of the Metropolitan Police, Sir Charles Warren, was worried that it might cause attacks on Jewish people, so he ordered it to be washed off before it could be photographed.",
+     "Глава столичной полиции сэр Чарльз Уоррен опасался, что оно может вызвать нападения на евреев, поэтому приказал смыть его, прежде чем его успели сфотографировать."
+    ],
+    [
+     "Its exact words are still disputed, and nobody knows whether the killer wrote it.",
+     "Его точная формулировка до сих пор оспаривается, и никто не знает, написал ли его убийца."
+    ]
+   ]
+  },
+  {
+   "en": "The last and most terrible murder happened on 9 November. Mary Jane Kelly, who was about 25, was killed inside her small rented room at 13 Miller's Court, off Dorset Street. Because the murder took place indoors, the killer had had plenty of time, and what he did to her body shocked even experienced police officers. After this, the series of killings seems to have stopped as suddenly as it had begun.",
+   "ru": "Последнее и самое страшное убийство произошло 9 ноября. Мэри Джейн Келли, которой было около 25 лет, убили в её маленькой съёмной комнате в доме 13 на Миллерс-корт у Дорсет-стрит. Поскольку убийство произошло в помещении, у убийцы было много времени, и то, что он сделал с её телом, потрясло даже опытных полицейских. После этого серия убийств, по-видимому, прекратилась так же внезапно, как и началась.",
+   "s": [
+    [
+     "The last and most terrible murder happened on 9 November.",
+     "Последнее и самое страшное убийство произошло 9 ноября."
+    ],
+    [
+     "Mary Jane Kelly, who was about 25, was killed inside her small rented room at 13 Miller's Court, off Dorset Street.",
+     "Мэри Джейн Келли, которой было около 25 лет, убили в её маленькой съёмной комнате в доме 13 на Миллерс-корт у Дорсет-стрит."
+    ],
+    [
+     "Because the murder took place indoors, the killer had had plenty of time, and what he did to her body shocked even experienced police officers.",
+     "Поскольку убийство произошло в помещении, у убийцы было много времени, и то, что он сделал с её телом, потрясло даже опытных полицейских."
+    ],
+    [
+     "After this, the series of killings seems to have stopped as suddenly as it had begun.",
+     "После этого серия убийств, по-видимому, прекратилась так же внезапно, как и началась."
+    ]
+   ]
+  },
+  {
+   "en": "During the autumn, the police and the newspapers received hundreds of letters from people who claimed to be the murderer. The most important one, known as the \"Dear Boss\" letter, arrived at the Central News Agency on 27 September. It was written in red ink, it laughed at the police, and it was signed \"Jack the Ripper\". When the police made it public in early October, the name quickly spread around the world. Several senior police officers later said that they believed a journalist had written the famous letters in order to sell more newspapers.",
+   "ru": "Осенью полиция и газеты получили сотни писем от людей, утверждавших, что они и есть убийца. Самое важное из них, известное как письмо «Дорогой Босс», пришло в агентство «Сентрал Ньюс» 27 сентября. Оно было написано красными чернилами, насмехалось над полицией и было подписано «Джек-потрошитель». Когда в начале октября полиция обнародовала его, это имя быстро разлетелось по всему миру. Несколько высокопоставленных полицейских позже говорили, что, по их мнению, знаменитые письма написал журналист, чтобы продать больше газет.",
+   "s": [
+    [
+     "During the autumn, the police and the newspapers received hundreds of letters from people who claimed to be the murderer.",
+     "Осенью полиция и газеты получили сотни писем от людей, утверждавших, что они и есть убийца."
+    ],
+    [
+     "The most important one, known as the \"Dear Boss\" letter, arrived at the Central News Agency on 27 September.",
+     "Самое важное из них, известное как письмо «Дорогой Босс», пришло в агентство «Сентрал Ньюс» 27 сентября."
+    ],
+    [
+     "It was written in red ink, it laughed at the police, and it was signed \"Jack the Ripper\".",
+     "Оно было написано красными чернилами, насмехалось над полицией и было подписано «Джек-потрошитель»."
+    ],
+    [
+     "When the police made it public in early October, the name quickly spread around the world.",
+     "Когда в начале октября полиция обнародовала его, это имя быстро разлетелось по всему миру."
+    ],
+    [
+     "Several senior police officers later said that they believed a journalist had written the famous letters in order to sell more newspapers.",
+     "Несколько высокопоставленных полицейских позже говорили, что, по их мнению, знаменитые письма написал журналист, чтобы продать больше газет."
+    ]
+   ]
+  },
+  {
+   "en": "One letter is different. On 16 October, George Lusk, the head of a group of local businessmen who patrolled the streets at night, received a small box. Inside it was half of a human kidney, kept in alcohol, and a short letter full of spelling mistakes that began with the words \"From hell\". The writer claimed that he had fried and eaten the other half. Some researchers believe that this letter really came from the killer, but others point out that medical students could easily get a kidney as a rude joke, and doctors at the time could not prove that it belonged to Eddowes.",
+   "ru": "Одно письмо отличается от остальных. 16 октября Джордж Ласк, глава группы местных предпринимателей, которые по ночам патрулировали улицы, получил маленькую коробку. Внутри была половина человеческой почки, сохранённая в спирте, и короткое письмо, полное орфографических ошибок, которое начиналось словами «Из ада». Автор утверждал, что поджарил и съел другую половину. Некоторые исследователи считают, что это письмо действительно прислал убийца, но другие отмечают, что студенты-медики легко могли достать почку ради грубой шутки, а врачи того времени не смогли доказать, что она принадлежала Эддоус.",
+   "s": [
+    [
+     "One letter is different.",
+     "Одно письмо отличается от остальных."
+    ],
+    [
+     "On 16 October, George Lusk, the head of a group of local businessmen who patrolled the streets at night, received a small box.",
+     "16 октября Джордж Ласк, глава группы местных предпринимателей, которые по ночам патрулировали улицы, получил маленькую коробку."
+    ],
+    [
+     "Inside it was half of a human kidney, kept in alcohol, and a short letter full of spelling mistakes that began with the words \"From hell\".",
+     "Внутри была половина человеческой почки, сохранённая в спирте, и короткое письмо, полное орфографических ошибок, которое начиналось словами «Из ада»."
+    ],
+    [
+     "The writer claimed that he had fried and eaten the other half.",
+     "Автор утверждал, что поджарил и съел другую половину."
+    ],
+    [
+     "Some researchers believe that this letter really came from the killer, but others point out that medical students could easily get a kidney as a rude joke, and doctors at the time could not prove that it belonged to Eddowes.",
+     "Некоторые исследователи считают, что это письмо действительно прислал убийца, но другие отмечают, что студенты-медики легко могли достать почку ради грубой шутки, а врачи того времени не смогли доказать, что она принадлежала Эддоус."
+    ]
+   ]
+  },
+  {
+   "en": "The police worked hard, but they had very few tools. Scotland Yard did not begin to use fingerprints until 1901, and the development of DNA testing was almost a hundred years in the future. Detectives such as Inspector Frederick Abberline had to rely on witnesses, who usually saw a man only for a moment, in the dark. Hundreds of men were questioned, but nobody was ever charged.",
+   "ru": "Полиция работала усердно, но инструментов у неё было очень мало. Скотланд-Ярд начал использовать отпечатки пальцев только в 1901 году, а до появления анализа ДНК оставалось почти сто лет. Детективам, таким как инспектор Фредерик Эбберлайн, приходилось полагаться на свидетелей, которые обычно видели мужчину лишь мгновение, в темноте. Сотни мужчин допросили, но никому так и не предъявили обвинения.",
+   "s": [
+    [
+     "The police worked hard, but they had very few tools.",
+     "Полиция работала усердно, но инструментов у неё было очень мало."
+    ],
+    [
+     "Scotland Yard did not begin to use fingerprints until 1901, and the development of DNA testing was almost a hundred years in the future.",
+     "Скотланд-Ярд начал использовать отпечатки пальцев только в 1901 году, а до появления анализа ДНК оставалось почти сто лет."
+    ],
+    [
+     "Detectives such as Inspector Frederick Abberline had to rely on witnesses, who usually saw a man only for a moment, in the dark.",
+     "Детективам, таким как инспектор Фредерик Эбберлайн, приходилось полагаться на свидетелей, которые обычно видели мужчину лишь мгновение, в темноте."
+    ],
+    [
+     "Hundreds of men were questioned, but nobody was ever charged.",
+     "Сотни мужчин допросили, но никому так и не предъявили обвинения."
+    ]
+   ]
+  },
+  {
+   "en": "Since then, more than a hundred people have been named as possible suspects. The most important early document is a private report written in 1894 by Sir Melville Macnaghten, a senior officer at Scotland Yard. It was Macnaghten who wrote that the killer had five victims and only five. He named three men who had been suspected: Montague John Druitt, a lawyer and teacher whose body was found in the River Thames at the end of December 1888; Aaron Kosminski, a Polish Jew from Whitechapel; and Michael Ostrog, a Russian-born thief and con man. However, Macnaghten joined the police only in 1889, after the murders, and his report contains several mistakes. Later research suggests that Ostrog was in prison in France in 1888.",
+   "ru": "С тех пор возможными подозреваемыми называли более ста человек. Самый важный ранний документ — служебная записка, написанная в 1894 году сэром Мелвиллом Макнотеном, высокопоставленным сотрудником Скотланд-Ярда. Именно Макнотен написал, что у убийцы было пять жертв, и только пять. Он назвал трёх мужчин, которых подозревали: Монтегю Джона Друитта, юриста и учителя, чьё тело нашли в Темзе в конце декабря 1888 года; Аарона Косминского, польского еврея из Уайтчепела; и Михаила Острога, вора и мошенника, родившегося в России. Однако Макнотен поступил на службу в полицию только в 1889 году, уже после убийств, и в его записке есть несколько ошибок. Более поздние исследования указывают на то, что в 1888 году Острог сидел в тюрьме во Франции.",
+   "s": [
+    [
+     "Since then, more than a hundred people have been named as possible suspects.",
+     "С тех пор возможными подозреваемыми называли более ста человек."
+    ],
+    [
+     "The most important early document is a private report written in 1894 by Sir Melville Macnaghten, a senior officer at Scotland Yard.",
+     "Самый важный ранний документ — служебная записка, написанная в 1894 году сэром Мелвиллом Макнотеном, высокопоставленным сотрудником Скотланд-Ярда."
+    ],
+    [
+     "It was Macnaghten who wrote that the killer had five victims and only five.",
+     "Именно Макнотен написал, что у убийцы было пять жертв, и только пять."
+    ],
+    [
+     "He named three men who had been suspected: Montague John Druitt, a lawyer and teacher whose body was found in the River Thames at the end of December 1888; Aaron Kosminski, a Polish Jew from Whitechapel; and Michael Ostrog, a Russian-born thief and con man.",
+     "Он назвал трёх мужчин, которых подозревали: Монтегю Джона Друитта, юриста и учителя, чьё тело нашли в Темзе в конце декабря 1888 года; Аарона Косминского, польского еврея из Уайтчепела; и Михаила Острога, вора и мошенника, родившегося в России."
+    ],
+    [
+     "However, Macnaghten joined the police only in 1889, after the murders, and his report contains several mistakes.",
+     "Однако Макнотен поступил на службу в полицию только в 1889 году, уже после убийств, и в его записке есть несколько ошибок."
+    ],
+    [
+     "Later research suggests that Ostrog was in prison in France in 1888.",
+     "Более поздние исследования указывают на то, что в 1888 году Острог сидел в тюрьме во Франции."
+    ]
+   ]
+  },
+  {
+   "en": "Kosminski is the suspect who seems to have been taken most seriously by the police themselves. In his memoirs, published in 1910, Sir Robert Anderson, a senior police chief, wrote that the killer was a poor Polish Jew who had been identified by a witness, but that the witness had refused to give evidence against him. Another senior detective, Donald Swanson, wrote notes in pencil in his own copy of the book, and in them he named \"Kosminski\" as the suspect. Nobody knows exactly when or how this identification happened.",
+   "ru": "Косминский — тот подозреваемый, к которому, по-видимому, серьёзнее всего относилась сама полиция. В своих мемуарах, опубликованных в 1910 году, сэр Роберт Андерсон, один из руководителей полиции, написал, что убийцей был бедный польский еврей, которого опознал свидетель, но этот свидетель отказался давать против него показания. Другой высокопоставленный детектив, Дональд Суонсон, сделал карандашом пометки в своём экземпляре книги и в них назвал подозреваемым «Косминского». Никто точно не знает, когда и как произошло это опознание.",
+   "s": [
+    [
+     "Kosminski is the suspect who seems to have been taken most seriously by the police themselves.",
+     "Косминский — тот подозреваемый, к которому, по-видимому, серьёзнее всего относилась сама полиция."
+    ],
+    [
+     "In his memoirs, published in 1910, Sir Robert Anderson, a senior police chief, wrote that the killer was a poor Polish Jew who had been identified by a witness, but that the witness had refused to give evidence against him.",
+     "В своих мемуарах, опубликованных в 1910 году, сэр Роберт Андерсон, один из руководителей полиции, написал, что убийцей был бедный польский еврей, которого опознал свидетель, но этот свидетель отказался давать против него показания."
+    ],
+    [
+     "Another senior detective, Donald Swanson, wrote notes in pencil in his own copy of the book, and in them he named \"Kosminski\" as the suspect.",
+     "Другой высокопоставленный детектив, Дональд Суонсон, сделал карандашом пометки в своём экземпляре книги и в них назвал подозреваемым «Косминского»."
+    ],
+    [
+     "Nobody knows exactly when or how this identification happened.",
+     "Никто точно не знает, когда и как произошло это опознание."
+    ]
+   ]
+  },
+  {
+   "en": "Aaron Kosminski was born in Poland, then part of the Russian Empire, in 1865, and he worked as a hairdresser in Whitechapel. In 1891 he was sent to an asylum, a hospital for people with mental illness, and he stayed in such hospitals until his death in 1919. Hospital records say that he heard voices and that he had once threatened his sister with a knife, but they also describe him as mostly harmless. Swanson's notes say that the suspect died soon after he was sent to the asylum, which is not true, and this makes some historians wonder how reliable the police memories were.",
+   "ru": "Аарон Косминский родился в 1865 году в Польше, тогда входившей в состав Российской империи, и работал парикмахером в Уайтчепеле. В 1891 году его поместили в лечебницу для душевнобольных и он оставался в таких больницах до своей смерти в 1919 году. В больничных записях говорится, что он слышал голоса и однажды угрожал сестре ножом, но также описывается, что он был в основном безобиден. В пометках Суонсона сказано, что подозреваемый умер вскоре после того, как его поместили в лечебницу, что неправда, и это заставляет некоторых историков сомневаться, насколько надёжными были воспоминания полицейских.",
+   "s": [
+    [
+     "Aaron Kosminski was born in Poland, then part of the Russian Empire, in 1865, and he worked as a hairdresser in Whitechapel.",
+     "Аарон Косминский родился в 1865 году в Польше, тогда входившей в состав Российской империи, и работал парикмахером в Уайтчепеле."
+    ],
+    [
+     "In 1891 he was sent to an asylum, a hospital for people with mental illness, and he stayed in such hospitals until his death in 1919.",
+     "В 1891 году его поместили в лечебницу для душевнобольных и он оставался в таких больницах до своей смерти в 1919 году."
+    ],
+    [
+     "Hospital records say that he heard voices and that he had once threatened his sister with a knife, but they also describe him as mostly harmless.",
+     "В больничных записях говорится, что он слышал голоса и однажды угрожал сестре ножом, но также описывается, что он был в основном безобиден."
+    ],
+    [
+     "Swanson's notes say that the suspect died soon after he was sent to the asylum, which is not true, and this makes some historians wonder how reliable the police memories were.",
+     "В пометках Суонсона сказано, что подозреваемый умер вскоре после того, как его поместили в лечебницу, что неправда, и это заставляет некоторых историков сомневаться, насколько надёжными были воспоминания полицейских."
+    ]
+   ]
+  },
+  {
+   "en": "Other theories are even more colourful. Some writers have accused Francis Tumblety, an American who sold fake medicines and who was arrested in London in November 1888 for a different crime, before he escaped to the United States. In 2002, the crime writer Patricia Cornwell published a book claiming that the painter Walter Sickert was the Ripper, but most experts were not convinced. A diary that appeared in 1992 and was said to belong to a Liverpool businessman, James Maybrick, is considered a fake by most historians.",
+   "ru": "Другие теории ещё более красочны. Некоторые авторы обвиняли Фрэнсиса Тамблти, американца, продававшего поддельные лекарства, которого арестовали в Лондоне в ноябре 1888 года за другое преступление, после чего он сбежал в США. В 2002 году автор детективов Патрисия Корнуэлл опубликовала книгу, в которой утверждала, что Потрошителем был художник Уолтер Сикерт, но большинство специалистов это не убедило. Дневник, который появился в 1992 году и якобы принадлежал ливерпульскому предпринимателю Джеймсу Мейбрику, большинство историков считают подделкой.",
+   "s": [
+    [
+     "Other theories are even more colourful.",
+     "Другие теории ещё более красочны."
+    ],
+    [
+     "Some writers have accused Francis Tumblety, an American who sold fake medicines and who was arrested in London in November 1888 for a different crime, before he escaped to the United States.",
+     "Некоторые авторы обвиняли Фрэнсиса Тамблти, американца, продававшего поддельные лекарства, которого арестовали в Лондоне в ноябре 1888 года за другое преступление, после чего он сбежал в США."
+    ],
+    [
+     "In 2002, the crime writer Patricia Cornwell published a book claiming that the painter Walter Sickert was the Ripper, but most experts were not convinced.",
+     "В 2002 году автор детективов Патрисия Корнуэлл опубликовала книгу, в которой утверждала, что Потрошителем был художник Уолтер Сикерт, но большинство специалистов это не убедило."
+    ],
+    [
+     "A diary that appeared in 1992 and was said to belong to a Liverpool businessman, James Maybrick, is considered a fake by most historians.",
+     "Дневник, который появился в 1992 году и якобы принадлежал ливерпульскому предпринимателю Джеймсу Мейбрику, большинство историков считают подделкой."
+    ]
+   ]
+  },
+  {
+   "en": "The most famous conspiracy theory became popular in the 1970s. According to this story, the murders were organised to hide a secret about Prince Albert Victor, Queen Victoria's grandson, and they were carried out by the royal doctor, Sir William Gull. The story inspired novels and the film \"From Hell\" (2001), but historians reject it. There is no evidence for it, records show that the prince was away from London on some of the key dates, and Gull was over seventy and had suffered a stroke the year before.",
+   "ru": "Самая известная конспирологическая теория стала популярной в 1970-х годах. Согласно этой версии, убийства были организованы, чтобы скрыть тайну, связанную с принцем Альбертом Виктором, внуком королевы Виктории, а совершил их королевский врач сэр Уильям Галл. Эта история вдохновила романы и фильм «Из ада» (2001), но историки её отвергают. Доказательств этому нет, документы показывают, что принц в некоторые из ключевых дат находился далеко от Лондона, а Галлу было за семьдесят, и за год до этого он перенёс инсульт.",
+   "s": [
+    [
+     "The most famous conspiracy theory became popular in the 1970s.",
+     "Самая известная конспирологическая теория стала популярной в 1970-х годах."
+    ],
+    [
+     "According to this story, the murders were organised to hide a secret about Prince Albert Victor, Queen Victoria's grandson, and they were carried out by the royal doctor, Sir William Gull.",
+     "Согласно этой версии, убийства были организованы, чтобы скрыть тайну, связанную с принцем Альбертом Виктором, внуком королевы Виктории, а совершил их королевский врач сэр Уильям Галл."
+    ],
+    [
+     "The story inspired novels and the film \"From Hell\" (2001), but historians reject it.",
+     "Эта история вдохновила романы и фильм «Из ада» (2001), но историки её отвергают."
+    ],
+    [
+     "There is no evidence for it, records show that the prince was away from London on some of the key dates, and Gull was over seventy and had suffered a stroke the year before.",
+     "Доказательств этому нет, документы показывают, что принц в некоторые из ключевых дат находился далеко от Лондона, а Галлу было за семьдесят, и за год до этого он перенёс инсульт."
+    ]
+   ]
+  },
+  {
+   "en": "In 2007, a British businessman named Russell Edwards bought an old silk shawl at an auction. According to a family story, a police officer called Amos Simpson had taken it from the scene of Catherine Eddowes's murder in 1888. Edwards asked Jari Louhelainen, a scientist at Liverpool John Moores University, to test the stains on the shawl for DNA.",
+   "ru": "В 2007 году британский предприниматель Рассел Эдвардс купил на аукционе старую шёлковую шаль. Согласно семейному преданию, полицейский Эймос Симпсон забрал её с места убийства Кэтрин Эддоус в 1888 году. Эдвардс попросил Яри Лухелайнена, учёного из Ливерпульского университета имени Джона Мурса, исследовать пятна на шали на ДНК.",
+   "s": [
+    [
+     "In 2007, a British businessman named Russell Edwards bought an old silk shawl at an auction.",
+     "В 2007 году британский предприниматель Рассел Эдвардс купил на аукционе старую шёлковую шаль."
+    ],
+    [
+     "According to a family story, a police officer called Amos Simpson had taken it from the scene of Catherine Eddowes's murder in 1888.",
+     "Согласно семейному преданию, полицейский Эймос Симпсон забрал её с места убийства Кэтрин Эддоус в 1888 году."
+    ],
+    [
+     "Edwards asked Jari Louhelainen, a scientist at Liverpool John Moores University, to test the stains on the shawl for DNA.",
+     "Эдвардс попросил Яри Лухелайнена, учёного из Ливерпульского университета имени Джона Мурса, исследовать пятна на шали на ДНК."
+    ]
+   ]
+  },
+  {
+   "en": "In September 2014, Edwards made a dramatic announcement in a British newspaper and in his book \"Naming Jack the Ripper\". He said that the case had finally been solved. According to the tests, DNA from some stains matched a living descendant of Eddowes, and DNA from other stains matched a living descendant of Kosminski's sister. In 2019, Louhelainen and a colleague, David Miller, published their results in a scientific journal, the Journal of Forensic Sciences.",
+   "ru": "В сентябре 2014 года Эдвардс сделал громкое заявление в британской газете и в своей книге «Назвать Джека-потрошителя». Он сказал, что дело наконец раскрыто. Согласно анализам, ДНК из одних пятен совпала с ДНК живущего ныне потомка Эддоус, а ДНК из других пятен — с ДНК живущего ныне потомка сестры Косминского. В 2019 году Лухелайнен и его коллега Дэвид Миллер опубликовали свои результаты в научном журнале Journal of Forensic Sciences.",
+   "s": [
+    [
+     "In September 2014, Edwards made a dramatic announcement in a British newspaper and in his book \"Naming Jack the Ripper\".",
+     "В сентябре 2014 года Эдвардс сделал громкое заявление в британской газете и в своей книге «Назвать Джека-потрошителя»."
+    ],
+    [
+     "He said that the case had finally been solved.",
+     "Он сказал, что дело наконец раскрыто."
+    ],
+    [
+     "According to the tests, DNA from some stains matched a living descendant of Eddowes, and DNA from other stains matched a living descendant of Kosminski's sister.",
+     "Согласно анализам, ДНК из одних пятен совпала с ДНК живущего ныне потомка Эддоус, а ДНК из других пятен — с ДНК живущего ныне потомка сестры Косминского."
+    ],
+    [
+     "In 2019, Louhelainen and a colleague, David Miller, published their results in a scientific journal, the Journal of Forensic Sciences.",
+     "В 2019 году Лухелайнен и его коллега Дэвид Миллер опубликовали свои результаты в научном журнале Journal of Forensic Sciences."
+    ]
+   ]
+  },
+  {
+   "en": "Many scientists, however, were not convinced. The tests used mitochondrial DNA, a kind of DNA that a mother passes on to all of her children. Because it is passed down unchanged through many generations, the same type can be shared by thousands of unrelated people. This means that it can show that a person was not the source of a stain, but it cannot prove that a particular person was. Critics also complained that the 2019 article did not publish the full DNA results, so other scientists could not check them properly. Already in 2014, experts had pointed out an error: a genetic variation that had been described as rare is in fact very common among Europeans.",
+   "ru": "Однако многих учёных это не убедило. В анализах использовалась митохондриальная ДНК — тип ДНК, который мать передаёт всем своим детям. Поскольку она передаётся без изменений через многие поколения, один и тот же тип может быть общим у тысяч людей, не являющихся родственниками. Это означает, что с её помощью можно показать, что человек не был источником пятна, но нельзя доказать, что им был конкретный человек. Критики также жаловались, что в статье 2019 года не были опубликованы полные результаты анализа ДНК, поэтому другие учёные не могли их как следует проверить. Ещё в 2014 году специалисты указали на ошибку: генетический вариант, описанный как редкий, на самом деле очень распространён среди европейцев.",
+   "s": [
+    [
+     "Many scientists, however, were not convinced.",
+     "Однако многих учёных это не убедило."
+    ],
+    [
+     "The tests used mitochondrial DNA, a kind of DNA that a mother passes on to all of her children.",
+     "В анализах использовалась митохондриальная ДНК — тип ДНК, который мать передаёт всем своим детям."
+    ],
+    [
+     "Because it is passed down unchanged through many generations, the same type can be shared by thousands of unrelated people.",
+     "Поскольку она передаётся без изменений через многие поколения, один и тот же тип может быть общим у тысяч людей, не являющихся родственниками."
+    ],
+    [
+     "This means that it can show that a person was not the source of a stain, but it cannot prove that a particular person was.",
+     "Это означает, что с её помощью можно показать, что человек не был источником пятна, но нельзя доказать, что им был конкретный человек."
+    ],
+    [
+     "Critics also complained that the 2019 article did not publish the full DNA results, so other scientists could not check them properly.",
+     "Критики также жаловались, что в статье 2019 года не были опубликованы полные результаты анализа ДНК, поэтому другие учёные не могли их как следует проверить."
+    ],
+    [
+     "Already in 2014, experts had pointed out an error: a genetic variation that had been described as rare is in fact very common among Europeans.",
+     "Ещё в 2014 году специалисты указали на ошибку: генетический вариант, описанный как редкий, на самом деле очень распространён среди европейцев."
+    ]
+   ]
+  },
+  {
+   "en": "The history of the shawl itself is another problem. There is no official record that a shawl was ever found at the crime scene, and the detailed list of Eddowes's clothes and belongings that the police made in 1888 does not mention one. Experts disagree about how old the shawl is and where it was made. Over more than a hundred years it had been handled by many people, so its DNA could easily have come from someone who touched it long after 1888. For these reasons, most historians and DNA specialists do not accept the shawl as proof that Kosminski was the killer.",
+   "ru": "Ещё одна проблема — история самой шали. Нет никаких официальных документов о том, что на месте преступления когда-либо нашли шаль, и в подробной описи одежды и вещей Эддоус, которую полиция составила в 1888 году, она не упоминается. Специалисты расходятся во мнениях о том, сколько лет шали и где её изготовили. За более чем сто лет её брали в руки многие люди, так что ДНК на ней легко могла оказаться от кого-то, кто прикасался к ней спустя долгое время после 1888 года. По этим причинам большинство историков и специалистов по ДНК не признают шаль доказательством того, что убийцей был Косминский.",
+   "s": [
+    [
+     "The history of the shawl itself is another problem.",
+     "Ещё одна проблема — история самой шали."
+    ],
+    [
+     "There is no official record that a shawl was ever found at the crime scene, and the detailed list of Eddowes's clothes and belongings that the police made in 1888 does not mention one.",
+     "Нет никаких официальных документов о том, что на месте преступления когда-либо нашли шаль, и в подробной описи одежды и вещей Эддоус, которую полиция составила в 1888 году, она не упоминается."
+    ],
+    [
+     "Experts disagree about how old the shawl is and where it was made.",
+     "Специалисты расходятся во мнениях о том, сколько лет шали и где её изготовили."
+    ],
+    [
+     "Over more than a hundred years it had been handled by many people, so its DNA could easily have come from someone who touched it long after 1888.",
+     "За более чем сто лет её брали в руки многие люди, так что ДНК на ней легко могла оказаться от кого-то, кто прикасался к ней спустя долгое время после 1888 года."
+    ],
+    [
+     "For these reasons, most historians and DNA specialists do not accept the shawl as proof that Kosminski was the killer.",
+     "По этим причинам большинство историков и специалистов по ДНК не признают шаль доказательством того, что убийцей был Косминский."
+    ]
+   ]
+  },
+  {
+   "en": "So where does this leave the mystery? Aaron Kosminski remains one of the strongest suspects, mainly because senior police officers named him, but nobody has shown what evidence they had, and the shawl does not settle the question. It is also possible that the Ripper was a local man whose name never appeared in any police file, someone who simply disappeared into the crowds of the East End.",
+   "ru": "Так что же в итоге с этой загадкой? Аарон Косминский остаётся одним из главных подозреваемых, в основном потому, что его назвали высокопоставленные полицейские, но никто не показал, какие у них были доказательства, а шаль не решает этот вопрос. Возможно также, что Потрошителем был местный житель, чьё имя никогда не появлялось ни в одном полицейском деле, — человек, который просто растворился в толпах Ист-Энда.",
+   "s": [
+    [
+     "So where does this leave the mystery?",
+     "Так что же в итоге с этой загадкой?"
+    ],
+    [
+     "Aaron Kosminski remains one of the strongest suspects, mainly because senior police officers named him, but nobody has shown what evidence they had, and the shawl does not settle the question.",
+     "Аарон Косминский остаётся одним из главных подозреваемых, в основном потому, что его назвали высокопоставленные полицейские, но никто не показал, какие у них были доказательства, а шаль не решает этот вопрос."
+    ],
+    [
+     "It is also possible that the Ripper was a local man whose name never appeared in any police file, someone who simply disappeared into the crowds of the East End.",
+     "Возможно также, что Потрошителем был местный житель, чьё имя никогда не появлялось ни в одном полицейском деле, — человек, который просто растворился в толпах Ист-Энда."
+    ]
+   ]
+  },
+  {
+   "en": "In recent years, some writers have tried to turn attention away from the killer and towards the women he killed. In her 2019 book \"The Five\", the historian Hallie Rubenhold described their lives in detail and argued that there is little evidence that some of them worked as prostitutes at all. Other historians disagree with some of her conclusions, but many readers welcomed her book. Mary Ann Nichols, Annie Chapman, Elizabeth Stride, Catherine Eddowes and Mary Jane Kelly were poor women who had been thrown out to the edges of society. More than 130 years later, we know their names, while the name of the man who killed them is still a mystery.",
+   "ru": "В последние годы некоторые авторы пытаются переключить внимание с убийцы на женщин, которых он убил. В своей книге 2019 года «Пятеро» историк Хэлли Рубенхолд подробно описала их жизни и утверждала, что почти нет доказательств того, что некоторые из них вообще занимались проституцией. Другие историки не согласны с некоторыми её выводами, но многие читатели тепло встретили её книгу. Мэри Энн Николс, Энни Чэпмен, Элизабет Страйд, Кэтрин Эддоус и Мэри Джейн Келли были бедными женщинами, выброшенными на обочину общества. Более 130 лет спустя мы знаем их имена, а имя человека, который их убил, по-прежнему остаётся загадкой.",
+   "s": [
+    [
+     "In recent years, some writers have tried to turn attention away from the killer and towards the women he killed.",
+     "В последние годы некоторые авторы пытаются переключить внимание с убийцы на женщин, которых он убил."
+    ],
+    [
+     "In her 2019 book \"The Five\", the historian Hallie Rubenhold described their lives in detail and argued that there is little evidence that some of them worked as prostitutes at all.",
+     "В своей книге 2019 года «Пятеро» историк Хэлли Рубенхолд подробно описала их жизни и утверждала, что почти нет доказательств того, что некоторые из них вообще занимались проституцией."
+    ],
+    [
+     "Other historians disagree with some of her conclusions, but many readers welcomed her book.",
+     "Другие историки не согласны с некоторыми её выводами, но многие читатели тепло встретили её книгу."
+    ],
+    [
+     "Mary Ann Nichols, Annie Chapman, Elizabeth Stride, Catherine Eddowes and Mary Jane Kelly were poor women who had been thrown out to the edges of society.",
+     "Мэри Энн Николс, Энни Чэпмен, Элизабет Страйд, Кэтрин Эддоус и Мэри Джейн Келли были бедными женщинами, выброшенными на обочину общества."
+    ],
+    [
+     "More than 130 years later, we know their names, while the name of the man who killed them is still a mystery.",
+     "Более 130 лет спустя мы знаем их имена, а имя человека, который их убил, по-прежнему остаётся загадкой."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "aaron": "Аарон (имя)",
+  "abberline": "Эбберлайн (фамилия)",
+  "about": "около, о",
+  "above": "над",
+  "accept": "признавать, принимать",
+  "accepted": "принятый",
+  "according": "(according to) согласно",
+  "accused": "обвиняли",
+  "after": "после",
+  "against": "против",
+  "aged": "в возрасте",
+  "agency": "агентство",
+  "agree": "соглашаться; совпадать",
+  "albert": "Альберт (имя)",
+  "alcohol": "спирт",
+  "all": "все, весь; (at all) вообще",
+  "almost": "почти",
+  "along": "по, вдоль",
+  "already": "уже",
+  "also": "также",
+  "american": "американец",
+  "among": "среди",
+  "amos": "Эймос (имя)",
+  "an": "(неопр. артикль)",
+  "anatomy": "анатомия",
+  "and": "и",
+  "anderson": "Андерсон (фамилия)",
+  "ann": "Энн (имя)",
+  "annie": "Энни (имя)",
+  "announcement": "заявление, объявление",
+  "another": "другой, ещё один",
+  "any": "какой-либо, любой",
+  "anyone": "кто-либо",
+  "appeared": "появился",
+  "april": "апрель",
+  "apron": "фартук",
+  "are": "являются",
+  "argued": "утверждала",
+  "around": "по всему; около",
+  "arrested": "арестован",
+  "arrived": "пришло, прибыло",
+  "article": "статья",
+  "as": "как, в качестве; (as ... as) так же ... как",
+  "asked": "попросил",
+  "asylum": "психиатрическая лечебница",
+  "at": "в, на, у",
+  "attacks": "нападения",
+  "attention": "внимание",
+  "auction": "аукцион",
+  "august": "август",
+  "autumn": "осень",
+  "away": "далеко, прочь",
+  "backyard": "задний двор",
+  "be": "быть",
+  "became": "стала",
+  "because": "потому что",
+  "bed": "кровать, койка",
+  "been": "был(о)",
+  "before": "до, перед; раньше",
+  "began": "начала, началась",
+  "begin": "начинать",
+  "begun": "началась",
+  "believe": "верить, считать",
+  "believed": "считали",
+  "belong": "принадлежать",
+  "belonged": "принадлежала",
+  "belongings": "вещи, имущество",
+  "berner": "Бернер (название улицы)",
+  "between": "между",
+  "body": "тело",
+  "book": "книга",
+  "born": "родился",
+  "boss": "босс, начальник",
+  "bought": "купил",
+  "box": "коробка",
+  "british": "британский",
+  "buck's": "Бакс (Бакс-Роу, улица)",
+  "businessman": "предприниматель",
+  "businessmen": "предприниматели",
+  "but": "но",
+  "butcher": "мясник",
+  "by": "(кем-то), к",
+  "called": "называли; по имени",
+  "came": "пришёл, произошло",
+  "can": "может",
+  "cannot": "не может",
+  "canonical": "канонический",
+  "canvas": "брезент, холст",
+  "carried": "(carried out) совершили",
+  "cart": "повозка",
+  "case": "дело; доводы",
+  "catherine": "Кэтрин (имя)",
+  "caught": "пойман",
+  "cause": "вызвать",
+  "central": "центральный (Central News — название агентства)",
+  "certain": "(for certain) наверняка",
+  "chalk": "мел",
+  "chapman": "Чэпмен (фамилия)",
+  "charged": "обвинён",
+  "charles": "Чарльз (имя)",
+  "cheap": "дешёвый",
+  "check": "проверить",
+  "chief": "руководитель, начальник",
+  "children": "дети",
+  "claimed": "утверждал(и)",
+  "claiming": "утверждая",
+  "clothes": "одежда",
+  "colleague": "коллега",
+  "collected": "собрала",
+  "colourful": "красочный, яркий",
+  "come": "прийти, взяться",
+  "committed": "совершены",
+  "common": "распространённый, обычный",
+  "complained": "жаловались",
+  "con": "(con man) мошенник",
+  "conclusions": "выводы",
+  "considered": "считается",
+  "conspiracy": "заговор; (conspiracy theory) теория заговора",
+  "contains": "содержит",
+  "convinced": "убеждены",
+  "copy": "экземпляр",
+  "cornwell": "Корнуэлл (фамилия)",
+  "could": "мог(ли)",
+  "court": "двор (Miller's Court — название двора)",
+  "crime": "преступление; (crime writer) автор детективов",
+  "critics": "критики",
+  "cross": "Кросс (фамилия)",
+  "crowded": "(crowded together) в тесноте",
+  "crowds": "толпы",
+  "cut": "перерезан, вспорот",
+  "dark": "темнота; тёмный",
+  "dates": "даты",
+  "david": "Дэвид (имя)",
+  "dead": "мёртвый",
+  "dear": "дорогой",
+  "death": "смерть",
+  "december": "декабрь",
+  "deeply": "глубоко",
+  "descendant": "потомок",
+  "describe": "описывают",
+  "described": "описан(а)",
+  "detail": "(in detail) подробно",
+  "detailed": "подробный",
+  "detective": "детектив",
+  "detectives": "детективы",
+  "development": "развитие, появление",
+  "diary": "дневник",
+  "did": "(вспом. глагол); сделал",
+  "died": "умер(ла)",
+  "different": "другой",
+  "dirty": "грязный",
+  "disagree": "не соглашаться",
+  "disappeared": "исчез, растворился",
+  "discovered": "обнаружен",
+  "disputed": "оспаривается",
+  "district": "район",
+  "disturbed": "спугнул",
+  "dna": "ДНК",
+  "do": "(вспом. глагол)",
+  "doctor": "врач",
+  "doctors": "врачи",
+  "document": "документ",
+  "does": "(вспом. глагол)",
+  "donald": "Дональд (имя)",
+  "doorway": "дверной проём",
+  "dorset": "Дорсет (название улицы)",
+  "double": "двойной",
+  "doubt": "сомневаться",
+  "down": "(passed down) передаётся (из поколения в поколение)",
+  "dramatic": "громкий, драматичный",
+  "driver": "возчик, водитель",
+  "druitt": "Друитт (фамилия)",
+  "during": "в течение",
+  "early": "рано; ранний; в начале",
+  "easily": "легко",
+  "east": "восточный (East End — Ист-Энд)",
+  "eastern": "восточный",
+  "eaten": "съел",
+  "eddowes": "Эддоус (фамилия)",
+  "eddowes's": "Эддоус (чей)",
+  "edges": "края, обочина",
+  "edwards": "Эдвардс (фамилия)",
+  "eleven": "одиннадцать",
+  "elizabeth": "Элизабет (имя)",
+  "empire": "империя",
+  "end": "конец; (East End) Ист-Энд",
+  "error": "ошибка",
+  "escaped": "сбежал(и)",
+  "estimated": "подсчитала, оценила",
+  "europe": "Европа",
+  "europeans": "европейцы",
+  "even": "даже; ещё (более)",
+  "event": "событие",
+  "ever": "когда-либо; (ever since) с тех пор",
+  "evidence": "доказательства, улики; (give evidence) давать показания",
+  "exact": "точный",
+  "exactly": "точно",
+  "examined": "осматривал",
+  "experienced": "опытный",
+  "experts": "специалисты",
+  "fact": "(in fact) на самом деле",
+  "fake": "поддельный; подделка",
+  "families": "семьи",
+  "family": "семья; семейный",
+  "famous": "знаменитый",
+  "far": "далеко",
+  "february": "февраль",
+  "few": "несколько",
+  "file": "дело, папка",
+  "film": "фильм",
+  "finally": "наконец",
+  "find": "найти",
+  "fingerprints": "отпечатки пальцев",
+  "first": "первый; (at first) сначала",
+  "five": "пять",
+  "food": "еда",
+  "for": "для, за; (for certain) наверняка",
+  "forensic": "судебный (Forensic Sciences — судебные науки)",
+  "found": "нашёл; найден",
+  "four": "четыре",
+  "france": "Франция",
+  "francis": "Фрэнсис (имя)",
+  "frederick": "Фредерик (имя)",
+  "fried": "поджарил",
+  "friends": "друзья",
+  "from": "из, от",
+  "front": "(in front of) перед",
+  "full": "полный",
+  "future": "будущее",
+  "gate": "ворота",
+  "generally": "(generally accepted) общепринятый",
+  "generations": "поколения",
+  "genetic": "генетический",
+  "george": "Джордж (имя)",
+  "get": "достать",
+  "give": "давать",
+  "goulston": "Гоулстон (название улицы)",
+  "grandson": "внук",
+  "ground": "земля",
+  "group": "группа",
+  "gull": "Галл (фамилия)",
+  "had": "имел; (вспом. глагол)",
+  "hairdresser": "парикмахер",
+  "half": "половина",
+  "hallie": "Хэлли (имя)",
+  "hanbury": "Ханбери (название улицы)",
+  "handled": "брали в руки",
+  "happened": "произошло",
+  "hard": "усердно",
+  "harmless": "безобидный",
+  "has": "(вспом. глагол)",
+  "have": "(вспом. глагол); иметь",
+  "he": "он",
+  "head": "глава, руководитель",
+  "heard": "слышал",
+  "hell": "ад",
+  "her": "её, ей",
+  "hide": "скрыть",
+  "him": "его, ему",
+  "his": "его",
+  "historian": "историк",
+  "historians": "историки",
+  "history": "история",
+  "home": "дом, жильё",
+  "horrible": "ужасный",
+  "hospital": "больница; больничный",
+  "hospitals": "больницы",
+  "hour": "час",
+  "hours": "часы",
+  "house": "дом; (lodging house) ночлежка",
+  "how": "как, насколько",
+  "however": "однако",
+  "human": "человеческий",
+  "hundred": "сто",
+  "hundreds": "сотни",
+  "hurried": "поспешили",
+  "identification": "опознание",
+  "identified": "опознан",
+  "illness": "болезнь",
+  "immigrants": "иммигранты",
+  "important": "важный",
+  "in": "в",
+  "including": "включая, в том числе",
+  "indoors": "в помещении",
+  "injuries": "раны",
+  "ink": "чернила",
+  "inside": "внутри",
+  "inspector": "инспектор",
+  "inspired": "вдохновила",
+  "internal": "внутренний",
+  "into": "в",
+  "is": "является, есть",
+  "it": "это, он, она",
+  "its": "его, её",
+  "itself": "сама",
+  "jack": "Джек (имя)",
+  "james": "Джеймс (имя)",
+  "jane": "Джейн (имя)",
+  "jari": "Яри (имя)",
+  "jew": "еврей",
+  "jewish": "еврейский",
+  "jews": "евреи",
+  "john": "Джон (имя)",
+  "joined": "поступил (на службу)",
+  "joke": "шутка",
+  "journal": "журнал",
+  "journalist": "журналист",
+  "kelly": "Келли (фамилия)",
+  "kept": "сохранённый; хранила",
+  "key": "ключевой",
+  "kidney": "почка",
+  "killed": "убита, убил",
+  "killer": "убийца",
+  "killings": "убийства",
+  "kind": "вид, тип",
+  "knife": "нож",
+  "know": "знать",
+  "knowledge": "знание",
+  "known": "известный",
+  "knows": "знает",
+  "kosminski": "Косминский (фамилия)",
+  "kosminski's": "Косминского",
+  "last": "последний",
+  "later": "позже",
+  "laughed": "(laughed at) насмехалось",
+  "lawyer": "юрист",
+  "leave": "оставить",
+  "left": "левый; оставляла",
+  "less": "меньше",
+  "letter": "письмо",
+  "letters": "письма",
+  "list": "список, опись",
+  "little": "мало",
+  "lived": "жили",
+  "liverpool": "Ливерпуль; ливерпульский",
+  "lives": "жизни",
+  "living": "живущий",
+  "local": "местный",
+  "lodging": "(lodging house) ночлежка",
+  "london": "Лондон",
+  "long": "(long after) спустя долгое время",
+  "looked": "(looked at) осмотрели",
+  "louhelainen": "Лухелайнен (фамилия)",
+  "lusk": "Ласк (фамилия)",
+  "lying": "лежащий",
+  "macnaghten": "Макнотен (фамилия)",
+  "made": "сделал; составила",
+  "mainly": "в основном",
+  "makes": "заставляет",
+  "man": "человек, мужчина",
+  "many": "многие, много",
+  "mary": "Мэри (имя)",
+  "matched": "совпала",
+  "maybrick": "Мейбрик (фамилия)",
+  "means": "означает",
+  "medical": "медицинский; (medical students) студенты-медики",
+  "medicines": "лекарства",
+  "melville": "Мелвилл (имя)",
+  "memoirs": "мемуары",
+  "memories": "воспоминания",
+  "men": "мужчины, люди",
+  "mental": "психический",
+  "mention": "упоминать",
+  "message": "послание",
+  "metropolitan": "столичный (Metropolitan Police — полиция Лондона)",
+  "michael": "Майкл (Михаил, имя)",
+  "might": "может, мог бы",
+  "miller": "Миллер (фамилия)",
+  "miller's": "Миллерс (название двора)",
+  "minutes": "минуты",
+  "mistakes": "ошибки",
+  "mitochondrial": "митохондриальный",
+  "mitre": "Митр (название площади)",
+  "moment": "мгновение",
+  "moments": "мгновения",
+  "montague": "Монтегю (имя)",
+  "moores": "Мурс (Liverpool John Moores University)",
+  "more": "больше, более",
+  "morning": "утро",
+  "mortuary": "морг",
+  "most": "самый; большинство",
+  "mostly": "в основном",
+  "mother": "мать",
+  "murder": "убийство",
+  "murdered": "убита",
+  "murderer": "убийца",
+  "murders": "убийства",
+  "mutilated": "изуродована",
+  "mystery": "загадка, тайна",
+  "name": "имя",
+  "named": "по имени; назвал",
+  "names": "имена",
+  "naming": "называя (Naming Jack the Ripper — «Назвать Джека-потрошителя»)",
+  "narrow": "узкий",
+  "needed": "нужно было",
+  "never": "никогда; так и не",
+  "new": "новый",
+  "news": "новости",
+  "newspaper": "газета",
+  "newspapers": "газеты",
+  "nichols": "Николс (фамилия)",
+  "night": "ночь",
+  "no": "никакой, нет",
+  "nobody": "никто",
+  "not": "не",
+  "notes": "пометки, записи",
+  "noticed": "заметил",
+  "novels": "романы",
+  "november": "ноябрь",
+  "o'clock": "(one o'clock) час (времени)",
+  "october": "октябрь",
+  "of": "(род. падеж); из",
+  "off": "(off a street) у, рядом с; (washed off) смыть",
+  "officer": "полицейский, сотрудник",
+  "officers": "полицейские",
+  "official": "официальный",
+  "old": "старый; (year-old) летний (о возрасте)",
+  "on": "на, в (о дате)",
+  "once": "однажды",
+  "one": "один; одно",
+  "only": "только, лишь",
+  "open": "(cut open) вспорот",
+  "or": "или",
+  "order": "(in order to) чтобы",
+  "ordered": "приказал",
+  "organised": "организованы",
+  "organs": "органы",
+  "ostrog": "Острог (фамилия)",
+  "other": "другой",
+  "others": "другие",
+  "out": "(carried out) совершили; (thrown out) выброшены; (pointed out) указали",
+  "over": "более, свыше; за",
+  "own": "собственный",
+  "painter": "художник",
+  "part": "часть",
+  "particular": "конкретный",
+  "parts": "части, районы",
+  "passed": "передаётся",
+  "passes": "передаёт",
+  "patricia": "Патрисия (имя)",
+  "patrolled": "патрулировали",
+  "paul": "Пол (фамилия)",
+  "pay": "платить",
+  "pencil": "карандаш",
+  "pennies": "пенсы",
+  "people": "люди",
+  "person": "человек",
+  "photographed": "сфотографирован",
+  "piece": "кусок",
+  "place": "(take place) происходить",
+  "plenty": "(plenty of) много",
+  "point": "указывать",
+  "pointed": "(pointed out) указали",
+  "poland": "Польша",
+  "police": "полиция; полицейский",
+  "polish": "польский",
+  "polly": "Полли (имя)",
+  "poor": "бедный",
+  "poorest": "самый бедный",
+  "popular": "популярный",
+  "possible": "возможный",
+  "poverty": "бедность",
+  "prince": "принц",
+  "prison": "тюрьма",
+  "private": "служебный, частный",
+  "probably": "вероятно",
+  "problem": "проблема",
+  "proof": "доказательство",
+  "properly": "как следует",
+  "prostitutes": "проститутки",
+  "prove": "доказать",
+  "public": "(make public) обнародовать",
+  "publish": "опубликовать",
+  "published": "опубликовал(а)",
+  "queen": "королева",
+  "question": "вопрос",
+  "questioned": "допрошены",
+  "quickly": "быстро",
+  "rare": "редкий",
+  "readers": "читатели",
+  "realised": "понял",
+  "really": "действительно",
+  "reasons": "причины",
+  "received": "получил(и)",
+  "recent": "недавний",
+  "record": "запись, документ",
+  "records": "записи, документы",
+  "red": "красный",
+  "refused": "отказался",
+  "reject": "отвергают",
+  "reliable": "надёжный",
+  "rely": "(rely on) полагаться на",
+  "remains": "остаётся",
+  "remembered": "запомнилась",
+  "removed": "извлёк",
+  "rented": "съёмный",
+  "report": "записка, отчёт",
+  "research": "исследования",
+  "researchers": "исследователи",
+  "results": "результаты",
+  "ripper": "потрошитель",
+  "river": "река",
+  "road": "дорога",
+  "robert": "Роберт (имя)",
+  "room": "комната",
+  "rooms": "комнаты",
+  "row": "ряд (Buck's Row — название улицы)",
+  "royal": "королевский",
+  "rubenhold": "Рубенхолд (фамилия)",
+  "rude": "грубый",
+  "rumours": "слухи",
+  "russell": "Рассел (имя)",
+  "russian": "российский; (Russian-born) родившийся в России",
+  "s": "(1970s) 1970-е годы",
+  "said": "сказал(и)",
+  "same": "тот же",
+  "saw": "видел(и)",
+  "say": "сказать",
+  "scene": "место (преступления)",
+  "science": "наука",
+  "sciences": "науки",
+  "scientific": "научный",
+  "scientist": "учёный",
+  "scientists": "учёные",
+  "scotland": "(Scotland Yard) Скотланд-Ярд",
+  "second": "второй",
+  "secret": "тайна",
+  "see": "увидеть",
+  "seemed": "казалось",
+  "seems": "по-видимому, кажется",
+  "sell": "продать",
+  "senior": "высокопоставленный",
+  "sent": "послан; (sent away) выгнали",
+  "september": "сентябрь",
+  "series": "серия",
+  "seriously": "серьёзно",
+  "settle": "решить (вопрос)",
+  "seventy": "семьдесят",
+  "several": "несколько",
+  "shared": "общий (для нескольких)",
+  "shawl": "шаль",
+  "she": "она",
+  "shocked": "потрясло",
+  "short": "короткий",
+  "show": "показать",
+  "shown": "показано, выяснено",
+  "sickert": "Сикерт (фамилия)",
+  "signed": "подписано",
+  "silk": "шёлковый",
+  "simply": "просто",
+  "simpson": "Симпсон (фамилия)",
+  "since": "с тех пор",
+  "sir": "сэр",
+  "sister": "сестра",
+  "small": "маленький",
+  "so": "поэтому; так",
+  "society": "общество",
+  "sold": "продавал",
+  "solved": "раскрыто",
+  "some": "некоторые",
+  "someone": "кто-то",
+  "something": "что-то",
+  "soon": "вскоре",
+  "source": "источник",
+  "specialists": "специалисты",
+  "spelling": "(spelling mistakes) орфографические ошибки",
+  "spread": "распространилось",
+  "square": "площадь (Mitre Square)",
+  "stain": "пятно",
+  "stains": "пятна",
+  "states": "штаты (United States — США)",
+  "stayed": "оставался",
+  "still": "всё ещё, до сих пор",
+  "stomach": "живот",
+  "stopped": "прекратилась",
+  "story": "история, рассказ",
+  "street": "улица",
+  "streets": "улицы",
+  "stride": "Страйд (фамилия)",
+  "stroke": "инсульт",
+  "strongest": "самый сильный",
+  "students": "студенты",
+  "such": "такой; (such as) как, например",
+  "suddenly": "внезапно",
+  "suffered": "перенёс",
+  "suggests": "указывает",
+  "suspect": "подозреваемый",
+  "suspected": "подозревали",
+  "suspects": "подозреваемые",
+  "swanson": "Суонсон (фамилия)",
+  "swanson's": "Суонсона",
+  "sweden": "Швеция",
+  "taken": "взят, забрал; (taken seriously) воспринимался серьёзно",
+  "teacher": "учитель",
+  "tens": "десятки",
+  "terrible": "страшный",
+  "terribly": "страшно",
+  "test": "исследовать, проверить",
+  "testing": "анализ, тестирование",
+  "tests": "анализы",
+  "thames": "Темза",
+  "than": "чем",
+  "that": "что, который; тот",
+  "the": "(артикль)",
+  "their": "их",
+  "them": "их, им",
+  "themselves": "сами",
+  "then": "затем; тогда",
+  "theories": "теории",
+  "theory": "теория",
+  "there": "(there is/are) есть; там",
+  "these": "эти",
+  "they": "они",
+  "thief": "вор",
+  "think": "думать, считать",
+  "this": "это, этот",
+  "thought": "подумал; считал",
+  "thousands": "тысячи",
+  "threatened": "угрожал",
+  "three": "три, трое",
+  "throat": "горло",
+  "through": "через",
+  "thrown": "(thrown out) выброшены",
+  "time": "время",
+  "to": "к, в; (инфинитив)",
+  "today": "сегодня",
+  "together": "вместе",
+  "took": "(took place) произошли",
+  "tools": "инструменты",
+  "touched": "прикасался",
+  "towards": "к, на",
+  "tried": "пытались",
+  "true": "правда",
+  "tumblety": "Тамблти (фамилия)",
+  "turn": "(turn away) отвести, переключить",
+  "twenty": "двадцать",
+  "two": "два, двое",
+  "type": "тип",
+  "unchanged": "без изменений",
+  "united": "(United States) Соединённые Штаты",
+  "university": "университет",
+  "unrelated": "не связанный родством",
+  "unsolved": "нераскрытый",
+  "until": "до; (not until) только в",
+  "use": "использовать",
+  "used": "использовали",
+  "usually": "обычно",
+  "variation": "вариант",
+  "very": "очень",
+  "victim": "жертва",
+  "victims": "жертвы",
+  "victor": "Виктор (имя)",
+  "victoria's": "Виктории",
+  "violence": "насилие",
+  "voices": "голоса",
+  "walk": "ходьба",
+  "walking": "шёл",
+  "wall": "стена",
+  "walter": "Уолтер (имя)",
+  "warren": "Уоррен (фамилия)",
+  "was": "был(а)",
+  "washed": "(washed off) смыт",
+  "way": "способ",
+  "we": "мы",
+  "welcomed": "тепло встретили",
+  "were": "были",
+  "what": "что, какой",
+  "when": "когда",
+  "where": "где, куда",
+  "whether": "ли",
+  "which": "который, что",
+  "while": "тогда как",
+  "whitechapel": "Уайтчепел (район)",
+  "who": "кто, который",
+  "whom": "которую",
+  "whose": "чей",
+  "william": "Уильям (имя)",
+  "with": "с",
+  "witness": "свидетель",
+  "witnesses": "свидетели",
+  "woman": "женщина",
+  "women": "женщины",
+  "wonder": "задуматься",
+  "words": "слова",
+  "work": "работа",
+  "worked": "работал(и)",
+  "worker": "рабочий",
+  "working": "работающие, занимающиеся",
+  "world": "мир",
+  "worried": "обеспокоенный; опасался",
+  "writer": "автор, писатель",
+  "writers": "авторы",
+  "written": "написано",
+  "wrote": "написал",
+  "yard": "двор; (Scotland Yard) Скотланд-Ярд",
+  "year": "год; (year-old) летний (о возрасте)",
+  "years": "годы, лет"
+ },
+ "vocab": {
+  "announcement": 525,
+  "colourful": 19,
+  "common": 139,
+  "crowds": 367,
+  "development": 562,
+  "disappeared": 164,
+  "gate": 142,
+  "horrible": 86,
+  "means": 370,
+  "mistakes": 4,
+  "poverty": 407,
+  "road": 409,
+  "rude": 466,
+  "stayed": 243,
+  "thrown": 145,
+  "tried": 167,
+  "worried": 480
+ }
+}

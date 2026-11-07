@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did the group choose the night of 8 March 1971 for the burglary?",
+  "q_ru": "Почему группа выбрала для кражи ночь 8 марта 1971 года?",
+  "options": [
+   "The FBI office was closed for a holiday",
+   "The police were on strike that night",
+   "They hoped everyone would be busy with a famous boxing match",
+   "It was the anniversary of the Vietnam War"
+  ],
+  "options_ru": [
+   "Офис ФБР был закрыт на праздник",
+   "Полиция в ту ночь бастовала",
+   "Они надеялись, что все будут заняты знаменитым боксёрским поединком",
+   "Это была годовщина войны во Вьетнаме"
+  ],
+  "answer": 2,
+  "explain_ru": "Они надеялись, что все, включая полицию, будут думать о бое Али и Фрейзера, а не о тихом офисе."
+ },
+ {
+  "q": "What did the two members of Congress do with the documents they received?",
+  "q_ru": "Что сделали с полученными документами два члена Конгресса?",
+  "options": [
+   "They gave them back to the FBI",
+   "They read them aloud in the Senate",
+   "They sent them to The Washington Post",
+   "They hid them for forty years"
+  ],
+  "options_ru": [
+   "Вернули их в ФБР",
+   "Зачитали их вслух в Сенате",
+   "Отправили их в The Washington Post",
+   "Прятали их сорок лет"
+  ],
+  "answer": 0,
+  "explain_ru": "В тексте: «The two politicians did not publish anything. Instead, they gave the papers back to the FBI»."
+ },
+ {
+  "q": "How did the public learn what the word COINTELPRO meant?",
+  "q_ru": "Как общество узнало, что означает слово COINTELPRO?",
+  "options": [
+   "Hoover explained it in a television interview",
+   "One of the burglars worked for the FBI",
+   "The Church Committee found it in 1971",
+   "A TV reporter used the Freedom of Information Act and went to court"
+  ],
+  "options_ru": [
+   "Гувер объяснил его в телеинтервью",
+   "Один из взломщиков работал в ФБР",
+   "Комитет Чёрча нашёл его в 1971 году",
+   "Тележурналист воспользовался Законом о свободе информации и обратился в суд"
+  ],
+  "answer": 3,
+  "explain_ru": "Карл Стерн из NBC запросил документы по Закону о свободе информации, и после решения суда в конце 1973 года их передали."
+ },
+ {
+  "q": "What, according to a 1967 FBI memo, was the real aim of COINTELPRO?",
+  "q_ru": "Какова, согласно служебной записке ФБР 1967 года, была настоящая цель COINTELPRO?",
+  "options": [
+   "To protect the country from foreign spies",
+   "To expose, disrupt and neutralize certain groups",
+   "To bring criminals to court faster",
+   "To help civil rights groups"
+  ],
+  "options_ru": [
+   "Защищать страну от иностранных шпионов",
+   "Разоблачать, срывать деятельность и нейтрализовать определённые группы",
+   "Быстрее отдавать преступников под суд",
+   "Помогать организациям за гражданские права"
+  ],
+  "answer": 1,
+  "explain_ru": "Цель была не расследовать преступления, а «expose, disrupt, misdirect, discredit, or otherwise neutralize» группы, даже если они не нарушали закон."
+ },
+ {
+  "q": "Which statement about COINTELPRO is NOT supported by clear evidence, according to the article?",
+  "q_ru": "Какое утверждение о COINTELPRO, согласно статье, НЕ подтверждено ясными доказательствами?",
+  "options": [
+   "The FBI sent Martin Luther King an anonymous package",
+   "The FBI paid informers to join organisations",
+   "The FBI was behind many more deaths and disasters",
+   "The Ku Klux Klan was also a target"
+  ],
+  "options_ru": [
+   "ФБР отправило Мартину Лютеру Кингу анонимный пакет",
+   "ФБР платило осведомителям за вступление в организации",
+   "ФБР стояло за гораздо большим числом смертей и бедствий",
+   "Ку-клукс-клан тоже был мишенью"
+  ],
+  "answer": 2,
+  "explain_ru": "Статья говорит, что для большинства утверждений о том, что ФБР стояло за многими другими смертями и бедствиями, ясных доказательств нет."
+ },
+ {
+  "q": "What changed after the revelations?",
+  "q_ru": "Что изменилось после разоблачений?",
+  "options": [
+   "The FBI director could serve only one ten-year term",
+   "The FBI was closed and replaced",
+   "The burglars were sent to prison",
+   "Newspapers were banned from publishing secret documents"
+  ],
+  "options_ru": [
+   "Директор ФБР мог занимать должность только один десятилетний срок",
+   "ФБР закрыли и заменили",
+   "Взломщиков отправили в тюрьму",
+   "Газетам запретили публиковать секретные документы"
+  ],
+  "answer": 0,
+  "explain_ru": "В 1976 году Конгресс ограничил срок директора ФБР десятью годами; также появились новые правила, постоянные комитеты и закон 1978 года о прослушке."
+ }
+]

@@ -1,0 +1,110 @@
+[
+ {
+  "q": "How did the story of the Philadelphia Experiment first become known?",
+  "q_ru": "Как впервые стала известна история Филадельфийского эксперимента?",
+  "options": [
+   "Through a Navy report published in 1943",
+   "Through letters that Carlos Allende wrote to Morris Jessup in 1956",
+   "Through a Hollywood film made during the war",
+   "Through interviews with Albert Einstein"
+  ],
+  "options_ru": [
+   "Из отчёта флота, опубликованного в 1943 году",
+   "Из писем, которые Карлос Альенде написал Моррису Джессупу в 1956 году",
+   "Из голливудского фильма, снятого во время войны",
+   "Из интервью с Альбертом Эйнштейном"
+  ],
+  "answer": 1,
+  "explain_ru": "Во время войны об этом никто не слышал; история впервые появилась в 1956 году в письмах Альенде к Джессупу."
+ },
+ {
+  "q": "What was the \"Varo edition\"?",
+  "q_ru": "Что такое «издание Varo»?",
+  "options": [
+   "A secret Navy report about invisibility",
+   "Einstein's book on unified field theory",
+   "The 1979 bestseller by Berlitz and Moore",
+   "A small printing of Jessup's book with the handwritten notes and the Allende letters"
+  ],
+  "options_ru": [
+   "Секретный отчёт флота о невидимости",
+   "Книга Эйнштейна о единой теории поля",
+   "Бестселлер Берлица и Мура 1979 года",
+   "Небольшой тираж книги Джессупа с рукописными заметками и письмами Альенде"
+  ],
+  "answer": 3,
+  "explain_ru": "Два офицера договорились с техасской компанией Varo напечатать немного экземпляров книги с заметками и письмами; доказательств, что это было официальное расследование, нет."
+ },
+ {
+  "q": "What did Carl Allen reportedly say in 1969?",
+  "q_ru": "Что, по имеющимся сведениям, сказал Карл Аллен в 1969 году?",
+  "options": [
+   "That he had invented the story and written the notes himself",
+   "That he had served on the Eldridge",
+   "That the Navy had paid him to keep quiet",
+   "That Jessup had written the letters"
+  ],
+  "options_ru": [
+   "Что он выдумал историю и сам написал заметки",
+   "Что он служил на «Элдридже»",
+   "Что флот заплатил ему за молчание",
+   "Что письма написал Джессуп"
+  ],
+  "answer": 0,
+  "explain_ru": "Он признался группе исследователей НЛО, что всё выдумал, но позже отказался от признания, поэтому он ненадёжный свидетель."
+ },
+ {
+  "q": "Why is the Office of Naval Research's existence a problem for the legend?",
+  "q_ru": "Почему сам факт существования Управления военно-морских исследований — проблема для легенды?",
+  "options": [
+   "It was based in Texas, not in Philadelphia",
+   "It worked only with merchant ships",
+   "It was created only in 1946, three years after the supposed experiment",
+   "It was closed during the war"
+  ],
+  "options_ru": [
+   "Оно находилось в Техасе, а не в Филадельфии",
+   "Оно работало только с торговыми судами",
+   "Оно было создано только в 1946 году, через три года после предполагаемого эксперимента",
+   "Его закрыли во время войны"
+  ],
+  "answer": 2,
+  "explain_ru": "Управление указывает, что его создали только в 1946 году, поэтому оно не могло проводить эксперимент в 1943 году."
+ },
+ {
+  "q": "Which real wartime work may have helped the legend to grow?",
+  "q_ru": "Какие реальные работы военного времени могли помочь легенде разрастись?",
+  "options": [
+   "Building the first submarines",
+   "Degaussing, which made ships \"invisible\" to magnetic mines",
+   "Teaching sailors to use radios",
+   "Painting ships green to hide them"
+  ],
+  "options_ru": [
+   "Строительство первых подводных лодок",
+   "Размагничивание, которое делало корабли «невидимыми» для магнитных мин",
+   "Обучение моряков работе с радио",
+   "Окраска кораблей в зелёный цвет для маскировки"
+  ],
+  "answer": 1,
+  "explain_ru": "Флот прокладывал вокруг кораблей кабели, чтобы уменьшить магнитное поле: корабли становились «невидимыми» для мин, но не для глаз."
+ },
+ {
+  "q": "What is the article's conclusion about the Philadelphia Experiment?",
+  "q_ru": "Каков вывод статьи о Филадельфийском эксперименте?",
+  "options": [
+   "It probably happened, but the records were destroyed",
+   "It was proven true by the National Archives",
+   "Historians still have no information about the Eldridge",
+   "There is no reliable evidence for it, and much evidence against it"
+  ],
+  "options_ru": [
+   "Он, вероятно, был, но записи уничтожили",
+   "Его подтвердил Национальный архив",
+   "У историков до сих пор нет сведений об «Элдридже»",
+   "Надёжных доказательств нет, а доказательств против — много"
+  ],
+  "answer": 3,
+  "explain_ru": "В тексте: «There is no reliable evidence that it did, and there is a lot of evidence that it did not» — записи корабля, экипаж и наука легенду не подтверждают."
+ }
+]

@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What was strange about the man's visits to the office?",
+  "q_ru": "Что было странного в визитах мужчины в бюро?",
+  "options": [
+   "He always shouted at Lena",
+   "He came every Thursday, and his description changed",
+   "He never said what he had lost",
+   "He came every day at eight fifteen"
+  ],
+  "options_ru": [
+   "Он всегда кричал на Лену",
+   "Он приходил каждый четверг, и его описание менялось",
+   "Он никогда не говорил, что потерял",
+   "Он приходил каждый день в 8:15"
+  ],
+  "answer": 1,
+  "explain_ru": "«Every week his description was a little different» — то шнурок красный, то зелёный, то коробка размером с книгу."
+ },
+ {
+  "q": "What did Lena tell the man about her dream?",
+  "q_ru": "Что Лена рассказала мужчине о своей мечте?",
+  "options": [
+   "She wanted to build model ships",
+   "She wanted to become the boss",
+   "She wanted to live by the sea",
+   "She wanted to travel by train"
+  ],
+  "options_ru": [
+   "Она хотела строить модели кораблей",
+   "Она хотела стать начальницей",
+   "Она хотела жить у моря",
+   "Она хотела путешествовать на поезде"
+  ],
+  "answer": 2,
+  "explain_ru": "«She had always dreamed about living by the sea. One day I want to wake up and hear the waves.»"
+ },
+ {
+  "q": "Mr Hall thinks the man may be \"cunning\". What does he mean?",
+  "q_ru": "Мистер Холл считает, что мужчина, возможно, «cunning». Что он имеет в виду?",
+  "options": [
+   "Clever in a dishonest way",
+   "Very shy and quiet",
+   "Poor and hungry",
+   "Kind and generous"
+  ],
+  "options_ru": [
+   "Хитрый, нечестный",
+   "Очень застенчивый и тихий",
+   "Бедный и голодный",
+   "Добрый и щедрый"
+  ],
+  "answer": 0,
+  "explain_ru": "«Cunning» — хитрый. Холл подозревает, что мужчина хочет что-то украсть или получить деньги за ложную жалобу."
+ },
+ {
+  "q": "What did Danny tell the man?",
+  "q_ru": "Что Дэнни сказал мужчине?",
+  "options": [
+   "Where Lena lived",
+   "That Lena had a boyfriend",
+   "That the package was found",
+   "What time Lena finished work on Fridays"
+  ],
+  "options_ru": [
+   "Где живёт Лена",
+   "Что у Лены есть парень",
+   "Что посылку нашли",
+   "Во сколько Лена заканчивает работу по пятницам"
+  ],
+  "answer": 3,
+  "explain_ru": "«He asked me what time you finish on Fridays.» — «Six o'clock.»"
+ },
+ {
+  "q": "Why did Tom invent the lost package?",
+  "q_ru": "Зачем Том выдумал потерянную посылку?",
+  "options": [
+   "He wanted to get money from the station",
+   "He needed a reason to see Lena again",
+   "He wanted to test Mr Hall's rules",
+   "He was trying to sell his ships"
+  ],
+  "options_ru": [
+   "Он хотел получить деньги от вокзала",
+   "Ему нужен был повод снова увидеть Лену",
+   "Он хотел проверить правила мистера Холла",
+   "Он пытался продать свои корабли"
+  ],
+  "answer": 1,
+  "explain_ru": "В письме: «After that I needed a reason to see you again, so I invented a package.»"
+ },
+ {
+  "q": "How does the story end?",
+  "q_ru": "Чем заканчивается история?",
+  "options": [
+   "Lena goes to Saltwick and meets Tom",
+   "Tom comes back to the office on Thursday",
+   "Lena gives the ship back to Tom",
+   "Lena loses her job at the station"
+  ],
+  "options_ru": [
+   "Лена едет в Солтуик и встречается с Томом",
+   "Том возвращается в бюро в четверг",
+   "Лена возвращает корабль Тому",
+   "Лена теряет работу на вокзале"
+  ],
+  "answer": 0,
+  "explain_ru": "В субботу Лена приезжает в Солтуик, Том ждёт её на платформе с апельсинами и целует её в щёку."
+ }
+]

@@ -1,0 +1,1373 @@
+{
+ "id": 44,
+ "level": "B1",
+ "title_en": "Hello, Ilse",
+ "title_ru": "Привет, Ильзе",
+ "genre": "Научная фантастика",
+ "summary_ru": "Астроном, которая девятнадцать лет слушает пустое небо над пустыней, однажды ночью принимает сигнал от далёкой звезды — и в этом сигнале звучит её собственное имя.",
+ "paragraphs": [
+  {
+   "en": "The observatory at Corvo Flats stood alone in the desert, forty kilometres from the nearest town, at the end of a road that most maps did not show. Around it there was nothing but sand, rocks and the great white dish of the radio telescope, which turned slowly through the night like a huge ear. Dr Ilse Reyhill had worked there for nineteen years.",
+   "ru": "Обсерватория в Корво-Флэтс стояла одна посреди пустыни, в сорока километрах от ближайшего города, в конце дороги, которой не было на большинстве карт. Вокруг не было ничего, кроме песка, камней и огромной белой тарелки радиотелескопа, которая всю ночь медленно поворачивалась, словно гигантское ухо. Доктор Ильзе Рейхилл работала там девятнадцать лет.",
+   "s": [
+    [
+     "The observatory at Corvo Flats stood alone in the desert, forty kilometres from the nearest town, at the end of a road that most maps did not show.",
+     "Обсерватория в Корво-Флэтс стояла одна посреди пустыни, в сорока километрах от ближайшего города, в конце дороги, которой не было на большинстве карт."
+    ],
+    [
+     "Around it there was nothing but sand, rocks and the great white dish of the radio telescope, which turned slowly through the night like a huge ear.",
+     "Вокруг не было ничего, кроме песка, камней и огромной белой тарелки радиотелескопа, которая всю ночь медленно поворачивалась, словно гигантское ухо."
+    ],
+    [
+     "Dr Ilse Reyhill had worked there for nineteen years.",
+     "Доктор Ильзе Рейхилл работала там девятнадцать лет."
+    ]
+   ]
+  },
+  {
+   "en": "Her nights were all the same, and she liked them that way. At ten o'clock she made toast with too much butter, took a bottle of cold water from the old refrigerator that hummed in the corner, and sat down in front of the screens. At midnight she climbed the metal ladder to the small platform below the dish, just to look at the stars with her own eyes. It was an old habit, and she had never tried to break it.",
+   "ru": "Все её ночи были одинаковыми, и ей это нравилось. В десять часов она делала тост со слишком толстым слоем масла, брала бутылку холодной воды из старого холодильника, гудевшего в углу, и садилась перед экранами. В полночь она взбиралась по металлической лестнице на маленькую площадку под тарелкой — просто чтобы посмотреть на звёзды своими глазами. Это была старая привычка, и она никогда не пыталась от неё избавиться.",
+   "s": [
+    [
+     "Her nights were all the same, and she liked them that way.",
+     "Все её ночи были одинаковыми, и ей это нравилось."
+    ],
+    [
+     "At ten o'clock she made toast with too much butter, took a bottle of cold water from the old refrigerator that hummed in the corner, and sat down in front of the screens.",
+     "В десять часов она делала тост со слишком толстым слоем масла, брала бутылку холодной воды из старого холодильника, гудевшего в углу, и садилась перед экранами."
+    ],
+    [
+     "At midnight she climbed the metal ladder to the small platform below the dish, just to look at the stars with her own eyes.",
+     "В полночь она взбиралась по металлической лестнице на маленькую площадку под тарелкой — просто чтобы посмотреть на звёзды своими глазами."
+    ],
+    [
+     "It was an old habit, and she had never tried to break it.",
+     "Это была старая привычка, и она никогда не пыталась от неё избавиться."
+    ]
+   ]
+  },
+  {
+   "en": "The telescope listened to natural radio waves from the sky: dying stars, clouds of gas, the quiet noise left over from the beginning of the universe. It was important work, but it was not exciting. In nineteen years Ilse had never heard anything that could not be explained. Then, on a Tuesday night in March, the computer gave a soft beep.",
+   "ru": "Телескоп слушал естественные радиоволны с неба: умирающие звёзды, облака газа, тихий шум, оставшийся с самого начала Вселенной. Это была важная работа, но не захватывающая. За девятнадцать лет Ильзе ни разу не слышала ничего, что нельзя было бы объяснить. А потом, во вторник ночью в марте, компьютер тихо пискнул.",
+   "s": [
+    [
+     "The telescope listened to natural radio waves from the sky: dying stars, clouds of gas, the quiet noise left over from the beginning of the universe.",
+     "Телескоп слушал естественные радиоволны с неба: умирающие звёзды, облака газа, тихий шум, оставшийся с самого начала Вселенной."
+    ],
+    [
+     "It was important work, but it was not exciting.",
+     "Это была важная работа, но не захватывающая."
+    ],
+    [
+     "In nineteen years Ilse had never heard anything that could not be explained.",
+     "За девятнадцать лет Ильзе ни разу не слышала ничего, что нельзя было бы объяснить."
+    ],
+    [
+     "Then, on a Tuesday night in March, the computer gave a soft beep.",
+     "А потом, во вторник ночью в марте, компьютер тихо пискнул."
+    ]
+   ]
+  },
+  {
+   "en": "She looked up from her toast. On the main screen, a thin green line, which was usually flat, had started to jump. Short pulses, then a pause, then short pulses again. The signal was narrow and strong, and it was coming from one tiny point in the sky.",
+   "ru": "Она подняла глаза от тоста. На главном экране тонкая зелёная линия, обычно ровная, начала прыгать. Короткие импульсы, потом пауза, потом снова короткие импульсы. Сигнал был узким и сильным, и он шёл из одной крошечной точки на небе.",
+   "s": [
+    [
+     "She looked up from her toast.",
+     "Она подняла глаза от тоста."
+    ],
+    [
+     "On the main screen, a thin green line, which was usually flat, had started to jump.",
+     "На главном экране тонкая зелёная линия, обычно ровная, начала прыгать."
+    ],
+    [
+     "Short pulses, then a pause, then short pulses again.",
+     "Короткие импульсы, потом пауза, потом снова короткие импульсы."
+    ],
+    [
+     "The signal was narrow and strong, and it was coming from one tiny point in the sky.",
+     "Сигнал был узким и сильным, и он шёл из одной крошечной точки на небе."
+    ]
+   ]
+  },
+  {
+   "en": "Ilse did not get excited. Signals like this appeared quite often, and they always had a boring explanation. A satellite, a plane, a truck driver with an illegal radio on the road to town. Once, years ago, it had been the microwave oven in the kitchen. So she checked everything, one thing at a time, the way she had been taught.",
+   "ru": "Ильзе не стала волноваться. Подобные сигналы появлялись довольно часто, и у них всегда находилось скучное объяснение. Спутник, самолёт, водитель грузовика с незаконной рацией на дороге в город. Однажды, много лет назад, это оказалась микроволновка на кухне. Поэтому она проверила всё, одно за другим, как её учили.",
+   "s": [
+    [
+     "Ilse did not get excited.",
+     "Ильзе не стала волноваться."
+    ],
+    [
+     "Signals like this appeared quite often, and they always had a boring explanation.",
+     "Подобные сигналы появлялись довольно часто, и у них всегда находилось скучное объяснение."
+    ],
+    [
+     "A satellite, a plane, a truck driver with an illegal radio on the road to town.",
+     "Спутник, самолёт, водитель грузовика с незаконной рацией на дороге в город."
+    ],
+    [
+     "Once, years ago, it had been the microwave oven in the kitchen.",
+     "Однажды, много лет назад, это оказалась микроволновка на кухне."
+    ],
+    [
+     "So she checked everything, one thing at a time, the way she had been taught.",
+     "Поэтому она проверила всё, одно за другим, как её учили."
+    ]
+   ]
+  },
+  {
+   "en": "There were no satellites in that part of the sky. There were no planes. And the signal was moving across the sky at exactly the same speed as the stars, which meant that it was not coming from Earth. Ilse felt her mouth go dry.",
+   "ru": "В той части неба не было спутников. Не было самолётов. А сигнал двигался по небу точно с той же скоростью, что и звёзды, и это означало, что он шёл не с Земли. Ильзе почувствовала, как у неё пересохло во рту.",
+   "s": [
+    [
+     "There were no satellites in that part of the sky.",
+     "В той части неба не было спутников."
+    ],
+    [
+     "There were no planes.",
+     "Не было самолётов."
+    ],
+    [
+     "And the signal was moving across the sky at exactly the same speed as the stars, which meant that it was not coming from Earth.",
+     "А сигнал двигался по небу точно с той же скоростью, что и звёзды, и это означало, что он шёл не с Земли."
+    ],
+    [
+     "Ilse felt her mouth go dry.",
+     "Ильзе почувствовала, как у неё пересохло во рту."
+    ]
+   ]
+  },
+  {
+   "en": "She pressed a few keys and asked the computer to look for a pattern. After twenty minutes the program found one: the pulses were groups of numbers, and the numbers were repeating. Ilse wrote them down on a piece of paper. Nine, twelve, nineteen, five.",
+   "ru": "Она нажала несколько клавиш и попросила компьютер поискать закономерность. Через двадцать минут программа её нашла: импульсы складывались в группы чисел, и эти числа повторялись. Ильзе записала их на листке бумаги. Девять, двенадцать, девятнадцать, пять.",
+   "s": [
+    [
+     "She pressed a few keys and asked the computer to look for a pattern.",
+     "Она нажала несколько клавиш и попросила компьютер поискать закономерность."
+    ],
+    [
+     "After twenty minutes the program found one: the pulses were groups of numbers, and the numbers were repeating.",
+     "Через двадцать минут программа её нашла: импульсы складывались в группы чисел, и эти числа повторялись."
+    ],
+    [
+     "Ilse wrote them down on a piece of paper.",
+     "Ильзе записала их на листке бумаги."
+    ],
+    [
+     "Nine, twelve, nineteen, five.",
+     "Девять, двенадцать, девятнадцать, пять."
+    ]
+   ]
+  },
+  {
+   "en": "She stared at the paper for a long time before she understood. It was the simplest code in the world, the one that children use at school: one for A, two for B, three for C. I, L, S, E. The signal from the stars was saying her name.",
+   "ru": "Она долго смотрела на листок, прежде чем поняла. Это был самый простой код в мире, тот, которым пользуются дети в школе: один — это A, два — B, три — C. I, L, S, E. Сигнал со звёзд называл её имя.",
+   "s": [
+    [
+     "She stared at the paper for a long time before she understood.",
+     "Она долго смотрела на листок, прежде чем поняла."
+    ],
+    [
+     "It was the simplest code in the world, the one that children use at school: one for A, two for B, three for C.",
+     "Это был самый простой код в мире, тот, которым пользуются дети в школе: один — это A, два — B, три — C."
+    ],
+    [
+     "I, L, S, E.",
+     "I, L, S, E."
+    ],
+    [
+     "The signal from the stars was saying her name.",
+     "Сигнал со звёзд называл её имя."
+    ]
+   ]
+  },
+  {
+   "en": "Her first thought was that someone was playing a joke on her. Her second thought had a name: Owen. Owen Malik was the young technician who worked the day shift, and he had a reputation. Last summer he had hidden a plastic snake in her desk, and at Christmas he had changed the computer's voice so that it spoke like a pirate.",
+   "ru": "Её первой мыслью было, что кто-то её разыгрывает. У второй мысли было имя: Оуэн. Оуэн Малик был молодым техником, который работал в дневную смену, и у него была определённая репутация. Прошлым летом он спрятал в её столе пластиковую змею, а на Рождество изменил голос компьютера так, что тот заговорил как пират.",
+   "s": [
+    [
+     "Her first thought was that someone was playing a joke on her.",
+     "Её первой мыслью было, что кто-то её разыгрывает."
+    ],
+    [
+     "Her second thought had a name: Owen.",
+     "У второй мысли было имя: Оуэн."
+    ],
+    [
+     "Owen Malik was the young technician who worked the day shift, and he had a reputation.",
+     "Оуэн Малик был молодым техником, который работал в дневную смену, и у него была определённая репутация."
+    ],
+    [
+     "Last summer he had hidden a plastic snake in her desk, and at Christmas he had changed the computer's voice so that it spoke like a pirate.",
+     "Прошлым летом он спрятал в её столе пластиковую змею, а на Рождество изменил голос компьютера так, что тот заговорил как пират."
+    ]
+   ]
+  },
+  {
+   "en": "She called him at two in the morning. At first he did not understand what she was talking about, and she raised her voice. \"I know it's you, Owen,\" she said. \"Just tell me how you did it.\" There was a long silence. Then he said he was coming, and he hung up.",
+   "ru": "Она позвонила ему в два часа ночи. Сначала он не понимал, о чём она говорит, и она повысила голос. «Я знаю, что это ты, Оуэн», — сказала она. «Просто скажи мне, как ты это сделал». Наступило долгое молчание. Потом он сказал, что едет, и повесил трубку.",
+   "s": [
+    [
+     "She called him at two in the morning.",
+     "Она позвонила ему в два часа ночи."
+    ],
+    [
+     "At first he did not understand what she was talking about, and she raised her voice.",
+     "Сначала он не понимал, о чём она говорит, и она повысила голос."
+    ],
+    [
+     "\"I know it's you, Owen,\" she said.",
+     "«Я знаю, что это ты, Оуэн», — сказала она."
+    ],
+    [
+     "\"Just tell me how you did it.\"",
+     "«Просто скажи мне, как ты это сделал»."
+    ],
+    [
+     "There was a long silence.",
+     "Наступило долгое молчание."
+    ],
+    [
+     "Then he said he was coming, and he hung up.",
+     "Потом он сказал, что едет, и повесил трубку."
+    ]
+   ]
+  },
+  {
+   "en": "He arrived forty minutes later, with sand on his shoes and his shirt on inside out. He looked at the screen, then at the numbers on her paper, and his face went white. \"Ilse, I swear I didn't do this,\" he said. \"I play stupid jokes, I know. But nobody could fake something like this. You would need a transmitter somewhere out in space.\"",
+   "ru": "Он приехал через сорок минут, с песком на ботинках и в рубашке, надетой наизнанку. Он посмотрел на экран, потом на цифры на её листке, и его лицо побелело. «Ильзе, клянусь, это не я», — сказал он. «Я знаю, я устраиваю глупые розыгрыши. Но такое никто не смог бы подделать. Для этого нужен передатчик где-то в космосе».",
+   "s": [
+    [
+     "He arrived forty minutes later, with sand on his shoes and his shirt on inside out.",
+     "Он приехал через сорок минут, с песком на ботинках и в рубашке, надетой наизнанку."
+    ],
+    [
+     "He looked at the screen, then at the numbers on her paper, and his face went white.",
+     "Он посмотрел на экран, потом на цифры на её листке, и его лицо побелело."
+    ],
+    [
+     "\"Ilse, I swear I didn't do this,\" he said.",
+     "«Ильзе, клянусь, это не я», — сказал он."
+    ],
+    [
+     "\"I play stupid jokes, I know.",
+     "«Я знаю, я устраиваю глупые розыгрыши."
+    ],
+    [
+     "But nobody could fake something like this.",
+     "Но такое никто не смог бы подделать."
+    ],
+    [
+     "You would need a transmitter somewhere out in space.\"",
+     "Для этого нужен передатчик где-то в космосе»."
+    ]
+   ]
+  },
+  {
+   "en": "Ilse believed him. She had known him for three years, and his behavior was always the same when he was guilty: he laughed too much. Now he was not laughing at all. \"I'm sorry I shouted at you,\" she said, embarrassed. \"It doesn't matter,\" Owen said quietly. \"What matters is who sent it.\"",
+   "ru": "Ильзе ему поверила. Она знала его три года, и когда он был виноват, он всегда вёл себя одинаково: слишком много смеялся. Сейчас он совсем не смеялся. «Прости, что накричала на тебя», — смущённо сказала она. «Это неважно», — тихо сказал Оуэн. «Важно, кто его отправил».",
+   "s": [
+    [
+     "Ilse believed him.",
+     "Ильзе ему поверила."
+    ],
+    [
+     "She had known him for three years, and his behavior was always the same when he was guilty: he laughed too much.",
+     "Она знала его три года, и когда он был виноват, он всегда вёл себя одинаково: слишком много смеялся."
+    ],
+    [
+     "Now he was not laughing at all.",
+     "Сейчас он совсем не смеялся."
+    ],
+    [
+     "\"I'm sorry I shouted at you,\" she said, embarrassed.",
+     "«Прости, что накричала на тебя», — смущённо сказала она."
+    ],
+    [
+     "\"It doesn't matter,\" Owen said quietly.",
+     "«Это неважно», — тихо сказал Оуэн."
+    ],
+    [
+     "\"What matters is who sent it.\"",
+     "«Важно, кто его отправил»."
+    ]
+   ]
+  },
+  {
+   "en": "They worked together until the sky in the east began to turn grey. Owen found the exact position of the signal and compared it with the star maps. It was coming from a small orange star called Kepra, twenty-two light years away. Astronomers had known about Kepra for a long time, but no planets had ever been found there. \"Twenty-two years,\" Owen said. \"So whoever sent this did it twenty-two years ago. How could anyone out there know your name?\"",
+   "ru": "Они работали вместе, пока небо на востоке не начало сереть. Оуэн определил точное положение источника сигнала и сравнил его со звёздными картами. Сигнал шёл от маленькой оранжевой звезды под названием Кепра, в двадцати двух световых годах от Земли. Астрономы давно знали о Кепре, но планет там так и не нашли. «Двадцать два года», — сказал Оуэн. «Значит, тот, кто это отправил, сделал это двадцать два года назад. Откуда кто-то там может знать твоё имя?»",
+   "s": [
+    [
+     "They worked together until the sky in the east began to turn grey.",
+     "Они работали вместе, пока небо на востоке не начало сереть."
+    ],
+    [
+     "Owen found the exact position of the signal and compared it with the star maps.",
+     "Оуэн определил точное положение источника сигнала и сравнил его со звёздными картами."
+    ],
+    [
+     "It was coming from a small orange star called Kepra, twenty-two light years away.",
+     "Сигнал шёл от маленькой оранжевой звезды под названием Кепра, в двадцати двух световых годах от Земли."
+    ],
+    [
+     "Astronomers had known about Kepra for a long time, but no planets had ever been found there.",
+     "Астрономы давно знали о Кепре, но планет там так и не нашли."
+    ],
+    [
+     "\"Twenty-two years,\" Owen said.",
+     "«Двадцать два года», — сказал Оуэн."
+    ],
+    [
+     "\"So whoever sent this did it twenty-two years ago.",
+     "«Значит, тот, кто это отправил, сделал это двадцать два года назад."
+    ],
+    [
+     "How could anyone out there know your name?\"",
+     "Откуда кто-то там может знать твоё имя?»"
+    ]
+   ]
+  },
+  {
+   "en": "Ilse did not answer. She was looking at the old photograph on the wall near the refrigerator, the one that nobody noticed anymore. It showed the observatory in 1982, when the dish was new and shining. In front of it stood a tall man in glasses, holding the hand of a small girl with a missing front tooth.",
+   "ru": "Ильзе не ответила. Она смотрела на старую фотографию на стене возле холодильника — ту, которую уже никто не замечал. На ней была обсерватория в 1982 году, когда тарелка была новой и блестящей. Перед ней стоял высокий мужчина в очках и держал за руку маленькую девочку без переднего зуба.",
+   "s": [
+    [
+     "Ilse did not answer.",
+     "Ильзе не ответила."
+    ],
+    [
+     "She was looking at the old photograph on the wall near the refrigerator, the one that nobody noticed anymore.",
+     "Она смотрела на старую фотографию на стене возле холодильника — ту, которую уже никто не замечал."
+    ],
+    [
+     "It showed the observatory in 1982, when the dish was new and shining.",
+     "На ней была обсерватория в 1982 году, когда тарелка была новой и блестящей."
+    ],
+    [
+     "In front of it stood a tall man in glasses, holding the hand of a small girl with a missing front tooth.",
+     "Перед ней стоял высокий мужчина в очках и держал за руку маленькую девочку без переднего зуба."
+    ]
+   ]
+  },
+  {
+   "en": "\"That's my father,\" she said. \"Leonard Reyhill. He was an engineer here.\" She had not talked about him for years, and the words felt strange in her mouth. \"On my eighth birthday he brought me here at night. He let me climb up to the platform, he gave me a microphone, and he told me to say hello to the stars.\"",
+   "ru": "«Это мой отец», — сказала она. «Леонард Рейхилл. Он работал здесь инженером». Она не говорила о нём много лет, и слова казались странными на языке. «На мой восьмой день рождения он привёз меня сюда ночью. Он разрешил мне подняться на площадку, дал мне микрофон и сказал, чтобы я поздоровалась со звёздами».",
+   "s": [
+    [
+     "\"That's my father,\" she said.",
+     "«Это мой отец», — сказала она."
+    ],
+    [
+     "\"Leonard Reyhill. He was an engineer here.\"",
+     "«Леонард Рейхилл. Он работал здесь инженером»."
+    ],
+    [
+     "She had not talked about him for years, and the words felt strange in her mouth.",
+     "Она не говорила о нём много лет, и слова казались странными на языке."
+    ],
+    [
+     "\"On my eighth birthday he brought me here at night.",
+     "«На мой восьмой день рождения он привёз меня сюда ночью."
+    ],
+    [
+     "He let me climb up to the platform, he gave me a microphone, and he told me to say hello to the stars.\"",
+     "Он разрешил мне подняться на площадку, дал мне микрофон и сказал, чтобы я поздоровалась со звёздами»."
+    ]
+   ]
+  },
+  {
+   "en": "She could still remember it. She had been cold and sleepy, and very proud. She had said, \"Hello. My name is Ilse. I am eight years old. Is anybody there?\" Then her father had pressed a button and sent her words towards a small orange star, together with a list of numbers and her name in the simple children's code.",
+   "ru": "Она до сих пор это помнила. Ей было холодно, хотелось спать, и она очень гордилась. Она сказала: «Привет. Меня зовут Ильзе. Мне восемь лет. Там кто-нибудь есть?» Потом отец нажал кнопку и отправил её слова к маленькой оранжевой звезде вместе со списком чисел и её именем, записанным простым детским кодом.",
+   "s": [
+    [
+     "She could still remember it.",
+     "Она до сих пор это помнила."
+    ],
+    [
+     "She had been cold and sleepy, and very proud.",
+     "Ей было холодно, хотелось спать, и она очень гордилась."
+    ],
+    [
+     "She had said, \"Hello. My name is Ilse. I am eight years old. Is anybody there?\"",
+     "Она сказала: «Привет. Меня зовут Ильзе. Мне восемь лет. Там кто-нибудь есть?»"
+    ],
+    [
+     "Then her father had pressed a button and sent her words towards a small orange star, together with a list of numbers and her name in the simple children's code.",
+     "Потом отец нажал кнопку и отправил её слова к маленькой оранжевой звезде вместе со списком чисел и её именем, записанным простым детским кодом."
+    ]
+   ]
+  },
+  {
+   "en": "Nobody had given him permission. The message had used the telescope for six hours, and the electricity alone had been very expensive. When the director found out, Leonard lost his job. A newspaper wrote a funny article about him called \"The Man Who Phoned the Stars\", and for a few weeks people laughed at him on television. Some even called him a thief, because he had stolen time on a machine that belonged to the government.",
+   "ru": "Разрешения ему никто не давал. Послание заняло телескоп на шесть часов, и одно только электричество обошлось очень дорого. Когда директор об этом узнал, Леонард потерял работу. Одна газета написала о нём насмешливую статью под названием «Человек, который позвонил звёздам», и несколько недель над ним смеялись по телевизору. Некоторые даже называли его вором, потому что он украл время на машине, принадлежавшей государству.",
+   "s": [
+    [
+     "Nobody had given him permission.",
+     "Разрешения ему никто не давал."
+    ],
+    [
+     "The message had used the telescope for six hours, and the electricity alone had been very expensive.",
+     "Послание заняло телескоп на шесть часов, и одно только электричество обошлось очень дорого."
+    ],
+    [
+     "When the director found out, Leonard lost his job.",
+     "Когда директор об этом узнал, Леонард потерял работу."
+    ],
+    [
+     "A newspaper wrote a funny article about him called \"The Man Who Phoned the Stars\", and for a few weeks people laughed at him on television.",
+     "Одна газета написала о нём насмешливую статью под названием «Человек, который позвонил звёздам», и несколько недель над ним смеялись по телевизору."
+    ],
+    [
+     "Some even called him a thief, because he had stolen time on a machine that belonged to the government.",
+     "Некоторые даже называли его вором, потому что он украл время на машине, принадлежавшей государству."
+    ]
+   ]
+  },
+  {
+   "en": "\"He didn't want fame,\" Ilse said. \"He hated it. He just wanted to know if we were alone.\" Her father had never worked as an engineer again. He had driven a taxi in town until he died, eleven years ago. His grave was in the small cemetery by the road, under the only tree for kilometres around, and Ilse often stopped there on her way home.",
+   "ru": "«Ему не нужна была слава», — сказала Ильзе. «Он её ненавидел. Он просто хотел знать, одни ли мы». Отец больше никогда не работал инженером. До самой смерти, одиннадцать лет назад, он водил такси в городе. Его могила была на маленьком кладбище у дороги, под единственным деревом на много километров вокруг, и Ильзе часто останавливалась там по пути домой.",
+   "s": [
+    [
+     "\"He didn't want fame,\" Ilse said.",
+     "«Ему не нужна была слава», — сказала Ильзе."
+    ],
+    [
+     "\"He hated it. He just wanted to know if we were alone.\"",
+     "«Он её ненавидел. Он просто хотел знать, одни ли мы»."
+    ],
+    [
+     "Her father had never worked as an engineer again.",
+     "Отец больше никогда не работал инженером."
+    ],
+    [
+     "He had driven a taxi in town until he died, eleven years ago.",
+     "До самой смерти, одиннадцать лет назад, он водил такси в городе."
+    ],
+    [
+     "His grave was in the small cemetery by the road, under the only tree for kilometres around, and Ilse often stopped there on her way home.",
+     "Его могила была на маленьком кладбище у дороги, под единственным деревом на много километров вокруг, и Ильзе часто останавливалась там по пути домой."
+    ]
+   ]
+  },
+  {
+   "en": "Owen was counting on his fingers. \"1982,\" he said slowly. \"Twenty-two years for your message to get there. Twenty-two years for an answer to come back. That's forty-four years. That's this year.\" \"This week,\" Ilse said. \"My birthday was on Sunday.\" They looked at each other. Whoever was out there had needed only two days to answer.",
+   "ru": "Оуэн считал на пальцах. «1982-й», — медленно сказал он. «Двадцать два года, чтобы твоё послание долетело туда. Двадцать два года, чтобы ответ вернулся. Это сорок четыре года. Это как раз этот год». «Эта неделя», — сказала Ильзе. «Мой день рождения был в воскресенье». Они переглянулись. Тому, кто был там, понадобилось всего два дня, чтобы ответить.",
+   "s": [
+    [
+     "Owen was counting on his fingers.",
+     "Оуэн считал на пальцах."
+    ],
+    [
+     "\"1982,\" he said slowly.",
+     "«1982-й», — медленно сказал он."
+    ],
+    [
+     "\"Twenty-two years for your message to get there.",
+     "«Двадцать два года, чтобы твоё послание долетело туда."
+    ],
+    [
+     "Twenty-two years for an answer to come back.",
+     "Двадцать два года, чтобы ответ вернулся."
+    ],
+    [
+     "That's forty-four years. That's this year.\"",
+     "Это сорок четыре года. Это как раз этот год»."
+    ],
+    [
+     "\"This week,\" Ilse said.",
+     "«Эта неделя», — сказала Ильзе."
+    ],
+    [
+     "\"My birthday was on Sunday.\"",
+     "«Мой день рождения был в воскресенье»."
+    ],
+    [
+     "They looked at each other.",
+     "Они переглянулись."
+    ],
+    [
+     "Whoever was out there had needed only two days to answer.",
+     "Тому, кто был там, понадобилось всего два дня, чтобы ответить."
+    ]
+   ]
+  },
+  {
+   "en": "They listened to the rest of the signal again. After her name came the list of numbers that her father had sent, exactly the same, as if someone was saying, \"We received this.\" But after the numbers there was something different: a long, complicated pattern that the computer could not read. And at the very end, so weak that they almost missed it, there was a sound.",
+   "ru": "Они снова прослушали оставшуюся часть сигнала. После её имени шёл список чисел, который отправил её отец, точно такой же, как будто кто-то говорил: «Мы это получили». Но после чисел было нечто другое: длинная сложная последовательность, которую компьютер не мог прочитать. А в самом конце, такой слабый, что они его чуть не пропустили, был звук.",
+   "s": [
+    [
+     "They listened to the rest of the signal again.",
+     "Они снова прослушали оставшуюся часть сигнала."
+    ],
+    [
+     "After her name came the list of numbers that her father had sent, exactly the same, as if someone was saying, \"We received this.\"",
+     "После её имени шёл список чисел, который отправил её отец, точно такой же, как будто кто-то говорил: «Мы это получили»."
+    ],
+    [
+     "But after the numbers there was something different: a long, complicated pattern that the computer could not read.",
+     "Но после чисел было нечто другое: длинная сложная последовательность, которую компьютер не мог прочитать."
+    ],
+    [
+     "And at the very end, so weak that they almost missed it, there was a sound.",
+     "А в самом конце, такой слабый, что они его чуть не пропустили, был звук."
+    ]
+   ]
+  },
+  {
+   "en": "Owen turned up the volume. Through the noise of space, they heard a child's voice. \"Hello. My name is Ilse. I am eight years old. Is anybody there?\" Ilse put her hand over her mouth. It was her own voice, forty-four years younger, coming back to her from the sky.",
+   "ru": "Оуэн прибавил громкость. Сквозь шум космоса они услышали детский голос. «Привет. Меня зовут Ильзе. Мне восемь лет. Там кто-нибудь есть?» Ильзе закрыла рот рукой. Это был её собственный голос, на сорок четыре года моложе, вернувшийся к ней с неба.",
+   "s": [
+    [
+     "Owen turned up the volume.",
+     "Оуэн прибавил громкость."
+    ],
+    [
+     "Through the noise of space, they heard a child's voice.",
+     "Сквозь шум космоса они услышали детский голос."
+    ],
+    [
+     "\"Hello. My name is Ilse. I am eight years old. Is anybody there?\"",
+     "«Привет. Меня зовут Ильзе. Мне восемь лет. Там кто-нибудь есть?»"
+    ],
+    [
+     "Ilse put her hand over her mouth.",
+     "Ильзе закрыла рот рукой."
+    ],
+    [
+     "It was her own voice, forty-four years younger, coming back to her from the sky.",
+     "Это был её собственный голос, на сорок четыре года моложе, вернувшийся к ней с неба."
+    ]
+   ]
+  },
+  {
+   "en": "For a long time neither of them could speak. Then Owen said, \"They're not native speakers of English, are they? They can't understand the words. So they gave them back, to show that they had heard.\"",
+   "ru": "Долгое время ни один из них не мог вымолвить ни слова. Потом Оуэн сказал: «Они ведь не носители английского языка, правда? Они не понимают слов. Поэтому они вернули их, чтобы показать, что услышали».",
+   "s": [
+    [
+     "For a long time neither of them could speak.",
+     "Долгое время ни один из них не мог вымолвить ни слова."
+    ],
+    [
+     "Then Owen said, \"They're not native speakers of English, are they?",
+     "Потом Оуэн сказал: «Они ведь не носители английского языка, правда?"
+    ],
+    [
+     "They can't understand the words.",
+     "Они не понимают слов."
+    ],
+    [
+     "So they gave them back, to show that they had heard.\"",
+     "Поэтому они вернули их, чтобы показать, что услышали»."
+    ]
+   ]
+  },
+  {
+   "en": "At seven o'clock she called the director, Mr Prentiss, and by nine the observatory was full of people. There was a meeting in the small conference room, and then a longer meeting by video with people from the capital whose names she did not catch. Everybody was nervous, and everybody had an opinion. A man from the government said that a reply should only be sent after years of careful discussion.",
+   "ru": "В семь часов она позвонила директору, мистеру Прентиссу, и к девяти обсерватория была полна людей. Сначала было совещание в маленьком конференц-зале, а потом совещание подольше, по видеосвязи, с людьми из столицы, чьих имён она не расслышала. Все нервничали, и у каждого было своё мнение. Человек из правительства сказал, что отвечать следует только после многих лет тщательного обсуждения.",
+   "s": [
+    [
+     "At seven o'clock she called the director, Mr Prentiss, and by nine the observatory was full of people.",
+     "В семь часов она позвонила директору, мистеру Прентиссу, и к девяти обсерватория была полна людей."
+    ],
+    [
+     "There was a meeting in the small conference room, and then a longer meeting by video with people from the capital whose names she did not catch.",
+     "Сначала было совещание в маленьком конференц-зале, а потом совещание подольше, по видеосвязи, с людьми из столицы, чьих имён она не расслышала."
+    ],
+    [
+     "Everybody was nervous, and everybody had an opinion.",
+     "Все нервничали, и у каждого было своё мнение."
+    ],
+    [
+     "A man from the government said that a reply should only be sent after years of careful discussion.",
+     "Человек из правительства сказал, что отвечать следует только после многих лет тщательного обсуждения."
+    ]
+   ]
+  },
+  {
+   "en": "Then Prentiss took her aside. \"You understand what this means for you,\" he said. \"Your name will be in every history book. They'll offer you everything: money, prizes, a job anywhere in the world.\" \"And my father?\" she asked. Prentiss looked away. \"Well, of course he will be mentioned too.\"",
+   "ru": "Потом Прентисс отвёл её в сторону. «Вы же понимаете, что это значит для вас, — сказал он. — Ваше имя будет во всех учебниках истории. Вам предложат всё: деньги, премии, работу в любой точке мира». «А мой отец?» — спросила она. Прентисс отвёл взгляд. «Ну, конечно, его тоже упомянут».",
+   "s": [
+    [
+     "Then Prentiss took her aside.",
+     "Потом Прентисс отвёл её в сторону."
+    ],
+    [
+     "\"You understand what this means for you,\" he said.",
+     "«Вы же понимаете, что это значит для вас, — сказал он."
+    ],
+    [
+     "\"Your name will be in every history book. They'll offer you everything: money, prizes, a job anywhere in the world.\"",
+     "— Ваше имя будет во всех учебниках истории. Вам предложат всё: деньги, премии, работу в любой точке мира»."
+    ],
+    [
+     "\"And my father?\" she asked.",
+     "«А мой отец?» — спросила она."
+    ],
+    [
+     "Prentiss looked away.",
+     "Прентисс отвёл взгляд."
+    ],
+    [
+     "\"Well, of course he will be mentioned too.\"",
+     "«Ну, конечно, его тоже упомянут»."
+    ]
+   ]
+  },
+  {
+   "en": "She went outside. The sun was up now, and the sand was already warm. She tried to imagine the beings on some planet near Kepra who had heard a little girl's voice and decided, after only two days, to answer. Did they have bodies like hers? Did they have children, and birthdays? She would probably never know, and the weight of that thought was almost too much to hold.",
+   "ru": "Она вышла на улицу. Солнце уже взошло, и песок был тёплым. Она попыталась представить себе существ на какой-нибудь планете возле Кепры, которые услышали голос маленькой девочки и всего через два дня решили ответить. Были ли у них тела, похожие на её тело? Были ли у них дети и дни рождения? Скорее всего, она никогда этого не узнает, и груз этой мысли был почти невыносим.",
+   "s": [
+    [
+     "She went outside.",
+     "Она вышла на улицу."
+    ],
+    [
+     "The sun was up now, and the sand was already warm.",
+     "Солнце уже взошло, и песок был тёплым."
+    ],
+    [
+     "She tried to imagine the beings on some planet near Kepra who had heard a little girl's voice and decided, after only two days, to answer.",
+     "Она попыталась представить себе существ на какой-нибудь планете возле Кепры, которые услышали голос маленькой девочки и всего через два дня решили ответить."
+    ],
+    [
+     "Did they have bodies like hers?",
+     "Были ли у них тела, похожие на её тело?"
+    ],
+    [
+     "Did they have children, and birthdays?",
+     "Были ли у них дети и дни рождения?"
+    ],
+    [
+     "She would probably never know, and the weight of that thought was almost too much to hold.",
+     "Скорее всего, она никогда этого не узнает, и груз этой мысли был почти невыносим."
+    ]
+   ]
+  },
+  {
+   "en": "She was upset, but not because of the fame or the money. It was the man from the government and his years of careful discussion. Her father had waited his whole life for an answer, and he had not lived long enough to hear it. Somewhere twenty-two light years away, someone was waiting too.",
+   "ru": "Она была расстроена, но не из-за славы или денег. Дело было в человеке из правительства и его годах тщательного обсуждения. Её отец всю жизнь ждал ответа и не дожил до того, чтобы его услышать. Где-то в двадцати двух световых годах отсюда кто-то тоже ждал.",
+   "s": [
+    [
+     "She was upset, but not because of the fame or the money.",
+     "Она была расстроена, но не из-за славы или денег."
+    ],
+    [
+     "It was the man from the government and his years of careful discussion.",
+     "Дело было в человеке из правительства и его годах тщательного обсуждения."
+    ],
+    [
+     "Her father had waited his whole life for an answer, and he had not lived long enough to hear it.",
+     "Её отец всю жизнь ждал ответа и не дожил до того, чтобы его услышать."
+    ],
+    [
+     "Somewhere twenty-two light years away, someone was waiting too.",
+     "Где-то в двадцати двух световых годах отсюда кто-то тоже ждал."
+    ]
+   ]
+  },
+  {
+   "en": "She went back inside. The voices in the meeting room were louder than ever, and nobody saw her walk past the door. From her pocket she took a small, old microphone. Her father had given it to her after the newspaper article, and she had kept it ever since. She connected it, turned the dish towards Kepra and held down the button.",
+   "ru": "Она вернулась в здание. Голоса в зале совещаний звучали громче прежнего, и никто не увидел, как она прошла мимо двери. Из кармана она достала маленький старый микрофон. Отец отдал его ей после той газетной статьи, и с тех пор она его хранила. Она подключила его, повернула тарелку к Кепре и нажала кнопку.",
+   "s": [
+    [
+     "She went back inside.",
+     "Она вернулась в здание."
+    ],
+    [
+     "The voices in the meeting room were louder than ever, and nobody saw her walk past the door.",
+     "Голоса в зале совещаний звучали громче прежнего, и никто не увидел, как она прошла мимо двери."
+    ],
+    [
+     "From her pocket she took a small, old microphone.",
+     "Из кармана она достала маленький старый микрофон."
+    ],
+    [
+     "Her father had given it to her after the newspaper article, and she had kept it ever since.",
+     "Отец отдал его ей после той газетной статьи, и с тех пор она его хранила."
+    ],
+    [
+     "She connected it, turned the dish towards Kepra and held down the button.",
+     "Она подключила его, повернула тарелку к Кепре и нажала кнопку."
+    ]
+   ]
+  },
+  {
+   "en": "\"Hello again,\" she said. \"My name is Ilse. I am fifty-two years old now. My father, Leonard, sent you my voice. He is gone, but I am still here. Thank you for answering.\"",
+   "ru": "«Привет ещё раз, — сказала она. — Меня зовут Ильзе. Теперь мне пятьдесят два года. Мой голос вам отправил мой отец, Леонард. Его больше нет, но я всё ещё здесь. Спасибо, что ответили».",
+   "s": [
+    [
+     "\"Hello again,\" she said.",
+     "«Привет ещё раз, — сказала она."
+    ],
+    [
+     "\"My name is Ilse. I am fifty-two years old now.",
+     "— Меня зовут Ильзе. Теперь мне пятьдесят два года."
+    ],
+    [
+     "My father, Leonard, sent you my voice.",
+     "Мой голос вам отправил мой отец, Леонард."
+    ],
+    [
+     "He is gone, but I am still here.",
+     "Его больше нет, но я всё ещё здесь."
+    ],
+    [
+     "Thank you for answering.\"",
+     "Спасибо, что ответили»."
+    ]
+   ]
+  },
+  {
+   "en": "Of course there was trouble. Prentiss shouted, the man from the government shouted even louder, and for a few hours Ilse was sure that she would lose her job, just like her father. But her message was already on its way, travelling at the speed of light, and nobody in the world could call it back.",
+   "ru": "Конечно, начались неприятности. Прентисс кричал, человек из правительства кричал ещё громче, и несколько часов Ильзе была уверена, что потеряет работу, как и её отец. Но её послание было уже в пути, летело со скоростью света, и никто в мире не мог его вернуть.",
+   "s": [
+    [
+     "Of course there was trouble.",
+     "Конечно, начались неприятности."
+    ],
+    [
+     "Prentiss shouted, the man from the government shouted even louder, and for a few hours Ilse was sure that she would lose her job, just like her father.",
+     "Прентисс кричал, человек из правительства кричал ещё громче, и несколько часов Ильзе была уверена, что потеряет работу, как и её отец."
+    ],
+    [
+     "But her message was already on its way, travelling at the speed of light, and nobody in the world could call it back.",
+     "Но её послание было уже в пути, летело со скоростью света, и никто в мире не мог его вернуть."
+    ]
+   ]
+  },
+  {
+   "en": "That evening, on the road home, she stopped at the cemetery. She sat down on the warm ground next to her father's grave, under the tree, and watched the first stars come out. \"They heard us, Dad,\" she said. In forty-four years, if she was very lucky, she would be ninety-six, and the next answer would arrive. She was curious enough to wait.",
+   "ru": "В тот вечер, по дороге домой, она остановилась у кладбища. Она села на тёплую землю рядом с могилой отца, под деревом, и смотрела, как появляются первые звёзды. «Они нас услышали, папа», — сказала она. Через сорок четыре года, если ей очень повезёт, ей будет девяносто шесть, и придёт следующий ответ. Ей было достаточно любопытно, чтобы дождаться.",
+   "s": [
+    [
+     "That evening, on the road home, she stopped at the cemetery.",
+     "В тот вечер, по дороге домой, она остановилась у кладбища."
+    ],
+    [
+     "She sat down on the warm ground next to her father's grave, under the tree, and watched the first stars come out.",
+     "Она села на тёплую землю рядом с могилой отца, под деревом, и смотрела, как появляются первые звёзды."
+    ],
+    [
+     "\"They heard us, Dad,\" she said.",
+     "«Они нас услышали, папа», — сказала она."
+    ],
+    [
+     "In forty-four years, if she was very lucky, she would be ninety-six, and the next answer would arrive.",
+     "Через сорок четыре года, если ей очень повезёт, ей будет девяносто шесть, и придёт следующий ответ."
+    ],
+    [
+     "She was curious enough to wait.",
+     "Ей было достаточно любопытно, чтобы дождаться."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, об",
+  "across": "через, по",
+  "after": "после",
+  "again": "снова",
+  "ago": "назад",
+  "all": "все, весь; совсем (at all)",
+  "almost": "почти",
+  "alone": "один, одна",
+  "already": "уже",
+  "always": "всегда",
+  "am": "(есть) — я",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "answer": "отвечать",
+  "answering": "ответить, отвечать",
+  "anybody": "кто-нибудь",
+  "anymore": "больше (не), уже (не)",
+  "anyone": "кто-нибудь",
+  "anything": "что-нибудь",
+  "anywhere": "где угодно",
+  "appeared": "появлялись",
+  "are": "(есть) — вы/они",
+  "around": "вокруг, по",
+  "arrive": "прийти, прибыть",
+  "arrived": "приехал",
+  "article": "статья",
+  "as": "как, так как",
+  "aside": "в сторону",
+  "asked": "спросил(а)",
+  "astronomers": "астрономы",
+  "at": "в, у, на",
+  "away": "далеко; прочь (look away — отвести взгляд)",
+  "b": "буква B",
+  "back": "назад",
+  "be": "быть",
+  "because": "потому что",
+  "been": "был(о)",
+  "beep": "писк, сигнал",
+  "before": "до, прежде чем",
+  "began": "начал(а)",
+  "beginning": "начало",
+  "behavior": "поведение",
+  "beings": "существа",
+  "believed": "верил",
+  "belonged": "принадлежал",
+  "below": "под, ниже",
+  "birthday": "день рождения",
+  "birthdays": "дни рождения",
+  "bodies": "тела",
+  "book": "книга, учебник",
+  "boring": "скучный",
+  "bottle": "бутылка",
+  "break": "избавиться (от привычки)",
+  "brought": "привёз",
+  "but": "но",
+  "butter": "масло",
+  "button": "кнопка",
+  "by": "у; к; по (by video — по видеосвязи)",
+  "c": "буква C",
+  "call": "вернуть (call back)",
+  "called": "под названием; позвонила; называли",
+  "came": "пришёл, пришли",
+  "can't": "не может, нельзя",
+  "capital": "столица",
+  "careful": "осторожный, тщательный",
+  "catch": "расслышать",
+  "cemetery": "кладбище",
+  "changed": "изменил",
+  "checked": "проверила",
+  "child's": "детский",
+  "children": "дети",
+  "children's": "детский",
+  "christmas": "Рождество",
+  "climb": "взбираться, подниматься",
+  "climbed": "взбиралась",
+  "clouds": "облака",
+  "code": "код",
+  "cold": "замёрзший, холодный",
+  "come": "прийти, вернуться; появиться (come out)",
+  "coming": "шёл; ехать",
+  "compared": "сравнил",
+  "complicated": "сложный",
+  "computer": "компьютер",
+  "computer's": "компьютера",
+  "conference": "конференц- (conference room — конференц-зал)",
+  "connected": "подключила",
+  "corner": "угол",
+  "corvo": "Корво (название места)",
+  "could": "мог(ла)",
+  "counting": "считал",
+  "course": "курс (of course — конечно)",
+  "curious": "любопытный",
+  "dad": "папа",
+  "day": "день",
+  "days": "дни",
+  "decided": "решили",
+  "desert": "пустыня",
+  "desk": "письменный стол",
+  "did": "сделал; (вспом. гл.)",
+  "didn't": "не (прош. вр.)",
+  "died": "умер(ла)",
+  "different": "другой, не такой",
+  "director": "директор",
+  "discussion": "обсуждение",
+  "dish": "тарелка (антенны)",
+  "do": "(вспом. гл.)",
+  "doesn't": "не (вспом.)",
+  "door": "дверь",
+  "down": "вниз",
+  "dr": "доктор",
+  "driven": "водил",
+  "driver": "водитель",
+  "dry": "сухой",
+  "dying": "умирающий",
+  "e": "буква E",
+  "each": "друг (each other)",
+  "ear": "ухо",
+  "earth": "Земля",
+  "east": "восток",
+  "eight": "восемь",
+  "eighth": "восьмой",
+  "electricity": "электричество",
+  "eleven": "одиннадцать",
+  "embarrassed": "смущённый",
+  "end": "конец",
+  "engineer": "инженер",
+  "english": "английский",
+  "enough": "достаточно",
+  "even": "даже",
+  "evening": "вечер",
+  "ever": "когда-либо (ever since — с тех пор)",
+  "every": "каждый",
+  "everybody": "все",
+  "everything": "всё",
+  "exact": "точный",
+  "exactly": "точно",
+  "excited": "взволнованный",
+  "exciting": "захватывающий",
+  "expensive": "дорогой",
+  "explained": "объяснила",
+  "explanation": "объяснение",
+  "eyes": "глаза",
+  "face": "лицо",
+  "fake": "подделать",
+  "fame": "слава",
+  "father": "отец",
+  "father's": "отца",
+  "felt": "почувствовала; казались",
+  "few": "несколько",
+  "fifty": "пятьдесят",
+  "fingers": "пальцы",
+  "first": "первый; сначала",
+  "five": "пять",
+  "flat": "ровный",
+  "flats": "Флэтс (часть названия места)",
+  "for": "для, в течение",
+  "forty": "сорок",
+  "found": "нашёл, нашли",
+  "four": "четыре",
+  "from": "из, от",
+  "front": "передний; (in front of — перед)",
+  "full": "полный",
+  "funny": "насмешливый, смешной",
+  "gas": "газ",
+  "gave": "дал; издал (звук)",
+  "get": "добраться; (get excited — разволноваться)",
+  "girl": "девочка",
+  "girl's": "девочки",
+  "given": "дал",
+  "glasses": "очки",
+  "go": "стать (go dry — пересохнуть); ехать",
+  "gone": "ушёл (из жизни)",
+  "government": "правительство",
+  "grave": "могила",
+  "great": "огромный",
+  "green": "зелёный",
+  "grey": "серый",
+  "ground": "земля",
+  "groups": "группы",
+  "guilty": "виновный",
+  "habit": "привычка",
+  "had": "(вспом. гл.); было",
+  "hand": "рука",
+  "hated": "ненавидела",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "hear": "слышать",
+  "heard": "слышала, услышали",
+  "held": "держала (held down — нажала)",
+  "hello": "привет, здравствуйте",
+  "her": "её, ей",
+  "here": "здесь",
+  "hers": "её",
+  "hidden": "спрятал",
+  "him": "его, ему",
+  "his": "его",
+  "history": "история",
+  "hold": "держать",
+  "holding": "держа",
+  "home": "домой",
+  "hours": "часы, часа",
+  "how": "как",
+  "huge": "огромный",
+  "hummed": "гудел",
+  "hung": "повесил (hung up — повесил трубку)",
+  "i": "я; буква I",
+  "i'm": "я (есть)",
+  "if": "если, ли",
+  "illegal": "незаконный",
+  "ilse": "Ильзе (имя)",
+  "imagine": "представить",
+  "important": "важный",
+  "in": "в",
+  "inside": "внутрь (inside out — наизнанку)",
+  "is": "есть, является",
+  "it": "он, оно, это",
+  "it's": "это",
+  "its": "его, её",
+  "job": "работа",
+  "joke": "розыгрыш (play a joke — разыгрывать)",
+  "jokes": "розыгрыши",
+  "jump": "прыгать",
+  "just": "просто",
+  "kepra": "Кепра (название звезды)",
+  "kept": "хранила",
+  "keys": "клавиши",
+  "kilometres": "километров",
+  "kitchen": "кухня",
+  "know": "знать",
+  "known": "знали",
+  "l": "буква L",
+  "ladder": "лестница (приставная)",
+  "last": "прошлый",
+  "later": "позже",
+  "laughed": "смеялись",
+  "laughing": "смеялся",
+  "left": "оставшийся (left over); вышел",
+  "leonard": "Леонард (имя)",
+  "let": "разрешил",
+  "life": "жизнь",
+  "light": "свет; световой (light years)",
+  "like": "как, словно; нравиться",
+  "liked": "нравилось",
+  "line": "линия",
+  "list": "список",
+  "listened": "слушала",
+  "little": "маленький, немного",
+  "lived": "жил",
+  "long": "долго, долгий",
+  "longer": "дольше",
+  "look": "смотреть; искать (look for)",
+  "looked": "посмотрела; (looked up — подняла глаза)",
+  "looking": "смотрела",
+  "lose": "потерять",
+  "lost": "потерял",
+  "louder": "громче",
+  "lucky": "везучий (be lucky — повезти)",
+  "machine": "машина, аппарат",
+  "made": "сделала",
+  "main": "главный",
+  "malik": "Малик (фамилия)",
+  "man": "мужчина",
+  "maps": "карты",
+  "march": "март",
+  "matter": "иметь значение",
+  "matters": "имеет значение",
+  "me": "меня, мне",
+  "means": "значит",
+  "meant": "означало",
+  "meeting": "совещание",
+  "mentioned": "упомянут",
+  "message": "сообщение",
+  "metal": "металлический",
+  "microphone": "микрофон",
+  "microwave": "микроволновая (microwave oven — микроволновка)",
+  "midnight": "полночь",
+  "minutes": "минуты",
+  "missed": "пропустили",
+  "missing": "недостающий (missing tooth — без зуба)",
+  "money": "деньги",
+  "morning": "утро",
+  "most": "большинство",
+  "mouth": "рот",
+  "moving": "двигался",
+  "mr": "мистер",
+  "much": "много (too much)",
+  "my": "мой",
+  "name": "имя",
+  "names": "имена",
+  "narrow": "узкий",
+  "native": "родной",
+  "natural": "естественный",
+  "near": "возле, у",
+  "nearest": "ближайший",
+  "need": "понадобиться (you would need)",
+  "needed": "понадобилось",
+  "neither": "ни один",
+  "nervous": "нервный",
+  "never": "никогда",
+  "new": "новый",
+  "newspaper": "газета",
+  "next": "следующий; рядом (next to)",
+  "night": "ночь",
+  "nights": "ночи",
+  "nine": "девять",
+  "nineteen": "девятнадцать",
+  "ninety": "девяносто",
+  "no": "нет",
+  "nobody": "никто",
+  "noise": "шум",
+  "not": "не",
+  "nothing": "ничего",
+  "noticed": "замечал",
+  "now": "теперь",
+  "numbers": "числа",
+  "o'clock": "часов",
+  "observatory": "обсерватория",
+  "of": "из, о, (род. падеж)",
+  "offer": "предложить",
+  "often": "часто",
+  "old": "старый",
+  "on": "на",
+  "once": "однажды",
+  "one": "один, одна",
+  "only": "только",
+  "opinion": "мнение",
+  "or": "или",
+  "orange": "оранжевый",
+  "other": "друг друга (each other)",
+  "out": "наружу; там (out there)",
+  "outside": "на улицу",
+  "oven": "печка, духовка",
+  "over": "поверх (hand over mouth); (left over — оставшийся)",
+  "owen": "Оуэн (имя)",
+  "own": "собственный",
+  "paper": "бумага, листок",
+  "part": "часть",
+  "past": "мимо",
+  "pattern": "закономерность, последовательность",
+  "pause": "пауза",
+  "people": "люди",
+  "permission": "разрешение",
+  "phoned": "позвонил",
+  "photograph": "фотография",
+  "piece": "кусок",
+  "pirate": "пират",
+  "plane": "самолёт",
+  "planes": "самолёты",
+  "planet": "планета",
+  "planets": "планеты",
+  "plastic": "пластиковый",
+  "platform": "платформа",
+  "play": "устраивать (шутки)",
+  "playing": "разыгрывать (play a joke)",
+  "pocket": "карман",
+  "point": "точка",
+  "position": "положение",
+  "prentiss": "Прентисс (фамилия)",
+  "pressed": "нажала",
+  "prizes": "премии",
+  "probably": "вероятно",
+  "program": "программа",
+  "proud": "гордый",
+  "pulses": "импульсы",
+  "put": "приложила; надел",
+  "quiet": "тихий",
+  "quietly": "тихо",
+  "quite": "довольно",
+  "radio": "радио",
+  "raised": "повысила (raised her voice)",
+  "read": "прочитать",
+  "received": "получили",
+  "refrigerator": "холодильник",
+  "remember": "помнить",
+  "repeating": "повторялись",
+  "reply": "отвечать",
+  "reputation": "репутация",
+  "rest": "остальная часть, остаток",
+  "reyhill": "Рейхилл (фамилия)",
+  "road": "дорога",
+  "rocks": "камни, скалы",
+  "room": "комната",
+  "s": "буква S",
+  "said": "сказал(а)",
+  "same": "тот же",
+  "sand": "песок",
+  "sat": "сидела",
+  "satellite": "спутник",
+  "satellites": "спутники",
+  "saw": "увидел",
+  "say": "говорить",
+  "saying": "говорил, называл",
+  "school": "школа",
+  "screen": "экран",
+  "screens": "экраны",
+  "second": "второй",
+  "sent": "отправил(а)",
+  "seven": "семь",
+  "she": "она",
+  "shift": "смена",
+  "shining": "блестящий",
+  "shirt": "рубашка",
+  "shoes": "ботинки",
+  "short": "короткий",
+  "should": "должен",
+  "shouted": "кричал(а)",
+  "show": "показывать",
+  "showed": "показывала (на фото)",
+  "signal": "сигнал",
+  "signals": "сигналы",
+  "silence": "молчание",
+  "simple": "простой",
+  "simplest": "самый простой",
+  "since": "с тех пор",
+  "six": "шесть",
+  "sky": "небо",
+  "sleepy": "сонный",
+  "slowly": "медленно",
+  "small": "маленький",
+  "snake": "змея",
+  "so": "поэтому; так",
+  "soft": "тихий",
+  "some": "некоторые; какой-нибудь",
+  "someone": "кто-то",
+  "something": "что-то",
+  "somewhere": "где-то",
+  "sorry": "прости",
+  "sound": "звук",
+  "space": "космос",
+  "speak": "говорить",
+  "speakers": "носители (native speakers — носители языка)",
+  "speed": "скорость",
+  "spoke": "говорил",
+  "star": "звезда",
+  "stared": "пристально смотрела",
+  "stars": "звёзды",
+  "started": "начала",
+  "still": "всё ещё, до сих пор",
+  "stolen": "украл",
+  "stood": "стоял",
+  "stopped": "останавливалась",
+  "strange": "странный",
+  "strong": "сильный",
+  "stupid": "глупый",
+  "summer": "лето",
+  "sun": "солнце",
+  "sunday": "воскресенье",
+  "sure": "уверена",
+  "swear": "клянусь",
+  "talked": "говорила",
+  "talking": "говорить",
+  "tall": "высокий",
+  "taught": "учили",
+  "taxi": "такси",
+  "technician": "техник",
+  "telescope": "телескоп",
+  "television": "телевидение",
+  "tell": "сказать",
+  "ten": "десять",
+  "than": "чем",
+  "thank": "благодарить (thank you — спасибо)",
+  "that": "что; тот, это",
+  "that's": "это (есть)",
+  "the": "(опр. артикль)",
+  "them": "их",
+  "then": "потом, тогда",
+  "there": "там",
+  "they": "они",
+  "they'll": "они (будут)",
+  "they're": "они (есть)",
+  "thief": "вор",
+  "thin": "тонкий",
+  "thing": "вещь",
+  "this": "этот",
+  "thought": "мысль",
+  "three": "три",
+  "through": "через, сквозь",
+  "time": "время; раз (one at a time — по одному)",
+  "tiny": "крошечный",
+  "to": "к, в; (частица)",
+  "toast": "тост, поджаренный хлеб",
+  "together": "вместе",
+  "told": "сказала",
+  "too": "слишком",
+  "took": "взяла; достала; отвёл (took aside)",
+  "tooth": "зуб",
+  "towards": "к, по направлению к",
+  "town": "город",
+  "transmitter": "передатчик",
+  "travelling": "летящий, путешествующий",
+  "tree": "дерево",
+  "tried": "пыталась",
+  "trouble": "неприятности",
+  "truck": "грузовик",
+  "tuesday": "вторник",
+  "turn": "стать (turn grey — сереть)",
+  "turned": "поворачивалась; повернула; (turned up — прибавил)",
+  "twelve": "двенадцать",
+  "twenty": "двадцать",
+  "two": "два",
+  "under": "под",
+  "understand": "понимать",
+  "understood": "поняла",
+  "universe": "Вселенная",
+  "until": "до",
+  "up": "вверх; (sun was up — солнце взошло)",
+  "upset": "расстроенный",
+  "us": "нас",
+  "use": "пользоваться",
+  "used": "использовал, занял",
+  "usually": "обычно",
+  "very": "очень",
+  "video": "видеосвязь",
+  "voice": "голос",
+  "voices": "голоса",
+  "volume": "громкость",
+  "wait": "ждать, дождаться",
+  "waited": "ждал",
+  "waiting": "ждал",
+  "walk": "пройти",
+  "wall": "стена",
+  "want": "хотеть",
+  "wanted": "хотел(а)",
+  "warm": "тёплый",
+  "was": "был(а)",
+  "watched": "смотрела",
+  "water": "вода",
+  "waves": "волны",
+  "way": "путь (on its way); так, как (the way)",
+  "we": "мы",
+  "weak": "слабый",
+  "week": "неделя",
+  "weeks": "недели",
+  "weight": "вес, тяжесть",
+  "well": "ну",
+  "went": "стало (went white); вышла",
+  "were": "были",
+  "what": "что",
+  "when": "когда",
+  "which": "который, что",
+  "white": "белый",
+  "who": "кто, который",
+  "whoever": "тот, кто",
+  "whole": "весь",
+  "whose": "чей",
+  "will": "будет",
+  "with": "с",
+  "words": "слова",
+  "work": "работа",
+  "worked": "работал(а)",
+  "world": "мир",
+  "would": "бы; (буд. в прош.)",
+  "wrote": "написала; записала",
+  "year": "год",
+  "years": "лет, годы",
+  "you": "вы, ты",
+  "young": "молодой",
+  "younger": "моложе",
+  "your": "ваш"
+ },
+ "vocab": {
+  "climbed": 204,
+  "climb": 204,
+  "sand": 276,
+  "anything": 211,
+  "often": 81,
+  "habit": 473,
+  "fame": 501,
+  "raised": 632,
+  "thief": 350,
+  "pocket": 355,
+  "offer": 270,
+  "until": 606,
+  "hold": 175,
+  "holding": 175,
+  "held": 175,
+  "grave": 437,
+  "imagine": 380,
+  "clouds": 122,
+  "butter": 56,
+  "curious": 494,
+  "weight": 333,
+  "expensive": 301,
+  "tree": 69,
+  "screen": 234,
+  "screens": 234,
+  "meeting": 322,
+  "almost": 324,
+  "native": 43,
+  "speakers": 43,
+  "different": 342,
+  "received": 214,
+  "pressed": 522,
+  "refrigerator": 130,
+  "road": 409,
+  "should": 162,
+  "embarrassed": 490,
+  "means": 280,
+  "meant": 280,
+  "matter": 250,
+  "matters": 250,
+  "upset": 252,
+  "mouth": 198,
+  "behavior": 585
+ }
+}

@@ -1,0 +1,1313 @@
+{
+ "id": 100,
+ "level": "B1",
+ "title_en": "The Endings on Orchard Street",
+ "title_ru": "Концовки с Орчард-стрит",
+ "genre": "Фэнтези",
+ "summary_ru": "В старой библиотеке книги по ночам сами переписывают свои концовки, и новая библиотекарша Майя пытается понять, чьё желание заставляет их меняться.",
+ "paragraphs": [
+  {
+   "en": "The first complaint came on a wet Monday in March. A tall woman in a green raincoat put a book down on the desk so hard that Maya jumped. \"This is the wrong book,\" she said. Maya looked at the cover: The Gardener's Silence, an old detective novel. \"It's the title you asked for,\" she said carefully. \"It's the right title, but it's the wrong ending,\" said the woman. \"I read this ten years ago, and the killer was the gardener. Now it's the cook! I've spent a whole week on it for nothing.\"",
+   "ru": "Первая жалоба поступила в дождливый понедельник в марте. Высокая женщина в зелёном плаще так резко положила книгу на стойку, что Майя вздрогнула. «Это не та книга», — сказала она. Майя взглянула на обложку: «Молчание садовника», старый детективный роман. «Это та книга, которую вы просили», — осторожно сказала она. «Название то, а концовка не та», — сказала женщина. «Я читала её десять лет назад, и убийцей был садовник. А теперь — кухарка! Я целую неделю потратила на неё впустую».",
+   "s": [
+    [
+     "The first complaint came on a wet Monday in March.",
+     "Первая жалоба поступила в дождливый понедельник в марте."
+    ],
+    [
+     "A tall woman in a green raincoat put a book down on the desk so hard that Maya jumped.",
+     "Высокая женщина в зелёном плаще так резко положила книгу на стойку, что Майя вздрогнула."
+    ],
+    [
+     "\"This is the wrong book,\" she said.",
+     "«Это не та книга», — сказала она."
+    ],
+    [
+     "Maya looked at the cover: The Gardener's Silence, an old detective novel.",
+     "Майя взглянула на обложку: «Молчание садовника», старый детективный роман."
+    ],
+    [
+     "\"It's the title you asked for,\" she said carefully.",
+     "«Это та книга, которую вы просили», — осторожно сказала она."
+    ],
+    [
+     "\"It's the right title, but it's the wrong ending,\" said the woman.",
+     "«Название то, а концовка не та», — сказала женщина."
+    ],
+    [
+     "\"I read this ten years ago, and the killer was the gardener.",
+     "«Я читала её десять лет назад, и убийцей был садовник."
+    ],
+    [
+     "Now it's the cook!",
+     "А теперь — кухарка!"
+    ],
+    [
+     "I've spent a whole week on it for nothing.\"",
+     "Я целую неделю потратила на неё впустую»."
+    ]
+   ]
+  },
+  {
+   "en": "Maya promised to look into it, and the woman left, still annoyed. There had to be a simple explanation: a new edition, perhaps, or a mistake in the woman's memory. But that afternoon, a second reader returned a book with the same kind of complaint, and on Wednesday there was a third.",
+   "ru": "Майя пообещала разобраться, и женщина ушла, всё ещё раздражённая. Наверняка было простое объяснение: может быть, новое издание или ошибка в памяти этой женщины. Но в тот же день второй читатель вернул книгу с похожей жалобой, а в среду появился и третий.",
+   "s": [
+    [
+     "Maya promised to look into it, and the woman left, still annoyed.",
+     "Майя пообещала разобраться, и женщина ушла, всё ещё раздражённая."
+    ],
+    [
+     "There had to be a simple explanation: a new edition, perhaps, or a mistake in the woman's memory.",
+     "Наверняка было простое объяснение: может быть, новое издание или ошибка в памяти этой женщины."
+    ],
+    [
+     "But that afternoon, a second reader returned a book with the same kind of complaint, and on Wednesday there was a third.",
+     "Но в тот же день второй читатель вернул книгу с похожей жалобой, а в среду появился и третий."
+    ]
+   ]
+  },
+  {
+   "en": "Maya Ferris had worked at the Orchard Street Library for only six weeks. It was an old building with dark wooden shelves so high that you needed a ladder to reach the top, a staff room with a sofa and a refrigerator that made strange noises, and a basement below the reading room full of books that nobody had borrowed for fifty years. She had taken the job because it was quiet. Since her brother Joel had died the autumn before, quiet was what she needed. She had one strange habit, which Joel used to laugh at: before she put a returned book back on the shelf, she always read its last page.",
+   "ru": "Майя Феррис работала в библиотеке на Орчард-стрит всего шесть недель. Это было старое здание с тёмными деревянными стеллажами такой высоты, что до верхних полок можно было дотянуться только с лестницы, с комнатой для персонала, где стояли диван и холодильник, издававший странные звуки, и с подвалом под читальным залом, полным книг, которые никто не брал уже пятьдесят лет. Она согласилась на эту работу, потому что здесь было тихо. С тех пор как прошлой осенью умер её брат Джоэл, ей нужна была именно тишина. У неё была одна странная привычка, над которой раньше смеялся Джоэл: прежде чем поставить возвращённую книгу на полку, она всегда читала её последнюю страницу.",
+   "s": [
+    [
+     "Maya Ferris had worked at the Orchard Street Library for only six weeks.",
+     "Майя Феррис работала в библиотеке на Орчард-стрит всего шесть недель."
+    ],
+    [
+     "It was an old building with dark wooden shelves so high that you needed a ladder to reach the top, a staff room with a sofa and a refrigerator that made strange noises, and a basement below the reading room full of books that nobody had borrowed for fifty years.",
+     "Это было старое здание с тёмными деревянными стеллажами такой высоты, что до верхних полок можно было дотянуться только с лестницы, с комнатой для персонала, где стояли диван и холодильник, издававший странные звуки, и с подвалом под читальным залом, полным книг, которые никто не брал уже пятьдесят лет."
+    ],
+    [
+     "She had taken the job because it was quiet.",
+     "Она согласилась на эту работу, потому что здесь было тихо."
+    ],
+    [
+     "Since her brother Joel had died the autumn before, quiet was what she needed.",
+     "С тех пор как прошлой осенью умер её брат Джоэл, ей нужна была именно тишина."
+    ],
+    [
+     "She had one strange habit, which Joel used to laugh at: before she put a returned book back on the shelf, she always read its last page.",
+     "У неё была одна странная привычка, над которой раньше смеялся Джоэл: прежде чем поставить возвращённую книгу на полку, она всегда читала её последнюю страницу."
+    ]
+   ]
+  },
+  {
+   "en": "She did not talk about Joel. Not to her colleagues, not to her mother, not even to herself if she could help it. On his last evening they had argued on the phone about something stupid, and she had said something cruel and ended the call. Two hours later, his motorbike had come off a wet road. She had never had the chance to take her words back. The guilt sat in her chest like a stone, and she carried it everywhere.",
+   "ru": "О Джоэле она не говорила. Ни с коллегами, ни с матерью, ни даже сама с собой, если могла этого избежать. В его последний вечер они поругались по телефону из-за какой-то глупости, и она сказала ему что-то жестокое и бросила трубку. Через два часа его мотоцикл вылетел с мокрой дороги. У неё так и не было возможности забрать свои слова назад. Чувство вины лежало у неё в груди, как камень, и она повсюду носила его с собой.",
+   "s": [
+    [
+     "She did not talk about Joel.",
+     "О Джоэле она не говорила."
+    ],
+    [
+     "Not to her colleagues, not to her mother, not even to herself if she could help it.",
+     "Ни с коллегами, ни с матерью, ни даже сама с собой, если могла этого избежать."
+    ],
+    [
+     "On his last evening they had argued on the phone about something stupid, and she had said something cruel and ended the call.",
+     "В его последний вечер они поругались по телефону из-за какой-то глупости, и она сказала ему что-то жестокое и бросила трубку."
+    ],
+    [
+     "Two hours later, his motorbike had come off a wet road.",
+     "Через два часа его мотоцикл вылетел с мокрой дороги."
+    ],
+    [
+     "She had never had the chance to take her words back.",
+     "У неё так и не было возможности забрать свои слова назад."
+    ],
+    [
+     "The guilt sat in her chest like a stone, and she carried it everywhere.",
+     "Чувство вины лежало у неё в груди, как камень, и она повсюду носила его с собой."
+    ]
+   ]
+  },
+  {
+   "en": "The head librarian, Mr Abernathy, was a thin old man with silver glasses and a soft voice. He had worked at Orchard Street for forty-one years. When Maya told him about the complaints, he did not look surprised at all. \"Ah,\" he said, as if she had told him that it was raining. \"It's started again, has it?\" Then he went back to his tea and refused to explain. His calm attitude annoyed her more than the complaints did.",
+   "ru": "Заведующий библиотекой, мистер Абернати, был худым стариком в серебристых очках и с тихим голосом. Он проработал на Орчард-стрит сорок один год. Когда Майя рассказала ему о жалобах, он ничуть не удивился. «А», — сказал он так, будто она сообщила ему, что идёт дождь. «Значит, опять началось?» Потом он вернулся к своему чаю и отказался что-либо объяснять. Его спокойное отношение раздражало её больше, чем сами жалобы.",
+   "s": [
+    [
+     "The head librarian, Mr Abernathy, was a thin old man with silver glasses and a soft voice.",
+     "Заведующий библиотекой, мистер Абернати, был худым стариком в серебристых очках и с тихим голосом."
+    ],
+    [
+     "He had worked at Orchard Street for forty-one years.",
+     "Он проработал на Орчард-стрит сорок один год."
+    ],
+    [
+     "When Maya told him about the complaints, he did not look surprised at all.",
+     "Когда Майя рассказала ему о жалобах, он ничуть не удивился."
+    ],
+    [
+     "\"Ah,\" he said, as if she had told him that it was raining.",
+     "«А», — сказал он так, будто она сообщила ему, что идёт дождь."
+    ],
+    [
+     "\"It's started again, has it?\"",
+     "«Значит, опять началось?»"
+    ],
+    [
+     "Then he went back to his tea and refused to explain.",
+     "Потом он вернулся к своему чаю и отказался что-либо объяснять."
+    ],
+    [
+     "His calm attitude annoyed her more than the complaints did.",
+     "Его спокойное отношение раздражало её больше, чем сами жалобы."
+    ]
+   ]
+  },
+  {
+   "en": "So Maya decided to investigate. That evening, after the library had closed, she sat on the sofa in the staff room with the three returned books and three copies that she had borrowed from another library across town. In each pair, the last chapter was different. Yet the new words looked old and printed, exactly like the rest of the book. There were no new pages and no glue; the new ending fit the old paper perfectly.",
+   "ru": "Поэтому Майя решила провести расследование. В тот вечер, когда библиотека закрылась, она села на диван в комнате для персонала с тремя возвращёнными книгами и тремя экземплярами, которые взяла в другой библиотеке на другом конце города. В каждой паре последняя глава отличалась. Однако новые слова выглядели старыми и напечатанными, точно как остальная книга. Не было ни новых страниц, ни клея; новая концовка идеально подходила к старой бумаге.",
+   "s": [
+    [
+     "So Maya decided to investigate.",
+     "Поэтому Майя решила провести расследование."
+    ],
+    [
+     "That evening, after the library had closed, she sat on the sofa in the staff room with the three returned books and three copies that she had borrowed from another library across town.",
+     "В тот вечер, когда библиотека закрылась, она села на диван в комнате для персонала с тремя возвращёнными книгами и тремя экземплярами, которые взяла в другой библиотеке на другом конце города."
+    ],
+    [
+     "In each pair, the last chapter was different.",
+     "В каждой паре последняя глава отличалась."
+    ],
+    [
+     "Yet the new words looked old and printed, exactly like the rest of the book.",
+     "Однако новые слова выглядели старыми и напечатанными, точно как остальная книга."
+    ],
+    [
+     "There were no new pages and no glue; the new ending fit the old paper perfectly.",
+     "Не было ни новых страниц, ни клея; новая концовка идеально подходила к старой бумаге."
+    ]
+   ]
+  },
+  {
+   "en": "In the detective novel, the murderer had changed. In a love story, a handsome soldier who used to die in the last chapter now came home. And in a jungle adventure called The Green Snake, the snake that had once bitten the hero now slid away into the grass.",
+   "ru": "В детективе сменился убийца. В любовном романе красивый солдат, который раньше погибал в последней главе, теперь возвращался домой. А в приключенческой повести о джунглях под названием «Зелёная змея» змея, которая когда-то кусала героя, теперь уползала в траву.",
+   "s": [
+    [
+     "In the detective novel, the murderer had changed.",
+     "В детективе сменился убийца."
+    ],
+    [
+     "In a love story, a handsome soldier who used to die in the last chapter now came home.",
+     "В любовном романе красивый солдат, который раньше погибал в последней главе, теперь возвращался домой."
+    ],
+    [
+     "And in a jungle adventure called The Green Snake, the snake that had once bitten the hero now slid away into the grass.",
+     "А в приключенческой повести о джунглях под названием «Зелёная змея» змея, которая когда-то кусала героя, теперь уползала в траву."
+    ]
+   ]
+  },
+  {
+   "en": "She found the next clue in the borrowing records. All three books had been borrowed in the past month by the same reader: Rafi, aged eleven. Maya knew him well. He was a small boy with big glasses who came every day after school and read on the old sofa in the children's corner until his mother came to collect him after work. He read everything, from books about dinosaurs to thick novels for adults.",
+   "ru": "Следующую зацепку она нашла в записях о выдаче книг. Все три книги в прошлом месяце брал один и тот же читатель: Рафи, одиннадцати лет. Майя хорошо его знала. Это был маленький мальчик в больших очках, который приходил каждый день после школы и читал на старом диване в детском уголке пока мама не забирала его после работы. Он читал всё подряд — от книг про динозавров до толстых романов для взрослых.",
+   "s": [
+    [
+     "She found the next clue in the borrowing records.",
+     "Следующую зацепку она нашла в записях о выдаче книг."
+    ],
+    [
+     "All three books had been borrowed in the past month by the same reader: Rafi, aged eleven.",
+     "Все три книги в прошлом месяце брал один и тот же читатель: Рафи, одиннадцати лет."
+    ],
+    [
+     "Maya knew him well.",
+     "Майя хорошо его знала."
+    ],
+    [
+     "He was a small boy with big glasses who came every day after school and read on the old sofa in the children's corner until his mother came to collect him after work.",
+     "Это был маленький мальчик в больших очках, который приходил каждый день после школы и читал на старом диване в детском уголке пока мама не забирала его после работы."
+    ],
+    [
+     "He read everything, from books about dinosaurs to thick novels for adults.",
+     "Он читал всё подряд — от книг про динозавров до толстых романов для взрослых."
+    ]
+   ]
+  },
+  {
+   "en": "The next afternoon, she sat down next to him. \"Rafi, have you noticed anything strange about the books here?\" He looked up instantly, his eyes shining behind his glasses. \"The endings!\" he said. \"You've noticed too? I thought I was going crazy. In The Green Snake, the snake always bites Captain Ellery and he nearly dies, and that's the best part. Now it just goes away. It's ruined.\" He seemed more angry than frightened. \"Somebody is changing them,\" he whispered, \"and they've got terrible taste.\"",
+   "ru": "На следующий день она подсела к нему. «Рафи, ты не замечал ничего странного в здешних книгах?» Он мгновенно поднял глаза, и они заблестели за стёклами очков. «Концовки!» — сказал он. «Вы тоже заметили? Я думал, что схожу с ума. В «Зелёной змее» змея всегда кусает капитана Эллери, и он чуть не умирает, и это самое интересное место. А теперь она просто уползает. Всё испорчено». Казалось, он больше злился, чем боялся. «Кто-то их меняет, — прошептал он, — и вкус у этого кого-то ужасный».",
+   "s": [
+    [
+     "The next afternoon, she sat down next to him.",
+     "На следующий день она подсела к нему."
+    ],
+    [
+     "\"Rafi, have you noticed anything strange about the books here?\"",
+     "«Рафи, ты не замечал ничего странного в здешних книгах?»"
+    ],
+    [
+     "He looked up instantly, his eyes shining behind his glasses.",
+     "Он мгновенно поднял глаза, и они заблестели за стёклами очков."
+    ],
+    [
+     "\"The endings!\" he said.",
+     "«Концовки!» — сказал он."
+    ],
+    [
+     "\"You've noticed too? I thought I was going crazy.",
+     "«Вы тоже заметили? Я думал, что схожу с ума."
+    ],
+    [
+     "In The Green Snake, the snake always bites Captain Ellery and he nearly dies, and that's the best part.",
+     "В «Зелёной змее» змея всегда кусает капитана Эллери, и он чуть не умирает, и это самое интересное место."
+    ],
+    [
+     "Now it just goes away.",
+     "А теперь она просто уползает."
+    ],
+    [
+     "It's ruined.\"",
+     "Всё испорчено»."
+    ],
+    [
+     "He seemed more angry than frightened.",
+     "Казалось, он больше злился, чем боялся."
+    ],
+    [
+     "\"Somebody is changing them,\" he whispered, \"and they've got terrible taste.\"",
+     "«Кто-то их меняет, — прошептал он, — и вкус у этого кого-то ужасный»."
+    ]
+   ]
+  },
+  {
+   "en": "Whatever was happening, it was not Rafi's doing. Maya felt sure that the changes happened at night, when the building was empty. That Friday, she told Mr Abernathy that she would work late, and she stayed after he had locked the doors. That was the advantage of an empty building: nobody would see her if she was wrong. She made a cup of coffee, took a sandwich from the refrigerator and sat down in the dark reading room with a book of old fairy tales. She knew the last story well: a girl goes into a forest to look for her lost brother and comes back alone. She read the last page twice, closed the book and put it on the table in front of her. Then she waited.",
+   "ru": "Что бы ни происходило, Рафи был тут ни при чём. Майя была уверена, что изменения происходят ночью, когда здание пустеет. В ту пятницу она сказала мистеру Абернати, что задержится на работе, и осталась после того, как он запер двери. В этом и было преимущество пустого здания: никто не увидит, если она ошибается. Она сделала себе кофе, взяла из холодильника бутерброд и села в тёмном читальном зале с книгой старых сказок. Последнюю сказку она хорошо знала: девочка уходит в лес искать пропавшего брата и возвращается одна. Она дважды перечитала последнюю страницу, закрыла книгу и положила её на стол перед собой. Потом стала ждать.",
+   "s": [
+    [
+     "Whatever was happening, it was not Rafi's doing.",
+     "Что бы ни происходило, Рафи был тут ни при чём."
+    ],
+    [
+     "Maya felt sure that the changes happened at night, when the building was empty.",
+     "Майя была уверена, что изменения происходят ночью, когда здание пустеет."
+    ],
+    [
+     "That Friday, she told Mr Abernathy that she would work late, and she stayed after he had locked the doors. That was the advantage of an empty building: nobody would see her if she was wrong.",
+     "В ту пятницу она сказала мистеру Абернати, что задержится на работе, и осталась после того, как он запер двери. В этом и было преимущество пустого здания: никто не увидит, если она ошибается."
+    ],
+    [
+     "She made a cup of coffee, took a sandwich from the refrigerator and sat down in the dark reading room with a book of old fairy tales.",
+     "Она сделала себе кофе, взяла из холодильника бутерброд и села в тёмном читальном зале с книгой старых сказок."
+    ],
+    [
+     "She knew the last story well: a girl goes into a forest to look for her lost brother and comes back alone.",
+     "Последнюю сказку она хорошо знала: девочка уходит в лес искать пропавшего брата и возвращается одна."
+    ],
+    [
+     "She read the last page twice, closed the book and put it on the table in front of her.",
+     "Она дважды перечитала последнюю страницу, закрыла книгу и положила её на стол перед собой."
+    ],
+    [
+     "Then she waited.",
+     "Потом стала ждать."
+    ]
+   ]
+  },
+  {
+   "en": "She must have fallen asleep, because when she woke up, the clock above the door said ten past three. The room was full of a soft, silvery light. On the table, the book of fairy tales lay open, and its pages were turning slowly by themselves, as if an invisible hand were looking for something. Then they stopped at the last page. As Maya watched, the black letters began to move. They ran across the paper like tiny insects, broke apart and joined again into new words.",
+   "ru": "Должно быть, она уснула, потому что, когда она проснулась, часы над дверью показывали десять минут четвёртого. Комната была наполнена мягким серебристым светом. На столе лежала раскрытая книга сказок, и её страницы медленно переворачивались сами собой, будто невидимая рука что-то искала. Потом они остановились на последней странице. Пока Майя смотрела, чёрные буквы начали двигаться. Они бегали по бумаге, как крошечные насекомые, распадались и снова складывались в новые слова.",
+   "s": [
+    [
+     "She must have fallen asleep, because when she woke up, the clock above the door said ten past three.",
+     "Должно быть, она уснула, потому что, когда она проснулась, часы над дверью показывали десять минут четвёртого."
+    ],
+    [
+     "The room was full of a soft, silvery light.",
+     "Комната была наполнена мягким серебристым светом."
+    ],
+    [
+     "On the table, the book of fairy tales lay open, and its pages were turning slowly by themselves, as if an invisible hand were looking for something.",
+     "На столе лежала раскрытая книга сказок, и её страницы медленно переворачивались сами собой, будто невидимая рука что-то искала."
+    ],
+    [
+     "Then they stopped at the last page.",
+     "Потом они остановились на последней странице."
+    ],
+    [
+     "As Maya watched, the black letters began to move.",
+     "Пока Майя смотрела, чёрные буквы начали двигаться."
+    ],
+    [
+     "They ran across the paper like tiny insects, broke apart and joined again into new words.",
+     "Они бегали по бумаге, как крошечные насекомые, распадались и снова складывались в новые слова."
+    ]
+   ]
+  },
+  {
+   "en": "She did not scream. She did not move at all, and her heart was beating like a hammer. When the light had faded, she pulled the book towards her with shaking hands and read the new ending. The girl still did not find her brother in the forest. But at the edge of the trees, she found a letter from him, tied to a branch with a red ribbon. It said that he had never been angry with her, and that she should go home.",
+   "ru": "Она не закричала. Она совсем не двигалась, а её сердце стучало, как молоток. Когда свет погас, она дрожащими руками придвинула к себе книгу и прочитала новую концовку. Девочка по-прежнему не находила брата в лесу. Но на опушке она находила письмо от него, привязанное к ветке красной ленточкой. В нём говорилось, что он никогда на неё не сердился и что ей пора идти домой.",
+   "s": [
+    [
+     "She did not scream.",
+     "Она не закричала."
+    ],
+    [
+     "She did not move at all, and her heart was beating like a hammer.",
+     "Она совсем не двигалась, а её сердце стучало, как молоток."
+    ],
+    [
+     "When the light had faded, she pulled the book towards her with shaking hands and read the new ending.",
+     "Когда свет погас, она дрожащими руками придвинула к себе книгу и прочитала новую концовку."
+    ],
+    [
+     "The girl still did not find her brother in the forest.",
+     "Девочка по-прежнему не находила брата в лесу."
+    ],
+    [
+     "But at the edge of the trees, she found a letter from him, tied to a branch with a red ribbon.",
+     "Но на опушке она находила письмо от него, привязанное к ветке красной ленточкой."
+    ],
+    [
+     "It said that he had never been angry with her, and that she should go home.",
+     "В нём говорилось, что он никогда на неё не сердился и что ей пора идти домой."
+    ]
+   ]
+  },
+  {
+   "en": "Maya sat in the dark for a long time. Then she climbed the steps to the shelf where she had put that week's returned books and took down the other three. She had read the last page of each of them on her evening shifts, alone in the building. Now she read them again, and this time she saw what they had in common. The gardener in the detective novel was the victim's younger brother, and now he was innocent. The handsome soldier was coming home to his sister. Captain Ellery had promised his little sister that he would return. Every changed ending saved somebody's brother.",
+   "ru": "Майя долго сидела в темноте. Потом она поднялась по ступенькам к полке, куда поставила книги, возвращённые на этой неделе, и сняла оттуда остальные три. Последнюю страницу каждой из них она читала во время вечерних смен, одна в здании. Теперь она перечитала их, и на этот раз увидела, что у них общего. Садовник в детективе был младшим братом жертвы, и теперь он был невиновен. Красивый солдат возвращался домой к сестре. Капитан Эллери обещал младшей сестре, что вернётся. Каждая изменённая концовка спасала чьего-то брата.",
+   "s": [
+    [
+     "Maya sat in the dark for a long time.",
+     "Майя долго сидела в темноте."
+    ],
+    [
+     "Then she climbed the steps to the shelf where she had put that week's returned books and took down the other three.",
+     "Потом она поднялась по ступенькам к полке, куда поставила книги, возвращённые на этой неделе, и сняла оттуда остальные три."
+    ],
+    [
+     "She had read the last page of each of them on her evening shifts, alone in the building.",
+     "Последнюю страницу каждой из них она читала во время вечерних смен, одна в здании."
+    ],
+    [
+     "Now she read them again, and this time she saw what they had in common.",
+     "Теперь она перечитала их, и на этот раз увидела, что у них общего."
+    ],
+    [
+     "The gardener in the detective novel was the victim's younger brother, and now he was innocent.",
+     "Садовник в детективе был младшим братом жертвы, и теперь он был невиновен."
+    ],
+    [
+     "The handsome soldier was coming home to his sister.",
+     "Красивый солдат возвращался домой к сестре."
+    ],
+    [
+     "Captain Ellery had promised his little sister that he would return.",
+     "Капитан Эллери обещал младшей сестре, что вернётся."
+    ],
+    [
+     "Every changed ending saved somebody's brother.",
+     "Каждая изменённая концовка спасала чьего-то брата."
+    ]
+   ]
+  },
+  {
+   "en": "It was not Rafi. It had never been Rafi. The books were changing for her.",
+   "ru": "Дело было не в Рафи. Дело никогда не было в нём. Книги менялись ради неё.",
+   "s": [
+    [
+     "It was not Rafi.",
+     "Дело было не в Рафи."
+    ],
+    [
+     "It had never been Rafi.",
+     "Дело никогда не было в нём."
+    ],
+    [
+     "The books were changing for her.",
+     "Книги менялись ради неё."
+    ]
+   ]
+  },
+  {
+   "en": "On Monday morning, she went straight to Mr Abernathy's office, and this time he listened to the whole story without interrupting. When she had finished, he took off his glasses and cleaned them slowly. \"This library is very old,\" he said. \"Older than this building. The books here listen to the people who read them. Not to everyone, of course; most people want nothing very much from a book. But sometimes a reader comes along with a desire so strong that it fills the whole place. Then the books start trying to help.\"",
+   "ru": "В понедельник утром она сразу пошла в кабинет мистера Абернати, и на этот раз он выслушал всю историю, не перебивая. Когда она закончила, он снял очки и медленно протёр их. «Эта библиотека очень старая», — сказал он. «Старше, чем это здание. Здешние книги прислушиваются к людям, которые их читают. Конечно, не ко всем: большинству людей от книги ничего особенного не нужно. Но иногда появляется читатель с таким сильным желанием, что оно заполняет всё вокруг. И тогда книги начинают пытаться помочь».",
+   "s": [
+    [
+     "On Monday morning, she went straight to Mr Abernathy's office, and this time he listened to the whole story without interrupting.",
+     "В понедельник утром она сразу пошла в кабинет мистера Абернати, и на этот раз он выслушал всю историю, не перебивая."
+    ],
+    [
+     "When she had finished, he took off his glasses and cleaned them slowly.",
+     "Когда она закончила, он снял очки и медленно протёр их."
+    ],
+    [
+     "\"This library is very old,\" he said.",
+     "«Эта библиотека очень старая», — сказал он."
+    ],
+    [
+     "\"Older than this building.",
+     "«Старше, чем это здание."
+    ],
+    [
+     "The books here listen to the people who read them.",
+     "Здешние книги прислушиваются к людям, которые их читают."
+    ],
+    [
+     "Not to everyone, of course; most people want nothing very much from a book.",
+     "Конечно, не ко всем: большинству людей от книги ничего особенного не нужно."
+    ],
+    [
+     "But sometimes a reader comes along with a desire so strong that it fills the whole place.",
+     "Но иногда появляется читатель с таким сильным желанием, что оно заполняет всё вокруг."
+    ],
+    [
+     "Then the books start trying to help.\"",
+     "И тогда книги начинают пытаться помочь»."
+    ]
+   ]
+  },
+  {
+   "en": "\"Help?\" said Maya. \"They're ruining them! Rafi is furious.\" \"Certainly they are,\" said Mr Abernathy, and for the first time he smiled. \"Books don't always understand people very well. They try to give you the ending you want, and that is not always the ending you need.\" He paused. \"The last time it happened was many years ago, after my wife died. For a whole year, every book I touched ended with a wedding.\"",
+   "ru": "«Помочь?» — переспросила Майя. «Они же их портят! Рафи в ярости». «Безусловно, портят», — сказал мистер Абернати и впервые улыбнулся. «Книги не всегда хорошо понимают людей. Они стараются дать вам ту концовку, которую вы хотите, а это не всегда та концовка, которая вам нужна». Он помолчал. «В последний раз это случилось много лет назад, после смерти моей жены. Целый год каждая книга, к которой я прикасался, заканчивалась свадьбой».",
+   "s": [
+    [
+     "\"Help?\" said Maya.",
+     "«Помочь?» — переспросила Майя."
+    ],
+    [
+     "\"They're ruining them! Rafi is furious.\"",
+     "«Они же их портят! Рафи в ярости»."
+    ],
+    [
+     "\"Certainly they are,\" said Mr Abernathy, and for the first time he smiled.",
+     "«Безусловно, портят», — сказал мистер Абернати и впервые улыбнулся."
+    ],
+    [
+     "\"Books don't always understand people very well.",
+     "«Книги не всегда хорошо понимают людей."
+    ],
+    [
+     "They try to give you the ending you want, and that is not always the ending you need.\"",
+     "Они стараются дать вам ту концовку, которую вы хотите, а это не всегда та концовка, которая вам нужна»."
+    ],
+    [
+     "He paused.",
+     "Он помолчал."
+    ],
+    [
+     "\"The last time it happened was many years ago, after my wife died.",
+     "«В последний раз это случилось много лет назад, после смерти моей жены."
+    ],
+    [
+     "For a whole year, every book I touched ended with a wedding.\"",
+     "Целый год каждая книга, к которой я прикасался, заканчивалась свадьбой»."
+    ]
+   ]
+  },
+  {
+   "en": "\"How did it stop?\" Maya asked. \"When I stopped asking them to change the past,\" he said simply. \"It took me a long time.\" He opened a drawer, took out a thin notebook with a plain grey cover and pressed it into her hands. \"It's empty,\" he said. \"Write down what happened with your brother, all of it. Then leave it on the reading-room table tonight. The library may have something to say.\" \"How do you know about Joel?\" she asked. \"Your mother has been borrowing books from me since before you were born,\" he said gently.",
+   "ru": "«И как это прекратилось?» — спросила Майя. «Когда я перестал просить их изменить прошлое», — просто ответил он. «На это у меня ушло много времени». Он открыл ящик стола, достал тонкую тетрадь в простой серой обложке и вложил её ей в руки. «Она пустая», — сказал он. «Запишите, что случилось с вашим братом, всё до конца. А потом оставьте её сегодня вечером на столе в читальном зале. Возможно, библиотеке есть что сказать». «Откуда вы знаете про Джоэла?» — спросила она. «Ваша мама берёт у меня книги с тех пор, когда вас ещё на свете не было», — мягко сказал он.",
+   "s": [
+    [
+     "\"How did it stop?\" Maya asked.",
+     "«И как это прекратилось?» — спросила Майя."
+    ],
+    [
+     "\"When I stopped asking them to change the past,\" he said simply.",
+     "«Когда я перестал просить их изменить прошлое», — просто ответил он."
+    ],
+    [
+     "\"It took me a long time.\"",
+     "«На это у меня ушло много времени»."
+    ],
+    [
+     "He opened a drawer, took out a thin notebook with a plain grey cover and pressed it into her hands.",
+     "Он открыл ящик стола, достал тонкую тетрадь в простой серой обложке и вложил её ей в руки."
+    ],
+    [
+     "\"It's empty,\" he said.",
+     "«Она пустая», — сказал он."
+    ],
+    [
+     "\"Write down what happened with your brother, all of it.",
+     "«Запишите, что случилось с вашим братом, всё до конца."
+    ],
+    [
+     "Then leave it on the reading-room table tonight.",
+     "А потом оставьте её сегодня вечером на столе в читальном зале."
+    ],
+    [
+     "The library may have something to say.\"",
+     "Возможно, библиотеке есть что сказать»."
+    ],
+    [
+     "\"How do you know about Joel?\" she asked.",
+     "«Откуда вы знаете про Джоэла?» — спросила она."
+    ],
+    [
+     "\"Your mother has been borrowing books from me since before you were born,\" he said gently.",
+     "«Ваша мама берёт у меня книги с тех пор, когда вас ещё на свете не было», — мягко сказал он."
+    ]
+   ]
+  },
+  {
+   "en": "She almost didn't do it. It seemed crazy, writing a diary for a building. But that evening, alone on the sofa in the staff room, she wrote for three hours. She wrote about Joel's terrible jokes and the way he always lost his keys. She wrote about the argument, the cruel words and the phone call she had ended. She wrote things that she had never said aloud to anyone. Her arm ached and her face was wet before she had finished. Then she left the notebook on the reading-room table and went home, and for the first time in months she slept through the night.",
+   "ru": "Она чуть было не отказалась от этой затеи. Это казалось безумием — писать дневник для здания. Но в тот вечер, одна на диване в комнате для персонала, она писала три часа. Она писала об ужасных шутках Джоэла и о том, как он вечно терял ключи. Она писала о ссоре, о жестоких словах и о звонке, который она оборвала. Она писала то, чего никогда никому не говорила вслух. К тому времени, как она закончила, у неё болела рука, а лицо было мокрым от слёз. Потом она оставила тетрадь на столе в читальном зале и пошла домой, и впервые за много месяцев проспала всю ночь.",
+   "s": [
+    [
+     "She almost didn't do it.",
+     "Она чуть было не отказалась от этой затеи."
+    ],
+    [
+     "It seemed crazy, writing a diary for a building.",
+     "Это казалось безумием — писать дневник для здания."
+    ],
+    [
+     "But that evening, alone on the sofa in the staff room, she wrote for three hours.",
+     "Но в тот вечер, одна на диване в комнате для персонала, она писала три часа."
+    ],
+    [
+     "She wrote about Joel's terrible jokes and the way he always lost his keys.",
+     "Она писала об ужасных шутках Джоэла и о том, как он вечно терял ключи."
+    ],
+    [
+     "She wrote about the argument, the cruel words and the phone call she had ended.",
+     "Она писала о ссоре, о жестоких словах и о звонке, который она оборвала."
+    ],
+    [
+     "She wrote things that she had never said aloud to anyone.",
+     "Она писала то, чего никогда никому не говорила вслух."
+    ],
+    [
+     "Her arm ached and her face was wet before she had finished.",
+     "К тому времени, как она закончила, у неё болела рука, а лицо было мокрым от слёз."
+    ],
+    [
+     "Then she left the notebook on the reading-room table and went home, and for the first time in months she slept through the night.",
+     "Потом она оставила тетрадь на столе в читальном зале и пошла домой, и впервые за много месяцев проспала всю ночь."
+    ]
+   ]
+  },
+  {
+   "en": "In the morning, the notebook was where she had left it. Her pages were all there, in her own untidy handwriting. But after her last line there was a new page, and on it, in small neat letters that were not hers, there were only a few sentences. \"We cannot change this ending. It is not ours to change, and it is not yours. But you are not only the last thing you said to him. You were his sister for twenty-six years. Read the whole book, not just the last page.\"",
+   "ru": "Утром тетрадь лежала там, где она её оставила. Все её страницы были на месте, исписанные её собственным неаккуратным почерком. Но после её последней строчки появилась новая страница, и на ней мелкими аккуратными буквами, не её почерком, было написано всего несколько предложений. «Мы не можем изменить эту концовку. Не нам её менять, и не вам. Но вы — это не только последние слова, которые вы ему сказали. Вы были его сестрой двадцать шесть лет. Читайте всю книгу, а не только последнюю страницу».",
+   "s": [
+    [
+     "In the morning, the notebook was where she had left it.",
+     "Утром тетрадь лежала там, где она её оставила."
+    ],
+    [
+     "Her pages were all there, in her own untidy handwriting.",
+     "Все её страницы были на месте, исписанные её собственным неаккуратным почерком."
+    ],
+    [
+     "But after her last line there was a new page, and on it, in small neat letters that were not hers, there were only a few sentences.",
+     "Но после её последней строчки появилась новая страница, и на ней мелкими аккуратными буквами, не её почерком, было написано всего несколько предложений."
+    ],
+    [
+     "\"We cannot change this ending.",
+     "«Мы не можем изменить эту концовку."
+    ],
+    [
+     "It is not ours to change, and it is not yours.",
+     "Не нам её менять, и не вам."
+    ],
+    [
+     "But you are not only the last thing you said to him.",
+     "Но вы — это не только последние слова, которые вы ему сказали."
+    ],
+    [
+     "You were his sister for twenty-six years.",
+     "Вы были его сестрой двадцать шесть лет."
+    ],
+    [
+     "Read the whole book, not just the last page.\"",
+     "Читайте всю книгу, а не только последнюю страницу»."
+    ]
+   ]
+  },
+  {
+   "en": "Then she cried properly, in a way that she had not cried even at the funeral. When she had finished, she washed her face, went downstairs and opened the library at nine o'clock as usual.",
+   "ru": "И тогда она по-настоящему заплакала — так, как не плакала даже на похоронах. Выплакавшись, она умылась, спустилась вниз и, как обычно, открыла библиотеку в девять часов.",
+   "s": [
+    [
+     "Then she cried properly, in a way that she had not cried even at the funeral.",
+     "И тогда она по-настоящему заплакала — так, как не плакала даже на похоронах."
+    ],
+    [
+     "When she had finished, she washed her face, went downstairs and opened the library at nine o'clock as usual.",
+     "Выплакавшись, она умылась, спустилась вниз и, как обычно, открыла библиотеку в девять часов."
+    ]
+   ]
+  },
+  {
+   "en": "That afternoon, Rafi came running to the desk, holding his beloved copy of The Green Snake above his head like a prize. \"It's back!\" he shouted, and half the reading room turned to look at him. \"The snake bites him again! He nearly dies! It's perfect!\" Maya laughed, really laughed, for the first time since the autumn. \"That's wonderful news,\" she said, and she meant it.",
+   "ru": "В тот же день Рафи прибежал к стойке, держа над головой, как трофей, свой любимый экземпляр «Зелёной змеи». «Она вернулась!» — закричал он, и полчитального зала обернулось на него. «Змея снова его кусает! Он чуть не умирает! Это идеально!» Майя рассмеялась — по-настоящему рассмеялась — впервые с осени. «Это чудесная новость», — сказала она, и говорила искренне.",
+   "s": [
+    [
+     "That afternoon, Rafi came running to the desk, holding his beloved copy of The Green Snake above his head like a prize.",
+     "В тот же день Рафи прибежал к стойке, держа над головой, как трофей, свой любимый экземпляр «Зелёной змеи»."
+    ],
+    [
+     "\"It's back!\" he shouted, and half the reading room turned to look at him.",
+     "«Она вернулась!» — закричал он, и полчитального зала обернулось на него."
+    ],
+    [
+     "\"The snake bites him again! He nearly dies! It's perfect!\"",
+     "«Змея снова его кусает! Он чуть не умирает! Это идеально!»"
+    ],
+    [
+     "Maya laughed, really laughed, for the first time since the autumn.",
+     "Майя рассмеялась — по-настоящему рассмеялась — впервые с осени."
+    ],
+    [
+     "\"That's wonderful news,\" she said, and she meant it.",
+     "«Это чудесная новость», — сказала она, и говорила искренне."
+    ]
+   ]
+  },
+  {
+   "en": "Within a week, all the endings had gone back to the way they were. The woman in the green raincoat came back to complain that the cook was innocent again and the gardener was guilty after all, and she wanted to know what kind of library this was. Mr Abernathy apologised politely and winked at Maya over the top of his glasses.",
+   "ru": "За неделю все концовки вернулись к прежнему виду. Женщина в зелёном плаще пришла снова и пожаловалась, что кухарка опять невиновна, а садовник всё-таки виновен, и потребовала объяснить, что это вообще за библиотека. Мистер Абернати вежливо извинился и подмигнул Майе поверх очков.",
+   "s": [
+    [
+     "Within a week, all the endings had gone back to the way they were.",
+     "За неделю все концовки вернулись к прежнему виду."
+    ],
+    [
+     "The woman in the green raincoat came back to complain that the cook was innocent again and the gardener was guilty after all, and she wanted to know what kind of library this was.",
+     "Женщина в зелёном плаще пришла снова и пожаловалась, что кухарка опять невиновна, а садовник всё-таки виновен, и потребовала объяснить, что это вообще за библиотека."
+    ],
+    [
+     "Mr Abernathy apologised politely and winked at Maya over the top of his glasses.",
+     "Мистер Абернати вежливо извинился и подмигнул Майе поверх очков."
+    ]
+   ]
+  },
+  {
+   "en": "Maya still works at Orchard Street, and she still misses Joel every day. Some mornings she misses him so much that it is hard to climb the steps to the front door. But she has changed one habit. She no longer reads only the last page of the books that come back. Now, when she has time, she starts at the beginning.",
+   "ru": "Майя до сих пор работает на Орчард-стрит и до сих пор каждый день скучает по Джоэлу. Иногда по утрам она скучает по нему так сильно, что ей трудно подняться по ступенькам к входной двери. Но одну привычку она изменила. Она больше не читает только последнюю страницу возвращённых книг. Теперь, когда у неё есть время, она начинает с начала.",
+   "s": [
+    [
+     "Maya still works at Orchard Street, and she still misses Joel every day.",
+     "Майя до сих пор работает на Орчард-стрит и до сих пор каждый день скучает по Джоэлу."
+    ],
+    [
+     "Some mornings she misses him so much that it is hard to climb the steps to the front door.",
+     "Иногда по утрам она скучает по нему так сильно, что ей трудно подняться по ступенькам к входной двери."
+    ],
+    [
+     "But she has changed one habit.",
+     "Но одну привычку она изменила."
+    ],
+    [
+     "She no longer reads only the last page of the books that come back.",
+     "Она больше не читает только последнюю страницу возвращённых книг."
+    ],
+    [
+     "Now, when she has time, she starts at the beginning.",
+     "Теперь, когда у неё есть время, она начинает с начала."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "abernathy": "Абернати (фамилия)",
+  "abernathy's": "Абернати (мистера Абернати)",
+  "about": "о, об",
+  "above": "над",
+  "ached": "болела",
+  "across": "через, по",
+  "adults": "взрослые",
+  "advantage": "преимущество",
+  "adventure": "приключенческий",
+  "after": "после",
+  "afternoon": "день, после полудня",
+  "again": "снова",
+  "aged": "(aged eleven) одиннадцати лет",
+  "ago": "назад",
+  "ah": "а (междометие)",
+  "all": "весь, все",
+  "almost": "почти",
+  "alone": "один, одна",
+  "along": "(comes along) появляется",
+  "aloud": "вслух",
+  "always": "всегда",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "angry": "злой, сердитый",
+  "annoyed": "раздражённый; раздражало",
+  "another": "другой",
+  "anyone": "никому",
+  "anything": "ничего",
+  "apart": "(broke apart) распадались",
+  "apologised": "извинился",
+  "are": "(есть) — вы/они",
+  "argued": "поругались",
+  "argument": "ссора",
+  "arm": "рука",
+  "as": "как; (as if) будто",
+  "asked": "просили; спросила",
+  "asking": "просить",
+  "asleep": "(fallen asleep) уснуть",
+  "at": "в, у, на",
+  "attitude": "отношение",
+  "autumn": "осень",
+  "away": "прочь",
+  "back": "назад, обратно",
+  "basement": "подвал",
+  "be": "быть",
+  "beating": "стучало",
+  "because": "потому что",
+  "been": "был(о)",
+  "before": "прежде чем; прошлый",
+  "began": "начали",
+  "beginning": "начало",
+  "behind": "за",
+  "beloved": "любимый",
+  "below": "под",
+  "best": "лучший",
+  "big": "большой",
+  "bites": "кусает",
+  "bitten": "укусила",
+  "black": "чёрный",
+  "book": "книга",
+  "books": "книги",
+  "born": "(were born) родились",
+  "borrowed": "брали; взяла",
+  "borrowing": "выдача (книг)",
+  "boy": "мальчик",
+  "branch": "ветка",
+  "broke": "(broke apart) распались",
+  "brother": "брат",
+  "building": "здание",
+  "but": "но",
+  "by": "(by themselves) сами",
+  "call": "звонок",
+  "called": "под названием",
+  "calm": "спокойный",
+  "came": "пришла; прибежал",
+  "cannot": "не можем",
+  "captain": "капитан",
+  "carefully": "внимательно",
+  "carried": "нёс, носил",
+  "certainly": "конечно",
+  "chance": "возможность",
+  "change": "изменить, менять",
+  "changed": "изменился; изменила",
+  "changes": "изменения",
+  "changing": "меняет",
+  "chapter": "глава",
+  "chest": "грудь",
+  "children's": "детский",
+  "cleaned": "протёр",
+  "climb": "подниматься",
+  "climbed": "поднялась",
+  "clock": "часы",
+  "closed": "закрыл(а)",
+  "clue": "улика, подсказка",
+  "coffee": "кофе",
+  "colleagues": "коллеги",
+  "collect": "забрать",
+  "come": "(come off) вылетел",
+  "comes": "(comes along) появляется",
+  "coming": "возвращался",
+  "common": "(in common) общего",
+  "complain": "пожаловаться",
+  "complaint": "жалоба",
+  "complaints": "жалобы",
+  "cook": "кухарка",
+  "copies": "экземпляры",
+  "copy": "экземпляр",
+  "corner": "угол",
+  "could": "мог(ла)",
+  "course": "(of course) конечно",
+  "cover": "обложка",
+  "crazy": "безумный; (going crazy) схожу с ума",
+  "cried": "плакала",
+  "cruel": "жестокий",
+  "cup": "чашка",
+  "dark": "тёмный; темнота",
+  "day": "день",
+  "decided": "решила",
+  "desire": "желание",
+  "desk": "стойка",
+  "detective": "детективный",
+  "diary": "дневник",
+  "did": "(вспом. гл.)",
+  "didn't": "не (прош. вр.)",
+  "die": "погибать",
+  "died": "умер(ла)",
+  "dies": "умирает",
+  "different": "другой, не такой",
+  "dinosaurs": "динозавры",
+  "do": "(вспом. гл.)",
+  "doing": "(Rafi's doing) дело рук",
+  "don't": "не (вспом.)",
+  "door": "дверь",
+  "doors": "двери",
+  "down": "вниз",
+  "downstairs": "вниз",
+  "drawer": "ящик стола",
+  "each": "каждый",
+  "edge": "край (опушка)",
+  "edition": "издание",
+  "eleven": "одиннадцать",
+  "ellery": "Эллери (имя героя)",
+  "empty": "пустой",
+  "ended": "закончила; заканчивалась",
+  "ending": "концовка",
+  "endings": "концовки",
+  "even": "даже",
+  "evening": "вечер",
+  "every": "каждый",
+  "everyone": "все",
+  "everything": "всё",
+  "everywhere": "повсюду",
+  "exactly": "точно",
+  "explain": "объяснять",
+  "explanation": "объяснение",
+  "eyes": "глаза",
+  "face": "лицо",
+  "faded": "погас",
+  "fairy": "(fairy tales) сказки",
+  "fallen": "(fallen asleep) уснуть",
+  "felt": "(felt sure) была уверена",
+  "ferris": "Феррис (фамилия)",
+  "few": "несколько",
+  "fifty": "пятьдесят",
+  "fills": "заполняет",
+  "find": "найти",
+  "finished": "закончила",
+  "first": "первый; сначала",
+  "fit": "подходить, соответствовать",
+  "for": "для, в течение",
+  "forest": "лес",
+  "forty": "сорок",
+  "found": "нашла",
+  "friday": "пятница",
+  "frightened": "напуганный",
+  "from": "из, от",
+  "front": "(front door) входной; (in front of) перед",
+  "full": "полный",
+  "funeral": "похороны",
+  "furious": "в ярости",
+  "gardener": "садовник",
+  "gardener's": "садовника",
+  "gently": "мягко",
+  "girl": "девочка",
+  "give": "дать",
+  "glasses": "очки",
+  "glue": "клей",
+  "go": "идти",
+  "goes": "(goes away) уходит",
+  "going": "(going crazy) схожу",
+  "gone": "(gone back) вернулись",
+  "got": "(they've got) у них есть",
+  "grass": "трава",
+  "green": "зелёный",
+  "grey": "серый",
+  "guilt": "вина",
+  "guilty": "виновный",
+  "habit": "привычка",
+  "had": "(вспом. гл.); имела",
+  "half": "половина",
+  "hammer": "молоток",
+  "hand": "рука",
+  "hands": "руки",
+  "handsome": "красивый",
+  "handwriting": "почерк",
+  "happened": "случилось",
+  "happening": "происходило",
+  "hard": "сильно; трудно",
+  "has": "(вспом. гл.)",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "head": "голова",
+  "heart": "сердце",
+  "help": "помочь; (if she could help it) могла избежать",
+  "her": "её, ей",
+  "here": "здесь",
+  "hero": "герой",
+  "hers": "её",
+  "herself": "сама с собой",
+  "high": "высокий",
+  "him": "его, ему",
+  "his": "его",
+  "holding": "держа",
+  "home": "домой",
+  "hours": "часы",
+  "how": "как; откуда",
+  "i": "я",
+  "i've": "я (уже)",
+  "if": "если, ли",
+  "in": "в",
+  "innocent": "невиновный",
+  "insects": "насекомые",
+  "instantly": "мгновенно",
+  "interrupting": "перебивая",
+  "into": "в",
+  "investigate": "расследовать",
+  "invisible": "невидимый",
+  "is": "есть, является",
+  "it": "он, оно, это",
+  "it's": "это",
+  "its": "его, её",
+  "job": "работа",
+  "joel": "Джоэл (имя)",
+  "joel's": "Джоэла",
+  "joined": "соединились",
+  "jokes": "шутки",
+  "jumped": "вздрогнула",
+  "jungle": "джунгли",
+  "just": "просто",
+  "keys": "ключи",
+  "killer": "убийца",
+  "kind": "(the same kind) похожий",
+  "knew": "знал(и)",
+  "know": "знать",
+  "ladder": "лестница (приставная)",
+  "last": "последний",
+  "late": "допоздна; (work late) задержаться",
+  "later": "позже",
+  "laugh": "смеяться",
+  "laughed": "рассмеялась",
+  "lay": "лежала",
+  "leave": "оставить",
+  "left": "ушла; оставила",
+  "letter": "письмо",
+  "letters": "буквы",
+  "librarian": "библиотекарь",
+  "library": "библиотека",
+  "light": "свет",
+  "like": "как",
+  "line": "строчка",
+  "listen": "прислушиваются",
+  "listened": "выслушал",
+  "little": "маленький; младший",
+  "locked": "запер",
+  "long": "долго",
+  "longer": "(no longer) больше не",
+  "look": "(look into) разобраться",
+  "looked": "взглянула; выглядели",
+  "looking": "(looking for) искала",
+  "lost": "пропавший; терял",
+  "love": "любовный",
+  "made": "сделала; издавал",
+  "man": "мужчина",
+  "many": "много",
+  "march": "март",
+  "may": "возможно",
+  "maya": "Майя (имя)",
+  "me": "меня, мне",
+  "meant": "(meant it) говорила искренне",
+  "memory": "память",
+  "misses": "скучает",
+  "mistake": "ошибка",
+  "monday": "понедельник",
+  "month": "месяц",
+  "months": "месяцы",
+  "more": "больше",
+  "morning": "утро",
+  "mornings": "по утрам",
+  "most": "большинство",
+  "mother": "мать",
+  "motorbike": "мотоцикл",
+  "move": "двигаться",
+  "mr": "мистер",
+  "much": "гораздо; (so much) так сильно",
+  "murderer": "убийца",
+  "must": "(must have) должно быть",
+  "my": "мой",
+  "nearly": "чуть не, почти",
+  "neat": "аккуратный",
+  "need": "нужно",
+  "needed": "нужна",
+  "never": "никогда",
+  "new": "новый",
+  "news": "новости",
+  "next": "следующий; рядом",
+  "night": "ночь",
+  "nine": "девять",
+  "no": "нет",
+  "nobody": "никто",
+  "noises": "звуки, шумы",
+  "not": "не",
+  "notebook": "тетрадь",
+  "nothing": "ничего",
+  "noticed": "заметил(а)",
+  "novel": "роман",
+  "novels": "романы",
+  "now": "теперь",
+  "o'clock": "часов",
+  "of": "из, о, (род. падеж)",
+  "off": "(took off) снял; (come off) вылетел",
+  "office": "кабинет",
+  "old": "старый",
+  "older": "старше",
+  "on": "на",
+  "once": "когда-то",
+  "one": "один, одна",
+  "only": "только",
+  "open": "раскрытый",
+  "opened": "открыл(а)",
+  "or": "или",
+  "orchard": "Орчард (название улицы)",
+  "other": "другой",
+  "ours": "наш",
+  "out": "(took out) достал",
+  "over": "(over the top) поверх",
+  "own": "собственный",
+  "page": "страница",
+  "pages": "страницы",
+  "pair": "пара",
+  "paper": "бумага",
+  "part": "место, часть",
+  "past": "прошлый; прошлое; (ten past three) десять минут четвёртого",
+  "paused": "помолчал",
+  "people": "люди",
+  "perfect": "идеальный",
+  "perfectly": "идеально",
+  "perhaps": "может быть",
+  "phone": "телефон",
+  "place": "(the whole place) всё вокруг",
+  "plain": "простой",
+  "politely": "вежливо",
+  "pressed": "вложил",
+  "printed": "напечатанный",
+  "prize": "трофей",
+  "promised": "пообещала; обещал",
+  "properly": "по-настоящему",
+  "pulled": "придвинула",
+  "put": "поставила; положила",
+  "quiet": "тихий; тишина",
+  "rafi": "Рафи (имя)",
+  "rafi's": "Рафи (дело рук Рафи)",
+  "raincoat": "плащ",
+  "raining": "шёл дождь",
+  "ran": "бегали",
+  "reach": "дотянуться",
+  "read": "читала; прочитала",
+  "reader": "читатель",
+  "reading": "(reading room) читальный зал",
+  "reads": "читает",
+  "really": "действительно",
+  "records": "записи",
+  "red": "красный",
+  "refrigerator": "холодильник",
+  "refused": "отказался",
+  "rest": "остальная часть",
+  "return": "вернуться",
+  "returned": "вернул; возвращённый",
+  "ribbon": "лента",
+  "right": "тот (нужный)",
+  "road": "дорога",
+  "room": "комната, зал",
+  "ruined": "испорчено",
+  "ruining": "портят",
+  "running": "(came running) прибежал",
+  "said": "сказал(а); показывали",
+  "same": "тот же",
+  "sandwich": "бутерброд",
+  "sat": "сидела",
+  "saved": "спасала",
+  "saw": "увидела",
+  "say": "сказать",
+  "school": "школа",
+  "scream": "закричать",
+  "second": "второй",
+  "see": "видеть",
+  "seemed": "казался",
+  "sentences": "предложения",
+  "shaking": "дрожащий",
+  "she": "она",
+  "shelf": "полка",
+  "shelves": "полки",
+  "shifts": "смены",
+  "shining": "блестящий",
+  "should": "следует, пора",
+  "shouted": "крикнул",
+  "silence": "молчание",
+  "silver": "серебристый",
+  "silvery": "серебристый",
+  "simple": "простой",
+  "simply": "просто",
+  "since": "с тех пор как",
+  "sister": "сестра",
+  "six": "шесть",
+  "slept": "(slept through) проспала",
+  "slid": "уползала",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smiled": "улыбнулся",
+  "snake": "змея",
+  "so": "поэтому; так",
+  "sofa": "диван",
+  "soft": "тихий; мягкий",
+  "soldier": "солдат",
+  "some": "некоторые",
+  "somebody": "кто-то",
+  "somebody's": "чей-то",
+  "something": "что-то",
+  "sometimes": "иногда",
+  "spent": "потратила",
+  "staff": "(staff room) комната для персонала",
+  "start": "начинать",
+  "started": "началось",
+  "starts": "начинает",
+  "stayed": "осталась",
+  "steps": "ступеньки",
+  "still": "всё ещё; по-прежнему",
+  "stone": "камень",
+  "stop": "прекратиться",
+  "stopped": "перестал; остановились",
+  "story": "история, повесть",
+  "straight": "прямо",
+  "strange": "странный",
+  "street": "улица",
+  "strong": "сильный",
+  "stupid": "глупый",
+  "sure": "уверенный",
+  "surprised": "удивлённый",
+  "table": "стол",
+  "take": "(take back) забрать назад",
+  "taken": "(had taken the job) согласилась на",
+  "tales": "сказки",
+  "talk": "говорить",
+  "tall": "высокий",
+  "taste": "вкус",
+  "tea": "чай",
+  "ten": "десять",
+  "terrible": "ужасный",
+  "than": "чем",
+  "that": "что; тот, это",
+  "that's": "это (есть)",
+  "the": "(опр. артикль)",
+  "them": "их",
+  "themselves": "сами",
+  "then": "потом, тогда",
+  "there": "там",
+  "they": "они",
+  "they're": "они (есть)",
+  "they've": "у них (есть)",
+  "thick": "толстый",
+  "thin": "худой; тонкий",
+  "thing": "(the last thing) последнее",
+  "things": "вещи",
+  "third": "третий",
+  "this": "этот",
+  "thought": "подумала",
+  "three": "три",
+  "through": "(through the night) всю ночь; по",
+  "tied": "привязанный",
+  "time": "время; раз",
+  "tiny": "крошечный",
+  "title": "название",
+  "to": "к, в; (частица)",
+  "told": "сказала; рассказала",
+  "tonight": "сегодня вечером",
+  "too": "тоже",
+  "took": "взяла; сняла; достал",
+  "top": "верх",
+  "touched": "касался",
+  "towards": "к, по направлению к",
+  "town": "город",
+  "trees": "деревья",
+  "try": "пытаются",
+  "trying": "пытаться",
+  "turned": "обернулся",
+  "turning": "переворачивались",
+  "twenty": "двадцать",
+  "twice": "дважды",
+  "two": "два",
+  "understand": "понимать",
+  "untidy": "неаккуратный",
+  "until": "пока не",
+  "up": "вверх",
+  "used": "(used to) раньше",
+  "usual": "(as usual) как обычно",
+  "very": "очень",
+  "victim's": "жертвы",
+  "voice": "голос",
+  "waited": "ждала",
+  "want": "хотеть",
+  "wanted": "хотела",
+  "was": "был(а)",
+  "washed": "мыл",
+  "watched": "смотрела",
+  "way": "так, как; вид",
+  "we": "мы",
+  "wedding": "свадьба",
+  "wednesday": "среда",
+  "week": "неделя",
+  "week's": "этой недели",
+  "weeks": "недели",
+  "well": "хорошо",
+  "went": "пошла",
+  "were": "были",
+  "wet": "влажный, мокрый",
+  "what": "что",
+  "whatever": "что бы ни",
+  "when": "когда",
+  "where": "где",
+  "which": "который, что",
+  "whispered": "прошептал",
+  "who": "кто, который",
+  "whole": "весь",
+  "wife": "жена",
+  "winked": "подмигнул",
+  "with": "с",
+  "within": "за, в течение",
+  "without": "без",
+  "woke": "(woke up) проснулась",
+  "woman": "женщина",
+  "woman's": "женщины",
+  "wonderful": "чудесный",
+  "wooden": "деревянный",
+  "words": "слова",
+  "work": "работать",
+  "worked": "работала",
+  "works": "работает",
+  "would": "бы; будет",
+  "write": "записать",
+  "writing": "писать",
+  "wrong": "не тот; ошибаться",
+  "wrote": "писала",
+  "year": "год",
+  "years": "лет, годы",
+  "yet": "однако",
+  "you": "вы, ты",
+  "you've": "вы (уже)",
+  "younger": "моложе",
+  "your": "ваш",
+  "yours": "ваш"
+ },
+ "vocab": {
+  "handsome": 277,
+  "arm": 91,
+  "attitude": 581,
+  "hammer": 636,
+  "steps": 138,
+  "refrigerator": 130,
+  "fit": 510,
+  "sofa": 351,
+  "crazy": 172,
+  "woke": 66,
+  "victim's": 640,
+  "below": 126,
+  "misses": 282,
+  "advantage": 262,
+  "still": 151,
+  "high": 118,
+  "night": 188,
+  "instantly": 626,
+  "carefully": 338,
+  "collect": 593,
+  "cried": 113,
+  "turned": 23,
+  "turning": 23,
+  "pressed": 522,
+  "guilt": 464,
+  "beloved": 410,
+  "thin": 296,
+  "snake": 287,
+  "spent": 128,
+  "desire": 602,
+  "certainly": 308
+ }
+}

@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why didn't Daria put Dutch on her CV?",
+  "q_ru": "Почему Дарья не указала нидерландский в своём резюме?",
+  "options": [
+   "Her Dutch wasn't perfect, and she didn't want high expectations",
+   "The agency never needed Dutch interpreters",
+   "She had started learning it only a month ago",
+   "She wanted to hide it from her mother"
+  ],
+  "options_ru": [
+   "Её нидерландский не был идеальным, и она не хотела завышенных ожиданий",
+   "Агентству никогда не были нужны переводчики с нидерландского",
+   "Она начала учить его всего месяц назад",
+   "Она хотела скрыть это от мамы"
+  ],
+  "answer": 0,
+  "explain_ru": "В тексте: «Her Dutch was good, but not perfect, and she did not want any customer to expect perfection»."
+ },
+ {
+  "q": "Brede decided to \"humiliate\" Daria. What does \"humiliate\" mean?",
+  "q_ru": "Бреде решил «humiliate» Дарью. Что значит «humiliate»?",
+  "options": [
+   "To thank someone politely",
+   "To pay someone less money",
+   "To ask someone to repeat something",
+   "To make someone feel stupid and ashamed"
+  ],
+  "options_ru": [
+   "Вежливо поблагодарить кого-то",
+   "Заплатить кому-то меньше денег",
+   "Попросить кого-то повторить",
+   "Заставить кого-то почувствовать себя глупо и стыдно"
+  ],
+  "answer": 3,
+  "explain_ru": "Humiliate — унизить. Бреде громко смеётся над её ошибкой: «Do they pay you for mistakes?», и у неё горит щека от стыда."
+ },
+ {
+  "q": "What did Daria hear on the terrace?",
+  "q_ru": "Что Дарья услышала на террасе?",
+  "options": [
+   "The men were arguing about oil prices",
+   "Brede was laughing about her mistake",
+   "A plan to kill Minister Halvorsen at a wedding",
+   "Vann was planning to leave Brede's business"
+  ],
+  "options_ru": [
+   "Мужчины спорили о ценах на нефть",
+   "Бреде смеялся над её ошибкой",
+   "План убить министра Халворсена на свадьбе",
+   "Ванн собирался уйти из бизнеса Бреде"
+  ],
+  "answer": 2,
+  "explain_ru": "На нидерландском они обсуждают свадьбу в субботу: Питер подаст Халворсену ручку, и «Ten minutes later his heart will stop»."
+ },
+ {
+  "q": "What did Grigor Tamm find on the back of the check?",
+  "q_ru": "Что Григор Тамм нашёл на обратной стороне чека?",
+  "options": [
+   "A note from the bank",
+   "Vann's phone number, written in pencil",
+   "A secret message in Dutch",
+   "The address of the lake house"
+  ],
+  "options_ru": [
+   "Пометку банка",
+   "Номер телефона Ванна, написанный карандашом",
+   "Тайное послание на нидерландском",
+   "Адрес дома у озера"
+  ],
+  "answer": 1,
+  "explain_ru": "Тамм говорит: «Banks don't write in pencil. This is a phone number. Your Mr Vann wanted you to call him»."
+ },
+ {
+  "q": "Why did Vann speak Dutch with the door open?",
+  "q_ru": "Почему Ванн говорил по-нидерландски при открытой двери?",
+  "options": [
+   "He was sure nobody nearby understood Dutch",
+   "He was tired and made a mistake",
+   "He wanted Daria to hear and take the message out",
+   "He wanted to test Brede's Dutch"
+  ],
+  "options_ru": [
+   "Он был уверен, что рядом никто не понимает нидерландский",
+   "Он устал и ошибся",
+   "Он хотел, чтобы Дарья услышала и передала информацию",
+   "Он хотел проверить нидерландский Бреде"
+  ],
+  "answer": 2,
+  "explain_ru": "Ванн видел на её телефоне урок нидерландского. Тамм объясняет: «He didn't make a mistake... He made sure that you heard». Ванн был агентом и потерял связь со службой."
+ },
+ {
+  "q": "What did Daria do at the end of the story?",
+  "q_ru": "Что Дарья сделала в конце рассказа?",
+  "options": [
+   "She added Portuguese lessons to her playlist",
+   "She stopped listening to lessons on the bus",
+   "She went back to work for her old agency",
+   "She moved to the Netherlands to work"
+  ],
+  "options_ru": [
+   "Добавила уроки португальского в свой плейлист",
+   "Перестала слушать уроки в автобусе",
+   "Вернулась работать в своё старое агентство",
+   "Переехала работать в Нидерланды"
+  ],
+  "answer": 0,
+  "explain_ru": "В понедельник она обновила плейлист: «There was a new language in it now» — Ванн упомянул, что службе нужны люди с португальским."
+ }
+]

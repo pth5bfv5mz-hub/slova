@@ -1,0 +1,1248 @@
+{
+ "id": 13,
+ "title_en": "The Shepherd's Plate",
+ "title_ru": "Тарелка пастуха",
+ "genre": "Ограбление",
+ "summary_ru": "Четверо воров готовят ночное ограбление городского музея, но у их предводительницы есть цель поважнее, чем золотая тарелка.",
+ "paragraphs": [
+  {
+   "en": "The cafe was on the second floor of a shopping mall, and from its window you could see the grey roof of the City Museum. Marta always chose places like this: busy, noisy and full of people who never looked at anyone. She sat with her back to the wall, drank her black coffee and waited for her team.",
+   "ru": "Кафе находилось на втором этаже торгового центра, и из его окна была видна серая крыша Городского музея. Марта всегда выбирала такие места: людные, шумные и полные людей, которые ни на кого не смотрят. Она сидела спиной к стене, пила чёрный кофе и ждала свою команду.",
+   "s": [
+    [
+     "The cafe was on the second floor of a shopping mall, and from its window you could see the grey roof of the City Museum.",
+     "Кафе находилось на втором этаже торгового центра, и из его окна была видна серая крыша Городского музея."
+    ],
+    [
+     "Marta always chose places like this: busy, noisy and full of people who never looked at anyone.",
+     "Марта всегда выбирала такие места: людные, шумные и полные людей, которые ни на кого не смотрят."
+    ],
+    [
+     "She sat with her back to the wall, drank her black coffee and waited for her team.",
+     "Она сидела спиной к стене, пила чёрный кофе и ждала свою команду."
+    ]
+   ]
+  },
+  {
+   "en": "Oskar arrived first, with two laptops and a bag of sweets. Then came Viktor, an old man in an expensive coat, who looked at the cafe's sandwiches with disgust. The last was Bella, nineteen years old, the youngest of them. She sat down, smiled and put a wallet on the table.",
+   "ru": "Первым пришёл Оскар с двумя ноутбуками и пакетом конфет. Потом появился Виктор, пожилой мужчина в дорогом пальто, который посмотрел на бутерброды в кафе с отвращением. Последней пришла Белла, девятнадцати лет, самая младшая из них. Она села, улыбнулась и положила на стол кошелёк.",
+   "s": [
+    [
+     "Oskar arrived first, with two laptops and a bag of sweets.",
+     "Первым пришёл Оскар с двумя ноутбуками и пакетом конфет."
+    ],
+    [
+     "Then came Viktor, an old man in an expensive coat, who looked at the cafe's sandwiches with disgust.",
+     "Потом появился Виктор, пожилой мужчина в дорогом пальто, который посмотрел на бутерброды в кафе с отвращением."
+    ],
+    [
+     "The last was Bella, nineteen years old, the youngest of them.",
+     "Последней пришла Белла, девятнадцати лет, самая младшая из них."
+    ],
+    [
+     "She sat down, smiled and put a wallet on the table.",
+     "Она села, улыбнулась и положила на стол кошелёк."
+    ]
+   ]
+  },
+  {
+   "en": "“Whose is that?” asked Marta.\n“The man at the next table,” said Bella. “Sorry. It's a habit.”\n“Give it back. Now,” said Marta. “And try to change that behaviour before Friday. A thief who steals for fun is a thief who gets caught.”",
+   "ru": "«Чей это?» — спросила Марта.\n«Того мужчины за соседним столиком, — сказала Белла. — Простите. Привычка».\n«Верни его. Сейчас же, — сказала Марта. — И постарайся изменить это поведение до пятницы. Вор, который ворует ради забавы, — это вор, которого поймают».",
+   "s": [
+    [
+     "“Whose is that?” asked Marta.",
+     "«Чей это?» — спросила Марта."
+    ],
+    [
+     "“The man at the next table,” said Bella.",
+     "«Того мужчины за соседним столиком», — сказала Белла."
+    ],
+    [
+     "“Sorry.",
+     "«Простите."
+    ],
+    [
+     "It's a habit.”",
+     "Привычка»."
+    ],
+    [
+     "“Give it back.",
+     "«Верни его."
+    ],
+    [
+     "Now,” said Marta.",
+     "Сейчас же», — сказала Марта."
+    ],
+    [
+     "“And try to change that behaviour before Friday.",
+     "«И постарайся изменить это поведение до пятницы."
+    ],
+    [
+     "A thief who steals for fun is a thief who gets caught.”",
+     "Вор, который ворует ради забавы, — это вор, которого поймают»."
+    ]
+   ]
+  },
+  {
+   "en": "Bella sighed, stood up and walked past the man's table. When she came back, the wallet was in his pocket again, and he had noticed nothing.",
+   "ru": "Белла вздохнула, встала и прошла мимо столика того мужчины. Когда она вернулась, кошелёк снова был у него в кармане, а он ничего не заметил.",
+   "s": [
+    [
+     "Bella sighed, stood up and walked past the man's table.",
+     "Белла вздохнула, встала и прошла мимо столика того мужчины."
+    ],
+    [
+     "When she came back, the wallet was in his pocket again, and he had noticed nothing.",
+     "Когда она вернулась, кошелёк снова был у него в кармане, а он ничего не заметил."
+    ]
+   ]
+  },
+  {
+   "en": "Marta opened a folder. Inside there was a photo of a small golden plate. In the middle of it, an artist had painted a young shepherd with three white sheep on a green hill.\n“The Shepherd's Plate,” she said. “Four hundred years old. It stands alone in the Great Hall, in a glass case, and it is the most famous thing in the museum. Especially since the director, Mr Grant, became famous himself. He is on television, in magazines, everywhere.”",
+   "ru": "Марта открыла папку. Внутри лежала фотография маленькой золотой тарелки. В её центре художник нарисовал юного пастуха с тремя белыми овцами на зелёном холме.\n«Тарелка пастуха, — сказала она. — Ей четыреста лет. Она стоит одна в Большом зале, в стеклянной витрине, и это самая знаменитая вещь в музее. Особенно с тех пор, как директор, мистер Грант, сам стал знаменитым. Он на телевидении, в журналах, повсюду».",
+   "s": [
+    [
+     "Marta opened a folder.",
+     "Марта открыла папку."
+    ],
+    [
+     "Inside there was a photo of a small golden plate.",
+     "Внутри лежала фотография маленькой золотой тарелки."
+    ],
+    [
+     "In the middle of it, an artist had painted a young shepherd with three white sheep on a green hill.",
+     "В её центре художник нарисовал юного пастуха с тремя белыми овцами на зелёном холме."
+    ],
+    [
+     "“The Shepherd's Plate,” she said.",
+     "«Тарелка пастуха», — сказала она."
+    ],
+    [
+     "“Four hundred years old.",
+     "«Ей четыреста лет."
+    ],
+    [
+     "It stands alone in the Great Hall, in a glass case, and it is the most famous thing in the museum.",
+     "Она стоит одна в Большом зале, в стеклянной витрине, и это самая знаменитая вещь в музее."
+    ],
+    [
+     "Especially since the director, Mr Grant, became famous himself.",
+     "Особенно с тех пор, как директор, мистер Грант, сам стал знаменитым."
+    ],
+    [
+     "He is on television, in magazines, everywhere.”",
+     "Он на телевидении, в журналах, повсюду»."
+    ]
+   ]
+  },
+  {
+   "en": "“How much money is it?” asked Oskar.\n“More than all of us will earn in our lives,” Viktor answered. He touched his stomach and made a face. “Excuse me. My stomach always hurts before a job. Forty years, and it is still the same.”",
+   "ru": "«И сколько она стоит?» — спросил Оскар.\n«Больше, чем все мы заработаем за всю жизнь», — ответил Виктор. Он потрогал живот и поморщился. «Прошу прощения. У меня всегда болит желудок перед делом. Сорок лет — и всё так же».",
+   "s": [
+    [
+     "“How much money is it?” asked Oskar.",
+     "«И сколько она стоит?» — спросил Оскар."
+    ],
+    [
+     "“More than all of us will earn in our lives,” Viktor answered.",
+     "«Больше, чем все мы заработаем за всю жизнь», — ответил Виктор."
+    ],
+    [
+     "He touched his stomach and made a face.",
+     "Он потрогал живот и поморщился."
+    ],
+    [
+     "“Excuse me.",
+     "«Прошу прощения."
+    ],
+    [
+     "My stomach always hurts before a job.",
+     "У меня всегда болит желудок перед делом."
+    ],
+    [
+     "Forty years, and it is still the same.”",
+     "Сорок лет — и всё так же»."
+    ]
+   ]
+  },
+  {
+   "en": "Over the next week Marta taught them everything. She taught Oskar the security system and showed him every camera. She taught Bella how the night guards worked: when they were tired, when they drank coffee, when they looked at their phones. “Watch people's behaviour,” she said. “For example, the old guard on the second floor always stops at the window at two o'clock. He likes to look at the moon. That gives us four minutes.”",
+   "ru": "Всю следующую неделю Марта учила их всему. Она научила Оскара системе охраны и показала ему каждую камеру. Она научила Беллу тому, как работают ночные охранники: когда они устают, когда пьют кофе, когда смотрят в телефоны. «Следи за поведением людей, — говорила она. — Например, старый охранник на втором этаже всегда останавливается у окна в два часа. Он любит смотреть на луну. Это даёт нам четыре минуты».",
+   "s": [
+    [
+     "Over the next week Marta taught them everything.",
+     "Всю следующую неделю Марта учила их всему."
+    ],
+    [
+     "She taught Oskar the security system and showed him every camera.",
+     "Она научила Оскара системе охраны и показала ему каждую камеру."
+    ],
+    [
+     "She taught Bella how the night guards worked: when they were tired, when they drank coffee, when they looked at their phones.",
+     "Она научила Беллу тому, как работают ночные охранники: когда они устают, когда пьют кофе, когда смотрят в телефоны."
+    ],
+    [
+     "“Watch people's behaviour,” she said.",
+     "«Следи за поведением людей», — говорила она."
+    ],
+    [
+     "“For example, the old guard on the second floor always stops at the window at two o'clock.",
+     "«Например, старый охранник на втором этаже всегда останавливается у окна в два часа."
+    ],
+    [
+     "He likes to look at the moon.",
+     "Он любит смотреть на луну."
+    ],
+    [
+     "That gives us four minutes.”",
+     "Это даёт нам четыре минуты»."
+    ]
+   ]
+  },
+  {
+   "en": "Bella thought it was the most exciting week of her life. Oskar thought it was the most boring one. Viktor said nothing and drank a lot of tea for his stomach.",
+   "ru": "Белла считала, что это самая захватывающая неделя в её жизни. Оскар считал, что самая скучная. Виктор ничего не говорил и пил много чая для желудка.",
+   "s": [
+    [
+     "Bella thought it was the most exciting week of her life.",
+     "Белла считала, что это самая захватывающая неделя в её жизни."
+    ],
+    [
+     "Oskar thought it was the most boring one.",
+     "Оскар считал, что самая скучная."
+    ],
+    [
+     "Viktor said nothing and drank a lot of tea for his stomach.",
+     "Виктор ничего не говорил и пил много чая для желудка."
+    ]
+   ]
+  },
+  {
+   "en": "On Thursday evening Bella could not sleep. She walked around her small flat and thought about everything that could go wrong. What if the guard did not stop at the window? What if Viktor's fingers were too slow? At midnight she sent a message to Marta: “Are you sure about this?” The answer came after one minute: “I have been sure for fifteen years. Go to sleep.”",
+   "ru": "В четверг вечером Белла не могла уснуть. Она ходила по своей маленькой квартире и думала обо всём, что может пойти не так. Что, если охранник не остановится у окна? Что, если пальцы Виктора окажутся слишком медленными? В полночь она отправила Марте сообщение: «Вы в этом уверены?» Ответ пришёл через минуту: «Я уверена уже пятнадцать лет. Ложись спать».",
+   "s": [
+    [
+     "On Thursday evening Bella could not sleep.",
+     "В четверг вечером Белла не могла уснуть."
+    ],
+    [
+     "She walked around her small flat and thought about everything that could go wrong.",
+     "Она ходила по своей маленькой квартире и думала обо всём, что может пойти не так."
+    ],
+    [
+     "What if the guard did not stop at the window?",
+     "Что, если охранник не остановится у окна?"
+    ],
+    [
+     "What if Viktor's fingers were too slow?",
+     "Что, если пальцы Виктора окажутся слишком медленными?"
+    ],
+    [
+     "At midnight she sent a message to Marta: “Are you sure about this?”",
+     "В полночь она отправила Марте сообщение: «Вы в этом уверены?»"
+    ],
+    [
+     "The answer came after one minute: “I have been sure for fifteen years.",
+     "Ответ пришёл через минуту: «Я уверена уже пятнадцать лет."
+    ],
+    [
+     "Go to sleep.”",
+     "Ложись спать»."
+    ]
+   ]
+  },
+  {
+   "en": "On Friday night, at five minutes to two, they were inside. Oskar sat in a van nearby, in front of six screens, and spoke to them through tiny earphones. “Camera three is sleeping,” he said. “Camera four is sleeping. You have a clear way to the Great Hall.”",
+   "ru": "В пятницу ночью, без пяти два, они были внутри. Оскар сидел в фургоне поблизости перед шестью экранами и говорил с ними через крошечные наушники. «Камера три спит, — сказал он. — Камера четыре спит. Путь к Большому залу свободен».",
+   "s": [
+    [
+     "On Friday night, at five minutes to two, they were inside.",
+     "В пятницу ночью, без пяти два, они были внутри."
+    ],
+    [
+     "Oskar sat in a van nearby, in front of six screens, and spoke to them through tiny earphones.",
+     "Оскар сидел в фургоне поблизости перед шестью экранами и говорил с ними через крошечные наушники."
+    ],
+    [
+     "“Camera three is sleeping,” he said.",
+     "«Камера три спит», — сказал он."
+    ],
+    [
+     "“Camera four is sleeping.",
+     "«Камера четыре спит."
+    ],
+    [
+     "You have a clear way to the Great Hall.”",
+     "Путь к Большому залу свободен»."
+    ]
+   ]
+  },
+  {
+   "en": "The hall was dark and very quiet. Moonlight came through the high windows and fell on the glass case in the middle of the room. Viktor knelt down and began to work on the lock with his thin old fingers. Bella stood next to him. She was so anxious that she could hear her own heart.",
+   "ru": "В зале было темно и очень тихо. Лунный свет падал через высокие окна на стеклянную витрину посреди комнаты. Виктор опустился на колени и принялся за замок своими тонкими старыми пальцами. Белла стояла рядом с ним. Она так волновалась, что слышала стук собственного сердца.",
+   "s": [
+    [
+     "The hall was dark and very quiet.",
+     "В зале было темно и очень тихо."
+    ],
+    [
+     "Moonlight came through the high windows and fell on the glass case in the middle of the room.",
+     "Лунный свет падал через высокие окна на стеклянную витрину посреди комнаты."
+    ],
+    [
+     "Viktor knelt down and began to work on the lock with his thin old fingers.",
+     "Виктор опустился на колени и принялся за замок своими тонкими старыми пальцами."
+    ],
+    [
+     "Bella stood next to him.",
+     "Белла стояла рядом с ним."
+    ],
+    [
+     "She was so anxious that she could hear her own heart.",
+     "Она так волновалась, что слышала стук собственного сердца."
+    ]
+   ]
+  },
+  {
+   "en": "The lock opened with a soft click. Marta lifted the glass and took the plate out. She held it in her hands for a long moment, and Bella saw something strange on her face. It was not happiness. It was pain.",
+   "ru": "Замок открылся с тихим щелчком. Марта подняла стекло и вынула тарелку. Она долго держала её в руках, и Белла увидела на её лице что-то странное. Это была не радость. Это была боль.",
+   "s": [
+    [
+     "The lock opened with a soft click.",
+     "Замок открылся с тихим щелчком."
+    ],
+    [
+     "Marta lifted the glass and took the plate out.",
+     "Марта подняла стекло и вынула тарелку."
+    ],
+    [
+     "She held it in her hands for a long moment, and Bella saw something strange on her face.",
+     "Она долго держала её в руках, и Белла увидела на её лице что-то странное."
+    ],
+    [
+     "It was not happiness.",
+     "Это была не радость."
+    ],
+    [
+     "It was pain.",
+     "Это была боль."
+    ]
+   ]
+  },
+  {
+   "en": "“Marta?” Bella whispered.\n“I'm fine,” said Marta. She turned the plate over and looked at the back. Then she gave it to Viktor. “Tell her,” she said.",
+   "ru": "«Марта?» — прошептала Белла.\n«Я в порядке», — сказала Марта. Она перевернула тарелку и посмотрела на обратную сторону. Потом передала её Виктору. «Скажи ей», — сказала она.",
+   "s": [
+    [
+     "“Marta?” Bella whispered.",
+     "«Марта?» — прошептала Белла."
+    ],
+    [
+     "“I'm fine,” said Marta.",
+     "«Я в порядке», — сказала Марта."
+    ],
+    [
+     "She turned the plate over and looked at the back.",
+     "Она перевернула тарелку и посмотрела на обратную сторону."
+    ],
+    [
+     "Then she gave it to Viktor.",
+     "Потом передала её Виктору."
+    ],
+    [
+     "“Tell her,” she said.",
+     "«Скажи ей», — сказала она."
+    ]
+   ]
+  },
+  {
+   "en": "Viktor looked at the plate for only five seconds. “It's a fake,” he said. “A good one. But the gold is too bright, and look here: this sheep has its shadow on the wrong side. A real artist four hundred years ago would never make that mistake. It's a small flaw, and only an expert can see it.”",
+   "ru": "Виктор смотрел на тарелку всего пять секунд. «Это подделка, — сказал он. — Хорошая. Но золото слишком яркое, и посмотри сюда: у этой овцы тень не с той стороны. Настоящий художник четыреста лет назад никогда бы не сделал такой ошибки. Это маленький недостаток, и увидеть его может только эксперт».",
+   "s": [
+    [
+     "Viktor looked at the plate for only five seconds.",
+     "Виктор смотрел на тарелку всего пять секунд."
+    ],
+    [
+     "“It's a fake,” he said.",
+     "«Это подделка», — сказал он."
+    ],
+    [
+     "“A good one.",
+     "«Хорошая."
+    ],
+    [
+     "But the gold is too bright, and look here: this sheep has its shadow on the wrong side.",
+     "Но золото слишком яркое, и посмотри сюда: у этой овцы тень не с той стороны."
+    ],
+    [
+     "A real artist four hundred years ago would never make that mistake.",
+     "Настоящий художник четыреста лет назад никогда бы не сделал такой ошибки."
+    ],
+    [
+     "It's a small flaw, and only an expert can see it.”",
+     "Это маленький недостаток, и увидеть его может только эксперт»."
+    ]
+   ]
+  },
+  {
+   "en": "“A fake?” said Oskar in their ears. “So we did all this for nothing?”\n“No,” said Marta. “We did all this because I knew it was a fake. I just needed to be sure.”",
+   "ru": "«Подделка? — раздался в их ушах голос Оскара. — Значит, мы всё это делали зря?»\n«Нет, — сказала Марта. — Мы всё это делали, потому что я знала, что это подделка. Мне просто нужно было убедиться».",
+   "s": [
+    [
+     "“A fake?” said Oskar in their ears.",
+     "«Подделка?» — раздался в их ушах голос Оскара."
+    ],
+    [
+     "“So we did all this for nothing?”",
+     "«Значит, мы всё это делали зря?»"
+    ],
+    [
+     "“No,” said Marta.",
+     "«Нет», — сказала Марта."
+    ],
+    [
+     "“We did all this because I knew it was a fake.",
+     "«Мы всё это делали, потому что я знала, что это подделка."
+    ],
+    [
+     "I just needed to be sure.”",
+     "Мне просто нужно было убедиться»."
+    ]
+   ]
+  },
+  {
+   "en": "Then, in the dark hall, she told them the true narrative. Fifteen years ago, a painting disappeared from this museum. The police never found the thief, but someone had to be responsible, so the museum blamed the night guard. He lost his job, his friends and his good name. Two years later he died, a tired, sad man who never stopped saying, “It wasn't me.”\n“He was my father,” Marta said.",
+   "ru": "И тогда, в тёмном зале, она рассказала им подлинную историю. Пятнадцать лет назад из этого музея пропала картина. Полиция так и не нашла вора, но кто-то должен был ответить, и музей обвинил ночного охранника. Он потерял работу, друзей и доброе имя. Через два года он умер — усталый, печальный человек, который до конца повторял: «Это был не я».\n«Он был моим отцом», — сказала Марта.",
+   "s": [
+    [
+     "Then, in the dark hall, she told them the true narrative.",
+     "И тогда, в тёмном зале, она рассказала им подлинную историю."
+    ],
+    [
+     "Fifteen years ago, a painting disappeared from this museum.",
+     "Пятнадцать лет назад из этого музея пропала картина."
+    ],
+    [
+     "The police never found the thief, but someone had to be responsible, so the museum blamed the night guard.",
+     "Полиция так и не нашла вора, но кто-то должен был ответить, и музей обвинил ночного охранника."
+    ],
+    [
+     "He lost his job, his friends and his good name.",
+     "Он потерял работу, друзей и доброе имя."
+    ],
+    [
+     "Two years later he died, a tired, sad man who never stopped saying, “It wasn't me.”",
+     "Через два года он умер — усталый, печальный человек, который до конца повторял: «Это был не я»."
+    ],
+    [
+     "“He was my father,” Marta said.",
+     "«Он был моим отцом», — сказала Марта."
+    ]
+   ]
+  },
+  {
+   "en": "“At that time Mr Grant was a young assistant,” she went on. “After the theft he received a big promotion. Later he became director. And last year I received a letter from a friend in Switzerland. A rich collector there has a golden plate with a shepherd and three sheep on it. He bought it from Mr Grant.”",
+   "ru": "«Мистер Грант тогда был молодым ассистентом, — продолжила она. — После кражи он получил большое повышение. Позже он стал директором. А в прошлом году я получила письмо от друга из Швейцарии. У одного богатого коллекционера там есть золотая тарелка с пастухом и тремя овцами. Он купил её у мистера Гранта».",
+   "s": [
+    [
+     "“At that time Mr Grant was a young assistant,” she went on.",
+     "«Мистер Грант тогда был молодым ассистентом», — продолжила она."
+    ],
+    [
+     "“After the theft he received a big promotion.",
+     "«После кражи он получил большое повышение."
+    ],
+    [
+     "Later he became director.",
+     "Позже он стал директором."
+    ],
+    [
+     "And last year I received a letter from a friend in Switzerland.",
+     "А в прошлом году я получила письмо от друга из Швейцарии."
+    ],
+    [
+     "A rich collector there has a golden plate with a shepherd and three sheep on it.",
+     "У одного богатого коллекционера там есть золотая тарелка с пастухом и тремя овцами."
+    ],
+    [
+     "He bought it from Mr Grant.”",
+     "Он купил её у мистера Гранта»."
+    ]
+   ]
+  },
+  {
+   "en": "Nobody spoke. Bella wanted to cry, and she did not even know why.\n“So this is revenge,” Viktor said quietly. It was not a question.\n“It is justice,” Marta answered. “But yes. Maybe it is revenge too.”",
+   "ru": "Никто не произнёс ни слова. Белле хотелось плакать, и она сама не знала почему.\n«Значит, это месть», — тихо сказал Виктор. Это был не вопрос.\n«Это справедливость, — ответила Марта. — Но да. Может быть, и месть тоже».",
+   "s": [
+    [
+     "Nobody spoke.",
+     "Никто не произнёс ни слова."
+    ],
+    [
+     "Bella wanted to cry, and she did not even know why.",
+     "Белле хотелось плакать, и она сама не знала почему."
+    ],
+    [
+     "“So this is revenge,” Viktor said quietly.",
+     "«Значит, это месть», — тихо сказал Виктор."
+    ],
+    [
+     "It was not a question.",
+     "Это был не вопрос."
+    ],
+    [
+     "“It is justice,” Marta answered.",
+     "«Это справедливость», — ответила Марта."
+    ],
+    [
+     "“But yes.",
+     "«Но да."
+    ],
+    [
+     "Maybe it is revenge too.”",
+     "Может быть, и месть тоже»."
+    ]
+   ]
+  },
+  {
+   "en": "“I'm sorry, it's a very sad story,” said Oskar, “but unfortunately we have a problem. The guard on the second floor has finished looking at the moon. You have two minutes.”",
+   "ru": "«Простите, это очень грустная история, — сказал Оскар, — но, к сожалению, у нас проблема. Охранник на втором этаже закончил смотреть на луну. У вас две минуты».",
+   "s": [
+    [
+     "“I'm sorry, it's a very sad story,” said Oskar, “but unfortunately we have a problem.",
+     "«Простите, это очень грустная история, — сказал Оскар, — но, к сожалению, у нас проблема."
+    ],
+    [
+     "The guard on the second floor has finished looking at the moon.",
+     "Охранник на втором этаже закончил смотреть на луну."
+    ],
+    [
+     "You have two minutes.”",
+     "У вас две минуты»."
+    ]
+   ]
+  },
+  {
+   "en": "Marta took a thick envelope out of her pocket and put it in the empty case, next to the fake plate. Inside were copies of letters, bank papers and photos of the plate in Switzerland. Then she said, “Oskar. Now.”",
+   "ru": "Марта достала из кармана толстый конверт и положила его в пустую витрину рядом с поддельной тарелкой. Внутри были копии писем, банковские документы и фотографии тарелки в Швейцарии. Потом она сказала: «Оскар. Давай».",
+   "s": [
+    [
+     "Marta took a thick envelope out of her pocket and put it in the empty case, next to the fake plate.",
+     "Марта достала из кармана толстый конверт и положила его в пустую витрину рядом с поддельной тарелкой."
+    ],
+    [
+     "Inside were copies of letters, bank papers and photos of the plate in Switzerland.",
+     "Внутри были копии писем, банковские документы и фотографии тарелки в Швейцарии."
+    ],
+    [
+     "Then she said, “Oskar.",
+     "Потом она сказала: «Оскар."
+    ],
+    [
+     "Now.”",
+     "Давай»."
+    ]
+   ]
+  },
+  {
+   "en": "In the van, Oskar pressed a key. At once every screen in the museum, in the Great Hall, in the shop, in the cafe, and even the big screen outside on the street, showed the same photo: Mr Grant, smiling and shaking hands with the collector, with the golden plate between them.",
+   "ru": "В фургоне Оскар нажал клавишу. Сразу же каждый экран в музее — в Большом зале, в магазине, в кафе и даже большой экран снаружи, на улице, — показал одну и ту же фотографию: мистер Грант, улыбаясь, пожимает руку коллекционеру, а между ними золотая тарелка.",
+   "s": [
+    [
+     "In the van, Oskar pressed a key.",
+     "В фургоне Оскар нажал клавишу."
+    ],
+    [
+     "At once every screen in the museum, in the Great Hall, in the shop, in the cafe, and even the big screen outside on the street, showed the same photo: Mr Grant, smiling and shaking hands with the collector, with the golden plate between them.",
+     "Сразу же каждый экран в музее — в Большом зале, в магазине, в кафе и даже большой экран снаружи, на улице, — показал одну и ту же фотографию: мистер Грант, улыбаясь, пожимает руку коллекционеру, а между ними золотая тарелка."
+    ]
+   ]
+  },
+  {
+   "en": "Then the alarm began to scream. “Go, go, go!” said Oskar. They ran through the back door, across the dark yard and into the van, and Oskar drove away slowly, like a man who had nothing to hide.",
+   "ru": "Тут завыла сигнализация. «Бегом, бегом, бегом!» — сказал Оскар. Они выбежали через заднюю дверь, пересекли тёмный двор и запрыгнули в фургон, и Оскар медленно уехал, как человек, которому нечего скрывать.",
+   "s": [
+    [
+     "Then the alarm began to scream.",
+     "Тут завыла сигнализация."
+    ],
+    [
+     "“Go, go, go!” said Oskar.",
+     "«Бегом, бегом, бегом!» — сказал Оскар."
+    ],
+    [
+     "They ran through the back door, across the dark yard and into the van, and Oskar drove away slowly, like a man who had nothing to hide.",
+     "Они выбежали через заднюю дверь, пересекли тёмный двор и запрыгнули в фургон, и Оскар медленно уехал, как человек, которому нечего скрывать."
+    ]
+   ]
+  },
+  {
+   "en": "The next morning the news was everywhere. The police had found the fake plate and the envelope. Journalists stood in front of Mr Grant's house. People on the street were taking pictures of the big screen, which nobody could switch off. By lunchtime Mr Grant had lost his job, and the police wanted to ask him a lot of questions. In one night, all his power was gone.",
+   "ru": "На следующее утро новости были повсюду. Полиция нашла поддельную тарелку и конверт. Журналисты стояли перед домом мистера Гранта. Люди на улице фотографировали большой экран, который никто не мог выключить. К обеду мистер Грант потерял работу, а у полиции появилось к нему много вопросов. За одну ночь вся его власть исчезла.",
+   "s": [
+    [
+     "The next morning the news was everywhere.",
+     "На следующее утро новости были повсюду."
+    ],
+    [
+     "The police had found the fake plate and the envelope.",
+     "Полиция нашла поддельную тарелку и конверт."
+    ],
+    [
+     "Journalists stood in front of Mr Grant's house.",
+     "Журналисты стояли перед домом мистера Гранта."
+    ],
+    [
+     "People on the street were taking pictures of the big screen, which nobody could switch off.",
+     "Люди на улице фотографировали большой экран, который никто не мог выключить."
+    ],
+    [
+     "By lunchtime Mr Grant had lost his job, and the police wanted to ask him a lot of questions.",
+     "К обеду мистер Грант потерял работу, а у полиции появилось к нему много вопросов."
+    ],
+    [
+     "In one night, all his power was gone.",
+     "За одну ночь вся его власть исчезла."
+    ]
+   ]
+  },
+  {
+   "en": "The four of them met again in the cafe at the mall. Viktor ate a sandwich, and this time he did not look at it with disgust. “My stomach feels better,” he said, surprised. “Forty years, and this is the first time it feels better after a job.”",
+   "ru": "Вчетвером они снова встретились в кафе в торговом центре. Виктор съел бутерброд и на этот раз не смотрел на него с отвращением. «Желудку лучше, — удивлённо сказал он. — Сорок лет — и впервые ему лучше после дела».",
+   "s": [
+    [
+     "The four of them met again in the cafe at the mall.",
+     "Вчетвером они снова встретились в кафе в торговом центре."
+    ],
+    [
+     "Viktor ate a sandwich, and this time he did not look at it with disgust.",
+     "Виктор съел бутерброд и на этот раз не смотрел на него с отвращением."
+    ],
+    [
+     "“My stomach feels better,” he said, surprised.",
+     "«Желудку лучше», — удивлённо сказал он."
+    ],
+    [
+     "“Forty years, and this is the first time it feels better after a job.”",
+     "«Сорок лет — и впервые ему лучше после дела»."
+    ]
+   ]
+  },
+  {
+   "en": "“But we didn't steal anything,” Bella said. “No gold. No money. Nothing.”\n“We stole his story,” said Marta. “For fifteen years everybody believed his narrative. Now they will believe my father's.” She smiled. For the first time since they had met, she let her face express what she really felt. “Sometimes the worth of a thing is not in gold.”",
+   "ru": "«Но мы же ничего не украли, — сказала Белла. — Ни золота. Ни денег. Ничего».\n«Мы украли его историю, — сказала Марта. — Пятнадцать лет все верили его рассказу. Теперь будут верить рассказу моего отца». Она улыбнулась. Впервые с тех пор, как они познакомились, она позволила своему лицу выразить то, что действительно чувствовала. «Иногда ценность вещи не в золоте».",
+   "s": [
+    [
+     "“But we didn't steal anything,” Bella said.",
+     "«Но мы же ничего не украли», — сказала Белла."
+    ],
+    [
+     "“No gold.",
+     "«Ни золота."
+    ],
+    [
+     "No money.",
+     "Ни денег."
+    ],
+    [
+     "Nothing.”",
+     "Ничего»."
+    ],
+    [
+     "“We stole his story,” said Marta.",
+     "«Мы украли его историю», — сказала Марта."
+    ],
+    [
+     "“For fifteen years everybody believed his narrative.",
+     "«Пятнадцать лет все верили его рассказу."
+    ],
+    [
+     "Now they will believe my father's.”",
+     "Теперь будут верить рассказу моего отца»."
+    ],
+    [
+     "She smiled.",
+     "Она улыбнулась."
+    ],
+    [
+     "For the first time since they had met, she let her face express what she really felt.",
+     "Впервые с тех пор, как они познакомились, она позволила своему лицу выразить то, что действительно чувствовала."
+    ],
+    [
+     "“Sometimes the worth of a thing is not in gold.”",
+     "«Иногда ценность вещи не в золоте»."
+    ]
+   ]
+  },
+  {
+   "en": "Oskar raised his cup. “To Marta's father.”\n“To Marta's father,” said the others.",
+   "ru": "Оскар поднял чашку. «За отца Марты».\n«За отца Марты», — повторили остальные.",
+   "s": [
+    [
+     "Oskar raised his cup.",
+     "Оскар поднял чашку."
+    ],
+    [
+     "“To Marta's father.”",
+     "«За отца Марты»."
+    ],
+    [
+     "“To Marta's father,” said the others.",
+     "«За отца Марты», — повторили остальные."
+    ]
+   ]
+  },
+  {
+   "en": "When they stood up to leave, Marta stopped. She checked her coat, then looked at Bella.\n“My keys,” she said. “Bella. Really?”",
+   "ru": "Когда они встали, чтобы уйти, Марта остановилась. Она проверила пальто, потом посмотрела на Беллу.\n«Мои ключи, — сказала она. — Белла. Серьёзно?»",
+   "s": [
+    [
+     "When they stood up to leave, Marta stopped.",
+     "Когда они встали, чтобы уйти, Марта остановилась."
+    ],
+    [
+     "She checked her coat, then looked at Bella.",
+     "Она проверила пальто, потом посмотрела на Беллу."
+    ],
+    [
+     "“My keys,” she said.",
+     "«Мои ключи», — сказала она."
+    ],
+    [
+     "“Bella.",
+     "«Белла."
+    ],
+    [
+     "Really?”",
+     "Серьёзно?»"
+    ]
+   ]
+  },
+  {
+   "en": "Bella put the keys on a plate on the table and gave her an innocent smile. “Sorry,” she said. “Old habits. You taught me a lot of useful stuff this week. You just didn't teach me how to stop.”\n“Out,” said Marta. But she was laughing.",
+   "ru": "Белла положила ключи на тарелку на столе и невинно улыбнулась. «Простите, — сказала она. — Старые привычки. Вы научили меня многим полезным вещам на этой неделе. Просто не научили, как остановиться».\n«Вон», — сказала Марта. Но она смеялась.",
+   "s": [
+    [
+     "Bella put the keys on a plate on the table and gave her an innocent smile.",
+     "Белла положила ключи на тарелку на столе и невинно улыбнулась."
+    ],
+    [
+     "“Sorry,” she said.",
+     "«Простите», — сказала она."
+    ],
+    [
+     "“Old habits.",
+     "«Старые привычки."
+    ],
+    [
+     "You taught me a lot of useful stuff this week.",
+     "Вы научили меня многим полезным вещам на этой неделе."
+    ],
+    [
+     "You just didn't teach me how to stop.”",
+     "Просто не научили, как остановиться»."
+    ],
+    [
+     "“Out,” said Marta.",
+     "«Вон», — сказала Марта."
+    ],
+    [
+     "But she was laughing.",
+     "Но она смеялась."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(артикль), один",
+  "about": "о, около",
+  "across": "через, поперёк",
+  "after": "после, через",
+  "again": "снова",
+  "ago": "назад",
+  "alarm": "сигнализация",
+  "all": "весь, все",
+  "alone": "один, одна",
+  "always": "всегда",
+  "an": "(артикль)",
+  "and": "и, а",
+  "answer": "ответ",
+  "answered": "ответил(а)",
+  "anxious": "тревожный, взволнованный",
+  "anyone": "кто-либо",
+  "anything": "ничего (в отриц.)",
+  "are": "есть, являются",
+  "around": "около, вокруг",
+  "arrived": "пришёл",
+  "artist": "художник",
+  "ask": "попросить, спросить",
+  "asked": "спросил(а), попросила",
+  "assistant": "ассистент",
+  "at": "в, у, на",
+  "ate": "съел",
+  "away": "прочь",
+  "back": "обратно, спина, обратная сторона",
+  "bag": "пакет, сумка",
+  "bank": "банковский",
+  "be": "быть",
+  "became": "стал(а)",
+  "because": "потому что",
+  "been": "была (pp от be)",
+  "before": "до, перед",
+  "began": "начал(а)",
+  "behaviour": "поведение",
+  "believe": "верить",
+  "believed": "верили",
+  "bella": "Белла (имя)",
+  "better": "лучше",
+  "between": "между",
+  "big": "большой",
+  "black": "чёрный",
+  "blamed": "обвинил",
+  "boring": "скучный",
+  "bought": "купил",
+  "bright": "яркий",
+  "busy": "людный, оживлённый",
+  "but": "но",
+  "by": "к (времени)",
+  "cafe": "кафе",
+  "cafe's": "в кафе (кафе)",
+  "came": "пришёл, пришла",
+  "camera": "камера",
+  "can": "мочь",
+  "case": "витрина",
+  "caught": "пойманный",
+  "change": "изменить",
+  "checked": "проверила",
+  "chose": "выбирала",
+  "city": "город",
+  "clear": "свободный, чистый",
+  "click": "щелчок",
+  "coat": "пальто",
+  "coffee": "кофе",
+  "collector": "коллекционер",
+  "copies": "копии",
+  "could": "мог(ла)",
+  "cry": "плакать",
+  "cup": "чашка",
+  "dark": "тёмный, темнота",
+  "did": "(вспом. гл.), сделал",
+  "didn't": "не (прош.)",
+  "died": "умерла",
+  "director": "директор",
+  "disappeared": "пропала",
+  "disgust": "отвращение",
+  "door": "дверь",
+  "down": "вниз",
+  "drank": "пил(а)",
+  "drove": "уехал (на машине)",
+  "earn": "заработать",
+  "earphones": "наушники",
+  "ears": "уши",
+  "empty": "пустой",
+  "envelope": "конверт",
+  "especially": "особенно",
+  "even": "даже",
+  "evening": "вечер",
+  "every": "каждый",
+  "everybody": "все",
+  "everything": "всё",
+  "everywhere": "повсюду",
+  "example": "пример",
+  "exciting": "захватывающий",
+  "excuse": "извинить",
+  "expensive": "дорогой",
+  "expert": "эксперт",
+  "express": "выразить",
+  "face": "лицо",
+  "fake": "подделка, поддельный",
+  "famous": "знаменитый",
+  "father": "отец",
+  "father's": "отца",
+  "feels": "чувствует себя",
+  "fell": "падал",
+  "felt": "чувствовала",
+  "fifteen": "пятнадцать",
+  "fine": "в порядке",
+  "fingers": "пальцы",
+  "finished": "закончил",
+  "first": "первый, сначала",
+  "five": "пять",
+  "flat": "квартира",
+  "flaw": "недостаток",
+  "floor": "этаж",
+  "folder": "папка",
+  "for": "для, за, в течение",
+  "forty": "сорок",
+  "found": "нашла",
+  "four": "четыре",
+  "friday": "пятница",
+  "friend": "друг",
+  "friends": "друзья",
+  "from": "из, от, с",
+  "front": "перед (in front of)",
+  "full": "полный",
+  "fun": "забава",
+  "gave": "передала, подарила",
+  "gets": "оказывается (gets caught)",
+  "give": "отдать",
+  "gives": "даёт",
+  "glass": "стекло, стеклянный",
+  "go": "идти",
+  "gold": "золото",
+  "golden": "золотой",
+  "gone": "исчез",
+  "good": "хороший",
+  "grant": "Грант (фамилия)",
+  "grant's": "Гранта",
+  "great": "большой, великий",
+  "green": "зелёный",
+  "grey": "седой, серый",
+  "guard": "охранник",
+  "guards": "охранники",
+  "habit": "привычка",
+  "habits": "привычки",
+  "had": "имел, (вспом. гл.)",
+  "hall": "зал",
+  "hands": "руки",
+  "happiness": "счастье, радость",
+  "has": "имеет, есть",
+  "have": "иметь",
+  "he": "он",
+  "hear": "слышать",
+  "heart": "сердце",
+  "held": "держала",
+  "her": "её, ей",
+  "here": "здесь",
+  "hide": "скрывать",
+  "high": "высокий, высоко",
+  "hill": "холм",
+  "him": "его, ему",
+  "himself": "сам",
+  "his": "его",
+  "house": "дом",
+  "how": "как",
+  "hundred": "сто",
+  "hurts": "болит",
+  "i": "я",
+  "i'm": "я",
+  "if": "если",
+  "in": "в",
+  "innocent": "невинный",
+  "inside": "внутри, в дом",
+  "into": "в",
+  "is": "есть, является",
+  "it": "он, она, оно",
+  "it's": "это",
+  "its": "его, её",
+  "job": "работа, дело",
+  "journalists": "журналисты",
+  "just": "просто",
+  "justice": "справедливость",
+  "key": "клавиша",
+  "keys": "ключи",
+  "knelt": "встал на колени",
+  "knew": "знала",
+  "know": "знать",
+  "laptops": "ноутбуки",
+  "last": "последний",
+  "later": "позже",
+  "laughing": "смеялась",
+  "leave": "уйти",
+  "let": "позволила",
+  "letter": "письмо",
+  "letters": "письма",
+  "life": "жизнь",
+  "lifted": "подняла",
+  "like": "как, вроде",
+  "likes": "любит",
+  "lives": "жизни",
+  "lock": "замок",
+  "long": "долгий, долго",
+  "look": "смотреть",
+  "looked": "посмотрел(а)",
+  "looking": "смотреть",
+  "lost": "потерял",
+  "lot": "много (a lot)",
+  "lunchtime": "обед",
+  "made": "сделал (made a face — поморщился)",
+  "magazines": "журналы",
+  "make": "сделать",
+  "mall": "торговый центр",
+  "man": "человек, мужчина",
+  "man's": "мужчины",
+  "marta": "Марта (имя)",
+  "marta's": "Марты",
+  "maybe": "может быть",
+  "me": "меня, мне",
+  "message": "сообщение",
+  "met": "встретила",
+  "middle": "середина",
+  "midnight": "полночь",
+  "minute": "минута",
+  "minutes": "минуты",
+  "mistake": "ошибка",
+  "moment": "мгновение",
+  "money": "деньги",
+  "moon": "луна",
+  "moonlight": "лунный свет",
+  "more": "больше, ещё",
+  "morning": "утро",
+  "most": "большая часть",
+  "mr": "мистер",
+  "much": "много (how much — сколько)",
+  "museum": "музей",
+  "my": "мой",
+  "name": "имя",
+  "narrative": "рассказ, история",
+  "nearby": "поблизости",
+  "needed": "нужно было",
+  "never": "никогда",
+  "news": "новости",
+  "next": "следующий",
+  "night": "ночь",
+  "nineteen": "девятнадцать",
+  "no": "нет, никакой",
+  "nobody": "никто",
+  "noisy": "шумный",
+  "not": "не",
+  "nothing": "ничего",
+  "noticed": "заметил",
+  "now": "теперь",
+  "o'clock": "час (о времени)",
+  "of": "из, (родительный падеж)",
+  "off": "выключить (switch off)",
+  "old": "старый",
+  "on": "на, (went on — продолжила)",
+  "once": "однажды",
+  "one": "один",
+  "only": "только",
+  "opened": "открыла, открылся",
+  "oskar": "Оскар (имя)",
+  "others": "остальные",
+  "our": "наш",
+  "out": "наружу, вон",
+  "outside": "снаружи",
+  "over": "над",
+  "own": "собственный",
+  "pain": "боль",
+  "painted": "нарисовал",
+  "painting": "картина",
+  "papers": "документы",
+  "past": "мимо",
+  "people": "люди",
+  "people's": "людей",
+  "phones": "телефоны",
+  "photo": "фото",
+  "photos": "фотографии",
+  "pictures": "снимки",
+  "places": "места",
+  "plate": "тарелка",
+  "pocket": "карман",
+  "police": "полиция",
+  "power": "власть",
+  "pressed": "нажал",
+  "problem": "проблема",
+  "promotion": "повышение",
+  "put": "положила",
+  "question": "вопрос",
+  "questions": "вопросы",
+  "quiet": "тихий",
+  "quietly": "тихо",
+  "raised": "поднял",
+  "ran": "выбежали",
+  "real": "настоящий",
+  "really": "действительно",
+  "received": "получил(а)",
+  "responsible": "ответственный",
+  "revenge": "месть",
+  "rich": "богатый",
+  "roof": "крыша",
+  "room": "комната",
+  "sad": "печальный",
+  "said": "сказал(а)",
+  "same": "тот же",
+  "sandwich": "бутерброд",
+  "sandwiches": "бутерброды",
+  "sat": "сидел, села",
+  "saw": "увидела",
+  "saying": "говорить",
+  "scream": "выть, кричать",
+  "screen": "экран",
+  "screens": "экраны",
+  "second": "второй",
+  "seconds": "секунды",
+  "security": "охрана",
+  "see": "видеть",
+  "sent": "отправила",
+  "shadow": "тень",
+  "shaking": "дрожа",
+  "she": "она",
+  "sheep": "овца, овцы",
+  "shepherd": "пастух",
+  "shepherd's": "пастуха",
+  "shop": "магазин",
+  "shopping": "торговый (shopping mall)",
+  "showed": "показал(а)",
+  "side": "сторона",
+  "sighed": "вздохнула",
+  "since": "с тех пор как",
+  "six": "шесть",
+  "sleep": "спать",
+  "sleeping": "спит",
+  "slow": "медленный",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smile": "улыбка",
+  "smiled": "улыбнулся",
+  "smiling": "улыбаясь",
+  "so": "так, поэтому",
+  "soft": "тихий, мягкий",
+  "someone": "кто-то",
+  "something": "что-то",
+  "sometimes": "иногда",
+  "sorry": "простите",
+  "spoke": "говорил, произнёс",
+  "stands": "стоит",
+  "steal": "украсть",
+  "steals": "ворует",
+  "still": "всё ещё",
+  "stole": "украли",
+  "stomach": "желудок, живот",
+  "stood": "стоял(а), встали",
+  "stop": "остановиться",
+  "stopped": "остановилась",
+  "stops": "останавливается",
+  "story": "история",
+  "strange": "странный",
+  "street": "улица",
+  "stuff": "вещи",
+  "sure": "уверенный",
+  "surprised": "удивлённый",
+  "sweets": "конфеты",
+  "switch": "выключить (switch off)",
+  "switzerland": "Швейцария",
+  "system": "система",
+  "table": "стол",
+  "taking": "делая (снимки)",
+  "taught": "учила, научила",
+  "tea": "чай",
+  "teach": "научить",
+  "team": "команда",
+  "television": "телевидение",
+  "tell": "сказать",
+  "than": "чем",
+  "that": "что, тот, это",
+  "the": "(артикль)",
+  "theft": "кража",
+  "their": "их",
+  "them": "их, им",
+  "then": "потом, тогда",
+  "there": "там",
+  "they": "они",
+  "thick": "толстый",
+  "thief": "вор",
+  "thin": "тонкий",
+  "thing": "вещь",
+  "this": "этот, это",
+  "thought": "подумала",
+  "three": "три",
+  "through": "через, сквозь",
+  "thursday": "четверг",
+  "time": "раз, время",
+  "tiny": "крошечный",
+  "tired": "усталый",
+  "to": "к, в, (частица)",
+  "told": "рассказала",
+  "too": "слишком",
+  "took": "взяла",
+  "touched": "потрогал",
+  "true": "правда",
+  "try": "попробовать",
+  "turned": "перевернула",
+  "two": "два",
+  "unfortunately": "к сожалению",
+  "up": "вверх, наверху",
+  "us": "нам, нас",
+  "useful": "полезный",
+  "van": "фургон",
+  "very": "очень",
+  "viktor": "Виктор (имя)",
+  "viktor's": "Виктора",
+  "waited": "ждала",
+  "walked": "прошла, ходила",
+  "wall": "стена",
+  "wallet": "кошелёк",
+  "wanted": "хотела",
+  "was": "был(а)",
+  "wasn't": "не был",
+  "watch": "следить",
+  "way": "путь, как",
+  "we": "мы",
+  "week": "неделя",
+  "went": "продолжила (went on)",
+  "were": "были",
+  "what": "что",
+  "when": "когда",
+  "which": "который",
+  "whispered": "прошептала",
+  "white": "белый",
+  "who": "кто",
+  "whose": "чей",
+  "why": "почему",
+  "will": "(буд. время)",
+  "window": "окно",
+  "windows": "окна",
+  "with": "с",
+  "work": "работать",
+  "worked": "работали",
+  "worth": "ценность",
+  "would": "бы",
+  "wrong": "не тот, неправильный",
+  "yard": "двор",
+  "year": "год",
+  "years": "лет, годы",
+  "yes": "да",
+  "you": "ты, вы",
+  "young": "молодой",
+  "youngest": "самая младшая"
+ },
+ "vocab": {
+  "better": 13,
+  "inside": 33,
+  "tired": 53,
+  "taught": 73,
+  "teach": 73,
+  "stomach": 93,
+  "cry": 113,
+  "exciting": 133,
+  "sheep": 153,
+  "pain": 173,
+  "stands": 193,
+  "stood": 193,
+  "received": 214,
+  "screens": 234,
+  "screen": 234,
+  "express": 254,
+  "hall": 274,
+  "mall": 295,
+  "nearby": 315,
+  "unfortunately": 335,
+  "pocket": 355,
+  "plate": 375,
+  "especially": 403,
+  "example": 423,
+  "behaviour": 446,
+  "habit": 473,
+  "habits": 473,
+  "anxious": 495,
+  "worth": 516,
+  "power": 537,
+  "narrative": 558,
+  "flaw": 579,
+  "revenge": 600,
+  "stuff": 622,
+  "disgust": 643
+ }
+}

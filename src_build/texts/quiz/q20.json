@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What was Anselm's main problem at the start?",
+  "q_ru": "Какова была главная проблема Ансельма в начале?",
+  "options": [
+   "He was very poor and hungry.",
+   "He thought only about money and was never happy.",
+   "He could not make good cherry juice.",
+   "He was afraid of the baker's daughter."
+  ],
+  "options_ru": [
+   "Он был очень беден и голоден.",
+   "Он думал только о деньгах и никогда не был счастлив.",
+   "Он не умел делать хороший вишнёвый сок.",
+   "Он боялся дочери пекаря."
+  ],
+  "answer": 1,
+  "explain_ru": "«He had an obsession, and its name was money». Каждую ночь он считал монеты, а иногда даже обсчитывал старушек."
+ },
+ {
+  "q": "Why did Anselm agree to sell his shadow so easily?",
+  "q_ru": "Почему Ансельм так легко согласился продать свою тень?",
+  "options": [
+   "The stranger threatened him.",
+   "Mira asked him to do it.",
+   "He wanted to become a ghost.",
+   "He thought a shadow was useless, and the gold was a lot."
+  ],
+  "options_ru": [
+   "Незнакомец угрожал ему.",
+   "Мира попросила его об этом.",
+   "Он хотел стать привидением.",
+   "Он считал тень бесполезной, а золота было много."
+  ],
+  "answer": 3,
+  "explain_ru": "Он рассуждал: «A shadow was nothing. It did not eat, it did not work», а сто золотых в месяц — больше его годового дохода."
+ },
+ {
+  "q": "\"It was evident to everyone that something was wrong with Anselm.\" What does \"evident\" mean?",
+  "q_ru": "«It was evident to everyone that something was wrong with Anselm». Что значит «evident»?",
+  "options": [
+   "Secret and hidden.",
+   "Funny and strange.",
+   "Clear and easy to see.",
+   "Sad and painful."
+  ],
+  "options_ru": [
+   "Тайный и скрытый.",
+   "Смешной и странный.",
+   "Ясный, очевидный.",
+   "Грустный и болезненный."
+  ],
+  "answer": 2,
+  "explain_ru": "«Evident» — очевидный. После статьи в газете всем стало ясно, что с Ансельмом что-то не так."
+ },
+ {
+  "q": "Why did Mira refuse to marry Anselm?",
+  "q_ru": "Почему Мира отказалась выйти за Ансельма?",
+  "options": [
+   "Without a shadow he was a stranger to her, a man without a past.",
+   "He did not have enough money.",
+   "She loved the stranger in the grey coat.",
+   "Her father did not like onions."
+  ],
+  "options_ru": [
+   "Без тени он стал для неё чужим, человеком без прошлого.",
+   "У него было мало денег.",
+   "Она любила незнакомца в сером пальто.",
+   "Её отец не любил лук."
+  ],
+  "answer": 0,
+  "explain_ru": "Мира сказала: «A man without a shadow is a man without a past... I don't know who you are anymore»."
+ },
+ {
+  "q": "What price did the stranger ask for the shadow?",
+  "q_ru": "Какую цену незнакомец попросил за тень?",
+  "options": [
+   "All the gold and the big house on the hill.",
+   "To give back every dishonest coin and tell the town the truth.",
+   "To bring him Mira's shadow.",
+   "To work for him in the grey house for a year."
+  ],
+  "options_ru": [
+   "Всё золото и большой дом на холме.",
+   "Вернуть каждую нечестную монету и рассказать городу правду.",
+   "Принести ему тень Миры.",
+   "Год работать на него в сером доме."
+  ],
+  "answer": 1,
+  "explain_ru": "Незнакомцу не нужно золото. Цена: «give back every coin you ever took dishonestly, and the gold I gave you too» и рассказать всему городу, что он сделал."
+ },
+ {
+  "q": "What happened at the end of the story?",
+  "q_ru": "Что произошло в конце рассказа?",
+  "options": [
+   "The stranger came to the market and took the shadow again.",
+   "Anselm became rich again and bought a new stall.",
+   "Anselm's shadow came back, and Mira's shadow held its hand.",
+   "Mira left Velmar and never came back."
+  ],
+  "options_ru": [
+   "Незнакомец пришёл на рынок и снова забрал тень.",
+   "Ансельм снова разбогател и купил новый прилавок.",
+   "Тень Ансельма вернулась, а тень Миры взяла её за руку.",
+   "Мира уехала из Велмара и больше не вернулась."
+  ],
+  "answer": 2,
+  "explain_ru": "Когда Ансельм всё вернул и признался, у его ног появилась тень, а тень Миры «was holding his shadow's hand». Сам он снова стал бедным."
+ }
+]

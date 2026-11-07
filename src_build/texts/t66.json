@@ -1,0 +1,1275 @@
+{
+ "id": 66,
+ "level": "B1",
+ "cat": "cons",
+ "title_en": "Nine Hikers and Dead Mountain: The Dyatlov Pass Mystery",
+ "title_ru": "Девять туристов и Мёртвая гора: загадка перевала Дятлова",
+ "genre": "Конспирология: загадка",
+ "summary_ru": "В 1959 году девять опытных туристов разрезали свою палатку изнутри и ушли в морозную ночь почти без одежды — что их выгнало: секретное оружие, шпионы или обычный снег?",
+ "paragraphs": [
+  {
+   "en": "On 26 February 1959, a group of searchers climbed a snowy slope in the northern Ural Mountains. Near the top, they found a tent, half covered with snow. Its side had been cut open, and inside there were boots, coats, food and other stuff that the hikers needed to survive in the cold. But the tent was empty. Its nine owners had vanished.",
+   "ru": "26 февраля 1959 года группа поисковиков поднялась по заснеженному склону на севере Уральских гор. Недалеко от вершины они нашли палатку, наполовину засыпанную снегом. Её стенка была разрезана, а внутри лежали ботинки, куртки, еда и другие вещи, которые нужны туристам, чтобы выжить на морозе. Но палатка была пуста. Её девять хозяев исчезли.",
+   "s": [
+    [
+     "On 26 February 1959, a group of searchers climbed a snowy slope in the northern Ural Mountains.",
+     "26 февраля 1959 года группа поисковиков поднялась по заснеженному склону на севере Уральских гор."
+    ],
+    [
+     "Near the top, they found a tent, half covered with snow.",
+     "Недалеко от вершины они нашли палатку, наполовину засыпанную снегом."
+    ],
+    [
+     "Its side had been cut open, and inside there were boots, coats, food and other stuff that the hikers needed to survive in the cold.",
+     "Её стенка была разрезана, а внутри лежали ботинки, куртки, еда и другие вещи, которые нужны туристам, чтобы выжить на морозе."
+    ],
+    [
+     "But the tent was empty.",
+     "Но палатка была пуста."
+    ],
+    [
+     "Its nine owners had vanished.",
+     "Её девять хозяев исчезли."
+    ]
+   ]
+  },
+  {
+   "en": "The hikers were students and graduates of the Ural Polytechnic Institute in Sverdlovsk, the city that is now called Yekaterinburg. Their leader was Igor Dyatlov, a 23-year-old student of radio engineering. All of them were experienced skiers and hikers. Their plan was a long winter journey on skis to Mount Otorten, a mountain in the northern Urals. The route had the highest category of difficulty at that time.",
+   "ru": "Туристы были студентами и выпускниками Уральского политехнического института в Свердловске — городе, который сейчас называется Екатеринбург. Их руководителем был Игорь Дятлов, 23-летний студент радиотехнического факультета. Все они были опытными лыжниками и туристами. Они планировали долгий зимний лыжный поход к горе Отортен на Северном Урале. Маршрут имел высшую категорию сложности того времени.",
+   "s": [
+    [
+     "The hikers were students and graduates of the Ural Polytechnic Institute in Sverdlovsk, the city that is now called Yekaterinburg.",
+     "Туристы были студентами и выпускниками Уральского политехнического института в Свердловске — городе, который сейчас называется Екатеринбург."
+    ],
+    [
+     "Their leader was Igor Dyatlov, a 23-year-old student of radio engineering.",
+     "Их руководителем был Игорь Дятлов, 23-летний студент радиотехнического факультета."
+    ],
+    [
+     "All of them were experienced skiers and hikers.",
+     "Все они были опытными лыжниками и туристами."
+    ],
+    [
+     "Their plan was a long winter journey on skis to Mount Otorten, a mountain in the northern Urals.",
+     "Они планировали долгий зимний лыжный поход к горе Отортен на Северном Урале."
+    ],
+    [
+     "The route had the highest category of difficulty at that time.",
+     "Маршрут имел высшую категорию сложности того времени."
+    ]
+   ]
+  },
+  {
+   "en": "At first, there were ten of them: two women, Zinaida Kolmogorova and Lyudmila Dubinina, and eight men. The oldest, Semyon Zolotaryov, was 37 and had fought in the Second World War. On 28 January, one of the men, Yuri Yudin, fell ill and had to turn back. He said goodbye to his friends and went home. He was the only member of the group who survived, and for the rest of his life he wanted to know what had happened to them.",
+   "ru": "Сначала их было десять: две девушки, Зинаида Колмогорова и Людмила Дубинина, и восемь мужчин. Самому старшему, Семёну Золотарёву, было 37 лет, и он воевал во Второй мировой войне. 28 января один из парней, Юрий Юдин, заболел и был вынужден вернуться. Он попрощался с друзьями и поехал домой. Он оказался единственным участником группы, который выжил, и всю оставшуюся жизнь хотел узнать, что с ними случилось.",
+   "s": [
+    [
+     "At first, there were ten of them: two women, Zinaida Kolmogorova and Lyudmila Dubinina, and eight men.",
+     "Сначала их было десять: две девушки, Зинаида Колмогорова и Людмила Дубинина, и восемь мужчин."
+    ],
+    [
+     "The oldest, Semyon Zolotaryov, was 37 and had fought in the Second World War.",
+     "Самому старшему, Семёну Золотарёву, было 37 лет, и он воевал во Второй мировой войне."
+    ],
+    [
+     "On 28 January, one of the men, Yuri Yudin, fell ill and had to turn back.",
+     "28 января один из парней, Юрий Юдин, заболел и был вынужден вернуться."
+    ],
+    [
+     "He said goodbye to his friends and went home.",
+     "Он попрощался с друзьями и поехал домой."
+    ],
+    [
+     "He was the only member of the group who survived, and for the rest of his life he wanted to know what had happened to them.",
+     "Он оказался единственным участником группы, который выжил, и всю оставшуюся жизнь хотел узнать, что с ними случилось."
+    ]
+   ]
+  },
+  {
+   "en": "The hikers kept diaries and took photographs, which were later found. They show a cheerful group of young people who joked, sang songs and even wrote a funny camp newspaper. On 1 February, they began to climb the slope of a mountain that the local Mansi people call Kholat Syakhl, a name that is often translated as \"Dead Mountain\". In the late afternoon, they put up their tent on the open slope, about one and a half kilometres from the forest. Then they prepared for the night.",
+   "ru": "Туристы вели дневники и фотографировали; позже всё это нашли. На них видна весёлая компания молодых людей, которые шутили, пели песни и даже выпускали смешную походную газету. 1 февраля они начали подниматься по склону горы, которую местный народ манси называет Холатчахль; это название часто переводят как «Мёртвая гора». Ближе к вечеру они поставили палатку на открытом склоне, примерно в полутора километрах от леса. Затем они стали готовиться ко сну.",
+   "s": [
+    [
+     "The hikers kept diaries and took photographs, which were later found.",
+     "Туристы вели дневники и фотографировали; позже всё это нашли."
+    ],
+    [
+     "They show a cheerful group of young people who joked, sang songs and even wrote a funny camp newspaper.",
+     "На них видна весёлая компания молодых людей, которые шутили, пели песни и даже выпускали смешную походную газету."
+    ],
+    [
+     "On 1 February, they began to climb the slope of a mountain that the local Mansi people call Kholat Syakhl, a name that is often translated as \"Dead Mountain\".",
+     "1 февраля они начали подниматься по склону горы, которую местный народ манси называет Холатчахль; это название часто переводят как «Мёртвая гора»."
+    ],
+    [
+     "In the late afternoon, they put up their tent on the open slope, about one and a half kilometres from the forest.",
+     "Ближе к вечеру они поставили палатку на открытом склоне, примерно в полутора километрах от леса."
+    ],
+    [
+     "Then they prepared for the night.",
+     "Затем они стали готовиться ко сну."
+    ]
+   ]
+  },
+  {
+   "en": "What happened next is still debated. The investigators found that the tent had been cut from the inside with a knife. Below the tent, there were footprints of eight or nine people leading down the slope towards the forest. Most of the hikers were walking in socks, in one boot or even barefoot. Their footprints suggested that they were walking in a line, not running in panic.",
+   "ru": "То, что произошло дальше, до сих пор вызывает споры. Следователи установили, что палатку разрезали изнутри ножом. Ниже палатки шли следы восьми или девяти человек, которые вели вниз по склону к лесу. Большинство туристов шли в носках, в одном ботинке или даже босиком. По следам было видно, что они шли цепочкой, а не бежали в панике.",
+   "s": [
+    [
+     "What happened next is still debated.",
+     "То, что произошло дальше, до сих пор вызывает споры."
+    ],
+    [
+     "The investigators found that the tent had been cut from the inside with a knife.",
+     "Следователи установили, что палатку разрезали изнутри ножом."
+    ],
+    [
+     "Below the tent, there were footprints of eight or nine people leading down the slope towards the forest.",
+     "Ниже палатки шли следы восьми или девяти человек, которые вели вниз по склону к лесу."
+    ],
+    [
+     "Most of the hikers were walking in socks, in one boot or even barefoot.",
+     "Большинство туристов шли в носках, в одном ботинке или даже босиком."
+    ],
+    [
+     "Their footprints suggested that they were walking in a line, not running in panic.",
+     "По следам было видно, что они шли цепочкой, а не бежали в панике."
+    ]
+   ]
+  },
+  {
+   "en": "A bit later, searchers found two bodies at the edge of the forest, under a large cedar tree, next to the remains of a small fire. They belonged to Yuri Doroshenko and Yuri Krivonischenko, who were wearing only their underwear. Branches on the tree had been broken up to a height of about five metres, as if someone had climbed it, perhaps to look back towards the tent.",
+   "ru": "Немного позже поисковики нашли два тела на опушке леса, под большим кедром, рядом с остатками небольшого костра. Это были Юрий Дорошенко и Юрий Кривонищенко, на которых было только нижнее бельё. Ветки на дереве были сломаны на высоту около пяти метров, будто кто-то залезал на него — возможно, чтобы посмотреть назад, в сторону палатки.",
+   "s": [
+    [
+     "A bit later, searchers found two bodies at the edge of the forest, under a large cedar tree, next to the remains of a small fire.",
+     "Немного позже поисковики нашли два тела на опушке леса, под большим кедром, рядом с остатками небольшого костра."
+    ],
+    [
+     "They belonged to Yuri Doroshenko and Yuri Krivonischenko, who were wearing only their underwear.",
+     "Это были Юрий Дорошенко и Юрий Кривонищенко, на которых было только нижнее бельё."
+    ],
+    [
+     "Branches on the tree had been broken up to a height of about five metres, as if someone had climbed it, perhaps to look back towards the tent.",
+     "Ветки на дереве были сломаны на высоту около пяти метров, будто кто-то залезал на него — возможно, чтобы посмотреть назад, в сторону палатки."
+    ]
+   ]
+  },
+  {
+   "en": "Three more bodies were found between the cedar and the tent: Igor Dyatlov, Zinaida Kolmogorova and Rustem Slobodin. Their positions suggested that they had been trying to return to the tent when they died. Doctors decided that all five had died of hypothermia, which means that the body becomes so cold that it stops working. Slobodin also had a small crack in his skull, but it was not considered the cause of his death.",
+   "ru": "Ещё три тела нашли между кедром и палаткой: Игоря Дятлова, Зинаиду Колмогорову и Рустема Слободина. Их позы говорили о том, что они пытались вернуться к палатке, когда погибли. Врачи пришли к выводу, что все пятеро умерли от переохлаждения — это значит, что тело настолько замерзает, что перестаёт работать. У Слободина также была небольшая трещина в черепе, но её не сочли причиной смерти.",
+   "s": [
+    [
+     "Three more bodies were found between the cedar and the tent: Igor Dyatlov, Zinaida Kolmogorova and Rustem Slobodin.",
+     "Ещё три тела нашли между кедром и палаткой: Игоря Дятлова, Зинаиду Колмогорову и Рустема Слободина."
+    ],
+    [
+     "Their positions suggested that they had been trying to return to the tent when they died.",
+     "Их позы говорили о том, что они пытались вернуться к палатке, когда погибли."
+    ],
+    [
+     "Doctors decided that all five had died of hypothermia, which means that the body becomes so cold that it stops working.",
+     "Врачи пришли к выводу, что все пятеро умерли от переохлаждения — это значит, что тело настолько замерзает, что перестаёт работать."
+    ],
+    [
+     "Slobodin also had a small crack in his skull, but it was not considered the cause of his death.",
+     "У Слободина также была небольшая трещина в черепе, но её не сочли причиной смерти."
+    ]
+   ]
+  },
+  {
+   "en": "The last four hikers were not found until May, when the snow began to melt. They were lying in a ravine, a narrow, deep valley with a stream, about 75 metres from the cedar, under several metres of snow. Some of them were wearing clothes that had belonged to their dead friends. This suggests that they had taken the clothes from the bodies at the cedar to try to stay warm.",
+   "ru": "Последних четырёх туристов нашли только в мае, когда начал таять снег. Они лежали в овраге — узкой глубокой ложбине с ручьём — примерно в 75 метрах от кедра, под несколькими метрами снега. На некоторых из них была одежда, принадлежавшая их погибшим друзьям. Это говорит о том, что они сняли одежду с тел у кедра, чтобы попытаться согреться.",
+   "s": [
+    [
+     "The last four hikers were not found until May, when the snow began to melt.",
+     "Последних четырёх туристов нашли только в мае, когда начал таять снег."
+    ],
+    [
+     "They were lying in a ravine, a narrow, deep valley with a stream, about 75 metres from the cedar, under several metres of snow.",
+     "Они лежали в овраге — узкой глубокой ложбине с ручьём — примерно в 75 метрах от кедра, под несколькими метрами снега."
+    ],
+    [
+     "Some of them were wearing clothes that had belonged to their dead friends.",
+     "На некоторых из них была одежда, принадлежавшая их погибшим друзьям."
+    ],
+    [
+     "This suggests that they had taken the clothes from the bodies at the cedar to try to stay warm.",
+     "Это говорит о том, что они сняли одежду с тел у кедра, чтобы попытаться согреться."
+    ]
+   ]
+  },
+  {
+   "en": "These four bodies started many of the theories. Nicolai Thibeaux-Brignolle had serious injuries to his skull. Lyudmila Dubinina and Semyon Zolotaryov had several broken ribs, injuries that one doctor compared to the force of a car crash. Yet there were few marks on their skin. Dubinina's tongue and eyes were missing. Some of the clothes also showed small traces of radioactivity.",
+   "ru": "Именно эти четыре тела дали начало многим версиям. У Николая Тибо-Бриньоля были тяжёлые травмы черепа. У Людмилы Дубининой и Семёна Золотарёва было несколько сломанных рёбер — травмы, которые один врач сравнил с силой удара при автомобильной аварии. При этом на их коже почти не было следов. У Дубининой отсутствовали язык и глаза. На некоторых вещах также обнаружили слабые следы радиоактивности.",
+   "s": [
+    [
+     "These four bodies started many of the theories.",
+     "Именно эти четыре тела дали начало многим версиям."
+    ],
+    [
+     "Nicolai Thibeaux-Brignolle had serious injuries to his skull.",
+     "У Николая Тибо-Бриньоля были тяжёлые травмы черепа."
+    ],
+    [
+     "Lyudmila Dubinina and Semyon Zolotaryov had several broken ribs, injuries that one doctor compared to the force of a car crash.",
+     "У Людмилы Дубининой и Семёна Золотарёва было несколько сломанных рёбер — травмы, которые один врач сравнил с силой удара при автомобильной аварии."
+    ],
+    [
+     "Yet there were few marks on their skin.",
+     "При этом на их коже почти не было следов."
+    ],
+    [
+     "Dubinina's tongue and eyes were missing.",
+     "У Дубининой отсутствовали язык и глаза."
+    ],
+    [
+     "Some of the clothes also showed small traces of radioactivity.",
+     "На некоторых вещах также обнаружили слабые следы радиоактивности."
+    ]
+   ]
+  },
+  {
+   "en": "In May 1959, the official investigation was closed. Its conclusion was strange and vague: the hikers had died because of a powerful natural force that they could not overcome. The case files were kept in a closed archive. Only from the late 1980s and the 1990s did journalists and researchers begin to study them, and the story became widely known.",
+   "ru": "В мае 1959 года официальное расследование было закрыто. Его вывод был странным и туманным: туристы погибли из-за мощной стихийной силы, которую не смогли преодолеть. Материалы дела хранились в закрытом архиве. Только с конца 1980-х и в 1990-е годы журналисты и исследователи начали их изучать, и история стала широко известной.",
+   "s": [
+    [
+     "In May 1959, the official investigation was closed.",
+     "В мае 1959 года официальное расследование было закрыто."
+    ],
+    [
+     "Its conclusion was strange and vague: the hikers had died because of a powerful natural force that they could not overcome.",
+     "Его вывод был странным и туманным: туристы погибли из-за мощной стихийной силы, которую не смогли преодолеть."
+    ],
+    [
+     "The case files were kept in a closed archive.",
+     "Материалы дела хранились в закрытом архиве."
+    ],
+    [
+     "Only from the late 1980s and the 1990s did journalists and researchers begin to study them, and the story became widely known.",
+     "Только с конца 1980-х и в 1990-е годы журналисты и исследователи начали их изучать, и история стала широко известной."
+    ]
+   ]
+  },
+  {
+   "en": "When the story became public, theories immediately appeared. A mystery with so many strange details was perfect for people who did not trust official explanations. Over the years, dozens of theories have been suggested. Let us look at some of the most popular ones, and at what the evidence says about them.",
+   "ru": "Когда история стала достоянием общественности, сразу появились версии. Загадка с таким количеством странных подробностей идеально подходила для людей, которые не доверяли официальным объяснениям. За эти годы было предложено несколько десятков версий. Давайте рассмотрим некоторые из самых популярных и посмотрим, что о них говорят факты.",
+   "s": [
+    [
+     "When the story became public, theories immediately appeared.",
+     "Когда история стала достоянием общественности, сразу появились версии."
+    ],
+    [
+     "A mystery with so many strange details was perfect for people who did not trust official explanations.",
+     "Загадка с таким количеством странных подробностей идеально подходила для людей, которые не доверяли официальным объяснениям."
+    ],
+    [
+     "Over the years, dozens of theories have been suggested.",
+     "За эти годы было предложено несколько десятков версий."
+    ],
+    [
+     "Let us look at some of the most popular ones, and at what the evidence says about them.",
+     "Давайте рассмотрим некоторые из самых популярных и посмотрим, что о них говорят факты."
+    ]
+   ]
+  },
+  {
+   "en": "Theory one: the hikers were attacked by people. At first, investigators suspected the local Mansi, but there was no evidence against them. The Mansi helped in the search, and no footprints of other people were found near the tent. Others have suggested escaped prisoners from labour camps in the region, but again, nothing was found to support this. Nothing valuable was taken from the tent: money and other things were still there.",
+   "ru": "Версия первая: на туристов напали люди. Сначала следователи подозревали местных манси, но против них не было никаких улик. Манси помогали в поисках, а следов других людей возле палатки не нашли. Другие предполагали, что это были беглые заключённые из лагерей в этом районе, но и этому не нашли подтверждения. Из палатки не забрали ничего ценного: деньги и другие вещи остались на месте.",
+   "s": [
+    [
+     "Theory one: the hikers were attacked by people.",
+     "Версия первая: на туристов напали люди."
+    ],
+    [
+     "At first, investigators suspected the local Mansi, but there was no evidence against them.",
+     "Сначала следователи подозревали местных манси, но против них не было никаких улик."
+    ],
+    [
+     "The Mansi helped in the search, and no footprints of other people were found near the tent.",
+     "Манси помогали в поисках, а следов других людей возле палатки не нашли."
+    ],
+    [
+     "Others have suggested escaped prisoners from labour camps in the region, but again, nothing was found to support this.",
+     "Другие предполагали, что это были беглые заключённые из лагерей в этом районе, но и этому не нашли подтверждения."
+    ],
+    [
+     "Nothing valuable was taken from the tent: money and other things were still there.",
+     "Из палатки не забрали ничего ценного: деньги и другие вещи остались на месте."
+    ]
+   ]
+  },
+  {
+   "en": "Theory two: a secret military test. Supporters of this theory point to the radioactive traces, the terrible injuries and reports of strange lights in the sky. Some people in the region did say that they had seen glowing balls of light in the sky in February and March 1959, and researchers later linked these to rocket launches. However, the best-known reports describe other nights, not the night when the hikers left their tent. No clear proof has been found that a weapon was tested near the hikers or that a military accident harmed them.",
+   "ru": "Версия вторая: секретное военное испытание. Сторонники этой версии указывают на следы радиоактивности, страшные травмы и сообщения о странных огнях в небе. Некоторые жители региона действительно рассказывали, что видели в небе светящиеся шары в феврале и марте 1959 года, и позже исследователи связали это с запусками ракет. Однако самые известные сообщения относятся к другим ночам, а не к той ночи, когда туристы покинули палатку. Не найдено чётких доказательств того, что рядом с туристами испытывали оружие или что им навредила военная авария.",
+   "s": [
+    [
+     "Theory two: a secret military test.",
+     "Версия вторая: секретное военное испытание."
+    ],
+    [
+     "Supporters of this theory point to the radioactive traces, the terrible injuries and reports of strange lights in the sky.",
+     "Сторонники этой версии указывают на следы радиоактивности, страшные травмы и сообщения о странных огнях в небе."
+    ],
+    [
+     "Some people in the region did say that they had seen glowing balls of light in the sky in February and March 1959, and researchers later linked these to rocket launches.",
+     "Некоторые жители региона действительно рассказывали, что видели в небе светящиеся шары в феврале и марте 1959 года, и позже исследователи связали это с запусками ракет."
+    ],
+    [
+     "However, the best-known reports describe other nights, not the night when the hikers left their tent.",
+     "Однако самые известные сообщения относятся к другим ночам, а не к той ночи, когда туристы покинули палатку."
+    ],
+    [
+     "No clear proof has been found that a weapon was tested near the hikers or that a military accident harmed them.",
+     "Не найдено чётких доказательств того, что рядом с туристами испытывали оружие или что им навредила военная авария."
+    ]
+   ]
+  },
+  {
+   "en": "The radiation also has a simpler possible explanation. Krivonischenko had worked at a secret nuclear plant, and some researchers believe the traces could have come from clothing connected with that work. A more dramatic version says that some of the hikers were secret agents who were meeting foreign spies on the mountain. This idea has been described in books, but there is no documentary evidence that such a meeting ever took place.",
+   "ru": "У радиации тоже есть возможное, более простое объяснение. Кривонищенко работал на секретном атомном предприятии, и некоторые исследователи считают, что следы могли остаться на одежде, связанной с этой работой. Более драматичная версия гласит, что некоторые туристы были тайными агентами, которые встречались на горе с иностранными шпионами. Эту идею описывали в книгах, но документальных доказательств того, что такая встреча вообще была, нет.",
+   "s": [
+    [
+     "The radiation also has a simpler possible explanation.",
+     "У радиации тоже есть возможное, более простое объяснение."
+    ],
+    [
+     "Krivonischenko had worked at a secret nuclear plant, and some researchers believe the traces could have come from clothing connected with that work.",
+     "Кривонищенко работал на секретном атомном предприятии, и некоторые исследователи считают, что следы могли остаться на одежде, связанной с этой работой."
+    ],
+    [
+     "A more dramatic version says that some of the hikers were secret agents who were meeting foreign spies on the mountain.",
+     "Более драматичная версия гласит, что некоторые туристы были тайными агентами, которые встречались на горе с иностранными шпионами."
+    ],
+    [
+     "This idea has been described in books, but there is no documentary evidence that such a meeting ever took place.",
+     "Эту идею описывали в книгах, но документальных доказательств того, что такая встреча вообще была, нет."
+    ]
+   ]
+  },
+  {
+   "en": "Theory three: something frightened the hikers out of the tent, such as an animal, a yeti or even a UFO. These ideas are popular in films and on the internet, but there is no evidence for them. A more scientific idea is infrasound: very low sound which humans cannot hear but which may cause fear. Wind blowing around a mountain can sometimes create it. This is possible, but very difficult to prove.",
+   "ru": "Версия третья: что-то напугало туристов и выгнало их из палатки — например, животное, снежный человек или даже НЛО. Эти идеи популярны в фильмах и в интернете, но доказательств у них нет. Более научная идея — инфразвук: очень низкий звук, который люди не слышат, но который может вызывать страх. Ветер, огибающий гору, иногда может его создавать. Это возможно, но доказать очень трудно.",
+   "s": [
+    [
+     "Theory three: something frightened the hikers out of the tent, such as an animal, a yeti or even a UFO.",
+     "Версия третья: что-то напугало туристов и выгнало их из палатки — например, животное, снежный человек или даже НЛО."
+    ],
+    [
+     "These ideas are popular in films and on the internet, but there is no evidence for them.",
+     "Эти идеи популярны в фильмах и в интернете, но доказательств у них нет."
+    ],
+    [
+     "A more scientific idea is infrasound: very low sound which humans cannot hear but which may cause fear.",
+     "Более научная идея — инфразвук: очень низкий звук, который люди не слышат, но который может вызывать страх."
+    ],
+    [
+     "Wind blowing around a mountain can sometimes create it.",
+     "Ветер, огибающий гору, иногда может его создавать."
+    ],
+    [
+     "This is possible, but very difficult to prove.",
+     "Это возможно, но доказать очень трудно."
+    ]
+   ]
+  },
+  {
+   "en": "Theory four: an avalanche. This is the simplest idea, and it was discussed from the beginning. If heavy snow had suddenly hit the tent, it would explain why the hikers left so quickly, cutting the tent instead of using the entrance. But many experienced mountain hikers never accepted it. The slope was not very steep, they argued, and the searchers did not see the typical signs of a large avalanche. The tent was still partly standing, and the footprints were still visible.",
+   "ru": "Версия четвёртая: лавина. Это самая простая идея, и её обсуждали с самого начала. Если бы на палатку вдруг обрушился тяжёлый снег, это объяснило бы, почему туристы покинули её так быстро, разрезав палатку, а не воспользовавшись входом. Но многие опытные горные туристы так и не приняли эту версию. Склон был не очень крутым, возражали они, и поисковики не увидели типичных признаков большой лавины. Палатка частично ещё стояла, а следы всё ещё были видны.",
+   "s": [
+    [
+     "Theory four: an avalanche.",
+     "Версия четвёртая: лавина."
+    ],
+    [
+     "This is the simplest idea, and it was discussed from the beginning.",
+     "Это самая простая идея, и её обсуждали с самого начала."
+    ],
+    [
+     "If heavy snow had suddenly hit the tent, it would explain why the hikers left so quickly, cutting the tent instead of using the entrance.",
+     "Если бы на палатку вдруг обрушился тяжёлый снег, это объяснило бы, почему туристы покинули её так быстро, разрезав палатку, а не воспользовавшись входом."
+    ],
+    [
+     "But many experienced mountain hikers never accepted it.",
+     "Но многие опытные горные туристы так и не приняли эту версию."
+    ],
+    [
+     "The slope was not very steep, they argued, and the searchers did not see the typical signs of a large avalanche.",
+     "Склон был не очень крутым, возражали они, и поисковики не увидели типичных признаков большой лавины."
+    ],
+    [
+     "The tent was still partly standing, and the footprints were still visible.",
+     "Палатка частично ещё стояла, а следы всё ещё были видны."
+    ]
+   ]
+  },
+  {
+   "en": "In 2019, sixty years after the tragedy, Russian prosecutors announced that they were reopening the investigation. This time, they said, they would consider only natural causes: an avalanche, a slab avalanche or a hurricane. A crime, they said, was not being considered. In March 2019, investigators and experts travelled to the pass to study the place.",
+   "ru": "В 2019 году, через шестьдесят лет после трагедии, российская прокуратура объявила, что возобновляет расследование. На этот раз, по их словам, они будут рассматривать только природные причины: лавину, снежную доску или ураган. Версия о преступлении, как они сказали, не рассматривалась. В марте 2019 года следователи и эксперты отправились на перевал, чтобы изучить место.",
+   "s": [
+    [
+     "In 2019, sixty years after the tragedy, Russian prosecutors announced that they were reopening the investigation.",
+     "В 2019 году, через шестьдесят лет после трагедии, российская прокуратура объявила, что возобновляет расследование."
+    ],
+    [
+     "This time, they said, they would consider only natural causes: an avalanche, a slab avalanche or a hurricane.",
+     "На этот раз, по их словам, они будут рассматривать только природные причины: лавину, снежную доску или ураган."
+    ],
+    [
+     "A crime, they said, was not being considered.",
+     "Версия о преступлении, как они сказали, не рассматривалась."
+    ],
+    [
+     "In March 2019, investigators and experts travelled to the pass to study the place.",
+     "В марте 2019 года следователи и эксперты отправились на перевал, чтобы изучить место."
+    ]
+   ]
+  },
+  {
+   "en": "In July 2020, the prosecutors announced their conclusion. According to them, a slab avalanche had forced the hikers to leave the tent in a hurry. A slab avalanche happens when a layer of hard snow breaks away and slides down the slope in one piece, like a large plate. The hikers, the prosecutors said, went down the slope to find shelter in the forest, but in the darkness and with poor visibility they could not find their way back, and they died of cold.",
+   "ru": "В июле 2020 года прокуратура объявила о своём выводе. По её словам, сход снежной доски вынудил туристов спешно покинуть палатку. Снежная доска — это когда слой плотного снега отрывается и съезжает по склону одним куском, как большая тарелка. По словам прокуроров, туристы спустились по склону, чтобы найти укрытие в лесу, но в темноте и при плохой видимости не смогли найти дорогу назад и погибли от холода.",
+   "s": [
+    [
+     "In July 2020, the prosecutors announced their conclusion.",
+     "В июле 2020 года прокуратура объявила о своём выводе."
+    ],
+    [
+     "According to them, a slab avalanche had forced the hikers to leave the tent in a hurry.",
+     "По её словам, сход снежной доски вынудил туристов спешно покинуть палатку."
+    ],
+    [
+     "A slab avalanche happens when a layer of hard snow breaks away and slides down the slope in one piece, like a large plate.",
+     "Снежная доска — это когда слой плотного снега отрывается и съезжает по склону одним куском, как большая тарелка."
+    ],
+    [
+     "The hikers, the prosecutors said, went down the slope to find shelter in the forest, but in the darkness and with poor visibility they could not find their way back, and they died of cold.",
+     "По словам прокуроров, туристы спустились по склону, чтобы найти укрытие в лесу, но в темноте и при плохой видимости не смогли найти дорогу назад и погибли от холода."
+    ]
+   ]
+  },
+  {
+   "en": "Many people did not accept this answer. Some relatives of the victims and some researchers said that the investigation had been too short and that it did not explain the injuries. The prosecutors' conclusion did not end the discussion; if anything, it made it louder.",
+   "ru": "Многие люди не приняли этот ответ. Некоторые родственники погибших и некоторые исследователи заявили, что расследование было слишком коротким и не объяснило травмы. Вывод прокуратуры не положил конец спорам; скорее, он сделал их ещё громче.",
+   "s": [
+    [
+     "Many people did not accept this answer.",
+     "Многие люди не приняли этот ответ."
+    ],
+    [
+     "Some relatives of the victims and some researchers said that the investigation had been too short and that it did not explain the injuries.",
+     "Некоторые родственники погибших и некоторые исследователи заявили, что расследование было слишком коротким и не объяснило травмы."
+    ],
+    [
+     "The prosecutors' conclusion did not end the discussion; if anything, it made it louder.",
+     "Вывод прокуратуры не положил конец спорам; скорее, он сделал их ещё громче."
+    ]
+   ]
+  },
+  {
+   "en": "Then, in January 2021, two scientists from Switzerland published a study in the journal Communications Earth & Environment. Johan Gaume, an avalanche expert from the Swiss Federal Institute of Technology in Lausanne, and Alexander Puzrin, a professor at ETH Zurich, wanted to explore one question. Was an avalanche physically possible on that slope, and could it explain what the searchers saw?",
+   "ru": "Затем, в январе 2021 года, двое учёных из Швейцарии опубликовали исследование в журнале Communications Earth & Environment. Йохан Гом, специалист по лавинам из Федеральной политехнической школы Лозанны, и Александр Пузрин, профессор Швейцарской высшей технической школы Цюриха, хотели исследовать один вопрос. Была ли лавина физически возможна на том склоне и могла ли она объяснить то, что увидели поисковики?",
+   "s": [
+    [
+     "Then, in January 2021, two scientists from Switzerland published a study in the journal Communications Earth & Environment.",
+     "Затем, в январе 2021 года, двое учёных из Швейцарии опубликовали исследование в журнале Communications Earth & Environment."
+    ],
+    [
+     "Johan Gaume, an avalanche expert from the Swiss Federal Institute of Technology in Lausanne, and Alexander Puzrin, a professor at ETH Zurich, wanted to explore one question.",
+     "Йохан Гом, специалист по лавинам из Федеральной политехнической школы Лозанны, и Александр Пузрин, профессор Швейцарской высшей технической школы Цюриха, хотели исследовать один вопрос."
+    ],
+    [
+     "Was an avalanche physically possible on that slope, and could it explain what the searchers saw?",
+     "Была ли лавина физически возможна на том склоне и могла ли она объяснить то, что увидели поисковики?"
+    ]
+   ]
+  },
+  {
+   "en": "Their model was based on several facts from the case. To put up the tent, the hikers had cut into the snow on the slope. During the night, strong winds probably carried more snow onto the slope above them, slowly adding weight. According to the model, this could have caused a small slab of snow to break away hours after the hikers had gone to sleep. The slope was not steep, but the scientists argued that it was steep enough for this to happen.",
+   "ru": "Их модель была основана на нескольких фактах из дела. Чтобы поставить палатку, туристы сделали выемку в снегу на склоне. Ночью сильный ветер, вероятно, нанёс на склон над ними ещё снега, постепенно увеличивая нагрузку. Согласно модели, это могло привести к тому, что небольшая снежная доска оторвалась через несколько часов после того, как туристы легли спать. Склон был не крутым, но учёные утверждали, что он был достаточно крутым, чтобы это произошло.",
+   "s": [
+    [
+     "Their model was based on several facts from the case.",
+     "Их модель была основана на нескольких фактах из дела."
+    ],
+    [
+     "To put up the tent, the hikers had cut into the snow on the slope.",
+     "Чтобы поставить палатку, туристы сделали выемку в снегу на склоне."
+    ],
+    [
+     "During the night, strong winds probably carried more snow onto the slope above them, slowly adding weight.",
+     "Ночью сильный ветер, вероятно, нанёс на склон над ними ещё снега, постепенно увеличивая нагрузку."
+    ],
+    [
+     "According to the model, this could have caused a small slab of snow to break away hours after the hikers had gone to sleep.",
+     "Согласно модели, это могло привести к тому, что небольшая снежная доска оторвалась через несколько часов после того, как туристы легли спать."
+    ],
+    [
+     "The slope was not steep, but the scientists argued that it was steep enough for this to happen.",
+     "Склон был не крутым, но учёные утверждали, что он был достаточно крутым, чтобы это произошло."
+    ]
+   ]
+  },
+  {
+   "en": "The most unusual part of the study was about the injuries. To understand what a block of snow could do to a person lying in the tent, the scientists used a computer animation method that had been developed for the Disney film Frozen, as well as data from old car crash tests. Their simulations showed that a block of hard snow only a few metres long could cause serious chest and skull injuries if the hikers were lying on a hard surface, such as skis placed under the tent.",
+   "ru": "Самая необычная часть исследования касалась травм. Чтобы понять, что глыба снега может сделать с человеком, лежащим в палатке, учёные использовали метод компьютерной анимации, разработанный для диснеевского мультфильма «Холодное сердце», а также данные старых краш-тестов автомобилей. Их моделирование показало, что глыба плотного снега длиной всего несколько метров могла вызвать тяжёлые травмы груди и черепа, если туристы лежали на твёрдой поверхности, например на лыжах, подложенных под палатку.",
+   "s": [
+    [
+     "The most unusual part of the study was about the injuries.",
+     "Самая необычная часть исследования касалась травм."
+    ],
+    [
+     "To understand what a block of snow could do to a person lying in the tent, the scientists used a computer animation method that had been developed for the Disney film Frozen, as well as data from old car crash tests.",
+     "Чтобы понять, что глыба снега может сделать с человеком, лежащим в палатке, учёные использовали метод компьютерной анимации, разработанный для диснеевского мультфильма «Холодное сердце», а также данные старых краш-тестов автомобилей."
+    ],
+    [
+     "Their simulations showed that a block of hard snow only a few metres long could cause serious chest and skull injuries if the hikers were lying on a hard surface, such as skis placed under the tent.",
+     "Их моделирование показало, что глыба плотного снега длиной всего несколько метров могла вызвать тяжёлые травмы груди и черепа, если туристы лежали на твёрдой поверхности, например на лыжах, подложенных под палатку."
+    ]
+   ]
+  },
+  {
+   "en": "The scientists said that a small avalanche would not leave big signs that the searchers could easily see weeks later, especially if the wind had blown new snow over it. They also suggested that the injured hikers could have been helped by the others as they walked down the slope. Importantly, Gaume and Puzrin did not claim to have solved the whole mystery. They said that their study showed that an avalanche was possible, not that it had definitely happened.",
+   "ru": "Учёные сказали, что небольшая лавина не оставила бы крупных следов, которые поисковики могли бы легко заметить через несколько недель, особенно если ветер нанёс поверх неё новый снег. Они также предположили, что раненым туристам могли помогать остальные, пока они спускались по склону. Важно, что Гом и Пузрин не утверждали, что разгадали всю тайну. Они сказали, что их исследование показало, что лавина была возможна, а не что она точно произошла.",
+   "s": [
+    [
+     "The scientists said that a small avalanche would not leave big signs that the searchers could easily see weeks later, especially if the wind had blown new snow over it.",
+     "Учёные сказали, что небольшая лавина не оставила бы крупных следов, которые поисковики могли бы легко заметить через несколько недель, особенно если ветер нанёс поверх неё новый снег."
+    ],
+    [
+     "They also suggested that the injured hikers could have been helped by the others as they walked down the slope.",
+     "Они также предположили, что раненым туристам могли помогать остальные, пока они спускались по склону."
+    ],
+    [
+     "Importantly, Gaume and Puzrin did not claim to have solved the whole mystery.",
+     "Важно, что Гом и Пузрин не утверждали, что разгадали всю тайну."
+    ],
+    [
+     "They said that their study showed that an avalanche was possible, not that it had definitely happened.",
+     "Они сказали, что их исследование показало, что лавина была возможна, а не что она точно произошла."
+    ]
+   ]
+  },
+  {
+   "en": "Their work did not answer every question. It does not fully explain why the hikers went so far from the tent, why they did not go back for their boots and coats, or why someone climbed the cedar. Other researchers think that the injuries happened later, in the ravine, when the hikers fell onto rocks or when heavy snow fell on them. Dubinina's missing tongue and eyes are usually explained by the fact that her body lay for weeks in running water, where small animals could also reach it. It is a sad but natural explanation.",
+   "ru": "Их работа ответила не на все вопросы. Она не до конца объясняет, почему туристы ушли так далеко от палатки, почему не вернулись за ботинками и куртками и зачем кто-то залезал на кедр. Другие исследователи считают, что травмы появились позже, в овраге, когда туристы упали на камни или когда на них обрушился тяжёлый снег. Отсутствие языка и глаз у Дубининой обычно объясняют тем, что её тело несколько недель пролежало в проточной воде, где до него могли добраться и мелкие животные. Это печальное, но естественное объяснение.",
+   "s": [
+    [
+     "Their work did not answer every question.",
+     "Их работа ответила не на все вопросы."
+    ],
+    [
+     "It does not fully explain why the hikers went so far from the tent, why they did not go back for their boots and coats, or why someone climbed the cedar.",
+     "Она не до конца объясняет, почему туристы ушли так далеко от палатки, почему не вернулись за ботинками и куртками и зачем кто-то залезал на кедр."
+    ],
+    [
+     "Other researchers think that the injuries happened later, in the ravine, when the hikers fell onto rocks or when heavy snow fell on them.",
+     "Другие исследователи считают, что травмы появились позже, в овраге, когда туристы упали на камни или когда на них обрушился тяжёлый снег."
+    ],
+    [
+     "Dubinina's missing tongue and eyes are usually explained by the fact that her body lay for weeks in running water, where small animals could also reach it.",
+     "Отсутствие языка и глаз у Дубининой обычно объясняют тем, что её тело несколько недель пролежало в проточной воде, где до него могли добраться и мелкие животные."
+    ],
+    [
+     "It is a sad but natural explanation.",
+     "Это печальное, но естественное объяснение."
+    ]
+   ]
+  },
+  {
+   "en": "So what really happened on Dead Mountain? Many researchers today believe that the cause was natural: a small avalanche or something similar in the dark, followed by a desperate journey in terrible cold. There is no evidence for weapons, spies, aliens or a yeti. But nobody who saw what happened that night survived, and some details may never be fully explained.",
+   "ru": "Так что же на самом деле произошло на Мёртвой горе? Многие исследователи сегодня считают, что причина была природной: небольшая лавина или что-то подобное в темноте, а затем отчаянный путь в страшный мороз. Нет никаких доказательств в пользу оружия, шпионов, инопланетян или снежного человека. Но никто из тех, кто видел, что произошло той ночью, не выжил, и некоторые подробности, возможно, никогда не удастся полностью объяснить.",
+   "s": [
+    [
+     "So what really happened on Dead Mountain?",
+     "Так что же на самом деле произошло на Мёртвой горе?"
+    ],
+    [
+     "Many researchers today believe that the cause was natural: a small avalanche or something similar in the dark, followed by a desperate journey in terrible cold.",
+     "Многие исследователи сегодня считают, что причина была природной: небольшая лавина или что-то подобное в темноте, а затем отчаянный путь в страшный мороз."
+    ],
+    [
+     "There is no evidence for weapons, spies, aliens or a yeti.",
+     "Нет никаких доказательств в пользу оружия, шпионов, инопланетян или снежного человека."
+    ],
+    [
+     "But nobody who saw what happened that night survived, and some details may never be fully explained.",
+     "Но никто из тех, кто видел, что произошло той ночью, не выжил, и некоторые подробности, возможно, никогда не удастся полностью объяснить."
+    ]
+   ]
+  },
+  {
+   "en": "Today the place is called Dyatlov Pass, after the leader of the group. Every year, tourists make a trip there to see the memorial to the hikers and to imagine what the nine young people went through. Their story teaches an important lesson about mysteries: when the facts are incomplete, people fill the gaps with fantasy. The best tool against this is patient investigation, and the courage to say: \"We do not know yet.\"",
+   "ru": "Сегодня это место называется перевалом Дятлова — в честь руководителя группы. Каждый год туристы приезжают туда, чтобы увидеть памятник погибшим и представить, через что прошли эти девять молодых людей. Их история преподаёт важный урок о загадках: когда фактов не хватает, люди заполняют пробелы фантазиями. Лучший инструмент против этого — терпеливое расследование и смелость сказать: «Мы пока не знаем».",
+   "s": [
+    [
+     "Today the place is called Dyatlov Pass, after the leader of the group.",
+     "Сегодня это место называется перевалом Дятлова — в честь руководителя группы."
+    ],
+    [
+     "Every year, tourists make a trip there to see the memorial to the hikers and to imagine what the nine young people went through.",
+     "Каждый год туристы приезжают туда, чтобы увидеть памятник погибшим и представить, через что прошли эти девять молодых людей."
+    ],
+    [
+     "Their story teaches an important lesson about mysteries: when the facts are incomplete, people fill the gaps with fantasy.",
+     "Их история преподаёт важный урок о загадках: когда фактов не хватает, люди заполняют пробелы фантазиями."
+    ],
+    [
+     "The best tool against this is patient investigation, and the courage to say: \"We do not know yet.\"",
+     "Лучший инструмент против этого — терпеливое расследование и смелость сказать: «Мы пока не знаем»."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "около, о",
+  "above": "над",
+  "accept": "принять",
+  "accepted": "приняли",
+  "accident": "авария",
+  "according": "(according to) по словам, согласно",
+  "adding": "добавляя, увеличивая",
+  "after": "после; (after the leader) в честь",
+  "afternoon": "день, после полудня",
+  "again": "снова; (but again) и снова",
+  "against": "против",
+  "agents": "агенты",
+  "alexander": "Александр (имя)",
+  "aliens": "инопланетяне",
+  "all": "все",
+  "also": "также",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "animal": "животное",
+  "animals": "животные",
+  "animation": "анимация",
+  "announced": "объявил(и)",
+  "answer": "ответ; ответить",
+  "anything": "(if anything) скорее, даже наоборот",
+  "appeared": "появились",
+  "archive": "архив",
+  "are": "есть, являются",
+  "argued": "возражали, утверждали",
+  "around": "вокруг",
+  "as": "как; (as if) будто; (as well as) а также",
+  "at": "в, на, у",
+  "attacked": "напали",
+  "avalanche": "лавина",
+  "away": "(break away) оторваться",
+  "back": "назад; (turn back) вернуться",
+  "balls": "шары",
+  "barefoot": "босиком",
+  "based": "основанный",
+  "be": "быть",
+  "became": "стала",
+  "because": "(because of) из-за",
+  "becomes": "становится",
+  "been": "был(о)",
+  "began": "начал(и)",
+  "begin": "начать",
+  "beginning": "начало",
+  "being": "(was not being considered) не рассматривалась",
+  "believe": "считать",
+  "belonged": "принадлежали",
+  "below": "ниже",
+  "best": "лучший; (best-known) самый известный",
+  "between": "между",
+  "big": "большой",
+  "bit": "(a bit) немного",
+  "block": "глыба, блок",
+  "blowing": "дующий",
+  "blown": "нанёс (ветром)",
+  "bodies": "тела",
+  "body": "тело",
+  "books": "книги",
+  "boot": "ботинок",
+  "boots": "ботинки",
+  "branches": "ветки",
+  "break": "(break away) оторваться",
+  "breaks": "(breaks away) отрывается",
+  "brignolle": "(Thibeaux-Brignolle) Тибо-Бриньоль (фамилия)",
+  "broken": "сломанный; сломаны",
+  "but": "но",
+  "by": "(кем-то), из-за",
+  "call": "называть",
+  "called": "называется",
+  "camp": "походный; лагерь",
+  "camps": "лагеря",
+  "can": "может",
+  "cannot": "не могут",
+  "car": "автомобиль",
+  "carried": "нанёс, принёс",
+  "case": "дело",
+  "category": "категория",
+  "cause": "причина; вызывать",
+  "caused": "вызвать, привести к",
+  "causes": "причины",
+  "cedar": "кедр",
+  "cheerful": "весёлый",
+  "chest": "грудь, грудная клетка",
+  "city": "город",
+  "claim": "утверждать",
+  "clear": "чёткий, ясный",
+  "climb": "подниматься",
+  "climbed": "поднялась; залез",
+  "closed": "закрытый; закрыт",
+  "clothes": "одежда",
+  "clothing": "одежда",
+  "coats": "куртки, пальто",
+  "cold": "холод, мороз",
+  "come": "(could have come from) могли появиться от",
+  "communications": "(Communications Earth & Environment) название журнала",
+  "compared": "сравнил",
+  "computer": "компьютерный",
+  "conclusion": "вывод",
+  "connected": "связанный",
+  "consider": "рассматривать",
+  "considered": "считали; рассматривалась",
+  "could": "мог(ли)",
+  "courage": "смелость",
+  "covered": "засыпанный, покрытый",
+  "crack": "трещина",
+  "crash": "авария; (crash tests) краш-тесты",
+  "create": "создавать",
+  "crime": "преступление",
+  "cut": "разрезанный; (cut into) сделали выемку",
+  "cutting": "разрезав",
+  "dark": "темнота",
+  "darkness": "темнота",
+  "data": "данные",
+  "dead": "мёртвый, погибший",
+  "death": "смерть",
+  "debated": "обсуждается, вызывает споры",
+  "decided": "решили, пришли к выводу",
+  "deep": "глубокий",
+  "definitely": "точно, определённо",
+  "describe": "описывают",
+  "described": "описана",
+  "desperate": "отчаянный",
+  "details": "подробности",
+  "developed": "разработанный",
+  "diaries": "дневники",
+  "did": "(вспом. глагол); действительно (did say)",
+  "died": "умерли, погибли",
+  "difficult": "трудный",
+  "difficulty": "сложность",
+  "discussed": "обсуждали",
+  "discussion": "обсуждение, спор",
+  "disney": "Дисней",
+  "do": "(вспом. глагол); сделать",
+  "doctor": "врач",
+  "doctors": "врачи",
+  "documentary": "документальный",
+  "does": "(вспом. глагол)",
+  "doroshenko": "Дорошенко (фамилия)",
+  "down": "вниз",
+  "dozens": "десятки",
+  "dramatic": "драматичный",
+  "dubinina": "Дубинина (фамилия)",
+  "dubinina's": "Дубининой",
+  "during": "в течение, во время",
+  "dyatlov": "Дятлов (фамилия)",
+  "earth": "Земля",
+  "easily": "легко",
+  "edge": "край; (edge of the forest) опушка",
+  "eight": "восемь",
+  "empty": "пустой",
+  "end": "положить конец",
+  "engineering": "техника, инженерное дело",
+  "enough": "достаточно",
+  "entrance": "вход",
+  "environment": "окружающая среда",
+  "escaped": "беглый, сбежавший",
+  "especially": "особенно",
+  "eth": "(ETH Zurich) Швейцарская высшая техническая школа Цюриха",
+  "even": "даже",
+  "ever": "когда-либо, вообще",
+  "every": "каждый; (every question) все вопросы",
+  "evidence": "доказательства, факты",
+  "experienced": "опытный",
+  "expert": "специалист, эксперт",
+  "experts": "эксперты",
+  "explain": "объяснить",
+  "explained": "объяснён(ы)",
+  "explanation": "объяснение",
+  "explanations": "объяснения",
+  "explore": "исследовать",
+  "eyes": "глаза",
+  "fact": "факт",
+  "facts": "факты",
+  "fantasy": "фантазия",
+  "far": "далеко",
+  "fear": "страх",
+  "february": "февраль",
+  "federal": "федеральный",
+  "fell": "заболел (fell ill); упали",
+  "few": "мало; (a few) несколько",
+  "files": "материалы (дела)",
+  "fill": "заполнять",
+  "film": "фильм, мультфильм",
+  "films": "фильмы",
+  "find": "найти",
+  "fire": "костёр",
+  "first": "(at first) сначала",
+  "five": "пять",
+  "followed": "за которым последовал",
+  "food": "еда",
+  "footprints": "следы",
+  "for": "для, в течение, за",
+  "force": "сила",
+  "forced": "вынудил",
+  "foreign": "иностранный",
+  "forest": "лес",
+  "fought": "воевал",
+  "found": "нашли; установили",
+  "four": "четыре",
+  "friends": "друзья",
+  "frightened": "напугало",
+  "from": "из, от",
+  "frozen": "«Холодное сердце» (мультфильм)",
+  "fully": "полностью",
+  "funny": "смешной",
+  "gaps": "пробелы",
+  "gaume": "Гом (фамилия)",
+  "glowing": "светящийся",
+  "go": "(go back) вернуться",
+  "gone": "(gone to sleep) легли спать",
+  "goodbye": "(said goodbye) попрощался",
+  "graduates": "выпускники",
+  "group": "группа",
+  "had": "(вспом. глагол); был(а)",
+  "half": "половина; (one and a half) полтора",
+  "happen": "произойти",
+  "happened": "произошло",
+  "happens": "происходит",
+  "hard": "плотный, твёрдый",
+  "harmed": "навредила",
+  "has": "(вспом. глагол); есть",
+  "have": "(вспом. глагол)",
+  "he": "он",
+  "hear": "слышать",
+  "heavy": "тяжёлый",
+  "height": "высота",
+  "helped": "помогали",
+  "her": "её",
+  "highest": "высший",
+  "hikers": "туристы",
+  "his": "его",
+  "hit": "обрушился, ударил",
+  "home": "домой",
+  "hours": "часы",
+  "however": "однако",
+  "humans": "люди",
+  "hurricane": "ураган",
+  "hurry": "(in a hurry) спешно",
+  "hypothermia": "переохлаждение",
+  "idea": "идея",
+  "ideas": "идеи",
+  "if": "если; (as if) будто",
+  "igor": "Игорь (имя)",
+  "ill": "больной; (fell ill) заболел",
+  "imagine": "представить",
+  "immediately": "сразу, немедленно",
+  "important": "важный",
+  "importantly": "важно, что",
+  "in": "в",
+  "incomplete": "неполный",
+  "infrasound": "инфразвук",
+  "injured": "раненый",
+  "injuries": "травмы",
+  "inside": "внутри; изнутри (from the inside)",
+  "instead": "(instead of) вместо",
+  "institute": "институт",
+  "internet": "интернет",
+  "into": "в; (cut into) врезаться",
+  "investigation": "расследование",
+  "investigators": "следователи",
+  "is": "есть, является",
+  "it": "он, она, оно, это",
+  "its": "её, его",
+  "january": "январь",
+  "johan": "Йохан (имя)",
+  "joked": "шутили",
+  "journal": "журнал",
+  "journalists": "журналисты",
+  "journey": "поход, путь",
+  "july": "июль",
+  "kept": "вели (дневники); хранились",
+  "kholat": "(Kholat Syakhl) Холатчахль (гора)",
+  "kilometres": "километры",
+  "knife": "нож",
+  "know": "знать",
+  "known": "известный",
+  "kolmogorova": "Колмогорова (фамилия)",
+  "krivonischenko": "Кривонищенко (фамилия)",
+  "labour": "(labour camps) трудовые лагеря",
+  "large": "большой",
+  "last": "последний",
+  "late": "поздний, конец (периода); (late afternoon) ближе к вечеру",
+  "later": "позже",
+  "launches": "запуски",
+  "lausanne": "Лозанна",
+  "lay": "лежало",
+  "layer": "слой",
+  "leader": "руководитель",
+  "leading": "ведущий",
+  "leave": "покинуть, оставить",
+  "left": "покинули",
+  "lesson": "урок",
+  "let": "(let us) давайте",
+  "life": "жизнь",
+  "light": "свет",
+  "lights": "огни",
+  "like": "как",
+  "line": "цепочка, линия",
+  "linked": "связали",
+  "local": "местный",
+  "long": "долгий; длиной",
+  "look": "смотреть, рассмотреть",
+  "louder": "громче",
+  "low": "низкий",
+  "lying": "лежащий",
+  "lyudmila": "Людмила (имя)",
+  "made": "сделал",
+  "make": "(make a trip) совершить поездку",
+  "mansi": "манси (народ)",
+  "many": "многие",
+  "march": "март",
+  "marks": "следы",
+  "may": "май; может (модальный)",
+  "means": "значит",
+  "meeting": "встреча; встречаться",
+  "melt": "таять",
+  "member": "участник",
+  "memorial": "памятник",
+  "men": "мужчины, парни",
+  "method": "метод",
+  "metres": "метры",
+  "military": "военный",
+  "missing": "отсутствующий",
+  "model": "модель",
+  "money": "деньги",
+  "more": "больше, ещё; более",
+  "most": "большинство; самый",
+  "mount": "гора",
+  "mountain": "гора",
+  "mountains": "горы",
+  "mysteries": "загадки",
+  "mystery": "загадка, тайна",
+  "name": "название",
+  "narrow": "узкий",
+  "natural": "природный, естественный",
+  "near": "рядом, возле",
+  "needed": "нужно, нужны",
+  "never": "никогда",
+  "new": "новый",
+  "newspaper": "газета",
+  "next": "дальше; (next to) рядом с",
+  "nicolai": "Николай (имя)",
+  "night": "ночь",
+  "nights": "ночи",
+  "nine": "девять",
+  "no": "нет, никакой",
+  "nobody": "никто",
+  "northern": "северный",
+  "not": "не",
+  "nothing": "ничего",
+  "now": "сейчас",
+  "nuclear": "атомный, ядерный",
+  "of": "(род. падеж), из",
+  "official": "официальный",
+  "often": "часто",
+  "old": "старый; (year-old) -летний",
+  "oldest": "самый старший",
+  "on": "на, в",
+  "one": "один",
+  "ones": "(popular ones) популярные (версии)",
+  "only": "только, единственный",
+  "onto": "на",
+  "open": "открытый; (cut open) разрезан",
+  "or": "или",
+  "other": "другой",
+  "others": "другие, остальные",
+  "otorten": "Отортен (гора)",
+  "out": "(cut open) из; (out of the tent) из палатки",
+  "over": "поверх; (over the years) за эти годы",
+  "overcome": "преодолеть",
+  "owners": "хозяева",
+  "panic": "паника",
+  "part": "часть",
+  "partly": "частично",
+  "pass": "перевал",
+  "patient": "терпеливый",
+  "people": "люди; народ",
+  "perfect": "идеальный",
+  "perhaps": "возможно",
+  "person": "человек",
+  "photographs": "фотографии",
+  "physically": "физически",
+  "piece": "кусок",
+  "place": "место; (took place) произошла",
+  "placed": "подложенный, положенный",
+  "plan": "план",
+  "plant": "предприятие, завод",
+  "plate": "тарелка",
+  "point": "(point to) указывать на",
+  "polytechnic": "политехнический",
+  "poor": "плохой",
+  "popular": "популярный",
+  "positions": "позы, положения",
+  "possible": "возможный",
+  "powerful": "мощный",
+  "prepared": "готовились",
+  "prisoners": "заключённые",
+  "probably": "вероятно",
+  "professor": "профессор",
+  "proof": "доказательство",
+  "prosecutors": "прокуроры, прокуратура",
+  "prove": "доказать",
+  "public": "(became public) стала известна обществу",
+  "published": "опубликовали",
+  "put": "(put up) поставили",
+  "puzrin": "Пузрин (фамилия)",
+  "question": "вопрос",
+  "quickly": "быстро",
+  "radiation": "радиация",
+  "radio": "радио",
+  "radioactive": "радиоактивный",
+  "radioactivity": "радиоактивность",
+  "ravine": "овраг",
+  "reach": "добраться",
+  "really": "на самом деле",
+  "region": "регион, район",
+  "relatives": "родственники",
+  "remains": "остатки",
+  "reopening": "возобновлять",
+  "reports": "сообщения",
+  "researchers": "исследователи",
+  "rest": "остаток; (rest of his life) вся оставшаяся жизнь",
+  "return": "вернуться",
+  "ribs": "рёбра",
+  "rocket": "ракетный",
+  "rocks": "камни",
+  "route": "маршрут",
+  "running": "бегущий; (running water) проточная вода",
+  "russian": "российский",
+  "rustem": "Рустем (имя)",
+  "s": "(1980s, 1990s) -е годы (окончание)",
+  "sad": "печальный",
+  "said": "сказали; (said goodbye) попрощался",
+  "sang": "пели",
+  "saw": "видели",
+  "say": "сказать; рассказывать",
+  "says": "говорит, гласит",
+  "scientific": "научный",
+  "scientists": "учёные",
+  "search": "поиски",
+  "searchers": "поисковики",
+  "second": "второй",
+  "secret": "секретный, тайный",
+  "see": "видеть",
+  "seen": "видели",
+  "semyon": "Семён (имя)",
+  "serious": "тяжёлый, серьёзный",
+  "several": "несколько",
+  "shelter": "укрытие",
+  "short": "короткий",
+  "show": "показывают",
+  "showed": "показал(и)",
+  "side": "сторона, стенка",
+  "signs": "признаки",
+  "similar": "похожий, подобный",
+  "simpler": "более простой",
+  "simplest": "самый простой",
+  "simulations": "моделирование, симуляции",
+  "sixty": "шестьдесят",
+  "skiers": "лыжники",
+  "skin": "кожа",
+  "skis": "лыжи",
+  "skull": "череп",
+  "sky": "небо",
+  "slab": "пласт; (slab avalanche) снежная доска",
+  "sleep": "сон; (gone to sleep) легли спать",
+  "slides": "съезжает",
+  "slobodin": "Слободин (фамилия)",
+  "slope": "склон",
+  "slowly": "медленно, постепенно",
+  "small": "небольшой, мелкий",
+  "snow": "снег",
+  "snowy": "заснеженный",
+  "so": "так, такой; (so what) так что же",
+  "socks": "носки",
+  "solved": "разгадали",
+  "some": "некоторые",
+  "someone": "кто-то",
+  "something": "что-то",
+  "sometimes": "иногда",
+  "songs": "песни",
+  "sound": "звук",
+  "spies": "шпионы",
+  "standing": "стоящий; (still standing) ещё стояла",
+  "started": "дали начало",
+  "stay": "(stay warm) согреться",
+  "steep": "крутой",
+  "still": "до сих пор, всё ещё",
+  "stops": "перестаёт",
+  "story": "история",
+  "strange": "странный",
+  "stream": "ручей",
+  "strong": "сильный",
+  "student": "студент",
+  "students": "студенты",
+  "study": "исследование; изучать",
+  "stuff": "вещи",
+  "such": "такой; (such as) например",
+  "suddenly": "вдруг",
+  "suggested": "предлагали, предположили; говорили о том",
+  "suggests": "говорит о том",
+  "support": "подтверждать",
+  "supporters": "сторонники",
+  "surface": "поверхность",
+  "survive": "выжить",
+  "survived": "выжил",
+  "suspected": "подозревали",
+  "sverdlovsk": "Свердловск (город)",
+  "swiss": "швейцарский",
+  "switzerland": "Швейцария",
+  "syakhl": "(Kholat Syakhl) Холатчахль (гора)",
+  "taken": "сняли, взяли",
+  "teaches": "преподаёт, учит",
+  "technology": "технология",
+  "ten": "десять",
+  "tent": "палатка",
+  "terrible": "страшный, ужасный",
+  "test": "испытание",
+  "tested": "испытывали",
+  "tests": "испытания, тесты",
+  "that": "что, который, тот",
+  "the": "(артикль)",
+  "their": "их",
+  "them": "их, им",
+  "then": "затем",
+  "theories": "версии, теории",
+  "theory": "версия, теория",
+  "there": "там, туда; (there were) было",
+  "these": "эти",
+  "they": "они",
+  "thibeaux": "(Thibeaux-Brignolle) Тибо-Бриньоль (фамилия)",
+  "things": "вещи",
+  "think": "считать, думать",
+  "this": "этот, это",
+  "three": "три",
+  "through": "(went through) пережили, прошли через",
+  "time": "время; (this time) на этот раз",
+  "to": "к, в, (частица инфинитива)",
+  "today": "сегодня",
+  "tongue": "язык (орган)",
+  "too": "слишком",
+  "took": "сделали (фото); (took place) произошла",
+  "tool": "инструмент",
+  "top": "вершина",
+  "tourists": "туристы",
+  "towards": "к, в сторону",
+  "traces": "следы",
+  "tragedy": "трагедия",
+  "translated": "переводится",
+  "travelled": "отправились",
+  "tree": "дерево",
+  "trip": "поездка",
+  "trust": "доверять",
+  "try": "пытаться",
+  "trying": "пытающийся",
+  "turn": "(turn back) вернуться",
+  "two": "два, две",
+  "typical": "типичный",
+  "ufo": "НЛО",
+  "under": "под",
+  "understand": "понять",
+  "underwear": "нижнее бельё",
+  "until": "(not until) только (в)",
+  "unusual": "необычный",
+  "up": "(put up) поставить; (up to) до",
+  "ural": "уральский",
+  "urals": "Урал",
+  "us": "(let us) давайте",
+  "used": "использовали",
+  "using": "используя, воспользовавшись",
+  "usually": "обычно",
+  "vague": "туманный, расплывчатый",
+  "valley": "долина, ложбина",
+  "valuable": "ценный",
+  "vanished": "исчезли",
+  "version": "версия",
+  "very": "очень",
+  "victims": "погибшие, жертвы",
+  "visibility": "видимость",
+  "visible": "видимый",
+  "walked": "шли, спускались",
+  "walking": "шли",
+  "wanted": "хотели",
+  "war": "война",
+  "warm": "тёплый; (stay warm) согреться",
+  "was": "был(а)",
+  "water": "вода",
+  "way": "дорога, путь",
+  "we": "мы",
+  "weapon": "оружие",
+  "weapons": "оружие",
+  "wearing": "(were wearing) были одеты",
+  "weeks": "недели",
+  "weight": "вес, нагрузка",
+  "well": "(as well as) а также; (best-known) известный",
+  "went": "пошли, ушли; (went home) поехал домой",
+  "were": "были",
+  "what": "что",
+  "when": "когда",
+  "where": "где",
+  "which": "который",
+  "who": "который, кто",
+  "whole": "целый, вся",
+  "why": "почему",
+  "widely": "широко",
+  "wind": "ветер",
+  "winds": "ветра",
+  "winter": "зимний",
+  "with": "с",
+  "women": "женщины, девушки",
+  "work": "работа",
+  "worked": "работал",
+  "working": "работать",
+  "world": "(Second World War) Вторая мировая война",
+  "would": "(would consider) будут рассматривать; (would explain) объяснило бы",
+  "wrote": "писали, выпускали",
+  "year": "год; (23-year-old) 23-летний",
+  "years": "годы",
+  "yekaterinburg": "Екатеринбург",
+  "yet": "ещё, пока; (yet there were) при этом",
+  "yeti": "йети, снежный человек",
+  "young": "молодой",
+  "yudin": "Юдин (фамилия)",
+  "yuri": "Юрий (имя)",
+  "zinaida": "Зинаида (имя)",
+  "zolotaryov": "Золотарёв (фамилия)",
+  "zurich": "Цюрих"
+ },
+ "vocab": {
+  "accept": 272,
+  "bit": 412,
+  "heavy": 389,
+  "immediately": 433,
+  "journey": 134,
+  "perfect": 26,
+  "piece": 213,
+  "plate": 375,
+  "stuff": 622,
+  "then": 28,
+  "there": 2,
+  "tool": 649,
+  "trip": 275,
+  "vanished": 515,
+  "accepted": 272,
+  "teaches": 73,
+  "harmed": 610,
+  "victims": 640
+ }
+}

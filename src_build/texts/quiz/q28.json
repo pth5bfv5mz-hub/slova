@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did the group go to the old stone house?",
+  "q_ru": "Почему группа пошла в старый каменный дом?",
+  "options": [
+   "They wanted to see the painted nursery.",
+   "Anton's family lived there.",
+   "It was the planned end of their walk.",
+   "The avalanche blocked the road back to the village."
+  ],
+  "options_ru": [
+   "Хотели посмотреть расписанную детскую.",
+   "Там жила семья Антона.",
+   "Это был запланированный конец прогулки.",
+   "Лавина перекрыла дорогу обратно в деревню."
+  ],
+  "answer": 3,
+  "explain_ru": "После лавины «The road back to the village was gone», у Антона была сломана нога, а дом служил «emergency shelter»."
+ },
+ {
+  "q": "Why did the others first suspect Viktor of stealing the food?",
+  "q_ru": "Почему остальные сначала заподозрили Виктора в краже еды?",
+  "options": [
+   "They found bread in his bag.",
+   "He walked around all night and couldn't sit still.",
+   "He refused to eat the bean soup.",
+   "He said he was very hungry."
+  ],
+  "options_ru": [
+   "В его сумке нашли хлеб.",
+   "Он всю ночь ходил по комнате и не мог сидеть спокойно.",
+   "Он отказался есть фасолевый суп.",
+   "Он сказал, что очень голоден."
+  ],
+  "answer": 1,
+  "explain_ru": "Виктор «had been the last to fall asleep» и ходил по комнате. Паула сказала: «People who behave like that usually have something to hide»."
+ },
+ {
+  "q": "Nora decided to 'set a trap'. What does this mean here?",
+  "q_ru": "Нора решила «set a trap». Что это значит здесь?",
+  "options": [
+   "To make a plan to catch the thief.",
+   "To hide the food in a safe place.",
+   "To leave the house and look for help.",
+   "To ask everyone to tell the truth."
+  ],
+  "options_ru": [
+   "Придумать план, чтобы поймать вора.",
+   "Спрятать еду в надёжное место.",
+   "Уйти из дома и искать помощь.",
+   "Попросить всех сказать правду."
+  ],
+  "answer": 0,
+  "explain_ru": "Нора насыпала муку у двери кухни: «Anyone who walked through it would leave marks» — это ловушка для вора."
+ },
+ {
+  "q": "What did the footprints in the flour show?",
+  "q_ru": "Что показали следы на муке?",
+  "options": [
+   "That Viktor was the thief after all.",
+   "That an animal came in at night.",
+   "That a child walked there in socks.",
+   "That Mr. Feld had made a mistake."
+  ],
+  "options_ru": [
+   "Что вор всё-таки Виктор.",
+   "Что ночью в дом заходило животное.",
+   "Что там ходил ребёнок в носках.",
+   "Что мистер Фелд ошибся в подсчётах."
+  ],
+  "answer": 2,
+  "explain_ru": "Следы были «much too small for an adult» и без формы ботинка — так ходил только Тео, который носил еду спрятанному Дэниелу."
+ },
+ {
+  "q": "Why hadn't Daniel used his emergency beacon?",
+  "q_ru": "Почему Дэниел не использовал свой аварийный маяк?",
+  "options": [
+   "He was afraid it would help people find and arrest him.",
+   "He didn't know how the beacon worked.",
+   "The beacon was broken in the avalanche.",
+   "Theo had hidden it from him."
+  ],
+  "options_ru": [
+   "Боялся, что по нему его найдут и арестуют.",
+   "Не знал, как работает маяк.",
+   "Маяк сломался во время лавины.",
+   "Тео спрятал его от него."
+  ],
+  "answer": 0,
+  "explain_ru": "Дэниела обвинили в краже в отеле, и он сказал: «I didn't use it, because it means they will find me»."
+ },
+ {
+  "q": "What did Nora learn in the phone call two weeks later?",
+  "q_ru": "Что Нора узнала из звонка через две недели?",
+  "options": [
+   "Daniel had gone to prison for the theft.",
+   "Viktor had found a new job at the hotel.",
+   "Theo wanted his green turtle back.",
+   "The hotel manager was the real thief."
+  ],
+  "options_ru": [
+   "Дэниела посадили в тюрьму за кражу.",
+   "Виктор нашёл новую работу в отеле.",
+   "Тео хотел вернуть свою зелёную черепаху.",
+   "Настоящим вором был управляющий отелем."
+  ],
+  "answer": 3,
+  "explain_ru": "Полиция снова проверила отель: «the real thief had been found: the manager himself». А Тео подарил Дэниелу свою черепаху."
+ }
+]

@@ -1,0 +1,110 @@
+[
+ {
+  "q": "When did serious doubts about Shakespeare's authorship begin?",
+  "q_ru": "Когда появились серьёзные сомнения в авторстве Шекспира?",
+  "options": [
+   "During his lifetime",
+   "In the 1850s",
+   "In 1920",
+   "After the film Anonymous"
+  ],
+  "options_ru": [
+   "Ещё при его жизни",
+   "В 1850-х годах",
+   "В 1920 году",
+   "После фильма «Аноним»"
+  ],
+  "answer": 1,
+  "explain_ru": "Больше двухсот лет никто не сомневался; серьёзные сомнения начались в 1850-х, в частности с книги Делии Бэкон 1857 года."
+ },
+ {
+  "q": "What did William and Elizebeth Friedman show about the Bacon codes?",
+  "q_ru": "Что Уильям и Элизебет Фридман показали насчёт «шифров Бэкона»?",
+  "options": [
+   "They proved Bacon wrote the plays",
+   "They found Shakespeare's name in them",
+   "The same tricks can find almost any message",
+   "The codes were written by Marlowe"
+  ],
+  "options_ru": [
+   "Они доказали, что пьесы написал Бэкон",
+   "Они нашли в них имя Шекспира",
+   "С помощью тех же приёмов можно найти почти любое сообщение",
+   "Шифры написал Марло"
+  ],
+  "answer": 2,
+  "explain_ru": "Фридманы, профессиональные дешифровщики, показали, что это не настоящие шифры: такими приёмами можно «найти» что угодно почти в любом тексте."
+ },
+ {
+  "q": "What is the biggest problem for the Oxford theory?",
+  "q_ru": "В чём главная проблема оксфордской теории?",
+  "options": [
+   "De Vere could not write poems",
+   "De Vere never visited Italy",
+   "De Vere was too poor",
+   "De Vere died in 1604, before about ten plays"
+  ],
+  "options_ru": [
+   "Де Вер не умел писать стихи",
+   "Де Вер никогда не был в Италии",
+   "Де Вер был слишком беден",
+   "Де Вер умер в 1604 году, до появления примерно десяти пьес"
+  ],
+  "answer": 3,
+  "explain_ru": "Де Вер умер в 1604 году, а около десяти пьес, включая «Макбета» и «Бурю», по мнению специалистов, были написаны позже."
+ },
+ {
+  "q": "Why do most historians reject the Marlowe theory?",
+  "q_ru": "Почему большинство историков отвергают теорию о Марло?",
+  "options": [
+   "His death in 1593 is well documented",
+   "He could not read Latin",
+   "He hated the theatre",
+   "He was born after Shakespeare died"
+  ],
+  "options_ru": [
+   "Его смерть в 1593 году хорошо задокументирована",
+   "Он не умел читать на латыни",
+   "Он ненавидел театр",
+   "Он родился после смерти Шекспира"
+  ],
+  "answer": 0,
+  "explain_ru": "В 1925 году нашли официальный отчёт о расследовании его смерти: имя убийцы, рана над глазом, шестнадцать присяжных видели тело."
+ },
+ {
+  "q": "Who put together the First Folio in 1623?",
+  "q_ru": "Кто составил Первое фолио в 1623 году?",
+  "options": [
+   "Francis Bacon and his friends",
+   "Two actors named in Shakespeare's will",
+   "Queen Elizabeth's officials",
+   "Edward de Vere's family"
+  ],
+  "options_ru": [
+   "Фрэнсис Бэкон и его друзья",
+   "Двое актёров, упомянутых в завещании Шекспира",
+   "Чиновники королевы Елизаветы",
+   "Семья Эдуарда де Вера"
+  ],
+  "answer": 1,
+  "explain_ru": "Фолио составили Джон Хемингс и Генри Кондел — актёры, которым Шекспир оставил деньги на памятные кольца."
+ },
+ {
+  "q": "What does the article conclude?",
+  "q_ru": "К какому выводу приходит статья?",
+  "options": [
+   "It is proven that de Vere wrote the plays",
+   "Nobody knows who wrote the plays",
+   "The evidence strongly supports Shakespeare of Stratford",
+   "Bacon and Marlowe wrote the plays together"
+  ],
+  "options_ru": [
+   "Доказано, что пьесы написал де Вер",
+   "Никто не знает, кто написал пьесы",
+   "Доказательства убедительно говорят в пользу Шекспира из Стратфорда",
+   "Бэкон и Марло написали пьесы вместе"
+  ],
+  "answer": 2,
+  "explain_ru": "Абсолютной уверенности о прошлом не бывает, но документальных доказательств в пользу других авторов нет, а в пользу Шекспира из Стратфорда — много."
+ }
+]

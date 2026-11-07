@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What was in Isobel's brown folder?",
+  "q_ru": "Что было в коричневой папке Изобел?",
+  "options": [
+   "Notes about her patients in Bramwell",
+   "Plans for a new clinic in town",
+   "Papers about the factory fire that killed her husband",
+   "Letters from her husband Callum"
+  ],
+  "options_ru": [
+   "Записи о её пациентах в Брамвелле",
+   "Планы новой клиники в городе",
+   "Материалы о пожаре на фабрике, где погиб её муж",
+   "Письма от её мужа Каллума"
+  ],
+  "answer": 2,
+  "explain_ru": "В папке — статьи, фото и письма о пожаре на фабрике Гривза, который убил Каллума. Она хотела доказать, что Гривз знал об опасной проводке."
+ },
+ {
+  "q": "\"His influence was everywhere: the mayor ate at his table.\" What is \"influence\"?",
+  "q_ru": "«His influence was everywhere: the mayor ate at his table». Что такое «influence»?",
+  "options": [
+   "A kind of illness",
+   "The power to change what people do",
+   "A large amount of land",
+   "A bad reputation"
+  ],
+  "options_ru": [
+   "Вид болезни",
+   "Власть влиять на то, что делают люди",
+   "Большое количество земли",
+   "Плохая репутация"
+  ],
+  "answer": 1,
+  "explain_ru": "Influence — влияние. Мэр ужинает у Гривза, а газета никогда не пишет о нём плохо: он управляет городом."
+ },
+ {
+  "q": "Why did Isobel go to Posy first?",
+  "q_ru": "Почему Изобел сначала поехала к Поузи?",
+  "options": [
+   "Posy could die in hours, and only Isobel could help her",
+   "She wanted to take revenge on Greaves",
+   "The farm was closer than the Greaves house",
+   "Elsie told her that Greaves was better"
+  ],
+  "options_ru": [
+   "Поузи могла умереть за несколько часов, и помочь могла только Изобел",
+   "Она хотела отомстить Гривзу",
+   "Ферма была ближе, чем дом Гривза",
+   "Элси сказала ей, что Гривзу лучше"
+  ],
+  "answer": 0,
+  "explain_ru": "Сыпь значила менингит, нужны были антибиотики. Гривз был в тёплом доме с Элси, а Поузи «nobody except Isobel could give her what she needed». Ферма была дальше."
+ },
+ {
+  "q": "Who was Joanna Tennant?",
+  "q_ru": "Кем была Джоанна Теннант?",
+  "options": [
+   "Greaves's housekeeper",
+   "Callum's younger sister",
+   "A nurse from the city hospital",
+   "Greaves's daughter"
+  ],
+  "options_ru": [
+   "Экономкой Гривза",
+   "Младшей сестрой Каллума",
+   "Медсестрой из городской больницы",
+   "Дочерью Гривза"
+  ],
+  "answer": 3,
+  "explain_ru": "На фотографии Изобел видит Гривза. Джоанна говорит: «My father. We haven't spoken for twelve years»."
+ },
+ {
+  "q": "Why did Greaves tell Isobel the truth about the fire?",
+  "q_ru": "Почему Гривз рассказал Изобел правду о пожаре?",
+  "options": [
+   "The police had found the report",
+   "Joanna asked him to confess",
+   "She treated him well, and he was tired of lying",
+   "He wanted to build a new mall"
+  ],
+  "options_ru": [
+   "Полиция нашла отчёт",
+   "Джоанна попросила его признаться",
+   "Она хорошо к нему отнеслась, и он устал лгать",
+   "Он хотел построить новый торговый центр"
+  ],
+  "answer": 2,
+  "explain_ru": "Гривз: «Because tonight you treated me better than I treated your husband... And because I've got tired of lying»."
+ },
+ {
+  "q": "What did Isobel do with the folder at the end?",
+  "q_ru": "Что Изобел сделала с папкой в конце?",
+  "options": [
+   "She didn't burn it; she just stopped carrying the pain",
+   "She burned it with Callum's silver lighter",
+   "She gave it to the local newspaper",
+   "She sent it to Greaves in the hospital"
+  ],
+  "options_ru": [
+   "Не сожгла её — просто перестала нести эту боль",
+   "Сожгла её серебряной зажигалкой Каллума",
+   "Отдала её местной газете",
+   "Отправила её Гривзу в больницу"
+  ],
+  "answer": 0,
+  "explain_ru": "Она достала зажигалку, но убрала её: «She did not need to burn anything. She only needed to stop carrying it»."
+ }
+]

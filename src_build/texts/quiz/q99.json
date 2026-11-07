@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why was Skipper taken to the city?",
+  "q_ru": "Почему Шкипера увезли в город?",
+  "options": [
+   "Ellis moved to the city himself",
+   "Ellis sold his house by the sea",
+   "Ellis gave him to Maggie as a present",
+   "Ellis broke his hip and went into hospital"
+  ],
+  "options_ru": [
+   "Эллис сам переехал в город",
+   "Эллис продал свой дом у моря",
+   "Эллис подарил его Мэгги",
+   "Эллис сломал бедро и попал в больницу"
+  ],
+  "answer": 3,
+  "explain_ru": "Эллис упал на кухне и сломал бедро; пока он был в больнице, его дочь Ида заперла дом и увезла пса к себе в город."
+ },
+ {
+  "q": "How did Maggie first learn that Skipper was going north?",
+  "q_ru": "Как Мэгги впервые узнала, что Шкипер идёт на север?",
+  "options": [
+   "From a bus driver's photo online",
+   "From a phone call from Winnie",
+   "From a police report",
+   "She saw him leave the park"
+  ],
+  "options_ru": [
+   "По фотографии водителя автобуса в интернете",
+   "Из звонка Винни",
+   "Из сообщения полиции",
+   "Она видела, как он уходит из парка"
+  ],
+  "answer": 0,
+  "explain_ru": "На шестой день Мэгги нашла в интернете фото водителя автобуса, сделанное у Корби-Бриджа, в 80 км к северу от города."
+ },
+ {
+  "q": "What did Skipper do when a wolf came near in the forest?",
+  "q_ru": "Что сделал Шкипер, когда в лесу рядом оказался волк?",
+  "options": [
+   "He fought it",
+   "He ran away as fast as he could",
+   "He lay still under the roots of a fallen tree",
+   "He barked loudly until it left"
+  ],
+  "options_ru": [
+   "Подрался с ним",
+   "Убежал со всех ног",
+   "Неподвижно лежал под корнями упавшего дерева",
+   "Громко лаял, пока тот не ушёл"
+  ],
+  "answer": 2,
+  "explain_ru": "Шкипер был слишком стар, чтобы бежать, и слишком устал, чтобы драться, поэтому затаился в яме под корнями и ждал, пока хищник пройдёт мимо."
+ },
+ {
+  "q": "Why did nobody answer when Winnie called the number on the collar?",
+  "q_ru": "Почему никто не ответил, когда Винни звонила по номеру на ошейнике?",
+  "options": [
+   "The number was wrong",
+   "It was the phone in Ellis's empty house",
+   "Her phone was broken",
+   "She called in the middle of the night"
+  ],
+  "options_ru": [
+   "Номер был неправильный",
+   "Это был телефон в пустом доме Эллиса",
+   "Её телефон был сломан",
+   "Она звонила посреди ночи"
+  ],
+  "answer": 1,
+  "explain_ru": "На ошейнике был старый номер — телефон в доме Эллиса, а дом стоял пустой, потому что Эллис лежал в больнице."
+ },
+ {
+  "q": "What made Ida change her plan to put her father in a care home?",
+  "q_ru": "Что заставило Иду отказаться от плана отправить отца в дом престарелых?",
+  "options": [
+   "Her father's words about the dog's journey",
+   "A doctor's advice",
+   "The high cost of the care home",
+   "A letter from Winnie"
+  ],
+  "options_ru": [
+   "Слова отца о путешествии пса",
+   "Совет врача",
+   "Высокая стоимость дома престарелых",
+   "Письмо от Винни"
+  ],
+  "answer": 0,
+  "explain_ru": "Эллис сказал, что пёс проходит триста километров, чтобы попасть домой, а он сам сможет пройти несколько метров по своей кухне; эти слова подействовали на Иду, а Мэгги добавила, что дедушка заслуживает вернуться домой."
+ },
+ {
+  "q": "Where did the family find Skipper at the end?",
+  "q_ru": "Где семья нашла Шкипера в конце?",
+  "options": [
+   "At the garden gate",
+   "Inside the kitchen",
+   "At Winnie's house",
+   "Beside the old boat on the beach"
+  ],
+  "options_ru": [
+   "У садовой калитки",
+   "На кухне",
+   "В доме у Винни",
+   "Рядом со старой лодкой на пляже"
+  ],
+  "answer": 3,
+  "explain_ru": "Шкипер не пошёл к дому, а сразу направился к старой деревянной лодке на пляже, где всегда сидел Эллис, и ждал его там."
+ }
+]

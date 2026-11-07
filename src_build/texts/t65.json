@@ -1,0 +1,1257 @@
+{
+ "id": 65,
+ "level": "B1",
+ "cat": "cons",
+ "title_en": "The Bermuda Triangle: A Mystery Made by Writers",
+ "title_ru": "Бермудский треугольник: тайна, созданная писателями",
+ "genre": "Конспирология: миф",
+ "summary_ru": "Пропавшие самолёты «Рейса 19» и исчезнувший корабль «Циклоп» превратили участок Атлантики в «самое опасное место на Земле», но проверка фактов, страховщики и Береговая охрана США говорят совсем о другом.",
+ "paragraphs": [
+  {
+   "en": "On the afternoon of 5 December 1945, five US Navy torpedo bombers took off from a base in Fort Lauderdale, Florida. The war had ended a few months earlier, and this was a normal training flight over the sea. The planes were expected back before dark. None of the fourteen men on board ever returned.",
+   "ru": "Днём 5 декабря 1945 года пять торпедоносцев ВМС США взлетели с базы в Форт-Лодердейле во Флориде. Война закончилась за несколько месяцев до этого, и это был обычный учебный полёт над морем. Самолёты должны были вернуться до темноты. Ни один из четырнадцати человек на борту так и не вернулся.",
+   "s": [
+    [
+     "On the afternoon of 5 December 1945, five US Navy torpedo bombers took off from a base in Fort Lauderdale, Florida.",
+     "Днём 5 декабря 1945 года пять торпедоносцев ВМС США взлетели с базы в Форт-Лодердейле во Флориде."
+    ],
+    [
+     "The war had ended a few months earlier, and this was a normal training flight over the sea.",
+     "Война закончилась за несколько месяцев до этого, и это был обычный учебный полёт над морем."
+    ],
+    [
+     "The planes were expected back before dark.",
+     "Самолёты должны были вернуться до темноты."
+    ],
+    [
+     "None of the fourteen men on board ever returned.",
+     "Ни один из четырнадцати человек на борту так и не вернулся."
+    ]
+   ]
+  },
+  {
+   "en": "A few hours later, a large rescue plane with thirteen men on board went out to search for them, and it also disappeared. No bodies and no wreckage of the six planes were ever found. Imagine how the families felt: twenty-seven men had simply vanished in a single evening. Years later, this story was told again and again in books, magazines and films as proof that something strange happens in a part of the Atlantic Ocean known as the Bermuda Triangle.",
+   "ru": "Через несколько часов на их поиски вылетел большой спасательный самолёт с тринадцатью людьми на борту, и он тоже пропал. Ни тел, ни обломков этих шести самолётов так и не нашли. Представьте, что чувствовали семьи: двадцать семь человек просто исчезли за один вечер. Спустя годы эту историю снова и снова рассказывали в книгах, журналах и фильмах как доказательство того, что в части Атлантического океана, известной как Бермудский треугольник, происходит что-то странное.",
+   "s": [
+    [
+     "A few hours later, a large rescue plane with thirteen men on board went out to search for them, and it also disappeared.",
+     "Через несколько часов на их поиски вылетел большой спасательный самолёт с тринадцатью людьми на борту, и он тоже пропал."
+    ],
+    [
+     "No bodies and no wreckage of the six planes were ever found.",
+     "Ни тел, ни обломков этих шести самолётов так и не нашли."
+    ],
+    [
+     "Imagine how the families felt: twenty-seven men had simply vanished in a single evening.",
+     "Представьте, что чувствовали семьи: двадцать семь человек просто исчезли за один вечер."
+    ],
+    [
+     "Years later, this story was told again and again in books, magazines and films as proof that something strange happens in a part of the Atlantic Ocean known as the Bermuda Triangle.",
+     "Спустя годы эту историю снова и снова рассказывали в книгах, журналах и фильмах как доказательство того, что в части Атлантического океана, известной как Бермудский треугольник, происходит что-то странное."
+    ]
+   ]
+  },
+  {
+   "en": "The Triangle is usually described as the area of sea between Miami, the island of Bermuda and Puerto Rico. However, its borders do not appear on any official map, and different writers draw them in different places. The US Board on Geographic Names, which decides on official place names, does not recognize the name at all.",
+   "ru": "Треугольник обычно описывают как участок моря между Майами, островом Бермуды и Пуэрто-Рико. Однако его границ нет ни на одной официальной карте, и разные авторы проводят их в разных местах. Совет США по географическим названиям, который утверждает официальные названия мест, вообще не признаёт это название.",
+   "s": [
+    [
+     "The Triangle is usually described as the area of sea between Miami, the island of Bermuda and Puerto Rico.",
+     "Треугольник обычно описывают как участок моря между Майами, островом Бермуды и Пуэрто-Рико."
+    ],
+    [
+     "However, its borders do not appear on any official map, and different writers draw them in different places.",
+     "Однако его границ нет ни на одной официальной карте, и разные авторы проводят их в разных местах."
+    ],
+    [
+     "The US Board on Geographic Names, which decides on official place names, does not recognize the name at all.",
+     "Совет США по географическим названиям, который утверждает официальные названия мест, вообще не признаёт это название."
+    ]
+   ]
+  },
+  {
+   "en": "According to the legend, ships and planes disappear here more often than anywhere else on Earth, often in calm weather and without sending any call for help. Writers have suggested many causes: strange magnetic forces, giant waves, gas from the sea floor, visitors from space and even the lost city of Atlantis. To understand how the legend was born, we should look at the evidence, starting with its most famous case.",
+   "ru": "Согласно легенде, корабли и самолёты исчезают здесь чаще, чем где-либо ещё на Земле, нередко в спокойную погоду и не подав никакого сигнала о помощи. Авторы предлагали множество причин: странные магнитные силы, гигантские волны, газ с морского дна, пришельцев из космоса и даже затерянный город Атлантиду. Чтобы понять, как родилась легенда, нужно посмотреть на факты, начиная с самого знаменитого случая.",
+   "s": [
+    [
+     "According to the legend, ships and planes disappear here more often than anywhere else on Earth, often in calm weather and without sending any call for help.",
+     "Согласно легенде, корабли и самолёты исчезают здесь чаще, чем где-либо ещё на Земле, нередко в спокойную погоду и не подав никакого сигнала о помощи."
+    ],
+    [
+     "Writers have suggested many causes: strange magnetic forces, giant waves, gas from the sea floor, visitors from space and even the lost city of Atlantis.",
+     "Авторы предлагали множество причин: странные магнитные силы, гигантские волны, газ с морского дна, пришельцев из космоса и даже затерянный город Атлантиду."
+    ],
+    [
+     "To understand how the legend was born, we should look at the evidence, starting with its most famous case.",
+     "Чтобы понять, как родилась легенда, нужно посмотреть на факты, начиная с самого знаменитого случая."
+    ]
+   ]
+  },
+  {
+   "en": "The five planes were called Flight 19. They were TBM Avengers, heavy torpedo bombers. The leader, Lieutenant Charles Taylor, was an experienced pilot who had flown in the war in the Pacific, but he had only recently arrived at this base and did not know the area well. Most of the other men were students. Their task was a navigation exercise: they had to fly east over the sea, practise bombing, then turn north and finally fly west back to Florida.",
+   "ru": "Эти пять самолётов назывались «Рейс 19». Это были «Эвенджеры» TBM — тяжёлые торпедоносцы. Ведущий, лейтенант Чарльз Тейлор, был опытным лётчиком, воевавшим на Тихом океане, но он совсем недавно прибыл на эту базу и плохо знал местность. Большинство остальных были курсантами. Их задачей было упражнение по навигации: они должны были полететь на восток над морем, отработать бомбометание, затем повернуть на север и наконец полететь на запад обратно во Флориду.",
+   "s": [
+    [
+     "The five planes were called Flight 19.",
+     "Эти пять самолётов назывались «Рейс 19»."
+    ],
+    [
+     "They were TBM Avengers, heavy torpedo bombers.",
+     "Это были «Эвенджеры» TBM — тяжёлые торпедоносцы."
+    ],
+    [
+     "The leader, Lieutenant Charles Taylor, was an experienced pilot who had flown in the war in the Pacific, but he had only recently arrived at this base and did not know the area well.",
+     "Ведущий, лейтенант Чарльз Тейлор, был опытным лётчиком, воевавшим на Тихом океане, но он совсем недавно прибыл на эту базу и плохо знал местность."
+    ],
+    [
+     "Most of the other men were students.",
+     "Большинство остальных были курсантами."
+    ],
+    [
+     "Their task was a navigation exercise: they had to fly east over the sea, practise bombing, then turn north and finally fly west back to Florida.",
+     "Их задачей было упражнение по навигации: они должны были полететь на восток над морем, отработать бомбометание, затем повернуть на север и наконец полететь на запад обратно во Флориду."
+    ]
+   ]
+  },
+  {
+   "en": "About an hour and a half after take-off, radio operators on the ground heard Taylor say that both of his compasses were not working. He believed that the planes were over the Florida Keys, a line of small islands south-west of Florida. In fact, they were probably near the Bahamas, to the east. If he really had been over the Keys, flying north-east would have taken him home. Instead, it took the planes further out over the open ocean.",
+   "ru": "Примерно через полтора часа после взлёта радисты на земле услышали, как Тейлор сказал, что оба его компаса не работают. Он считал, что самолёты находятся над Флорида-Кис — цепочкой маленьких островов к юго-западу от Флориды. На самом деле они, вероятно, были возле Багамских островов, на востоке. Если бы он действительно был над Флорида-Кис, полёт на северо-восток привёл бы его домой. Вместо этого он увёл самолёты ещё дальше в открытый океан.",
+   "s": [
+    [
+     "About an hour and a half after take-off, radio operators on the ground heard Taylor say that both of his compasses were not working.",
+     "Примерно через полтора часа после взлёта радисты на земле услышали, как Тейлор сказал, что оба его компаса не работают."
+    ],
+    [
+     "He believed that the planes were over the Florida Keys, a line of small islands south-west of Florida.",
+     "Он считал, что самолёты находятся над Флорида-Кис — цепочкой маленьких островов к юго-западу от Флориды."
+    ],
+    [
+     "In fact, they were probably near the Bahamas, to the east.",
+     "На самом деле они, вероятно, были возле Багамских островов, на востоке."
+    ],
+    [
+     "If he really had been over the Keys, flying north-east would have taken him home.",
+     "Если бы он действительно был над Флорида-Кис, полёт на северо-восток привёл бы его домой."
+    ],
+    [
+     "Instead, it took the planes further out over the open ocean.",
+     "Вместо этого он увёл самолёты ещё дальше в открытый океан."
+    ]
+   ]
+  },
+  {
+   "en": "The radio messages suggest that at least one of the young pilots thought they should fly west, but the students obeyed their leader. As the hours passed, the weather got worse, the sun went down and the sea became rough. The signals became weaker. In one of his last messages, Taylor told the other pilots that they would all go down on the water together when the first plane was nearly out of fuel. A heavy plane landing on a stormy sea at night would probably sink within seconds.",
+   "ru": "Радиосообщения говорят о том, что по крайней мере один из молодых лётчиков считал, что лететь нужно на запад, но курсанты подчинились своему ведущему. Шли часы, погода ухудшалась, солнце село, а море стало бурным. Сигналы становились всё слабее. В одном из последних сообщений Тейлор сказал остальным лётчикам, что все они вместе сядут на воду, когда у первого самолёта почти закончится топливо. Тяжёлый самолёт, садящийся на штормовое море ночью, скорее всего, затонул бы за считаные секунды.",
+   "s": [
+    [
+     "The radio messages suggest that at least one of the young pilots thought they should fly west, but the students obeyed their leader.",
+     "Радиосообщения говорят о том, что по крайней мере один из молодых лётчиков считал, что лететь нужно на запад, но курсанты подчинились своему ведущему."
+    ],
+    [
+     "As the hours passed, the weather got worse, the sun went down and the sea became rough.",
+     "Шли часы, погода ухудшалась, солнце село, а море стало бурным."
+    ],
+    [
+     "The signals became weaker.",
+     "Сигналы становились всё слабее."
+    ],
+    [
+     "In one of his last messages, Taylor told the other pilots that they would all go down on the water together when the first plane was nearly out of fuel.",
+     "В одном из последних сообщений Тейлор сказал остальным лётчикам, что все они вместе сядут на воду, когда у первого самолёта почти закончится топливо."
+    ],
+    [
+     "A heavy plane landing on a stormy sea at night would probably sink within seconds.",
+     "Тяжёлый самолёт, садящийся на штормовое море ночью, скорее всего, затонул бы за считаные секунды."
+    ]
+   ]
+  },
+  {
+   "en": "The rescue plane was a PBM Mariner, a large flying boat. Soon after it took off, the crew of a passing ship, the SS Gaines Mills, reported seeing flames and an explosion in the sky, and later a patch of oil on the water. Mariners had a bad reputation: pilots called them \"flying gas tanks\", because fuel gas could collect inside them, and a single spark could start a fire. Most investigators believe that this is what happened.",
+   "ru": "Спасательным самолётом был PBM «Маринер» — большая летающая лодка. Вскоре после его взлёта экипаж проходившего мимо судна «Гейнс Миллс» сообщил, что видел в небе пламя и взрыв, а позже — масляное пятно на воде. У «Маринеров» была плохая репутация: лётчики называли их «летающими бензобаками», потому что внутри мог скапливаться топливный газ, а одна искра могла вызвать пожар. Большинство исследователей считают, что именно это и произошло.",
+   "s": [
+    [
+     "The rescue plane was a PBM Mariner, a large flying boat.",
+     "Спасательным самолётом был PBM «Маринер» — большая летающая лодка."
+    ],
+    [
+     "Soon after it took off, the crew of a passing ship, the SS Gaines Mills, reported seeing flames and an explosion in the sky, and later a patch of oil on the water.",
+     "Вскоре после его взлёта экипаж проходившего мимо судна «Гейнс Миллс» сообщил, что видел в небе пламя и взрыв, а позже — масляное пятно на воде."
+    ],
+    [
+     "Mariners had a bad reputation: pilots called them \"flying gas tanks\", because fuel gas could collect inside them, and a single spark could start a fire.",
+     "У «Маринеров» была плохая репутация: лётчики называли их «летающими бензобаками», потому что внутри мог скапливаться топливный газ, а одна искра могла вызвать пожар."
+    ],
+    [
+     "Most investigators believe that this is what happened.",
+     "Большинство исследователей считают, что именно это и произошло."
+    ]
+   ]
+  },
+  {
+   "en": "The Navy's first investigation blamed Taylor's mistakes for the loss of Flight 19. His family refused to accept this, and after a review the Navy decided that there was not enough evidence to blame him. The official cause was changed to \"causes or reasons unknown\". The Navy had not found anything mysterious; it simply could not prove exactly what had gone wrong. But for later writers, the words \"reasons unknown\" were perfect.",
+   "ru": "Первое расследование ВМС возложило вину за гибель «Рейса 19» на ошибки Тейлора. Его семья отказалась с этим согласиться, и после пересмотра ВМС решили, что доказательств, чтобы обвинить его, недостаточно. Официальная причина была изменена на «причины неизвестны». ВМС не обнаружили ничего загадочного — они просто не могли доказать, что именно пошло не так. Но для более поздних авторов слова «причины неизвестны» оказались идеальными.",
+   "s": [
+    [
+     "The Navy's first investigation blamed Taylor's mistakes for the loss of Flight 19.",
+     "Первое расследование ВМС возложило вину за гибель «Рейса 19» на ошибки Тейлора."
+    ],
+    [
+     "His family refused to accept this, and after a review the Navy decided that there was not enough evidence to blame him.",
+     "Его семья отказалась с этим согласиться, и после пересмотра ВМС решили, что доказательств, чтобы обвинить его, недостаточно."
+    ],
+    [
+     "The official cause was changed to \"causes or reasons unknown\".",
+     "Официальная причина была изменена на «причины неизвестны»."
+    ],
+    [
+     "The Navy had not found anything mysterious; it simply could not prove exactly what had gone wrong.",
+     "ВМС не обнаружили ничего загадочного — они просто не могли доказать, что именно пошло не так."
+    ],
+    [
+     "But for later writers, the words \"reasons unknown\" were perfect.",
+     "Но для более поздних авторов слова «причины неизвестны» оказались идеальными."
+    ]
+   ]
+  },
+  {
+   "en": "The story of Flight 19 even reached Hollywood. In Steven Spielberg's 1977 film Close Encounters of the Third Kind, the lost planes are found in a desert, brought there by aliens. In real life, divers found five Avengers on the sea floor off Florida in 1991, and for a short time newspapers reported that the mystery had been solved. However, the numbers on the planes showed that they were not Flight 19. They had probably crashed at different times during training.",
+   "ru": "История «Рейса 19» дошла даже до Голливуда. В фильме Стивена Спилберга «Близкие контакты третьей степени» 1977 года пропавшие самолёты находят в пустыне, куда их доставили инопланетяне. В реальной жизни в 1991 году водолазы нашли пять «Эвенджеров» на морском дне у побережья Флориды, и какое-то время газеты писали, что тайна раскрыта. Однако номера на самолётах показали, что это не «Рейс 19». Вероятно, они разбились в разное время во время учений.",
+   "s": [
+    [
+     "The story of Flight 19 even reached Hollywood.",
+     "История «Рейса 19» дошла даже до Голливуда."
+    ],
+    [
+     "In Steven Spielberg's 1977 film Close Encounters of the Third Kind, the lost planes are found in a desert, brought there by aliens.",
+     "В фильме Стивена Спилберга «Близкие контакты третьей степени» 1977 года пропавшие самолёты находят в пустыне, куда их доставили инопланетяне."
+    ],
+    [
+     "In real life, divers found five Avengers on the sea floor off Florida in 1991, and for a short time newspapers reported that the mystery had been solved.",
+     "В реальной жизни в 1991 году водолазы нашли пять «Эвенджеров» на морском дне у побережья Флориды, и какое-то время газеты писали, что тайна раскрыта."
+    ],
+    [
+     "However, the numbers on the planes showed that they were not Flight 19.",
+     "Однако номера на самолётах показали, что это не «Рейс 19»."
+    ],
+    [
+     "They had probably crashed at different times during training.",
+     "Вероятно, они разбились в разное время во время учений."
+    ]
+   ]
+  },
+  {
+   "en": "The second famous case happened much earlier, during the First World War. The USS Cyclops was a huge Navy cargo ship which carried coal for the fleet. In February 1918, it left Brazil for Baltimore with a heavy cargo of manganese ore, a metal used to make steel. There were 306 people on board. After a stop at the island of Barbados in early March, the ship was never seen again, and no wreck has ever been found. It is still the largest loss of life in the history of the US Navy that was not caused by fighting.",
+   "ru": "Второй знаменитый случай произошёл гораздо раньше, во время Первой мировой войны. «Циклоп» был огромным грузовым судном ВМС, которое возило уголь для флота. В феврале 1918 года он вышел из Бразилии в Балтимор с тяжёлым грузом марганцевой руды — металла, который используется для производства стали. На борту находились 306 человек. После остановки на острове Барбадос в начале марта корабль больше никто не видел, и его обломки так и не были найдены. Это до сих пор самая большая гибель людей в истории ВМС США, не связанная с боевыми действиями.",
+   "s": [
+    [
+     "The second famous case happened much earlier, during the First World War.",
+     "Второй знаменитый случай произошёл гораздо раньше, во время Первой мировой войны."
+    ],
+    [
+     "The USS Cyclops was a huge Navy cargo ship which carried coal for the fleet.",
+     "«Циклоп» был огромным грузовым судном ВМС, которое возило уголь для флота."
+    ],
+    [
+     "In February 1918, it left Brazil for Baltimore with a heavy cargo of manganese ore, a metal used to make steel.",
+     "В феврале 1918 года он вышел из Бразилии в Балтимор с тяжёлым грузом марганцевой руды — металла, который используется для производства стали."
+    ],
+    [
+     "There were 306 people on board.",
+     "На борту находились 306 человек."
+    ],
+    [
+     "After a stop at the island of Barbados in early March, the ship was never seen again, and no wreck has ever been found.",
+     "После остановки на острове Барбадос в начале марта корабль больше никто не видел, и его обломки так и не были найдены."
+    ],
+    [
+     "It is still the largest loss of life in the history of the US Navy that was not caused by fighting.",
+     "Это до сих пор самая большая гибель людей в истории ВМС США, не связанная с боевыми действиями."
+    ]
+   ]
+  },
+  {
+   "en": "The Cyclops was not a healthy ship. One of its two engines was damaged, and it was carrying more cargo than usual. Its captain, George Worley, was known as a strange and unpopular man. Because he had been born in Germany, there were rumours during the war that he had given the ship to the enemy. After the war, German records were checked, and there was no evidence that a German submarine or mine had sunk the Cyclops.",
+   "ru": "«Циклоп» не был исправным кораблём. Один из двух его двигателей был повреждён, а груза он вёз больше обычного. Его капитан, Джордж Уорли, был известен как странный и непопулярный человек. Поскольку он родился в Германии, во время войны ходили слухи, что он отдал корабль врагу. После войны проверили немецкие архивы, и никаких доказательств того, что «Циклоп» потопила немецкая подводная лодка или мина, не нашлось.",
+   "s": [
+    [
+     "The Cyclops was not a healthy ship.",
+     "«Циклоп» не был исправным кораблём."
+    ],
+    [
+     "One of its two engines was damaged, and it was carrying more cargo than usual.",
+     "Один из двух его двигателей был повреждён, а груза он вёз больше обычного."
+    ],
+    [
+     "Its captain, George Worley, was known as a strange and unpopular man.",
+     "Его капитан, Джордж Уорли, был известен как странный и непопулярный человек."
+    ],
+    [
+     "Because he had been born in Germany, there were rumours during the war that he had given the ship to the enemy.",
+     "Поскольку он родился в Германии, во время войны ходили слухи, что он отдал корабль врагу."
+    ],
+    [
+     "After the war, German records were checked, and there was no evidence that a German submarine or mine had sunk the Cyclops.",
+     "После войны проверили немецкие архивы, и никаких доказательств того, что «Циклоп» потопила немецкая подводная лодка или мина, не нашлось."
+    ]
+   ]
+  },
+  {
+   "en": "So what happened? The most likely explanations are a sudden storm or a structural failure: the ship may have broken apart under its heavy cargo. It is interesting that two of its sister ships, which were built to the same design, also disappeared without a trace in late 1941 while they were carrying heavy cargoes of ore. Historians still disagree about the exact cause, so the Cyclops remains a real mystery. But a ship that is lost without explanation is not proof of supernatural forces.",
+   "ru": "Так что же произошло? Самые вероятные объяснения — внезапный шторм или повреждение конструкции: корабль мог разломиться под тяжестью груза. Интересно, что два однотипных с ним корабля, построенных по тому же проекту, тоже бесследно исчезли в конце 1941 года, когда перевозили тяжёлые грузы руды. Историки до сих пор спорят о точной причине, поэтому «Циклоп» остаётся настоящей загадкой. Но корабль, пропавший без объяснения, — это не доказательство сверхъестественных сил.",
+   "s": [
+    [
+     "So what happened?",
+     "Так что же произошло?"
+    ],
+    [
+     "The most likely explanations are a sudden storm or a structural failure: the ship may have broken apart under its heavy cargo.",
+     "Самые вероятные объяснения — внезапный шторм или повреждение конструкции: корабль мог разломиться под тяжестью груза."
+    ],
+    [
+     "It is interesting that two of its sister ships, which were built to the same design, also disappeared without a trace in late 1941 while they were carrying heavy cargoes of ore.",
+     "Интересно, что два однотипных с ним корабля, построенных по тому же проекту, тоже бесследно исчезли в конце 1941 года, когда перевозили тяжёлые грузы руды."
+    ],
+    [
+     "Historians still disagree about the exact cause, so the Cyclops remains a real mystery.",
+     "Историки до сих пор спорят о точной причине, поэтому «Циклоп» остаётся настоящей загадкой."
+    ],
+    [
+     "But a ship that is lost without explanation is not proof of supernatural forces.",
+     "Но корабль, пропавший без объяснения, — это не доказательство сверхъестественных сил."
+    ]
+   ]
+  },
+  {
+   "en": "For many years, these stories were not connected. Then, in 1950, an Associated Press journalist wrote a short article about several ships and planes that had disappeared off the coast of Florida. In 1952, a magazine called Fate published another story about the \"sea mystery at our back door\". Finally, in February 1964, the writer Vincent Gaddis published an article in the magazine Argosy called \"The Deadly Bermuda Triangle\". The name stuck.",
+   "ru": "Долгие годы эти истории никак не были связаны между собой. Затем, в 1950 году, журналист агентства Associated Press написал короткую статью о нескольких кораблях и самолётах, пропавших у побережья Флориды. В 1952 году журнал Fate опубликовал ещё одну историю о «морской тайне у нашего порога». Наконец, в феврале 1964 года писатель Винсент Гэддис опубликовал в журнале Argosy статью под названием «Смертельный Бермудский треугольник». Название прижилось.",
+   "s": [
+    [
+     "For many years, these stories were not connected.",
+     "Долгие годы эти истории никак не были связаны между собой."
+    ],
+    [
+     "Then, in 1950, an Associated Press journalist wrote a short article about several ships and planes that had disappeared off the coast of Florida.",
+     "Затем, в 1950 году, журналист агентства Associated Press написал короткую статью о нескольких кораблях и самолётах, пропавших у побережья Флориды."
+    ],
+    [
+     "In 1952, a magazine called Fate published another story about the \"sea mystery at our back door\".",
+     "В 1952 году журнал Fate опубликовал ещё одну историю о «морской тайне у нашего порога»."
+    ],
+    [
+     "Finally, in February 1964, the writer Vincent Gaddis published an article in the magazine Argosy called \"The Deadly Bermuda Triangle\".",
+     "Наконец, в феврале 1964 года писатель Винсент Гэддис опубликовал в журнале Argosy статью под названием «Смертельный Бермудский треугольник»."
+    ],
+    [
+     "The name stuck.",
+     "Название прижилось."
+    ]
+   ]
+  },
+  {
+   "en": "The legend became world famous ten years later. In 1974, Charles Berlitz published a book called The Bermuda Triangle, which became a bestseller and was translated into many languages. Berlitz suggested that the lost city of Atlantis might be responsible. Other authors wrote about time travel, aliens and mysterious energy. Soon there were films, television programmes and comics, and millions of people got the impression that the Triangle was the most dangerous place on Earth.",
+   "ru": "Мировую известность легенда получила десять лет спустя. В 1974 году Чарльз Берлиц выпустил книгу «Бермудский треугольник», которая стала бестселлером и была переведена на многие языки. Берлиц предположил, что виновата может быть затерянная Атлантида. Другие авторы писали о путешествиях во времени, инопланетянах и таинственной энергии. Вскоре появились фильмы, телепередачи и комиксы, и у миллионов людей сложилось впечатление, что Треугольник — самое опасное место на Земле.",
+   "s": [
+    [
+     "The legend became world famous ten years later.",
+     "Мировую известность легенда получила десять лет спустя."
+    ],
+    [
+     "In 1974, Charles Berlitz published a book called The Bermuda Triangle, which became a bestseller and was translated into many languages.",
+     "В 1974 году Чарльз Берлиц выпустил книгу «Бермудский треугольник», которая стала бестселлером и была переведена на многие языки."
+    ],
+    [
+     "Berlitz suggested that the lost city of Atlantis might be responsible.",
+     "Берлиц предположил, что виновата может быть затерянная Атлантида."
+    ],
+    [
+     "Other authors wrote about time travel, aliens and mysterious energy.",
+     "Другие авторы писали о путешествиях во времени, инопланетянах и таинственной энергии."
+    ],
+    [
+     "Soon there were films, television programmes and comics, and millions of people got the impression that the Triangle was the most dangerous place on Earth.",
+     "Вскоре появились фильмы, телепередачи и комиксы, и у миллионов людей сложилось впечатление, что Треугольник — самое опасное место на Земле."
+    ]
+   ]
+  },
+  {
+   "en": "Not everyone believed it. Larry Kusche, a librarian at Arizona State University, was often asked by students for books about the Triangle, and he decided to check the stories himself. Instead of copying earlier books, he went back to the original sources: newspapers from the time, official reports and weather records. In 1975, he published his results in a book called The Bermuda Triangle Mystery Solved.",
+   "ru": "Но поверили не все. Ларри Куше, библиотекаря Университета штата Аризона, студенты часто просили найти книги о Треугольнике, и он решил сам проверить эти истории. Вместо того чтобы переписывать более ранние книги, он обратился к первоисточникам: газетам того времени, официальным отчётам и метеосводкам. В 1975 году он опубликовал свои результаты в книге «Тайна Бермудского треугольника раскрыта».",
+   "s": [
+    [
+     "Not everyone believed it.",
+     "Но поверили не все."
+    ],
+    [
+     "Larry Kusche, a librarian at Arizona State University, was often asked by students for books about the Triangle, and he decided to check the stories himself.",
+     "Ларри Куше, библиотекаря Университета штата Аризона, студенты часто просили найти книги о Треугольнике, и он решил сам проверить эти истории."
+    ],
+    [
+     "Instead of copying earlier books, he went back to the original sources: newspapers from the time, official reports and weather records.",
+     "Вместо того чтобы переписывать более ранние книги, он обратился к первоисточникам: газетам того времени, официальным отчётам и метеосводкам."
+    ],
+    [
+     "In 1975, he published his results in a book called The Bermuda Triangle Mystery Solved.",
+     "В 1975 году он опубликовал свои результаты в книге «Тайна Бермудского треугольника раскрыта»."
+    ]
+   ]
+  },
+  {
+   "en": "What he found was surprising. Many writers had simply copied each other's mistakes. Some ships that were said to have disappeared in calm weather had actually sunk in storms. Others had been lost in completely different parts of the world, far from the Triangle. For a few cases, he could not find any evidence that the ship had ever existed. Kusche concluded that the legend was \"a manufactured mystery\", created by careless research and by writers who wanted to make their stories more exciting.",
+   "ru": "То, что он обнаружил, было удивительным. Многие авторы просто переписывали ошибки друг у друга. Некоторые корабли, которые якобы исчезли в спокойную погоду, на самом деле затонули во время штормов. Другие пропали совсем в других частях света, далеко от Треугольника. В нескольких случаях он не смог найти никаких доказательств того, что такой корабль вообще существовал. Куше пришёл к выводу, что легенда — это «сфабрикованная тайна», созданная небрежными исследованиями и авторами, которые хотели сделать свои истории увлекательнее.",
+   "s": [
+    [
+     "What he found was surprising.",
+     "То, что он обнаружил, было удивительным."
+    ],
+    [
+     "Many writers had simply copied each other's mistakes.",
+     "Многие авторы просто переписывали ошибки друг у друга."
+    ],
+    [
+     "Some ships that were said to have disappeared in calm weather had actually sunk in storms.",
+     "Некоторые корабли, которые якобы исчезли в спокойную погоду, на самом деле затонули во время штормов."
+    ],
+    [
+     "Others had been lost in completely different parts of the world, far from the Triangle.",
+     "Другие пропали совсем в других частях света, далеко от Треугольника."
+    ],
+    [
+     "For a few cases, he could not find any evidence that the ship had ever existed.",
+     "В нескольких случаях он не смог найти никаких доказательств того, что такой корабль вообще существовал."
+    ],
+    [
+     "Kusche concluded that the legend was \"a manufactured mystery\", created by careless research and by writers who wanted to make their stories more exciting.",
+     "Куше пришёл к выводу, что легенда — это «сфабрикованная тайна», созданная небрежными исследованиями и авторами, которые хотели сделать свои истории увлекательнее."
+    ]
+   ]
+  },
+  {
+   "en": "People whose job is to count risks agree with him. Insurance companies would charge more to insure ships if an area of sea were really more dangerous than others. According to many reports, Lloyd's of London, the famous insurance market, looked at the question in the 1970s and found that the Triangle was not more dangerous than other busy seas. Ships crossing it do not pay higher prices for insurance.",
+   "ru": "С ним согласны люди, чья работа — оценивать риски. Страховые компании брали бы больше за страхование кораблей, если бы какой-то район моря действительно был опаснее других. По многочисленным сообщениям, знаменитый страховой рынок Lloyd's of London изучил этот вопрос в 1970-х годах и выяснил, что Треугольник не опаснее других оживлённых морей. Корабли, которые пересекают его, не платят за страховку больше.",
+   "s": [
+    [
+     "People whose job is to count risks agree with him.",
+     "С ним согласны люди, чья работа — оценивать риски."
+    ],
+    [
+     "Insurance companies would charge more to insure ships if an area of sea were really more dangerous than others.",
+     "Страховые компании брали бы больше за страхование кораблей, если бы какой-то район моря действительно был опаснее других."
+    ],
+    [
+     "According to many reports, Lloyd's of London, the famous insurance market, looked at the question in the 1970s and found that the Triangle was not more dangerous than other busy seas.",
+     "По многочисленным сообщениям, знаменитый страховой рынок Lloyd's of London изучил этот вопрос в 1970-х годах и выяснил, что Треугольник не опаснее других оживлённых морей."
+    ],
+    [
+     "Ships crossing it do not pay higher prices for insurance.",
+     "Корабли, которые пересекают его, не платят за страховку больше."
+    ]
+   ]
+  },
+  {
+   "en": "The US Coast Guard, which regularly carries out rescues in this area, does not recognize the Bermuda Triangle as a special place either. In its view, most losses there can be explained by nature and by human mistakes. The US government's ocean agency, NOAA, says: \"There is no evidence that mysterious disappearances occur with any greater frequency in the Bermuda Triangle than in any other large, well-traveled area of the ocean.\"",
+   "ru": "Береговая охрана США, которая регулярно проводит спасательные операции в этом районе, тоже не признаёт Бермудский треугольник особым местом. По её мнению, большинство потерь там можно объяснить природой и человеческими ошибками. Океанское ведомство правительства США, NOAA, заявляет: «Нет никаких доказательств того, что загадочные исчезновения происходят в Бермудском треугольнике чаще, чем в любом другом большом и оживлённом районе океана».",
+   "s": [
+    [
+     "The US Coast Guard, which regularly carries out rescues in this area, does not recognize the Bermuda Triangle as a special place either.",
+     "Береговая охрана США, которая регулярно проводит спасательные операции в этом районе, тоже не признаёт Бермудский треугольник особым местом."
+    ],
+    [
+     "In its view, most losses there can be explained by nature and by human mistakes.",
+     "По её мнению, большинство потерь там можно объяснить природой и человеческими ошибками."
+    ],
+    [
+     "The US government's ocean agency, NOAA, says: \"There is no evidence that mysterious disappearances occur with any greater frequency in the Bermuda Triangle than in any other large, well-traveled area of the ocean.\"",
+     "Океанское ведомство правительства США, NOAA, заявляет: «Нет никаких доказательств того, что загадочные исчезновения происходят в Бермудском треугольнике чаще, чем в любом другом большом и оживлённом районе океана»."
+    ]
+   ]
+  },
+  {
+   "en": "So which natural causes matter here? First, the Gulf Stream, a strong and fast ocean current, moves through the area. It can push a small boat far off its course and quickly carry away any wreckage. Second, storms here can appear very suddenly, and hurricanes are common in late summer and autumn. Third, the sea is extremely deep in places: the Puerto Rico Trench, one of the deepest parts of the Atlantic, goes down more than 8,000 metres, so a wreck there may stay hidden forever.",
+   "ru": "Так какие же естественные причины здесь имеют значение? Во-первых, через этот район проходит Гольфстрим — сильное и быстрое океанское течение. Оно может унести небольшую лодку далеко от курса и быстро унести любые обломки. Во-вторых, штормы здесь могут возникать очень внезапно, а ураганы обычны в конце лета и осенью. В-третьих, местами море чрезвычайно глубокое: Пуэрто-Риканский жёлоб, одно из самых глубоких мест Атлантики, уходит на глубину более 8000 метров, так что обломки там могут остаться скрытыми навсегда.",
+   "s": [
+    [
+     "So which natural causes matter here?",
+     "Так какие же естественные причины здесь имеют значение?"
+    ],
+    [
+     "First, the Gulf Stream, a strong and fast ocean current, moves through the area.",
+     "Во-первых, через этот район проходит Гольфстрим — сильное и быстрое океанское течение."
+    ],
+    [
+     "It can push a small boat far off its course and quickly carry away any wreckage.",
+     "Оно может унести небольшую лодку далеко от курса и быстро унести любые обломки."
+    ],
+    [
+     "Second, storms here can appear very suddenly, and hurricanes are common in late summer and autumn.",
+     "Во-вторых, штормы здесь могут возникать очень внезапно, а ураганы обычны в конце лета и осенью."
+    ],
+    [
+     "Third, the sea is extremely deep in places: the Puerto Rico Trench, one of the deepest parts of the Atlantic, goes down more than 8,000 metres, so a wreck there may stay hidden forever.",
+     "В-третьих, местами море чрезвычайно глубокое: Пуэрто-Риканский жёлоб, одно из самых глубоких мест Атлантики, уходит на глубину более 8000 метров, так что обломки там могут остаться скрытыми навсегда."
+    ]
+   ]
+  },
+  {
+   "en": "Most importantly, this is one of the busiest areas in the world for ships, private boats and small planes. Many of the people who sail here are holidaymakers from Florida with little experience at sea. When you compare the number of accidents with the amount of traffic, the numbers are not unusual. More traffic simply means more accidents.",
+   "ru": "И самое главное, это один из самых оживлённых районов в мире для кораблей, частных лодок и небольших самолётов. Многие из тех, кто здесь плавает, — отдыхающие из Флориды с небольшим опытом плавания в море. Если сравнить количество происшествий с интенсивностью движения, цифры оказываются вполне обычными. Больше движения — просто больше происшествий.",
+   "s": [
+    [
+     "Most importantly, this is one of the busiest areas in the world for ships, private boats and small planes.",
+     "И самое главное, это один из самых оживлённых районов в мире для кораблей, частных лодок и небольших самолётов."
+    ],
+    [
+     "Many of the people who sail here are holidaymakers from Florida with little experience at sea.",
+     "Многие из тех, кто здесь плавает, — отдыхающие из Флориды с небольшим опытом плавания в море."
+    ],
+    [
+     "When you compare the number of accidents with the amount of traffic, the numbers are not unusual.",
+     "Если сравнить количество происшествий с интенсивностью движения, цифры оказываются вполне обычными."
+    ],
+    [
+     "More traffic simply means more accidents.",
+     "Больше движения — просто больше происшествий."
+    ]
+   ]
+  },
+  {
+   "en": "Some scientists have suggested other natural ideas, such as large clouds of methane gas rising from the sea floor or giant \"rogue waves\" that appear without warning. These ideas are interesting, but there is no evidence that any real ship or plane in the Triangle was lost in these ways. As for magnetic forces, aliens and Atlantis, there is no evidence for them at all.",
+   "ru": "Некоторые учёные предлагали и другие естественные объяснения, например большие облака метана, поднимающиеся с морского дна, или гигантские «волны-убийцы», которые появляются без предупреждения. Эти идеи интересны, но нет никаких доказательств того, что какой-либо реальный корабль или самолёт в Треугольнике погиб именно так. Что касается магнитных сил, пришельцев и Атлантиды, то никаких доказательств их существования нет вообще.",
+   "s": [
+    [
+     "Some scientists have suggested other natural ideas, such as large clouds of methane gas rising from the sea floor or giant \"rogue waves\" that appear without warning.",
+     "Некоторые учёные предлагали и другие естественные объяснения, например большие облака метана, поднимающиеся с морского дна, или гигантские «волны-убийцы», которые появляются без предупреждения."
+    ],
+    [
+     "These ideas are interesting, but there is no evidence that any real ship or plane in the Triangle was lost in these ways.",
+     "Эти идеи интересны, но нет никаких доказательств того, что какой-либо реальный корабль или самолёт в Треугольнике погиб именно так."
+    ],
+    [
+     "As for magnetic forces, aliens and Atlantis, there is no evidence for them at all.",
+     "Что касается магнитных сил, пришельцев и Атлантиды, то никаких доказательств их существования нет вообще."
+    ]
+   ]
+  },
+  {
+   "en": "Why, then, does the legend survive? One reason is a human habit: we remember strange stories and quickly forget ordinary explanations. Another is our fear of uncertainty. When a ship disappears and nobody knows why, there is an empty space in the story, and people fill it with their imagination. And, of course, a mystery sells far more books than a weather report.",
+   "ru": "Почему же тогда легенда живёт до сих пор? Одна из причин — человеческая привычка: мы запоминаем странные истории и быстро забываем обычные объяснения. Другая — наш страх перед неопределённостью. Когда корабль исчезает и никто не знает почему, в истории остаётся пустое место, и люди заполняют его своим воображением. И, конечно, тайна продаёт гораздо больше книг, чем сводка погоды.",
+   "s": [
+    [
+     "Why, then, does the legend survive?",
+     "Почему же тогда легенда живёт до сих пор?"
+    ],
+    [
+     "One reason is a human habit: we remember strange stories and quickly forget ordinary explanations.",
+     "Одна из причин — человеческая привычка: мы запоминаем странные истории и быстро забываем обычные объяснения."
+    ],
+    [
+     "Another is our fear of uncertainty.",
+     "Другая — наш страх перед неопределённостью."
+    ],
+    [
+     "When a ship disappears and nobody knows why, there is an empty space in the story, and people fill it with their imagination.",
+     "Когда корабль исчезает и никто не знает почему, в истории остаётся пустое место, и люди заполняют его своим воображением."
+    ],
+    [
+     "And, of course, a mystery sells far more books than a weather report.",
+     "И, конечно, тайна продаёт гораздо больше книг, чем сводка погоды."
+    ]
+   ]
+  },
+  {
+   "en": "But it is important to remember that the tragedies were real. The twenty-seven men of Flight 19 and the Mariner and the 306 people on the Cyclops had families who struggled for years with not knowing what had happened. They were not killed by a strange destiny or by forces from another world. They were most likely killed by bad weather, human mistakes, the limits of the technology of their time and the enormous power of the ocean. The real lesson of the Bermuda Triangle is how easily a good story can travel faster than the facts.",
+   "ru": "Но важно помнить, что эти трагедии были настоящими. У двадцати семи человек с «Рейса 19» и «Маринера» и у 306 человек с «Циклопа» были семьи, которые годами мучились от того, что не знали, что произошло. Их погубила не странная судьба и не силы из другого мира. Скорее всего, их погубили плохая погода, человеческие ошибки, ограниченные возможности техники того времени и огромная сила океана. Настоящий урок Бермудского треугольника в том, как легко хорошая история может распространяться быстрее, чем факты.",
+   "s": [
+    [
+     "But it is important to remember that the tragedies were real.",
+     "Но важно помнить, что эти трагедии были настоящими."
+    ],
+    [
+     "The twenty-seven men of Flight 19 and the Mariner and the 306 people on the Cyclops had families who struggled for years with not knowing what had happened.",
+     "У двадцати семи человек с «Рейса 19» и «Маринера» и у 306 человек с «Циклопа» были семьи, которые годами мучились от того, что не знали, что произошло."
+    ],
+    [
+     "They were not killed by a strange destiny or by forces from another world.",
+     "Их погубила не странная судьба и не силы из другого мира."
+    ],
+    [
+     "They were most likely killed by bad weather, human mistakes, the limits of the technology of their time and the enormous power of the ocean.",
+     "Скорее всего, их погубили плохая погода, человеческие ошибки, ограниченные возможности техники того времени и огромная сила океана."
+    ],
+    [
+     "The real lesson of the Bermuda Triangle is how easily a good story can travel faster than the facts.",
+     "Настоящий урок Бермудского треугольника в том, как легко хорошая история может распространяться быстрее, чем факты."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, об",
+  "accept": "принять",
+  "accidents": "происшествия, аварии",
+  "according": "согласно",
+  "actually": "на самом деле",
+  "after": "после",
+  "afternoon": "день, вторая половина дня",
+  "again": "снова",
+  "agency": "агентство",
+  "agree": "соглашаться",
+  "aliens": "пришельцы",
+  "all": "весь, все",
+  "also": "также",
+  "amount": "количество (amount of traffic — интенсивность движения)",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "another": "ещё один",
+  "any": "какой-либо; больше",
+  "anything": "что-нибудь",
+  "anywhere": "где-либо (anywhere else — где-либо ещё)",
+  "apart": "(broken apart) на части",
+  "appear": "появляться",
+  "are": "(есть) — вы/они",
+  "area": "район, участок",
+  "areas": "районы",
+  "argosy": "Argosy (название журнала)",
+  "arizona": "Аризона",
+  "arrived": "прибыл",
+  "article": "статья",
+  "as": "как, так как",
+  "asked": "(was asked) просили",
+  "associated": "(Associated Press) Ассошиэйтед Пресс (агентство)",
+  "at": "в, у, на",
+  "atlantic": "Атлантический (океан)",
+  "atlantis": "Атлантида",
+  "authors": "авторы",
+  "autumn": "осень",
+  "avengers": "«Эвенджеры» (торпедоносцы)",
+  "away": "(carry away) уносить; (went out) прочь",
+  "back": "назад",
+  "bad": "плохой",
+  "bahamas": "Багамские острова",
+  "baltimore": "Балтимор",
+  "barbados": "Барбадос",
+  "base": "база",
+  "be": "быть",
+  "became": "стал(а)",
+  "because": "потому что",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "believe": "верить",
+  "believed": "считал",
+  "berlitz": "Берлиц (фамилия)",
+  "bermuda": "Бермуды; Бермудский",
+  "bestseller": "бестселлер",
+  "between": "между",
+  "blame": "обвинить",
+  "blamed": "обвинил",
+  "board": "(on board) на борту; совет (Board on Geographic Names)",
+  "boat": "лодка",
+  "boats": "лодки",
+  "bodies": "тела",
+  "bombers": "бомбардировщики (torpedo bombers — торпедоносцы)",
+  "bombing": "бомбометание",
+  "book": "книга",
+  "books": "книги",
+  "borders": "границы",
+  "born": "(had been born) родился",
+  "both": "оба",
+  "brazil": "Бразилия",
+  "broken": "(broken apart) разломился",
+  "brought": "доставлены",
+  "built": "построил(и)",
+  "busiest": "самый оживлённый",
+  "busy": "оживлённый",
+  "but": "но",
+  "by": "(пассив) кем-либо; у, к",
+  "call": "(call for help) сигнал о помощи",
+  "called": "назывался, звали",
+  "calm": "спокойный",
+  "can": "могу, можем",
+  "captain": "капитан",
+  "careless": "беспечный",
+  "cargo": "груз; грузовой",
+  "cargoes": "грузы",
+  "carried": "нёс, носил",
+  "carries": "(carries out) проводит",
+  "carry": "(carry away) уносить",
+  "carrying": "перевозил, вёз",
+  "case": "случай",
+  "cases": "случаи",
+  "cause": "причина",
+  "caused": "вызван(а)",
+  "causes": "причины",
+  "changed": "изменена",
+  "charge": "брать плату (charge more — брать больше)",
+  "charles": "Чарльз (имя)",
+  "check": "проверить",
+  "checked": "проверил",
+  "city": "город",
+  "close": "(Close Encounters) близкие",
+  "clouds": "облака",
+  "coal": "уголь",
+  "coast": "побережье",
+  "collect": "собирать",
+  "comics": "комиксы",
+  "common": "общий, обычный",
+  "companies": "компании",
+  "compare": "сравнивать",
+  "compasses": "компасы",
+  "completely": "полностью",
+  "concluded": "пришёл к выводу",
+  "connected": "связаны",
+  "copied": "переписывали, копировали",
+  "copying": "переписывать",
+  "could": "мог(ла)",
+  "count": "оценивать, подсчитывать",
+  "course": "курс; (of course) конечно",
+  "crashed": "разбились",
+  "created": "создал",
+  "crew": "экипаж",
+  "crossing": "пересекающий",
+  "current": "течение",
+  "cyclops": "«Циклоп» (корабль)",
+  "damaged": "повреждён",
+  "dangerous": "опасный",
+  "dark": "тёмный",
+  "deadly": "смертельный",
+  "december": "декабрь",
+  "decided": "решили",
+  "decides": "решает",
+  "deep": "глубокий",
+  "deepest": "самый глубокий",
+  "described": "описывают",
+  "desert": "пустыня",
+  "design": "проект, конструкция",
+  "destiny": "судьба",
+  "did": "(вспом. гл.)",
+  "different": "разный",
+  "disagree": "расходиться во мнениях, спорить",
+  "disappear": "исчезнуть",
+  "disappearances": "исчезновения",
+  "disappeared": "исчезли, пропали",
+  "disappears": "исчезает",
+  "divers": "водолазы",
+  "do": "(вспом. гл.)",
+  "does": "(вспом. гл.)",
+  "door": "(back door) порог, задний двор",
+  "down": "вниз",
+  "draw": "проводят (границы)",
+  "during": "во время",
+  "each": "каждый",
+  "earlier": "раньше",
+  "early": "рано",
+  "earth": "Земля",
+  "easily": "легко",
+  "east": "восток",
+  "either": "(not ... either) тоже не",
+  "else": "ещё, другой",
+  "empty": "пустой",
+  "encounters": "контакты, встречи",
+  "ended": "закончилась",
+  "enemy": "враг",
+  "energy": "бодрость, энергия",
+  "engines": "двигатели",
+  "enormous": "огромный",
+  "enough": "достаточно",
+  "even": "даже",
+  "evening": "вечер",
+  "ever": "когда-либо",
+  "everyone": "все",
+  "evidence": "доказательства",
+  "exact": "точный",
+  "exactly": "точно",
+  "exciting": "захватывающий",
+  "exercise": "упражнение",
+  "existed": "существовал",
+  "expected": "(were expected back) должны были вернуться",
+  "experience": "опыт",
+  "experienced": "опытный",
+  "explained": "объяснил",
+  "explanation": "объяснение",
+  "explanations": "объяснения",
+  "explosion": "взрыв",
+  "extremely": "чрезвычайно",
+  "fact": "факт",
+  "facts": "факты",
+  "failure": "повреждение, отказ (structural failure — разрушение конструкции)",
+  "families": "семьи",
+  "family": "семья",
+  "famous": "знаменитый",
+  "far": "далеко",
+  "fast": "быстро",
+  "faster": "быстрее",
+  "fate": "Fate (название журнала; букв. «судьба»)",
+  "fear": "страх",
+  "february": "февраль",
+  "felt": "чувствовали",
+  "few": "несколько",
+  "fighting": "боевые действия",
+  "fill": "заполнять",
+  "film": "фильм",
+  "films": "фильмы",
+  "finally": "наконец",
+  "find": "найти",
+  "fire": "пожар",
+  "first": "первый; сначала",
+  "five": "пять",
+  "flames": "пламя",
+  "fleet": "флот",
+  "flight": "рейс; полёт",
+  "floor": "дно (sea floor — морское дно)",
+  "florida": "Флорида",
+  "flown": "летал, воевал (как лётчик)",
+  "fly": "лететь",
+  "flying": "летающий (flying boat — летающая лодка)",
+  "for": "для, в течение",
+  "forces": "силы",
+  "forever": "навсегда",
+  "forget": "забыть",
+  "fort": "(Fort Lauderdale) Форт-Лодердейл",
+  "found": "нашли",
+  "fourteen": "четырнадцать",
+  "frequency": "частота",
+  "from": "из, от",
+  "fuel": "топливо",
+  "further": "дальше",
+  "gaddis": "Гэддис (фамилия)",
+  "gaines": "Гейнс (часть названия судна)",
+  "gas": "газ (gas tanks — бензобаки)",
+  "geographic": "географический",
+  "george": "Джордж (имя)",
+  "german": "немецкий",
+  "germany": "Германия",
+  "giant": "гигантский",
+  "given": "отдал",
+  "go": "идти",
+  "goes": "(goes down) уходит (вглубь)",
+  "gone": "(gone wrong) пошло не так",
+  "good": "хороший",
+  "got": "(got worse) стала хуже; (got the impression) сложилось впечатление",
+  "government's": "государственный",
+  "greater": "больше",
+  "ground": "(on the ground) на земле",
+  "guard": "охрана (Coast Guard — береговая охрана)",
+  "gulf": "(Gulf Stream) Гольфстрим",
+  "habit": "привычка",
+  "had": "(вспом. гл.); имела",
+  "half": "половина",
+  "happened": "случилось",
+  "happens": "происходит",
+  "has": "(вспом. гл.)",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "healthy": "здоровый",
+  "heard": "услышали",
+  "heavy": "тяжёлый",
+  "help": "помощь",
+  "here": "здесь",
+  "hidden": "скрытый",
+  "higher": "более высокий",
+  "him": "его, ему",
+  "himself": "сам, себе",
+  "his": "его",
+  "historians": "историки",
+  "history": "история",
+  "holidaymakers": "отдыхающие",
+  "hollywood": "Голливуд",
+  "home": "домой",
+  "hour": "час",
+  "hours": "часы",
+  "how": "как",
+  "however": "однако",
+  "huge": "огромный",
+  "human": "человеческий",
+  "hurricanes": "ураганы",
+  "ideas": "идеи",
+  "if": "если, ли",
+  "imagination": "воображение",
+  "imagine": "представить",
+  "important": "важный",
+  "importantly": "(most importantly) самое главное",
+  "impression": "впечатление",
+  "in": "в",
+  "inside": "внутри",
+  "instead": "вместо этого",
+  "insurance": "страховка",
+  "insure": "страховать",
+  "interesting": "интересный",
+  "into": "в",
+  "investigation": "расследование",
+  "investigators": "исследователи",
+  "is": "есть, является",
+  "island": "остров",
+  "islands": "острова",
+  "it": "он, оно, это",
+  "its": "его, её",
+  "job": "работа",
+  "journalist": "журналист",
+  "keys": "(Florida Keys) Флорида-Кис (острова)",
+  "killed": "погубили, погибли",
+  "kind": "(Third Kind) степень, вид",
+  "know": "знать",
+  "knowing": "(not knowing) незнание",
+  "known": "известный",
+  "knows": "знает",
+  "kusche": "Куше (фамилия)",
+  "landing": "садящийся",
+  "languages": "языки",
+  "large": "большой",
+  "largest": "крупнейший",
+  "larry": "Ларри (имя)",
+  "last": "последний",
+  "late": "поздно",
+  "later": "позже",
+  "lauderdale": "(Fort Lauderdale) Форт-Лодердейл",
+  "leader": "ведущий, командир",
+  "least": "наименьший (at least)",
+  "left": "вышел, покинул",
+  "legend": "легенда",
+  "lesson": "урок",
+  "librarian": "библиотекарь",
+  "lieutenant": "лейтенант",
+  "life": "жизнь",
+  "likely": "вероятный (most likely — скорее всего)",
+  "limits": "ограничения, пределы",
+  "line": "цепочка, линия",
+  "little": "маленький, немного",
+  "lloyd's": "Lloyd's (страховой рынок Ллойдс)",
+  "london": "Лондон",
+  "look": "смотреть",
+  "looked": "(looked at) изучил",
+  "loss": "потеря",
+  "losses": "потери",
+  "lost": "пропавший, затерянный; погиб",
+  "magazine": "журнал",
+  "magazines": "журналы",
+  "magnetic": "магнитный",
+  "make": "делать",
+  "man": "мужчина",
+  "manganese": "марганцевый",
+  "manufactured": "сфабрикованный",
+  "many": "много",
+  "map": "карта",
+  "march": "март",
+  "mariner": "«Маринер» (летающая лодка)",
+  "mariners": "«Маринеры»",
+  "market": "рынок",
+  "matter": "иметь значение",
+  "may": "может, мог",
+  "means": "означает",
+  "men": "мужчины",
+  "messages": "сообщения",
+  "metal": "металл",
+  "methane": "метан",
+  "metres": "метров",
+  "miami": "Майами",
+  "might": "мог бы",
+  "millions": "миллионы",
+  "mills": "Миллс (часть названия судна)",
+  "mine": "мина",
+  "mistakes": "ошибки",
+  "months": "месяцы",
+  "more": "больше",
+  "most": "большинство; самый; (most likely) скорее всего",
+  "moves": "проходит, движется",
+  "much": "гораздо",
+  "mysterious": "таинственный",
+  "mystery": "тайна",
+  "name": "имя",
+  "names": "имена",
+  "natural": "естественный",
+  "nature": "природа",
+  "navigation": "навигационный",
+  "navy": "военно-морские силы, ВМС",
+  "navy's": "ВМС (род. падеж)",
+  "near": "возле, у",
+  "nearly": "чуть не, почти",
+  "never": "никогда",
+  "newspapers": "газеты",
+  "night": "ночь",
+  "no": "нет",
+  "noaa": "NOAA (Национальное управление океанических и атмосферных исследований США)",
+  "nobody": "никто",
+  "none": "ничто",
+  "normal": "нормальный",
+  "north": "север",
+  "not": "не",
+  "number": "количество",
+  "numbers": "номера; цифры",
+  "obeyed": "подчинились",
+  "occur": "происходить",
+  "ocean": "океан",
+  "of": "из, о, (род. падеж)",
+  "off": "(took off) взлетел; (off Florida) у берегов; (off its course) с курса",
+  "official": "официальный",
+  "often": "часто",
+  "oil": "масло, нефть (patch of oil — масляное пятно)",
+  "on": "на",
+  "one": "один, одна",
+  "only": "только",
+  "open": "открытый",
+  "operators": "операторы (radio operators — радисты)",
+  "or": "или",
+  "ordinary": "обычный",
+  "ore": "руда",
+  "original": "первоначальный (original sources — первоисточники)",
+  "other": "другой",
+  "other's": "(each other's) друг друга",
+  "others": "другие",
+  "our": "наш",
+  "out": "(went out) вылетел; (out of fuel) без топлива; (carries out) проводит",
+  "over": "над",
+  "pacific": "Тихий океан",
+  "part": "часть",
+  "parts": "части",
+  "passed": "прошли (о времени)",
+  "passing": "проходящий мимо",
+  "patch": "пятно",
+  "pay": "платить",
+  "pbm": "PBM (марка самолёта)",
+  "people": "люди",
+  "perfect": "идеальный",
+  "pilot": "лётчик",
+  "pilots": "лётчики",
+  "place": "место",
+  "places": "места",
+  "plane": "самолёт",
+  "planes": "самолёты",
+  "power": "сила",
+  "practise": "отработать, тренировать",
+  "press": "(Associated Press) пресса",
+  "prices": "цены",
+  "private": "частный",
+  "probably": "вероятно",
+  "programmes": "программы",
+  "proof": "доказательство",
+  "prove": "доказать",
+  "published": "опубликовала",
+  "puerto": "(Puerto Rico) Пуэрто-",
+  "push": "отнести, толкнуть",
+  "question": "вопрос",
+  "quickly": "быстро",
+  "radio": "радио",
+  "reached": "дошли",
+  "real": "настоящий",
+  "really": "действительно",
+  "reason": "причина, повод",
+  "reasons": "причины",
+  "recently": "недавно",
+  "recognize": "признавать",
+  "records": "записи, архивы (weather records — метеосводки)",
+  "refused": "отказался",
+  "regularly": "регулярно",
+  "remains": "остаётся",
+  "remember": "помнить",
+  "report": "сводка",
+  "reported": "сообщили",
+  "reports": "сообщения, отчёты",
+  "reputation": "репутация",
+  "rescue": "спасательный",
+  "rescues": "спасательные операции",
+  "research": "исследования",
+  "responsible": "ответственный",
+  "results": "результаты",
+  "returned": "вернулся",
+  "review": "пересмотр, проверка",
+  "rico": "(Puerto Rico) Пуэрто-Рико",
+  "rising": "поднимающийся",
+  "risks": "риски",
+  "rogue": "(rogue waves) волны-убийцы",
+  "rough": "бурный",
+  "rumours": "слухи",
+  "s": "(1970s) -е годы (окончание)",
+  "said": "сказал(а)",
+  "sail": "плавать (по морю)",
+  "same": "тот же",
+  "say": "сказал",
+  "says": "говорит",
+  "scientists": "учёные",
+  "sea": "море",
+  "search": "искать",
+  "seas": "моря",
+  "second": "второй",
+  "seconds": "секунды",
+  "seeing": "видел",
+  "seen": "видели",
+  "sells": "продаёт",
+  "sending": "подав, отправив",
+  "seven": "семь",
+  "several": "несколько",
+  "ship": "корабль",
+  "ships": "корабли",
+  "short": "короткий",
+  "should": "должен",
+  "showed": "показала",
+  "signals": "сигналы",
+  "simply": "просто",
+  "single": "единственный",
+  "sink": "затонуть",
+  "sister": "(sister ships) однотипные корабли",
+  "six": "шесть",
+  "sky": "небо",
+  "small": "маленький",
+  "so": "поэтому; так",
+  "solved": "раскрыл(и)",
+  "some": "некоторые",
+  "something": "что-то",
+  "soon": "вскоре",
+  "sources": "источники",
+  "south": "юг",
+  "space": "место; космос",
+  "spark": "искра",
+  "special": "особый",
+  "spielberg's": "Спилберга",
+  "ss": "SS (пароход, торговое судно)",
+  "start": "вызвать",
+  "starting": "начиная",
+  "state": "(Arizona State University) штата",
+  "stay": "остаться",
+  "steel": "сталь",
+  "steven": "Стивен (имя)",
+  "still": "всё ещё",
+  "stop": "перестать",
+  "stories": "истории",
+  "storm": "шторм",
+  "storms": "штормы",
+  "stormy": "штормовой",
+  "story": "история",
+  "strange": "странный",
+  "stream": "(Gulf Stream) Гольфстрим",
+  "strong": "сильный",
+  "structural": "конструкционный",
+  "struggled": "мучились, боролись",
+  "stuck": "прижилось",
+  "students": "курсанты, студенты",
+  "submarine": "подводная лодка",
+  "such": "такой",
+  "sudden": "внезапный",
+  "suddenly": "вдруг",
+  "suggest": "говорить о, указывать на",
+  "suggested": "предложил",
+  "summer": "лето",
+  "sun": "солнце",
+  "sunk": "затонули",
+  "supernatural": "сверхъестественный",
+  "surprising": "удивительный",
+  "survive": "сохраняться, выжить",
+  "take": "взять",
+  "taken": "забрать",
+  "tanks": "баки",
+  "task": "задача",
+  "taylor": "Тейлор (фамилия)",
+  "taylor's": "Тейлора",
+  "tbm": "TBM (марка самолёта)",
+  "technology": "техника, технологии",
+  "television": "телевизор",
+  "ten": "десять",
+  "than": "чем",
+  "that": "что; тот, это",
+  "the": "(опр. артикль)",
+  "their": "их, свои",
+  "them": "их",
+  "then": "потом, тогда",
+  "there": "там",
+  "these": "эти",
+  "they": "они",
+  "third": "третий",
+  "thirteen": "тринадцать",
+  "this": "этот",
+  "thought": "думал, считал",
+  "through": "через, сквозь",
+  "time": "время (of their time — того времени)",
+  "times": "(at different times) в разное время",
+  "to": "к, в; (частица)",
+  "together": "вместе",
+  "told": "сказал",
+  "took": "(took off) взлетели; (took him home) привёл бы",
+  "torpedo": "торпедный (torpedo bombers — торпедоносцы)",
+  "trace": "след (without a trace — бесследно)",
+  "traffic": "движение (транспорта)",
+  "tragedies": "трагедии",
+  "training": "учения, тренировки; учебный",
+  "translated": "переведены",
+  "travel": "путешествие; распространяться",
+  "traveled": "(well-traveled) оживлённый",
+  "trench": "жёлоб, впадина",
+  "triangle": "треугольник",
+  "turn": "повернуть",
+  "twenty": "двадцать",
+  "two": "два",
+  "uncertainty": "неопределённость",
+  "under": "под",
+  "understand": "понимать",
+  "university": "университет",
+  "unknown": "неизвестный",
+  "unpopular": "непопулярный",
+  "unusual": "необычный",
+  "us": "нам",
+  "used": "используется",
+  "uss": "USS (корабль ВМС США)",
+  "usual": "обычный",
+  "usually": "обычно",
+  "vanished": "исчезли",
+  "very": "очень",
+  "view": "(in its view) по её мнению",
+  "vincent": "Винсент (имя)",
+  "visitors": "гости, пришельцы (visitors from space)",
+  "wanted": "хотел",
+  "war": "война",
+  "warning": "предупреждение",
+  "was": "был(а)",
+  "water": "вода",
+  "waves": "волны",
+  "ways": "(in different ways) по-разному",
+  "we": "мы",
+  "weaker": "слабее",
+  "weather": "погода",
+  "well": "(well-traveled) оживлённый",
+  "went": "(went out) вылетел; (went down) село; (went back) обратился",
+  "were": "были",
+  "west": "запад",
+  "what": "что",
+  "when": "когда",
+  "which": "который, что",
+  "while": "пока",
+  "who": "кто, который",
+  "whose": "чей",
+  "why": "почему",
+  "with": "с",
+  "within": "в течение, за",
+  "without": "без",
+  "words": "слова",
+  "working": "работающий",
+  "world": "мир",
+  "worley": "Уорли (фамилия)",
+  "worse": "хуже",
+  "would": "бы",
+  "wreck": "обломки, затонувший корабль",
+  "wreckage": "обломки",
+  "writer": "писатель",
+  "writers": "писатели",
+  "wrong": "не так (gone wrong)",
+  "wrote": "написал(а)",
+  "years": "лет, годы",
+  "you": "вы, ты",
+  "young": "молодой"
+ },
+ "vocab": {
+  "earth": 82,
+  "simply": 439,
+  "fear": 273,
+  "struggled": 580,
+  "more": 6,
+  "review": 373,
+  "uncertainty": 542,
+  "article": 566,
+  "habit": 473,
+  "probably": 422,
+  "forever": 224,
+  "obeyed": 344,
+  "here": 1,
+  "compare": 259,
+  "matter": 250,
+  "imagine": 380,
+  "impression": 488,
+  "destiny": 434
+ }
+}

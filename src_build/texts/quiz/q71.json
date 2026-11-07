@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What did Cooper demand from the airline?",
+  "q_ru": "Что Купер потребовал от авиакомпании?",
+  "options": [
+   "A free flight to Mexico City",
+   "$200,000, four parachutes and fuel",
+   "The release of a friend from prison",
+   "$5,800 in new bills"
+  ],
+  "options_ru": [
+   "Бесплатный полёт в Мехико",
+   "200 000 долларов, четыре парашюта и топливо",
+   "Освобождение друга из тюрьмы",
+   "5800 долларов новыми купюрами"
+  ],
+  "answer": 1,
+  "explain_ru": "Он хотел 200 000 долларов двадцатидолларовыми купюрами, четыре парашюта и топливозаправщик в Сиэтле."
+ },
+ {
+  "q": "Why is he known as \"D. B. Cooper\"?",
+  "q_ru": "Почему его знают как «Д. Б. Купера»?",
+  "options": [
+   "Those were the letters on his ticket",
+   "He signed the note with that name",
+   "A news report mixed up his name with a man police questioned",
+   "The FBI gave him that code name"
+  ],
+  "options_ru": [
+   "Эти буквы стояли в его билете",
+   "Он подписал записку этим именем",
+   "В новостях перепутали его имя с именем человека, которого допросила полиция",
+   "Это кодовое имя ему дало ФБР"
+  ],
+  "answer": 2,
+  "explain_ru": "Он назвался Дэном Купером; полиция допросила невиновного жителя Портленда по имени Д. Б. Купер, и в новостях имена перепутали."
+ },
+ {
+  "q": "How did the FBI hope to find Cooper after the hijacking?",
+  "q_ru": "Как ФБР надеялось найти Купера после угона?",
+  "options": [
+   "Through the serial numbers of the bills",
+   "Through his fingerprints on the ticket",
+   "By following the plane with a helicopter",
+   "By checking all skydiving schools"
+  ],
+  "options_ru": [
+   "По серийным номерам купюр",
+   "По отпечаткам пальцев на билете",
+   "Следуя за самолётом на вертолёте",
+   "Проверив все парашютные школы"
+  ],
+  "answer": 0,
+  "explain_ru": "Перед передачей денег каждую купюру сфотографировали, чтобы записать серийные номера."
+ },
+ {
+  "q": "What did Brian Ingram find at Tena Bar in 1980?",
+  "q_ru": "Что нашёл Брайан Ингрэм на Тена-Бар в 1980 году?",
+  "options": [
+   "Cooper's briefcase",
+   "A parachute and a bag",
+   "A warning sign from the plane",
+   "Three packets of the ransom bills"
+  ],
+  "options_ru": [
+   "Портфель Купера",
+   "Парашют и сумку",
+   "Табличку с предупреждением с самолёта",
+   "Три пачки купюр из выкупа"
+  ],
+  "answer": 3,
+  "explain_ru": "Мальчик нашёл три пачки гниющих купюр на 5800 долларов; их номера совпали с номерами выкупа."
+ },
+ {
+  "q": "Why did many FBI agents think Cooper probably died?",
+  "q_ru": "Почему многие агенты ФБР считали, что Купер, вероятно, погиб?",
+  "options": [
+   "His body was found in 1972",
+   "He jumped at night, in rain and strong wind, in light clothes",
+   "He had no parachute at all",
+   "A witness saw him fall into the river"
+  ],
+  "options_ru": [
+   "Его тело нашли в 1972 году",
+   "Он прыгнул ночью, под дождём и сильным ветром, в лёгкой одежде",
+   "У него вообще не было парашюта",
+   "Свидетель видел, как он упал в реку"
+  ],
+  "answer": 1,
+  "explain_ru": "Прыжок ночью, в дождь, при ветре около 300 км/ч, в плаще и лёгких туфлях над лесом был очень опасен; но тело так и не нашли, поэтому гибель не доказана."
+ },
+ {
+  "q": "What is the situation with the case today?",
+  "q_ru": "Какова ситуация с делом сегодня?",
+  "options": [
+   "DNA from the tie proved who Cooper was",
+   "McCoy confessed before he died",
+   "The FBI stopped actively investigating in 2016, and it is still unsolved",
+   "All of the money has now been found"
+  ],
+  "options_ru": [
+   "ДНК с галстука доказала, кто такой Купер",
+   "Маккой признался перед смертью",
+   "В 2016 году ФБР прекратило активное расследование, и дело до сих пор не раскрыто",
+   "Теперь найдены все деньги"
+  ],
+  "answer": 2,
+  "explain_ru": "В июле 2016 года ФБР прекратило активное расследование; личность Купера, его судьба и большая часть денег остаются неизвестными."
+ }
+]

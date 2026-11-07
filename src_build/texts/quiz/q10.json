@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Where did Lena find the old map?",
+  "q_ru": "Где Лена нашла старую карту?",
+  "options": [
+   "In a box at the museum",
+   "Behind her grandfather's refrigerator",
+   "Under a rock on the island",
+   "In an old boat in the harbor"
+  ],
+  "options_ru": [
+   "В коробке в музее",
+   "За холодильником дедушки",
+   "Под камнем на острове",
+   "В старой лодке в гавани"
+  ],
+  "answer": 1,
+  "explain_ru": "Когда они отодвинули тяжёлый холодильник, «a thin piece of yellow paper fell to the floor»."
+ },
+ {
+  "q": "What did the town believe about Thomas Reed?",
+  "q_ru": "Что жители города думали о Томасе Риде?",
+  "options": [
+   "That he was a thief who stole gold",
+   "That he was a hero",
+   "That he died in a storm",
+   "That he was a rich merchant"
+  ],
+  "options_ru": [
+   "Что он вор, укравший золото",
+   "Что он герой",
+   "Что он погиб в шторм",
+   "Что он был богатым купцом"
+  ],
+  "answer": 0,
+  "explain_ru": "Харлан сказал, что Рид украл мешок золотых монет, и «the town had treated him as a thief»."
+ },
+ {
+  "q": "Lena said there was \"a lack of real evidence\". What does this mean?",
+  "q_ru": "Лена сказала: «there was a lack of real evidence». Что это значит?",
+  "options": [
+   "There was a lot of proof",
+   "Nobody believed the story",
+   "There was not enough real proof",
+   "The evidence was in the museum"
+  ],
+  "options_ru": [
+   "Доказательств было много",
+   "Никто не верил этой истории",
+   "Настоящих доказательств не хватало",
+   "Доказательства были в музее"
+  ],
+  "answer": 2,
+  "explain_ru": "«Lack» — нехватка. Настоящих доказательств не было: «Nobody found the gold»."
+ },
+ {
+  "q": "What was the cave on the island used for?",
+  "q_ru": "Для чего использовали пещеру на острове?",
+  "options": [
+   "Hiding stolen gold",
+   "Keeping fishing boats",
+   "Storing black pepper to sell",
+   "Hiding people escaping from slavery"
+  ],
+  "options_ru": [
+   "Чтобы прятать украденное золото",
+   "Чтобы хранить рыбацкие лодки",
+   "Чтобы хранить чёрный перец на продажу",
+   "Чтобы прятать людей, бежавших из рабства"
+  ],
+  "answer": 3,
+  "explain_ru": "Это была остановка «Подземной железной дороги»: «this island was a hiding place. A safe stop before the last crossing» в Канаду."
+ },
+ {
+  "q": "Why did Harlan say that Reed stole his gold?",
+  "q_ru": "Почему Харлан сказал, что Рид украл его золото?",
+  "options": [
+   "Reed really took money from his house",
+   "Reed helped his workers escape, and Harlan wanted revenge",
+   "Reed refused to sell him a boat",
+   "Reed wanted to marry Harlan's daughter"
+  ],
+  "options_ru": [
+   "Рид действительно взял деньги из его дома",
+   "Рид помог его работникам бежать, и Харлан хотел отомстить",
+   "Рид отказался продать ему лодку",
+   "Рид хотел жениться на дочери Харлана"
+  ],
+  "answer": 1,
+  "explain_ru": "В письме: «There was never any gold». Харлан не мог обвинить Рида в помощи беглецам, поэтому «he invented a crime»."
+ },
+ {
+  "q": "What does Lena learn from her grandfather at the end?",
+  "q_ru": "Что Лена узнаёт от дедушки в конце?",
+  "options": [
+   "He stole the map from the museum",
+   "Harlan was their ancestor",
+   "Thomas Reed is her ancestor; he changed his name to Harper",
+   "Anna never came back from Canada"
+  ],
+  "options_ru": [
+   "Он украл карту из музея",
+   "Харлан был их предком",
+   "Томас Рид — её предок; он сменил фамилию на Харпер",
+   "Анна так и не вернулась из Канады"
+  ],
+  "answer": 2,
+  "explain_ru": "«Anna married Thomas in Canada. They changed their name to Harper to start a new life.»"
+ }
+]

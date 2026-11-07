@@ -1,0 +1,1446 @@
+{
+ "id": 27,
+ "level": "B1",
+ "title_en": "The Green Door",
+ "title_ru": "Зелёная дверь",
+ "genre": "Семейная тайна",
+ "summary_ru": "Медсестра из большого города получает в наследство старый дом у моря, в котором есть одна запертая комната, и очень настойчивого кузена, мечтающего этот дом купить.",
+ "paragraphs": [
+  {
+   "en": "The letter from the lawyer arrived on a Thursday, the same day that Nora Bell's car broke down for the third time that month. She read it standing in the kitchen of her small rented flat, still in her blue work shirt. Her great-aunt Margaret, whom she had met only once as a child, had died at the age of ninety-one and had left her a house by the sea.",
+   "ru": "Письмо от юриста пришло в четверг, в тот самый день, когда машина Норы Белл сломалась в третий раз за месяц. Она прочитала его стоя на кухне своей маленькой съёмной квартиры, всё ещё в синей рабочей рубашке. Её двоюродная бабушка Маргарет, которую она видела всего один раз в детстве, умерла в девяносто один год и оставила ей дом у моря.",
+   "s": [
+    [
+     "The letter from the lawyer arrived on a Thursday, the same day that Nora Bell's car broke down for the third time that month.",
+     "Письмо от юриста пришло в четверг, в тот самый день, когда машина Норы Белл сломалась в третий раз за месяц."
+    ],
+    [
+     "She read it standing in the kitchen of her small rented flat, still in her blue work shirt.",
+     "Она прочитала его стоя на кухне своей маленькой съёмной квартиры, всё ещё в синей рабочей рубашке."
+    ],
+    [
+     "Her great-aunt Margaret, whom she had met only once as a child, had died at the age of ninety-one and had left her a house by the sea.",
+     "Её двоюродная бабушка Маргарет, которую она видела всего один раз в детстве, умерла в девяносто один год и оставила ей дом у моря."
+    ]
+   ]
+  },
+  {
+   "en": "Nora worked as a nurse in a busy doctor's practice in the city, and her salary was just enough to pay the rent and the bills. She had grown up in poverty. Her grandfather Thomas had been thrown out of the rich Bell family long before she was born, and nobody had ever explained why. “He made a mistake,” her mother used to say whenever Nora asked, and her voice always became so firm that Nora soon learned to stop asking.",
+   "ru": "Нора работала медсестрой в загруженной врачебной практике в городе, и её зарплаты едва хватало на аренду и счета. Она выросла в бедности. Её деда Томаса выгнали из богатой семьи Беллов задолго до её рождения, и никто никогда не объяснял почему. «Он совершил ошибку», — говорила мать всякий раз, когда Нора спрашивала, и голос её становился таким твёрдым, что Нора скоро научилась не задавать вопросов.",
+   "s": [
+    [
+     "Nora worked as a nurse in a busy doctor's practice in the city, and her salary was just enough to pay the rent and the bills.",
+     "Нора работала медсестрой в загруженной врачебной практике в городе, и её зарплаты едва хватало на аренду и счета."
+    ],
+    [
+     "She had grown up in poverty.",
+     "Она выросла в бедности."
+    ],
+    [
+     "Her grandfather Thomas had been thrown out of the rich Bell family long before she was born, and nobody had ever explained why.",
+     "Её деда Томаса выгнали из богатой семьи Беллов задолго до её рождения, и никто никогда не объяснял почему."
+    ],
+    [
+     "“He made a mistake,” her mother used to say whenever Nora asked, and her voice always became so firm that Nora soon learned to stop asking.",
+     "«Он совершил ошибку», — говорила мать всякий раз, когда Нора спрашивала, и голос её становился таким твёрдым, что Нора скоро научилась не задавать вопросов."
+    ]
+   ]
+  },
+  {
+   "en": "The lawyer, Mr. Dunmore, a thin old man with large ears and gentle eyes, met her at the house the following weekend. It stood alone on a cliff above the harbour, tall and grey, with salt on its windows and the wind pulling at its roof. “There is one condition,” he said, handing her a heavy ring of keys. “Your aunt asked that you live here for thirty days before you decide anything. And there is one room that you will not be able to open. She said you would find the key yourself, if you tried.”",
+   "ru": "Юрист, мистер Данмор, худой старик с большими ушами и добрыми глазами, встретил её у дома в следующие выходные. Дом стоял в одиночестве на скале над гаванью, высокий и серый, с солью на окнах, и ветер рвал его крышу. «Есть одно условие», — сказал он, протягивая ей тяжёлую связку ключей. «Ваша тётя просила, чтобы вы прожили здесь тридцать дней, прежде чем что-либо решать. И есть одна комната, которую вы не сможете открыть. Она сказала, что вы сами найдёте ключ, если постараетесь».",
+   "s": [
+    [
+     "The lawyer, Mr. Dunmore, a thin old man with large ears and gentle eyes, met her at the house the following weekend.",
+     "Юрист, мистер Данмор, худой старик с большими ушами и добрыми глазами, встретил её у дома в следующие выходные."
+    ],
+    [
+     "It stood alone on a cliff above the harbour, tall and grey, with salt on its windows and the wind pulling at its roof.",
+     "Дом стоял в одиночестве на скале над гаванью, высокий и серый, с солью на окнах, и ветер рвал его крышу."
+    ],
+    [
+     "“There is one condition,” he said, handing her a heavy ring of keys.",
+     "«Есть одно условие», — сказал он, протягивая ей тяжёлую связку ключей."
+    ],
+    [
+     "“Your aunt asked that you live here for thirty days before you decide anything.",
+     "«Ваша тётя просила, чтобы вы прожили здесь тридцать дней, прежде чем что-либо решать."
+    ],
+    [
+     "And there is one room that you will not be able to open.",
+     "И есть одна комната, которую вы не сможете открыть."
+    ],
+    [
+     "She said you would find the key yourself, if you tried.”",
+     "Она сказала, что вы сами найдёте ключ, если постараетесь»."
+    ]
+   ]
+  },
+  {
+   "en": "“Why would she do that?” Nora asked. Mr. Dunmore smiled. “Your aunt was a special woman. She did not explain things. She simply expected people to make an effort.”",
+   "ru": "«Зачем ей это было нужно?» — спросила Нора. Мистер Данмор улыбнулся. «Ваша тётя была особенной женщиной. Она ничего не объясняла. Она просто ожидала, что люди приложат усилие».",
+   "s": [
+    [
+     "“Why would she do that?” Nora asked.",
+     "«Зачем ей это было нужно?» — спросила Нора."
+    ],
+    [
+     "Mr. Dunmore smiled.",
+     "Мистер Данмор улыбнулся."
+    ],
+    [
+     "“Your aunt was a special woman.",
+     "«Ваша тётя была особенной женщиной."
+    ],
+    [
+     "She did not explain things.",
+     "Она ничего не объясняла."
+    ],
+    [
+     "She simply expected people to make an effort.”",
+     "Она просто ожидала, что люди приложат усилие»."
+    ]
+   ]
+  },
+  {
+   "en": "The house was cold and full of dust, but it was lovely in an old, sad way. Every room was filled with pictures of ships. The Bells had built ships in this town for over a hundred years, and their name was still painted on the old shipyard by the harbour. On the second floor, at the end of the corridor, there was a door painted dark green. It was locked, and none of the keys would fit.",
+   "ru": "Дом был холодным и пыльным, но по-своему прекрасным — старой, печальной красотой. Каждая комната была полна картин с кораблями. Беллы строили корабли в этом городе больше ста лет, и их фамилия до сих пор была написана на старой верфи у гавани. На втором этаже, в конце коридора, была дверь, выкрашенная в тёмно-зелёный цвет. Она была заперта, и ни один из ключей не подходил.",
+   "s": [
+    [
+     "The house was cold and full of dust, but it was lovely in an old, sad way.",
+     "Дом был холодным и пыльным, но по-своему прекрасным — старой, печальной красотой."
+    ],
+    [
+     "Every room was filled with pictures of ships.",
+     "Каждая комната была полна картин с кораблями."
+    ],
+    [
+     "The Bells had built ships in this town for over a hundred years, and their name was still painted on the old shipyard by the harbour.",
+     "Беллы строили корабли в этом городе больше ста лет, и их фамилия до сих пор была написана на старой верфи у гавани."
+    ],
+    [
+     "On the second floor, at the end of the corridor, there was a door painted dark green.",
+     "На втором этаже, в конце коридора, была дверь, выкрашенная в тёмно-зелёный цвет."
+    ],
+    [
+     "It was locked, and none of the keys would fit.",
+     "Она была заперта, и ни один из ключей не подходил."
+    ]
+   ]
+  },
+  {
+   "en": "On her second evening, a car stopped outside, and a man in an expensive coat got out. “You must be Nora,” he said, and kissed her on the cheek as if they had known each other all their lives. “I'm Simon, your cousin, more or less. My grandfather and yours were brothers.” He looked around the hall with a smile. “Lovely, isn't it? And so expensive to keep. The roof alone will cost you a fortune.”",
+   "ru": "На второй вечер у дома остановилась машина, и из неё вышел мужчина в дорогом пальто. «Вы, должно быть, Нора», — сказал он и поцеловал её в щёку, словно они знали друг друга всю жизнь. «Я Саймон, ваш кузен, более или менее. Мой дед и ваш были братьями». Он с улыбкой оглядел прихожую. «Прекрасно, правда? И так дорого содержать. Одна только крыша обойдётся вам в целое состояние».",
+   "s": [
+    [
+     "On her second evening, a car stopped outside, and a man in an expensive coat got out.",
+     "На второй вечер у дома остановилась машина, и из неё вышел мужчина в дорогом пальто."
+    ],
+    [
+     "“You must be Nora,” he said, and kissed her on the cheek as if they had known each other all their lives.",
+     "«Вы, должно быть, Нора», — сказал он и поцеловал её в щёку, словно они знали друг друга всю жизнь."
+    ],
+    [
+     "“I'm Simon, your cousin, more or less.",
+     "«Я Саймон, ваш кузен, более или менее."
+    ],
+    [
+     "My grandfather and yours were brothers.”",
+     "Мой дед и ваш были братьями»."
+    ],
+    [
+     "He looked around the hall with a smile.",
+     "Он с улыбкой оглядел прихожую."
+    ],
+    [
+     "“Lovely, isn't it?",
+     "«Прекрасно, правда?"
+    ],
+    [
+     "And so expensive to keep.",
+     "И так дорого содержать."
+    ],
+    [
+     "The roof alone will cost you a fortune.”",
+     "Одна только крыша обойдётся вам в целое состояние»."
+    ]
+   ]
+  },
+  {
+   "en": "Over tea, Simon made her an offer. He would buy the house immediately, for more money than she could earn in ten years. “Think about it,” he said. “You won't have to deal with the repairs, the taxes, the winter storms. Just sign, and go back to your life.” He was charming, but Nora noticed that his eyes kept moving towards the stairs. “Have you been upstairs?” he asked, a little too casually. “Is there anything strange up there?”",
+   "ru": "За чаем Саймон сделал ей предложение. Он купит дом немедленно, за большие деньги, чем она могла бы заработать за десять лет. «Подумайте об этом, — сказал он. Вам не придётся иметь дело с ремонтом, налогами, зимними штормами. Просто подпишите и возвращайтесь к своей жизни». Он был обаятелен, но Нора заметила, что его взгляд всё время скользит к лестнице. «Вы уже были наверху?» — спросил он слишком уж небрежно. «Там нет ничего странного?»",
+   "s": [
+    [
+     "Over tea, Simon made her an offer.",
+     "За чаем Саймон сделал ей предложение."
+    ],
+    [
+     "He would buy the house immediately, for more money than she could earn in ten years.",
+     "Он купит дом немедленно, за большие деньги, чем она могла бы заработать за десять лет."
+    ],
+    [
+     "“Think about it,” he said.",
+     "«Подумайте об этом, — сказал он."
+    ],
+    [
+     "“You won't have to deal with the repairs, the taxes, the winter storms.",
+     "Вам не придётся иметь дело с ремонтом, налогами, зимними штормами."
+    ],
+    [
+     "Just sign, and go back to your life.”",
+     "Просто подпишите и возвращайтесь к своей жизни»."
+    ],
+    [
+     "He was charming, but Nora noticed that his eyes kept moving towards the stairs.",
+     "Он был обаятелен, но Нора заметила, что его взгляд всё время скользит к лестнице."
+    ],
+    [
+     "“Have you been upstairs?” he asked, a little too casually.",
+     "«Вы уже были наверху?» — спросил он слишком уж небрежно."
+    ],
+    [
+     "“Is there anything strange up there?”",
+     "«Там нет ничего странного?»"
+    ]
+   ]
+  },
+  {
+   "en": "“Only a locked door,” Nora said. Something changed in his face for a second, then the smile returned. “Old Margaret was obsessed with locks,” he said. “She thought everyone wanted to steal from her. Don't worry about it. When you sell, I'll take care of all that.” When he left, Nora stood at the window and watched his car disappear in the direction of the town. She did not like the way he had asked about the room.",
+   "ru": "«Только запертая дверь», — сказала Нора. Что-то на секунду изменилось в его лице, потом улыбка вернулась. «Старая Маргарет была одержима замками, — сказал он. Она думала, что все хотят её обокрасть. Не беспокойтесь об этом. Когда продадите, я обо всём этом позабочусь». Когда он уехал, Нора стояла у окна и смотрела, как его машина исчезает в направлении города. Ей не понравилось, как он спросил о комнате.",
+   "s": [
+    [
+     "“Only a locked door,” Nora said.",
+     "«Только запертая дверь», — сказала Нора."
+    ],
+    [
+     "Something changed in his face for a second, then the smile returned.",
+     "Что-то на секунду изменилось в его лице, потом улыбка вернулась."
+    ],
+    [
+     "“Old Margaret was obsessed with locks,” he said.",
+     "«Старая Маргарет была одержима замками, — сказал он."
+    ],
+    [
+     "“She thought everyone wanted to steal from her.",
+     "Она думала, что все хотят её обокрасть."
+    ],
+    [
+     "Don't worry about it.",
+     "Не беспокойтесь об этом."
+    ],
+    [
+     "When you sell, I'll take care of all that.”",
+     "Когда продадите, я обо всём этом позабочусь»."
+    ],
+    [
+     "When he left, Nora stood at the window and watched his car disappear in the direction of the town.",
+     "Когда он уехал, Нора стояла у окна и смотрела, как его машина исчезает в направлении города."
+    ],
+    [
+     "She did not like the way he had asked about the room.",
+     "Ей не понравилось, как он спросил о комнате."
+    ]
+   ]
+  },
+  {
+   "en": "The next morning Mrs. Pike, who had cleaned the house for Margaret for twenty years, came up the hill with a bag of shopping. She was a small, soft-spoken woman of seventy who always carried an orange in her coat pocket “for energy”. When Nora mentioned Simon's visit, Mrs. Pike's mouth became a thin line. “He came every week at the end,” she said. “Always with papers, always in a rush. Your aunt called him the cunning one. She never let him go upstairs.”",
+   "ru": "На следующее утро миссис Пайк, которая двадцать лет убирала дом Маргарет, поднялась на холм с сумкой покупок. Это была маленькая женщина лет семидесяти с мягким голосом, которая всегда носила в кармане пальто апельсин «для бодрости». Когда Нора упомянула о визите Саймона, губы миссис Пайк сжались в тонкую линию. «Под конец он приходил каждую неделю, — сказала она. Всегда с бумагами, всегда в спешке. Ваша тётя называла его хитрецом. Она никогда не пускала его наверх».",
+   "s": [
+    [
+     "The next morning Mrs. Pike, who had cleaned the house for Margaret for twenty years, came up the hill with a bag of shopping.",
+     "На следующее утро миссис Пайк, которая двадцать лет убирала дом Маргарет, поднялась на холм с сумкой покупок."
+    ],
+    [
+     "She was a small, soft-spoken woman of seventy who always carried an orange in her coat pocket “for energy”.",
+     "Это была маленькая женщина лет семидесяти с мягким голосом, которая всегда носила в кармане пальто апельсин «для бодрости»."
+    ],
+    [
+     "When Nora mentioned Simon's visit, Mrs. Pike's mouth became a thin line.",
+     "Когда Нора упомянула о визите Саймона, губы миссис Пайк сжались в тонкую линию."
+    ],
+    [
+     "“He came every week at the end,” she said.",
+     "«Под конец он приходил каждую неделю, — сказала она."
+    ],
+    [
+     "“Always with papers, always in a rush.",
+     "Всегда с бумагами, всегда в спешке."
+    ],
+    [
+     "Your aunt called him the cunning one.",
+     "Ваша тётя называла его хитрецом."
+    ],
+    [
+     "She never let him go upstairs.”",
+     "Она никогда не пускала его наверх»."
+    ]
+   ]
+  },
+  {
+   "en": "“Mrs. Pike, why was my grandfather sent away?” The old woman put down her bag. For a while she did not answer. “They called him a traitor,” she said at last. “That's the word old Mr. Bell used. I was only a girl then, but everyone in town heard about it. It was after the accident.”",
+   "ru": "«Миссис Пайк, почему моего деда выгнали?» Старая женщина поставила сумку. Какое-то время она не отвечала. «Его назвали предателем, — сказала она наконец. Именно это слово использовал старый мистер Белл. Я тогда была ещё девочкой, но весь город об этом слышал. Это было после крушения».",
+   "s": [
+    [
+     "“Mrs. Pike, why was my grandfather sent away?”",
+     "«Миссис Пайк, почему моего деда выгнали?»"
+    ],
+    [
+     "The old woman put down her bag.",
+     "Старая женщина поставила сумку."
+    ],
+    [
+     "For a while she did not answer.",
+     "Какое-то время она не отвечала."
+    ],
+    [
+     "“They called him a traitor,” she said at last.",
+     "«Его назвали предателем, — сказала она наконец."
+    ],
+    [
+     "“That's the word old Mr. Bell used.",
+     "Именно это слово использовал старый мистер Белл."
+    ],
+    [
+     "I was only a girl then, but everyone in town heard about it.",
+     "Я тогда была ещё девочкой, но весь город об этом слышал."
+    ],
+    [
+     "It was after the accident.”",
+     "Это было после крушения»."
+    ]
+   ]
+  },
+  {
+   "en": "In 1961, a fishing ship built by the Bell shipyard, the Gull, had broken in two during a storm, and eleven men had died. A few days later, Thomas Bell had gone to the police with a complaint against his own father. He said the shipyard had used cheap steel to reduce costs. Nobody could prove it, and the town perceived him as a man who had betrayed his family at the worst possible moment. His father had punished him in the only way he knew. Thomas had lost his job, his home and his name in a single week.",
+   "ru": "В 1961 году рыболовецкое судно «Чайка», построенное на верфи Беллов, во время шторма разломилось надвое, и одиннадцать человек погибли. Через несколько дней Томас Белл пошёл в полицию с жалобой на собственного отца. Он заявил, что верфь использовала дешёвую сталь, чтобы сократить расходы. Никто не смог этого доказать, и город воспринял его как человека, который предал свою семью в самый худший момент. Отец наказал его единственным известным ему способом. За одну неделю Томас лишился работы, дома и имени.",
+   "s": [
+    [
+     "In 1961, a fishing ship built by the Bell shipyard, the Gull, had broken in two during a storm, and eleven men had died.",
+     "В 1961 году рыболовецкое судно «Чайка», построенное на верфи Беллов, во время шторма разломилось надвое, и одиннадцать человек погибли."
+    ],
+    [
+     "A few days later, Thomas Bell had gone to the police with a complaint against his own father.",
+     "Через несколько дней Томас Белл пошёл в полицию с жалобой на собственного отца."
+    ],
+    [
+     "He said the shipyard had used cheap steel to reduce costs.",
+     "Он заявил, что верфь использовала дешёвую сталь, чтобы сократить расходы."
+    ],
+    [
+     "Nobody could prove it, and the town perceived him as a man who had betrayed his family at the worst possible moment.",
+     "Никто не смог этого доказать, и город воспринял его как человека, который предал свою семью в самый худший момент."
+    ],
+    [
+     "His father had punished him in the only way he knew.",
+     "Отец наказал его единственным известным ему способом."
+    ],
+    [
+     "Thomas had lost his job, his home and his name in a single week.",
+     "За одну неделю Томас лишился работы, дома и имени."
+    ]
+   ]
+  },
+  {
+   "en": "“Did Margaret believe him?” Nora asked. “I don't know,” Mrs. Pike said. “She loved him, I think. But she never said a word against her father.” She took the orange out of her pocket and turned it slowly in her hands. “Maybe the answer is behind that green door,” she added.",
+   "ru": "«Маргарет ему верила?» — спросила Нора. «Не знаю, — ответила миссис Пайк. Она любила его, я думаю. Но она ни разу не сказала ни слова против своего отца». Она достала из кармана апельсин и медленно повертела его в руках. «Может быть, ответ за той зелёной дверью», — добавила она.",
+   "s": [
+    [
+     "“Did Margaret believe him?” Nora asked.",
+     "«Маргарет ему верила?» — спросила Нора."
+    ],
+    [
+     "“I don't know,” Mrs. Pike said.",
+     "«Не знаю, — ответила миссис Пайк."
+    ],
+    [
+     "“She loved him, I think.",
+     "Она любила его, я думаю."
+    ],
+    [
+     "But she never said a word against her father.”",
+     "Но она ни разу не сказала ни слова против своего отца»."
+    ],
+    [
+     "She took the orange out of her pocket and turned it slowly in her hands.",
+     "Она достала из кармана апельсин и медленно повертела его в руках."
+    ],
+    [
+     "“Maybe the answer is behind that green door,” she added.",
+     "«Может быть, ответ за той зелёной дверью», — добавила она."
+    ]
+   ]
+  },
+  {
+   "en": "For the next week Nora searched the house. She looked in every drawer, under every carpet and behind every picture. She found old bills, buttons and letters about the price of wood, but no key. Meanwhile Simon called every day, and the pressure was beginning to make her nervous. At one point she was so frustrated that she almost accepted his offer. Then, late one night, she remembered Mr. Dunmore's words: if you tried. Margaret had not hidden the key to keep her out. She had hidden it to see whether Nora would keep looking.",
+   "ru": "Всю следующую неделю Нора обыскивала дом. Она заглянула в каждый ящик, под каждый ковёр и за каждую картину. Она нашла старые счета, пуговицы и письма о ценах на древесину, но не ключ. Тем временем Саймон звонил каждый день, и это давление начинало её нервировать. В какой-то момент она была настолько расстроена, что чуть не приняла его предложение. Потом, поздно ночью, она вспомнила слова мистера Данмора: если постараетесь. Маргарет спрятала ключ не для того, чтобы её не пустить. Она спрятала его, чтобы посмотреть, будет ли Нора продолжать искать.",
+   "s": [
+    [
+     "For the next week Nora searched the house.",
+     "Всю следующую неделю Нора обыскивала дом."
+    ],
+    [
+     "She looked in every drawer, under every carpet and behind every picture.",
+     "Она заглянула в каждый ящик, под каждый ковёр и за каждую картину."
+    ],
+    [
+     "She found old bills, buttons and letters about the price of wood, but no key.",
+     "Она нашла старые счета, пуговицы и письма о ценах на древесину, но не ключ."
+    ],
+    [
+     "Meanwhile Simon called every day, and the pressure was beginning to make her nervous.",
+     "Тем временем Саймон звонил каждый день, и это давление начинало её нервировать."
+    ],
+    [
+     "At one point she was so frustrated that she almost accepted his offer.",
+     "В какой-то момент она была настолько расстроена, что чуть не приняла его предложение."
+    ],
+    [
+     "Then, late one night, she remembered Mr. Dunmore's words: if you tried.",
+     "Потом, поздно ночью, она вспомнила слова мистера Данмора: если постараетесь."
+    ],
+    [
+     "Margaret had not hidden the key to keep her out.",
+     "Маргарет спрятала ключ не для того, чтобы её не пустить."
+    ],
+    [
+     "She had hidden it to see whether Nora would keep looking.",
+     "Она спрятала его, чтобы посмотреть, будет ли Нора продолжать искать."
+    ]
+   ]
+  },
+  {
+   "en": "In the library there was a model ship in a glass case, and a small brass plate under it said “The Gull, 1959”. Nora had walked past it a dozen times. Now she noticed something strange: all the other model ships in the house faced the sea, but the Gull faced the wall. She lifted the glass, turned the ship around and found a narrow drawer hidden in its wooden base. Inside lay an old brass key, tied to a piece of red string.",
+   "ru": "В библиотеке стояла модель корабля в стеклянной витрине, и на маленькой латунной табличке под ней было написано: «Чайка, 1959». Нора проходила мимо неё десятки раз. Теперь она заметила странную вещь: все остальные модели кораблей в доме смотрели на море, а «Чайка» смотрела в стену. Она подняла стекло, повернула корабль и нашла узкий ящичек, спрятанный в его деревянной подставке. Внутри лежал старый латунный ключ, привязанный к кусочку красной нитки.",
+   "s": [
+    [
+     "In the library there was a model ship in a glass case, and a small brass plate under it said “The Gull, 1959”.",
+     "В библиотеке стояла модель корабля в стеклянной витрине, и на маленькой латунной табличке под ней было написано: «Чайка, 1959»."
+    ],
+    [
+     "Nora had walked past it a dozen times.",
+     "Нора проходила мимо неё десятки раз."
+    ],
+    [
+     "Now she noticed something strange: all the other model ships in the house faced the sea, but the Gull faced the wall.",
+     "Теперь она заметила странную вещь: все остальные модели кораблей в доме смотрели на море, а «Чайка» смотрела в стену."
+    ],
+    [
+     "She lifted the glass, turned the ship around and found a narrow drawer hidden in its wooden base.",
+     "Она подняла стекло, повернула корабль и нашла узкий ящичек, спрятанный в его деревянной подставке."
+    ],
+    [
+     "Inside lay an old brass key, tied to a piece of red string.",
+     "Внутри лежал старый латунный ключ, привязанный к кусочку красной нитки."
+    ]
+   ]
+  },
+  {
+   "en": "That night a storm came in from the sea. The wind screamed around the house, rain hit the windows, and the sky over the harbour turned white with lightning. Nora climbed the stairs with a torch in one hand and the key in the other. She was not exactly afraid, but her heart was beating so loudly that she could hear it in her ears. The key turned with a heavy sound, and the green door opened.",
+   "ru": "В ту ночь с моря пришла гроза. Ветер выл вокруг дома, дождь хлестал в окна, а небо над гаванью белело от молний. Нора поднялась по лестнице с фонариком в одной руке и ключом в другой. Ей не то чтобы было страшно, но сердце билось так громко, что она слышала его в ушах. Ключ повернулся с тяжёлым звуком, и зелёная дверь открылась.",
+   "s": [
+    [
+     "That night a storm came in from the sea.",
+     "В ту ночь с моря пришла гроза."
+    ],
+    [
+     "The wind screamed around the house, rain hit the windows, and the sky over the harbour turned white with lightning.",
+     "Ветер выл вокруг дома, дождь хлестал в окна, а небо над гаванью белело от молний."
+    ],
+    [
+     "Nora climbed the stairs with a torch in one hand and the key in the other.",
+     "Нора поднялась по лестнице с фонариком в одной руке и ключом в другой."
+    ],
+    [
+     "She was not exactly afraid, but her heart was beating so loudly that she could hear it in her ears.",
+     "Ей не то чтобы было страшно, но сердце билось так громко, что она слышала его в ушах."
+    ],
+    [
+     "The key turned with a heavy sound, and the green door opened.",
+     "Ключ повернулся с тяжёлым звуком, и зелёная дверь открылась."
+    ]
+   ]
+  },
+  {
+   "en": "It was a young man's bedroom, and nothing in it had been moved for sixty years. There was a narrow bed with a grey blanket and a desk by the window. On the back of the chair hung a white shirt, yellow with age, as if its owner had only gone downstairs for a minute. Above the bed there was a photo of a boy and a girl laughing on a beach, both with the same dark eyebrows. Thomas and Margaret.",
+   "ru": "Это была спальня молодого человека, и ничего в ней не трогали шестьдесят лет. Там стояли узкая кровать с серым одеялом и письменный стол у окна. На спинке стула висела белая рубашка, пожелтевшая от времени, словно её владелец лишь на минуту спустился вниз. Над кроватью висела фотография мальчика и девочки, смеющихся на пляже, у обоих одинаковые тёмные брови. Томас и Маргарет.",
+   "s": [
+    [
+     "It was a young man's bedroom, and nothing in it had been moved for sixty years.",
+     "Это была спальня молодого человека, и ничего в ней не трогали шестьдесят лет."
+    ],
+    [
+     "There was a narrow bed with a grey blanket and a desk by the window.",
+     "Там стояли узкая кровать с серым одеялом и письменный стол у окна."
+    ],
+    [
+     "On the back of the chair hung a white shirt, yellow with age, as if its owner had only gone downstairs for a minute.",
+     "На спинке стула висела белая рубашка, пожелтевшая от времени, словно её владелец лишь на минуту спустился вниз."
+    ],
+    [
+     "Above the bed there was a photo of a boy and a girl laughing on a beach, both with the same dark eyebrows.",
+     "Над кроватью висела фотография мальчика и девочки, смеющихся на пляже, у обоих одинаковые тёмные брови."
+    ],
+    [
+     "Thomas and Margaret.",
+     "Томас и Маргарет."
+    ]
+   ]
+  },
+  {
+   "en": "On the desk lay a package wrapped in brown paper. On top of it was an envelope with Nora's name in shaky handwriting. She sat on the edge of the bed and opened it. “Dear Nora,” the letter said. “If you are reading this, you have achieved what Simon never could: you have been patient. For sixty years I have kept this room exactly as my brother left it, in the hope that he would come back. He never did, and I never had the courage to ask him.",
+   "ru": "На столе лежал свёрток в коричневой бумаге. Сверху лежал конверт с именем Норы, написанным дрожащим почерком. Она села на край кровати и открыла его. «Дорогая Нора, — говорилось в письме. Если ты это читаешь, значит, ты добилась того, чего так и не смог Саймон: ты проявила терпение. Шестьдесят лет я хранила эту комнату точно такой, какой её оставил мой брат, в надежде, что он вернётся. Он так и не вернулся, а мне так и не хватило смелости попросить его.",
+   "s": [
+    [
+     "On the desk lay a package wrapped in brown paper.",
+     "На столе лежал свёрток в коричневой бумаге."
+    ],
+    [
+     "On top of it was an envelope with Nora's name in shaky handwriting.",
+     "Сверху лежал конверт с именем Норы, написанным дрожащим почерком."
+    ],
+    [
+     "She sat on the edge of the bed and opened it.",
+     "Она села на край кровати и открыла его."
+    ],
+    [
+     "“Dear Nora,” the letter said.",
+     "«Дорогая Нора, — говорилось в письме."
+    ],
+    [
+     "“If you are reading this, you have achieved what Simon never could: you have been patient.",
+     "Если ты это читаешь, значит, ты добилась того, чего так и не смог Саймон: ты проявила терпение."
+    ],
+    [
+     "For sixty years I have kept this room exactly as my brother left it, in the hope that he would come back.",
+     "Шестьдесят лет я хранила эту комнату точно такой, какой её оставил мой брат, в надежде, что он вернётся."
+    ],
+    [
+     "He never did, and I never had the courage to ask him.",
+     "Он так и не вернулся, а мне так и не хватило смелости попросить его."
+    ]
+   ]
+  },
+  {
+   "en": "“In the package you will find my father's papers from the shipyard. I discovered them a year after the accident. They show that Thomas was right: my father knew that the steel was too weak, and he chose it because it was cheaper. Thomas was not the traitor. I was, because I stayed silent to protect our name. Do with them whatever you think is right. I am only glad that it is you who has to decide, and not me.”",
+   "ru": "В свёртке ты найдёшь бумаги моего отца с верфи. Я обнаружила их через год после крушения. Они доказывают, что Томас был прав: отец знал, что сталь слишком слабая, и выбрал её, потому что она была дешевле. Томас не был предателем. Предателем была я, потому что молчала, чтобы защитить нашу фамилию. Поступи с ними так, как считаешь правильным. Я только рада, что решать придётся тебе, а не мне».",
+   "s": [
+    [
+     "“In the package you will find my father's papers from the shipyard.",
+     "В свёртке ты найдёшь бумаги моего отца с верфи."
+    ],
+    [
+     "I discovered them a year after the accident.",
+     "Я обнаружила их через год после крушения."
+    ],
+    [
+     "They show that Thomas was right: my father knew that the steel was too weak, and he chose it because it was cheaper.",
+     "Они доказывают, что Томас был прав: отец знал, что сталь слишком слабая, и выбрал её, потому что она была дешевле."
+    ],
+    [
+     "Thomas was not the traitor.",
+     "Томас не был предателем."
+    ],
+    [
+     "I was, because I stayed silent to protect our name.",
+     "Предателем была я, потому что молчала, чтобы защитить нашу фамилию."
+    ],
+    [
+     "Do with them whatever you think is right.",
+     "Поступи с ними так, как считаешь правильным."
+    ],
+    [
+     "I am only glad that it is you who has to decide, and not me.”",
+     "Я только рада, что решать придётся тебе, а не мне»."
+    ]
+   ]
+  },
+  {
+   "en": "Nora was still reading when she heard a sound downstairs: the soft click of the front door. She turned off her torch. Footsteps came up the stairs, slow and careful. Then a beam of light hit the open green door, and a man stepped into the room with a metal bar in his hand. Nora recognized him instantly.",
+   "ru": "Нора ещё читала, когда услышала внизу звук: тихий щелчок входной двери. Она выключила фонарик. По лестнице поднимались шаги, медленные и осторожные. Потом луч света упал на открытую зелёную дверь, и в комнату вошёл мужчина с металлическим ломом в руке. Нора мгновенно его узнала.",
+   "s": [
+    [
+     "Nora was still reading when she heard a sound downstairs: the soft click of the front door.",
+     "Нора ещё читала, когда услышала внизу звук: тихий щелчок входной двери."
+    ],
+    [
+     "She turned off her torch.",
+     "Она выключила фонарик."
+    ],
+    [
+     "Footsteps came up the stairs, slow and careful.",
+     "По лестнице поднимались шаги, медленные и осторожные."
+    ],
+    [
+     "Then a beam of light hit the open green door, and a man stepped into the room with a metal bar in his hand.",
+     "Потом луч света упал на открытую зелёную дверь, и в комнату вошёл мужчина с металлическим ломом в руке."
+    ],
+    [
+     "Nora recognized him instantly.",
+     "Нора мгновенно его узнала."
+    ]
+   ]
+  },
+  {
+   "en": "“Give me that,” Simon said, pointing at the package. His voice was no longer charming. “You don't understand what's in there.” “I think I do,” Nora said, holding the papers against her chest. “You knew. That's why you wanted the house so badly.” “Margaret told me last year, when she was ill,” Simon said. “She wanted to give it all to the newspaper. I'm standing for the town council in the spring, Nora. My whole campaign is built on the Bell name, a hundred and fifty years of honest work. Do you know what those papers would reveal?”",
+   "ru": "«Отдай это», — сказал Саймон, указывая на свёрток. Его голос больше не был обаятельным. «Ты не понимаешь, что там». «Думаю, понимаю», — сказала Нора, прижимая бумаги к груди. «Ты знал. Вот почему тебе так нужен был этот дом». «Маргарет рассказала мне в прошлом году, когда болела, — сказал Саймон. Она хотела отдать всё это в газету. Весной я баллотируюсь в городской совет, Нора. Вся моя кампания построена на фамилии Белл, на ста пятидесяти годах честного труда. Ты знаешь, что раскрыли бы эти бумаги?»",
+   "s": [
+    [
+     "“Give me that,” Simon said, pointing at the package.",
+     "«Отдай это», — сказал Саймон, указывая на свёрток."
+    ],
+    [
+     "His voice was no longer charming.",
+     "Его голос больше не был обаятельным."
+    ],
+    [
+     "“You don't understand what's in there.”",
+     "«Ты не понимаешь, что там»."
+    ],
+    [
+     "“I think I do,” Nora said, holding the papers against her chest.",
+     "«Думаю, понимаю», — сказала Нора, прижимая бумаги к груди."
+    ],
+    [
+     "“You knew.",
+     "«Ты знал."
+    ],
+    [
+     "That's why you wanted the house so badly.”",
+     "Вот почему тебе так нужен был этот дом»."
+    ],
+    [
+     "“Margaret told me last year, when she was ill,” Simon said.",
+     "«Маргарет рассказала мне в прошлом году, когда болела, — сказал Саймон."
+    ],
+    [
+     "“She wanted to give it all to the newspaper.",
+     "Она хотела отдать всё это в газету."
+    ],
+    [
+     "I'm standing for the town council in the spring, Nora.",
+     "Весной я баллотируюсь в городской совет, Нора."
+    ],
+    [
+     "My whole campaign is built on the Bell name, a hundred and fifty years of honest work.",
+     "Вся моя кампания построена на фамилии Белл, на ста пятидесяти годах честного труда."
+    ],
+    [
+     "Do you know what those papers would reveal?”",
+     "Ты знаешь, что раскрыли бы эти бумаги?»"
+    ]
+   ]
+  },
+  {
+   "en": "He moved towards her. Nora screamed as loudly as she could, and at that moment the lights of a car swept through the window. Mrs. Pike had seen a strange car parked on the road below, and she had been so worried about Nora alone in the storm that she had called the emergency number. Within a minute there were heavy steps on the stairs, and a firm voice was shouting Simon's name.",
+   "ru": "Он двинулся к ней. Нора закричала изо всех сил, и в этот момент свет фар скользнул по окну. Миссис Пайк увидела странную машину, припаркованную на дороге внизу, и так встревожилась за Нору, одну в грозу, что позвонила в службу экстренной помощи. Через минуту на лестнице раздались тяжёлые шаги, и твёрдый голос выкрикивал имя Саймона.",
+   "s": [
+    [
+     "He moved towards her.",
+     "Он двинулся к ней."
+    ],
+    [
+     "Nora screamed as loudly as she could, and at that moment the lights of a car swept through the window.",
+     "Нора закричала изо всех сил, и в этот момент свет фар скользнул по окну."
+    ],
+    [
+     "Mrs. Pike had seen a strange car parked on the road below, and she had been so worried about Nora alone in the storm that she had called the emergency number.",
+     "Миссис Пайк увидела странную машину, припаркованную на дороге внизу, и так встревожилась за Нору, одну в грозу, что позвонила в службу экстренной помощи."
+    ],
+    [
+     "Within a minute there were heavy steps on the stairs, and a firm voice was shouting Simon's name.",
+     "Через минуту на лестнице раздались тяжёлые шаги, и твёрдый голос выкрикивал имя Саймона."
+    ]
+   ]
+  },
+  {
+   "en": "Simon did not try to run. He sat down on the narrow bed, suddenly looking old and tired, and put his face in his hands. “I wasn't going to hurt you,” he said quietly. “I only wanted to burn them. I wanted it to be as if it had never happened.” Nora knelt down in front of him, her knees on the cold floor, and for the first time she saw not a cunning businessman but a frightened grandson. “It happened,” she said gently. “That's the whole point.”",
+   "ru": "Саймон не пытался бежать. Он сел на узкую кровать, вдруг постаревший и усталый, и закрыл лицо руками. «Я не собирался причинять тебе вред, — тихо сказал он. Я только хотел их сжечь. Я хотел, чтобы было так, словно ничего этого не случилось». Нора опустилась перед ним на колени на холодный пол и впервые увидела не хитрого бизнесмена, а испуганного внука. «Это случилось, — мягко сказала она. В этом-то всё и дело».",
+   "s": [
+    [
+     "Simon did not try to run.",
+     "Саймон не пытался бежать."
+    ],
+    [
+     "He sat down on the narrow bed, suddenly looking old and tired, and put his face in his hands.",
+     "Он сел на узкую кровать, вдруг постаревший и усталый, и закрыл лицо руками."
+    ],
+    [
+     "“I wasn't going to hurt you,” he said quietly.",
+     "«Я не собирался причинять тебе вред, — тихо сказал он."
+    ],
+    [
+     "“I only wanted to burn them.",
+     "Я только хотел их сжечь."
+    ],
+    [
+     "I wanted it to be as if it had never happened.”",
+     "Я хотел, чтобы было так, словно ничего этого не случилось»."
+    ],
+    [
+     "Nora knelt down in front of him, her knees on the cold floor, and for the first time she saw not a cunning businessman but a frightened grandson.",
+     "Нора опустилась перед ним на колени на холодный пол и впервые увидела не хитрого бизнесмена, а испуганного внука."
+    ],
+    [
+     "“It happened,” she said gently.",
+     "«Это случилось, — мягко сказала она."
+    ],
+    [
+     "“That's the whole point.”",
+     "В этом-то всё и дело»."
+    ]
+   ]
+  },
+  {
+   "en": "In the end, Nora did not want Simon to be punished; she only wanted the truth. In the spring, the local newspaper published the papers from the green room, together with Margaret's letter and a description of the night the Gull went down. Simon withdrew from the election. Some people in town were angry with Nora for bringing up the past, but many more came to the house to thank her. One of them was an old man whose father had died on the Gull. “We always knew something was wrong,” he said, holding her hand. “Now the truth has been established.” “It was the least I could do,” Nora answered.",
+   "ru": "В конце концов Нора не захотела, чтобы Саймона наказали: ей нужна была только правда. Весной местная газета опубликовала бумаги из зелёной комнаты вместе с письмом Маргарет и описанием той ночи, когда затонула «Чайка». Саймон снял свою кандидатуру с выборов. Некоторые в городе злились на Нору за то, что она ворошит прошлое, но гораздо больше людей приходили к дому, чтобы поблагодарить её. Одним из них был старик, чей отец погиб на «Чайке». «Мы всегда знали, что что-то было не так, — сказал он, держа её за руку. Теперь правда установлена». «Это меньшее, что я могла сделать», — ответила Нора.",
+   "s": [
+    [
+     "In the end, Nora did not want Simon to be punished; she only wanted the truth.",
+     "В конце концов Нора не захотела, чтобы Саймона наказали: ей нужна была только правда."
+    ],
+    [
+     "In the spring, the local newspaper published the papers from the green room, together with Margaret's letter and a description of the night the Gull went down.",
+     "Весной местная газета опубликовала бумаги из зелёной комнаты вместе с письмом Маргарет и описанием той ночи, когда затонула «Чайка»."
+    ],
+    [
+     "Simon withdrew from the election.",
+     "Саймон снял свою кандидатуру с выборов."
+    ],
+    [
+     "Some people in town were angry with Nora for bringing up the past, but many more came to the house to thank her.",
+     "Некоторые в городе злились на Нору за то, что она ворошит прошлое, но гораздо больше людей приходили к дому, чтобы поблагодарить её."
+    ],
+    [
+     "One of them was an old man whose father had died on the Gull.",
+     "Одним из них был старик, чей отец погиб на «Чайке»."
+    ],
+    [
+     "“We always knew something was wrong,” he said, holding her hand.",
+     "«Мы всегда знали, что что-то было не так, — сказал он, держа её за руку."
+    ],
+    [
+     "“Now the truth has been established.”",
+     "Теперь правда установлена»."
+    ],
+    [
+     "“It was the least I could do,” Nora answered.",
+     "«Это меньшее, что я могла сделать», — ответила Нора."
+    ]
+   ]
+  },
+  {
+   "en": "Thirty days passed, then sixty, and Nora didn't sell. She found work at the small hospital in town. Every morning she washed in cold water, opened every window in the house and let the salty wind blow through the rooms. The shirt still hangs on the chair in the green room, and the door is never locked. Some places, Nora has decided, should be kept as they are. But no place should be kept secret.",
+   "ru": "Прошло тридцать дней, потом шестьдесят, а Нора так и не продала дом. Она нашла работу в маленькой больнице в городе. Каждое утро она умывалась холодной водой, открывала все окна в доме и впускала в комнаты солёный ветер. Рубашка до сих пор висит на стуле в зелёной комнате, а дверь больше никогда не запирается. Некоторые места, решила Нора, нужно сохранять такими, какие они есть. Но ни одно место не должно оставаться тайной.",
+   "s": [
+    [
+     "Thirty days passed, then sixty, and Nora didn't sell.",
+     "Прошло тридцать дней, потом шестьдесят, а Нора так и не продала дом."
+    ],
+    [
+     "She found work at the small hospital in town.",
+     "Она нашла работу в маленькой больнице в городе."
+    ],
+    [
+     "Every morning she washed in cold water, opened every window in the house and let the salty wind blow through the rooms.",
+     "Каждое утро она умывалась холодной водой, открывала все окна в доме и впускала в комнаты солёный ветер."
+    ],
+    [
+     "The shirt still hangs on the chair in the green room, and the door is never locked.",
+     "Рубашка до сих пор висит на стуле в зелёной комнате, а дверь больше никогда не запирается."
+    ],
+    [
+     "Some places, Nora has decided, should be kept as they are.",
+     "Некоторые места, решила Нора, нужно сохранять такими, какие они есть."
+    ],
+    [
+     "But no place should be kept secret.",
+     "Но ни одно место не должно оставаться тайной."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "able": "способный (be able to — суметь)",
+  "about": "о, про",
+  "above": "над",
+  "accepted": "приняла",
+  "accident": "несчастный случай",
+  "achieved": "добилась",
+  "added": "добавил",
+  "afraid": "испуганный",
+  "after": "после",
+  "against": "против; к (груди)",
+  "age": "возраст",
+  "all": "весь, все",
+  "almost": "почти",
+  "alone": "один, одна",
+  "always": "всегда",
+  "am": "(есть) — я",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "angry": "злой, сердитый",
+  "answer": "ответ; отвечать",
+  "answered": "ответила",
+  "anything": "что-нибудь",
+  "are": "есть, являются",
+  "around": "вокруг",
+  "arrived": "пришло",
+  "as": "как",
+  "ask": "спросить",
+  "asked": "спросил(а)",
+  "asking": "спрашивать",
+  "at": "в, у, на",
+  "aunt": "тётя",
+  "away": "прочь",
+  "back": "назад, обратно",
+  "badly": "сильно (want badly)",
+  "bag": "сумка",
+  "bar": "лом (metal bar)",
+  "base": "подставка",
+  "be": "быть",
+  "beach": "пляж",
+  "beam": "луч",
+  "beating": "билось",
+  "became": "становился; сжались (became a line)",
+  "because": "потому что",
+  "bed": "кровать",
+  "bedroom": "спальня",
+  "been": "был(о)",
+  "before": "перед, до",
+  "beginning": "начинало",
+  "behind": "за, позади",
+  "believe": "верить",
+  "bell": "Белл (фамилия)",
+  "bell's": "Белл (род. п.)",
+  "bells": "Беллы (семья)",
+  "below": "внизу",
+  "betrayed": "предал",
+  "bills": "счета",
+  "blanket": "одеяло",
+  "blow": "дуть",
+  "blue": "синий",
+  "born": "рождённый (was born — родилась)",
+  "both": "оба",
+  "boy": "мальчик",
+  "brass": "латунный",
+  "bringing": "(bring up — ворошить, поднимать)",
+  "broke": "сломалась (broke down)",
+  "broken": "разломившийся (broken in two)",
+  "brother": "брат",
+  "brothers": "братья",
+  "brown": "коричневый",
+  "built": "построил(и)",
+  "burn": "сжечь",
+  "businessman": "бизнесмен",
+  "busy": "загруженный",
+  "but": "но",
+  "buttons": "пуговицы",
+  "buy": "купить",
+  "by": "у, к, от",
+  "called": "называла; позвонила; назвали",
+  "came": "пришёл, пришли",
+  "campaign": "кампания",
+  "car": "машина",
+  "care": "забота (take care — позаботиться)",
+  "careful": "осторожный, аккуратный",
+  "carpet": "ковёр",
+  "carried": "нёс, носил",
+  "case": "витрина",
+  "casually": "небрежно",
+  "chair": "стул",
+  "changed": "изменилось",
+  "charming": "обаятельный",
+  "cheap": "дешёвый",
+  "cheaper": "дешевле",
+  "cheek": "щека",
+  "chest": "грудь",
+  "child": "ребёнок",
+  "chose": "выбрал",
+  "city": "город",
+  "cleaned": "убирала",
+  "click": "щелчок",
+  "cliff": "скала, утёс",
+  "climbed": "поднялась",
+  "coat": "пальто",
+  "cold": "холодный",
+  "come": "приходить",
+  "complaint": "жалоба",
+  "condition": "условие",
+  "corridor": "коридор",
+  "cost": "стоить; обойтись",
+  "costs": "расходы",
+  "could": "мог(ла)",
+  "council": "совет",
+  "courage": "храбрость",
+  "cousin": "кузен, двоюродный брат",
+  "cunning": "хитрый",
+  "dark": "тёмный",
+  "day": "день",
+  "days": "дни",
+  "deal": "иметь дело (deal with)",
+  "dear": "дорогой",
+  "decide": "решать",
+  "decided": "решил",
+  "description": "описание",
+  "desk": "стол",
+  "did": "(вспом. глагол)",
+  "didn't": "не (прош. вр.)",
+  "died": "умерла; погибли",
+  "direction": "направление",
+  "disappear": "исчезать",
+  "discovered": "обнаружила",
+  "do": "(вспом. гл.)",
+  "doctor's": "врачебный (doctor's practice)",
+  "don't": "не (вспом.)",
+  "door": "дверь",
+  "down": "вниз",
+  "downstairs": "внизу, вниз",
+  "dozen": "десяток (a dozen times — много раз)",
+  "drawer": "ящик",
+  "dunmore": "Данмор (фамилия)",
+  "dunmore's": "Данмора",
+  "during": "во время",
+  "dust": "пыль",
+  "each": "каждый",
+  "earn": "заработать",
+  "ears": "уши",
+  "edge": "край",
+  "effort": "усилие",
+  "election": "выборы",
+  "eleven": "одиннадцать",
+  "emergency": "чрезвычайная ситуация",
+  "end": "конец",
+  "energy": "бодрость, энергия",
+  "enough": "достаточно",
+  "envelope": "конверт",
+  "established": "установлена",
+  "evening": "вечер",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "everyone": "все",
+  "exactly": "точно",
+  "expected": "ожидала",
+  "expensive": "дорогой",
+  "explain": "объяснять",
+  "explained": "объяснял",
+  "eyebrows": "брови",
+  "eyes": "глаза",
+  "face": "лицо",
+  "faced": "смотрели (в сторону)",
+  "family": "семья",
+  "father": "отец",
+  "father's": "отца",
+  "few": "несколько",
+  "fifty": "пятьдесят",
+  "filled": "заполнена",
+  "find": "найти",
+  "firm": "твёрдый",
+  "first": "первый",
+  "fishing": "рыболовный",
+  "fit": "подходить, соответствовать",
+  "flat": "квартира",
+  "floor": "пол",
+  "following": "следующий",
+  "footsteps": "шаги",
+  "for": "для, в течение",
+  "fortune": "состояние",
+  "found": "нашла",
+  "frightened": "испуганный",
+  "from": "из, от",
+  "front": "передний (front door — входная дверь; in front of — перед)",
+  "frustrated": "расстроенный",
+  "full": "полный",
+  "gentle": "добрый, мягкий",
+  "gently": "мягко",
+  "girl": "девочка",
+  "give": "дать",
+  "glad": "рад",
+  "glass": "стекло, стеклянный",
+  "go": "идти",
+  "going": "собираться (be going to)",
+  "gone": "ушёл (gone downstairs)",
+  "got": "вышел (got out)",
+  "grandfather": "дедушка",
+  "grandson": "внук",
+  "great": "great-aunt — двоюродная бабушка",
+  "green": "зелёный",
+  "grey": "серый",
+  "grown": "выросла",
+  "gull": "«Чайка» (название судна)",
+  "had": "имел, (вспом.)",
+  "hall": "прихожая",
+  "hand": "рука",
+  "handing": "протягивая",
+  "hands": "руки",
+  "handwriting": "почерк, рукопись",
+  "hangs": "висит",
+  "happened": "случилось",
+  "harbour": "гавань",
+  "has": "(вспом. гл.)",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "hear": "слышать",
+  "heard": "слышал(а)",
+  "heart": "сердце",
+  "heavy": "тяжёлый",
+  "her": "её, ей",
+  "here": "здесь",
+  "hidden": "скрытый",
+  "hill": "холм",
+  "him": "его, ему",
+  "his": "его",
+  "hit": "ударил; упал (о свете)",
+  "holding": "держа, прижимая",
+  "home": "домой",
+  "honest": "честный",
+  "hope": "надежда",
+  "hospital": "больница",
+  "house": "дом",
+  "hundred": "сто",
+  "hung": "висела",
+  "hurt": "причинить вред",
+  "i": "я",
+  "i'll": "я (буду)",
+  "i'm": "я (есть)",
+  "if": "если",
+  "ill": "больной (was ill — болела)",
+  "immediately": "немедленно",
+  "in": "в",
+  "inside": "внутри",
+  "instantly": "мгновенно",
+  "into": "в",
+  "is": "есть, является",
+  "isn't": "не (есть)",
+  "it": "он, оно, это",
+  "its": "его, её",
+  "job": "работа",
+  "just": "просто",
+  "keep": "содержать; хранить; продолжать (keep looking)",
+  "kept": "всё время (kept moving); хранила",
+  "key": "ключ",
+  "keys": "ключи",
+  "kissed": "поцеловал",
+  "kitchen": "кухня",
+  "knees": "колени",
+  "knelt": "опустилась на колени",
+  "knew": "знал",
+  "know": "знать",
+  "known": "знали",
+  "large": "большой",
+  "last": "последний",
+  "late": "поздно",
+  "later": "позже",
+  "laughing": "смеющийся",
+  "lawyer": "юрист",
+  "lay": "лежал",
+  "learned": "научилась",
+  "least": "наименьший (at least — по крайней мере)",
+  "left": "оставила; уехал",
+  "less": "(more or less — более или менее)",
+  "let": "позволять",
+  "letter": "письмо",
+  "letters": "письма",
+  "library": "библиотека",
+  "life": "жизнь",
+  "lifted": "подняла",
+  "light": "свет",
+  "lightning": "молния",
+  "lights": "фары, огни",
+  "like": "как; нравиться",
+  "line": "линия",
+  "little": "маленький, немного",
+  "live": "жить",
+  "lives": "жизни (all their lives — всю жизнь)",
+  "local": "местный",
+  "locked": "заперта",
+  "locks": "замки",
+  "long": "долго, долгий",
+  "longer": "дольше",
+  "looked": "оглядел; заглянула",
+  "looking": "выглядя; искать",
+  "lost": "лишился, потерял",
+  "loudly": "громко",
+  "loved": "любила",
+  "lovely": "прекрасный",
+  "made": "сделал; совершил",
+  "make": "приложить; заставить",
+  "man": "мужчина",
+  "man's": "(молодого) человека",
+  "many": "много",
+  "margaret": "Маргарет (имя)",
+  "margaret's": "Маргарет (род. п.)",
+  "maybe": "может быть",
+  "me": "меня, мне",
+  "meanwhile": "тем временем",
+  "men": "мужчины",
+  "mentioned": "упомянула",
+  "met": "видела, встретила",
+  "metal": "металлический",
+  "minute": "минута",
+  "mistake": "ошибка",
+  "model": "модель",
+  "moment": "момент",
+  "money": "деньги",
+  "month": "месяц",
+  "more": "больше",
+  "morning": "утро",
+  "mother": "мать",
+  "mouth": "рот",
+  "moved": "двигали, трогали; двинулся",
+  "moving": "двигаться",
+  "mr": "мистер",
+  "mrs": "миссис",
+  "must": "должен",
+  "my": "мой",
+  "name": "имя",
+  "narrow": "узкий",
+  "nervous": "нервный",
+  "never": "никогда",
+  "newspaper": "газета",
+  "next": "следующий",
+  "night": "ночь",
+  "ninety": "девяносто",
+  "no": "нет, никакой",
+  "nobody": "никто",
+  "none": "ни один",
+  "nora": "Нора (имя)",
+  "nora's": "Норы",
+  "not": "не",
+  "nothing": "ничего",
+  "noticed": "заметила",
+  "now": "теперь",
+  "number": "номер",
+  "nurse": "медсестра",
+  "obsessed": "одержимый",
+  "of": "из, о, (род. падеж)",
+  "off": "(turn off — выключить)",
+  "offer": "предложение",
+  "old": "старый",
+  "on": "на",
+  "once": "однажды",
+  "one": "один",
+  "only": "только",
+  "open": "открытый",
+  "opened": "открыла; открылась",
+  "or": "или",
+  "orange": "апельсин",
+  "other": "другой",
+  "our": "наш",
+  "out": "наружу",
+  "outside": "снаружи",
+  "over": "над",
+  "own": "собственный",
+  "owner": "владелец",
+  "package": "свёрток, упаковка",
+  "painted": "выкрашенный; написанный",
+  "paper": "бумага",
+  "papers": "бумаги",
+  "parked": "припаркованный",
+  "passed": "прошли",
+  "past": "мимо; прошлое",
+  "patient": "терпеливый",
+  "pay": "платить",
+  "people": "люди",
+  "perceived": "воспринял",
+  "photo": "фотография",
+  "picture": "картина",
+  "pictures": "картины",
+  "piece": "кусок",
+  "pike": "Пайк (фамилия)",
+  "pike's": "Пайк (род. п.)",
+  "place": "место",
+  "places": "места",
+  "plate": "табличка",
+  "pocket": "карман",
+  "point": "момент; суть (the whole point — в этом и дело)",
+  "pointing": "показывая",
+  "police": "полиция",
+  "possible": "возможный",
+  "poverty": "бедность",
+  "practice": "практика",
+  "pressure": "давление",
+  "price": "цена",
+  "protect": "защитить",
+  "prove": "доказать",
+  "published": "опубликовала",
+  "pulling": "тянуть, рвать",
+  "punished": "наказал; наказан",
+  "put": "положил",
+  "quietly": "тихо",
+  "rain": "дождь",
+  "read": "прочитала",
+  "reading": "читать",
+  "recognized": "узнала",
+  "red": "красный",
+  "reduce": "уменьшать",
+  "remembered": "вспомнила",
+  "rent": "арендная плата",
+  "rented": "съёмный",
+  "repairs": "ремонт",
+  "returned": "вернулась",
+  "reveal": "раскрыть",
+  "rich": "богатый",
+  "right": "правильный",
+  "ring": "кольцо",
+  "road": "дорога",
+  "roof": "крыша",
+  "room": "комната",
+  "rooms": "комнаты",
+  "run": "бежать",
+  "rush": "спешка (in a rush — в спешке)",
+  "sad": "грустный",
+  "said": "сказал(а)",
+  "salary": "зарплата",
+  "salt": "соль",
+  "salty": "солёный",
+  "same": "тот же",
+  "sat": "сидел(а)",
+  "saw": "увидел",
+  "say": "сказать",
+  "screamed": "выл; закричала",
+  "sea": "море",
+  "searched": "обыскивала",
+  "second": "секунда; второй",
+  "secret": "тайный",
+  "see": "видеть",
+  "seen": "увидела",
+  "sell": "продать",
+  "sent": "выслан (sent away — выгнан)",
+  "seventy": "семьдесят",
+  "shaky": "дрожащий",
+  "she": "она",
+  "ship": "корабль",
+  "ships": "корабли",
+  "shipyard": "верфь",
+  "shirt": "рубашка",
+  "shopping": "покупки",
+  "should": "должен",
+  "shouting": "выкрикивал",
+  "show": "показывают, доказывают",
+  "sign": "подписать",
+  "silent": "молчаливый (stayed silent — молчала)",
+  "simon": "Саймон (имя)",
+  "simon's": "Саймона",
+  "simply": "просто",
+  "single": "единственный",
+  "sixty": "шестьдесят",
+  "sky": "небо",
+  "slow": "медленный",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smile": "улыбка",
+  "smiled": "улыбнулся",
+  "so": "так, поэтому",
+  "soft": "мягкий",
+  "some": "некоторые",
+  "something": "что-то",
+  "soon": "скоро",
+  "sound": "звук",
+  "special": "особенный",
+  "spoken": "soft-spoken — с мягким голосом",
+  "spring": "весна",
+  "stairs": "лестница",
+  "standing": "стоя; (standing for — баллотироваться)",
+  "stayed": "оставалась",
+  "steal": "украсть",
+  "steel": "сталь",
+  "stepped": "вошёл",
+  "steps": "шаги",
+  "still": "всё ещё",
+  "stood": "стоял(а)",
+  "stop": "перестать",
+  "stopped": "остановилась",
+  "storm": "гроза, шторм",
+  "storms": "штормы",
+  "strange": "странный",
+  "string": "нитка, верёвочка",
+  "suddenly": "вдруг",
+  "swept": "скользнул",
+  "take": "взять",
+  "tall": "высокий",
+  "taxes": "налоги",
+  "tea": "чай",
+  "ten": "десять",
+  "than": "чем",
+  "thank": "благодарить",
+  "that": "что; тот, это",
+  "that's": "это (есть)",
+  "the": "(артикль)",
+  "their": "их",
+  "them": "их, им",
+  "then": "потом, тогда",
+  "there": "там",
+  "they": "они",
+  "thin": "худой",
+  "things": "вещи",
+  "think": "думать",
+  "third": "третий",
+  "thirty": "тридцать",
+  "this": "этот",
+  "thomas": "Томас (имя)",
+  "those": "те",
+  "thought": "думала",
+  "through": "через, по",
+  "thrown": "выброшен (thrown out — выгнан)",
+  "thursday": "четверг",
+  "tied": "привязал",
+  "time": "время, раз",
+  "times": "раз",
+  "tired": "усталый",
+  "to": "к, в, (инфинитив)",
+  "together": "вместе",
+  "told": "рассказала",
+  "too": "слишком",
+  "took": "взяла",
+  "top": "верх",
+  "torch": "фонарик",
+  "towards": "к, по направлению к",
+  "town": "город",
+  "traitor": "предатель",
+  "tried": "постараться, попытаться",
+  "truth": "правда",
+  "try": "пытаться",
+  "turned": "повернула; повертела; стало (turned white)",
+  "twenty": "двадцать",
+  "two": "два",
+  "under": "под",
+  "understand": "понимать",
+  "up": "вверх",
+  "upstairs": "наверху",
+  "used": "использовала; used to — бывало",
+  "visit": "навестить",
+  "voice": "голос",
+  "walked": "проходила",
+  "wall": "стена",
+  "want": "хотеть",
+  "wanted": "хотел",
+  "was": "был(а)",
+  "washed": "умывалась",
+  "wasn't": "не был",
+  "watched": "смотрела",
+  "water": "вода",
+  "way": "способ, так",
+  "we": "мы",
+  "weak": "слабый",
+  "week": "неделя",
+  "weekend": "выходные",
+  "went": "пошла",
+  "were": "были",
+  "what": "что",
+  "what's": "что (есть)",
+  "whatever": "что угодно",
+  "when": "когда",
+  "whenever": "каждый раз, когда",
+  "whether": "ли",
+  "while": "пока",
+  "white": "белый",
+  "who": "кто, который",
+  "whole": "весь",
+  "whom": "которого",
+  "whose": "чей",
+  "why": "почему",
+  "will": "(буд. время)",
+  "wind": "ветер",
+  "window": "окно",
+  "windows": "окна",
+  "winter": "зима",
+  "with": "с",
+  "withdrew": "снял (свою кандидатуру)",
+  "within": "в течение",
+  "woman": "женщина",
+  "won't": "не (буд. время)",
+  "wood": "дерево (материал)",
+  "wooden": "деревянный",
+  "word": "слово",
+  "words": "слова",
+  "work": "работа",
+  "worked": "работала",
+  "worried": "обеспокоенный",
+  "worry": "волноваться",
+  "worst": "худший",
+  "would": "бы",
+  "wrapped": "завёрнутый",
+  "wrong": "не так",
+  "year": "год",
+  "years": "лет, годы",
+  "yellow": "жёлтый",
+  "you": "ты, вы",
+  "young": "молодой",
+  "your": "твой, ваш",
+  "yours": "ваш",
+  "yourself": "себя"
+ },
+ "vocab": {
+  "practice": 7,
+  "lovely": 17,
+  "firm": 27,
+  "drawer": 37,
+  "soft": 47,
+  "salt": 57,
+  "salty": 57,
+  "cheek": 67,
+  "washed": 77,
+  "ship": 87,
+  "ships": 87,
+  "built": 97,
+  "orange": 107,
+  "storm": 117,
+  "storms": 117,
+  "wind": 127,
+  "achieved": 137,
+  "tied": 147,
+  "protect": 157,
+  "try": 167,
+  "tried": 167,
+  "that": 177,
+  "sky": 187,
+  "screamed": 197,
+  "keep": 208,
+  "kept": 208,
+  "thursday": 218,
+  "point": 228,
+  "through": 238,
+  "ears": 248,
+  "worry": 258,
+  "worried": 258,
+  "cunning": 268,
+  "strange": 278,
+  "shirt": 288,
+  "cost": 299,
+  "costs": 299,
+  "glad": 309,
+  "accident": 319,
+  "deal": 329,
+  "punished": 339,
+  "traitor": 349,
+  "added": 359,
+  "special": 369,
+  "rush": 379,
+  "heavy": 389,
+  "poverty": 407,
+  "description": 417,
+  "place": 427,
+  "places": 427,
+  "simply": 439,
+  "hope": 451,
+  "complaint": 467,
+  "afraid": 478,
+  "direction": 489,
+  "effort": 499,
+  "fit": 510,
+  "gentle": 520,
+  "package": 531,
+  "reveal": 541,
+  "frustrated": 552,
+  "perceived": 563,
+  "established": 573,
+  "pressure": 583,
+  "salary": 594,
+  "least": 604,
+  "obsessed": 615,
+  "instantly": 626,
+  "knees": 637,
+  "emergency": 648
+ }
+}

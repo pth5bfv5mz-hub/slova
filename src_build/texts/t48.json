@@ -1,0 +1,1504 @@
+{
+ "id": 48,
+ "level": "B1",
+ "title_en": "The Captain's Eyes",
+ "title_ru": "Глаза капитана",
+ "genre": "Исторические приключения",
+ "summary_ru": "В 1793 году бездомный мальчишка нанимается юнгой на торговый корабль, и первый помощник просит его тайком заглянуть в запертый сундук молчаливого капитана, о котором ходят тёмные слухи.",
+ "paragraphs": [
+  {
+   "en": "In the spring of 1793, Toby Wren was twelve years old. He had no parents, no money and no home, and he slept behind a baker's shop near the harbour in Plymouth. When a sailor told him that the merchant ship Blue Heron needed a boy, he ran to the harbour without stopping once. He had never been on a ship in his life, but he told the captain that he had.",
+   "ru": "Весной 1793 года Тоби Рену было двенадцать лет. У него не было ни родителей, ни денег, ни дома, и он спал за пекарней возле гавани в Плимуте. Когда один моряк сказал ему, что торговому кораблю «Голубая цапля» нужен юнга, он побежал в гавань, ни разу не остановившись. Он ни разу в жизни не был на корабле, но сказал капитану, что был.",
+   "s": [
+    [
+     "In the spring of 1793, Toby Wren was twelve years old.",
+     "Весной 1793 года Тоби Рену было двенадцать лет."
+    ],
+    [
+     "He had no parents, no money and no home, and he slept behind a baker's shop near the harbour in Plymouth.",
+     "У него не было ни родителей, ни денег, ни дома, и он спал за пекарней возле гавани в Плимуте."
+    ],
+    [
+     "When a sailor told him that the merchant ship Blue Heron needed a boy, he ran to the harbour without stopping once.",
+     "Когда один моряк сказал ему, что торговому кораблю «Голубая цапля» нужен юнга, он побежал в гавань, ни разу не остановившись."
+    ],
+    [
+     "He had never been on a ship in his life, but he told the captain that he had.",
+     "Он ни разу в жизни не был на корабле, но сказал капитану, что был."
+    ]
+   ]
+  },
+  {
+   "en": "Captain Hartley was a tall, grey man with a quiet voice. He took Toby by the chin and brought his face very close to his own, as if he were reading very small print. “You're lying,” he said at last. “But you look strong, and I prefer a boy who lies about being brave to a boy who is brave about lying. Two shillings a month and your food.”",
+   "ru": "Капитан Хартли был высоким седым человеком с тихим голосом. Он взял Тоби за подбородок и поднёс его лицо совсем близко к своему, будто читал очень мелкий шрифт. «Ты врёшь», — сказал он наконец. «Но ты выглядишь крепким, а мне больше нравится мальчик, который врёт о своей смелости, чем мальчик, который смело врёт. Два шиллинга в месяц и еда».",
+   "s": [
+    [
+     "Captain Hartley was a tall, grey man with a quiet voice.",
+     "Капитан Хартли был высоким седым человеком с тихим голосом."
+    ],
+    [
+     "He took Toby by the chin and brought his face very close to his own, as if he were reading very small print.",
+     "Он взял Тоби за подбородок и поднёс его лицо совсем близко к своему, будто читал очень мелкий шрифт."
+    ],
+    [
+     "“You're lying,” he said at last.",
+     "«Ты врёшь», — сказал он наконец."
+    ],
+    [
+     "“But you look strong, and I prefer a boy who lies about being brave to a boy who is brave about lying.",
+     "«Но ты выглядишь крепким, а мне больше нравится мальчик, который врёт о своей смелости, чем мальчик, который смело врёт."
+    ],
+    [
+     "Two shillings a month and your food.”",
+     "Два шиллинга в месяц и еда»."
+    ]
+   ]
+  },
+  {
+   "en": "The Blue Heron was carrying salt and English cloth to Lisbon, and she would come back with wine and oranges. There were fourteen men on board, and each of them gave Toby orders. He washed the deck, carried food, cleaned the captain's cabin and helped Dobbs, the old cook, in the tiny kitchen. Dobbs was always angry about something. In the first week, he spent a whole morning looking for his big iron fork. “Who on earth would steal a fork?” he shouted at everyone. Nobody answered, and the fork was never found.",
+   "ru": "«Голубая цапля» везла соль и английское сукно в Лиссабон, а обратно должна была привезти вино и апельсины. На борту было четырнадцать человек, и каждый из них отдавал Тоби приказы. Он мыл палубу, носил еду, убирал каюту капитана и помогал старому коку Доббсу на крошечном камбузе. Доббс вечно на что-нибудь сердился. В первую же неделю он целое утро искал свою большую железную вилку. «Ну кому на свете понадобилось красть вилку?» — кричал он на всех. Никто не ответил, и вилку так и не нашли.",
+   "s": [
+    [
+     "The Blue Heron was carrying salt and English cloth to Lisbon, and she would come back with wine and oranges.",
+     "«Голубая цапля» везла соль и английское сукно в Лиссабон, а обратно должна была привезти вино и апельсины."
+    ],
+    [
+     "There were fourteen men on board, and each of them gave Toby orders.",
+     "На борту было четырнадцать человек, и каждый из них отдавал Тоби приказы."
+    ],
+    [
+     "He washed the deck, carried food, cleaned the captain's cabin and helped Dobbs, the old cook, in the tiny kitchen.",
+     "Он мыл палубу, носил еду, убирал каюту капитана и помогал старому коку Доббсу на крошечном камбузе."
+    ],
+    [
+     "Dobbs was always angry about something.",
+     "Доббс вечно на что-нибудь сердился."
+    ],
+    [
+     "In the first week, he spent a whole morning looking for his big iron fork.",
+     "В первую же неделю он целое утро искал свою большую железную вилку."
+    ],
+    [
+     "“Who on earth would steal a fork?” he shouted at everyone.",
+     "«Ну кому на свете понадобилось красть вилку?» — кричал он на всех."
+    ],
+    [
+     "Nobody answered, and the fork was never found.",
+     "Никто не ответил, и вилку так и не нашли."
+    ]
+   ]
+  },
+  {
+   "en": "Toby soon understood that the captain was not like other captains. He never ate with the crew, and his cabin was always locked. He never came on deck after dark; the night watch was always left to the first mate, Mr Garrow. And late every night, through the thin wooden wall, Toby heard the slow scratch of a pencil on paper, as if the captain were writing the same long letter again and again.",
+   "ru": "Вскоре Тоби понял, что капитан не похож на других капитанов. Он никогда не ел с командой, а его каюта всегда была заперта. После наступления темноты он никогда не выходил на палубу: ночную вахту всегда нёс первый помощник, мистер Гарроу. А каждую ночь допоздна сквозь тонкую деревянную стенку Тоби слышал медленный скрип карандаша по бумаге, будто капитан снова и снова писал одно и то же длинное письмо.",
+   "s": [
+    [
+     "Toby soon understood that the captain was not like other captains.",
+     "Вскоре Тоби понял, что капитан не похож на других капитанов."
+    ],
+    [
+     "He never ate with the crew, and his cabin was always locked.",
+     "Он никогда не ел с командой, а его каюта всегда была заперта."
+    ],
+    [
+     "He never came on deck after dark; the night watch was always left to the first mate, Mr Garrow.",
+     "После наступления темноты он никогда не выходил на палубу: ночную вахту всегда нёс первый помощник, мистер Гарроу."
+    ],
+    [
+     "And late every night, through the thin wooden wall, Toby heard the slow scratch of a pencil on paper, as if the captain were writing the same long letter again and again.",
+     "А каждую ночь допоздна сквозь тонкую деревянную стенку Тоби слышал медленный скрип карандаша по бумаге, будто капитан снова и снова писал одно и то же длинное письмо."
+    ]
+   ]
+  },
+  {
+   "en": "Mr Garrow was the opposite of the captain in every way. He was big, loud and cheerful, and he loved to brag. He bragged about the storms he had survived, the fights he had won and the friends he had in every port, “even on the wild coast near Cape Sombra, where people live on what the sea brings them.” He gave Toby cheap sweets from his pocket and called him “my little sailor”. After the captain's cold silence, Toby liked him very much.",
+   "ru": "Мистер Гарроу был полной противоположностью капитана во всём. Он был крупным, громким и весёлым и обожал хвастаться. Он хвастался штормами, которые пережил, драками, которые выиграл, и друзьями, которые у него были в каждом порту, «даже на диком берегу у мыса Сомбра, где люди живут тем, что им приносит море». Он угощал Тоби дешёвыми конфетами из кармана и называл его «мой маленький моряк». После холодного молчания капитана Тоби он очень нравился.",
+   "s": [
+    [
+     "Mr Garrow was the opposite of the captain in every way.",
+     "Мистер Гарроу был полной противоположностью капитана во всём."
+    ],
+    [
+     "He was big, loud and cheerful, and he loved to brag.",
+     "Он был крупным, громким и весёлым и обожал хвастаться."
+    ],
+    [
+     "He bragged about the storms he had survived, the fights he had won and the friends he had in every port, “even on the wild coast near Cape Sombra, where people live on what the sea brings them.”",
+     "Он хвастался штормами, которые пережил, драками, которые выиграл, и друзьями, которые у него были в каждом порту, «даже на диком берегу у мыса Сомбра, где люди живут тем, что им приносит море»."
+    ],
+    [
+     "He gave Toby cheap sweets from his pocket and called him “my little sailor”.",
+     "Он угощал Тоби дешёвыми конфетами из кармана и называл его «мой маленький моряк»."
+    ],
+    [
+     "After the captain's cold silence, Toby liked him very much.",
+     "После холодного молчания капитана Тоби он очень нравился."
+    ]
+   ]
+  },
+  {
+   "en": "One evening, when they were alone at the back of the ship, Garrow lowered his voice. “Your captain has a secret, boy,” he said. “Do you know why he never comes up at night? Twenty years ago, they say, he robbed Spanish ships in these waters. Have you seen that sword on his wall, with the silver snake on the handle? That's a pirate's sword. And there's a chest under his bed that he never opens when anyone is near.”",
+   "ru": "Однажды вечером, когда они остались одни на корме, Гарроу понизил голос. «У твоего капитана есть тайна, малыш», — сказал он. «Знаешь, почему он никогда не поднимается на палубу ночью? Говорят, двадцать лет назад он грабил испанские корабли в этих водах. Видел меч у него на стене, с серебряной змеёй на рукояти? Это пиратский меч. А под кроватью у него сундук, который он никогда не открывает, если кто-то рядом».",
+   "s": [
+    [
+     "One evening, when they were alone at the back of the ship, Garrow lowered his voice.",
+     "Однажды вечером, когда они остались одни на корме, Гарроу понизил голос."
+    ],
+    [
+     "“Your captain has a secret, boy,” he said.",
+     "«У твоего капитана есть тайна, малыш», — сказал он."
+    ],
+    [
+     "“Do you know why he never comes up at night?",
+     "«Знаешь, почему он никогда не поднимается на палубу ночью?"
+    ],
+    [
+     "Twenty years ago, they say, he robbed Spanish ships in these waters.",
+     "Говорят, двадцать лет назад он грабил испанские корабли в этих водах."
+    ],
+    [
+     "Have you seen that sword on his wall, with the silver snake on the handle?",
+     "Видел меч у него на стене, с серебряной змеёй на рукояти?"
+    ],
+    [
+     "That's a pirate's sword.",
+     "Это пиратский меч."
+    ],
+    [
+     "And there's a chest under his bed that he never opens when anyone is near.”",
+     "А под кроватью у него сундук, который он никогда не открывает, если кто-то рядом»."
+    ]
+   ]
+  },
+  {
+   "en": "Toby had seen the sword. He had seen other things too, which he had not understood. The captain often asked him to read letters aloud, saying that the sun had made his eyes tired. When he walked along the deck, he always kept one hand on the rail. Toby had thought it was simply the habit of an old sailor.",
+   "ru": "Тоби видел этот меч. Он видел и другое, чего не понимал. Капитан часто просил его читать письма вслух, говоря, что глаза у него устали от солнца. Когда он шёл по палубе, он всегда держался одной рукой за поручень. Тоби думал, что это просто привычка старого моряка.",
+   "s": [
+    [
+     "Toby had seen the sword.",
+     "Тоби видел этот меч."
+    ],
+    [
+     "He had seen other things too, which he had not understood.",
+     "Он видел и другое, чего не понимал."
+    ],
+    [
+     "The captain often asked him to read letters aloud, saying that the sun had made his eyes tired.",
+     "Капитан часто просил его читать письма вслух, говоря, что глаза у него устали от солнца."
+    ],
+    [
+     "When he walked along the deck, he always kept one hand on the rail.",
+     "Когда он шёл по палубе, он всегда держался одной рукой за поручень."
+    ],
+    [
+     "Toby had thought it was simply the habit of an old sailor.",
+     "Тоби думал, что это просто привычка старого моряка."
+    ]
+   ]
+  },
+  {
+   "en": "“I want you to help me,” Garrow continued. “On Saturday night, when he is asleep, take the key from his coat and open the chest. Just look. Nothing more. If there is stolen gold inside, it belongs to the government, and you and I will be rewarded.” Toby felt confused. The captain had given him a job when nobody else would. But Garrow was his friend, and a pirate's gold was a very exciting idea for a boy of twelve.",
+   "ru": "«Я хочу, чтобы ты мне помог», — продолжил Гарроу. «В субботу ночью, когда он уснёт, возьми ключ из его сюртука и открой сундук. Просто посмотри. Больше ничего. Если там краденое золото, оно принадлежит правительству, и нас с тобой наградят». Тоби растерялся. Капитан дал ему работу, когда никто другой не дал бы. Но Гарроу был его другом, а золото пирата — очень заманчивая мысль для двенадцатилетнего мальчишки.",
+   "s": [
+    [
+     "“I want you to help me,” Garrow continued.",
+     "«Я хочу, чтобы ты мне помог», — продолжил Гарроу."
+    ],
+    [
+     "“On Saturday night, when he is asleep, take the key from his coat and open the chest. Just look. Nothing more.",
+     "«В субботу ночью, когда он уснёт, возьми ключ из его сюртука и открой сундук. Просто посмотри. Больше ничего."
+    ],
+    [
+     "If there is stolen gold inside, it belongs to the government, and you and I will be rewarded.”",
+     "Если там краденое золото, оно принадлежит правительству, и нас с тобой наградят»."
+    ],
+    [
+     "Toby felt confused.",
+     "Тоби растерялся."
+    ],
+    [
+     "The captain had given him a job when nobody else would.",
+     "Капитан дал ему работу, когда никто другой не дал бы."
+    ],
+    [
+     "But Garrow was his friend, and a pirate's gold was a very exciting idea for a boy of twelve.",
+     "Но Гарроу был его другом, а золото пирата — очень заманчивая мысль для двенадцатилетнего мальчишки."
+    ]
+   ]
+  },
+  {
+   "en": "On Saturday the captain fell asleep in his chair, as he often did. Toby's hands were shaking as he took the key from the coat that hung behind the door. The chest opened with a soft click. There was no gold inside. There was a pair of glasses with very thick lenses, a small bottle of medicine and a pile of papers covered with huge pencil letters, each one as big as a thumb. They were lists of numbers, coastlines and stars, written again and again, as if someone were trying to learn them by heart.",
+   "ru": "В субботу капитан уснул в своём кресле, как это часто бывало. Руки у Тоби дрожали, когда он доставал ключ из сюртука, висевшего за дверью. Сундук открылся с тихим щелчком. Золота внутри не было. Там лежали очки с очень толстыми стёклами, маленькая бутылочка с лекарством и стопка бумаг, исписанных огромными буквами карандашом, каждая размером с большой палец. Это были списки цифр, очертания берегов и звёзды, переписанные снова и снова, будто кто-то пытался выучить их наизусть.",
+   "s": [
+    [
+     "On Saturday the captain fell asleep in his chair, as he often did.",
+     "В субботу капитан уснул в своём кресле, как это часто бывало."
+    ],
+    [
+     "Toby's hands were shaking as he took the key from the coat that hung behind the door.",
+     "Руки у Тоби дрожали, когда он доставал ключ из сюртука, висевшего за дверью."
+    ],
+    [
+     "The chest opened with a soft click.",
+     "Сундук открылся с тихим щелчком."
+    ],
+    [
+     "There was no gold inside.",
+     "Золота внутри не было."
+    ],
+    [
+     "There was a pair of glasses with very thick lenses, a small bottle of medicine and a pile of papers covered with huge pencil letters, each one as big as a thumb.",
+     "Там лежали очки с очень толстыми стёклами, маленькая бутылочка с лекарством и стопка бумаг, исписанных огромными буквами карандашом, каждая размером с большой палец."
+    ],
+    [
+     "They were lists of numbers, coastlines and stars, written again and again, as if someone were trying to learn them by heart.",
+     "Это были списки цифр, очертания берегов и звёзды, переписанные снова и снова, будто кто-то пытался выучить их наизусть."
+    ]
+   ]
+  },
+  {
+   "en": "Under the papers lay a letter from a doctor in London. “I am sorry to tell you that your eyes will continue to grow weaker,” Toby read. “There is no healing for this condition. Within two years you will be almost blind, and I must advise you not to go to sea again.”",
+   "ru": "Под бумагами лежало письмо от врача из Лондона. «С сожалением сообщаю вам, что ваше зрение будет продолжать ухудшаться», — прочитал Тоби. «Эта болезнь не лечится. Через два года вы почти ослепнете, и я вынужден посоветовать вам больше не выходить в море».",
+   "s": [
+    [
+     "Under the papers lay a letter from a doctor in London.",
+     "Под бумагами лежало письмо от врача из Лондона."
+    ],
+    [
+     "“I am sorry to tell you that your eyes will continue to grow weaker,” Toby read.",
+     "«С сожалением сообщаю вам, что ваше зрение будет продолжать ухудшаться», — прочитал Тоби."
+    ],
+    [
+     "“There is no healing for this condition.",
+     "«Эта болезнь не лечится."
+    ],
+    [
+     "Within two years you will be almost blind, and I must advise you not to go to sea again.”",
+     "Через два года вы почти ослепнете, и я вынужден посоветовать вам больше не выходить в море»."
+    ]
+   ]
+  },
+  {
+   "en": "“Have you found my gold, boy?” Toby turned so fast that he nearly dropped the letter. The captain was standing behind him. He did not look angry, only very tired. “I can see light and shapes,” he said quietly. “I can see the sun, and a man's face if it is close enough. But I cannot see the stars any more, or the numbers on the compass at night. If the owners of this ship knew, they would take her away from me tomorrow.”",
+   "ru": "«Нашёл моё золото, мальчик?» Тоби обернулся так быстро, что чуть не уронил письмо. Капитан стоял у него за спиной. Он не выглядел сердитым, только очень усталым. «Я вижу свет и очертания», — тихо сказал он. «Я вижу солнце и лицо человека, если оно достаточно близко. Но я больше не вижу ни звёзд, ни цифр на компасе ночью. Если бы владельцы этого корабля узнали, они завтра же отняли бы его у меня».",
+   "s": [
+    [
+     "“Have you found my gold, boy?”",
+     "«Нашёл моё золото, мальчик?»"
+    ],
+    [
+     "Toby turned so fast that he nearly dropped the letter.",
+     "Тоби обернулся так быстро, что чуть не уронил письмо."
+    ],
+    [
+     "The captain was standing behind him.",
+     "Капитан стоял у него за спиной."
+    ],
+    [
+     "He did not look angry, only very tired.",
+     "Он не выглядел сердитым, только очень усталым."
+    ],
+    [
+     "“I can see light and shapes,” he said quietly.",
+     "«Я вижу свет и очертания», — тихо сказал он."
+    ],
+    [
+     "“I can see the sun, and a man's face if it is close enough.",
+     "«Я вижу солнце и лицо человека, если оно достаточно близко."
+    ],
+    [
+     "But I cannot see the stars any more, or the numbers on the compass at night.",
+     "Но я больше не вижу ни звёзд, ни цифр на компасе ночью."
+    ],
+    [
+     "If the owners of this ship knew, they would take her away from me tomorrow.”",
+     "Если бы владельцы этого корабля узнали, они завтра же отняли бы его у меня»."
+    ]
+   ]
+  },
+  {
+   "en": "He explained that he had spent thirty years at sea and that this was his last voyage. With the money from it, his daughter could finish her studies and open a small school. “I have learned this route by heart, like a song,” he said. “But a song is not enough on a dark night. Now tell me the truth. Who sent you?”",
+   "ru": "Он объяснил, что провёл в море тридцать лет и что это его последнее плавание. На деньги от него его дочь смогла бы закончить учёбу и открыть маленькую школу. «Я выучил этот путь наизусть, как песню», — сказал он. «Но тёмной ночью одной песни мало. А теперь скажи правду. Кто тебя послал?»",
+   "s": [
+    [
+     "He explained that he had spent thirty years at sea and that this was his last voyage.",
+     "Он объяснил, что провёл в море тридцать лет и что это его последнее плавание."
+    ],
+    [
+     "With the money from it, his daughter could finish her studies and open a small school.",
+     "На деньги от него его дочь смогла бы закончить учёбу и открыть маленькую школу."
+    ],
+    [
+     "“I have learned this route by heart, like a song,” he said.",
+     "«Я выучил этот путь наизусть, как песню», — сказал он."
+    ],
+    [
+     "“But a song is not enough on a dark night.",
+     "«Но тёмной ночью одной песни мало."
+    ],
+    [
+     "Now tell me the truth. Who sent you?”",
+     "А теперь скажи правду. Кто тебя послал?»"
+    ]
+   ]
+  },
+  {
+   "en": "Toby wanted to lie, but he could not. “Mr Garrow,” he whispered. The captain was silent for a long time. “Then Mr Garrow wants to know whether I am blind,” he said finally. “I wonder why. Tell him you found nothing but old clothes and letters from my daughter. And from tomorrow, Toby Wren, you will be my eyes.”",
+   "ru": "Тоби хотел соврать, но не смог. «Мистер Гарроу», — прошептал он. Капитан долго молчал. «Значит, мистер Гарроу хочет узнать, слепой ли я», — сказал он наконец. «Интересно, зачем. Скажи ему, что не нашёл ничего, кроме старой одежды и писем от моей дочери. А с завтрашнего дня, Тоби Рен, ты будешь моими глазами».",
+   "s": [
+    [
+     "Toby wanted to lie, but he could not.",
+     "Тоби хотел соврать, но не смог."
+    ],
+    [
+     "“Mr Garrow,” he whispered.",
+     "«Мистер Гарроу», — прошептал он."
+    ],
+    [
+     "The captain was silent for a long time.",
+     "Капитан долго молчал."
+    ],
+    [
+     "“Then Mr Garrow wants to know whether I am blind,” he said finally.",
+     "«Значит, мистер Гарроу хочет узнать, слепой ли я», — сказал он наконец."
+    ],
+    [
+     "“I wonder why.",
+     "«Интересно, зачем."
+    ],
+    [
+     "Tell him you found nothing but old clothes and letters from my daughter.",
+     "Скажи ему, что не нашёл ничего, кроме старой одежды и писем от моей дочери."
+    ],
+    [
+     "And from tomorrow, Toby Wren, you will be my eyes.”",
+     "А с завтрашнего дня, Тоби Рен, ты будешь моими глазами»."
+    ]
+   ]
+  },
+  {
+   "en": "When Toby told Garrow that the chest was full of old clothes, the first mate's smile disappeared for a moment. He looked frustrated, almost angry, and Toby noticed it. Then the smile came back, and Garrow gave him another sweet, but Toby did not eat it. For the first time, the cheerful man had made a bad impression on him.",
+   "ru": "Когда Тоби сказал Гарроу, что сундук набит старой одеждой, улыбка первого помощника на мгновение исчезла. Он выглядел раздосадованным, почти злым, и Тоби это заметил. Потом улыбка вернулась, и Гарроу дал ему ещё одну конфету, но Тоби её не съел. Впервые весёлый человек произвёл на него плохое впечатление.",
+   "s": [
+    [
+     "When Toby told Garrow that the chest was full of old clothes, the first mate's smile disappeared for a moment.",
+     "Когда Тоби сказал Гарроу, что сундук набит старой одеждой, улыбка первого помощника на мгновение исчезла."
+    ],
+    [
+     "He looked frustrated, almost angry, and Toby noticed it.",
+     "Он выглядел раздосадованным, почти злым, и Тоби это заметил."
+    ],
+    [
+     "Then the smile came back, and Garrow gave him another sweet, but Toby did not eat it.",
+     "Потом улыбка вернулась, и Гарроу дал ему ещё одну конфету, но Тоби её не съел."
+    ],
+    [
+     "For the first time, the cheerful man had made a bad impression on him.",
+     "Впервые весёлый человек произвёл на него плохое впечатление."
+    ]
+   ]
+  },
+  {
+   "en": "After that, Toby spent every evening in the captain's cabin. He read the charts aloud, and the captain taught him how a compass worked, how to find the North Star and how to check the ship's position by it. “And remember this,” he added one night. “Never keep iron near a compass. Iron pulls the needle, and then the compass lies to you.” Toby practised on deck whenever the sky was clear, and after a week he could find the North Star in a few seconds. The captain said he had a good head for numbers, and Toby felt a pride he had never felt before.",
+   "ru": "После этого Тоби проводил каждый вечер в каюте капитана. Он вслух читал карты, а капитан учил его, как устроен компас, как найти Полярную звезду и как по ней проверять положение корабля. «И запомни вот что», — добавил он однажды ночью. «Никогда не держи железо рядом с компасом. Железо притягивает стрелку, и тогда компас тебе лжёт». Тоби упражнялся на палубе всякий раз, когда небо было ясным, и через неделю мог найти Полярную звезду за несколько секунд. Капитан сказал, что у него хорошая голова на цифры, и Тоби почувствовал такую гордость, какой никогда раньше не испытывал.",
+   "s": [
+    [
+     "After that, Toby spent every evening in the captain's cabin.",
+     "После этого Тоби проводил каждый вечер в каюте капитана."
+    ],
+    [
+     "He read the charts aloud, and the captain taught him how a compass worked, how to find the North Star and how to check the ship's position by it.",
+     "Он вслух читал карты, а капитан учил его, как устроен компас, как найти Полярную звезду и как по ней проверять положение корабля."
+    ],
+    [
+     "“And remember this,” he added one night.",
+     "«И запомни вот что», — добавил он однажды ночью."
+    ],
+    [
+     "“Never keep iron near a compass. Iron pulls the needle, and then the compass lies to you.”",
+     "«Никогда не держи железо рядом с компасом. Железо притягивает стрелку, и тогда компас тебе лжёт»."
+    ],
+    [
+     "Toby practised on deck whenever the sky was clear, and after a week he could find the North Star in a few seconds.",
+     "Тоби упражнялся на палубе всякий раз, когда небо было ясным, и через неделю мог найти Полярную звезду за несколько секунд."
+    ],
+    [
+     "The captain said he had a good head for numbers, and Toby felt a pride he had never felt before.",
+     "Капитан сказал, что у него хорошая голова на цифры, и Тоби почувствовал такую гордость, какой никогда раньше не испытывал."
+    ]
+   ]
+  },
+  {
+   "en": "Four days from Lisbon, the weather changed. A strong wind came from the west, and clouds covered the sky. The captain announced that they would stay far out at sea, away from the rocks of Cape Sombra, which had already sunk many ships. That night, as usual, Garrow was at the wheel.",
+   "ru": "За четыре дня до Лиссабона погода переменилась. С запада подул сильный ветер, и тучи закрыли небо. Капитан объявил, что они будут держаться далеко в открытом море, подальше от скал мыса Сомбра, о которые уже разбилось немало кораблей. В ту ночь, как обычно, у штурвала стоял Гарроу.",
+   "s": [
+    [
+     "Four days from Lisbon, the weather changed.",
+     "За четыре дня до Лиссабона погода переменилась."
+    ],
+    [
+     "A strong wind came from the west, and clouds covered the sky.",
+     "С запада подул сильный ветер, и тучи закрыли небо."
+    ],
+    [
+     "The captain announced that they would stay far out at sea, away from the rocks of Cape Sombra, which had already sunk many ships.",
+     "Капитан объявил, что они будут держаться далеко в открытом море, подальше от скал мыса Сомбра, о которые уже разбилось немало кораблей."
+    ],
+    [
+     "That night, as usual, Garrow was at the wheel.",
+     "В ту ночь, как обычно, у штурвала стоял Гарроу."
+    ]
+   ]
+  },
+  {
+   "en": "Toby could not sleep. Some time after midnight he went up on deck and looked at the compass. It showed that they were sailing west, exactly as the captain had ordered. Then, for one minute, the clouds opened, and Toby saw the North Star. His heart almost stopped. The star was in the wrong place. If the star was correct, the Blue Heron was not sailing west at all. She was sailing east, straight towards the coast.",
+   "ru": "Тоби не мог уснуть. Где-то после полуночи он поднялся на палубу и посмотрел на компас. Он показывал, что они идут на запад, точно как приказал капитан. А потом на одну минуту тучи разошлись, и Тоби увидел Полярную звезду. Его сердце чуть не остановилось. Звезда была не на своём месте. Если звезда показывала правильно, то «Голубая цапля» шла вовсе не на запад. Она шла на восток, прямо к берегу.",
+   "s": [
+    [
+     "Toby could not sleep.",
+     "Тоби не мог уснуть."
+    ],
+    [
+     "Some time after midnight he went up on deck and looked at the compass.",
+     "Где-то после полуночи он поднялся на палубу и посмотрел на компас."
+    ],
+    [
+     "It showed that they were sailing west, exactly as the captain had ordered.",
+     "Он показывал, что они идут на запад, точно как приказал капитан."
+    ],
+    [
+     "Then, for one minute, the clouds opened, and Toby saw the North Star.",
+     "А потом на одну минуту тучи разошлись, и Тоби увидел Полярную звезду."
+    ],
+    [
+     "His heart almost stopped.",
+     "Его сердце чуть не остановилось."
+    ],
+    [
+     "The star was in the wrong place.",
+     "Звезда была не на своём месте."
+    ],
+    [
+     "If the star was correct, the Blue Heron was not sailing west at all.",
+     "Если звезда показывала правильно, то «Голубая цапля» шла вовсе не на запад."
+    ],
+    [
+     "She was sailing east, straight towards the coast.",
+     "Она шла на восток, прямо к берегу."
+    ]
+   ]
+  },
+  {
+   "en": "Toby remembered the captain's words about iron. While Garrow was talking to the two sailors at the wheel, he knelt down beside the wooden box that held the compass and felt along its sides in the dark. Behind a loose plank, his fingers touched something cold and heavy. It was a big iron fork.",
+   "ru": "Тоби вспомнил слова капитана о железе. Пока Гарроу разговаривал с двумя матросами у штурвала, он опустился на колени возле деревянного ящика, в котором стоял компас, и ощупал в темноте его стенки. За расшатанной доской его пальцы нащупали что-то холодное и тяжёлое. Это была большая железная вилка.",
+   "s": [
+    [
+     "Toby remembered the captain's words about iron.",
+     "Тоби вспомнил слова капитана о железе."
+    ],
+    [
+     "While Garrow was talking to the two sailors at the wheel, he knelt down beside the wooden box that held the compass and felt along its sides in the dark.",
+     "Пока Гарроу разговаривал с двумя матросами у штурвала, он опустился на колени возле деревянного ящика, в котором стоял компас, и ощупал в темноте его стенки."
+    ],
+    [
+     "Behind a loose plank, his fingers touched something cold and heavy.",
+     "За расшатанной доской его пальцы нащупали что-то холодное и тяжёлое."
+    ],
+    [
+     "It was a big iron fork.",
+     "Это была большая железная вилка."
+    ]
+   ]
+  },
+  {
+   "en": "Suddenly everything made sense. The friends on the wild coast who lived on what the sea brought them were wreckers: people who waited for ships to break on the rocks and then robbed them. And when the owners asked what had happened, Garrow would tell them that the captain was blind. Nobody would think of blaming the first mate.",
+   "ru": "Вдруг всё встало на свои места. Друзья на диком берегу, которые жили тем, что приносит море, были мародёрами — людьми, которые ждали, когда корабли разобьются о скалы, а потом грабили их. А когда владельцы спросили бы, что случилось, Гарроу сказал бы им, что капитан был слепым. Никому бы и в голову не пришло обвинить первого помощника.",
+   "s": [
+    [
+     "Suddenly everything made sense.",
+     "Вдруг всё встало на свои места."
+    ],
+    [
+     "The friends on the wild coast who lived on what the sea brought them were wreckers: people who waited for ships to break on the rocks and then robbed them.",
+     "Друзья на диком берегу, которые жили тем, что приносит море, были мародёрами — людьми, которые ждали, когда корабли разобьются о скалы, а потом грабили их."
+    ],
+    [
+     "And when the owners asked what had happened, Garrow would tell them that the captain was blind.",
+     "А когда владельцы спросили бы, что случилось, Гарроу сказал бы им, что капитан был слепым."
+    ],
+    [
+     "Nobody would think of blaming the first mate.",
+     "Никому бы и в голову не пришло обвинить первого помощника."
+    ]
+   ]
+  },
+  {
+   "en": "Toby ran down to the cabin. A few minutes later the captain stood on deck, one hand on the rail, with Toby beside him and the whole crew, woken by the boy's shouts, behind them. “Mr Garrow,” the captain said, “turn the ship west. Now.” Garrow laughed. “Who gives that order? A blind man? You can't even see your own hand, old man. We are going exactly where we should.”",
+   "ru": "Тоби побежал вниз, в каюту. Через несколько минут капитан стоял на палубе, держась рукой за поручень, рядом с ним был Тоби, а позади них — вся команда, разбуженная криками мальчика. «Мистер Гарроу, — сказал капитан, — поверните корабль на запад. Немедленно». Гарроу рассмеялся. «А кто отдаёт этот приказ? Слепой? Ты даже собственную руку не видишь, старик. Мы идём точно куда надо».",
+   "s": [
+    [
+     "Toby ran down to the cabin.",
+     "Тоби побежал вниз, в каюту."
+    ],
+    [
+     "A few minutes later the captain stood on deck, one hand on the rail, with Toby beside him and the whole crew, woken by the boy's shouts, behind them.",
+     "Через несколько минут капитан стоял на палубе, держась рукой за поручень, рядом с ним был Тоби, а позади них — вся команда, разбуженная криками мальчика."
+    ],
+    [
+     "“Mr Garrow,” the captain said, “turn the ship west. Now.”",
+     "«Мистер Гарроу, — сказал капитан, — поверните корабль на запад. Немедленно»."
+    ],
+    [
+     "Garrow laughed.",
+     "Гарроу рассмеялся."
+    ],
+    [
+     "“Who gives that order? A blind man?",
+     "«А кто отдаёт этот приказ? Слепой?"
+    ],
+    [
+     "You can't even see your own hand, old man.",
+     "Ты даже собственную руку не видишь, старик."
+    ],
+    [
+     "We are going exactly where we should.”",
+     "Мы идём точно куда надо»."
+    ]
+   ]
+  },
+  {
+   "en": "Toby stepped forward and held up the fork so that everyone could see it in the light of the lamp. “This was behind the compass,” he cried. “The compass is lying. We're going east, towards the rocks!” For a second nobody moved. Then old Dobbs pushed through the crowd of sailors and took the fork from Toby's hand. “That's mine,” he said slowly, and he turned to look at Garrow.",
+   "ru": "Тоби шагнул вперёд и поднял вилку так, чтобы все могли её увидеть в свете фонаря. «Это было за компасом!» — крикнул он. «Компас врёт. Мы идём на восток, к скалам!» Секунду никто не двигался. Потом старый Доббс протолкался сквозь толпу матросов и взял вилку из руки Тоби. «Это моя», — медленно сказал он и повернулся к Гарроу.",
+   "s": [
+    [
+     "Toby stepped forward and held up the fork so that everyone could see it in the light of the lamp.",
+     "Тоби шагнул вперёд и поднял вилку так, чтобы все могли её увидеть в свете фонаря."
+    ],
+    [
+     "“This was behind the compass,” he cried.",
+     "«Это было за компасом!» — крикнул он."
+    ],
+    [
+     "“The compass is lying. We're going east, towards the rocks!”",
+     "«Компас врёт. Мы идём на восток, к скалам!»"
+    ],
+    [
+     "For a second nobody moved.",
+     "Секунду никто не двигался."
+    ],
+    [
+     "Then old Dobbs pushed through the crowd of sailors and took the fork from Toby's hand.",
+     "Потом старый Доббс протолкался сквозь толпу матросов и взял вилку из руки Тоби."
+    ],
+    [
+     "“That's mine,” he said slowly, and he turned to look at Garrow.",
+     "«Это моя», — медленно сказал он и повернулся к Гарроу."
+    ]
+   ]
+  },
+  {
+   "en": "“I may be weak in the eyes,” the captain said, “but my ears still work. Listen, all of you.” Through the wind, they all heard it: the deep, heavy sound of waves breaking on rocks, much closer than it should have been. Garrow's two friends stepped back from the wheel. Garrow looked at their faces and understood that he had lost. He accepted his defeat without a word, and four men tied his hands.",
+   "ru": "«Может, глаза у меня и слабые, — сказал капитан, — но уши ещё работают. Слушайте, все вы». Сквозь ветер все услышали это: глубокий, тяжёлый грохот волн, разбивающихся о скалы, гораздо ближе, чем должно было быть. Двое приятелей Гарроу отступили от штурвала. Гарроу посмотрел на их лица и понял, что проиграл. Он принял своё поражение без единого слова, и четверо матросов связали ему руки.",
+   "s": [
+    [
+     "“I may be weak in the eyes,” the captain said, “but my ears still work.",
+     "«Может, глаза у меня и слабые, — сказал капитан, — но уши ещё работают."
+    ],
+    [
+     "Listen, all of you.”",
+     "Слушайте, все вы»."
+    ],
+    [
+     "Through the wind, they all heard it: the deep, heavy sound of waves breaking on rocks, much closer than it should have been.",
+     "Сквозь ветер все услышали это: глубокий, тяжёлый грохот волн, разбивающихся о скалы, гораздо ближе, чем должно было быть."
+    ],
+    [
+     "Garrow's two friends stepped back from the wheel.",
+     "Двое приятелей Гарроу отступили от штурвала."
+    ],
+    [
+     "Garrow looked at their faces and understood that he had lost.",
+     "Гарроу посмотрел на их лица и понял, что проиграл."
+    ],
+    [
+     "He accepted his defeat without a word, and four men tied his hands.",
+     "Он принял своё поражение без единого слова, и четверо матросов связали ему руки."
+    ]
+   ]
+  },
+  {
+   "en": "“Toby,” said the captain, “take the wheel and find me the North Star.” Toby took the wheel. Through a gap in the clouds the star appeared again, and he turned the ship until it was in the correct place, behind his right shoulder. The captain stood next to him with his hand on the boy's shoulder, and the sailors ran to the sails. Slowly, very slowly, the Blue Heron turned away from the coast. When the sun came up, the black rocks of Cape Sombra were far behind them.",
+   "ru": "«Тоби, — сказал капитан, — встань за штурвал и найди мне Полярную звезду». Тоби взялся за штурвал. В просвете между тучами звезда появилась снова, и он поворачивал корабль, пока она не оказалась на правильном месте — за его правым плечом. Капитан стоял рядом, положив руку на плечо мальчика, а матросы бросились к парусам. Медленно, очень медленно «Голубая цапля» отвернула от берега. Когда взошло солнце, чёрные скалы мыса Сомбра остались далеко позади.",
+   "s": [
+    [
+     "“Toby,” said the captain, “take the wheel and find me the North Star.”",
+     "«Тоби, — сказал капитан, — встань за штурвал и найди мне Полярную звезду»."
+    ],
+    [
+     "Toby took the wheel.",
+     "Тоби взялся за штурвал."
+    ],
+    [
+     "Through a gap in the clouds the star appeared again, and he turned the ship until it was in the correct place, behind his right shoulder.",
+     "В просвете между тучами звезда появилась снова, и он поворачивал корабль, пока она не оказалась на правильном месте — за его правым плечом."
+    ],
+    [
+     "The captain stood next to him with his hand on the boy's shoulder, and the sailors ran to the sails.",
+     "Капитан стоял рядом, положив руку на плечо мальчика, а матросы бросились к парусам."
+    ],
+    [
+     "Slowly, very slowly, the Blue Heron turned away from the coast.",
+     "Медленно, очень медленно «Голубая цапля» отвернула от берега."
+    ],
+    [
+     "When the sun came up, the black rocks of Cape Sombra were far behind them.",
+     "Когда взошло солнце, чёрные скалы мыса Сомбра остались далеко позади."
+    ]
+   ]
+  },
+  {
+   "en": "In Lisbon, Garrow and his two friends were handed over to the British consul. Then the captain called the whole crew together and announced the truth about his eyes. “This is my last voyage,” he said. “If any man here does not want to sail home with a half-blind captain, he may leave the ship now, and I will not blame him.” Nobody moved. At last Dobbs said, “We'll sail with you, Captain. Just keep the boy.”",
+   "ru": "В Лиссабоне Гарроу и двух его приятелей передали британскому консулу. Потом капитан собрал всю команду и объявил правду о своих глазах. «Это моё последнее плавание», — сказал он. «Если кто-то здесь не хочет плыть домой с полуслепым капитаном, он может сейчас сойти с корабля, и я не стану его осуждать». Никто не двинулся с места. Наконец Доббс сказал: «Мы поплывём с вами, капитан. Только мальчишку оставьте».",
+   "s": [
+    [
+     "In Lisbon, Garrow and his two friends were handed over to the British consul.",
+     "В Лиссабоне Гарроу и двух его приятелей передали британскому консулу."
+    ],
+    [
+     "Then the captain called the whole crew together and announced the truth about his eyes.",
+     "Потом капитан собрал всю команду и объявил правду о своих глазах."
+    ],
+    [
+     "“This is my last voyage,” he said.",
+     "«Это моё последнее плавание», — сказал он."
+    ],
+    [
+     "“If any man here does not want to sail home with a half-blind captain, he may leave the ship now, and I will not blame him.”",
+     "«Если кто-то здесь не хочет плыть домой с полуслепым капитаном, он может сейчас сойти с корабля, и я не стану его осуждать»."
+    ],
+    [
+     "Nobody moved.",
+     "Никто не двинулся с места."
+    ],
+    [
+     "At last Dobbs said, “We'll sail with you, Captain. Just keep the boy.”",
+     "Наконец Доббс сказал: «Мы поплывём с вами, капитан. Только мальчишку оставьте»."
+    ]
+   ]
+  },
+  {
+   "en": "That evening the captain took the sword with the silver snake down from the wall and put it in Toby's hands. “It was never a pirate's sword,” he said. “It belonged to my father, who was a ship's doctor. The snake is the old sign of healing. He used to say that a good sailor protects his ship the way a good doctor protects his patient. You did that last night.”",
+   "ru": "В тот вечер капитан снял со стены меч с серебряной змеёй и вложил его в руки Тоби. «Это никогда не был пиратский меч», — сказал он. «Он принадлежал моему отцу, корабельному врачу. Змея — древний знак исцеления. Он говорил, что хороший моряк бережёт свой корабль так же, как хороший врач бережёт своего пациента. Ты сделал это прошлой ночью».",
+   "s": [
+    [
+     "That evening the captain took the sword with the silver snake down from the wall and put it in Toby's hands.",
+     "В тот вечер капитан снял со стены меч с серебряной змеёй и вложил его в руки Тоби."
+    ],
+    [
+     "“It was never a pirate's sword,” he said.",
+     "«Это никогда не был пиратский меч», — сказал он."
+    ],
+    [
+     "“It belonged to my father, who was a ship's doctor. The snake is the old sign of healing.",
+     "«Он принадлежал моему отцу, корабельному врачу. Змея — древний знак исцеления."
+    ],
+    [
+     "He used to say that a good sailor protects his ship the way a good doctor protects his patient.",
+     "Он говорил, что хороший моряк бережёт свой корабль так же, как хороший врач бережёт своего пациента."
+    ],
+    [
+     "You did that last night.”",
+     "Ты сделал это прошлой ночью»."
+    ]
+   ]
+  },
+  {
+   "en": "Before they left Lisbon, the captain wrote a long letter to the owners in very large letters. He told them everything, and he asked them to pay for Toby to be trained as a navigator. Three months later, back in Plymouth, their answer arrived. The owners had approved, and they had added a line at the bottom: “A ship has been saved by a boy who could see the stars. We regard that as the best investment we have ever made.”",
+   "ru": "Перед отплытием из Лиссабона капитан написал владельцам длинное письмо очень крупными буквами. Он рассказал им всё и попросил их оплатить обучение Тоби на штурмана. Три месяца спустя, уже в Плимуте, пришёл их ответ. Владельцы одобрили просьбу и добавили внизу строчку: «Корабль спас мальчик, который видел звёзды. Мы считаем это лучшим вложением, которое мы когда-либо делали».",
+   "s": [
+    [
+     "Before they left Lisbon, the captain wrote a long letter to the owners in very large letters.",
+     "Перед отплытием из Лиссабона капитан написал владельцам длинное письмо очень крупными буквами."
+    ],
+    [
+     "He told them everything, and he asked them to pay for Toby to be trained as a navigator.",
+     "Он рассказал им всё и попросил их оплатить обучение Тоби на штурмана."
+    ],
+    [
+     "Three months later, back in Plymouth, their answer arrived.",
+     "Три месяца спустя, уже в Плимуте, пришёл их ответ."
+    ],
+    [
+     "The owners had approved, and they had added a line at the bottom: “A ship has been saved by a boy who could see the stars. We regard that as the best investment we have ever made.”",
+     "Владельцы одобрили просьбу и добавили внизу строчку: «Корабль спас мальчик, который видел звёзды. Мы считаем это лучшим вложением, которое мы когда-либо делали»."
+    ]
+   ]
+  },
+  {
+   "en": "Toby read the letter aloud to the captain on the quiet deck, under a clear night sky. When he finished, he looked up. The North Star was exactly where it should be, and for the first time in his life, so was he.",
+   "ru": "Тоби прочитал письмо вслух капитану на тихой палубе под ясным ночным небом. Закончив, он поднял глаза. Полярная звезда была точно на своём месте, и впервые в жизни он тоже был на своём.",
+   "s": [
+    [
+     "Toby read the letter aloud to the captain on the quiet deck, under a clear night sky.",
+     "Тоби прочитал письмо вслух капитану на тихой палубе под ясным ночным небом."
+    ],
+    [
+     "When he finished, he looked up.",
+     "Закончив, он поднял глаза."
+    ],
+    [
+     "The North Star was exactly where it should be, and for the first time in his life, so was he.",
+     "Полярная звезда была точно на своём месте, и впервые в жизни он тоже был на своём."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, об",
+  "accepted": "принял",
+  "added": "добавил",
+  "advise": "советовать",
+  "after": "после",
+  "again": "снова",
+  "ago": "назад",
+  "all": "все, весь",
+  "almost": "почти",
+  "alone": "одни",
+  "along": "вдоль, по",
+  "aloud": "вслух",
+  "already": "уже",
+  "always": "всегда",
+  "am": "(есть) — я",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "angry": "сердитый",
+  "announced": "объявил(о)",
+  "another": "ещё одну",
+  "answer": "ответ",
+  "answered": "ответил(а)",
+  "any": "какой-либо; (not any more) больше не",
+  "anyone": "кто-либо, кто-то",
+  "appeared": "появилась",
+  "approved": "одобрили",
+  "are": "(есть) — вы/они",
+  "arrived": "пришёл",
+  "as": "как, так как",
+  "asked": "спросили; просил",
+  "asleep": "спящий (is asleep — уснёт)",
+  "at": "в, у, на",
+  "ate": "ел",
+  "away": "прочь",
+  "back": "назад; (back of the ship) корма",
+  "bad": "плохой",
+  "baker's": "пекарня (baker's shop)",
+  "be": "быть",
+  "bed": "кровать",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "behind": "за, позади",
+  "being": "быть (about being brave)",
+  "belonged": "принадлежал",
+  "belongs": "принадлежит",
+  "beside": "рядом с",
+  "best": "лучший",
+  "big": "большой",
+  "black": "чёрный",
+  "blame": "обвинить",
+  "blaming": "обвинять",
+  "blind": "слепой",
+  "blue": "голубой",
+  "board": "борт (on board)",
+  "bottle": "бутылочка",
+  "bottom": "низ (at the bottom) внизу",
+  "box": "ящик",
+  "boy": "мальчик",
+  "boy's": "мальчика",
+  "brag": "хвастаться",
+  "bragged": "хвастался",
+  "brave": "смелый",
+  "break": "разбиться",
+  "breaking": "разбивающийся",
+  "brings": "приносит",
+  "british": "британский",
+  "brought": "приносило; поднёс",
+  "but": "но",
+  "by": "за; (by heart) наизусть; к",
+  "cabin": "каюта",
+  "called": "называл; созвал (called together)",
+  "came": "пришёл; поднялся (came up); вернулась",
+  "can": "могу",
+  "can't": "не может, нельзя",
+  "cannot": "не могу",
+  "cape": "мыс",
+  "captain": "капитан",
+  "captain's": "капитана",
+  "captains": "капитаны",
+  "carried": "носил",
+  "carrying": "везла",
+  "chair": "стул, кресло",
+  "changed": "переменилась",
+  "charts": "морские карты",
+  "cheap": "дешёвый",
+  "check": "проверять",
+  "cheerful": "весёлый",
+  "chest": "сундук",
+  "chin": "подбородок",
+  "cleaned": "убирал",
+  "clear": "ясный",
+  "click": "щелчок",
+  "close": "близко",
+  "closer": "ближе",
+  "cloth": "сукно, ткань",
+  "clothes": "одежда",
+  "clouds": "тучи",
+  "coast": "побережье",
+  "coastlines": "очертания берегов",
+  "coat": "сюртук",
+  "cold": "холодный",
+  "come": "прийти, вернуться",
+  "comes": "приходит",
+  "compass": "компас",
+  "condition": "болезнь, состояние",
+  "confused": "растерянный",
+  "consul": "консул",
+  "continue": "продолжать",
+  "continued": "продолжил",
+  "cook": "кок, повар",
+  "correct": "правильный",
+  "could": "мог(ла)",
+  "covered": "покрытый",
+  "crew": "команда",
+  "cried": "крикнул",
+  "crowd": "толпа",
+  "dark": "темнота",
+  "daughter": "дочь",
+  "days": "дни",
+  "deck": "палуба",
+  "deep": "глубокий",
+  "defeat": "поражение",
+  "did": "(вспом. гл.)",
+  "disappeared": "исчезла",
+  "do": "(вспом. гл.)",
+  "dobbs": "Доббс (имя)",
+  "doctor": "врач",
+  "does": "(вспом. гл.)",
+  "door": "дверь",
+  "down": "вниз",
+  "dropped": "уронил",
+  "each": "каждый",
+  "ears": "уши",
+  "earth": "земля; (on earth) на свете",
+  "east": "восток",
+  "eat": "съесть",
+  "else": "другой (nobody else)",
+  "english": "английский",
+  "enough": "достаточно",
+  "even": "даже",
+  "evening": "вечер",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "everyone": "все",
+  "everything": "всё",
+  "exactly": "точно",
+  "exciting": "захватывающий",
+  "explained": "объяснил",
+  "eyes": "глаза",
+  "face": "лицо",
+  "faces": "лица",
+  "far": "далеко",
+  "fast": "быстро",
+  "father": "отец",
+  "fell": "уснул (fell asleep)",
+  "felt": "почувствовал; ощупал (felt along)",
+  "few": "несколько",
+  "fights": "драки",
+  "finally": "наконец",
+  "find": "найти",
+  "fingers": "пальцы",
+  "finish": "закончить",
+  "finished": "закончил",
+  "first": "первый; (for the first time) впервые",
+  "food": "еда",
+  "for": "для, в течение",
+  "fork": "вилка",
+  "forward": "вперёд",
+  "found": "нашли; нашёл",
+  "four": "четыре",
+  "fourteen": "четырнадцать",
+  "friend": "друг",
+  "friends": "друзья",
+  "from": "из, от",
+  "frustrated": "расстроенный",
+  "full": "полный",
+  "gap": "просвет",
+  "garrow": "Гарроу (имя)",
+  "garrow's": "Гарроу (чей)",
+  "gave": "дал; угощал",
+  "given": "дал",
+  "gives": "отдаёт",
+  "glasses": "очки",
+  "go": "выходить (go to sea)",
+  "going": "идём (we are going)",
+  "gold": "золото",
+  "good": "хороший",
+  "government": "правительство",
+  "grey": "седой, серый",
+  "grow": "становиться (grow weaker)",
+  "habit": "привычка",
+  "had": "(вспом. гл.); имела",
+  "half": "(half-blind) полу-",
+  "hand": "рука",
+  "handed": "передали (handed over)",
+  "handle": "рукоять",
+  "hands": "руки",
+  "happened": "случилось",
+  "harbour": "гавань",
+  "hartley": "Хартли (фамилия)",
+  "has": "(вспом. гл.)",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "head": "голова; (by heart) наизусть",
+  "healing": "выздоровление",
+  "heard": "слышал; услышали",
+  "heart": "сердце",
+  "heavy": "тяжёлый",
+  "held": "поднял (held up); в котором стоял",
+  "help": "помочь",
+  "helped": "помогал",
+  "her": "её, ей",
+  "here": "здесь",
+  "heron": "цапля",
+  "him": "его, ему",
+  "his": "его",
+  "home": "домой",
+  "how": "как",
+  "huge": "огромный",
+  "hung": "висел",
+  "i": "я",
+  "idea": "идея",
+  "if": "если, ли",
+  "impression": "впечатление",
+  "in": "в",
+  "inside": "внутри",
+  "investment": "вложение",
+  "iron": "железный; железо",
+  "is": "есть, является",
+  "it": "он, оно, это",
+  "its": "его, её",
+  "job": "работа",
+  "just": "просто",
+  "keep": "держать; оставить",
+  "kept": "держал",
+  "key": "ключ",
+  "kitchen": "камбуз (кухня)",
+  "knelt": "опустился на колени",
+  "knew": "знал(и)",
+  "know": "знать",
+  "lamp": "фонарь, лампа",
+  "large": "большой",
+  "last": "последний; (at last) наконец; прошлой (last night)",
+  "late": "поздно",
+  "later": "позже",
+  "laughed": "рассмеялся",
+  "lay": "лежало",
+  "learn": "выучить",
+  "learned": "выучил",
+  "leave": "сойти, покинуть",
+  "left": "отплыли (left Lisbon); оставлена (was left to)",
+  "lenses": "линзы, стёкла",
+  "letter": "письмо",
+  "letters": "письма; буквы",
+  "lie": "лгать",
+  "lies": "врёт, лжёт",
+  "life": "жизнь",
+  "light": "свет",
+  "like": "как; похожий на",
+  "liked": "нравился",
+  "line": "строчка",
+  "lisbon": "Лиссабон",
+  "listen": "слушать",
+  "lists": "списки",
+  "little": "маленький, немного",
+  "live": "жить",
+  "lived": "жили",
+  "locked": "заперта",
+  "london": "Лондон",
+  "long": "долго, долгий",
+  "look": "смотреть",
+  "looked": "выглядел; посмотрел",
+  "looking": "искал (looking for)",
+  "loose": "расшатанный",
+  "lost": "проиграл",
+  "loud": "громкий",
+  "loved": "обожал",
+  "lowered": "понизил",
+  "lying": "врать; врёт",
+  "made": "произвёл (made an impression); сделал; (made sense) стало понятно",
+  "man": "мужчина",
+  "man's": "человека",
+  "many": "много",
+  "mate": "помощник (капитана)",
+  "mate's": "помощника",
+  "may": "может, можно",
+  "me": "меня, мне",
+  "medicine": "лекарство",
+  "men": "люди, мужчины",
+  "merchant": "торговый",
+  "midnight": "полночь",
+  "mine": "мой, моя",
+  "minute": "минута",
+  "minutes": "минуты",
+  "moment": "мгновение",
+  "money": "деньги",
+  "month": "месяц",
+  "months": "месяцы",
+  "more": "больше",
+  "morning": "утро",
+  "moved": "двинулся",
+  "mr": "мистер",
+  "much": "гораздо",
+  "must": "должен",
+  "my": "мой",
+  "navigator": "штурман",
+  "near": "возле, у",
+  "nearly": "чуть не, почти",
+  "needed": "был нужен",
+  "needle": "стрелка",
+  "never": "никогда",
+  "next": "следующий; рядом",
+  "night": "ночь",
+  "no": "нет",
+  "nobody": "никто",
+  "north": "север; (North Star) Полярная звезда",
+  "not": "не",
+  "nothing": "ничего",
+  "noticed": "заметил",
+  "now": "теперь",
+  "numbers": "цифры",
+  "of": "из, о, (род. падеж)",
+  "often": "часто",
+  "old": "старый",
+  "on": "на",
+  "once": "ни разу (without stopping once)",
+  "one": "один, одна",
+  "only": "только",
+  "open": "открыть",
+  "opened": "открылся; разошлись",
+  "opens": "открывает",
+  "opposite": "противоположность",
+  "or": "или",
+  "oranges": "апельсины",
+  "order": "приказ",
+  "ordered": "приказал",
+  "orders": "приказы, команды",
+  "other": "другой",
+  "out": "(far out at sea) далеко в открытом море",
+  "over": "(handed over) передали",
+  "own": "собственный",
+  "owners": "владельцы",
+  "pair": "пара",
+  "paper": "бумага, бумажный",
+  "papers": "бумаги",
+  "parents": "родители",
+  "patient": "пациент",
+  "pay": "оплатить",
+  "pencil": "карандаш",
+  "people": "люди",
+  "pile": "стопка",
+  "pirate's": "пиратский",
+  "place": "место",
+  "plank": "доска",
+  "plymouth": "Плимут",
+  "pocket": "карман",
+  "port": "порт",
+  "position": "положение",
+  "practised": "упражнялся",
+  "prefer": "предпочитать",
+  "pride": "гордость",
+  "print": "шрифт",
+  "protects": "бережёт",
+  "pulls": "притягивает",
+  "pushed": "протолкался",
+  "put": "вложил",
+  "quiet": "тихий",
+  "quietly": "тихо",
+  "rail": "поручень",
+  "ran": "побежал",
+  "read": "читать; прочитал",
+  "reading": "читал",
+  "regard": "считать (regard as)",
+  "remember": "запомнить",
+  "remembered": "вспомнил",
+  "rewarded": "награждены",
+  "right": "правый",
+  "robbed": "грабил",
+  "rocks": "скалы",
+  "route": "маршрут, путь",
+  "said": "сказал(а)",
+  "sail": "плыть",
+  "sailing": "шли, плыли",
+  "sailor": "моряк, матрос",
+  "sailors": "матросы",
+  "sails": "паруса",
+  "salt": "соль",
+  "same": "тот же",
+  "saturday": "суббота",
+  "saved": "спасён",
+  "saw": "увидел",
+  "say": "говорят (they say)",
+  "saying": "говоря",
+  "school": "школа",
+  "scratch": "скрип, царапанье",
+  "sea": "море",
+  "second": "секунда",
+  "seconds": "секунды",
+  "secret": "тайна",
+  "see": "видеть",
+  "seen": "видел",
+  "sense": "(made sense) встало на места",
+  "sent": "послал",
+  "shaking": "дрожали",
+  "shapes": "очертания",
+  "she": "она (о корабле)",
+  "shillings": "шиллинги",
+  "ship": "корабль",
+  "ship's": "корабельный",
+  "ships": "корабли",
+  "shop": "лавка",
+  "should": "следует; должна (should be)",
+  "shoulder": "плечо",
+  "shouted": "кричал",
+  "shouts": "крики",
+  "showed": "показывал",
+  "sides": "стенки",
+  "sign": "знак",
+  "silence": "молчание",
+  "silent": "молчал (was silent)",
+  "silver": "серебряный",
+  "simply": "просто",
+  "sky": "небо",
+  "sleep": "спать",
+  "slept": "спал",
+  "slow": "медленный",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smile": "улыбка",
+  "snake": "змея",
+  "so": "поэтому; так",
+  "soft": "тихий",
+  "sombra": "Сомбра (мыс)",
+  "some": "(some time) некоторое",
+  "someone": "кто-то",
+  "something": "что-то",
+  "song": "песня",
+  "soon": "вскоре",
+  "sorry": "(I am sorry) с сожалением",
+  "sound": "грохот, звук",
+  "spanish": "испанский",
+  "spent": "провёл",
+  "spring": "весна",
+  "standing": "стоял",
+  "star": "звезда",
+  "stars": "звёзды",
+  "stay": "держаться, оставаться",
+  "steal": "красть",
+  "stepped": "шагнул; отступили (stepped back)",
+  "still": "всё ещё; неподвижный",
+  "stolen": "краденый",
+  "stood": "стоял",
+  "stopped": "остановилось",
+  "stopping": "останавливаться",
+  "storms": "штормы",
+  "straight": "прямо",
+  "strong": "сильный",
+  "studies": "учёба",
+  "suddenly": "вдруг",
+  "sun": "солнце",
+  "sunk": "потопил",
+  "survived": "пережил",
+  "sweet": "конфета",
+  "sweets": "конфеты",
+  "sword": "меч",
+  "take": "взять; отнять (take away)",
+  "talking": "разговаривал",
+  "tall": "высокий",
+  "taught": "учил",
+  "tell": "сказать",
+  "than": "чем",
+  "that": "что; тот, это",
+  "that's": "это (есть)",
+  "the": "(опр. артикль)",
+  "their": "их, свои",
+  "them": "их",
+  "then": "потом, тогда",
+  "there": "там",
+  "there's": "есть, имеется",
+  "these": "эти",
+  "they": "они",
+  "thick": "толстый",
+  "thin": "тонкий",
+  "things": "вещи",
+  "think": "подумать (think of)",
+  "thirty": "тридцать",
+  "this": "этот",
+  "thought": "думал",
+  "three": "три",
+  "through": "через, сквозь",
+  "thumb": "большой палец",
+  "tied": "связали",
+  "time": "время; раз",
+  "tiny": "крошечный",
+  "tired": "усталый",
+  "to": "к, в; (частица)",
+  "toby": "Тоби (имя)",
+  "toby's": "Тоби (чей)",
+  "together": "вместе",
+  "told": "сказал",
+  "tomorrow": "завтра",
+  "too": "тоже",
+  "took": "взял; достал",
+  "touched": "коснулись, нащупали",
+  "towards": "к, по направлению к",
+  "trained": "обучен (be trained as)",
+  "truth": "правда",
+  "trying": "пытался",
+  "turn": "повернуть",
+  "turned": "обернулся; повернул; отвернула",
+  "twelve": "двенадцать",
+  "twenty": "двадцать",
+  "two": "два",
+  "under": "под",
+  "understood": "понял",
+  "until": "до",
+  "up": "вверх",
+  "used": "(used to) раньше (говорил)",
+  "usual": "(as usual) как обычно",
+  "very": "очень",
+  "voice": "голос",
+  "voyage": "плавание",
+  "waited": "ждал",
+  "walked": "шёл",
+  "wall": "стена",
+  "want": "хотеть",
+  "wanted": "хотел",
+  "wants": "хочет",
+  "was": "был(а)",
+  "washed": "мыл",
+  "watch": "вахта",
+  "waters": "воды",
+  "waves": "волны",
+  "way": "отношение; так, как (the way)",
+  "we": "мы",
+  "we'll": "мы (буд. время)",
+  "we're": "мы (есть)",
+  "weak": "слабый",
+  "weaker": "слабее (хуже)",
+  "weather": "погода",
+  "week": "неделя",
+  "went": "поднялся (went up)",
+  "were": "были",
+  "west": "запад",
+  "what": "что",
+  "wheel": "штурвал",
+  "when": "когда",
+  "whenever": "каждый раз, когда",
+  "where": "где",
+  "whether": "ли",
+  "which": "который, что",
+  "while": "пока",
+  "whispered": "прошептал",
+  "who": "кто, который",
+  "whole": "весь",
+  "why": "почему",
+  "wild": "дикий",
+  "will": "будет",
+  "wind": "ветер",
+  "wine": "вино",
+  "with": "с",
+  "within": "в течение",
+  "without": "без",
+  "woken": "разбуженный",
+  "won": "выиграл",
+  "wonder": "интересоваться (I wonder — интересно)",
+  "wooden": "деревянный",
+  "word": "слово",
+  "words": "слова",
+  "work": "работать",
+  "worked": "работал (как устроен)",
+  "would": "бы",
+  "wreckers": "мародёры (грабители разбитых кораблей)",
+  "wren": "Рен (фамилия)",
+  "writing": "писал",
+  "written": "записанный",
+  "wrong": "не тот, неправильный",
+  "wrote": "написал",
+  "years": "лет, годы",
+  "you": "вы, ты",
+  "you're": "ты (есть)",
+  "your": "ваш"
+ },
+ "vocab": {
+  "weak": 348,
+  "weaker": 348,
+  "behind": 109,
+  "here": 1,
+  "impression": 488,
+  "cried": 113,
+  "each": 313,
+  "defeat": 245,
+  "salt": 57,
+  "frustrated": 552,
+  "announced": 524,
+  "pride": 404,
+  "saturday": 219,
+  "added": 359,
+  "spent": 128,
+  "opposite": 421,
+  "think": 65,
+  "thought": 65,
+  "confused": 485,
+  "pencil": 179,
+  "government": 383,
+  "correct": 222,
+  "check": 25,
+  "regard": 545,
+  "practised": 7,
+  "cheap": 652,
+  "brag": 642,
+  "bragged": 642,
+  "simply": 439,
+  "robbed": 608,
+  "earth": 82,
+  "healing": 511,
+  "approved": 612,
+  "sword": 98,
+  "steal": 469,
+  "stolen": 469,
+  "snake": 287,
+  "fork": 598,
+  "accepted": 272,
+  "almost": 324,
+  "appeared": 195,
+  "arrived": 94,
+  "away": 40,
+  "before": 141,
+  "belonged": 244,
+  "belongs": 244,
+  "blame": 445,
+  "blaming": 445,
+  "board": 190,
+  "box": 105,
+  "break": 140,
+  "breaking": 140,
+  "brings": 184,
+  "brought": 184,
+  "called": 286,
+  "carried": 150,
+  "carrying": 150,
+  "chair": 205,
+  "chin": 291,
+  "clothes": 330,
+  "clouds": 122,
+  "coat": 39,
+  "continue": 9,
+  "continued": 9,
+  "crowd": 367,
+  "disappeared": 164,
+  "ears": 248,
+  "even": 114,
+  "everything": 215,
+  "exactly": 191,
+  "exciting": 133,
+  "felt": 120,
+  "fights": 174,
+  "forward": 242,
+  "glasses": 390,
+  "grow": 246,
+  "habit": 473,
+  "heard": 68,
+  "heavy": 389,
+  "held": 175,
+  "inside": 33,
+  "keep": 208,
+  "kept": 208,
+  "lamp": 102,
+  "late": 199,
+  "laughed": 76,
+  "lay": 146,
+  "learn": 15,
+  "learned": 15,
+  "leave": 169,
+  "left": 169,
+  "listen": 83,
+  "loud": 194,
+  "more": 6,
+  "moved": 152,
+  "near": 144,
+  "night": 188,
+  "noticed": 121,
+  "often": 81,
+  "oranges": 107,
+  "order": 269,
+  "ordered": 269,
+  "orders": 269,
+  "pay": 320,
+  "place": 427,
+  "plank": 189,
+  "pocket": 355,
+  "protects": 157,
+  "pushed": 196,
+  "quiet": 75,
+  "quietly": 75,
+  "rewarded": 613,
+  "rocks": 166,
+  "same": 298,
+  "sense": 401,
+  "sent": 261,
+  "ship": 87,
+  "ships": 87,
+  "should": 162,
+  "sides": 168,
+  "sign": 441,
+  "silent": 201,
+  "sky": 187,
+  "sleep": 80,
+  "slept": 80,
+  "soft": 47,
+  "something": 202,
+  "spring": 216,
+  "standing": 193,
+  "stay": 243,
+  "stepped": 138,
+  "still": 151,
+  "stood": 193,
+  "storms": 117,
+  "suddenly": 30,
+  "talking": 135,
+  "tall": 119,
+  "taught": 73,
+  "that": 177,
+  "their": 21,
+  "then": 28,
+  "there": 2,
+  "these": 3,
+  "thin": 296,
+  "things": 8,
+  "through": 238,
+  "tied": 147,
+  "tired": 53,
+  "towards": 210,
+  "trained": 45,
+  "trying": 167,
+  "turn": 23,
+  "turned": 23,
+  "under": 108,
+  "until": 606,
+  "voice": 84,
+  "washed": 77,
+  "which": 582,
+  "whispered": 356,
+  "whole": 232,
+  "wind": 127
+ }
+}

@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did Mr Brascu fire Priya?",
+  "q_ru": "Почему мистер Браску уволил Прию?",
+  "options": [
+   "She was often late for work",
+   "She wanted to open her own restaurant",
+   "She had argued with a critic",
+   "A bad review came out and he needed someone to blame"
+  ],
+  "options_ru": [
+   "Она часто опаздывала на работу",
+   "Она хотела открыть свой ресторан",
+   "Она поспорила с критиком",
+   "Вышла плохая рецензия, и ему нужно было кого-то обвинить"
+  ],
+  "answer": 3,
+  "explain_ru": "Критик написал, что у рыбы «no taste at all», и «Mr Brascu needed someone to blame, so he blamed me». Позже Браску сам признаёт, что просто сорвался на ней."
+ },
+ {
+  "q": "\"His wife had called it his obsession.\" What is an obsession?",
+  "q_ru": "«His wife had called it his obsession». Что такое «obsession»?",
+  "options": [
+   "Something you cannot stop thinking about",
+   "A hobby that makes you happy",
+   "A document you need for work",
+   "A secret you tell nobody"
+  ],
+  "options_ru": [
+   "То, о чём не можешь перестать думать",
+   "Хобби, которое приносит радость",
+   "Документ, нужный для работы",
+   "Секрет, который никому не рассказываешь"
+  ],
+  "answer": 0,
+  "explain_ru": "Obsession — навязчивая идея. Уэнделл 14 лет носил рецензию в кошельке и не мог простить ни критика, ни сына."
+ },
+ {
+  "q": "What did Wendell learn from Kell's phone call?",
+  "q_ru": "Что Уэнделл узнал из телефонного разговора Келла?",
+  "options": [
+   "Kell was moving to another city",
+   "Kell had a cold and could not taste the fish",
+   "Kell's editor wanted to fire him",
+   "Kell had never visited the Copper Gate"
+  ],
+  "options_ru": [
+   "Келл переезжает в другой город",
+   "Келл был простужен и не чувствовал вкуса рыбы",
+   "Редактор хотел уволить Келла",
+   "Келл никогда не был в Copper Gate"
+  ],
+  "answer": 1,
+  "explain_ru": "Келл сказал: «I couldn't taste their fish, and I said it had no taste» — и добавил «never do this again», то есть так уже было раньше."
+ },
+ {
+  "q": "Why did Wendell give the notebook to Kell's daughter?",
+  "q_ru": "Почему Уэнделл отдал блокнот дочери Келла?",
+  "options": [
+   "She offered him a lot of money",
+   "He was afraid of the police",
+   "He learned Kell felt guilty and he understood the worried daughter",
+   "The notebook had nothing important in it"
+  ],
+  "options_ru": [
+   "Она предложила ему много денег",
+   "Он боялся полиции",
+   "Он узнал, что Келл мучается виной, и понял встревоженную дочь",
+   "В блокноте не было ничего важного"
+  ],
+  "answer": 2,
+  "explain_ru": "Дочь рассказала, что отец так и не простил себе закрытия Ash and Salt и хранит их меню в столе. Уэнделл увидел «a tired daughter, worried about a foolish father» и вспомнил о себе."
+ },
+ {
+  "q": "How did Owen understand that the driver had met Priya?",
+  "q_ru": "Как Оуэн понял, что водитель встречался с Прией?",
+  "options": [
+   "Priya had called him from the taxi",
+   "The driver told him her name",
+   "He saw her cardboard box in the car",
+   "He saw her red umbrella on the back seat"
+  ],
+  "options_ru": [
+   "Прия позвонила ему из такси",
+   "Водитель назвал её имя",
+   "Он увидел её картонную коробку в машине",
+   "Он увидел её красный зонт на заднем сиденье"
+  ],
+  "answer": 3,
+  "explain_ru": "«This is Priya's... I gave it to her for her birthday». Прия забыла зонт в такси в начале ночи."
+ },
+ {
+  "q": "What did Wendell finally do with the old review?",
+  "q_ru": "Что Уэнделл в итоге сделал со старой рецензией?",
+  "options": [
+   "He sent it to the newspaper",
+   "He threw it away",
+   "He gave it to Ambrose Kell",
+   "He put it on Owen's wall"
+  ],
+  "options_ru": [
+   "Отправил её в газету",
+   "Выбросил её",
+   "Отдал её Эмброузу Келлу",
+   "Повесил её на стену у Оуэна"
+  ],
+  "answer": 1,
+  "explain_ru": "Келл напечатал извинение, и Уэнделл «for the first time in fourteen years, threw it away»."
+ }
+]

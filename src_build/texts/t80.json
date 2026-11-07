@@ -1,0 +1,1291 @@
+{
+ "id": 80,
+ "level": "B1",
+ "cat": "cons",
+ "title_en": "Wow! The Radio Signal That Never Came Back",
+ "title_ru": "Wow! Радиосигнал, который больше не вернулся",
+ "genre": "Конспирология: загадка",
+ "summary_ru": "В 1977 году огромный радиотелескоп в Огайо 72 секунды принимал мощный сигнал из созвездия Стрельца, и астроном написал на распечатке «Wow!» — но сигнал больше никогда не повторился, и учёные до сих пор спорят, что это было.",
+ "paragraphs": [
+  {
+   "en": "On a summer night in 1977, a huge radio telescope in Ohio was quietly listening to the sky. Nobody was watching it. There was no alarm, no flashing light and no excited scientist shouting in a control room. The telescope simply recorded what it heard, and a computer printed the results as long columns of numbers and letters on paper. A few days later, a volunteer astronomer sat down with a pile of these printouts. At one point he stopped, took a red pen and drew a circle around six characters: 6EQUJ5. Next to them he wrote one word: \"Wow!\"",
+   "ru": "Летней ночью 1977 года огромный радиотелескоп в Огайо тихо слушал небо. Никто за ним не наблюдал. Не было ни сигнала тревоги, ни мигающей лампочки, ни взволнованного учёного, кричащего в пункте управления. Телескоп просто записывал то, что слышал, а компьютер печатал результаты на бумаге длинными столбцами цифр и букв. Через несколько дней астроном-волонтёр сел разбирать стопку этих распечаток. В какой-то момент он остановился, взял красную ручку и обвёл кружком шесть символов: 6EQUJ5. Рядом с ними он написал одно слово: «Wow!» («Ого!»)",
+   "s": [
+    [
+     "On a summer night in 1977, a huge radio telescope in Ohio was quietly listening to the sky.",
+     "Летней ночью 1977 года огромный радиотелескоп в Огайо тихо слушал небо."
+    ],
+    [
+     "Nobody was watching it.",
+     "Никто за ним не наблюдал."
+    ],
+    [
+     "There was no alarm, no flashing light and no excited scientist shouting in a control room.",
+     "Не было ни сигнала тревоги, ни мигающей лампочки, ни взволнованного учёного, кричащего в пункте управления."
+    ],
+    [
+     "The telescope simply recorded what it heard, and a computer printed the results as long columns of numbers and letters on paper.",
+     "Телескоп просто записывал то, что слышал, а компьютер печатал результаты на бумаге длинными столбцами цифр и букв."
+    ],
+    [
+     "A few days later, a volunteer astronomer sat down with a pile of these printouts.",
+     "Через несколько дней астроном-волонтёр сел разбирать стопку этих распечаток."
+    ],
+    [
+     "At one point he stopped, took a red pen and drew a circle around six characters: 6EQUJ5.",
+     "В какой-то момент он остановился, взял красную ручку и обвёл кружком шесть символов: 6EQUJ5."
+    ],
+    [
+     "Next to them he wrote one word: \"Wow!\"",
+     "Рядом с ними он написал одно слово: «Wow!» («Ого!»)"
+    ]
+   ]
+  },
+  {
+   "en": "Almost fifty years later, that word is still the name of one of the most famous puzzles in astronomy. The \"Wow! signal\" lasted only seventy-two seconds, and it has never been detected again. Some people believe it was the first message from an alien civilisation. Most scientists are far more careful. They say that we simply do not know what it was, and that one short signal, which nobody can check, is not enough to convince anyone of anything.",
+   "ru": "Почти пятьдесят лет спустя это слово по-прежнему служит названием одной из самых знаменитых загадок астрономии. «Сигнал Wow!» длился всего семьдесят две секунды, и его больше ни разу не удалось зарегистрировать. Некоторые люди считают, что это было первое послание от инопланетной цивилизации. Большинство учёных гораздо осторожнее. Они говорят, что мы просто не знаем, что это было, и что одного короткого сигнала, который никто не может проверить, недостаточно, чтобы в чём-либо кого-либо убедить.",
+   "s": [
+    [
+     "Almost fifty years later, that word is still the name of one of the most famous puzzles in astronomy.",
+     "Почти пятьдесят лет спустя это слово по-прежнему служит названием одной из самых знаменитых загадок астрономии."
+    ],
+    [
+     "The \"Wow! signal\" lasted only seventy-two seconds, and it has never been detected again.",
+     "«Сигнал Wow!» длился всего семьдесят две секунды, и его больше ни разу не удалось зарегистрировать."
+    ],
+    [
+     "Some people believe it was the first message from an alien civilisation.",
+     "Некоторые люди считают, что это было первое послание от инопланетной цивилизации."
+    ],
+    [
+     "Most scientists are far more careful.",
+     "Большинство учёных гораздо осторожнее."
+    ],
+    [
+     "They say that we simply do not know what it was, and that one short signal, which nobody can check, is not enough to convince anyone of anything.",
+     "Они говорят, что мы просто не знаем, что это было, и что одного короткого сигнала, который никто не может проверить, недостаточно, чтобы в чём-либо кого-либо убедить."
+    ]
+   ]
+  },
+  {
+   "en": "The telescope was called Big Ear. It belonged to Ohio State University and stood near the town of Delaware, Ohio. It did not look like the round dishes that we usually imagine. Instead, it was an enormous flat structure, about the size of three football fields, with a large curved metal reflector at one end. It had been designed by the radio astronomer John Kraus and was completed in the early 1960s.",
+   "ru": "Телескоп назывался «Большое ухо» (Big Ear). Он принадлежал Университету штата Огайо и стоял недалеко от города Делавэр в Огайо. Он не был похож на круглые тарелки, которые мы обычно себе представляем. Вместо этого он представлял собой огромное плоское сооружение размером примерно с три футбольных поля с большим изогнутым металлическим отражателем на одном конце. Его спроектировал радиоастроном Джон Краус, и строительство было завершено в начале 1960-х годов.",
+   "s": [
+    [
+     "The telescope was called Big Ear.",
+     "Телескоп назывался «Большое ухо» (Big Ear)."
+    ],
+    [
+     "It belonged to Ohio State University and stood near the town of Delaware, Ohio.",
+     "Он принадлежал Университету штата Огайо и стоял недалеко от города Делавэр в Огайо."
+    ],
+    [
+     "It did not look like the round dishes that we usually imagine.",
+     "Он не был похож на круглые тарелки, которые мы обычно себе представляем."
+    ],
+    [
+     "Instead, it was an enormous flat structure, about the size of three football fields, with a large curved metal reflector at one end.",
+     "Вместо этого он представлял собой огромное плоское сооружение размером примерно с три футбольных поля с большим изогнутым металлическим отражателем на одном конце."
+    ],
+    [
+     "It had been designed by the radio astronomer John Kraus and was completed in the early 1960s.",
+     "Его спроектировал радиоастроном Джон Краус, и строительство было завершено в начале 1960-х годов."
+    ]
+   ]
+  },
+  {
+   "en": "Big Ear could not move. Instead, it waited for the Earth to turn. As the planet rotated, different parts of the sky passed slowly through the telescope's view. From 1973, the telescope was used for one of the longest searches for extraterrestrial intelligence, known as SETI. The goal was to find a radio signal that could not be explained by nature, a signal that might have been made by someone else.",
+   "ru": "«Большое ухо» не могло двигаться. Вместо этого оно ждало, пока повернётся Земля. По мере вращения планеты разные участки неба медленно проходили через поле зрения телескопа. С 1973 года телескоп использовался для одного из самых долгих поисков внеземного разума, известных как SETI. Цель состояла в том, чтобы найти радиосигнал, который нельзя объяснить природой, — сигнал, который мог быть создан кем-то другим.",
+   "s": [
+    [
+     "Big Ear could not move.",
+     "«Большое ухо» не могло двигаться."
+    ],
+    [
+     "Instead, it waited for the Earth to turn.",
+     "Вместо этого оно ждало, пока повернётся Земля."
+    ],
+    [
+     "As the planet rotated, different parts of the sky passed slowly through the telescope's view.",
+     "По мере вращения планеты разные участки неба медленно проходили через поле зрения телескопа."
+    ],
+    [
+     "From 1973, the telescope was used for one of the longest searches for extraterrestrial intelligence, known as SETI.",
+     "С 1973 года телескоп использовался для одного из самых долгих поисков внеземного разума, известных как SETI."
+    ],
+    [
+     "The goal was to find a radio signal that could not be explained by nature, a signal that might have been made by someone else.",
+     "Цель состояла в том, чтобы найти радиосигнал, который нельзя объяснить природой, — сигнал, который мог быть создан кем-то другим."
+    ]
+   ]
+  },
+  {
+   "en": "Because the telescope was fixed, any single point in space stayed in its view for only about seventy-two seconds. This detail is very important. If a signal really came from a distant object in space, its strength should rise slowly, reach a peak in the middle, and then fall again, all within those seventy-two seconds.",
+   "ru": "Поскольку телескоп был неподвижен, любая точка в космосе оставалась в его поле зрения всего около семидесяти двух секунд. Эта деталь очень важна. Если сигнал действительно шёл от далёкого объекта в космосе, его сила должна была медленно расти, достигать пика посередине, а затем снова падать — и всё это в пределах тех семидесяти двух секунд.",
+   "s": [
+    [
+     "Because the telescope was fixed, any single point in space stayed in its view for only about seventy-two seconds.",
+     "Поскольку телескоп был неподвижен, любая точка в космосе оставалась в его поле зрения всего около семидесяти двух секунд."
+    ],
+    [
+     "This detail is very important.",
+     "Эта деталь очень важна."
+    ],
+    [
+     "If a signal really came from a distant object in space, its strength should rise slowly, reach a peak in the middle, and then fall again, all within those seventy-two seconds.",
+     "Если сигнал действительно шёл от далёкого объекта в космосе, его сила должна была медленно расти, достигать пика посередине, а затем снова падать — и всё это в пределах тех семидесяти двух секунд."
+    ]
+   ]
+  },
+  {
+   "en": "The signal arrived on the night of 15 August 1977, at about 10:16 pm local time. Big Ear was pointed at a part of the sky in the constellation of Sagittarius. The computer measured the strength of radio noise in fifty narrow channels and printed one character every twelve seconds for each channel. The Ohio team used a simple code. A space meant almost nothing, numbers from 1 to 9 showed weak signals, and letters were used for stronger ones. The further a letter was in the alphabet, the stronger the signal was.",
+   "ru": "Сигнал пришёл ночью 15 августа 1977 года, примерно в 22:16 по местному времени. «Большое ухо» было направлено на участок неба в созвездии Стрельца. Компьютер измерял силу радиошума в пятидесяти узких каналах и печатал по одному символу каждые двенадцать секунд для каждого канала. Команда из Огайо использовала простой код. Пробел означал почти ничего, цифры от 1 до 9 обозначали слабые сигналы, а буквы использовались для более сильных. Чем дальше буква стояла в алфавите, тем сильнее был сигнал.",
+   "s": [
+    [
+     "The signal arrived on the night of 15 August 1977, at about 10:16 pm local time.",
+     "Сигнал пришёл ночью 15 августа 1977 года, примерно в 22:16 по местному времени."
+    ],
+    [
+     "Big Ear was pointed at a part of the sky in the constellation of Sagittarius.",
+     "«Большое ухо» было направлено на участок неба в созвездии Стрельца."
+    ],
+    [
+     "The computer measured the strength of radio noise in fifty narrow channels and printed one character every twelve seconds for each channel.",
+     "Компьютер измерял силу радиошума в пятидесяти узких каналах и печатал по одному символу каждые двенадцать секунд для каждого канала."
+    ],
+    [
+     "The Ohio team used a simple code.",
+     "Команда из Огайо использовала простой код."
+    ],
+    [
+     "A space meant almost nothing, numbers from 1 to 9 showed weak signals, and letters were used for stronger ones.",
+     "Пробел означал почти ничего, цифры от 1 до 9 обозначали слабые сигналы, а буквы использовались для более сильных."
+    ],
+    [
+     "The further a letter was in the alphabet, the stronger the signal was.",
+     "Чем дальше буква стояла в алфавите, тем сильнее был сигнал."
+    ]
+   ]
+  },
+  {
+   "en": "Most of the printout was filled with 1s, 2s and spaces, the normal background noise of the universe. But in one channel, the sequence 6EQUJ5 appeared. Read in order, it shows the signal growing stronger, reaching its peak at \"U\", and then fading. A \"U\" meant that the signal was about thirty times stronger than the background noise. For a SETI search, that was an astonishing result. And the shape of the rise and fall matched almost exactly what a source far out in space would produce as it passed through the telescope's view.",
+   "ru": "Большая часть распечатки была заполнена единицами, двойками и пробелами — обычным фоновым шумом Вселенной. Но в одном канале появилась последовательность 6EQUJ5. Если читать её по порядку, она показывает, как сигнал усиливается, достигает пика на букве «U», а затем затухает. Буква «U» означала, что сигнал был примерно в тридцать раз сильнее фонового шума. Для поиска SETI это был поразительный результат. А форма подъёма и спада почти точно совпадала с тем, что дал бы источник далеко в космосе, проходя через поле зрения телескопа.",
+   "s": [
+    [
+     "Most of the printout was filled with 1s, 2s and spaces, the normal background noise of the universe.",
+     "Большая часть распечатки была заполнена единицами, двойками и пробелами — обычным фоновым шумом Вселенной."
+    ],
+    [
+     "But in one channel, the sequence 6EQUJ5 appeared.",
+     "Но в одном канале появилась последовательность 6EQUJ5."
+    ],
+    [
+     "Read in order, it shows the signal growing stronger, reaching its peak at \"U\", and then fading.",
+     "Если читать её по порядку, она показывает, как сигнал усиливается, достигает пика на букве «U», а затем затухает."
+    ],
+    [
+     "A \"U\" meant that the signal was about thirty times stronger than the background noise.",
+     "Буква «U» означала, что сигнал был примерно в тридцать раз сильнее фонового шума."
+    ],
+    [
+     "For a SETI search, that was an astonishing result.",
+     "Для поиска SETI это был поразительный результат."
+    ],
+    [
+     "And the shape of the rise and fall matched almost exactly what a source far out in space would produce as it passed through the telescope's view.",
+     "А форма подъёма и спада почти точно совпадала с тем, что дал бы источник далеко в космосе, проходя через поле зрения телескопа."
+    ]
+   ]
+  },
+  {
+   "en": "The man who noticed it was Jerry Ehman, an astronomer who was helping the project as a volunteer. He found the sequence a few days after the recording, while he was checking the printouts. His famous note, written in red ink, has since appeared in books, documentaries and countless websites.",
+   "ru": "Человеком, который это заметил, был Джерри Эйман — астроном, который помогал проекту как волонтёр. Он нашёл эту последовательность через несколько дней после записи, когда проверял распечатки. Его знаменитая пометка, сделанная красными чернилами, с тех пор появилась в книгах, документальных фильмах и на бесчисленных сайтах.",
+   "s": [
+    [
+     "The man who noticed it was Jerry Ehman, an astronomer who was helping the project as a volunteer.",
+     "Человеком, который это заметил, был Джерри Эйман — астроном, который помогал проекту как волонтёр."
+    ],
+    [
+     "He found the sequence a few days after the recording, while he was checking the printouts.",
+     "Он нашёл эту последовательность через несколько дней после записи, когда проверял распечатки."
+    ],
+    [
+     "His famous note, written in red ink, has since appeared in books, documentaries and countless websites.",
+     "Его знаменитая пометка, сделанная красными чернилами, с тех пор появилась в книгах, документальных фильмах и на бесчисленных сайтах."
+    ]
+   ]
+  },
+  {
+   "en": "Why did the signal excite scientists so much? The answer lies in its frequency. The Wow! signal was recorded very close to 1420 megahertz. This is the natural radio frequency of hydrogen, the most common element in the universe. In 1959, two physicists, Giuseppe Cocconi and Philip Morrison, had suggested that an intelligent civilisation which wanted to be heard might choose a frequency near this one, because every astronomer in the galaxy would know it.",
+   "ru": "Почему этот сигнал так взволновал учёных? Ответ кроется в его частоте. Сигнал Wow! был записан очень близко к частоте 1420 мегагерц. Это естественная радиочастота водорода, самого распространённого элемента во Вселенной. В 1959 году двое физиков, Джузеппе Коккони и Филип Моррисон, предположили, что разумная цивилизация, желающая, чтобы её услышали, может выбрать частоту рядом с этой, потому что её знал бы любой астроном в галактике.",
+   "s": [
+    [
+     "Why did the signal excite scientists so much?",
+     "Почему этот сигнал так взволновал учёных?"
+    ],
+    [
+     "The answer lies in its frequency.",
+     "Ответ кроется в его частоте."
+    ],
+    [
+     "The Wow! signal was recorded very close to 1420 megahertz.",
+     "Сигнал Wow! был записан очень близко к частоте 1420 мегагерц."
+    ],
+    [
+     "This is the natural radio frequency of hydrogen, the most common element in the universe.",
+     "Это естественная радиочастота водорода, самого распространённого элемента во Вселенной."
+    ],
+    [
+     "In 1959, two physicists, Giuseppe Cocconi and Philip Morrison, had suggested that an intelligent civilisation which wanted to be heard might choose a frequency near this one, because every astronomer in the galaxy would know it.",
+     "В 1959 году двое физиков, Джузеппе Коккони и Филип Моррисон, предположили, что разумная цивилизация, желающая, чтобы её услышали, может выбрать частоту рядом с этой, потому что её знал бы любой астроном в галактике."
+    ]
+   ]
+  },
+  {
+   "en": "There was another interesting detail. The signal was very narrow: it appeared in only one of the fifty channels. Natural radio sources in space usually spread their energy across many frequencies, like a wide, soft noise. A narrow, powerful signal looks more like the work of a radio transmitter. Curiously, this was exactly the kind of signal that SETI researchers had hoped to find.",
+   "ru": "Была и ещё одна интересная деталь. Сигнал был очень узким: он появился только в одном из пятидесяти каналов. Естественные радиоисточники в космосе обычно распределяют свою энергию по многим частотам, как широкий мягкий шум. Узкий мощный сигнал больше похож на работу радиопередатчика. Любопытно, что это был именно такой сигнал, который исследователи SETI надеялись найти.",
+   "s": [
+    [
+     "There was another interesting detail.",
+     "Была и ещё одна интересная деталь."
+    ],
+    [
+     "The signal was very narrow: it appeared in only one of the fifty channels.",
+     "Сигнал был очень узким: он появился только в одном из пятидесяти каналов."
+    ],
+    [
+     "Natural radio sources in space usually spread their energy across many frequencies, like a wide, soft noise.",
+     "Естественные радиоисточники в космосе обычно распределяют свою энергию по многим частотам, как широкий мягкий шум."
+    ],
+    [
+     "A narrow, powerful signal looks more like the work of a radio transmitter.",
+     "Узкий мощный сигнал больше похож на работу радиопередатчика."
+    ],
+    [
+     "Curiously, this was exactly the kind of signal that SETI researchers had hoped to find.",
+     "Любопытно, что это был именно такой сигнал, который исследователи SETI надеялись найти."
+    ]
+   ]
+  },
+  {
+   "en": "But there was also a problem. Big Ear had two \"horns\", two receivers that looked at the same point in the sky one after the other, about three minutes apart. A steady source in space should have been seen by both. The Wow! signal was recorded by only one of them. Either the signal had switched off within those three minutes, or something else was going on. Because of the way the data were recorded, nobody could even be completely sure which horn had picked it up.",
+   "ru": "Но была и проблема. У «Большого уха» было два «рупора» — два приёмника, которые смотрели на одну и ту же точку неба один за другим, с разницей примерно в три минуты. Постоянный источник в космосе должен был быть замечен обоими. Сигнал Wow! был записан только одним из них. Либо сигнал выключился в течение этих трёх минут, либо происходило что-то другое. Из-за того, как записывались данные, никто не мог даже быть полностью уверен, какой рупор его поймал.",
+   "s": [
+    [
+     "But there was also a problem.",
+     "Но была и проблема."
+    ],
+    [
+     "Big Ear had two \"horns\", two receivers that looked at the same point in the sky one after the other, about three minutes apart.",
+     "У «Большого уха» было два «рупора» — два приёмника, которые смотрели на одну и ту же точку неба один за другим, с разницей примерно в три минуты."
+    ],
+    [
+     "A steady source in space should have been seen by both.",
+     "Постоянный источник в космосе должен был быть замечен обоими."
+    ],
+    [
+     "The Wow! signal was recorded by only one of them.",
+     "Сигнал Wow! был записан только одним из них."
+    ],
+    [
+     "Either the signal had switched off within those three minutes, or something else was going on.",
+     "Либо сигнал выключился в течение этих трёх минут, либо происходило что-то другое."
+    ],
+    [
+     "Because of the way the data were recorded, nobody could even be completely sure which horn had picked it up.",
+     "Из-за того, как записывались данные, никто не мог даже быть полностью уверен, какой рупор его поймал."
+    ]
+   ]
+  },
+  {
+   "en": "The biggest problem, however, was that the signal never returned. Ehman and his colleagues pointed Big Ear at the same part of the sky again and again in the weeks and months that followed. They found nothing. A signal that cannot be repeated is very difficult to study, and in science, a result that cannot be checked is not a valid discovery.",
+   "ru": "Однако самой большой проблемой было то, что сигнал так и не вернулся. Эйман и его коллеги снова и снова направляли «Большое ухо» на тот же участок неба в последующие недели и месяцы. Они ничего не нашли. Сигнал, который нельзя повторить, очень трудно изучать, а в науке результат, который нельзя проверить, не является действительным открытием.",
+   "s": [
+    [
+     "The biggest problem, however, was that the signal never returned.",
+     "Однако самой большой проблемой было то, что сигнал так и не вернулся."
+    ],
+    [
+     "Ehman and his colleagues pointed Big Ear at the same part of the sky again and again in the weeks and months that followed.",
+     "Эйман и его коллеги снова и снова направляли «Большое ухо» на тот же участок неба в последующие недели и месяцы."
+    ],
+    [
+     "They found nothing.",
+     "Они ничего не нашли."
+    ],
+    [
+     "A signal that cannot be repeated is very difficult to study, and in science, a result that cannot be checked is not a valid discovery.",
+     "Сигнал, который нельзя повторить, очень трудно изучать, а в науке результат, который нельзя проверить, не является действительным открытием."
+    ]
+   ]
+  },
+  {
+   "en": "Others also tried. In the 1990s, an American researcher named Robert Gray, who had become fascinated by the signal, searched the same area with the Very Large Array, a group of large radio telescopes in New Mexico. Later he used a radio telescope in Tasmania, in Australia. These instruments were far more sensitive than Big Ear. Again, they found nothing unusual.",
+   "ru": "Пытались и другие. В 1990-х годах американский исследователь Роберт Грей, увлёкшийся этим сигналом, искал в той же области с помощью Very Large Array — группы больших радиотелескопов в Нью-Мексико. Позже он использовал радиотелескоп на Тасмании, в Австралии. Эти инструменты были гораздо чувствительнее «Большого уха». И снова они не нашли ничего необычного.",
+   "s": [
+    [
+     "Others also tried.",
+     "Пытались и другие."
+    ],
+    [
+     "In the 1990s, an American researcher named Robert Gray, who had become fascinated by the signal, searched the same area with the Very Large Array, a group of large radio telescopes in New Mexico.",
+     "В 1990-х годах американский исследователь Роберт Грей, увлёкшийся этим сигналом, искал в той же области с помощью Very Large Array — группы больших радиотелескопов в Нью-Мексико."
+    ],
+    [
+     "Later he used a radio telescope in Tasmania, in Australia.",
+     "Позже он использовал радиотелескоп на Тасмании, в Австралии."
+    ],
+    [
+     "These instruments were far more sensitive than Big Ear.",
+     "Эти инструменты были гораздо чувствительнее «Большого уха»."
+    ],
+    [
+     "Again, they found nothing unusual.",
+     "И снова они не нашли ничего необычного."
+    ]
+   ]
+  },
+  {
+   "en": "So what could the Wow! signal have been? Over the years, many explanations have been suggested. The first ones were the simplest: perhaps the signal came from Earth. A radio transmitter, a plane or a satellite might have produced a strong, narrow signal that was picked up by mistake.",
+   "ru": "Так чем же мог быть сигнал Wow!? За эти годы было предложено много объяснений. Первые были самыми простыми: возможно, сигнал пришёл с Земли. Радиопередатчик, самолёт или спутник могли создать сильный узкий сигнал, который был пойман по ошибке.",
+   "s": [
+    [
+     "So what could the Wow! signal have been?",
+     "Так чем же мог быть сигнал Wow!?"
+    ],
+    [
+     "Over the years, many explanations have been suggested.",
+     "За эти годы было предложено много объяснений."
+    ],
+    [
+     "The first ones were the simplest: perhaps the signal came from Earth.",
+     "Первые были самыми простыми: возможно, сигнал пришёл с Земли."
+    ],
+    [
+     "A radio transmitter, a plane or a satellite might have produced a strong, narrow signal that was picked up by mistake.",
+     "Радиопередатчик, самолёт или спутник могли создать сильный узкий сигнал, который был пойман по ошибке."
+    ]
+   ]
+  },
+  {
+   "en": "Ehman himself considered this possibility. At one point he thought that the signal might have come from Earth and been reflected back by a piece of space rubbish. But this idea had serious weaknesses. The frequencies around 1420 megahertz are protected by international agreement: radio stations are not allowed to transmit there, precisely because astronomers need them. In addition, a signal from a plane or a satellite would probably not have risen and fallen in the exact pattern of a source fixed among the stars. No satellite or plane that could explain the signal has ever been identified.",
+   "ru": "Сам Эйман рассматривал такую возможность. Одно время он думал, что сигнал мог прийти с Земли и отразиться обратно от куска космического мусора. Но у этой идеи были серьёзные слабые места. Частоты около 1420 мегагерц защищены международным соглашением: радиостанциям запрещено вести на них передачи именно потому, что они нужны астрономам. Кроме того, сигнал от самолёта или спутника, вероятно, не стал бы расти и падать точно так же, как сигнал от источника, неподвижного среди звёзд. Ни один спутник или самолёт, который мог бы объяснить сигнал, так и не был найден.",
+   "s": [
+    [
+     "Ehman himself considered this possibility.",
+     "Сам Эйман рассматривал такую возможность."
+    ],
+    [
+     "At one point he thought that the signal might have come from Earth and been reflected back by a piece of space rubbish.",
+     "Одно время он думал, что сигнал мог прийти с Земли и отразиться обратно от куска космического мусора."
+    ],
+    [
+     "But this idea had serious weaknesses.",
+     "Но у этой идеи были серьёзные слабые места."
+    ],
+    [
+     "The frequencies around 1420 megahertz are protected by international agreement: radio stations are not allowed to transmit there, precisely because astronomers need them.",
+     "Частоты около 1420 мегагерц защищены международным соглашением: радиостанциям запрещено вести на них передачи именно потому, что они нужны астрономам."
+    ],
+    [
+     "In addition, a signal from a plane or a satellite would probably not have risen and fallen in the exact pattern of a source fixed among the stars.",
+     "Кроме того, сигнал от самолёта или спутника, вероятно, не стал бы расти и падать точно так же, как сигнал от источника, неподвижного среди звёзд."
+    ],
+    [
+     "No satellite or plane that could explain the signal has ever been identified.",
+     "Ни один спутник или самолёт, который мог бы объяснить сигнал, так и не был найден."
+    ]
+   ]
+  },
+  {
+   "en": "A second explanation was that Big Ear had heard a real alien transmitter. Supporters of this idea point out that a civilisation might send a narrow beam, like the light from a lighthouse, which moves across space. If the Earth was in the beam for only a short time, we would hear it once and never again. This may be possible, but there is no evidence for it. Nobody has ever found a repeat, a message or any pattern inside the signal. There were only six characters on a piece of paper.",
+   "ru": "Второе объяснение состояло в том, что «Большое ухо» услышало настоящий инопланетный передатчик. Сторонники этой идеи указывают, что цивилизация могла бы посылать узкий луч, как свет маяка, который движется по космосу. Если бы Земля находилась в луче лишь короткое время, мы услышали бы его один раз и больше никогда. Это, может быть, и возможно, но доказательств этому нет. Никто так и не нашёл ни повторения, ни послания, ни какой-либо закономерности внутри сигнала. Было лишь шесть символов на листке бумаги.",
+   "s": [
+    [
+     "A second explanation was that Big Ear had heard a real alien transmitter.",
+     "Второе объяснение состояло в том, что «Большое ухо» услышало настоящий инопланетный передатчик."
+    ],
+    [
+     "Supporters of this idea point out that a civilisation might send a narrow beam, like the light from a lighthouse, which moves across space.",
+     "Сторонники этой идеи указывают, что цивилизация могла бы посылать узкий луч, как свет маяка, который движется по космосу."
+    ],
+    [
+     "If the Earth was in the beam for only a short time, we would hear it once and never again.",
+     "Если бы Земля находилась в луче лишь короткое время, мы услышали бы его один раз и больше никогда."
+    ],
+    [
+     "This may be possible, but there is no evidence for it.",
+     "Это, может быть, и возможно, но доказательств этому нет."
+    ],
+    [
+     "Nobody has ever found a repeat, a message or any pattern inside the signal.",
+     "Никто так и не нашёл ни повторения, ни послания, ни какой-либо закономерности внутри сигнала."
+    ],
+    [
+     "There were only six characters on a piece of paper.",
+     "Было лишь шесть символов на листке бумаги."
+    ]
+   ]
+  },
+  {
+   "en": "Then, in 2016 and 2017, a new theory appeared in the news. Antonio Paris, an astronomy teacher at a college in Florida, suggested that the signal had come from comets. He said that two comets had been in that part of the sky in 1977, although they were not discovered until 2006 and 2008. Comets are surrounded by clouds of gas, including hydrogen, so perhaps one of them had produced the signal.",
+   "ru": "Затем, в 2016 и 2017 годах, в новостях появилась новая теория. Антонио Пэрис, преподаватель астрономии в колледже во Флориде, предположил, что сигнал пришёл от комет. Он сказал, что в 1977 году в этой части неба находились две кометы, хотя их открыли только в 2006 и 2008 годах. Кометы окружены облаками газа, в том числе водорода, так что, возможно, одна из них и создала сигнал.",
+   "s": [
+    [
+     "Then, in 2016 and 2017, a new theory appeared in the news.",
+     "Затем, в 2016 и 2017 годах, в новостях появилась новая теория."
+    ],
+    [
+     "Antonio Paris, an astronomy teacher at a college in Florida, suggested that the signal had come from comets.",
+     "Антонио Пэрис, преподаватель астрономии в колледже во Флориде, предположил, что сигнал пришёл от комет."
+    ],
+    [
+     "He said that two comets had been in that part of the sky in 1977, although they were not discovered until 2006 and 2008.",
+     "Он сказал, что в 1977 году в этой части неба находились две кометы, хотя их открыли только в 2006 и 2008 годах."
+    ],
+    [
+     "Comets are surrounded by clouds of gas, including hydrogen, so perhaps one of them had produced the signal.",
+     "Кометы окружены облаками газа, в том числе водорода, так что, возможно, одна из них и создала сигнал."
+    ]
+   ]
+  },
+  {
+   "en": "Paris's idea received a lot of attention, and for a while some newspapers wrote that the mystery had been solved. But many astronomers showed strong resistance to it. They argued that comets do not produce nearly enough radio energy at that frequency to create such a powerful signal. They also pointed out that a comet would probably have been seen by both of Big Ear's horns, not only one, and some questioned whether the comets had been in the right position at all. Today, most experts do not find the comet theory convincing.",
+   "ru": "Идея Пэриса привлекла много внимания, и некоторое время некоторые газеты писали, что загадка разгадана. Но многие астрономы встретили её сильным сопротивлением. Они утверждали, что кометы излучают на этой частоте далеко не достаточно радиоэнергии, чтобы создать такой мощный сигнал. Они также указали, что комету, вероятно, заметили бы оба рупора «Большого уха», а не только один, а некоторые сомневались, находились ли кометы вообще в нужном месте. Сегодня большинство специалистов не считают теорию комет убедительной.",
+   "s": [
+    [
+     "Paris's idea received a lot of attention, and for a while some newspapers wrote that the mystery had been solved.",
+     "Идея Пэриса привлекла много внимания, и некоторое время некоторые газеты писали, что загадка разгадана."
+    ],
+    [
+     "But many astronomers showed strong resistance to it.",
+     "Но многие астрономы встретили её сильным сопротивлением."
+    ],
+    [
+     "They argued that comets do not produce nearly enough radio energy at that frequency to create such a powerful signal.",
+     "Они утверждали, что кометы излучают на этой частоте далеко не достаточно радиоэнергии, чтобы создать такой мощный сигнал."
+    ],
+    [
+     "They also pointed out that a comet would probably have been seen by both of Big Ear's horns, not only one, and some questioned whether the comets had been in the right position at all.",
+     "Они также указали, что комету, вероятно, заметили бы оба рупора «Большого уха», а не только один, а некоторые сомневались, находились ли кометы вообще в нужном месте."
+    ],
+    [
+     "Today, most experts do not find the comet theory convincing.",
+     "Сегодня большинство специалистов не считают теорию комет убедительной."
+    ]
+   ]
+  },
+  {
+   "en": "In 2020, an amateur astronomer studied a modern star catalogue and pointed to a Sun-like star in the area where the signal had been seen, as a possible target for future searches. It was an interesting idea, but finding a star in the right place does not prove that anyone lives near it. That part of the sky contains a great many stars.",
+   "ru": "В 2020 году астроном-любитель изучил современный звёздный каталог и указал на похожую на Солнце звезду в той области, где был замечен сигнал, как на возможную цель для будущих поисков. Это была интересная мысль, но то, что звезда находится в нужном месте, не доказывает, что рядом с ней кто-то живёт. В этой части неба очень много звёзд.",
+   "s": [
+    [
+     "In 2020, an amateur astronomer studied a modern star catalogue and pointed to a Sun-like star in the area where the signal had been seen, as a possible target for future searches.",
+     "В 2020 году астроном-любитель изучил современный звёздный каталог и указал на похожую на Солнце звезду в той области, где был замечен сигнал, как на возможную цель для будущих поисков."
+    ],
+    [
+     "It was an interesting idea, but finding a star in the right place does not prove that anyone lives near it.",
+     "Это была интересная мысль, но то, что звезда находится в нужном месте, не доказывает, что рядом с ней кто-то живёт."
+    ],
+    [
+     "That part of the sky contains a great many stars.",
+     "В этой части неба очень много звёзд."
+    ]
+   ]
+  },
+  {
+   "en": "The newest and perhaps most serious explanation appeared in 2024. A team led by the astronomer Abel Mendez, from the University of Puerto Rico at Arecibo, studied old data from the famous Arecibo radio telescope, which had collapsed in 2020. The team noticed that clouds of cold hydrogen in space sometimes produced narrow signals that looked a little like the Wow! signal, although they were much weaker.",
+   "ru": "Самое новое и, возможно, самое серьёзное объяснение появилось в 2024 году. Группа под руководством астронома Абеля Мендеса из Университета Пуэрто-Рико в Аресибо изучила старые данные знаменитого радиотелескопа Аресибо, который обрушился в 2020 году. Группа заметила, что облака холодного водорода в космосе иногда давали узкие сигналы, немного похожие на сигнал Wow!, хотя и гораздо более слабые.",
+   "s": [
+    [
+     "The newest and perhaps most serious explanation appeared in 2024.",
+     "Самое новое и, возможно, самое серьёзное объяснение появилось в 2024 году."
+    ],
+    [
+     "A team led by the astronomer Abel Mendez, from the University of Puerto Rico at Arecibo, studied old data from the famous Arecibo radio telescope, which had collapsed in 2020.",
+     "Группа под руководством астронома Абеля Мендеса из Университета Пуэрто-Рико в Аресибо изучила старые данные знаменитого радиотелескопа Аресибо, который обрушился в 2020 году."
+    ],
+    [
+     "The team noticed that clouds of cold hydrogen in space sometimes produced narrow signals that looked a little like the Wow! signal, although they were much weaker.",
+     "Группа заметила, что облака холодного водорода в космосе иногда давали узкие сигналы, немного похожие на сигнал Wow!, хотя и гораздо более слабые."
+    ]
+   ]
+  },
+  {
+   "en": "Their idea is that the Wow! signal was a rare natural event. They suggest that a cold, thin cloud of hydrogen was suddenly hit by a powerful burst of radiation from a bright object, such as a magnetar, the very dense remains of a dead star with an extremely strong magnetic field. For a short time, the cloud could have become much brighter at exactly the hydrogen frequency, a little like a laser, but with radio waves. That would explain both the frequency and the narrowness of the signal. It would also explain why it never returned, because such events would be short and rare.",
+   "ru": "Их идея состоит в том, что сигнал Wow! был редким природным явлением. Они предполагают, что холодное разреженное облако водорода внезапно было поражено мощной вспышкой излучения от яркого объекта, например магнетара — очень плотного остатка мёртвой звезды с чрезвычайно сильным магнитным полем. На короткое время облако могло стать гораздо ярче точно на частоте водорода — немного похоже на лазер, но с радиоволнами. Это объяснило бы и частоту, и узость сигнала. Это также объяснило бы, почему он так и не вернулся: такие явления были бы короткими и редкими.",
+   "s": [
+    [
+     "Their idea is that the Wow! signal was a rare natural event.",
+     "Их идея состоит в том, что сигнал Wow! был редким природным явлением."
+    ],
+    [
+     "They suggest that a cold, thin cloud of hydrogen was suddenly hit by a powerful burst of radiation from a bright object, such as a magnetar, the very dense remains of a dead star with an extremely strong magnetic field.",
+     "Они предполагают, что холодное разреженное облако водорода внезапно было поражено мощной вспышкой излучения от яркого объекта, например магнетара — очень плотного остатка мёртвой звезды с чрезвычайно сильным магнитным полем."
+    ],
+    [
+     "For a short time, the cloud could have become much brighter at exactly the hydrogen frequency, a little like a laser, but with radio waves.",
+     "На короткое время облако могло стать гораздо ярче точно на частоте водорода — немного похоже на лазер, но с радиоволнами."
+    ],
+    [
+     "That would explain both the frequency and the narrowness of the signal.",
+     "Это объяснило бы и частоту, и узость сигнала."
+    ],
+    [
+     "It would also explain why it never returned, because such events would be short and rare.",
+     "Это также объяснило бы, почему он так и не вернулся: такие явления были бы короткими и редкими."
+    ]
+   ]
+  },
+  {
+   "en": "The researchers first shared their work as a preprint, a scientific paper that has not yet been checked by other experts. In 2025, they also presented a new analysis of Big Ear's old records. This analysis suggested that the signal had been even stronger than earlier estimates, and that it was very unlikely to have been interference from Earth. However, Mendez and his colleagues themselves said that their results did not solve the mystery. Their explanation is a hypothesis, which still needs to be tested by observing a similar event.",
+   "ru": "Сначала исследователи опубликовали свою работу в виде препринта — научной статьи, которую ещё не проверили другие специалисты. В 2025 году они также представили новый анализ старых записей «Большого уха». Этот анализ показал, что сигнал был даже сильнее, чем по прежним оценкам, и что он вряд ли был помехой с Земли. Однако сами Мендес и его коллеги сказали, что их результаты не разгадывают загадку. Их объяснение — это гипотеза, которую ещё нужно проверить, пронаблюдав похожее явление.",
+   "s": [
+    [
+     "The researchers first shared their work as a preprint, a scientific paper that has not yet been checked by other experts.",
+     "Сначала исследователи опубликовали свою работу в виде препринта — научной статьи, которую ещё не проверили другие специалисты."
+    ],
+    [
+     "In 2025, they also presented a new analysis of Big Ear's old records.",
+     "В 2025 году они также представили новый анализ старых записей «Большого уха»."
+    ],
+    [
+     "This analysis suggested that the signal had been even stronger than earlier estimates, and that it was very unlikely to have been interference from Earth.",
+     "Этот анализ показал, что сигнал был даже сильнее, чем по прежним оценкам, и что он вряд ли был помехой с Земли."
+    ],
+    [
+     "However, Mendez and his colleagues themselves said that their results did not solve the mystery.",
+     "Однако сами Мендес и его коллеги сказали, что их результаты не разгадывают загадку."
+    ],
+    [
+     "Their explanation is a hypothesis, which still needs to be tested by observing a similar event.",
+     "Их объяснение — это гипотеза, которую ещё нужно проверить, пронаблюдав похожее явление."
+    ]
+   ]
+  },
+  {
+   "en": "The hydrogen cloud idea has one big advantage over many earlier theories: it can be tested. If it is correct, telescopes should one day catch another sudden flash from a hydrogen cloud. If such a flash is seen, the Wow! signal may finally get its explanation. If not, the question will remain open.",
+   "ru": "У идеи с водородным облаком есть одно большое преимущество перед многими прежними теориями: её можно проверить. Если она верна, телескопы однажды должны поймать ещё одну внезапную вспышку от водородного облака. Если такую вспышку увидят, сигнал Wow!, возможно, наконец получит своё объяснение. Если нет, вопрос останется открытым.",
+   "s": [
+    [
+     "The hydrogen cloud idea has one big advantage over many earlier theories: it can be tested.",
+     "У идеи с водородным облаком есть одно большое преимущество перед многими прежними теориями: её можно проверить."
+    ],
+    [
+     "If it is correct, telescopes should one day catch another sudden flash from a hydrogen cloud.",
+     "Если она верна, телескопы однажды должны поймать ещё одну внезапную вспышку от водородного облака."
+    ],
+    [
+     "If such a flash is seen, the Wow! signal may finally get its explanation.",
+     "Если такую вспышку увидят, сигнал Wow!, возможно, наконец получит своё объяснение."
+    ],
+    [
+     "If not, the question will remain open.",
+     "Если нет, вопрос останется открытым."
+    ]
+   ]
+  },
+  {
+   "en": "Big Ear itself no longer exists. The Ohio search had ended a few years earlier, and in 1998 the telescope was taken down to make room for a golf course. The paper with Ehman's red note, however, has survived, and so has the question that it asks.",
+   "ru": "Самого «Большого уха» больше не существует. Поиски в Огайо закончились за несколько лет до этого, а в 1998 году телескоп разобрали, чтобы освободить место для поля для гольфа. Однако бумага с красной пометкой Эймана сохранилась, как и вопрос, который она задаёт.",
+   "s": [
+    [
+     "Big Ear itself no longer exists.",
+     "Самого «Большого уха» больше не существует."
+    ],
+    [
+     "The Ohio search had ended a few years earlier, and in 1998 the telescope was taken down to make room for a golf course.",
+     "Поиски в Огайо закончились за несколько лет до этого, а в 1998 году телескоп разобрали, чтобы освободить место для поля для гольфа."
+    ],
+    [
+     "The paper with Ehman's red note, however, has survived, and so has the question that it asks.",
+     "Однако бумага с красной пометкой Эймана сохранилась, как и вопрос, который она задаёт."
+    ]
+   ]
+  },
+  {
+   "en": "So what do we really know? We know that on 15 August 1977, a powerful, narrow radio signal near the hydrogen frequency was recorded for about seventy-two seconds from the direction of Sagittarius. We know that it was never seen again, even though many searches were carried out with better telescopes. And we know that no explanation, whether aliens, comets, satellites or hydrogen clouds, has been proven.",
+   "ru": "Так что же мы знаем на самом деле? Мы знаем, что 15 августа 1977 года мощный узкий радиосигнал около частоты водорода был записан примерно в течение семидесяти двух секунд со стороны Стрельца. Мы знаем, что его больше никогда не видели, хотя было проведено много поисков с помощью лучших телескопов. И мы знаем, что ни одно объяснение — ни инопланетяне, ни кометы, ни спутники, ни водородные облака — не доказано.",
+   "s": [
+    [
+     "So what do we really know?",
+     "Так что же мы знаем на самом деле?"
+    ],
+    [
+     "We know that on 15 August 1977, a powerful, narrow radio signal near the hydrogen frequency was recorded for about seventy-two seconds from the direction of Sagittarius.",
+     "Мы знаем, что 15 августа 1977 года мощный узкий радиосигнал около частоты водорода был записан примерно в течение семидесяти двух секунд со стороны Стрельца."
+    ],
+    [
+     "We know that it was never seen again, even though many searches were carried out with better telescopes.",
+     "Мы знаем, что его больше никогда не видели, хотя было проведено много поисков с помощью лучших телескопов."
+    ],
+    [
+     "And we know that no explanation, whether aliens, comets, satellites or hydrogen clouds, has been proven.",
+     "И мы знаем, что ни одно объяснение — ни инопланетяне, ни кометы, ни спутники, ни водородные облака — не доказано."
+    ]
+   ]
+  },
+  {
+   "en": "That is why the Wow! signal keeps its power over our imagination. It is not proof of alien life. It is a reminder of how little a single observation can tell us, and of how much patience science needs. Somewhere among the stars of Sagittarius, or far beyond them, something produced a signal that a machine in Ohio heard once. Nobody knows what it was, and perhaps nobody ever will. But astronomers are still listening.",
+   "ru": "Вот почему сигнал Wow! сохраняет свою власть над нашим воображением. Это не доказательство инопланетной жизни. Это напоминание о том, как мало может сказать нам единичное наблюдение, и о том, сколько терпения нужно науке. Где-то среди звёзд Стрельца или далеко за ними что-то создало сигнал, который машина в Огайо услышала один раз. Никто не знает, что это было, и, возможно, никто никогда не узнает. Но астрономы всё ещё слушают.",
+   "s": [
+    [
+     "That is why the Wow! signal keeps its power over our imagination.",
+     "Вот почему сигнал Wow! сохраняет свою власть над нашим воображением."
+    ],
+    [
+     "It is not proof of alien life.",
+     "Это не доказательство инопланетной жизни."
+    ],
+    [
+     "It is a reminder of how little a single observation can tell us, and of how much patience science needs.",
+     "Это напоминание о том, как мало может сказать нам единичное наблюдение, и о том, сколько терпения нужно науке."
+    ],
+    [
+     "Somewhere among the stars of Sagittarius, or far beyond them, something produced a signal that a machine in Ohio heard once.",
+     "Где-то среди звёзд Стрельца или далеко за ними что-то создало сигнал, который машина в Огайо услышала один раз."
+    ],
+    [
+     "Nobody knows what it was, and perhaps nobody ever will.",
+     "Никто не знает, что это было, и, возможно, никто никогда не узнает."
+    ],
+    [
+     "But astronomers are still listening.",
+     "Но астрономы всё ещё слушают."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "abel": "Абель (имя)",
+  "about": "о, об",
+  "across": "через, по",
+  "addition": "(in addition) кроме того",
+  "advantage": "преимущество",
+  "after": "после",
+  "again": "снова",
+  "agreement": "соглашение",
+  "alarm": "сигнал тревоги",
+  "alien": "инопланетный",
+  "aliens": "инопланетяне",
+  "all": "всё; (at all) вообще",
+  "allowed": "разрешено",
+  "almost": "почти",
+  "alphabet": "алфавит",
+  "also": "также",
+  "although": "хотя",
+  "amateur": "любитель",
+  "american": "американский",
+  "among": "среди",
+  "an": "(неопр. артикль)",
+  "analysis": "анализ",
+  "and": "и",
+  "another": "ещё один",
+  "answer": "ответ",
+  "antonio": "Антонио (имя)",
+  "any": "любой, какой-либо",
+  "anyone": "кого-либо, кто-либо",
+  "anything": "что-либо",
+  "apart": "(three minutes apart) с разницей в",
+  "appeared": "появился, появилась",
+  "are": "(есть) являются",
+  "area": "область, район",
+  "arecibo": "Аресибо (место в Пуэрто-Рико)",
+  "argued": "утверждали",
+  "around": "вокруг, по",
+  "array": "(Very Large Array) группа, решётка",
+  "arrived": "пришёл, поступил",
+  "as": "как; по мере того как",
+  "asks": "задаёт",
+  "astonishing": "поразительный",
+  "astronomer": "астроном",
+  "astronomers": "астрономы",
+  "astronomy": "астрономия",
+  "at": "в, у, на",
+  "attention": "внимание",
+  "august": "август",
+  "australia": "Австралия",
+  "back": "обратно",
+  "background": "фоновый",
+  "be": "быть",
+  "beam": "луч",
+  "because": "потому что",
+  "become": "стал, стать",
+  "been": "был(о)",
+  "believe": "считают",
+  "belonged": "принадлежал",
+  "better": "лучше",
+  "beyond": "за, дальше",
+  "big": "большой",
+  "biggest": "самый большой",
+  "books": "книги",
+  "both": "оба",
+  "bright": "яркий",
+  "brighter": "ярче",
+  "burst": "вспышка",
+  "but": "но",
+  "by": "(пассив) кем; к",
+  "called": "назывался",
+  "came": "пришёл",
+  "can": "может, можно",
+  "cannot": "нельзя, не может",
+  "careful": "осторожный",
+  "carried": "(carried out) проведены",
+  "catalogue": "каталог",
+  "catch": "поймать",
+  "channel": "канал",
+  "channels": "каналы",
+  "character": "символ",
+  "characters": "символы",
+  "check": "проверить",
+  "checked": "проверен",
+  "checking": "проверял",
+  "choose": "выбирать",
+  "circle": "круг (drew a circle — обвёл)",
+  "civilisation": "цивилизация",
+  "close": "близко",
+  "cloud": "облако",
+  "clouds": "облака",
+  "cocconi": "Коккони (фамилия)",
+  "code": "код",
+  "cold": "холодный",
+  "collapsed": "обрушился",
+  "colleagues": "коллеги",
+  "college": "колледж",
+  "columns": "столбцы",
+  "come": "прийти",
+  "comet": "комета",
+  "comets": "кометы",
+  "common": "распространённый",
+  "completed": "завершён",
+  "completely": "полностью",
+  "computer": "компьютер",
+  "considered": "рассматривал",
+  "constellation": "созвездие",
+  "contains": "содержит",
+  "control": "(control room) пункт управления",
+  "convince": "убедить",
+  "convincing": "убедительный",
+  "correct": "верный",
+  "could": "мог(ла)",
+  "countless": "бесчисленный",
+  "course": "(golf course) поле",
+  "create": "создать",
+  "curiously": "любопытно",
+  "curved": "изогнутый",
+  "data": "данные",
+  "day": "день",
+  "days": "дни",
+  "dead": "мёртвый",
+  "delaware": "Делавэр (город)",
+  "dense": "плотный",
+  "designed": "спроектирован",
+  "detail": "деталь",
+  "detected": "зарегистрирован",
+  "did": "(вспом. гл.)",
+  "different": "разные",
+  "difficult": "трудный",
+  "direction": "направление, сторона",
+  "discovered": "открыты",
+  "discovery": "открытие",
+  "dishes": "тарелки (антенны)",
+  "distant": "далёкий",
+  "do": "(вспом. гл.)",
+  "documentaries": "документальные фильмы",
+  "does": "(вспом. гл.)",
+  "down": "(taken down) разобран",
+  "drew": "нарисовал (обвёл)",
+  "each": "каждый",
+  "ear": "ухо",
+  "ear's": "«Уха» (Большого уха)",
+  "earlier": "прежний, раньше",
+  "early": "начало (early 1960s)",
+  "earth": "Земля",
+  "ehman": "Эйман (фамилия)",
+  "ehman's": "Эймана",
+  "either": "(either...or) либо",
+  "element": "элемент",
+  "else": "ещё, другой",
+  "end": "конец",
+  "ended": "закончились",
+  "energy": "энергия",
+  "enormous": "огромный",
+  "enough": "достаточно",
+  "equj": "(часть кода 6EQUJ5)",
+  "estimates": "оценки",
+  "even": "даже",
+  "event": "явление, событие",
+  "events": "явления",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "evidence": "доказательства",
+  "exact": "точный",
+  "exactly": "точно",
+  "excite": "взволновать",
+  "excited": "взволнованный",
+  "exists": "существует",
+  "experts": "специалисты",
+  "explain": "объяснять",
+  "explained": "объяснён",
+  "explanation": "объяснение",
+  "explanations": "объяснения",
+  "extraterrestrial": "внеземной",
+  "extremely": "чрезвычайно",
+  "fading": "затухая",
+  "fall": "падать; спад",
+  "fallen": "(risen and fallen) упал",
+  "famous": "знаменитый",
+  "far": "далеко; гораздо",
+  "fascinated": "увлечённый",
+  "few": "несколько",
+  "field": "поле",
+  "fields": "поля",
+  "fifty": "пятьдесят",
+  "filled": "заполнен",
+  "finally": "наконец",
+  "find": "найти; считать (find convincing)",
+  "finding": "нахождение (то, что нашли)",
+  "first": "первый; сначала",
+  "fixed": "неподвижный",
+  "flash": "вспышка",
+  "flashing": "мигающий",
+  "flat": "плоский",
+  "florida": "Флорида",
+  "followed": "последовали (that followed — последующие)",
+  "football": "футбольный",
+  "for": "в течение; для",
+  "found": "нашёл, нашли",
+  "frequencies": "частоты",
+  "frequency": "частота",
+  "from": "из, от",
+  "further": "дальше",
+  "future": "будущий",
+  "galaxy": "галактика",
+  "gas": "газ",
+  "get": "получить",
+  "giuseppe": "Джузеппе (имя)",
+  "goal": "цель",
+  "going": "(going on) происходить",
+  "golf": "гольф",
+  "gray": "Грей (фамилия)",
+  "great": "(a great many) очень много",
+  "group": "группа",
+  "growing": "усиливаясь, растя",
+  "had": "(вспом. гл.)",
+  "has": "(вспом. гл.)",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "hear": "услышать",
+  "heard": "услышал",
+  "helping": "помогал",
+  "himself": "сам, себе",
+  "his": "его",
+  "hit": "поражён, ударен",
+  "hoped": "надеялись",
+  "horn": "рупор",
+  "horns": "рупоры",
+  "how": "как",
+  "however": "однако",
+  "huge": "огромный",
+  "hydrogen": "водород",
+  "hypothesis": "гипотеза",
+  "idea": "идея, мысль",
+  "identified": "установлен, найден",
+  "if": "если, ли",
+  "imagination": "воображение",
+  "imagine": "представлять",
+  "important": "важный",
+  "in": "в",
+  "including": "в том числе",
+  "ink": "чернила",
+  "inside": "внутри",
+  "instead": "вместо этого",
+  "instruments": "инструменты",
+  "intelligence": "разум",
+  "intelligent": "разумный",
+  "interesting": "интересный",
+  "interference": "помеха",
+  "international": "международный",
+  "is": "есть, является",
+  "it": "он, оно, это",
+  "its": "его, её",
+  "itself": "сам",
+  "jerry": "Джерри (имя)",
+  "john": "Джон (имя)",
+  "keeps": "сохраняет",
+  "kind": "вид, род",
+  "know": "знать",
+  "known": "известный",
+  "knows": "знает",
+  "kraus": "Краус (фамилия)",
+  "large": "большой",
+  "laser": "лазер",
+  "lasted": "длился",
+  "later": "позже, спустя",
+  "led": "(led by) под руководством",
+  "letter": "буква",
+  "letters": "буквы",
+  "lies": "кроется, лежит",
+  "life": "жизнь",
+  "light": "свет; лампочка",
+  "lighthouse": "маяк",
+  "like": "как; похож на",
+  "listening": "слушал, слушает",
+  "little": "мало; немного",
+  "lives": "живёт",
+  "local": "местный",
+  "long": "длинный",
+  "longer": "(no longer) больше не",
+  "longest": "самый долгий",
+  "look": "выглядеть, быть похожим",
+  "looked": "смотрели; выглядели",
+  "looks": "выглядит",
+  "lot": "(a lot) много",
+  "machine": "машина",
+  "made": "создан, сделан",
+  "magnetar": "магнетар",
+  "magnetic": "магнитный",
+  "make": "(make room) освободить",
+  "man": "человек",
+  "many": "много",
+  "matched": "совпадала",
+  "may": "может, возможно",
+  "meant": "означал(о)",
+  "measured": "измерял",
+  "megahertz": "мегагерц",
+  "mendez": "Мендес (фамилия)",
+  "message": "послание",
+  "metal": "металлический",
+  "mexico": "(New Mexico) Нью-Мексико",
+  "middle": "середина",
+  "might": "мог бы",
+  "minutes": "минуты",
+  "mistake": "ошибка",
+  "modern": "современный",
+  "months": "месяцы",
+  "more": "более, гораздо",
+  "morrison": "Моррисон (фамилия)",
+  "most": "самый; большинство",
+  "move": "двигаться",
+  "moves": "движется",
+  "much": "гораздо; много",
+  "mystery": "загадка",
+  "name": "имя",
+  "named": "по имени",
+  "narrow": "узкий",
+  "narrowness": "узость",
+  "natural": "естественный, природный",
+  "nature": "природа",
+  "near": "недалеко от, около",
+  "nearly": "(not nearly) далеко не",
+  "need": "нуждаются",
+  "needs": "нужно",
+  "never": "никогда",
+  "new": "новый",
+  "newest": "новейший, самый новый",
+  "news": "новости",
+  "newspapers": "газеты",
+  "next": "(next to) рядом с",
+  "night": "ночь",
+  "no": "нет",
+  "nobody": "никто",
+  "noise": "шум",
+  "normal": "обычный",
+  "not": "не",
+  "note": "пометка",
+  "nothing": "ничего",
+  "noticed": "заметил",
+  "numbers": "цифры",
+  "object": "объект",
+  "observation": "наблюдение",
+  "observing": "наблюдая",
+  "of": "из, о, (род. падеж)",
+  "off": "(switched off) выключился",
+  "ohio": "Огайо (штат)",
+  "old": "старый",
+  "on": "на",
+  "once": "один раз",
+  "one": "один, одна",
+  "ones": "те, они",
+  "only": "только",
+  "open": "открытый",
+  "or": "или",
+  "order": "порядок",
+  "other": "другой",
+  "others": "другие",
+  "our": "наш",
+  "out": "(far out) далеко; (point out) указывать; (carried out) проведены",
+  "over": "за (о времени); перед (advantage over)",
+  "paper": "бумага; статья",
+  "paris": "Пэрис (фамилия)",
+  "paris's": "Пэриса",
+  "part": "часть, участок",
+  "parts": "участки",
+  "passed": "проходили; проходя",
+  "patience": "терпение",
+  "pattern": "закономерность, картина",
+  "peak": "пик, вершина",
+  "pen": "ручка",
+  "people": "люди",
+  "perhaps": "возможно",
+  "philip": "Филип (имя)",
+  "physicists": "физики",
+  "picked": "(picked up) поймал",
+  "piece": "кусок, листок",
+  "pile": "стопка",
+  "place": "место",
+  "plane": "самолёт",
+  "planet": "планета",
+  "pm": "(после полудня) вечера",
+  "point": "точка; (at one point) одно время",
+  "pointed": "направляли; указал",
+  "position": "положение, место",
+  "possibility": "возможность",
+  "possible": "возможный",
+  "power": "власть",
+  "powerful": "мощный",
+  "precisely": "именно",
+  "preprint": "препринт",
+  "presented": "представили",
+  "printed": "печатал",
+  "printout": "распечатка",
+  "printouts": "распечатки",
+  "probably": "вероятно",
+  "problem": "проблема",
+  "produce": "создать, излучать",
+  "produced": "создал, давали",
+  "project": "проект",
+  "proof": "доказательство",
+  "protected": "защищены",
+  "prove": "доказать",
+  "proven": "доказан",
+  "puerto": "(Puerto Rico) Пуэрто-",
+  "puzzles": "загадки",
+  "question": "вопрос",
+  "questioned": "сомневались",
+  "quietly": "тихо",
+  "radiation": "излучение",
+  "radio": "радио-",
+  "rare": "редкий",
+  "reach": "достигать",
+  "reaching": "достигая",
+  "read": "(если) читать",
+  "real": "настоящий",
+  "really": "действительно",
+  "received": "привлекла, получила",
+  "receivers": "приёмники",
+  "recorded": "записывал; записан",
+  "recording": "запись",
+  "records": "записи",
+  "red": "красный",
+  "reflected": "отражён",
+  "reflector": "отражатель",
+  "remain": "останется",
+  "remains": "остатки",
+  "reminder": "напоминание",
+  "repeat": "повторение",
+  "repeated": "повторён",
+  "researcher": "исследователь",
+  "researchers": "исследователи",
+  "resistance": "сопротивление",
+  "result": "результат",
+  "results": "результаты",
+  "returned": "вернулся",
+  "rico": "(Puerto Rico) Пуэрто-Рико",
+  "right": "нужный, правильный",
+  "rise": "подъём; расти",
+  "risen": "вырос",
+  "robert": "Роберт (имя)",
+  "room": "место",
+  "rotated": "вращалась",
+  "round": "круглый",
+  "rubbish": "мусор",
+  "s": "(1990s, 1s) -е годы; (мн. число)",
+  "sagittarius": "Стрелец (созвездие)",
+  "said": "сказал(и)",
+  "same": "тот же",
+  "sat": "сел",
+  "satellite": "спутник",
+  "satellites": "спутники",
+  "say": "говорят",
+  "science": "наука",
+  "scientific": "научный",
+  "scientist": "учёный",
+  "scientists": "учёные",
+  "search": "поиск",
+  "searched": "искал",
+  "searches": "поиски",
+  "second": "второй",
+  "seconds": "секунды",
+  "seen": "увиден, замечен",
+  "send": "послать",
+  "sensitive": "чувствительный",
+  "sequence": "последовательность",
+  "serious": "серьёзный",
+  "seti": "SETI (поиск внеземного разума)",
+  "seventy": "семьдесят",
+  "shape": "форма",
+  "shared": "опубликовали, поделились",
+  "short": "короткий",
+  "should": "должен",
+  "shouting": "кричащий",
+  "showed": "показали (showed resistance — встретили сопротивлением)",
+  "shows": "показывает",
+  "signal": "сигнал",
+  "signals": "сигналы",
+  "similar": "похожий",
+  "simple": "простой",
+  "simplest": "самый простой",
+  "simply": "просто",
+  "since": "с тех пор",
+  "single": "единичный, отдельный",
+  "six": "шесть",
+  "size": "размер",
+  "sky": "небо",
+  "slowly": "медленно",
+  "so": "поэтому; так",
+  "soft": "мягкий",
+  "solve": "разгадать",
+  "solved": "разгадана",
+  "some": "некоторые",
+  "someone": "кто-то",
+  "something": "что-то",
+  "sometimes": "иногда",
+  "somewhere": "где-то",
+  "source": "источник",
+  "sources": "источники",
+  "space": "космос; пробел",
+  "spaces": "пробелы",
+  "spread": "распределяют",
+  "star": "звезда",
+  "stars": "звёзды",
+  "state": "(Ohio State University) штат",
+  "stations": "станции",
+  "stayed": "оставалась",
+  "steady": "постоянный",
+  "still": "всё ещё",
+  "stood": "стоял",
+  "stopped": "остановился",
+  "strength": "сила",
+  "strong": "сильный",
+  "stronger": "сильнее",
+  "structure": "сооружение, структура",
+  "studied": "изучил(а)",
+  "study": "изучать",
+  "such": "такой",
+  "sudden": "внезапный",
+  "suddenly": "вдруг",
+  "suggest": "предполагают",
+  "suggested": "предположил; предложены",
+  "summer": "летний",
+  "sun": "Солнце",
+  "supporters": "сторонники",
+  "sure": "уверенный",
+  "surrounded": "окружены",
+  "survived": "сохранилась",
+  "switched": "(switched off) выключился",
+  "taken": "(taken down) разобран",
+  "target": "цель",
+  "tasmania": "Тасмания",
+  "teacher": "преподаватель",
+  "team": "команда, группа",
+  "telescope": "телескоп",
+  "telescope's": "телескопа",
+  "telescopes": "телескопы",
+  "tell": "сказать",
+  "tested": "проверен(а)",
+  "than": "чем",
+  "that": "что; тот, это",
+  "the": "(артикль)",
+  "their": "их, свой",
+  "them": "их, ними",
+  "themselves": "сами",
+  "then": "потом, тогда",
+  "theories": "теории",
+  "theory": "теория",
+  "there": "там; (there was) был",
+  "these": "эти",
+  "they": "они",
+  "thin": "разреженный, тонкий",
+  "thirty": "тридцать",
+  "this": "этот",
+  "those": "те",
+  "though": "(even though) хотя",
+  "thought": "думал",
+  "three": "три",
+  "through": "через, сквозь",
+  "time": "время, раз",
+  "times": "раз",
+  "to": "к, в; (частица)",
+  "today": "сегодня",
+  "took": "взял",
+  "town": "город",
+  "transmit": "передавать",
+  "transmitter": "передатчик",
+  "tried": "пытались",
+  "turn": "повернуться",
+  "twelve": "двенадцать",
+  "two": "два",
+  "u": "U (буква)",
+  "universe": "Вселенная",
+  "university": "университет",
+  "unlikely": "маловероятный (вряд ли)",
+  "until": "(not until) только (в)",
+  "unusual": "необычный",
+  "up": "(picked up) поймал",
+  "us": "нам",
+  "used": "использовался",
+  "usually": "обычно",
+  "valid": "действительный",
+  "very": "очень",
+  "view": "поле зрения",
+  "volunteer": "волонтёр, доброволец",
+  "waited": "ждал",
+  "wanted": "хотел(а)",
+  "was": "был(а)",
+  "watching": "наблюдал",
+  "waves": "волны",
+  "way": "способ, то, как",
+  "we": "мы",
+  "weak": "слабый",
+  "weaker": "слабее",
+  "weaknesses": "слабые места",
+  "websites": "сайты",
+  "weeks": "недели",
+  "were": "были",
+  "what": "что",
+  "where": "где",
+  "whether": "ли; (whether... or) будь то",
+  "which": "который, что",
+  "while": "пока",
+  "who": "кто, который",
+  "why": "почему",
+  "wide": "широкий",
+  "will": "(буд. вр.)",
+  "with": "с",
+  "within": "в пределах, в течение",
+  "word": "слово",
+  "work": "работа",
+  "would": "бы",
+  "wow": "Ого! (восклицание)",
+  "written": "написанный, сделанный",
+  "wrote": "написал(и)",
+  "years": "годы, лет",
+  "yet": "ещё"
+ },
+ "vocab": {
+  "their": 21,
+  "convince": 628,
+  "convincing": 628,
+  "structure": 226,
+  "goal": 236,
+  "curiously": 454,
+  "returned": 95,
+  "valid": 560,
+  "resistance": 629,
+  "advantage": 262,
+  "thin": 296,
+  "keeps": 208
+ }
+}

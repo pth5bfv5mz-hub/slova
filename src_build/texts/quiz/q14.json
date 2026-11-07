@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did Nina take the night job in Larkwell?",
+  "q_ru": "Почему Нина согласилась на ночную работу в Ларкуэлле?",
+  "options": [
+   "She wanted to write a book about ghosts.",
+   "After a hard year in the city, she wanted something quiet.",
+   "Mr. Hale was her old friend.",
+   "She needed a job near her family."
+  ],
+  "options_ru": [
+   "Она хотела написать книгу о привидениях.",
+   "После тяжёлого года в городе ей хотелось тишины.",
+   "Мистер Хейл был её старым другом.",
+   "Ей нужна была работа рядом с семьёй."
+  ],
+  "answer": 1,
+  "explain_ru": "После «a difficult year in the city — a lost job, a broken engagement» она «wanted something quiet», а ночная работа в библиотеке казалась самой тихой."
+ },
+ {
+  "q": "What did Mr. Hale tell Nina to do if she heard something strange?",
+  "q_ru": "Что мистер Хейл велел Нине делать, если она услышит что-то странное?",
+  "options": [
+   "Call him at the pharmacy at once.",
+   "Turn on all the lights in the building.",
+   "Go into the reading room and check.",
+   "Stay in the office and wait for the morning."
+  ],
+  "options_ru": [
+   "Сразу позвонить ему в аптеку.",
+   "Включить свет во всём здании.",
+   "Зайти в читальный зал и проверить.",
+   "Оставаться в кабинете и ждать утра."
+  ],
+  "answer": 3,
+  "explain_ru": "Хейл сказал: «don't go in. Just stay in the office and wait for the morning»."
+ },
+ {
+  "q": "What was the library building before?",
+  "q_ru": "Чем было здание библиотеки раньше?",
+  "options": [
+   "A school, and the reading room was its hall.",
+   "A pharmacy with a green light.",
+   "A small theatre for adults.",
+   "Mr. Hale's family house."
+  ],
+  "options_ru": [
+   "Школой, а читальный зал был её актовым залом.",
+   "Аптекой с зелёным фонарём.",
+   "Маленьким театром для взрослых.",
+   "Домом семьи мистера Хейла."
+  ],
+  "answer": 0,
+  "explain_ru": "В архиве Нина узнала: «Before it became a library, the building had been a school... The reading room had been the school hall»."
+ },
+ {
+  "q": "\"Nina felt overwhelmed. She could not eat; she jumped at every sound.\" What does \"overwhelmed\" mean?",
+  "q_ru": "«Nina felt overwhelmed. She could not eat; she jumped at every sound». Что значит «overwhelmed»?",
+  "options": [
+   "Calm and relaxed.",
+   "Bored and sleepy.",
+   "Unable to deal with too many strong feelings.",
+   "Angry with Mr. Hale."
+  ],
+  "options_ru": [
+   "Спокойной и расслабленной.",
+   "Скучающей и сонной.",
+   "Не справляющейся со слишком сильными чувствами.",
+   "Злой на мистера Хейла."
+  ],
+  "answer": 2,
+  "explain_ru": "«Overwhelmed» — подавленная, переполненная чувствами. На это указывают детали: она не могла есть и вздрагивала от каждого звука."
+ },
+ {
+  "q": "Who was the boy in the voices?",
+  "q_ru": "Кем был мальчик, чей голос слышала Нина?",
+  "options": [
+   "Edmund Crane's student from another town.",
+   "Mr. Hale, the son of Edmund Crane.",
+   "Nina's grandfather.",
+   "A boy who died in the school."
+  ],
+  "options_ru": [
+   "Учеником Эдмунда Крейна из другого города.",
+   "Мистером Хейлом, сыном Эдмунда Крейна.",
+   "Дедушкой Нины.",
+   "Мальчиком, который умер в школе."
+  ],
+  "answer": 1,
+  "explain_ru": "На странице со стихотворением стояло имя «Thomas Hale». Хейл признаётся: «Edmund Crane was my father» и рассказывает, как стоял на сцене сорок минут."
+ },
+ {
+  "q": "What happened after Mr. Hale read the poem on the stage?",
+  "q_ru": "Что произошло после того, как мистер Хейл прочитал стихотворение со сцены?",
+  "options": [
+   "The children laughed at him again.",
+   "Nina left Larkwell and went back to the city.",
+   "The library was closed forever.",
+   "The voices stopped, and the library started poetry evenings."
+  ],
+  "options_ru": [
+   "Дети снова посмеялись над ним.",
+   "Нина уехала из Ларкуэлла обратно в город.",
+   "Библиотеку закрыли навсегда.",
+   "Голоса прекратились, а в библиотеке начались поэтические вечера."
+  ],
+  "answer": 3,
+  "explain_ru": "Голос отца сказал «Well done», и «The voices never came back». Весной по пятницам начались чтения стихов, и первым читал Хейл — «The Journey Home»."
+ }
+]

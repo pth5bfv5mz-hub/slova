@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did Captain Hartley take Toby, although he knew Toby was lying?",
+  "q_ru": "Почему капитан Хартли взял Тоби, хотя знал, что тот врёт?",
+  "options": [
+   "Toby had sailed on many ships before",
+   "Toby was the son of a sailor",
+   "Toby looked strong and lied about being brave",
+   "Toby offered to work for no money"
+  ],
+  "options_ru": [
+   "Тоби раньше ходил на многих кораблях",
+   "Тоби был сыном моряка",
+   "Тоби выглядел сильным и врал, чтобы казаться смелым",
+   "Тоби предложил работать бесплатно"
+  ],
+  "answer": 2,
+  "explain_ru": "Капитан сказал: «You're lying... But you look strong, and I prefer a boy who lies about being brave»."
+ },
+ {
+  "q": "Mr Garrow \"loved to brag\". What does \"brag\" mean?",
+  "q_ru": "Мистер Гарроу «loved to brag». Что значит «brag»?",
+  "options": [
+   "to talk proudly about yourself",
+   "to tell funny stories",
+   "to give sweets to children",
+   "to shout at the crew"
+  ],
+  "options_ru": [
+   "хвастаться",
+   "рассказывать смешные истории",
+   "раздавать детям конфеты",
+   "кричать на команду"
+  ],
+  "answer": 0,
+  "explain_ru": "Brag — хвастаться: он хвалился штормами, драками и друзьями «in every port»."
+ },
+ {
+  "q": "What did Toby find in the captain's chest?",
+  "q_ru": "Что Тоби нашёл в сундуке капитана?",
+  "options": [
+   "Stolen Spanish gold",
+   "A pirate's map",
+   "Letters from his daughter",
+   "Thick glasses, medicine and a doctor's letter"
+  ],
+  "options_ru": [
+   "Украденное испанское золото",
+   "Пиратскую карту",
+   "Письма от дочери",
+   "Очки с толстыми стёклами, лекарство и письмо врача"
+  ],
+  "answer": 3,
+  "explain_ru": "«There was no gold inside». Были очки, лекарство, листы с огромными буквами и письмо врача: капитан скоро почти ослепнет."
+ },
+ {
+  "q": "Why did the captain hide the problem with his eyes?",
+  "q_ru": "Почему капитан скрывал проблему со зрением?",
+  "options": [
+   "He was ashamed in front of his daughter",
+   "The owners would take the ship away from him",
+   "Garrow had promised to help him",
+   "The doctor told him to keep it secret"
+  ],
+  "options_ru": [
+   "Ему было стыдно перед дочерью",
+   "Владельцы забрали бы у него корабль",
+   "Гарроу обещал ему помочь",
+   "Врач велел держать это в секрете"
+  ],
+  "answer": 1,
+  "explain_ru": "«If the owners of this ship knew, they would take her away from me tomorrow». А деньги за последний рейс нужны были его дочери на учёбу и школу."
+ },
+ {
+  "q": "Why did the compass show the wrong direction?",
+  "q_ru": "Почему компас показывал неправильное направление?",
+  "options": [
+   "The storm had broken the needle",
+   "The captain had read it wrongly",
+   "Garrow had hidden an iron fork next to it",
+   "Toby had dropped it on the deck"
+  ],
+  "options_ru": [
+   "Шторм сломал стрелку",
+   "Капитан неправильно прочитал его",
+   "Гарроу спрятал рядом с ним железную вилку",
+   "Тоби уронил его на палубу"
+  ],
+  "answer": 2,
+  "explain_ru": "Капитан учил: «Never keep iron near a compass». За доской у компаса Тоби нашёл пропавшую вилку повара Доббса. Гарроу вёл корабль на скалы к своим друзьям-грабителям."
+ },
+ {
+  "q": "What did the ship's owners decide at the end?",
+  "q_ru": "Что решили владельцы корабля в конце?",
+  "options": [
+   "To give the ship to Mr Garrow",
+   "To pay for Toby's training as a navigator",
+   "To send the captain to a doctor in London",
+   "To give Toby the captain's sword"
+  ],
+  "options_ru": [
+   "Отдать корабль мистеру Гарроу",
+   "Оплатить обучение Тоби на штурмана",
+   "Отправить капитана к врачу в Лондон",
+   "Подарить Тоби меч капитана"
+  ],
+  "answer": 1,
+  "explain_ru": "Капитан попросил их «pay for Toby to be trained as a navigator», и они согласились: «the best investment we have ever made». Меч Тоби подарил сам капитан."
+ }
+]

@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What did the Warren Commission conclude in 1964?",
+  "q_ru": "К какому выводу пришла комиссия Уоррена в 1964 году?",
+  "options": [
+   "Two gunmen fired at the President",
+   "Oswald fired three shots and acted alone",
+   "Jack Ruby planned the assassination",
+   "The CIA had hidden the rifle"
+  ],
+  "options_ru": [
+   "В президента стреляли двое",
+   "Освальд сделал три выстрела и действовал в одиночку",
+   "Убийство спланировал Джек Руби",
+   "ЦРУ спрятало винтовку"
+  ],
+  "answer": 1,
+  "explain_ru": "Комиссия решила, что Освальд выстрелил три раза из окна шестого этажа и действовал один; Руби тоже действовал один."
+ },
+ {
+  "q": "Why did the commission need the \"single-bullet theory\"?",
+  "q_ru": "Зачем комиссии понадобилась «теория одной пули»?",
+  "options": [
+   "The bullet was found inside the car",
+   "Connally said he was not hit",
+   "Witnesses heard only one shot",
+   "The film showed both men hit too close together for two shots"
+  ],
+  "options_ru": [
+   "Пулю нашли внутри машины",
+   "Коннелли сказал, что в него не попали",
+   "Свидетели слышали только один выстрел",
+   "Фильм показал, что оба были ранены слишком близко по времени для двух выстрелов"
+  ],
+  "answer": 3,
+  "explain_ru": "Фильм Запрудера показал, что Кеннеди и Коннелли ранены почти одновременно, а из винтовки Освальда нельзя было выстрелить дважды за такое время."
+ },
+ {
+  "q": "Why did the House committee conclude in 1979 that there was \"probably\" a conspiracy?",
+  "q_ru": "Почему в 1979 году комитет Палаты представителей заключил, что заговор «вероятно» был?",
+  "options": [
+   "A police recording seemed to show a fourth shot from the grassy knoll",
+   "A second rifle was found on the knoll",
+   "Oswald's wife confessed to a plot",
+   "New autopsy photos showed a shot from the front"
+  ],
+  "options_ru": [
+   "Полицейская запись, казалось, содержала четвёртый выстрел с травянистого холма",
+   "На холме нашли вторую винтовку",
+   "Жена Освальда призналась в заговоре",
+   "Новые снимки вскрытия показали выстрел спереди"
+  ],
+  "answer": 0,
+  "explain_ru": "Вывод был основан на акустическом анализе записи с застрявшего микрофона полицейского мотоцикла."
+ },
+ {
+  "q": "What did the National Academy of Sciences panel find in 1982?",
+  "q_ru": "Что установила группа Национальной академии наук в 1982 году?",
+  "options": [
+   "The recording contained six shots",
+   "The motorcycle belonged to Jack Ruby",
+   "The sounds were recorded about a minute after the shooting",
+   "The Zapruder film had been changed"
+  ],
+  "options_ru": [
+   "На записи было шесть выстрелов",
+   "Мотоцикл принадлежал Джеку Руби",
+   "Звуки были записаны примерно через минуту после стрельбы",
+   "Фильм Запрудера был изменён"
+  ],
+  "answer": 2,
+  "explain_ru": "Благодаря тихим словам с другого канала, замеченным Стивом Барбером, эксперты пришли к выводу, что «выстрелы» записаны примерно через минуту после стрельбы."
+ },
+ {
+  "q": "What do the released files show, according to the article?",
+  "q_ru": "Что, согласно статье, показывают рассекреченные документы?",
+  "options": [
+   "That the Mafia organised the assassination",
+   "That the CIA and FBI hid information, but not who organised a plot",
+   "That Oswald never owned a rifle",
+   "That the Warren Commission saw every CIA file"
+  ],
+  "options_ru": [
+   "Что убийство организовала мафия",
+   "Что ЦРУ и ФБР скрывали информацию, но не то, кто организовал заговор",
+   "Что у Освальда никогда не было винтовки",
+   "Что комиссия Уоррена видела все дела ЦРУ"
+  ],
+  "answer": 1,
+  "explain_ru": "Документы показывают, что ведомства скрывали неудобные факты, но «no document has shown», что ЦРУ, мафия или кто-то ещё организовали убийство."
+ },
+ {
+  "q": "Which reason for believing in a plot do psychologists suggest?",
+  "q_ru": "Какую причину веры в заговор называют психологи?",
+  "options": [
+   "When something huge happens, people expect a huge cause",
+   "People do not trust films and photographs",
+   "Most Americans have read the Warren Report",
+   "Oswald's trial was too short"
+  ],
+  "options_ru": [
+   "Когда случается что-то огромное, люди ожидают огромной причины",
+   "Люди не доверяют фильмам и фотографиям",
+   "Большинство американцев прочитали доклад Уоррена",
+   "Суд над Освальдом был слишком коротким"
+  ],
+  "answer": 0,
+  "explain_ru": "В тексте: «when something huge happens, people expect a huge cause». Суда над Освальдом не было вообще."
+ }
+]

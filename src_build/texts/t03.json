@@ -1,0 +1,1292 @@
+{
+ "id": 3,
+ "title_en": "The Crow on the Pass",
+ "title_ru": "Ворона на перевале",
+ "genre": "Приключения",
+ "summary_ru": "Переводчица отправляется через опасный горный перевал, чтобы вернуть старое кольцо, которое её бабушка когда-то увезла из далёкой деревни.",
+ "paragraphs": [
+  {
+   "en": "Lena had not taken a vacation for three years. She worked as a translator in a big city, and her days were full of contracts, emails and software updates. So when her grandmother died and left her a small wooden box, Lena finally took two weeks off. Inside the box there was an old silver ring and a letter in a language that Lena had studied at university but had never really used.",
+   "ru": "Лена не брала отпуск три года. Она работала переводчицей в большом городе, и её дни были заполнены контрактами, письмами и обновлениями программ. Поэтому, когда умерла её бабушка и оставила ей маленькую деревянную шкатулку, Лена наконец взяла две недели отдыха. В шкатулке лежали старое серебряное кольцо и письмо на языке, который Лена изучала в университете, но никогда по-настоящему не использовала.",
+   "s": [
+    [
+     "Lena had not taken a vacation for three years.",
+     "Лена не брала отпуск три года."
+    ],
+    [
+     "She worked as a translator in a big city, and her days were full of contracts, emails and software updates.",
+     "Она работала переводчицей в большом городе, и её дни были заполнены контрактами, письмами и обновлениями программ."
+    ],
+    [
+     "So when her grandmother died and left her a small wooden box, Lena finally took two weeks off.",
+     "Поэтому, когда умерла её бабушка и оставила ей маленькую деревянную шкатулку, Лена наконец взяла две недели отдыха."
+    ],
+    [
+     "Inside the box there was an old silver ring and a letter in a language that Lena had studied at university but had never really used.",
+     "В шкатулке лежали старое серебряное кольцо и письмо на языке, который Лена изучала в университете, но никогда по-настоящему не использовала."
+    ]
+   ]
+  },
+  {
+   "en": "The letter was short, and Lena was able to translate most of it in one evening. “This ring does not belong to me,” her grandmother had written. “It belongs to my sister, Vera. I took it when I left our village sixty years ago. Please take it back to Kalna, behind the mountains. Do it for me. I have been sorry all my life.”",
+   "ru": "Письмо было коротким, и Лена смогла перевести большую его часть за один вечер. «Это кольцо не принадлежит мне, — написала бабушка. — Оно принадлежит моей сестре, Вере. Я взяла его, когда уехала из нашей деревни шестьдесят лет назад. Пожалуйста, верни его в Кальну, за горами. Сделай это ради меня. Я жалела об этом всю жизнь».",
+   "s": [
+    [
+     "The letter was short, and Lena was able to translate most of it in one evening.",
+     "Письмо было коротким, и Лена смогла перевести большую его часть за один вечер."
+    ],
+    [
+     "“This ring does not belong to me,” her grandmother had written.",
+     "«Это кольцо не принадлежит мне», — написала бабушка."
+    ],
+    [
+     "“It belongs to my sister, Vera.",
+     "«Оно принадлежит моей сестре, Вере."
+    ],
+    [
+     "I took it when I left our village sixty years ago.",
+     "Я взяла его, когда уехала из нашей деревни шестьдесят лет назад."
+    ],
+    [
+     "Please take it back to Kalna, behind the mountains.",
+     "Пожалуйста, верни его в Кальну, за горами."
+    ],
+    [
+     "Do it for me.",
+     "Сделай это ради меня."
+    ],
+    [
+     "I have been sorry all my life.”",
+     "Я жалела об этом всю жизнь»."
+    ]
+   ]
+  },
+  {
+   "en": "Lena had never heard about a sister. She looked at the map. Kalna was a tiny village on the other side of a high pass. There was no road, only an old path. “Prepare well,” said the woman at the tourist office in the last town. “The weather in these mountains changes very fast. And take cash. Nobody in Kalna has a card machine.”",
+   "ru": "Лена никогда не слышала ни о какой сестре. Она посмотрела на карту. Кальна была крошечной деревней по другую сторону высокого перевала. Дороги туда не было, только старая тропа. «Хорошо подготовьтесь, — сказала женщина в туристическом офисе последнего городка. — Погода в этих горах меняется очень быстро. И возьмите наличные. В Кальне ни у кого нет терминала для карт».",
+   "s": [
+    [
+     "Lena had never heard about a sister.",
+     "Лена никогда не слышала ни о какой сестре."
+    ],
+    [
+     "She looked at the map.",
+     "Она посмотрела на карту."
+    ],
+    [
+     "Kalna was a tiny village on the other side of a high pass.",
+     "Кальна была крошечной деревней по другую сторону высокого перевала."
+    ],
+    [
+     "There was no road, only an old path.",
+     "Дороги туда не было, только старая тропа."
+    ],
+    [
+     "“Prepare well,” said the woman at the tourist office in the last town.",
+     "«Хорошо подготовьтесь», — сказала женщина в туристическом офисе последнего городка."
+    ],
+    [
+     "“The weather in these mountains changes very fast.",
+     "«Погода в этих горах меняется очень быстро."
+    ],
+    [
+     "And take cash.",
+     "И возьмите наличные."
+    ],
+    [
+     "Nobody in Kalna has a card machine.”",
+     "В Кальне ни у кого нет терминала для карт»."
+    ]
+   ]
+  },
+  {
+   "en": "The next morning Lena met her guide, Tomas, an old man with a grey beard and a quiet voice. He looked at her new boots, her big backpack and the bright yellow umbrella on it, and he smiled.",
+   "ru": "На следующее утро Лена встретилась со своим проводником, Томасом, стариком с седой бородой и тихим голосом. Он посмотрел на её новые ботинки, на большой рюкзак и на ярко-жёлтый зонт, привязанный к нему, и улыбнулся.",
+   "s": [
+    [
+     "The next morning Lena met her guide, Tomas, an old man with a grey beard and a quiet voice.",
+     "На следующее утро Лена встретилась со своим проводником, Томасом, стариком с седой бородой и тихим голосом."
+    ],
+    [
+     "He looked at her new boots, her big backpack and the bright yellow umbrella on it, and he smiled.",
+     "Он посмотрел на её новые ботинки, на большой рюкзак и на ярко-жёлтый зонт, привязанный к нему, и улыбнулся."
+    ]
+   ]
+  },
+  {
+   "en": "“An umbrella?” he asked. “Up there, the wind will take it away in a minute.”\n“Then it will have an interesting life,” Lena said.",
+   "ru": "«Зонт? — спросил он. — Там, наверху, ветер унесёт его за минуту».\n«Значит, у него будет интересная жизнь», — ответила Лена.",
+   "s": [
+    [
+     "“An umbrella?” he asked.",
+     "«Зонт?» — спросил он."
+    ],
+    [
+     "“Up there, the wind will take it away in a minute.”",
+     "«Там, наверху, ветер унесёт его за минуту»."
+    ],
+    [
+     "“Then it will have an interesting life,” Lena said.",
+     "«Значит, у него будет интересная жизнь», — ответила Лена."
+    ]
+   ]
+  },
+  {
+   "en": "They started walking. For the first hours the path went through a green forest, and Tomas talked about the mountains. Lena listened carefully. She was happy. At university she had only had books and recordings, and she had never talked to native speakers for more than five minutes. “Your approach to languages is strange,” Tomas told her. “You know difficult words, but you don't know how to ask for bread.” She laughed. It was true.",
+   "ru": "Они отправились в путь. Первые часы тропа шла через зелёный лес, и Томас рассказывал о горах. Лена внимательно слушала. Она была счастлива. В университете у неё были только книги и записи, и она никогда не разговаривала с носителями языка дольше пяти минут. «Странный у тебя подход к языкам, — сказал ей Томас. — Трудные слова ты знаешь, а как попросить хлеба — не знаешь». Она засмеялась. Это была правда.",
+   "s": [
+    [
+     "They started walking.",
+     "Они отправились в путь."
+    ],
+    [
+     "For the first hours the path went through a green forest, and Tomas talked about the mountains.",
+     "Первые часы тропа шла через зелёный лес, и Томас рассказывал о горах."
+    ],
+    [
+     "Lena listened carefully.",
+     "Лена внимательно слушала."
+    ],
+    [
+     "She was happy.",
+     "Она была счастлива."
+    ],
+    [
+     "At university she had only had books and recordings, and she had never talked to native speakers for more than five minutes.",
+     "В университете у неё были только книги и записи, и она никогда не разговаривала с носителями языка дольше пяти минут."
+    ],
+    [
+     "“Your approach to languages is strange,” Tomas told her.",
+     "«Странный у тебя подход к языкам», — сказал ей Томас."
+    ],
+    [
+     "“You know difficult words, but you don't know how to ask for bread.”",
+     "«Трудные слова ты знаешь, а как попросить хлеба — не знаешь»."
+    ],
+    [
+     "She laughed.",
+     "Она засмеялась."
+    ],
+    [
+     "It was true.",
+     "Это была правда."
+    ]
+   ]
+  },
+  {
+   "en": "Around noon a black crow began to follow them. It flew from tree to tree, always a little ahead, and sometimes it shouted at them. “In my village,” Tomas said, “people say that a crow on the path shows you your destiny. Good or bad, nobody knows.”\n“Do you believe that?”\n“I believe in good boots,” he answered.",
+   "ru": "Около полудня за ними начала лететь чёрная ворона. Она перелетала с дерева на дерево, всегда чуть впереди, и иногда кричала на них. «В моей деревне, — сказал Томас, — говорят, что ворона на тропе показывает тебе твою судьбу. Хорошую или плохую — никто не знает».\n«Вы в это верите?»\n«Я верю в хорошие ботинки», — ответил он.",
+   "s": [
+    [
+     "Around noon a black crow began to follow them.",
+     "Около полудня за ними начала лететь чёрная ворона."
+    ],
+    [
+     "It flew from tree to tree, always a little ahead, and sometimes it shouted at them.",
+     "Она перелетала с дерева на дерево, всегда чуть впереди, и иногда кричала на них."
+    ],
+    [
+     "“In my village,” Tomas said, “people say that a crow on the path shows you your destiny.",
+     "«В моей деревне, — сказал Томас, — говорят, что ворона на тропе показывает тебе твою судьбу."
+    ],
+    [
+     "Good or bad, nobody knows.”",
+     "Хорошую или плохую — никто не знает»."
+    ],
+    [
+     "“Do you believe that?”",
+     "«Вы в это верите?»"
+    ],
+    [
+     "“I believe in good boots,” he answered.",
+     "«Я верю в хорошие ботинки», — ответил он."
+    ]
+   ]
+  },
+  {
+   "en": "In the afternoon they reached the river. Usually, Tomas said, it was easy to cross it on the stones. But snow had melted high in the mountains, and now the water was brown, fast and loud. Lena could feel its force through the ground under her feet.",
+   "ru": "Днём они дошли до реки. Обычно, сказал Томас, её легко перейти по камням. Но высоко в горах растаял снег, и теперь вода была бурой, быстрой и шумной. Лена чувствовала её силу через землю под ногами.",
+   "s": [
+    [
+     "In the afternoon they reached the river.",
+     "Днём они дошли до реки."
+    ],
+    [
+     "Usually, Tomas said, it was easy to cross it on the stones.",
+     "Обычно, сказал Томас, её легко перейти по камням."
+    ],
+    [
+     "But snow had melted high in the mountains, and now the water was brown, fast and loud.",
+     "Но высоко в горах растаял снег, и теперь вода была бурой, быстрой и шумной."
+    ],
+    [
+     "Lena could feel its force through the ground under her feet.",
+     "Лена чувствовала её силу через землю под ногами."
+    ]
+   ]
+  },
+  {
+   "en": "“We can wait until tomorrow,” said Tomas. “Or we can try the old crossing higher up.”\nLena thought about her two short weeks and about the box in her backpack. “Let's try,” she said. A minute later she was full of regret. Halfway across, a stone moved under her boot, and she fell into the icy water. The river pulled her down. For a long, terrible moment she was sure she was going to drown.",
+   "ru": "«Можем подождать до завтра, — сказал Томас. — Или попробовать старую переправу выше по течению».\nЛена подумала о своих двух коротких неделях и о шкатулке в рюкзаке. «Давайте попробуем», — сказала она. Через минуту она была полна сожаления. На полпути камень сдвинулся у неё под ботинком, и она упала в ледяную воду. Река потянула её вниз. Долгое, ужасное мгновение она была уверена, что утонет.",
+   "s": [
+    [
+     "“We can wait until tomorrow,” said Tomas.",
+     "«Можем подождать до завтра», — сказал Томас."
+    ],
+    [
+     "“Or we can try the old crossing higher up.”",
+     "«Или попробовать старую переправу выше по течению»."
+    ],
+    [
+     "Lena thought about her two short weeks and about the box in her backpack.",
+     "Лена подумала о своих двух коротких неделях и о шкатулке в рюкзаке."
+    ],
+    [
+     "“Let's try,” she said.",
+     "«Давайте попробуем», — сказала она."
+    ],
+    [
+     "A minute later she was full of regret.",
+     "Через минуту она была полна сожаления."
+    ],
+    [
+     "Halfway across, a stone moved under her boot, and she fell into the icy water.",
+     "На полпути камень сдвинулся у неё под ботинком, и она упала в ледяную воду."
+    ],
+    [
+     "The river pulled her down.",
+     "Река потянула её вниз."
+    ],
+    [
+     "For a long, terrible moment she was sure she was going to drown.",
+     "Долгое, ужасное мгновение она была уверена, что утонет."
+    ]
+   ]
+  },
+  {
+   "en": "Then a strong hand took her backpack. Tomas pulled her out onto the rocks with incredible force for a man of seventy. Lena lay on the stones, coughing and shaking. Her yellow umbrella was gone, carried away forever by the brown water.\n“Well,” said Tomas, breathing hard, “now it has an interesting life.”",
+   "ru": "Тут сильная рука схватила её рюкзак. Томас вытащил её на камни с невероятной для семидесятилетнего человека силой. Лена лежала на камнях, кашляя и дрожа. Её жёлтый зонт исчез, навсегда унесённый бурой водой.\n«Что ж, — сказал Томас, тяжело дыша, — теперь у него интересная жизнь».",
+   "s": [
+    [
+     "Then a strong hand took her backpack.",
+     "Тут сильная рука схватила её рюкзак."
+    ],
+    [
+     "Tomas pulled her out onto the rocks with incredible force for a man of seventy.",
+     "Томас вытащил её на камни с невероятной для семидесятилетнего человека силой."
+    ],
+    [
+     "Lena lay on the stones, coughing and shaking.",
+     "Лена лежала на камнях, кашляя и дрожа."
+    ],
+    [
+     "Her yellow umbrella was gone, carried away forever by the brown water.",
+     "Её жёлтый зонт исчез, навсегда унесённый бурой водой."
+    ],
+    [
+     "“Well,” said Tomas, breathing hard, “now it has an interesting life.”",
+     "«Что ж, — сказал Томас, тяжело дыша, — теперь у него интересная жизнь»."
+    ]
+   ]
+  },
+  {
+   "en": "Before dark they found an old shepherds' hut. Tomas made a fire in the stone fireplace, and Lena dried her clothes and her grandmother's letter. Luckily, the ring was still safe in its little box in her pocket. She was exhausted. Her legs hurt, her hands hurt, and she had never been so cold in her life. For a moment she thought that the whole trip was a failure. But she was alive.",
+   "ru": "До темноты они нашли старую пастушью хижину. Томас развёл огонь в каменном камине, а Лена высушила одежду и бабушкино письмо. К счастью, кольцо по-прежнему лежало в своей коробочке у неё в кармане. Она была измучена. Ноги болели, руки болели, и ей никогда в жизни не было так холодно. На мгновение ей показалось, что вся поездка — неудача. Но она была жива.",
+   "s": [
+    [
+     "Before dark they found an old shepherds' hut.",
+     "До темноты они нашли старую пастушью хижину."
+    ],
+    [
+     "Tomas made a fire in the stone fireplace, and Lena dried her clothes and her grandmother's letter.",
+     "Томас развёл огонь в каменном камине, а Лена высушила одежду и бабушкино письмо."
+    ],
+    [
+     "Luckily, the ring was still safe in its little box in her pocket.",
+     "К счастью, кольцо по-прежнему лежало в своей коробочке у неё в кармане."
+    ],
+    [
+     "She was exhausted.",
+     "Она была измучена."
+    ],
+    [
+     "Her legs hurt, her hands hurt, and she had never been so cold in her life.",
+     "Ноги болели, руки болели, и ей никогда в жизни не было так холодно."
+    ],
+    [
+     "For a moment she thought that the whole trip was a failure.",
+     "На мгновение ей показалось, что вся поездка — неудача."
+    ],
+    [
+     "But she was alive.",
+     "Но она была жива."
+    ]
+   ]
+  },
+  {
+   "en": "Outside, the mist came down from the mountains and covered everything. Then they heard a sound: a sad, thin cry, not far from the hut.\n“An animal?” Lena whispered.\n“I will go and investigate,” Tomas said, and took his torch.\n“Not alone,” said Lena, and followed him.",
+   "ru": "Снаружи с гор спустился туман и всё укрыл. Потом они услышали звук — печальный, тонкий крик неподалёку от хижины.\n«Животное?» — прошептала Лена.\n«Пойду выясню, в чём дело», — сказал Томас и взял фонарь.\n«Не один», — сказала Лена и пошла за ним.",
+   "s": [
+    [
+     "Outside, the mist came down from the mountains and covered everything.",
+     "Снаружи с гор спустился туман и всё укрыл."
+    ],
+    [
+     "Then they heard a sound: a sad, thin cry, not far from the hut.",
+     "Потом они услышали звук — печальный, тонкий крик неподалёку от хижины."
+    ],
+    [
+     "“An animal?” Lena whispered.",
+     "«Животное?» — прошептала Лена."
+    ],
+    [
+     "“I will go and investigate,” Tomas said, and took his torch.",
+     "«Пойду выясню, в чём дело», — сказал Томас и взял фонарь."
+    ],
+    [
+     "“Not alone,” said Lena, and followed him.",
+     "«Не один», — сказала Лена и пошла за ним."
+    ]
+   ]
+  },
+  {
+   "en": "Behind the hut they found the crow. Its leg was caught in an old wire trap. When Lena came closer, it opened its black beak and screamed at her. “Shh,” she said softly. “I'm not going to hurt you.” Her fingers were still cold, but she worked slowly and patiently, and at last she released the bird. The crow did not fly away. It sat on the roof of the hut and watched them all night.",
+   "ru": "За хижиной они нашли ворону. Её лапа попала в старый проволочный капкан. Когда Лена подошла ближе, птица раскрыла чёрный клюв и закричала на неё. «Тише, — мягко сказала Лена. — Я не сделаю тебе больно». Пальцы у неё всё ещё были холодными, но она работала медленно и терпеливо и наконец освободила птицу. Ворона не улетела. Она сидела на крыше хижины и всю ночь смотрела на них.",
+   "s": [
+    [
+     "Behind the hut they found the crow.",
+     "За хижиной они нашли ворону."
+    ],
+    [
+     "Its leg was caught in an old wire trap.",
+     "Её лапа попала в старый проволочный капкан."
+    ],
+    [
+     "When Lena came closer, it opened its black beak and screamed at her.",
+     "Когда Лена подошла ближе, птица раскрыла чёрный клюв и закричала на неё."
+    ],
+    [
+     "“Shh,” she said softly.",
+     "«Тише», — мягко сказала Лена."
+    ],
+    [
+     "“I'm not going to hurt you.”",
+     "«Я не сделаю тебе больно»."
+    ],
+    [
+     "Her fingers were still cold, but she worked slowly and patiently, and at last she released the bird.",
+     "Пальцы у неё всё ещё были холодными, но она работала медленно и терпеливо и наконец освободила птицу."
+    ],
+    [
+     "The crow did not fly away.",
+     "Ворона не улетела."
+    ],
+    [
+     "It sat on the roof of the hut and watched them all night.",
+     "Она сидела на крыше хижины и всю ночь смотрела на них."
+    ]
+   ]
+  },
+  {
+   "en": "The next day was the hardest. The path climbed up and up through rocks and snow, and the wind was icy. Lena's feet were wet, and every step hurt. But she endured it without a word. Only once she stopped and said, “I can't. I really can't.”",
+   "ru": "Следующий день был самым тяжёлым. Тропа поднималась всё выше и выше среди камней и снега, а ветер был ледяным. Ноги у Лены промокли, и каждый шаг причинял боль. Но она терпела, не говоря ни слова. Лишь однажды она остановилась и сказала: «Я не могу. Правда не могу».",
+   "s": [
+    [
+     "The next day was the hardest.",
+     "Следующий день был самым тяжёлым."
+    ],
+    [
+     "The path climbed up and up through rocks and snow, and the wind was icy.",
+     "Тропа поднималась всё выше и выше среди камней и снега, а ветер был ледяным."
+    ],
+    [
+     "Lena's feet were wet, and every step hurt.",
+     "Ноги у Лены промокли, и каждый шаг причинял боль."
+    ],
+    [
+     "But she endured it without a word.",
+     "Но она терпела, не говоря ни слова."
+    ],
+    [
+     "Only once she stopped and said, “I can't.",
+     "Лишь однажды она остановилась и сказала: «Я не могу."
+    ],
+    [
+     "I really can't.”",
+     "Правда не могу»."
+    ]
+   ]
+  },
+  {
+   "en": "Tomas did not shout at her. “I never raise my voice in the mountains,” he said calmly. “The mountains are always louder than me. Just take one more step. Then another one. That is the only way to cross them.”",
+   "ru": "Томас не стал на неё кричать. «Я никогда не повышаю голос в горах, — спокойно сказал он. — Горы всегда громче меня. Просто сделай ещё один шаг. Потом ещё один. Только так их и можно перейти».",
+   "s": [
+    [
+     "Tomas did not shout at her.",
+     "Томас не стал на неё кричать."
+    ],
+    [
+     "“I never raise my voice in the mountains,” he said calmly.",
+     "«Я никогда не повышаю голос в горах», — спокойно сказал он."
+    ],
+    [
+     "“The mountains are always louder than me.",
+     "«Горы всегда громче меня."
+    ],
+    [
+     "Just take one more step.",
+     "Просто сделай ещё один шаг."
+    ],
+    [
+     "Then another one.",
+     "Потом ещё один."
+    ],
+    [
+     "That is the only way to cross them.”",
+     "Только так их и можно перейти»."
+    ]
+   ]
+  },
+  {
+   "en": "At the top of the pass, the mist suddenly opened. Below them lay a green valley with a small village, a church and a few dozen houses. “Kalna,” said Tomas. The crow flew over their heads and down into the valley, as if it was showing them the way.",
+   "ru": "На вершине перевала туман вдруг расступился. Внизу лежала зелёная долина с маленькой деревней, церковью и несколькими десятками домов. «Кальна», — сказал Томас. Ворона пролетела над их головами и спустилась в долину, словно показывая им дорогу.",
+   "s": [
+    [
+     "At the top of the pass, the mist suddenly opened.",
+     "На вершине перевала туман вдруг расступился."
+    ],
+    [
+     "Below them lay a green valley with a small village, a church and a few dozen houses.",
+     "Внизу лежала зелёная долина с маленькой деревней, церковью и несколькими десятками домов."
+    ],
+    [
+     "“Kalna,” said Tomas.",
+     "«Кальна», — сказал Томас."
+    ],
+    [
+     "The crow flew over their heads and down into the valley, as if it was showing them the way.",
+     "Ворона пролетела над их головами и спустилась в долину, словно показывая им дорогу."
+    ]
+   ]
+  },
+  {
+   "en": "In the village, people came out of their houses to look at the strangers. Lena spoke to them in their language, slowly and with mistakes, and they answered with surprised smiles. Then she asked about Vera, and their faces changed. “Vera lives in the last house, near the forest,” said a boy. “But be careful. She is a witch.”",
+   "ru": "В деревне люди выходили из домов, чтобы посмотреть на чужаков. Лена говорила с ними на их языке, медленно и с ошибками, а они отвечали удивлёнными улыбками. Потом она спросила о Вере, и их лица изменились. «Вера живёт в последнем доме, у леса, — сказал мальчик. — Но будьте осторожны. Она ведьма».",
+   "s": [
+    [
+     "In the village, people came out of their houses to look at the strangers.",
+     "В деревне люди выходили из домов, чтобы посмотреть на чужаков."
+    ],
+    [
+     "Lena spoke to them in their language, slowly and with mistakes, and they answered with surprised smiles.",
+     "Лена говорила с ними на их языке, медленно и с ошибками, а они отвечали удивлёнными улыбками."
+    ],
+    [
+     "Then she asked about Vera, and their faces changed.",
+     "Потом она спросила о Вере, и их лица изменились."
+    ],
+    [
+     "“Vera lives in the last house, near the forest,” said a boy.",
+     "«Вера живёт в последнем доме, у леса», — сказал мальчик."
+    ],
+    [
+     "“But be careful.",
+     "«Но будьте осторожны."
+    ],
+    [
+     "She is a witch.”",
+     "Она ведьма»."
+    ]
+   ]
+  },
+  {
+   "en": "The last house was small and old, and there were crows on its roof. An old woman opened the door. She had white hair and very dark, sharp eyes, the same eyes as Lena's grandmother. For a moment Lena could not speak. Then she took out the ring.\n“My name is Lena,” she said. “I think this belongs to you.”",
+   "ru": "Последний дом был маленьким и старым, а на его крыше сидели вороны. Дверь открыла старая женщина. У неё были белые волосы и очень тёмные, острые глаза — такие же, как у Лениной бабушки. На мгновение Лена не могла вымолвить ни слова. Потом она достала кольцо.\n«Меня зовут Лена, — сказала она. — Думаю, это принадлежит вам».",
+   "s": [
+    [
+     "The last house was small and old, and there were crows on its roof.",
+     "Последний дом был маленьким и старым, а на его крыше сидели вороны."
+    ],
+    [
+     "An old woman opened the door.",
+     "Дверь открыла старая женщина."
+    ],
+    [
+     "She had white hair and very dark, sharp eyes, the same eyes as Lena's grandmother.",
+     "У неё были белые волосы и очень тёмные, острые глаза — такие же, как у Лениной бабушки."
+    ],
+    [
+     "For a moment Lena could not speak.",
+     "На мгновение Лена не могла вымолвить ни слова."
+    ],
+    [
+     "Then she took out the ring.",
+     "Потом она достала кольцо."
+    ],
+    [
+     "“My name is Lena,” she said.",
+     "«Меня зовут Лена», — сказала она."
+    ],
+    [
+     "“I think this belongs to you.”",
+     "«Думаю, это принадлежит вам»."
+    ]
+   ]
+  },
+  {
+   "en": "The old woman looked at the ring for a long time. Then she turned and walked slowly to her fireplace. She sat down, and Lena saw that she was crying. “Come in,” she said at last. “Both of you.”",
+   "ru": "Старая женщина долго смотрела на кольцо. Потом она повернулась и медленно пошла к своему камину. Она села, и Лена увидела, что она плачет. «Входите, — сказала она наконец. — Оба».",
+   "s": [
+    [
+     "The old woman looked at the ring for a long time.",
+     "Старая женщина долго смотрела на кольцо."
+    ],
+    [
+     "Then she turned and walked slowly to her fireplace.",
+     "Потом она повернулась и медленно пошла к своему камину."
+    ],
+    [
+     "She sat down, and Lena saw that she was crying.",
+     "Она села, и Лена увидела, что она плачет."
+    ],
+    [
+     "“Come in,” she said at last.",
+     "«Входите», — сказала она наконец."
+    ],
+    [
+     "“Both of you.”",
+     "«Оба»."
+    ]
+   ]
+  },
+  {
+   "en": "That evening Vera told them the story. Sixty years ago, two sisters had loved the same young man. He gave the ring to Vera. But one night her sister took it and ran away with him across the mountains. “I was so angry,” Vera said. “I said terrible things. Then people in the village decided that I had put a curse on her. That is why they call me a witch. Children are afraid of me. For sixty years I have lived alone with my crows.”",
+   "ru": "В тот вечер Вера рассказала им всю историю. Шестьдесят лет назад две сестры любили одного и того же юношу. Он подарил кольцо Вере. Но однажды ночью её сестра взяла его и убежала с ним через горы. «Я была так зла, — сказала Вера. — Я говорила ужасные вещи. А потом люди в деревне решили, что я её прокляла. Поэтому меня и называют ведьмой. Дети меня боятся. Шестьдесят лет я живу одна со своими воронами».",
+   "s": [
+    [
+     "That evening Vera told them the story.",
+     "В тот вечер Вера рассказала им всю историю."
+    ],
+    [
+     "Sixty years ago, two sisters had loved the same young man.",
+     "Шестьдесят лет назад две сестры любили одного и того же юношу."
+    ],
+    [
+     "He gave the ring to Vera.",
+     "Он подарил кольцо Вере."
+    ],
+    [
+     "But one night her sister took it and ran away with him across the mountains.",
+     "Но однажды ночью её сестра взяла его и убежала с ним через горы."
+    ],
+    [
+     "“I was so angry,” Vera said.",
+     "«Я была так зла», — сказала Вера."
+    ],
+    [
+     "“I said terrible things.",
+     "«Я говорила ужасные вещи."
+    ],
+    [
+     "Then people in the village decided that I had put a curse on her.",
+     "А потом люди в деревне решили, что я её прокляла."
+    ],
+    [
+     "That is why they call me a witch.",
+     "Поэтому меня и называют ведьмой."
+    ],
+    [
+     "Children are afraid of me.",
+     "Дети меня боятся."
+    ],
+    [
+     "For sixty years I have lived alone with my crows.”",
+     "Шестьдесят лет я живу одна со своими воронами»."
+    ]
+   ]
+  },
+  {
+   "en": "“She didn't marry him,” Lena said quietly. “He left her after one year. She worked in a factory, and then she became a teacher. She never came back because she was ashamed. In her letter she says that she lost her honour, and she lost her sister. She says that you were the biggest regret of her life.”",
+   "ru": "«Она не вышла за него замуж, — тихо сказала Лена. — Он бросил её через год. Она работала на фабрике, а потом стала учительницей. Она так и не вернулась, потому что ей было стыдно. В письме она пишет, что потеряла честь и потеряла сестру. Она пишет, что вы — самое большое сожаление её жизни».",
+   "s": [
+    [
+     "“She didn't marry him,” Lena said quietly.",
+     "«Она не вышла за него замуж», — тихо сказала Лена."
+    ],
+    [
+     "“He left her after one year.",
+     "«Он бросил её через год."
+    ],
+    [
+     "She worked in a factory, and then she became a teacher.",
+     "Она работала на фабрике, а потом стала учительницей."
+    ],
+    [
+     "She never came back because she was ashamed.",
+     "Она так и не вернулась, потому что ей было стыдно."
+    ],
+    [
+     "In her letter she says that she lost her honour, and she lost her sister.",
+     "В письме она пишет, что потеряла честь и потеряла сестру."
+    ],
+    [
+     "She says that you were the biggest regret of her life.”",
+     "Она пишет, что вы — самое большое сожаление её жизни»."
+    ]
+   ]
+  },
+  {
+   "en": "Vera listened without moving. Then she asked Lena to read the letter aloud. Lena read it twice: first in her own language, and then again in a careful translation, word by word. When she finished, the old woman took her hand and held it for a long time.",
+   "ru": "Вера слушала не шевелясь. Потом она попросила Лену прочитать письмо вслух. Лена прочитала его дважды: сначала на своём языке, а потом ещё раз — в тщательном переводе, слово за словом. Когда она закончила, старая женщина взяла её за руку и долго не отпускала.",
+   "s": [
+    [
+     "Vera listened without moving.",
+     "Вера слушала не шевелясь."
+    ],
+    [
+     "Then she asked Lena to read the letter aloud.",
+     "Потом она попросила Лену прочитать письмо вслух."
+    ],
+    [
+     "Lena read it twice: first in her own language, and then again in a careful translation, word by word.",
+     "Лена прочитала его дважды: сначала на своём языке, а потом ещё раз — в тщательном переводе, слово за словом."
+    ],
+    [
+     "When she finished, the old woman took her hand and held it for a long time.",
+     "Когда она закончила, старая женщина взяла её за руку и долго не отпускала."
+    ]
+   ]
+  },
+  {
+   "en": "“Your grandmother was always the brave one,” Vera said. “And you have her eyes and her crazy courage. Who tries to cross the river in spring?”\nTomas laughed loudly for the first time in two days.",
+   "ru": "«Твоя бабушка всегда была смелой, — сказала Вера. — А у тебя её глаза и её безумная храбрость. Кто же пытается перейти реку весной?»\nТомас громко рассмеялся — впервые за два дня.",
+   "s": [
+    [
+     "“Your grandmother was always the brave one,” Vera said.",
+     "«Твоя бабушка всегда была смелой», — сказала Вера."
+    ],
+    [
+     "“And you have her eyes and her crazy courage.",
+     "«А у тебя её глаза и её безумная храбрость."
+    ],
+    [
+     "Who tries to cross the river in spring?”",
+     "Кто же пытается перейти реку весной?»"
+    ],
+    [
+     "Tomas laughed loudly for the first time in two days.",
+     "Томас громко рассмеялся — впервые за два дня."
+    ]
+   ]
+  },
+  {
+   "en": "Lena wanted to pay Tomas with the cash she had brought, but he shook his head. “Keep it for the way back,” he said. “And buy a new umbrella. A useful one this time.”",
+   "ru": "Лена хотела заплатить Томасу наличными, которые привезла с собой, но он покачал головой. «Оставь на обратную дорогу, — сказал он. — И купи новый зонт. На этот раз полезный».",
+   "s": [
+    [
+     "Lena wanted to pay Tomas with the cash she had brought, but he shook his head.",
+     "Лена хотела заплатить Томасу наличными, которые привезла с собой, но он покачал головой."
+    ],
+    [
+     "“Keep it for the way back,” he said.",
+     "«Оставь на обратную дорогу», — сказал он."
+    ],
+    [
+     "“And buy a new umbrella.",
+     "«И купи новый зонт."
+    ],
+    [
+     "A useful one this time.”",
+     "На этот раз полезный»."
+    ]
+   ]
+  },
+  {
+   "en": "On her last morning in Kalna, Lena stood with Vera at the door. The crow from the pass was sitting on the fence. “It came back with you,” Vera said. “My crows always know who belongs here.”\n“Do I belong here?” Lena asked.\n“That is your destiny, and you must decide it yourself,” Vera said with a smile. “But listen to me. You came too late for your grandmother. You did not come too late for me.”",
+   "ru": "В последнее утро в Кальне Лена стояла с Верой у двери. Ворона с перевала сидела на заборе. «Она вернулась вместе с тобой, — сказала Вера. — Мои вороны всегда знают, кто здесь свой».\n«А я здесь своя?» — спросила Лена.\n«Это твоя судьба, и решать её тебе самой, — с улыбкой сказала Вера. — Но послушай меня. Ты пришла слишком поздно для своей бабушки. Но не слишком поздно для меня».",
+   "s": [
+    [
+     "On her last morning in Kalna, Lena stood with Vera at the door.",
+     "В последнее утро в Кальне Лена стояла с Верой у двери."
+    ],
+    [
+     "The crow from the pass was sitting on the fence.",
+     "Ворона с перевала сидела на заборе."
+    ],
+    [
+     "“It came back with you,” Vera said.",
+     "«Она вернулась вместе с тобой», — сказала Вера."
+    ],
+    [
+     "“My crows always know who belongs here.”",
+     "«Мои вороны всегда знают, кто здесь свой»."
+    ],
+    [
+     "“Do I belong here?” Lena asked.",
+     "«А я здесь своя?» — спросила Лена."
+    ],
+    [
+     "“That is your destiny, and you must decide it yourself,” Vera said with a smile.",
+     "«Это твоя судьба, и решать её тебе самой», — с улыбкой сказала Вера."
+    ],
+    [
+     "“But listen to me.",
+     "«Но послушай меня."
+    ],
+    [
+     "You came too late for your grandmother.",
+     "Ты пришла слишком поздно для своей бабушки."
+    ],
+    [
+     "You did not come too late for me.”",
+     "Но не слишком поздно для меня»."
+    ]
+   ]
+  },
+  {
+   "en": "In the valley Lena's phone finally found a signal. There were forty new emails, three updates and a message from her boss: “When are you coming back?” She looked at the green valley, at the old woman and at the black bird on the fence. Then she switched off the phone, turned around and went back inside, where Vera was making tea by the fireplace.",
+   "ru": "В долине телефон Лены наконец поймал сигнал. Там было сорок новых писем, три обновления и сообщение от начальника: «Когда вы вернётесь?» Она посмотрела на зелёную долину, на старую женщину и на чёрную птицу на заборе. Потом выключила телефон, повернулась и вернулась в дом, где Вера заваривала чай у камина.",
+   "s": [
+    [
+     "In the valley Lena's phone finally found a signal.",
+     "В долине телефон Лены наконец поймал сигнал."
+    ],
+    [
+     "There were forty new emails, three updates and a message from her boss: “When are you coming back?”",
+     "Там было сорок новых писем, три обновления и сообщение от начальника: «Когда вы вернётесь?»"
+    ],
+    [
+     "She looked at the green valley, at the old woman and at the black bird on the fence.",
+     "Она посмотрела на зелёную долину, на старую женщину и на чёрную птицу на заборе."
+    ],
+    [
+     "Then she switched off the phone, turned around and went back inside, where Vera was making tea by the fireplace.",
+     "Потом выключила телефон, повернулась и вернулась в дом, где Вера заваривала чай у камина."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(артикль), один",
+  "able": "способный (быть в состоянии)",
+  "about": "о, около",
+  "across": "через, поперёк",
+  "afraid": "боящийся",
+  "after": "после, через",
+  "afternoon": "день, после полудня",
+  "again": "снова",
+  "ago": "назад",
+  "ahead": "впереди",
+  "alive": "живой",
+  "all": "весь, все",
+  "alone": "один, одна",
+  "aloud": "вслух",
+  "always": "всегда",
+  "an": "(артикль)",
+  "and": "и, а",
+  "angry": "злой, сердитый",
+  "animal": "животное",
+  "another": "ещё один",
+  "answered": "ответил(а)",
+  "approach": "подход",
+  "are": "есть, являются",
+  "around": "около, вокруг",
+  "as": "как, словно",
+  "ashamed": "пристыженный",
+  "ask": "попросить, спросить",
+  "asked": "спросил(а), попросила",
+  "at": "в, у, на",
+  "away": "прочь",
+  "back": "обратно, назад",
+  "backpack": "рюкзак",
+  "bad": "плохой",
+  "be": "быть",
+  "beak": "клюв",
+  "beard": "борода",
+  "became": "стал(а)",
+  "because": "потому что",
+  "been": "была (pp от be)",
+  "before": "до, перед",
+  "began": "начал(а)",
+  "behind": "за, позади",
+  "believe": "верить",
+  "belong": "принадлежать",
+  "belongs": "принадлежит",
+  "below": "внизу",
+  "big": "большой",
+  "biggest": "самый большой",
+  "bird": "птица",
+  "black": "чёрный",
+  "books": "книги",
+  "boot": "ботинок",
+  "boots": "ботинки",
+  "boss": "начальник",
+  "both": "оба",
+  "box": "шкатулка, коробка",
+  "boy": "мальчик",
+  "brave": "смелый",
+  "bread": "хлеб",
+  "breathing": "дыша",
+  "bright": "яркий",
+  "brought": "привезла",
+  "brown": "бурый, коричневый",
+  "but": "но",
+  "buy": "купить",
+  "by": "у, (кем-то)",
+  "call": "называть",
+  "calmly": "спокойно",
+  "came": "пришёл, пришла",
+  "can": "мочь",
+  "can't": "не могу",
+  "card": "карта (банковская)",
+  "careful": "осторожный, тщательный",
+  "carefully": "внимательно",
+  "carried": "унесённый",
+  "cash": "наличные",
+  "caught": "пойманный",
+  "changed": "изменились",
+  "changes": "меняется",
+  "children": "дети",
+  "church": "церковь",
+  "city": "город",
+  "climbed": "поднималась",
+  "closer": "ближе",
+  "clothes": "одежда",
+  "cold": "холодный",
+  "come": "входить, прийти",
+  "coming": "возвращаться (идти)",
+  "contracts": "контракты",
+  "could": "мог(ла)",
+  "courage": "храбрость",
+  "covered": "покрыл",
+  "coughing": "кашляя",
+  "crazy": "безумный",
+  "cross": "перейти",
+  "crossing": "переправа",
+  "crow": "ворона",
+  "crows": "вороны",
+  "cry": "крик",
+  "crying": "плачущий",
+  "curse": "проклятие",
+  "dark": "тёмный, темнота",
+  "day": "день",
+  "days": "дни",
+  "decide": "решать",
+  "decided": "решили",
+  "destiny": "судьба",
+  "did": "(вспом. гл.), сделал",
+  "didn't": "не (прош.)",
+  "died": "умерла",
+  "difficult": "трудный",
+  "do": "делать, (вспом. гл.)",
+  "does": "(вспом. гл.)",
+  "don't": "не (вспом.)",
+  "door": "дверь",
+  "down": "вниз",
+  "dozen": "дюжина, десяток",
+  "dried": "высушила",
+  "drown": "утонуть",
+  "easy": "лёгкий",
+  "emails": "письма (эл.)",
+  "endured": "терпела",
+  "evening": "вечер",
+  "every": "каждый",
+  "everything": "всё",
+  "exhausted": "измученный",
+  "eyes": "глаза",
+  "faces": "лица",
+  "factory": "фабрика",
+  "failure": "неудача",
+  "far": "далеко",
+  "fast": "быстрый",
+  "feel": "чувствовать",
+  "feet": "ноги (ступни)",
+  "fell": "упала",
+  "fence": "забор",
+  "few": "несколько",
+  "finally": "наконец",
+  "fingers": "пальцы",
+  "finished": "закончила",
+  "fire": "огонь",
+  "fireplace": "камин",
+  "first": "первый, сначала",
+  "five": "пять",
+  "flew": "летела",
+  "fly": "лететь",
+  "follow": "следовать",
+  "followed": "пошла за",
+  "for": "для, за, в течение",
+  "force": "сила",
+  "forest": "лес",
+  "forever": "навсегда",
+  "forty": "сорок",
+  "found": "нашли",
+  "from": "из, от, с",
+  "full": "полный",
+  "gave": "подарил",
+  "go": "идти",
+  "going": "собираться",
+  "gone": "исчез",
+  "good": "хороший",
+  "grandmother": "бабушка",
+  "grandmother's": "бабушкин",
+  "green": "зелёный",
+  "grey": "седой, серый",
+  "ground": "земля",
+  "guide": "проводник",
+  "had": "имел, (вспом. гл.)",
+  "hair": "волосы",
+  "halfway": "на полпути",
+  "hand": "рука",
+  "hands": "руки",
+  "happy": "счастливый",
+  "hard": "тяжело",
+  "hardest": "самый тяжёлый",
+  "has": "имеет, есть",
+  "have": "иметь",
+  "he": "он",
+  "head": "голова",
+  "heads": "головы",
+  "heard": "услышали",
+  "held": "держала",
+  "her": "её, ей",
+  "here": "здесь",
+  "high": "высокий, высоко",
+  "higher": "выше",
+  "him": "его, ему",
+  "his": "его",
+  "honour": "честь",
+  "hours": "часы",
+  "house": "дом",
+  "houses": "дома",
+  "how": "как",
+  "hurt": "болели, ранить",
+  "hut": "хижина",
+  "i": "я",
+  "i'm": "я",
+  "icy": "ледяной",
+  "if": "если",
+  "in": "в",
+  "incredible": "невероятный",
+  "inside": "внутри, в дом",
+  "interesting": "интересный",
+  "into": "в",
+  "investigate": "расследовать, выяснить",
+  "is": "есть, является",
+  "it": "он, она, оно",
+  "its": "его, её",
+  "just": "просто",
+  "kalna": "Кальна (деревня)",
+  "keep": "оставить",
+  "know": "знать",
+  "knows": "знает",
+  "language": "язык",
+  "languages": "языки",
+  "last": "последний",
+  "late": "поздно",
+  "later": "позже",
+  "laughed": "засмеялся",
+  "lay": "лежал(а)",
+  "left": "оставила, уехала",
+  "leg": "нога, лапа",
+  "legs": "ноги",
+  "lena": "Лена (имя)",
+  "lena's": "Ленин",
+  "let's": "давай(те)",
+  "letter": "письмо",
+  "life": "жизнь",
+  "listen": "слушать",
+  "listened": "слушала",
+  "little": "маленький",
+  "lived": "жила",
+  "lives": "живёт",
+  "long": "долгий, долго",
+  "look": "смотреть",
+  "looked": "посмотрел(а)",
+  "lost": "потеряла",
+  "loud": "громкий",
+  "louder": "громче",
+  "loudly": "громко",
+  "loved": "любили",
+  "luckily": "к счастью",
+  "machine": "терминал, машина",
+  "made": "развёл, сделал",
+  "making": "заваривала",
+  "man": "человек, мужчина",
+  "map": "карта",
+  "marry": "выйти замуж",
+  "me": "меня, мне",
+  "melted": "растаял",
+  "message": "сообщение",
+  "met": "встретила",
+  "minute": "минута",
+  "minutes": "минуты",
+  "mist": "туман",
+  "mistakes": "ошибки",
+  "moment": "мгновение",
+  "more": "больше, ещё",
+  "morning": "утро",
+  "most": "большая часть",
+  "mountains": "горы",
+  "moved": "сдвинулся",
+  "moving": "двигаясь",
+  "must": "должна",
+  "my": "мой",
+  "name": "имя",
+  "native": "родной",
+  "near": "около",
+  "never": "никогда",
+  "new": "новый",
+  "next": "следующий",
+  "night": "ночь",
+  "no": "нет, никакой",
+  "nobody": "никто",
+  "noon": "полдень",
+  "not": "не",
+  "now": "теперь",
+  "of": "из, (родительный падеж)",
+  "off": "выключила, отдых",
+  "office": "офис",
+  "old": "старый",
+  "on": "на",
+  "once": "однажды",
+  "one": "один",
+  "only": "только",
+  "onto": "на",
+  "opened": "открыла, расступился",
+  "or": "или",
+  "other": "другой",
+  "our": "наш",
+  "out": "из, наружу",
+  "outside": "снаружи",
+  "over": "над",
+  "own": "собственный",
+  "pass": "перевал",
+  "path": "тропа",
+  "patiently": "терпеливо",
+  "pay": "заплатить",
+  "people": "люди",
+  "phone": "телефон",
+  "please": "пожалуйста",
+  "pocket": "карман",
+  "prepare": "подготовиться",
+  "pulled": "вытащил, тянула",
+  "put": "наложила",
+  "quiet": "тихий",
+  "quietly": "тихо",
+  "raise": "повышать",
+  "ran": "убежала",
+  "reached": "дошли",
+  "read": "читать, прочитала",
+  "really": "действительно",
+  "recordings": "записи",
+  "regret": "сожаление",
+  "released": "освободила",
+  "ring": "кольцо",
+  "river": "река",
+  "road": "дорога",
+  "rocks": "камни, скалы",
+  "roof": "крыша",
+  "sad": "печальный",
+  "safe": "в безопасности",
+  "said": "сказал(а)",
+  "same": "тот же",
+  "sat": "сидела, села",
+  "saw": "увидела",
+  "say": "говорят",
+  "says": "пишет, говорит",
+  "screamed": "закричала",
+  "seventy": "семьдесят",
+  "shaking": "дрожа",
+  "sharp": "острый",
+  "she": "она",
+  "shepherds": "пастухов",
+  "shh": "тише",
+  "shook": "покачал",
+  "short": "короткий",
+  "shout": "кричать",
+  "shouted": "кричала",
+  "showing": "показывая",
+  "shows": "показывает",
+  "side": "сторона",
+  "signal": "сигнал",
+  "silver": "серебряный",
+  "sister": "сестра",
+  "sisters": "сёстры",
+  "sitting": "сидела",
+  "sixty": "шестьдесят",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smile": "улыбка",
+  "smiled": "улыбнулся",
+  "smiles": "улыбки",
+  "snow": "снег",
+  "so": "так, поэтому",
+  "softly": "мягко",
+  "software": "программы",
+  "sometimes": "иногда",
+  "sorry": "сожалеющий",
+  "sound": "звук",
+  "speak": "говорить",
+  "speakers": "говорящие",
+  "spoke": "говорила",
+  "spring": "весна",
+  "started": "начали",
+  "step": "шаг",
+  "still": "всё ещё",
+  "stone": "камень",
+  "stones": "камни",
+  "stood": "стояла",
+  "stopped": "остановилась",
+  "story": "история",
+  "strange": "странный",
+  "strangers": "чужаки",
+  "strong": "сильный",
+  "studied": "изучала",
+  "suddenly": "вдруг",
+  "sure": "уверенный",
+  "surprised": "удивлённый",
+  "switched": "выключила",
+  "take": "взять, сделать",
+  "taken": "брала",
+  "talked": "говорил(а)",
+  "tea": "чай",
+  "teacher": "учительница",
+  "terrible": "ужасный",
+  "than": "чем",
+  "that": "что, тот, это",
+  "the": "(артикль)",
+  "their": "их",
+  "them": "их, им",
+  "then": "потом, тогда",
+  "there": "там",
+  "these": "эти",
+  "they": "они",
+  "thin": "тонкий",
+  "things": "вещи",
+  "think": "думать",
+  "this": "этот, это",
+  "thought": "подумала",
+  "three": "три",
+  "through": "через, сквозь",
+  "time": "раз, время",
+  "tiny": "крошечный",
+  "to": "к, в, (частица)",
+  "told": "сказал, рассказала",
+  "tomas": "Томас (имя)",
+  "tomorrow": "завтра",
+  "too": "слишком",
+  "took": "взяла",
+  "top": "вершина",
+  "torch": "фонарь",
+  "tourist": "туристический",
+  "town": "городок",
+  "translate": "перевести",
+  "translation": "перевод",
+  "translator": "переводчица",
+  "trap": "капкан",
+  "tree": "дерево",
+  "tries": "пытается",
+  "trip": "поездка",
+  "true": "правда",
+  "try": "попробовать",
+  "turned": "повернулась",
+  "twice": "дважды",
+  "two": "два",
+  "umbrella": "зонт",
+  "under": "под",
+  "university": "университет",
+  "until": "до",
+  "up": "вверх, наверху",
+  "updates": "обновления",
+  "used": "использовала",
+  "useful": "полезный",
+  "usually": "обычно",
+  "vacation": "отпуск",
+  "valley": "долина",
+  "vera": "Вера (имя)",
+  "very": "очень",
+  "village": "деревня",
+  "voice": "голос",
+  "wait": "ждать",
+  "walked": "пошла",
+  "walking": "идти пешком",
+  "wanted": "хотела",
+  "was": "был(а)",
+  "watched": "смотрела",
+  "water": "вода",
+  "way": "путь, способ",
+  "we": "мы",
+  "weather": "погода",
+  "weeks": "недели",
+  "well": "хорошо, что ж",
+  "went": "шла, вернулась",
+  "were": "были",
+  "wet": "мокрый",
+  "when": "когда",
+  "where": "где",
+  "whispered": "прошептала",
+  "white": "белый",
+  "who": "кто",
+  "whole": "весь",
+  "why": "почему",
+  "will": "(буд. время)",
+  "wind": "ветер",
+  "wire": "проволочный",
+  "witch": "ведьма",
+  "with": "с",
+  "without": "без",
+  "woman": "женщина",
+  "wooden": "деревянный",
+  "word": "слово",
+  "words": "слова",
+  "worked": "работала",
+  "written": "написала",
+  "year": "год",
+  "years": "лет, годы",
+  "yellow": "жёлтый",
+  "you": "ты, вы",
+  "young": "молодой",
+  "your": "твой, ваш",
+  "yourself": "сама"
+ },
+ "vocab": {
+  "these": 3,
+  "turned": 23,
+  "native": 43,
+  "speakers": 43,
+  "feet": 63,
+  "listened": 83,
+  "listen": 83,
+  "umbrella": 103,
+  "translate": 123,
+  "translation": 123,
+  "drown": 143,
+  "witch": 163,
+  "fireplace": 183,
+  "incredible": 203,
+  "forever": 224,
+  "belong": 244,
+  "belongs": 244,
+  "useful": 264,
+  "cash": 284,
+  "crow": 305,
+  "crows": 305,
+  "prepare": 325,
+  "honour": 345,
+  "regret": 365,
+  "vacation": 385,
+  "mist": 413,
+  "destiny": 434,
+  "force": 461,
+  "exhausted": 484,
+  "failure": 505,
+  "updates": 527,
+  "endured": 548,
+  "investigate": 569,
+  "released": 590,
+  "approach": 611,
+  "raise": 632,
+  "voice": 632
+ }
+}

@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why was the meeting so important for Gilbert's company?",
+  "q_ru": "Почему встреча была так важна для компании Гилберта?",
+  "options": [
+   "The company had almost no money left",
+   "Gilbert wanted a new job in Porto",
+   "Mrs Ferreira wanted to buy Gilbert's house",
+   "The glasses had broken in tests"
+  ],
+  "options_ru": [
+   "У компании почти не осталось денег",
+   "Гилберт хотел новую работу в Порту",
+   "Миссис Феррейра хотела купить дом Гилберта",
+   "Бокалы разбились на испытаниях"
+  ],
+  "answer": 0,
+  "explain_ru": "Если бы Имельда Феррейра не вложила деньги, «Эверглас», скорее всего, закрылся бы до лета."
+ },
+ {
+  "q": "How did the two suitcases get mixed up?",
+  "q_ru": "Как перепутались чемоданы?",
+  "options": [
+   "A hotel worker gave Gilbert the wrong one",
+   "Poppy took Gilbert's on purpose",
+   "Both were black with a red ribbon",
+   "The airline sent one to Spain"
+  ],
+  "options_ru": [
+   "Работник отеля выдал Гилберту не тот чемодан",
+   "Поппи нарочно взяла чемодан Гилберта",
+   "Оба были чёрными с красной ленточкой",
+   "Авиакомпания отправила один в Испанию"
+  ],
+  "answer": 2,
+  "explain_ru": "Чемоданы были одинаковыми — чёрными с красной ленточкой на ручке, — и Гилберт снял с ленты чужой."
+ },
+ {
+  "q": "How did Poppy discover that the glasses did not break?",
+  "q_ru": "Как Поппи узнала, что бокалы не бьются?",
+  "options": [
+   "She read about them on Gilbert's card",
+   "Her cat knocked one onto the floor",
+   "She washed them in a hot dishwasher",
+   "Gilbert told her on the phone"
+  ],
+  "options_ru": [
+   "Прочитала о них на визитке Гилберта",
+   "Её кошка сбросила один на пол",
+   "Помыла их в горячей посудомойке",
+   "Гилберт сказал ей по телефону"
+  ],
+  "answer": 1,
+  "explain_ru": "Кошка Бисквит сбросила бокал на каменный пол, а он только подпрыгнул и закатился под холодильник."
+ },
+ {
+  "q": "What was the problem at the start of the meeting?",
+  "q_ru": "В чём была проблема в начале встречи?",
+  "options": [
+   "Gilbert's laptop did not work",
+   "Mrs Ferreira was very late",
+   "Gilbert had forgotten the numbers",
+   "Gilbert had no glass to show"
+  ],
+  "options_ru": [
+   "Ноутбук Гилберта не работал",
+   "Миссис Феррейра сильно опоздала",
+   "Гилберт забыл цифры",
+   "Гилберту нечего было показать — бокалов не было"
+  ],
+  "answer": 3,
+  "explain_ru": "Образцы остались в чемодане, и без бокала его слова звучали неубедительно."
+ },
+ {
+  "q": "Why did the name Ferreira sound familiar to Poppy?",
+  "q_ru": "Почему фамилия Феррейра показалась Поппи знакомой?",
+  "options": [
+   "She had worked in one of the restaurants",
+   "She was booked for the family's birthday party",
+   "She had seen Mrs Ferreira on television",
+   "Mrs Ferreira was her aunt"
+  ],
+  "options_ru": [
+   "Она работала в одном из ресторанов",
+   "Её пригласили на день рождения в эту семью",
+   "Она видела миссис Феррейру по телевизору",
+   "Миссис Феррейра была её тётей"
+  ],
+  "answer": 1,
+  "explain_ru": "Родственница семьи Феррейра пригласила её на день рождения маленького Дуарте — внука Имельды."
+ },
+ {
+  "q": "What is Gilbert's third rule now?",
+  "q_ru": "Каково теперь третье правило Гилберта?",
+  "options": [
+   "Never travel with glasses",
+   "Always put a chicken on your bag",
+   "Never check in a suitcase",
+   "Sometimes the wrong suitcase is the right one"
+  ],
+  "options_ru": [
+   "Никогда не путешествовать с бокалами",
+   "Всегда вешать курицу на сумку",
+   "Никогда не сдавать чемодан в багаж",
+   "Иногда не тот чемодан — как раз тот, что нужно"
+  ],
+  "answer": 3,
+  "explain_ru": "Он изменил третье правило: «Иногда не тот чемодан — как раз тот, что нужно»."
+ }
+]

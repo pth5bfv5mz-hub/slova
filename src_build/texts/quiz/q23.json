@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did Professor Rourke invite Lena to his expedition?",
+  "q_ru": "Почему профессор Рурк пригласил Лену в экспедицию?",
+  "options": [
+   "She knew the desert and its families well.",
+   "She could read the old Qarsi script.",
+   "She was a famous expert on ancient kings.",
+   "She had worked with his father before."
+  ],
+  "options_ru": [
+   "Она хорошо знала пустыню и местные семьи.",
+   "Она умела читать древнее письмо карси.",
+   "Она была известным специалистом по древним царям.",
+   "Она раньше работала с его отцом."
+  ],
+  "answer": 1,
+  "explain_ru": "Рурк писал: «I need someone who can read the old Qarsi script», а Лена — одна из пяти учёных в мире, кто его изучал."
+ },
+ {
+  "q": "The symbols near the fireplace were less deep, with sharper edges. What did this show?",
+  "q_ru": "Знаки у очага были менее глубокими, с более острыми краями. Что это показывало?",
+  "options": [
+   "They were carved by a king's best workers.",
+   "They were the oldest part of the hall.",
+   "They were a list of sheep and goats.",
+   "They were carved much later than the rest."
+  ],
+  "options_ru": [
+   "Их вырезали лучшие мастера царя.",
+   "Это была самая древняя часть зала.",
+   "Это был список овец и коз.",
+   "Их вырезали гораздо позже, чем остальное."
+  ],
+  "answer": 3,
+  "explain_ru": "В тексте: «as if they had been cut much later than the rest». И правда, Элли вырезала надпись двадцать лет назад."
+ },
+ {
+  "q": "Why did Rourke cry when he found the red umbrella?",
+  "q_ru": "Почему Рурк заплакал, когда нашёл красный зонтик?",
+  "options": [
+   "It belonged to his little sister, who was lost in a storm.",
+   "It proved that his rival Dr. Hollis was a liar.",
+   "It was the most valuable find of his career.",
+   "It reminded him of his own childhood toys."
+  ],
+  "options_ru": [
+   "Он принадлежал его младшей сестре, пропавшей во время бури.",
+   "Он доказывал, что его соперник доктор Холлис — лжец.",
+   "Это была самая ценная находка в его карьере.",
+   "Он напомнил ему о собственных детских игрушках."
+  ],
+  "answer": 0,
+  "explain_ru": "46 лет назад во время песчаной бури пропала его сестра Элли, шестилетняя девочка, которая «never went anywhere without her red umbrella»."
+ },
+ {
+  "q": "Lena noticed that the old woman's eyes were grey-blue, not dark. Why is this detail important?",
+  "q_ru": "Лена заметила, что глаза старухи серо-голубые, а не тёмные. Почему эта деталь важна?",
+  "options": [
+   "It shows that she is ill and nearly blind.",
+   "It shows that she is a witch, as the workers say.",
+   "It suggests she was not born in the desert family.",
+   "It suggests she is angry with the strangers."
+  ],
+  "options_ru": [
+   "Это показывает, что она больна и почти слепа.",
+   "Это показывает, что она ведьма, как говорят рабочие.",
+   "Это намекает, что она не родилась в этой пустынной семье.",
+   "Это намекает, что она злится на чужаков."
+  ],
+  "answer": 2,
+  "explain_ru": "У Самира глаза тёмные, а у бабушки — «grey-blue». Это первый намёк, что она чужая по рождению, — на самом деле это Элли."
+ },
+ {
+  "q": "'She has endured the waiting long enough.' What does 'endure' mean here?",
+  "q_ru": "«She has endured the waiting long enough». Что значит «endure» здесь?",
+  "options": [
+   "To forget something on purpose.",
+   "To enjoy something for a long time.",
+   "To stop something suddenly.",
+   "To bear something difficult for a long time."
+  ],
+  "options_ru": [
+   "Специально забыть что-то.",
+   "Долго наслаждаться чем-то.",
+   "Внезапно прекратить что-то.",
+   "Долго терпеть что-то трудное."
+  ],
+  "answer": 3,
+  "explain_ru": "Элли много лет ждала, что брат или отец прочтут её послание. «Endure» — терпеть, выносить что-то тяжёлое."
+ },
+ {
+  "q": "What did Rourke do after he found his sister?",
+  "q_ru": "Что сделал Рурк после того, как нашёл сестру?",
+  "options": [
+   "He stayed in the stone house and looked after sheep.",
+   "He took her back to the city to live with him.",
+   "He released the find to the press by Friday.",
+   "He went back to digging for kings and temples."
+  ],
+  "options_ru": [
+   "Остался в каменном доме и ухаживал за овцами.",
+   "Увёз её в город жить с ним.",
+   "Сообщил о находке прессе к пятнице.",
+   "Вернулся к раскопкам царей и храмов."
+  ],
+  "answer": 0,
+  "explain_ru": "«Rourke never returned to the city. He stayed in the stone house and learned to look after sheep» — «It would be better to spend what's left of it listening»."
+ }
+]

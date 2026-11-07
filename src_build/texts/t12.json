@@ -1,0 +1,1362 @@
+{
+ "id": 12,
+ "title_en": "Batch Fourteen",
+ "title_ru": "Партия четырнадцать",
+ "genre": "Триллер",
+ "summary_ru": "Дегустатор шоколадной фабрики начинает получать с неизвестного номера сообщения от человека, который знает о ней слишком много.",
+ "paragraphs": [
+  {
+   "en": "Nora Fields had a rare ability. She could put a piece of chocolate in her mouth and tell you everything about it: where the cocoa came from, how much sugar was inside, even how long it had been in the box. For six years she had worked as a taster at the Bellwood chocolate factory, the biggest building in the small grey town of Bellwood.",
+   "ru": "У Норы Филдс была редкая способность. Она могла положить в рот кусочек шоколада и рассказать о нём всё: откуда какао, сколько в нём сахара, даже как долго он пролежал в коробке. Шесть лет она работала дегустатором на шоколадной фабрике «Беллвуд», самом большом здании в маленьком сером городке Беллвуд.",
+   "s": [
+    [
+     "Nora Fields had a rare ability.",
+     "У Норы Филдс была редкая способность."
+    ],
+    [
+     "She could put a piece of chocolate in her mouth and tell you everything about it: where the cocoa came from, how much sugar was inside, even how long it had been in the box.",
+     "Она могла положить в рот кусочек шоколада и рассказать о нём всё: откуда какао, сколько в нём сахара, даже как долго он пролежал в коробке."
+    ],
+    [
+     "For six years she had worked as a taster at the Bellwood chocolate factory, the biggest building in the small grey town of Bellwood.",
+     "Шесть лет она работала дегустатором на шоколадной фабрике «Беллвуд», самом большом здании в маленьком сером городке Беллвуд."
+    ]
+   ]
+  },
+  {
+   "en": "The first message came on a Tuesday night in November. Nora was sitting on her sofa with a cup of tea when her phone buzzed. The number was unknown.",
+   "ru": "Первое сообщение пришло во вторник вечером в ноябре. Нора сидела на диване с чашкой чая, когда её телефон завибрировал. Номер был неизвестен.",
+   "s": [
+    [
+     "The first message came on a Tuesday night in November.",
+     "Первое сообщение пришло во вторник вечером в ноябре."
+    ],
+    [
+     "Nora was sitting on her sofa with a cup of tea when her phone buzzed.",
+     "Нора сидела на диване с чашкой чая, когда её телефон завибрировал."
+    ],
+    [
+     "The number was unknown.",
+     "Номер был неизвестен."
+    ]
+   ]
+  },
+  {
+   "en": "“Your plant is thirsty, Nora.”",
+   "ru": "«Твоё растение хочет пить, Нора».",
+   "s": [
+    [
+     "“Your plant is thirsty, Nora.”",
+     "«Твоё растение хочет пить, Нора»."
+    ]
+   ]
+  },
+  {
+   "en": "She looked at the window. On the windowsill stood a small green plant that her mother had given her. Its leaves were low and yellow. She had forgotten to water it for two weeks. Nora felt cold. She lived on the third floor. Nobody could see her windowsill from the street — or could they? She got up, filled a glass with water and gave the plant a drink. Her hands were not completely steady.",
+   "ru": "Она посмотрела на окно. На подоконнике стояло маленькое зелёное растение, которое ей подарила мама. Его листья опустились и пожелтели. Она забыла поливать его две недели. Нору бросило в холод. Она жила на третьем этаже. Никто не мог увидеть её подоконник с улицы — или всё-таки мог? Она встала, налила стакан воды и полила растение. Руки у неё слегка дрожали.",
+   "s": [
+    [
+     "She looked at the window.",
+     "Она посмотрела на окно."
+    ],
+    [
+     "On the windowsill stood a small green plant that her mother had given her.",
+     "На подоконнике стояло маленькое зелёное растение, которое ей подарила мама."
+    ],
+    [
+     "Its leaves were low and yellow.",
+     "Его листья опустились и пожелтели."
+    ],
+    [
+     "She had forgotten to water it for two weeks.",
+     "Она забыла поливать его две недели."
+    ],
+    [
+     "Nora felt cold.",
+     "Нору бросило в холод."
+    ],
+    [
+     "She lived on the third floor.",
+     "Она жила на третьем этаже."
+    ],
+    [
+     "Nobody could see her windowsill from the street — or could they?",
+     "Никто не мог увидеть её подоконник с улицы — или всё-таки мог?"
+    ],
+    [
+     "She got up, filled a glass with water and gave the plant a drink.",
+     "Она встала, налила стакан воды и полила растение."
+    ],
+    [
+     "Her hands were not completely steady.",
+     "Руки у неё слегка дрожали."
+    ]
+   ]
+  },
+  {
+   "en": "“Who is this?” she wrote. There was no answer.",
+   "ru": "«Кто это?» — написала она. Ответа не было.",
+   "s": [
+    [
+     "“Who is this?”",
+     "«Кто это?»"
+    ],
+    [
+     "she wrote.",
+     "Она написала."
+    ],
+    [
+     "There was no answer.",
+     "Ответа не было."
+    ]
+   ]
+  },
+  {
+   "en": "The next evening, when she came home from work, another message was waiting. “Nice red cap today.” Nora took off her red cap and threw it on the table. She closed the curtains, then checked the lock on the door twice. For a long time she sat in the dark and listened to the noises outside: cars, a dog, a neighbour's television.",
+   "ru": "На следующий вечер, когда она пришла домой с работы, её ждало ещё одно сообщение. «Милая красная кепка сегодня». Нора сняла красную кепку и бросила её на стол. Она задёрнула шторы, потом дважды проверила замок на двери. Долго она сидела в темноте и слушала звуки снаружи: машины, собаку, соседский телевизор.",
+   "s": [
+    [
+     "The next evening, when she came home from work, another message was waiting.",
+     "На следующий вечер, когда она пришла домой с работы, её ждало ещё одно сообщение."
+    ],
+    [
+     "“Nice red cap today.”",
+     "«Милая красная кепка сегодня»."
+    ],
+    [
+     "Nora took off her red cap and threw it on the table.",
+     "Нора сняла красную кепку и бросила её на стол."
+    ],
+    [
+     "She closed the curtains, then checked the lock on the door twice.",
+     "Она задёрнула шторы, потом дважды проверила замок на двери."
+    ],
+    [
+     "For a long time she sat in the dark and listened to the noises outside: cars, a dog, a neighbour's television.",
+     "Долго она сидела в темноте и слушала звуки снаружи: машины, собаку, соседский телевизор."
+    ]
+   ]
+  },
+  {
+   "en": "She thought about her ex-boyfriend, Dan. Dan had always bragged about his ability to find anything about anyone on the internet. Probably this was his idea of a joke. She called him.",
+   "ru": "Она подумала о своём бывшем парне, Дэне. Дэн всегда хвастался своей способностью найти в интернете что угодно о ком угодно. Вероятно, это была его идея шутки. Она позвонила ему.",
+   "s": [
+    [
+     "She thought about her ex-boyfriend, Dan.",
+     "Она подумала о своём бывшем парне, Дэне."
+    ],
+    [
+     "Dan had always bragged about his ability to find anything about anyone on the internet.",
+     "Дэн всегда хвастался своей способностью найти в интернете что угодно о ком угодно."
+    ],
+    [
+     "Probably this was his idea of a joke.",
+     "Вероятно, это была его идея шутки."
+    ],
+    [
+     "She called him.",
+     "Она позвонила ему."
+    ]
+   ]
+  },
+  {
+   "en": "“Messages? From me?” Dan laughed. “Nora, I haven't thought about you for months. You're going crazy in that little town.” He hung up. Strangely, she believed him.",
+   "ru": "«Сообщения? От меня? — засмеялся Дэн. — Нора, я не вспоминал о тебе несколько месяцев. Ты сходишь с ума в этом маленьком городке». Он повесил трубку. Как ни странно, она ему поверила.",
+   "s": [
+    [
+     "“Messages?",
+     "«Сообщения?"
+    ],
+    [
+     "From me?”",
+     "От меня?»"
+    ],
+    [
+     "Dan laughed.",
+     "Дэн засмеялся."
+    ],
+    [
+     "“Nora, I haven't thought about you for months.",
+     "«Нора, я не вспоминал о тебе несколько месяцев."
+    ],
+    [
+     "You're going crazy in that little town.”",
+     "Ты сходишь с ума в этом маленьком городке»."
+    ],
+    [
+     "He hung up.",
+     "Он повесил трубку."
+    ],
+    [
+     "Strangely, she believed him.",
+     "Как ни странно, она ему поверила."
+    ]
+   ]
+  },
+  {
+   "en": "At midnight the phone buzzed again. This time the message was longer. “Don't be afraid. I am not watching you. I am watching them. Tomorrow they will make batch 14. Taste it carefully.”",
+   "ru": "В полночь телефон снова завибрировал. На этот раз сообщение было длиннее. «Не бойся. Я слежу не за тобой. Я слежу за ними. Завтра они будут делать партию 14. Попробуй её внимательно».",
+   "s": [
+    [
+     "At midnight the phone buzzed again.",
+     "В полночь телефон снова завибрировал."
+    ],
+    [
+     "This time the message was longer.",
+     "На этот раз сообщение было длиннее."
+    ],
+    [
+     "“Don't be afraid.",
+     "«Не бойся."
+    ],
+    [
+     "I am not watching you.",
+     "Я слежу не за тобой."
+    ],
+    [
+     "I am watching them.",
+     "Я слежу за ними."
+    ],
+    [
+     "Tomorrow they will make batch 14.",
+     "Завтра они будут делать партию 14."
+    ],
+    [
+     "Taste it carefully.”",
+     "Попробуй её внимательно»."
+    ]
+   ]
+  },
+  {
+   "en": "Nora did not sleep that night. In the morning she went to the factory as usual. The building was warm and smelled of sugar. She put on her white coat and sat down at her table in the tasting room. At eleven o'clock a worker brought her a tray with small pieces of chocolate from batch 14. All morning she could not stop looking at the other workers. Was one of them sending the messages? Old Sam from the night shift? The quiet girl from the packing line? Everyone looked normal and busy.",
+   "ru": "Нора не спала в ту ночь. Утром она, как обычно, пошла на фабрику. В здании было тепло и пахло сахаром. Она надела белый халат и села за свой стол в дегустационной комнате. В одиннадцать часов рабочий принёс ей поднос с маленькими кусочками шоколада из партии 14. Всё утро она не могла перестать смотреть на других рабочих. Может, сообщения посылает кто-то из них? Старый Сэм из ночной смены? Тихая девушка с упаковочной линии? Все выглядели обычными и занятыми.",
+   "s": [
+    [
+     "Nora did not sleep that night.",
+     "Нора не спала в ту ночь."
+    ],
+    [
+     "In the morning she went to the factory as usual.",
+     "Утром она, как обычно, пошла на фабрику."
+    ],
+    [
+     "The building was warm and smelled of sugar.",
+     "В здании было тепло и пахло сахаром."
+    ],
+    [
+     "She put on her white coat and sat down at her table in the tasting room.",
+     "Она надела белый халат и села за свой стол в дегустационной комнате."
+    ],
+    [
+     "At eleven o'clock a worker brought her a tray with small pieces of chocolate from batch 14.",
+     "В одиннадцать часов рабочий принёс ей поднос с маленькими кусочками шоколада из партии 14."
+    ],
+    [
+     "All morning she could not stop looking at the other workers.",
+     "Всё утро она не могла перестать смотреть на других рабочих."
+    ],
+    [
+     "Was one of them sending the messages?",
+     "Может, сообщения посылает кто-то из них?"
+    ],
+    [
+     "Old Sam from the night shift?",
+     "Старый Сэм из ночной смены?"
+    ],
+    [
+     "The quiet girl from the packing line?",
+     "Тихая девушка с упаковочной линии?"
+    ],
+    [
+     "Everyone looked normal and busy.",
+     "Все выглядели обычными и занятыми."
+    ]
+   ]
+  },
+  {
+   "en": "She lifted the first piece with a silver spoon and put it on her tongue. Sweet, rich, smooth — and then, at the very end, something else. A light, bitter taste, like almonds. There were no almonds in this recipe. Something was in the chocolate that should not be there.",
+   "ru": "Она подняла первый кусочек серебряной ложкой и положила его на язык. Сладкий, насыщенный, мягкий — а потом, в самом конце, что-то ещё. Лёгкий горький вкус, как у миндаля. В этом рецепте не было миндаля. В шоколаде было что-то, чего там быть не должно.",
+   "s": [
+    [
+     "She lifted the first piece with a silver spoon and put it on her tongue.",
+     "Она подняла первый кусочек серебряной ложкой и положила его на язык."
+    ],
+    [
+     "Sweet, rich, smooth — and then, at the very end, something else.",
+     "Сладкий, насыщенный, мягкий — а потом, в самом конце, что-то ещё."
+    ],
+    [
+     "A light, bitter taste, like almonds.",
+     "Лёгкий горький вкус, как у миндаля."
+    ],
+    [
+     "There were no almonds in this recipe.",
+     "В этом рецепте не было миндаля."
+    ],
+    [
+     "Something was in the chocolate that should not be there.",
+     "В шоколаде было что-то, чего там быть не должно."
+    ]
+   ]
+  },
+  {
+   "en": "She went straight to the office of the manager, Mr. Gerald Crane. Crane was a big man with a loud voice who constantly bragged about his new contract with the largest supermarket in the country. On his desk stood a photo of his new car.",
+   "ru": "Она пошла прямо в кабинет управляющего, мистера Джеральда Крейна. Крейн был крупным мужчиной с громким голосом, который постоянно хвастался своим новым контрактом с крупнейшим супермаркетом в стране. На его столе стояла фотография его новой машины.",
+   "s": [
+    [
+     "She went straight to the office of the manager, Mr. Gerald Crane.",
+     "Она пошла прямо в кабинет управляющего, мистера Джеральда Крейна."
+    ],
+    [
+     "Crane was a big man with a loud voice who constantly bragged about his new contract with the largest supermarket in the country.",
+     "Крейн был крупным мужчиной с громким голосом, который постоянно хвастался своим новым контрактом с крупнейшим супермаркетом в стране."
+    ],
+    [
+     "On his desk stood a photo of his new car.",
+     "На его столе стояла фотография его новой машины."
+    ]
+   ]
+  },
+  {
+   "en": "“Bitter?” He put a piece in his mouth and chewed. “It tastes perfect to me. You're tired, Nora. Take a day off.”",
+   "ru": "«Горький?» Он положил кусочек в рот и прожевал. «По-моему, вкус идеальный. Ты устала, Нора. Возьми выходной».",
+   "s": [
+    [
+     "“Bitter?”",
+     "«Горький?»"
+    ],
+    [
+     "He put a piece in his mouth and chewed.",
+     "Он положил кусочек в рот и прожевал."
+    ],
+    [
+     "“It tastes perfect to me.",
+     "«По-моему, вкус идеальный."
+    ],
+    [
+     "You're tired, Nora.",
+     "Ты устала, Нора."
+    ],
+    [
+     "Take a day off.”",
+     "Возьми выходной»."
+    ]
+   ]
+  },
+  {
+   "en": "“Mr. Crane, it is necessary to stop the line and test the chocolate in a laboratory.”",
+   "ru": "«Мистер Крейн, необходимо остановить линию и проверить шоколад в лаборатории».",
+   "s": [
+    [
+     "“Mr. Crane, it is necessary to stop the line and test the chocolate in a laboratory.”",
+     "«Мистер Крейн, необходимо остановить линию и проверить шоколад в лаборатории»."
+    ]
+   ]
+  },
+  {
+   "en": "His smile vanished. “The line stops when I say it stops,” he said. “Batch 14 goes to the shops on Friday. Close the door on your way out.”",
+   "ru": "Его улыбка исчезла. «Линия останавливается, когда я говорю, что она останавливается, — сказал он. — Партия 14 поступает в магазины в пятницу. Закрой дверь, когда будешь выходить».",
+   "s": [
+    [
+     "His smile vanished.",
+     "Его улыбка исчезла."
+    ],
+    [
+     "“The line stops when I say it stops,” he said.",
+     "«Линия останавливается, когда я говорю, что она останавливается», — сказал он."
+    ],
+    [
+     "“Batch 14 goes to the shops on Friday.",
+     "«Партия 14 поступает в магазины в пятницу."
+    ],
+    [
+     "Close the door on your way out.”",
+     "Закрой дверь, когда будешь выходить»."
+    ]
+   ]
+  },
+  {
+   "en": "That night the unknown number wrote again. “He will blame you. Your name is on every tasting report. He blamed me the same way.” Then a picture came: a map of the factory, drawn by hand. There was a red cross on a small room under the old stairs, behind the boiler room. Under the map were the words: “Accessible only through the low door behind the boilers. Tomorrow, 7 p.m., when the shift changes. I will distract them. Take photos of everything.”",
+   "ru": "В ту ночь неизвестный номер написал снова. «Он обвинит тебя. Твоё имя стоит на каждом отчёте о дегустации. Меня он обвинил точно так же». Потом пришла картинка: карта фабрики, нарисованная от руки. Красный крестик стоял на маленькой комнате под старой лестницей, за котельной. Под картой были слова: «Доступна только через низкую дверь за котлами. Завтра, в 7 вечера, когда меняется смена. Я их отвлеку. Сфотографируй всё».",
+   "s": [
+    [
+     "That night the unknown number wrote again.",
+     "В ту ночь неизвестный номер написал снова."
+    ],
+    [
+     "“He will blame you.",
+     "«Он обвинит тебя."
+    ],
+    [
+     "Your name is on every tasting report.",
+     "Твоё имя стоит на каждом отчёте о дегустации."
+    ],
+    [
+     "He blamed me the same way.”",
+     "Меня он обвинил точно так же»."
+    ],
+    [
+     "Then a picture came: a map of the factory, drawn by hand.",
+     "Потом пришла картинка: карта фабрики, нарисованная от руки."
+    ],
+    [
+     "There was a red cross on a small room under the old stairs, behind the boiler room.",
+     "Красный крестик стоял на маленькой комнате под старой лестницей, за котельной."
+    ],
+    [
+     "Under the map were the words: “Accessible only through the low door behind the boilers.",
+     "Под картой были слова: «Доступна только через низкую дверь за котлами."
+    ],
+    [
+     "Tomorrow, 7 p.m., when the shift changes.",
+     "Завтра, в 7 вечера, когда меняется смена."
+    ],
+    [
+     "I will distract them.",
+     "Я их отвлеку."
+    ],
+    [
+     "Take photos of everything.”",
+     "Сфотографируй всё»."
+    ]
+   ]
+  },
+  {
+   "en": "Nora read the message ten times. Fear told her to stay at home. But she was curious too, and she was angry. If children ate that chocolate, they could get very sick, and nobody would ever know why. She thought about it for a long time. At last she put the phone in her pocket and wrote one word: “OK.”",
+   "ru": "Нора прочитала сообщение десять раз. Страх говорил ей остаться дома. Но ей было и любопытно, и она злилась. Если дети съедят этот шоколад, они могут тяжело заболеть, и никто никогда не узнает почему. Она долго думала об этом. Наконец она положила телефон в карман и написала одно слово: «Хорошо».",
+   "s": [
+    [
+     "Nora read the message ten times.",
+     "Нора прочитала сообщение десять раз."
+    ],
+    [
+     "Fear told her to stay at home.",
+     "Страх говорил ей остаться дома."
+    ],
+    [
+     "But she was curious too, and she was angry.",
+     "Но ей было и любопытно, и она злилась."
+    ],
+    [
+     "If children ate that chocolate, they could get very sick, and nobody would ever know why.",
+     "Если дети съедят этот шоколад, они могут тяжело заболеть, и никто никогда не узнает почему."
+    ],
+    [
+     "She thought about it for a long time.",
+     "Она долго думала об этом."
+    ],
+    [
+     "At last she put the phone in her pocket and wrote one word: “OK.”",
+     "Наконец она положила телефон в карман и написала одно слово: «Хорошо»."
+    ]
+   ]
+  },
+  {
+   "en": "At five to seven she was standing in the dark corridor near the boiler room. At exactly seven, the fire alarm started to ring. Workers began to move toward the exits, talking and laughing. Nobody looked at Nora. She found the low door, bent down and went through.",
+   "ru": "Без пяти семь она стояла в тёмном коридоре возле котельной. Ровно в семь зазвонила пожарная тревога. Рабочие начали двигаться к выходам, разговаривая и смеясь. Никто не смотрел на Нору. Она нашла низкую дверь, наклонилась и прошла внутрь.",
+   "s": [
+    [
+     "At five to seven she was standing in the dark corridor near the boiler room.",
+     "Без пяти семь она стояла в тёмном коридоре возле котельной."
+    ],
+    [
+     "At exactly seven, the fire alarm started to ring.",
+     "Ровно в семь зазвонила пожарная тревога."
+    ],
+    [
+     "Workers began to move toward the exits, talking and laughing.",
+     "Рабочие начали двигаться к выходам, разговаривая и смеясь."
+    ],
+    [
+     "Nobody looked at Nora.",
+     "Никто не смотрел на Нору."
+    ],
+    [
+     "She found the low door, bent down and went through.",
+     "Она нашла низкую дверь, наклонилась и прошла внутрь."
+    ]
+   ]
+  },
+  {
+   "en": "The little room smelled of dust and chemicals. Under a dirty lamp stood six plastic boxes. She lifted the lid of the first one. Inside were brown bottles. Someone had cut the labels off, but on one bottle a small piece of the label was still there, with a skull and the word “POISON.” Next to the boxes lay a folder. In it Nora discovered letters from Marlow Sweets, Bellwood's biggest competitor. “When Bellwood's name is destroyed,” one letter said, “we will buy the factory at a low price, and you will have your money, Mr. Crane.”",
+   "ru": "В маленькой комнате пахло пылью и химикатами. Под грязной лампой стояли шесть пластиковых ящиков. Она подняла крышку первого. Внутри были коричневые бутылки. Кто-то срезал этикетки, но на одной бутылке ещё остался маленький кусок этикетки с черепом и словом «ЯД». Рядом с ящиками лежала папка. В ней Нора обнаружила письма от «Марлоу Свитс», главного конкурента «Беллвуда». «Когда имя „Беллвуда“ будет уничтожено, — говорилось в одном письме, — мы купим фабрику по низкой цене, и вы получите свои деньги, мистер Крейн».",
+   "s": [
+    [
+     "The little room smelled of dust and chemicals.",
+     "В маленькой комнате пахло пылью и химикатами."
+    ],
+    [
+     "Under a dirty lamp stood six plastic boxes.",
+     "Под грязной лампой стояли шесть пластиковых ящиков."
+    ],
+    [
+     "She lifted the lid of the first one.",
+     "Она подняла крышку первого."
+    ],
+    [
+     "Inside were brown bottles.",
+     "Внутри были коричневые бутылки."
+    ],
+    [
+     "Someone had cut the labels off, but on one bottle a small piece of the label was still there, with a skull and the word “POISON.”",
+     "Кто-то срезал этикетки, но на одной бутылке ещё остался маленький кусок этикетки с черепом и словом «ЯД»."
+    ],
+    [
+     "Next to the boxes lay a folder.",
+     "Рядом с ящиками лежала папка."
+    ],
+    [
+     "In it Nora discovered letters from Marlow Sweets, Bellwood's biggest competitor.",
+     "В ней Нора обнаружила письма от «Марлоу Свитс», главного конкурента «Беллвуда»."
+    ],
+    [
+     "“When Bellwood's name is destroyed,” one letter said, “we will buy the factory at a low price, and you will have your money, Mr. Crane.”",
+     "«Когда имя „Беллвуда“ будет уничтожено, — говорилось в одном письме, — мы купим фабрику по низкой цене, и вы получите свои деньги, мистер Крейн»."
+    ]
+   ]
+  },
+  {
+   "en": "Her hands were shaking as she took photos. Then she heard steps. The low door opened. Nora had just enough time to hide behind the boxes. Gerald Crane came in, talking on his phone.",
+   "ru": "Её руки дрожали, пока она фотографировала. Потом она услышала шаги. Низкая дверь открылась. Нора едва успела спрятаться за ящиками. Вошёл Джеральд Крейн, разговаривая по телефону.",
+   "s": [
+    [
+     "Her hands were shaking as she took photos.",
+     "Её руки дрожали, пока она фотографировала."
+    ],
+    [
+     "Then she heard steps.",
+     "Потом она услышала шаги."
+    ],
+    [
+     "The low door opened.",
+     "Низкая дверь открылась."
+    ],
+    [
+     "Nora had just enough time to hide behind the boxes.",
+     "Нора едва успела спрятаться за ящиками."
+    ],
+    [
+     "Gerald Crane came in, talking on his phone.",
+     "Вошёл Джеральд Крейн, разговаривая по телефону."
+    ]
+   ]
+  },
+  {
+   "en": "“No, the alarm was nothing. Just a distraction, some idiot pressed the button. Don't worry. If anyone gets sick, the taster will take the blame. She signed every report.” He laughed. “Poor Nora.”",
+   "ru": "«Нет, тревога — ерунда. Просто кто-то отвлекал внимание, какой-то идиот нажал кнопку. Не волнуйся. Если кто-нибудь заболеет, вину возьмёт на себя дегустатор. Она подписывала каждый отчёт». Он засмеялся. «Бедная Нора».",
+   "s": [
+    [
+     "“No, the alarm was nothing.",
+     "«Нет, тревога — ерунда."
+    ],
+    [
+     "Just a distraction, some idiot pressed the button.",
+     "Просто кто-то отвлекал внимание, какой-то идиот нажал кнопку."
+    ],
+    [
+     "Don't worry.",
+     "Не волнуйся."
+    ],
+    [
+     "If anyone gets sick, the taster will take the blame.",
+     "Если кто-нибудь заболеет, вину возьмёт на себя дегустатор."
+    ],
+    [
+     "She signed every report.”",
+     "Она подписывала каждый отчёт»."
+    ],
+    [
+     "He laughed.",
+     "Он засмеялся."
+    ],
+    [
+     "“Poor Nora.”",
+     "«Бедная Нора»."
+    ]
+   ]
+  },
+  {
+   "en": "Nora could not breathe. She pressed her hand over her mouth. Crane picked up the folder, looked around and went out. She heard the key turn in the lock. For a few seconds she could hear only her own heart. She was alone, in a secret room, with six boxes of poison.",
+   "ru": "Нора не могла дышать. Она прижала руку ко рту. Крейн взял папку, огляделся и вышел. Она услышала, как в замке повернулся ключ. Несколько секунд она слышала только собственное сердце. Она была одна, в тайной комнате, с шестью ящиками яда.",
+   "s": [
+    [
+     "Nora could not breathe.",
+     "Нора не могла дышать."
+    ],
+    [
+     "She pressed her hand over her mouth.",
+     "Она прижала руку ко рту."
+    ],
+    [
+     "Crane picked up the folder, looked around and went out.",
+     "Крейн взял папку, огляделся и вышел."
+    ],
+    [
+     "She heard the key turn in the lock.",
+     "Она услышала, как в замке повернулся ключ."
+    ],
+    [
+     "For a few seconds she could hear only her own heart.",
+     "Несколько секунд она слышала только собственное сердце."
+    ],
+    [
+     "She was alone, in a secret room, with six boxes of poison.",
+     "Она была одна, в тайной комнате, с шестью ящиками яда."
+    ]
+   ]
+  },
+  {
+   "en": "She was locked in. She took out her phone. Battery: four percent. She wrote with shaking fingers: “I'm locked in the room.” The answer came immediately: “Don't move. I'm coming.”",
+   "ru": "Её заперли. Она достала телефон. Заряд: четыре процента. Дрожащими пальцами она написала: «Я заперта в комнате». Ответ пришёл сразу: «Не двигайся. Я иду».",
+   "s": [
+    [
+     "She was locked in.",
+     "Её заперли."
+    ],
+    [
+     "She took out her phone.",
+     "Она достала телефон."
+    ],
+    [
+     "Battery: four percent.",
+     "Заряд: четыре процента."
+    ],
+    [
+     "She wrote with shaking fingers: “I'm locked in the room.”",
+     "Дрожащими пальцами она написала: «Я заперта в комнате»."
+    ],
+    [
+     "The answer came immediately: “Don't move.",
+     "Ответ пришёл сразу: «Не двигайся."
+    ],
+    [
+     "I'm coming.”",
+     "Я иду»."
+    ]
+   ]
+  },
+  {
+   "en": "Ten minutes passed, then twenty. Tears ran down her face. Then the key turned again. Nora took a heavy bottle in her hand. The door opened, and a woman came in — a thin woman of about fifty in a grey cap.",
+   "ru": "Прошло десять минут, потом двадцать. Слёзы текли по её лицу. Потом ключ снова повернулся. Нора взяла в руку тяжёлую бутылку. Дверь открылась, и вошла женщина — худая женщина лет пятидесяти в серой кепке.",
+   "s": [
+    [
+     "Ten minutes passed, then twenty.",
+     "Прошло десять минут, потом двадцать."
+    ],
+    [
+     "Tears ran down her face.",
+     "Слёзы текли по её лицу."
+    ],
+    [
+     "Then the key turned again.",
+     "Потом ключ снова повернулся."
+    ],
+    [
+     "Nora took a heavy bottle in her hand.",
+     "Нора взяла в руку тяжёлую бутылку."
+    ],
+    [
+     "The door opened, and a woman came in — a thin woman of about fifty in a grey cap.",
+     "Дверь открылась, и вошла женщина — худая женщина лет пятидесяти в серой кепке."
+    ]
+   ]
+  },
+  {
+   "en": "“Nora? Fortunately, my uncle still has a key to every door in this building. He's the night guard.” The woman smiled sadly. “My name is Ruth Shaw.”",
+   "ru": "«Нора? К счастью, у моего дяди до сих пор есть ключ от каждой двери в этом здании. Он ночной сторож». Женщина грустно улыбнулась. «Меня зовут Рут Шоу».",
+   "s": [
+    [
+     "“Nora?",
+     "«Нора?"
+    ],
+    [
+     "Fortunately, my uncle still has a key to every door in this building.",
+     "К счастью, у моего дяди до сих пор есть ключ от каждой двери в этом здании."
+    ],
+    [
+     "He's the night guard.”",
+     "Он ночной сторож»."
+    ],
+    [
+     "The woman smiled sadly.",
+     "Женщина грустно улыбнулась."
+    ],
+    [
+     "“My name is Ruth Shaw.”",
+     "«Меня зовут Рут Шоу»."
+    ]
+   ]
+  },
+  {
+   "en": "Nora knew the name. Everybody in Bellwood knew it. Two years ago, Ruth Shaw had been the factory's taster. Then some children got sick after they ate Bellwood chocolate, and Crane blamed her. Ruth lost her job, her friends and her good name. One day she simply vanished from town. Some people said that she had moved to the sea. Others said that she had died.",
+   "ru": "Нора знала это имя. Все в Беллвуде его знали. Два года назад Рут Шоу была дегустатором фабрики. Потом несколько детей заболели, съев шоколад «Беллвуд», и Крейн обвинил её. Рут потеряла работу, друзей и доброе имя. Однажды она просто исчезла из города. Одни говорили, что она переехала к морю. Другие — что она умерла.",
+   "s": [
+    [
+     "Nora knew the name.",
+     "Нора знала это имя."
+    ],
+    [
+     "Everybody in Bellwood knew it.",
+     "Все в Беллвуде его знали."
+    ],
+    [
+     "Two years ago, Ruth Shaw had been the factory's taster.",
+     "Два года назад Рут Шоу была дегустатором фабрики."
+    ],
+    [
+     "Then some children got sick after they ate Bellwood chocolate, and Crane blamed her.",
+     "Потом несколько детей заболели, съев шоколад «Беллвуд», и Крейн обвинил её."
+    ],
+    [
+     "Ruth lost her job, her friends and her good name.",
+     "Рут потеряла работу, друзей и доброе имя."
+    ],
+    [
+     "One day she simply vanished from town.",
+     "Однажды она просто исчезла из города."
+    ],
+    [
+     "Some people said that she had moved to the sea.",
+     "Одни говорили, что она переехала к морю."
+    ],
+    [
+     "Others said that she had died.",
+     "Другие — что она умерла."
+    ]
+   ]
+  },
+  {
+   "en": "“I lost my faith in the police,” Ruth said. “I had no proof — only my tongue, and nobody believes a tongue. So I rented a room across the street from your flat, and I watched Crane, and I watched you. I'm sorry about the plant and the cap. I needed you to believe me.”",
+   "ru": "«Я потеряла веру в полицию, — сказала Рут. — У меня не было доказательств — только мой язык, а языку никто не верит. Поэтому я сняла комнату через улицу от твоей квартиры и следила за Крейном, и следила за тобой. Прости за растение и кепку. Мне нужно было, чтобы ты мне поверила».",
+   "s": [
+    [
+     "“I lost my faith in the police,” Ruth said.",
+     "«Я потеряла веру в полицию», — сказала Рут."
+    ],
+    [
+     "“I had no proof — only my tongue, and nobody believes a tongue.",
+     "«У меня не было доказательств — только мой язык, а языку никто не верит."
+    ],
+    [
+     "So I rented a room across the street from your flat, and I watched Crane, and I watched you.",
+     "Поэтому я сняла комнату через улицу от твоей квартиры и следила за Крейном, и следила за тобой."
+    ],
+    [
+     "I'm sorry about the plant and the cap.",
+     "Прости за растение и кепку."
+    ],
+    [
+     "I needed you to believe me.”",
+     "Мне нужно было, чтобы ты мне поверила»."
+    ]
+   ]
+  },
+  {
+   "en": "“You have proof now,” Nora said, and she showed her the photos.",
+   "ru": "«Теперь у тебя есть доказательства», — сказала Нора и показала ей фотографии.",
+   "s": [
+    [
+     "“You have proof now,” Nora said, and she showed her the photos.",
+     "«Теперь у тебя есть доказательства», — сказала Нора и показала ей фотографии."
+    ]
+   ]
+  },
+  {
+   "en": "The police came to the factory that same night. Batch 14 never reached the shops. Gerald Crane was arrested at the airport two days later, with a ticket to Spain in his pocket. Marlow Sweets lost its contract with the supermarket, and the newspapers wrote about the brave taster from Bellwood for weeks.",
+   "ru": "Полиция приехала на фабрику той же ночью. Партия 14 так и не попала в магазины. Джеральда Крейна арестовали в аэропорту через два дня с билетом в Испанию в кармане. «Марлоу Свитс» потеряла контракт с супермаркетом, а газеты несколько недель писали о смелой дегустаторше из Беллвуда.",
+   "s": [
+    [
+     "The police came to the factory that same night.",
+     "Полиция приехала на фабрику той же ночью."
+    ],
+    [
+     "Batch 14 never reached the shops.",
+     "Партия 14 так и не попала в магазины."
+    ],
+    [
+     "Gerald Crane was arrested at the airport two days later, with a ticket to Spain in his pocket.",
+     "Джеральда Крейна арестовали в аэропорту через два дня с билетом в Испанию в кармане."
+    ],
+    [
+     "Marlow Sweets lost its contract with the supermarket, and the newspapers wrote about the brave taster from Bellwood for weeks.",
+     "«Марлоу Свитс» потеряла контракт с супермаркетом, а газеты несколько недель писали о смелой дегустаторше из Беллвуда."
+    ]
+   ]
+  },
+  {
+   "en": "A week later, Nora and Ruth sat in Nora's kitchen. The plant on the windowsill was green again. Nora broke a piece of chocolate from a new bar and gave it to Ruth. “Tell me what you taste,” she said. Ruth closed her eyes. “Cocoa from Ghana. Too much sugar. And no lies.” They both laughed. “Thanks, Ruth,” Nora said quietly. “Thanks for everything.”",
+   "ru": "Через неделю Нора и Рут сидели на кухне у Норы. Растение на подоконнике снова было зелёным. Нора отломила кусочек от новой плитки шоколада и дала его Рут. «Скажи, какой у него вкус», — сказала она. Рут закрыла глаза. «Какао из Ганы. Слишком много сахара. И никакой лжи». Они обе засмеялись. «Спасибо, Рут, — тихо сказала Нора. — Спасибо за всё».",
+   "s": [
+    [
+     "A week later, Nora and Ruth sat in Nora's kitchen.",
+     "Через неделю Нора и Рут сидели на кухне у Норы."
+    ],
+    [
+     "The plant on the windowsill was green again.",
+     "Растение на подоконнике снова было зелёным."
+    ],
+    [
+     "Nora broke a piece of chocolate from a new bar and gave it to Ruth.",
+     "Нора отломила кусочек от новой плитки шоколада и дала его Рут."
+    ],
+    [
+     "“Tell me what you taste,” she said.",
+     "«Скажи, какой у него вкус», — сказала она."
+    ],
+    [
+     "Ruth closed her eyes.",
+     "Рут закрыла глаза."
+    ],
+    [
+     "“Cocoa from Ghana.",
+     "«Какао из Ганы."
+    ],
+    [
+     "Too much sugar.",
+     "Слишком много сахара."
+    ],
+    [
+     "And no lies.”",
+     "И никакой лжи»."
+    ],
+    [
+     "They both laughed.",
+     "Они обе засмеялись."
+    ],
+    [
+     "“Thanks, Ruth,” Nora said quietly.",
+     "«Спасибо, Рут», — тихо сказала Нора."
+    ],
+    [
+     "“Thanks for everything.”",
+     "«Спасибо за всё»."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "ability": "способность",
+  "about": "о; около",
+  "accessible": "доступный",
+  "across": "через",
+  "afraid": "бояться (be afraid)",
+  "after": "после",
+  "again": "снова",
+  "ago": "назад",
+  "airport": "аэропорт",
+  "alarm": "тревога, сигнализация",
+  "all": "весь",
+  "almonds": "миндаль",
+  "alone": "одна",
+  "always": "всегда",
+  "am": "(есть)",
+  "and": "и, а",
+  "angry": "злой, сердитый",
+  "another": "ещё один",
+  "answer": "ответ",
+  "anyone": "кто-нибудь, кто угодно",
+  "anything": "что угодно",
+  "around": "вокруг",
+  "arrested": "арестован",
+  "as": "как; пока",
+  "at": "в, на, у",
+  "ate": "съели",
+  "bar": "плитка",
+  "batch": "партия",
+  "battery": "батарея, заряд",
+  "be": "быть",
+  "been": "был(о)",
+  "began": "начали",
+  "behind": "за, позади",
+  "believe": "верить",
+  "believed": "поверила",
+  "believes": "верит",
+  "bellwood": "Беллвуд (город, фабрика)",
+  "bellwood's": "Беллвуда",
+  "bent": "наклонилась",
+  "big": "крупный",
+  "biggest": "самый большой",
+  "bitter": "горький",
+  "blame": "вина; обвинять",
+  "blamed": "обвинил",
+  "boiler": "котельная (boiler room)",
+  "boilers": "котлы",
+  "both": "оба, обе",
+  "bottle": "бутылка",
+  "bottles": "бутылки",
+  "box": "коробка",
+  "boxes": "ящики",
+  "boyfriend": "парень",
+  "bragged": "хвастался",
+  "brave": "смелый",
+  "breathe": "дышать",
+  "broke": "отломила",
+  "brought": "принёс",
+  "brown": "коричневый",
+  "building": "здание",
+  "busy": "занятой",
+  "but": "но",
+  "button": "кнопка",
+  "buy": "купить",
+  "buzzed": "завибрировал",
+  "by": "(кем-то), от",
+  "called": "позвонила",
+  "came": "пришёл, вошла",
+  "cap": "кепка",
+  "car": "машина",
+  "carefully": "внимательно",
+  "cars": "машины",
+  "changes": "меняется",
+  "checked": "проверила",
+  "chemicals": "химикаты",
+  "chewed": "прожевал",
+  "children": "дети",
+  "chocolate": "шоколад",
+  "close": "закрой",
+  "closed": "закрыла, задёрнула",
+  "coat": "халат",
+  "cocoa": "какао",
+  "cold": "холодно",
+  "coming": "иду",
+  "competitor": "конкурент",
+  "completely": "совсем, полностью",
+  "constantly": "постоянно",
+  "contract": "контракт",
+  "corridor": "коридор",
+  "could": "могла",
+  "country": "страна",
+  "crane": "Крейн (фамилия)",
+  "crazy": "сумасшедший",
+  "cross": "крестик",
+  "cup": "чашка",
+  "curious": "любопытный",
+  "curtains": "шторы",
+  "cut": "срезал",
+  "dan": "Дэн (имя)",
+  "dark": "тёмный, темнота",
+  "day": "день",
+  "days": "дни",
+  "desk": "письменный стол",
+  "destroyed": "уничтожено",
+  "did": "(вспом. глагол)",
+  "died": "умерла",
+  "dirty": "грязный",
+  "discovered": "обнаружила",
+  "distract": "отвлекать",
+  "distraction": "отвлечение",
+  "dog": "собака",
+  "don't": "не (вспом.)",
+  "door": "дверь",
+  "down": "вниз, по",
+  "drawn": "нарисованная",
+  "drink": "питьё (gave a drink — полила)",
+  "dust": "пыль",
+  "eleven": "одиннадцать",
+  "else": "ещё, другое",
+  "end": "конец",
+  "enough": "достаточно",
+  "even": "даже",
+  "evening": "вечер",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "everybody": "все",
+  "everyone": "все",
+  "everything": "всё",
+  "ex": "бывший",
+  "exactly": "ровно, точно",
+  "exits": "выходы",
+  "eyes": "глаза",
+  "face": "лицо",
+  "factory": "фабрика, завод",
+  "factory's": "фабрики",
+  "faith": "вера",
+  "fear": "страх",
+  "felt": "почувствовала",
+  "few": "несколько",
+  "fields": "Филдс (фамилия)",
+  "fifty": "пятьдесят",
+  "filled": "наполнила",
+  "find": "найти",
+  "fingers": "пальцы",
+  "fire": "пожарный",
+  "first": "первый",
+  "five": "пять",
+  "flat": "квартира",
+  "floor": "этаж",
+  "folder": "папка",
+  "for": "в течение, за, для",
+  "forgotten": "забыла",
+  "fortunately": "к счастью",
+  "found": "нашла",
+  "four": "четыре",
+  "friday": "пятница",
+  "friends": "друзья",
+  "from": "из, от, с",
+  "gave": "дала",
+  "gerald": "Джеральд (имя)",
+  "get": "заболеть (get sick)",
+  "gets": "станет (gets sick — заболеет)",
+  "ghana": "Гана (страна)",
+  "girl": "девушка",
+  "given": "подарила",
+  "glass": "стакан",
+  "goes": "поступает, идёт",
+  "going": "(going crazy — сходишь с ума)",
+  "good": "добрый, хороший",
+  "got": "встала (got up); заболели (got sick)",
+  "green": "зелёный",
+  "grey": "серый",
+  "guard": "сторож",
+  "had": "имела; (вспом.)",
+  "hand": "рука",
+  "hands": "руки",
+  "has": "имеет",
+  "have": "иметь; (вспом.)",
+  "haven't": "не (вспом.)",
+  "he": "он",
+  "he's": "он (есть)",
+  "hear": "слышать",
+  "heard": "услышала",
+  "heart": "сердце",
+  "heavy": "тяжёлый",
+  "her": "её, ей",
+  "hide": "спрятаться",
+  "him": "его, ему",
+  "his": "его",
+  "home": "дом, домой",
+  "how": "как, сколько",
+  "hung": "повесил (hung up)",
+  "i": "я",
+  "i'm": "я (есть)",
+  "idea": "идея",
+  "idiot": "идиот",
+  "if": "если",
+  "immediately": "сразу, немедленно",
+  "in": "в",
+  "inside": "внутри",
+  "internet": "интернет",
+  "is": "есть, является",
+  "it": "это, его, её",
+  "its": "его, её (неодуш.)",
+  "job": "работа",
+  "joke": "шутка",
+  "just": "просто; едва",
+  "key": "ключ",
+  "kitchen": "кухня",
+  "knew": "знала",
+  "know": "знать",
+  "label": "этикетка",
+  "labels": "этикетки",
+  "laboratory": "лаборатория",
+  "lamp": "лампа",
+  "largest": "крупнейший",
+  "last": "наконец (at last)",
+  "later": "позже, через",
+  "laughed": "засмеялся",
+  "laughing": "смеясь",
+  "lay": "лежала",
+  "leaves": "листья",
+  "letter": "письмо",
+  "letters": "письма",
+  "lid": "крышка",
+  "lies": "ложь",
+  "lifted": "подняла",
+  "light": "лёгкий",
+  "like": "как, похожий",
+  "line": "линия",
+  "listened": "слушала",
+  "little": "маленький",
+  "lived": "жила",
+  "lock": "замок",
+  "locked": "заперта",
+  "long": "долгий, долго",
+  "longer": "длиннее",
+  "looked": "посмотрела, выглядели",
+  "looking": "смотреть",
+  "lost": "потеряла",
+  "loud": "громкий",
+  "low": "низкий, поникший",
+  "m": "(p.m. — вечера)",
+  "make": "делать",
+  "man": "мужчина",
+  "manager": "управляющий",
+  "map": "карта",
+  "marlow": "Марлоу (название)",
+  "me": "меня, мне",
+  "message": "сообщение",
+  "messages": "сообщения",
+  "midnight": "полночь",
+  "minutes": "минуты",
+  "money": "деньги",
+  "months": "месяцы",
+  "morning": "утро",
+  "mother": "мать",
+  "mouth": "рот",
+  "move": "двигаться",
+  "moved": "переехала",
+  "mr": "мистер",
+  "much": "много",
+  "my": "мой",
+  "name": "имя",
+  "near": "возле",
+  "necessary": "необходимо",
+  "needed": "нужно было",
+  "neighbour's": "соседский",
+  "never": "никогда (не)",
+  "new": "новый",
+  "newspapers": "газеты",
+  "next": "следующий; рядом (next to)",
+  "nice": "милый, красивый",
+  "night": "ночь, ночной",
+  "no": "нет, никакой",
+  "nobody": "никто",
+  "noises": "звуки",
+  "nora": "Нора (имя)",
+  "nora's": "Норы",
+  "normal": "обычный",
+  "not": "не",
+  "nothing": "ничего, ерунда",
+  "november": "ноябрь",
+  "now": "теперь",
+  "number": "номер",
+  "o'clock": "часов",
+  "of": "из, (родит. падеж)",
+  "off": "прочь (took off — сняла)",
+  "office": "кабинет",
+  "ok": "хорошо, ладно",
+  "old": "старый",
+  "on": "на, в",
+  "one": "один",
+  "only": "только",
+  "opened": "открылась",
+  "or": "или",
+  "other": "другой",
+  "others": "другие",
+  "out": "наружу",
+  "outside": "снаружи",
+  "over": "на, поверх",
+  "own": "собственный",
+  "p": "(p.m. — вечера)",
+  "packing": "упаковочный",
+  "passed": "прошли",
+  "people": "люди",
+  "percent": "процентов",
+  "perfect": "идеальный",
+  "phone": "телефон",
+  "photo": "фотография",
+  "photos": "фотографии",
+  "picked": "взял (picked up)",
+  "picture": "картинка",
+  "piece": "кусок, кусочек",
+  "pieces": "кусочки",
+  "plant": "растение",
+  "plastic": "пластиковый",
+  "pocket": "карман",
+  "poison": "яд",
+  "police": "полиция",
+  "poor": "бедный",
+  "pressed": "нажал, прижала",
+  "price": "цена",
+  "probably": "вероятно",
+  "proof": "доказательство",
+  "put": "положила, надела",
+  "quiet": "тихий",
+  "quietly": "тихо",
+  "ran": "текли",
+  "rare": "редкий",
+  "reached": "попала, достигла",
+  "read": "прочитала",
+  "recipe": "рецепт",
+  "red": "красный",
+  "rented": "сняла",
+  "report": "отчёт",
+  "rich": "насыщенный",
+  "ring": "звонить",
+  "room": "комната",
+  "ruth": "Рут (имя)",
+  "sadly": "грустно",
+  "said": "сказал(а)",
+  "sam": "Сэм (имя)",
+  "same": "тот же",
+  "sat": "сидела, села",
+  "say": "говорю",
+  "sea": "море",
+  "seconds": "секунды",
+  "secret": "тайный",
+  "see": "видеть",
+  "sending": "посылает",
+  "seven": "семь",
+  "shaking": "дрожали",
+  "shaw": "Шоу (фамилия)",
+  "she": "она",
+  "shift": "смена",
+  "shops": "магазины",
+  "should": "должен",
+  "showed": "показала",
+  "sick": "больной",
+  "signed": "подписывала",
+  "silver": "серебряный",
+  "simply": "просто",
+  "sitting": "сидела",
+  "six": "шесть",
+  "skull": "череп",
+  "sleep": "спала",
+  "small": "маленький",
+  "smelled": "пахло",
+  "smile": "улыбка",
+  "smiled": "улыбнулась",
+  "smooth": "мягкий, гладкий",
+  "so": "поэтому",
+  "sofa": "диван",
+  "some": "некоторые, какой-то",
+  "someone": "кто-то",
+  "something": "что-то",
+  "sorry": "прости",
+  "spain": "Испания",
+  "spoon": "ложка",
+  "stairs": "лестница",
+  "standing": "стояла",
+  "started": "начала",
+  "stay": "остаться",
+  "steady": "твёрдый, спокойный",
+  "steps": "шаги",
+  "still": "всё ещё",
+  "stood": "стояло",
+  "stop": "остановить, перестать",
+  "stops": "останавливается",
+  "straight": "прямо",
+  "strangely": "странно",
+  "street": "улица",
+  "sugar": "сахар",
+  "supermarket": "супермаркет",
+  "sweet": "сладкий",
+  "sweets": "сладости (Свитс)",
+  "table": "стол",
+  "take": "возьми, взять",
+  "talking": "разговаривая",
+  "taste": "вкус; пробовать",
+  "taster": "дегустатор",
+  "tastes": "на вкус",
+  "tasting": "дегустационный",
+  "tea": "чай",
+  "tears": "слёзы",
+  "television": "телевизор",
+  "tell": "сказать, рассказать",
+  "ten": "десять",
+  "test": "проверить",
+  "thanks": "спасибо",
+  "that": "тот, который, что",
+  "the": "(опр. артикль)",
+  "them": "их, за ними",
+  "then": "потом",
+  "there": "там",
+  "they": "они",
+  "thin": "худой",
+  "third": "третий",
+  "thirsty": "хочет пить",
+  "this": "этот, это",
+  "thought": "думала",
+  "threw": "бросила",
+  "through": "через, внутрь",
+  "ticket": "билет",
+  "time": "время, раз",
+  "times": "раз",
+  "tired": "уставший",
+  "to": "к, в, (инфинитив)",
+  "today": "сегодня",
+  "told": "говорил",
+  "tomorrow": "завтра",
+  "tongue": "язык",
+  "too": "тоже; слишком",
+  "took": "сняла, взяла",
+  "toward": "к, по направлению",
+  "town": "город",
+  "tray": "поднос",
+  "tuesday": "вторник",
+  "turn": "повернуться",
+  "turned": "повернулся",
+  "twenty": "двадцать",
+  "twice": "дважды",
+  "two": "два",
+  "uncle": "дядя",
+  "under": "под",
+  "unknown": "неизвестный",
+  "up": "(вверх; hung up, got up)",
+  "usual": "обычно (as usual)",
+  "vanished": "исчезла",
+  "very": "самый; очень",
+  "voice": "голос",
+  "waiting": "ждало",
+  "warm": "тёплый",
+  "was": "был(а)",
+  "watched": "следила",
+  "watching": "слежу",
+  "water": "вода; поливать",
+  "way": "путь, способ",
+  "we": "мы",
+  "week": "неделя",
+  "weeks": "недели",
+  "went": "пошла",
+  "were": "были",
+  "what": "что",
+  "when": "когда",
+  "where": "где, откуда",
+  "white": "белый",
+  "who": "кто, который",
+  "why": "почему",
+  "will": "(буд. время)",
+  "window": "окно",
+  "windowsill": "подоконник",
+  "with": "с",
+  "woman": "женщина",
+  "word": "слово",
+  "words": "слова",
+  "work": "работа",
+  "worked": "работала",
+  "worker": "рабочий",
+  "workers": "рабочие",
+  "worry": "волноваться",
+  "would": "(бы, буд. в прош.)",
+  "wrote": "написала",
+  "years": "годы, лет",
+  "yellow": "жёлтый",
+  "you": "ты, вы",
+  "you're": "ты (есть)",
+  "your": "твой"
+ },
+ "vocab": {
+  "thanks": 12,
+  "outside": 32,
+  "taste": 52,
+  "cap": 72,
+  "cut": 92,
+  "factory": 112,
+  "accessible": 132,
+  "move": 152,
+  "crazy": 172,
+  "tears": 192,
+  "piece": 213,
+  "necessary": 233,
+  "ability": 253,
+  "fear": 273,
+  "low": 294,
+  "map": 314,
+  "fortunately": 334,
+  "breathe": 354,
+  "discovered": 374,
+  "lifted": 402,
+  "probably": 422,
+  "blame": 445,
+  "blamed": 445,
+  "distraction": 472,
+  "curious": 494,
+  "vanished": 515,
+  "faith": 536,
+  "plant": 557,
+  "constantly": 578,
+  "spoon": 599,
+  "distract": 620,
+  "bragged": 642
+ }
+}

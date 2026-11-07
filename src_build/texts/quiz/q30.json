@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why was Ned so obsessed with the Northern Youth Cup?",
+  "q_ru": "Почему Нед был так одержим Северным юношеским кубком?",
+  "options": [
+   "He had won it many times as a coach.",
+   "His father had played in the cup final.",
+   "He wanted to sell his boat for a prize.",
+   "He had lost the final in the last minute as a boy."
+  ],
+  "options_ru": [
+   "Он много раз выигрывал его как тренер.",
+   "Его отец играл в финале кубка.",
+   "Он хотел продать лодку ради приза.",
+   "Мальчиком он проиграл финал на последней минуте."
+  ],
+  "answer": 3,
+  "explain_ru": "Тридцать лет назад команда Кельби, где играл Нед, «had lost it in the last minute», и он так и не перестал об этом думать."
+ },
+ {
+  "q": "Why might Sam Reid miss the final?",
+  "q_ru": "Почему Сэм Рид мог пропустить финал?",
+  "options": [
+   "He had hurt his leg in the semi-final.",
+   "His sister was getting married that day.",
+   "His father wanted him to study law.",
+   "He was angry with Ned about the tactics."
+  ],
+  "options_ru": [
+   "Он повредил ногу в полуфинале.",
+   "В тот день выходила замуж его сестра.",
+   "Отец хотел, чтобы он изучал право.",
+   "Он злился на Неда из-за тактики."
+  ],
+  "answer": 1,
+  "explain_ru": "«Sam's older sister Emma was getting married on the Sunday of the tournament, the same day as the final»."
+ },
+ {
+  "q": "Why did Ned decide to let Sam go to the wedding?",
+  "q_ru": "Почему Нед решил отпустить Сэма на свадьбу?",
+  "options": [
+   "He understood his obsession made him treat people badly.",
+   "He thought Leo was a better player than Sam.",
+   "Mr Reid threatened to take legal action.",
+   "He believed the team would lose anyway."
+  ],
+  "options_ru": [
+   "Понял, что одержимость заставляет его плохо обращаться с людьми.",
+   "Считал, что Лео играет лучше Сэма.",
+   "Мистер Рид пригрозил судом.",
+   "Был уверен, что команда всё равно проиграет."
+  ],
+  "answer": 0,
+  "explain_ru": "Нед говорит: «an obsession makes you treat people badly. Last night I tried to take a boy away from his sister's wedding, and I'm not proud of it»."
+ },
+ {
+  "q": "What weakness of Westford United did Leo notice?",
+  "q_ru": "Какую слабость команды Westford United заметил Лео?",
+  "options": [
+   "Their goalkeeper was very slow.",
+   "Their best player was often late.",
+   "They went forward together and left space behind.",
+   "They got tired in the second half."
+  ],
+  "options_ru": [
+   "Их вратарь был очень медленным.",
+   "Их лучший игрок часто опаздывал.",
+   "Они шли вперёд все вместе и оставляли пустое место сзади.",
+   "Они уставали во втором тайме."
+  ],
+  "answer": 2,
+  "explain_ru": "Нед объясняет: «They all go forward together, and they leave the space behind them empty. Leo has seen it»."
+ },
+ {
+  "q": "Emma moved the party to the city, and 'nobody had offered any resistance'. What does this mean?",
+  "q_ru": "Эмма перенесла праздник в город, и «nobody had offered any resistance». Что это значит?",
+  "options": [
+   "Nobody wanted to come to the party.",
+   "Nobody tried to argue against her idea.",
+   "Nobody offered to drive the guests.",
+   "Nobody knew where the stadium was."
+  ],
+  "options_ru": [
+   "Никто не хотел идти на праздник.",
+   "Никто не стал возражать против её идеи.",
+   "Никто не предложил подвезти гостей.",
+   "Никто не знал, где стадион."
+  ],
+  "answer": 1,
+  "explain_ru": "Гости согласились и все приехали на стадион. «Resistance» — сопротивление; «offer no resistance» — не возражать, не мешать."
+ },
+ {
+  "q": "How did Ned find the last eight hundred pounds for the trip?",
+  "q_ru": "Как Нед нашёл последние восемьсот фунтов на поездку?",
+  "options": [
+   "He borrowed them from Mr Reid.",
+   "He won them in the semi-final.",
+   "The bakery collected them from customers.",
+   "He sold his beloved boat, the Mary Ann."
+  ],
+  "options_ru": [
+   "Занял их у мистера Рида.",
+   "Выиграл их в полуфинале.",
+   "Пекарня собрала их у покупателей.",
+   "Продал свою любимую лодку «Мэри Энн»."
+  ],
+  "answer": 3,
+  "explain_ru": "Из газеты Лео узнал, что деньги дал Нед, «who had sold his boat to pay for it». Он молчал, чтобы ребята «play for yourselves», а потом город подарил ему новую лодку."
+ }
+]

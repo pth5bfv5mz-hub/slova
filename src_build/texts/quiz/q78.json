@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What official finding did the coroner announce in August 1962?",
+  "q_ru": "Какое официальное заключение объявил коронер в августе 1962 года?",
+  "options": [
+   "Murder by an unknown person",
+   "Probable suicide by barbiturate overdose",
+   "Death from a heart attack",
+   "An accident caused by alcohol"
+  ],
+  "options_ru": [
+   "Убийство неизвестным лицом",
+   "Вероятное самоубийство от передозировки барбитуратов",
+   "Смерть от сердечного приступа",
+   "Несчастный случай из-за алкоголя"
+  ],
+  "answer": 1,
+  "explain_ru": "17 августа 1962 года Теодор Керфи объявил: острое отравление барбитуратами, «вероятное самоубийство»."
+ },
+ {
+  "q": "Why did the timing of the police call seem strange to critics?",
+  "q_ru": "Почему время вызова полиции казалось критикам странным?",
+  "options": [
+   "The police arrived before the doctors",
+   "Nobody ever called the police",
+   "The police were called from another city",
+   "A sergeant said he was told the body was found hours earlier"
+  ],
+  "options_ru": [
+   "Полиция приехала раньше врачей",
+   "Полицию так никто и не вызвал",
+   "Полицию вызвали из другого города",
+   "Сержант сказал, что ему сообщили, будто тело нашли на несколько часов раньше"
+  ],
+  "answer": 3,
+  "explain_ru": "Полицию вызвали около 4:25, а сержант Клеммонс говорил, что ему сказали, будто тело нашли около полуночи."
+ },
+ {
+  "q": "How did Dr Noguchi check whether Monroe had been given an injection?",
+  "q_ru": "Как доктор Ногучи проверил, не делали ли Монро укол?",
+  "options": [
+   "He examined her skin with a magnifying glass",
+   "He tested a sample of her hair",
+   "He interviewed her neighbours",
+   "He studied photos from the bedroom"
+  ],
+  "options_ru": [
+   "Осмотрел её кожу через увеличительное стекло",
+   "Исследовал образец её волос",
+   "Опросил её соседей",
+   "Изучил фотографии из спальни"
+  ],
+  "answer": 0,
+  "explain_ru": "Ногучи осмотрел кожу через увеличительное стекло и не нашёл следов от иглы."
+ },
+ {
+  "q": "Which fact about Monroe and the Kennedys is well documented?",
+  "q_ru": "Какой факт о Монро и Кеннеди хорошо задокументирован?",
+  "options": [
+   "Robert Kennedy was seen at her house that night",
+   "The police found her red diary",
+   "She sang \"Happy Birthday\" to the president in May 1962",
+   "The CIA admitted it was involved"
+  ],
+  "options_ru": [
+   "Роберта Кеннеди видели у её дома той ночью",
+   "Полиция нашла её красный дневник",
+   "В мае 1962 года она спела «С днём рождения» президенту",
+   "ЦРУ признало свою причастность"
+  ],
+  "answer": 2,
+  "explain_ru": "Выступление в «Мэдисон-сквер-гарден» 19 мая 1962 года — известный факт; визит Роберта Кеннеди не доказан, а дневник так и не нашли."
+ },
+ {
+  "q": "What did the 1982 review by the District Attorney's office conclude?",
+  "q_ru": "К какому выводу пришла проверка окружной прокуратуры в 1982 году?",
+  "options": [
+   "The CIA had killed her",
+   "The 1962 autopsy was completely false",
+   "Robert Kennedy should be questioned",
+   "There was no credible evidence of murder"
+  ],
+  "options_ru": [
+   "Её убило ЦРУ",
+   "Вскрытие 1962 года было полностью ложным",
+   "Роберта Кеннеди нужно допросить",
+   "Достоверных доказательств убийства нет"
+  ],
+  "answer": 3,
+  "explain_ru": "В отчёте декабря 1982 года говорилось, что достоверных доказательств убийства не найдено и уголовное расследование не оправдано."
+ },
+ {
+  "q": "According to the article, what is still unknown?",
+  "q_ru": "Что, согласно статье, до сих пор неизвестно?",
+  "options": [
+   "Whether she meant to die or took too many pills by accident",
+   "Which drugs were found in her blood",
+   "Who her psychiatrist was",
+   "Where she lived in 1962"
+  ],
+  "options_ru": [
+   "Хотела ли она умереть или случайно приняла слишком много таблеток",
+   "Какие препараты нашли в её крови",
+   "Кто был её психиатром",
+   "Где она жила в 1962 году"
+  ],
+  "answer": 0,
+  "explain_ru": "Препараты известны (хлоралгидрат и пентобарбитал), а вот было ли это самоубийство или случайная передозировка, точно не известно."
+ }
+]

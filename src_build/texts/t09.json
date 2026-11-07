@@ -1,0 +1,1327 @@
+{
+ "id": 9,
+ "title_en": "The Thief with a Tail",
+ "title_ru": "Вор с хвостом",
+ "genre": "Приключения",
+ "summary_ru": "После шторма двое мужчин оказываются на пустом острове, и вскоре по ночам из их маленького запаса еды начинают пропадать консервы.",
+ "paragraphs": [
+  {
+   "en": "Daniel had always had one dream: to sail across the sea in a small boat, far from his office, his grey computer and his old sofa in front of the TV. When he turned thirty-five, he finally did it. He paid an old sailor named Sam to take him on a two-week trip between the islands.",
+   "ru": "У Дэниела всегда была одна мечта: переплыть море на маленькой лодке, подальше от офиса, серого компьютера и старого дивана перед телевизором. Когда ему исполнилось тридцать пять, он наконец решился. Он заплатил старому моряку по имени Сэм, чтобы тот взял его в двухнедельное плавание между островами.",
+   "s": [
+    [
+     "Daniel had always had one dream: to sail across the sea in a small boat, far from his office, his grey computer and his old sofa in front of the TV.",
+     "У Дэниела всегда была одна мечта: переплыть море на маленькой лодке, подальше от офиса, серого компьютера и старого дивана перед телевизором."
+    ],
+    [
+     "When he turned thirty-five, he finally did it.",
+     "Когда ему исполнилось тридцать пять, он наконец решился."
+    ],
+    [
+     "He paid an old sailor named Sam to take him on a two-week trip between the islands.",
+     "Он заплатил старому моряку по имени Сэм, чтобы тот взял его в двухнедельное плавание между островами."
+    ]
+   ]
+  },
+  {
+   "en": "Sam was sixty, with white hair and a face brown from the sun. He did not talk much, but he was honest and calm, and Daniel liked him at once. “The sea is not your friend,” Sam said on the first morning. “Here is my advice: respect it, and it will let you live.”",
+   "ru": "Сэму было шестьдесят, у него были белые волосы и загорелое от солнца лицо. Он говорил мало, но был честным и спокойным, и Дэниелу он сразу понравился. «Море тебе не друг, — сказал Сэм в первое утро. — Вот мой совет: уважай его, и оно позволит тебе жить».",
+   "s": [
+    [
+     "Sam was sixty, with white hair and a face brown from the sun.",
+     "Сэму было шестьдесят, у него были белые волосы и загорелое от солнца лицо."
+    ],
+    [
+     "He did not talk much, but he was honest and calm, and Daniel liked him at once.",
+     "Он говорил мало, но был честным и спокойным, и Дэниелу он сразу понравился."
+    ],
+    [
+     "“The sea is not your friend,” Sam said on the first morning.",
+     "«Море тебе не друг», — сказал Сэм в первое утро."
+    ],
+    [
+     "“Here is my advice: respect it, and it will let you live.”",
+     "«Вот мой совет: уважай его, и оно позволит тебе жить»."
+    ]
+   ]
+  },
+  {
+   "en": "For five days the weather was perfect. Then, on the sixth afternoon, the sky turned black. The wind began to scream, and huge waves hit the boat from every side. Sam shouted orders, and Daniel tried to follow them, but he could barely stand. Water came in faster than they could throw it out.",
+   "ru": "Пять дней погода была прекрасной. Потом, на шестой день после полудня, небо почернело. Ветер начал выть, и огромные волны били лодку со всех сторон. Сэм выкрикивал команды, и Дэниел пытался их выполнять, но едва мог стоять на ногах. Вода прибывала быстрее, чем они успевали её вычерпывать.",
+   "s": [
+    [
+     "For five days the weather was perfect.",
+     "Пять дней погода была прекрасной."
+    ],
+    [
+     "Then, on the sixth afternoon, the sky turned black.",
+     "Потом, на шестой день после полудня, небо почернело."
+    ],
+    [
+     "The wind began to scream, and huge waves hit the boat from every side.",
+     "Ветер начал выть, и огромные волны били лодку со всех сторон."
+    ],
+    [
+     "Sam shouted orders, and Daniel tried to follow them, but he could barely stand.",
+     "Сэм выкрикивал команды, и Дэниел пытался их выполнять, но едва мог стоять на ногах."
+    ],
+    [
+     "Water came in faster than they could throw it out.",
+     "Вода прибывала быстрее, чем они успевали её вычерпывать."
+    ]
+   ]
+  },
+  {
+   "en": "“Take off your boots!” Sam shouted. “If we go into the water, they will pull you down!” Daniel took off his boots with shaking hands. A second later a wave lifted the boat, turned it over, and everything went dark.",
+   "ru": "«Снимай ботинки! — крикнул Сэм. — Если мы окажемся в воде, они утянут тебя на дно!» Дэниел дрожащими руками снял ботинки. Секунду спустя волна подняла лодку, перевернула её, и всё погрузилось во тьму.",
+   "s": [
+    [
+     "“Take off your boots!”",
+     "«Снимай ботинки!»"
+    ],
+    [
+     "Sam shouted.",
+     "Сэм крикнул."
+    ],
+    [
+     "“If we go into the water, they will pull you down!”",
+     "«Если мы окажемся в воде, они утянут тебя на дно!»"
+    ],
+    [
+     "Daniel took off his boots with shaking hands.",
+     "Дэниел дрожащими руками снял ботинки."
+    ],
+    [
+     "A second later a wave lifted the boat, turned it over, and everything went dark.",
+     "Секунду спустя волна подняла лодку, перевернула её, и всё погрузилось во тьму."
+    ]
+   ]
+  },
+  {
+   "en": "When Daniel opened his eyes, he was holding a wooden plank from the boat. Sam was next to him, holding the same plank, with blood on his chin. They did not speak. They just held on and continued to kick their legs, hour after hour, while the storm slowly moved away.",
+   "ru": "Когда Дэниел открыл глаза, он держался за деревянную доску от лодки. Сэм был рядом, держался за ту же доску, и у него на подбородке была кровь. Они не разговаривали. Они просто держались и продолжали работать ногами, час за часом, пока шторм медленно уходил прочь.",
+   "s": [
+    [
+     "When Daniel opened his eyes, he was holding a wooden plank from the boat.",
+     "Когда Дэниел открыл глаза, он держался за деревянную доску от лодки."
+    ],
+    [
+     "Sam was next to him, holding the same plank, with blood on his chin.",
+     "Сэм был рядом, держался за ту же доску, и у него на подбородке была кровь."
+    ],
+    [
+     "They did not speak.",
+     "Они не разговаривали."
+    ],
+    [
+     "They just held on and continued to kick their legs, hour after hour, while the storm slowly moved away.",
+     "Они просто держались и продолжали работать ногами, час за часом, пока шторм медленно уходил прочь."
+    ]
+   ]
+  },
+  {
+   "en": "In the morning they saw land. It was a small green island with a white beach and tall palm trees. They swam toward it with the last of their strength, and when Daniel finally felt sand under his feet, he fell onto the shore and laughed and cried at the same time.",
+   "ru": "Утром они увидели землю. Это был маленький зелёный остров с белым пляжем и высокими пальмами. Они поплыли к нему из последних сил, и когда Дэниел наконец почувствовал под ногами песок, он упал на берег и одновременно смеялся и плакал.",
+   "s": [
+    [
+     "In the morning they saw land.",
+     "Утром они увидели землю."
+    ],
+    [
+     "It was a small green island with a white beach and tall palm trees.",
+     "Это был маленький зелёный остров с белым пляжем и высокими пальмами."
+    ],
+    [
+     "They swam toward it with the last of their strength, and when Daniel finally felt sand under his feet, he fell onto the shore and laughed and cried at the same time.",
+     "Они поплыли к нему из последних сил, и когда Дэниел наконец почувствовал под ногами песок, он упал на берег и одновременно смеялся и плакал."
+    ]
+   ]
+  },
+  {
+   "en": "“We're alive,” he said. “That's all that matters.” Sam sat down next to him and looked at the sea for a long time. “Alive, yes,” he said at last with a deep sigh. “But my boat is gone.”",
+   "ru": "«Мы живы, — сказал он. — Только это и имеет значение». Сэм сел рядом с ним и долго смотрел на море. «Живы, да, — наконец сказал он с глубоким вздохом. — Но моей лодки больше нет».",
+   "s": [
+    [
+     "“We're alive,” he said.",
+     "«Мы живы», — сказал он."
+    ],
+    [
+     "“That's all that matters.”",
+     "«Только это и имеет значение»."
+    ],
+    [
+     "Sam sat down next to him and looked at the sea for a long time.",
+     "Сэм сел рядом с ним и долго смотрел на море."
+    ],
+    [
+     "“Alive, yes,” he said at last with a deep sigh.",
+     "«Живы, да», — наконец сказал он с глубоким вздохом."
+    ],
+    [
+     "“But my boat is gone.”",
+     "«Но моей лодки больше нет»."
+    ]
+   ]
+  },
+  {
+   "en": "The first days were hard. They found fresh water in a small stream behind the beach, and Sam showed Daniel how to open coconuts with a sharp stone. The sea also gave them a gift: a box of food from the boat washed up on the sand. Inside there were twelve cans of beans, some biscuits and a bag of rice. Sam counted everything carefully. “If we are careful, this will last two weeks,” he said.",
+   "ru": "Первые дни были тяжёлыми. Они нашли пресную воду в маленьком ручье за пляжем, и Сэм показал Дэниелу, как открывать кокосы острым камнем. Море сделало им и подарок: на песок выбросило ящик с едой с лодки. Внутри было двенадцать банок фасоли, немного печенья и мешок риса. Сэм всё внимательно пересчитал. «Если будем осторожны, этого хватит на две недели», — сказал он.",
+   "s": [
+    [
+     "The first days were hard.",
+     "Первые дни были тяжёлыми."
+    ],
+    [
+     "They found fresh water in a small stream behind the beach, and Sam showed Daniel how to open coconuts with a sharp stone.",
+     "Они нашли пресную воду в маленьком ручье за пляжем, и Сэм показал Дэниелу, как открывать кокосы острым камнем."
+    ],
+    [
+     "The sea also gave them a gift: a box of food from the boat washed up on the sand.",
+     "Море сделало им и подарок: на песок выбросило ящик с едой с лодки."
+    ],
+    [
+     "Inside there were twelve cans of beans, some biscuits and a bag of rice.",
+     "Внутри было двенадцать банок фасоли, немного печенья и мешок риса."
+    ],
+    [
+     "Sam counted everything carefully.",
+     "Сэм всё внимательно пересчитал."
+    ],
+    [
+     "“If we are careful, this will last two weeks,” he said.",
+     "«Если будем осторожны, этого хватит на две недели», — сказал он."
+    ]
+   ]
+  },
+  {
+   "en": "They explored the area around the beach, but the island seemed empty. There were no houses, no boats, no people. Only birds and the sound of the waves. At night they slept under a big tree, and Daniel had strange dreams about his office and his familiar, boring life. For the first time, he missed it.",
+   "ru": "Они обследовали местность вокруг пляжа, но остров казался пустым. Ни домов, ни лодок, ни людей. Только птицы и шум волн. Ночью они спали под большим деревом, и Дэниелу снились странные сны о его офисе и о привычной, скучной жизни. Впервые он скучал по ней.",
+   "s": [
+    [
+     "They explored the area around the beach, but the island seemed empty.",
+     "Они обследовали местность вокруг пляжа, но остров казался пустым."
+    ],
+    [
+     "There were no houses, no boats, no people.",
+     "Ни домов, ни лодок, ни людей."
+    ],
+    [
+     "Only birds and the sound of the waves.",
+     "Только птицы и шум волн."
+    ],
+    [
+     "At night they slept under a big tree, and Daniel had strange dreams about his office and his familiar, boring life.",
+     "Ночью они спали под большим деревом, и Дэниелу снились странные сны о его офисе и о привычной, скучной жизни."
+    ],
+    [
+     "For the first time, he missed it.",
+     "Впервые он скучал по ней."
+    ]
+   ]
+  },
+  {
+   "en": "On the fourth morning Daniel woke up and checked the food. Two cans of beans were missing. He counted again. Ten. He was sure there had been twelve. He looked at Sam, who was still sleeping, and a cold feeling grew in his stomach.",
+   "ru": "На четвёртое утро Дэниел проснулся и проверил еду. Двух банок фасоли не хватало. Он пересчитал снова. Десять. Он был уверен, что было двенадцать. Он посмотрел на Сэма, который ещё спал, и в животе у него разрослось холодное чувство.",
+   "s": [
+    [
+     "On the fourth morning Daniel woke up and checked the food.",
+     "На четвёртое утро Дэниел проснулся и проверил еду."
+    ],
+    [
+     "Two cans of beans were missing.",
+     "Двух банок фасоли не хватало."
+    ],
+    [
+     "He counted again.",
+     "Он пересчитал снова."
+    ],
+    [
+     "Ten.",
+     "Десять."
+    ],
+    [
+     "He was sure there had been twelve.",
+     "Он был уверен, что было двенадцать."
+    ],
+    [
+     "He looked at Sam, who was still sleeping, and a cold feeling grew in his stomach.",
+     "Он посмотрел на Сэма, который ещё спал, и в животе у него разрослось холодное чувство."
+    ]
+   ]
+  },
+  {
+   "en": "He said nothing that day. But the next morning, the biscuits were gone too. This time Daniel could not keep quiet.",
+   "ru": "В тот день он ничего не сказал. Но на следующее утро пропало и печенье. На этот раз Дэниел не смог промолчать.",
+   "s": [
+    [
+     "He said nothing that day.",
+     "В тот день он ничего не сказал."
+    ],
+    [
+     "But the next morning, the biscuits were gone too.",
+     "Но на следующее утро пропало и печенье."
+    ],
+    [
+     "This time Daniel could not keep quiet.",
+     "На этот раз Дэниел не смог промолчать."
+    ]
+   ]
+  },
+  {
+   "en": "“Sam,” he said, “somebody is eating our food at night. And there are only two of us here.”",
+   "ru": "«Сэм, — сказал он, — кто-то ест нашу еду по ночам. А нас здесь только двое».",
+   "s": [
+    [
+     "“Sam,” he said, “somebody is eating our food at night.",
+     "«Сэм, — сказал он, — кто-то ест нашу еду по ночам."
+    ],
+    [
+     "And there are only two of us here.”",
+     "А нас здесь только двое»."
+    ]
+   ]
+  },
+  {
+   "en": "Sam looked at him with his calm grey eyes. “Are you saying that I steal from you?” “I'm saying that the food is disappearing.”",
+   "ru": "Сэм посмотрел на него спокойными серыми глазами. «Ты хочешь сказать, что я ворую у тебя?» — «Я говорю, что еда исчезает».",
+   "s": [
+    [
+     "Sam looked at him with his calm grey eyes.",
+     "Сэм посмотрел на него спокойными серыми глазами."
+    ],
+    [
+     "“Are you saying that I steal from you?”",
+     "«Ты хочешь сказать, что я ворую у тебя?»"
+    ],
+    [
+     "“I'm saying that the food is disappearing.”",
+     "«Я говорю, что еда исчезает»."
+    ]
+   ]
+  },
+  {
+   "en": "“I have never stolen anything in my life,” Sam said quietly. “I would rather die of hunger than steal from a friend.”",
+   "ru": "«Я за всю жизнь ничего не украл, — тихо сказал Сэм. — Я скорее умру от голода, чем стану воровать у друга».",
+   "s": [
+    [
+     "“I have never stolen anything in my life,” Sam said quietly.",
+     "«Я за всю жизнь ничего не украл», — тихо сказал Сэм."
+    ],
+    [
+     "“I would rather die of hunger than steal from a friend.”",
+     "«Я скорее умру от голода, чем стану воровать у друга»."
+    ]
+   ]
+  },
+  {
+   "en": "Daniel wanted to believe him. But hunger makes people think strange things. That night he did not sleep. He lay with his eyes half closed and watched the box. The moon was bright. Hours passed. His eyes were heavy and he almost fell asleep, when suddenly he heard a small sound — the sound of something moving in the sand.",
+   "ru": "Дэниелу хотелось ему верить. Но голод заставляет людей думать странное. Той ночью он не спал. Он лежал с полузакрытыми глазами и следил за ящиком. Луна светила ярко. Проходили часы. Глаза слипались, и он почти заснул, как вдруг услышал тихий звук — звук чего-то, что двигалось по песку.",
+   "s": [
+    [
+     "Daniel wanted to believe him.",
+     "Дэниелу хотелось ему верить."
+    ],
+    [
+     "But hunger makes people think strange things.",
+     "Но голод заставляет людей думать странное."
+    ],
+    [
+     "That night he did not sleep.",
+     "Той ночью он не спал."
+    ],
+    [
+     "He lay with his eyes half closed and watched the box.",
+     "Он лежал с полузакрытыми глазами и следил за ящиком."
+    ],
+    [
+     "The moon was bright.",
+     "Луна светила ярко."
+    ],
+    [
+     "Hours passed.",
+     "Проходили часы."
+    ],
+    [
+     "His eyes were heavy and he almost fell asleep, when suddenly he heard a small sound — the sound of something moving in the sand.",
+     "Глаза слипались, и он почти заснул, как вдруг услышал тихий звук — звук чего-то, что двигалось по песку."
+    ]
+   ]
+  },
+  {
+   "en": "A dark shape came out of the bushes. It was not Sam. It was small, with long arms and a long tail. It went straight to the box, opened it with clever little hands, took a can and ran away into the trees.",
+   "ru": "Из кустов вышла тёмная фигура. Это был не Сэм. Существо было маленьким, с длинными руками и длинным хвостом. Оно направилось прямо к ящику, открыло его ловкими маленькими руками, взяло банку и убежало в деревья.",
+   "s": [
+    [
+     "A dark shape came out of the bushes.",
+     "Из кустов вышла тёмная фигура."
+    ],
+    [
+     "It was not Sam.",
+     "Это был не Сэм."
+    ],
+    [
+     "It was small, with long arms and a long tail.",
+     "Существо было маленьким, с длинными руками и длинным хвостом."
+    ],
+    [
+     "It went straight to the box, opened it with clever little hands, took a can and ran away into the trees.",
+     "Оно направилось прямо к ящику, открыло его ловкими маленькими руками, взяло банку и убежало в деревья."
+    ]
+   ]
+  },
+  {
+   "en": "“A monkey!” Daniel shouted, jumping up. Sam woke up at once. “What? Where?” “It was a monkey! It took a can! I saw its tail!” Sam started to laugh so hard that tears came to his eyes. “So I am not a thief after all,” he said.",
+   "ru": "«Обезьяна!» — закричал Дэниел, вскакивая. Сэм сразу проснулся. «Что? Где?» — «Это была обезьяна! Она взяла банку! Я видел её хвост!» Сэм рассмеялся так сильно, что у него на глазах выступили слёзы. «Значит, я всё-таки не вор», — сказал он.",
+   "s": [
+    [
+     "“A monkey!”",
+     "«Обезьяна!»"
+    ],
+    [
+     "Daniel shouted, jumping up.",
+     "Дэниел закричал, вскакивая."
+    ],
+    [
+     "Sam woke up at once.",
+     "Сэм сразу проснулся."
+    ],
+    [
+     "“What?",
+     "«Что?"
+    ],
+    [
+     "Where?”",
+     "Где?»"
+    ],
+    [
+     "“It was a monkey!",
+     "«Это была обезьяна!"
+    ],
+    [
+     "It took a can!",
+     "Она взяла банку!"
+    ],
+    [
+     "I saw its tail!”",
+     "Я видел её хвост!»"
+    ],
+    [
+     "Sam started to laugh so hard that tears came to his eyes.",
+     "Сэм рассмеялся так сильно, что у него на глазах выступили слёзы."
+    ],
+    [
+     "“So I am not a thief after all,” he said.",
+     "«Значит, я всё-таки не вор», — сказал он."
+    ]
+   ]
+  },
+  {
+   "en": "Daniel felt his face go red. “I'm sorry, Sam. I should not have thought that. You deserve a better friend.” Sam put a hand on his shoulder. “You're honest now. That is enough.”",
+   "ru": "Дэниел почувствовал, как краснеет. «Прости, Сэм. Мне не следовало так думать. Ты заслуживаешь лучшего друга». Сэм положил руку ему на плечо. «Сейчас ты честен. Этого достаточно».",
+   "s": [
+    [
+     "Daniel felt his face go red.",
+     "Дэниел почувствовал, как краснеет."
+    ],
+    [
+     "“I'm sorry, Sam.",
+     "«Прости, Сэм."
+    ],
+    [
+     "I should not have thought that.",
+     "Мне не следовало так думать."
+    ],
+    [
+     "You deserve a better friend.”",
+     "Ты заслуживаешь лучшего друга»."
+    ],
+    [
+     "Sam put a hand on his shoulder.",
+     "Сэм положил руку ему на плечо."
+    ],
+    [
+     "“You're honest now.",
+     "«Сейчас ты честен."
+    ],
+    [
+     "That is enough.”",
+     "Этого достаточно»."
+    ]
+   ]
+  },
+  {
+   "en": "But one thing was strange. How did a monkey know how to open a box? And what did it do with a can? A monkey cannot open a can with its teeth. Sam rubbed his chin and thought. “Wild animals don't eat beans,” he said. “Somebody taught that monkey.”",
+   "ru": "Но одно было странно. Откуда обезьяна знала, как открыть ящик? И что она делала с банкой? Обезьяна не может открыть банку зубами. Сэм потёр подбородок и задумался. «Дикие животные не едят фасоль, — сказал он. — Кто-то научил эту обезьяну».",
+   "s": [
+    [
+     "But one thing was strange.",
+     "Но одно было странно."
+    ],
+    [
+     "How did a monkey know how to open a box?",
+     "Откуда обезьяна знала, как открыть ящик?"
+    ],
+    [
+     "And what did it do with a can?",
+     "И что она делала с банкой?"
+    ],
+    [
+     "A monkey cannot open a can with its teeth.",
+     "Обезьяна не может открыть банку зубами."
+    ],
+    [
+     "Sam rubbed his chin and thought.",
+     "Сэм потёр подбородок и задумался."
+    ],
+    [
+     "“Wild animals don't eat beans,” he said.",
+     "«Дикие животные не едят фасоль», — сказал он."
+    ],
+    [
+     "“Somebody taught that monkey.”",
+     "«Кто-то научил эту обезьяну»."
+    ]
+   ]
+  },
+  {
+   "en": "In the morning they found small footprints in the sand and followed them. The prints led them to a narrow path that went up into the hills. Nobody had cut it recently, but it was clearly a path made by people. After an hour they saw something that made Daniel stop: an old wooden sign on a tree. The words were almost gone, but they could still read them: “Weather Station. Private.”",
+   "ru": "Утром они нашли на песке маленькие следы и пошли по ним. Следы привели их к узкой тропе, которая поднималась в холмы. Её давно никто не расчищал, но это явно была тропа, проложенная людьми. Через час они увидели то, что заставило Дэниела остановиться: старый деревянный знак на дереве. Слова почти стёрлись, но их ещё можно было прочитать: «Метеостанция. Частная территория».",
+   "s": [
+    [
+     "In the morning they found small footprints in the sand and followed them.",
+     "Утром они нашли на песке маленькие следы и пошли по ним."
+    ],
+    [
+     "The prints led them to a narrow path that went up into the hills.",
+     "Следы привели их к узкой тропе, которая поднималась в холмы."
+    ],
+    [
+     "Nobody had cut it recently, but it was clearly a path made by people.",
+     "Её давно никто не расчищал, но это явно была тропа, проложенная людьми."
+    ],
+    [
+     "After an hour they saw something that made Daniel stop: an old wooden sign on a tree.",
+     "Через час они увидели то, что заставило Дэниела остановиться: старый деревянный знак на дереве."
+    ],
+    [
+     "The words were almost gone, but they could still read them: “Weather Station.",
+     "Слова почти стёрлись, но их ещё можно было прочитать: «Метеостанция."
+    ],
+    [
+     "Private.”",
+     "Частная территория»."
+    ]
+   ]
+  },
+  {
+   "en": "“A station!” Daniel cried. “There's a station on this island! Maybe there's a radio! Maybe there are people!” He felt confident for the first time since the storm. He ran up the path, and Sam followed him more slowly.",
+   "ru": "«Станция! — воскликнул Дэниел. — На этом острове есть станция! Может, там есть радио! Может, там есть люди!» Впервые после шторма он почувствовал себя уверенным. Он побежал вверх по тропе, а Сэм шёл за ним медленнее.",
+   "s": [
+    [
+     "“A station!”",
+     "«Станция!»"
+    ],
+    [
+     "Daniel cried.",
+     "Дэниел воскликнул."
+    ],
+    [
+     "“There's a station on this island!",
+     "«На этом острове есть станция!"
+    ],
+    [
+     "Maybe there's a radio!",
+     "Может, там есть радио!"
+    ],
+    [
+     "Maybe there are people!”",
+     "Может, там есть люди!»"
+    ],
+    [
+     "He felt confident for the first time since the storm.",
+     "Впервые после шторма он почувствовал себя уверенным."
+    ],
+    [
+     "He ran up the path, and Sam followed him more slowly.",
+     "Он побежал вверх по тропе, а Сэм шёл за ним медленнее."
+    ]
+   ]
+  },
+  {
+   "en": "At the top of the hill there was a small white house with a metal tower behind it. The door was open. Inside it was dusty and quiet. There was a table, a broken chair and an old green sofa. And on the sofa, among empty cans, sat the monkey, eating beans with a spoon.",
+   "ru": "На вершине холма стоял маленький белый дом, а за ним — металлическая вышка. Дверь была открыта. Внутри было пыльно и тихо. Там были стол, сломанный стул и старый зелёный диван. А на диване, среди пустых банок, сидела обезьяна и ела фасоль ложкой.",
+   "s": [
+    [
+     "At the top of the hill there was a small white house with a metal tower behind it.",
+     "На вершине холма стоял маленький белый дом, а за ним — металлическая вышка."
+    ],
+    [
+     "The door was open.",
+     "Дверь была открыта."
+    ],
+    [
+     "Inside it was dusty and quiet.",
+     "Внутри было пыльно и тихо."
+    ],
+    [
+     "There was a table, a broken chair and an old green sofa.",
+     "Там были стол, сломанный стул и старый зелёный диван."
+    ],
+    [
+     "And on the sofa, among empty cans, sat the monkey, eating beans with a spoon.",
+     "А на диване, среди пустых банок, сидела обезьяна и ела фасоль ложкой."
+    ]
+   ]
+  },
+  {
+   "en": "But there were no people. Daniel looked in every room. On the table there was a notebook, and the last page said: “The station is closing. The boat comes for me tomorrow. I am sorry, Coco, they won't let me take you. Be a good girl.” The date was three years ago.",
+   "ru": "Но людей не было. Дэниел заглянул в каждую комнату. На столе лежал блокнот, и на последней странице было написано: «Станцию закрывают. Завтра за мной придёт лодка. Прости, Коко, мне не разрешат взять тебя. Будь умницей». Запись была сделана три года назад.",
+   "s": [
+    [
+     "But there were no people.",
+     "Но людей не было."
+    ],
+    [
+     "Daniel looked in every room.",
+     "Дэниел заглянул в каждую комнату."
+    ],
+    [
+     "On the table there was a notebook, and the last page said: “The station is closing.",
+     "На столе лежал блокнот, и на последней странице было написано: «Станцию закрывают."
+    ],
+    [
+     "The boat comes for me tomorrow.",
+     "Завтра за мной придёт лодка."
+    ],
+    [
+     "I am sorry, Coco, they won't let me take you.",
+     "Прости, Коко, мне не разрешат взять тебя."
+    ],
+    [
+     "Be a good girl.”",
+     "Будь умницей»."
+    ],
+    [
+     "The date was three years ago.",
+     "Запись была сделана три года назад."
+    ]
+   ]
+  },
+  {
+   "en": "Daniel sat down on the sofa. The disappointment was so strong that he could barely breathe. No people. No help. Only a lonely monkey who had learned to eat from cans.",
+   "ru": "Дэниел сел на диван. Разочарование было таким сильным, что он едва мог дышать. Ни людей. Ни помощи. Только одинокая обезьяна, которая научилась есть из банок.",
+   "s": [
+    [
+     "Daniel sat down on the sofa.",
+     "Дэниел сел на диван."
+    ],
+    [
+     "The disappointment was so strong that he could barely breathe.",
+     "Разочарование было таким сильным, что он едва мог дышать."
+    ],
+    [
+     "No people.",
+     "Ни людей."
+    ],
+    [
+     "No help.",
+     "Ни помощи."
+    ],
+    [
+     "Only a lonely monkey who had learned to eat from cans.",
+     "Только одинокая обезьяна, которая научилась есть из банок."
+    ]
+   ]
+  },
+  {
+   "en": "Sam, however, did not sit down. He was looking at the metal tower through the window. Then he went to a cupboard in the corner and opened it. Inside there was a large old radio and, next to it, a box of batteries. “Daniel,” he said slowly, “don't give up yet.”",
+   "ru": "Сэм же не сел. Он смотрел в окно на металлическую вышку. Потом он подошёл к шкафу в углу и открыл его. Внутри стояло большое старое радио, а рядом — коробка с батарейками. «Дэниел, — медленно сказал он, — не сдавайся пока».",
+   "s": [
+    [
+     "Sam, however, did not sit down.",
+     "Сэм же не сел."
+    ],
+    [
+     "He was looking at the metal tower through the window.",
+     "Он смотрел в окно на металлическую вышку."
+    ],
+    [
+     "Then he went to a cupboard in the corner and opened it.",
+     "Потом он подошёл к шкафу в углу и открыл его."
+    ],
+    [
+     "Inside there was a large old radio and, next to it, a box of batteries.",
+     "Внутри стояло большое старое радио, а рядом — коробка с батарейками."
+    ],
+    [
+     "“Daniel,” he said slowly, “don't give up yet.”",
+     "«Дэниел, — медленно сказал он, — не сдавайся пока»."
+    ]
+   ]
+  },
+  {
+   "en": "It took them the whole afternoon. Most of the batteries were dead, but Sam was patient. He checked them one by one, connected wires and tried again and again. Daniel offered to help, but he knew nothing about radios, so he sat with Coco and gave her pieces of coconut. She ate them, then pulled his hair as if they were old friends.",
+   "ru": "На это у них ушло всё время после полудня. Большинство батареек сели, но Сэм был терпелив. Он проверял их одну за другой, соединял провода и пробовал снова и снова. Дэниел предложил помочь, но он ничего не понимал в радио, поэтому сидел с Коко и давал ей кусочки кокоса. Она их съела, а потом подёргала его за волосы, будто они были старыми друзьями.",
+   "s": [
+    [
+     "It took them the whole afternoon.",
+     "На это у них ушло всё время после полудня."
+    ],
+    [
+     "Most of the batteries were dead, but Sam was patient.",
+     "Большинство батареек сели, но Сэм был терпелив."
+    ],
+    [
+     "He checked them one by one, connected wires and tried again and again.",
+     "Он проверял их одну за другой, соединял провода и пробовал снова и снова."
+    ],
+    [
+     "Daniel offered to help, but he knew nothing about radios, so he sat with Coco and gave her pieces of coconut.",
+     "Дэниел предложил помочь, но он ничего не понимал в радио, поэтому сидел с Коко и давал ей кусочки кокоса."
+    ],
+    [
+     "She ate them, then pulled his hair as if they were old friends.",
+     "Она их съела, а потом подёргала его за волосы, будто они были старыми друзьями."
+    ]
+   ]
+  },
+  {
+   "en": "Just before the sun went down, the radio made a noise. Then a voice, far away and unclear, said: “...this is the coast guard... who is calling?” Sam pressed the button and spoke clearly. He gave their names, the name of his lost boat and the sign painted on the tower — the number of the station. The voice said: “We know that station. Stay where you are. We will come tomorrow.”",
+   "ru": "Прямо перед закатом радио зашумело. Потом далёкий и неясный голос сказал: «...говорит береговая охрана... кто на связи?» Сэм нажал кнопку и заговорил чётко. Он назвал их имена, название своей пропавшей лодки и знак, нарисованный на вышке, — номер станции. Голос ответил: «Мы знаем эту станцию. Оставайтесь на месте. Мы придём завтра».",
+   "s": [
+    [
+     "Just before the sun went down, the radio made a noise.",
+     "Прямо перед закатом радио зашумело."
+    ],
+    [
+     "Then a voice, far away and unclear, said: “...this is the coast guard...",
+     "Потом далёкий и неясный голос сказал: «...говорит береговая охрана..."
+    ],
+    [
+     "who is calling?”",
+     "кто на связи?»"
+    ],
+    [
+     "Sam pressed the button and spoke clearly.",
+     "Сэм нажал кнопку и заговорил чётко."
+    ],
+    [
+     "He gave their names, the name of his lost boat and the sign painted on the tower — the number of the station.",
+     "Он назвал их имена, название своей пропавшей лодки и знак, нарисованный на вышке, — номер станции."
+    ],
+    [
+     "The voice said: “We know that station.",
+     "Голос ответил: «Мы знаем эту станцию."
+    ],
+    [
+     "Stay where you are.",
+     "Оставайтесь на месте."
+    ],
+    [
+     "We will come tomorrow.”",
+     "Мы придём завтра»."
+    ]
+   ]
+  },
+  {
+   "en": "That night they did not sleep under the tree. They slept in the little house, Sam on the floor and Daniel on the old sofa. Before bed, they opened the last can of beans and divided it into three parts: one for Sam, one for Daniel and one for Coco. “Bon appetit,” Sam said, and Coco, who seemed to understand, took her spoon.",
+   "ru": "Той ночью они спали не под деревом. Они спали в маленьком доме: Сэм на полу, а Дэниел на старом диване. Перед сном они открыли последнюю банку фасоли и разделили её на три части: одну Сэму, одну Дэниелу и одну Коко. «Приятного аппетита», — сказал Сэм, и Коко, которая, казалось, поняла, взяла свою ложку.",
+   "s": [
+    [
+     "That night they did not sleep under the tree.",
+     "Той ночью они спали не под деревом."
+    ],
+    [
+     "They slept in the little house, Sam on the floor and Daniel on the old sofa.",
+     "Они спали в маленьком доме: Сэм на полу, а Дэниел на старом диване."
+    ],
+    [
+     "Before bed, they opened the last can of beans and divided it into three parts: one for Sam, one for Daniel and one for Coco.",
+     "Перед сном они открыли последнюю банку фасоли и разделили её на три части: одну Сэму, одну Дэниелу и одну Коко."
+    ],
+    [
+     "“Bon appetit,” Sam said, and Coco, who seemed to understand, took her spoon.",
+     "«Приятного аппетита», — сказал Сэм, и Коко, которая, казалось, поняла, взяла свою ложку."
+    ]
+   ]
+  },
+  {
+   "en": "The boat came at noon the next day. Coco did not want to leave the house at first, but when Daniel held out his arms, she jumped into them and put her tail around his neck. “She's coming with us,” he told the coast guard. Nobody argued.",
+   "ru": "Катер пришёл в полдень следующего дня. Сначала Коко не хотела оставлять дом, но когда Дэниел протянул руки, она запрыгнула к нему и обвила хвостом его шею. «Она едет с нами», — сказал он береговой охране. Никто не стал спорить.",
+   "s": [
+    [
+     "The boat came at noon the next day.",
+     "Катер пришёл в полдень следующего дня."
+    ],
+    [
+     "Coco did not want to leave the house at first, but when Daniel held out his arms, she jumped into them and put her tail around his neck.",
+     "Сначала Коко не хотела оставлять дом, но когда Дэниел протянул руки, она запрыгнула к нему и обвила хвостом его шею."
+    ],
+    [
+     "“She's coming with us,” he told the coast guard.",
+     "«Она едет с нами», — сказал он береговой охране."
+    ],
+    [
+     "Nobody argued.",
+     "Никто не стал спорить."
+    ]
+   ]
+  },
+  {
+   "en": "A month later Daniel was back in his flat, on his familiar sofa, in front of the same TV. But he was not the same man. He had left his job. Coco was sleeping next to him, and on the table lay a letter from Sam: “New boat is ready. The sea is waiting. Are you coming?” Daniel smiled, and this time it was not a sigh but a laugh. He was already packing his bag.",
+   "ru": "Месяц спустя Дэниел снова был в своей квартире, на своём привычном диване, перед тем же телевизором. Но он был уже не тем человеком. Он ушёл с работы. Рядом с ним спала Коко, а на столе лежало письмо от Сэма: «Новая лодка готова. Море ждёт. Ты едешь?» Дэниел улыбнулся, и на этот раз это был не вздох, а смех. Он уже собирал сумку.",
+   "s": [
+    [
+     "A month later Daniel was back in his flat, on his familiar sofa, in front of the same TV.",
+     "Месяц спустя Дэниел снова был в своей квартире, на своём привычном диване, перед тем же телевизором."
+    ],
+    [
+     "But he was not the same man.",
+     "Но он был уже не тем человеком."
+    ],
+    [
+     "He had left his job.",
+     "Он ушёл с работы."
+    ],
+    [
+     "Coco was sleeping next to him, and on the table lay a letter from Sam: “New boat is ready.",
+     "Рядом с ним спала Коко, а на столе лежало письмо от Сэма: «Новая лодка готова."
+    ],
+    [
+     "The sea is waiting.",
+     "Море ждёт."
+    ],
+    [
+     "Are you coming?”",
+     "Ты едешь?»"
+    ],
+    [
+     "Daniel smiled, and this time it was not a sigh but a laugh.",
+     "Дэниел улыбнулся, и на этот раз это был не вздох, а смех."
+    ],
+    [
+     "He was already packing his bag.",
+     "Он уже собирал сумку."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, про",
+  "across": "через",
+  "advice": "совет",
+  "after": "после",
+  "afternoon": "время после полудня",
+  "again": "снова",
+  "ago": "назад",
+  "alive": "живой",
+  "all": "всё, весь",
+  "almost": "почти",
+  "already": "уже",
+  "also": "также",
+  "always": "всегда",
+  "am": "(есть) — я",
+  "among": "среди",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "animals": "животные",
+  "anything": "что-нибудь",
+  "appetit": "аппетита (bon appetit)",
+  "are": "(есть) — мы/вы/они",
+  "area": "местность, площадь",
+  "argued": "спорил",
+  "arms": "руки",
+  "around": "вокруг",
+  "as": "как",
+  "asleep": "спящий",
+  "at": "в, на, у",
+  "ate": "съела",
+  "away": "прочь",
+  "back": "обратно, снова",
+  "bag": "сумка, мешок",
+  "barely": "едва",
+  "batteries": "батарейки",
+  "be": "быть",
+  "beach": "пляж",
+  "beans": "фасоль",
+  "bed": "кровать, сон",
+  "been": "было (been)",
+  "before": "перед, до",
+  "began": "начал",
+  "behind": "за, позади",
+  "believe": "верить",
+  "better": "лучший",
+  "between": "между",
+  "big": "большой",
+  "birds": "птицы",
+  "biscuits": "печенье",
+  "black": "чёрный",
+  "blood": "кровь",
+  "boat": "лодка",
+  "boats": "лодки",
+  "bon": "приятного (bon appetit)",
+  "boots": "ботинки",
+  "boring": "скучный",
+  "box": "ящик, коробка",
+  "breathe": "дышать",
+  "bright": "яркий",
+  "broken": "сломанный",
+  "brown": "коричневый, загорелый",
+  "bushes": "кусты",
+  "but": "но",
+  "button": "кнопка",
+  "by": "(сделанный) кем; по",
+  "calling": "звонит, вызывает",
+  "calm": "спокойный",
+  "came": "пришёл",
+  "can": "банка",
+  "cannot": "не может",
+  "cans": "банки",
+  "careful": "осторожный",
+  "carefully": "внимательно",
+  "chair": "стул",
+  "checked": "проверил",
+  "chin": "подбородок",
+  "clearly": "явно, чётко",
+  "clever": "ловкий, умный",
+  "closed": "закрытый",
+  "closing": "закрывается",
+  "coast": "берег (coast guard)",
+  "coco": "Коко (кличка)",
+  "coconut": "кокос",
+  "coconuts": "кокосы",
+  "cold": "холодный",
+  "come": "прийти",
+  "comes": "приходит",
+  "coming": "едет, идёт",
+  "computer": "компьютер",
+  "confident": "уверенный",
+  "connected": "соединил",
+  "continued": "продолжали",
+  "corner": "угол",
+  "could": "мог",
+  "counted": "посчитал",
+  "cried": "плакал; воскликнул",
+  "cupboard": "шкаф",
+  "cut": "расчищал",
+  "daniel": "Дэниел (имя)",
+  "dark": "тёмный",
+  "date": "дата",
+  "day": "день",
+  "days": "дни",
+  "dead": "мёртвый, севший",
+  "deep": "глубокий",
+  "deserve": "заслуживать",
+  "did": "(вспом. глагол)",
+  "die": "умереть",
+  "disappearing": "исчезает",
+  "disappointment": "разочарование",
+  "divided": "разделили",
+  "do": "делать",
+  "don't": "не (отрицание)",
+  "door": "дверь",
+  "down": "вниз",
+  "dream": "мечта",
+  "dreams": "сны",
+  "dusty": "пыльный",
+  "eat": "есть",
+  "eating": "ест",
+  "empty": "пустой",
+  "enough": "достаточно",
+  "every": "каждый",
+  "everything": "всё",
+  "explored": "исследовали",
+  "eyes": "глаза",
+  "face": "лицо",
+  "familiar": "привычный",
+  "far": "далеко",
+  "faster": "быстрее",
+  "feeling": "чувство",
+  "feet": "ноги, ступни",
+  "fell": "упал",
+  "felt": "почувствовал",
+  "finally": "наконец",
+  "first": "первый",
+  "five": "пять",
+  "flat": "квартира",
+  "floor": "пол",
+  "follow": "следовать, выполнять",
+  "followed": "шёл следом",
+  "food": "еда",
+  "footprints": "следы",
+  "for": "для, на, в течение",
+  "found": "нашли",
+  "fourth": "четвёртый",
+  "fresh": "пресный, свежий",
+  "friend": "друг",
+  "friends": "друзья",
+  "from": "от, из",
+  "front": "перед (in front of)",
+  "gave": "дал",
+  "gift": "подарок",
+  "girl": "девочка",
+  "give": "давать (give up — сдаваться)",
+  "go": "идти; становиться",
+  "gone": "пропал, исчез",
+  "good": "хороший",
+  "green": "зелёный",
+  "grew": "рос",
+  "grey": "серый",
+  "guard": "охрана (coast guard)",
+  "had": "имел; (вспом. глагол)",
+  "hair": "волосы",
+  "half": "наполовину",
+  "hand": "рука",
+  "hands": "руки",
+  "hard": "тяжёлый; сильно",
+  "have": "(вспом. глагол)",
+  "he": "он",
+  "heard": "услышал",
+  "heavy": "тяжёлый",
+  "held": "держал(ись); протянул",
+  "help": "помощь, помочь",
+  "her": "её, ей",
+  "here": "здесь, вот",
+  "hill": "холм",
+  "hills": "холмы",
+  "him": "его, ему",
+  "his": "его",
+  "hit": "били",
+  "holding": "держась",
+  "honest": "честный",
+  "hour": "час",
+  "hours": "часы",
+  "house": "дом",
+  "houses": "дома",
+  "how": "как",
+  "however": "однако",
+  "huge": "огромный",
+  "hunger": "голод",
+  "i": "я",
+  "i'm": "я (есть)",
+  "if": "если",
+  "in": "в",
+  "inside": "внутри",
+  "into": "в (направление)",
+  "is": "есть, является",
+  "island": "остров",
+  "islands": "острова",
+  "it": "он, она, оно, это",
+  "its": "его, её",
+  "job": "работа",
+  "jumped": "прыгнула",
+  "jumping": "вскакивая",
+  "just": "просто; прямо",
+  "keep": "держать (keep quiet — молчать)",
+  "kick": "бить ногами",
+  "knew": "знал",
+  "know": "знать",
+  "land": "земля, суша",
+  "large": "большой",
+  "last": "последний; длиться",
+  "later": "позже, спустя",
+  "laugh": "смех; смеяться",
+  "laughed": "смеялся",
+  "lay": "лежал",
+  "learned": "научилась",
+  "leave": "оставить",
+  "led": "привели",
+  "left": "ушёл, оставил",
+  "legs": "ноги",
+  "let": "позволять",
+  "letter": "письмо",
+  "life": "жизнь",
+  "lifted": "подняла",
+  "liked": "нравился",
+  "little": "маленький",
+  "live": "жить",
+  "lonely": "одинокий",
+  "long": "длинный; долго",
+  "looked": "посмотрел",
+  "looking": "смотрел",
+  "lost": "пропавший",
+  "made": "сделал(а), заставил",
+  "makes": "заставляет",
+  "man": "человек, мужчина",
+  "matters": "имеет значение",
+  "maybe": "может быть",
+  "me": "меня, мне",
+  "metal": "металлический",
+  "missed": "скучал",
+  "missing": "не хватало",
+  "monkey": "обезьяна",
+  "month": "месяц",
+  "moon": "луна",
+  "more": "более",
+  "morning": "утро",
+  "most": "большинство",
+  "moved": "двигался, уходил",
+  "moving": "двигающийся",
+  "much": "много",
+  "my": "мой",
+  "name": "имя, название",
+  "named": "по имени",
+  "names": "имена",
+  "narrow": "узкий",
+  "neck": "шея",
+  "never": "никогда",
+  "new": "новый",
+  "next": "следующий; рядом (next to)",
+  "night": "ночь",
+  "no": "нет, никаких",
+  "nobody": "никто",
+  "noise": "шум",
+  "noon": "полдень",
+  "not": "не",
+  "notebook": "блокнот",
+  "nothing": "ничего",
+  "now": "сейчас",
+  "number": "номер",
+  "of": "из, (родительный падеж)",
+  "off": "снимать (take off)",
+  "offered": "предложил",
+  "office": "офис",
+  "old": "старый",
+  "on": "на",
+  "once": "сразу (at once)",
+  "one": "один",
+  "only": "только",
+  "onto": "на (направление)",
+  "open": "открыть; открытый",
+  "opened": "открыл",
+  "orders": "приказы, команды",
+  "our": "наш",
+  "out": "наружу",
+  "over": "перевернула (turn over)",
+  "packing": "собирал (вещи)",
+  "page": "страница",
+  "paid": "заплатил",
+  "painted": "нарисованный",
+  "palm": "пальма",
+  "parts": "части",
+  "passed": "прошли",
+  "path": "тропа, путь",
+  "patient": "терпеливый",
+  "people": "люди",
+  "perfect": "отличный",
+  "pieces": "кусочки",
+  "plank": "доска",
+  "pressed": "нажал",
+  "prints": "следы",
+  "private": "частный",
+  "pull": "тянуть",
+  "pulled": "дёрнула",
+  "put": "положил; обвила",
+  "quiet": "тихий",
+  "quietly": "тихо",
+  "radio": "радио",
+  "radios": "радио (мн.)",
+  "ran": "побежал",
+  "rather": "скорее, лучше",
+  "read": "прочитать",
+  "ready": "готовый",
+  "recently": "недавно",
+  "red": "красный",
+  "respect": "уважать",
+  "rice": "рис",
+  "room": "комната",
+  "rubbed": "потёр",
+  "said": "сказал",
+  "sail": "плыть под парусом",
+  "sailor": "моряк",
+  "sam": "Сэм (имя)",
+  "same": "тот же",
+  "sand": "песок",
+  "sat": "сидел, сел",
+  "saw": "увидел",
+  "saying": "говоришь",
+  "scream": "кричать, выть",
+  "sea": "море",
+  "second": "секунда",
+  "seemed": "казался",
+  "shaking": "дрожащий",
+  "shape": "фигура",
+  "sharp": "острый",
+  "she": "она",
+  "she's": "она (есть)",
+  "shore": "берег",
+  "should": "следует",
+  "shoulder": "плечо",
+  "shouted": "крикнул",
+  "showed": "показал",
+  "side": "сторона",
+  "sigh": "вздох",
+  "sign": "знак",
+  "since": "с (тех пор как)",
+  "sit": "сидеть, садиться",
+  "sixth": "шестой",
+  "sixty": "шестьдесят",
+  "sky": "небо",
+  "sleep": "спать",
+  "sleeping": "спящий",
+  "slept": "спали",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smiled": "улыбнулся",
+  "so": "так, поэтому",
+  "sofa": "диван",
+  "some": "немного",
+  "somebody": "кто-то",
+  "something": "что-то",
+  "sorry": "прости",
+  "sound": "звук, шум",
+  "speak": "говорить",
+  "spoke": "заговорил",
+  "spoon": "ложка",
+  "stand": "стоять",
+  "started": "начал",
+  "station": "станция",
+  "stay": "оставаться",
+  "steal": "воровать",
+  "still": "всё ещё",
+  "stolen": "украл",
+  "stomach": "живот",
+  "stone": "камень",
+  "stop": "остановиться",
+  "storm": "шторм",
+  "straight": "прямо",
+  "strange": "странный",
+  "stream": "ручей",
+  "strength": "силы",
+  "strong": "сильный",
+  "suddenly": "вдруг",
+  "sun": "солнце",
+  "sure": "уверен",
+  "swam": "поплыли",
+  "table": "стол",
+  "tail": "хвост",
+  "take": "взять",
+  "talk": "разговаривать",
+  "tall": "высокий",
+  "taught": "научил",
+  "tears": "слёзы",
+  "teeth": "зубы",
+  "ten": "десять",
+  "than": "чем",
+  "that": "тот, что, который",
+  "that's": "это (есть)",
+  "the": "(артикль)",
+  "their": "их",
+  "them": "их, им",
+  "then": "потом",
+  "there": "там (there is — есть)",
+  "there's": "есть, имеется",
+  "they": "они",
+  "thief": "вор",
+  "thing": "вещь",
+  "things": "вещи",
+  "think": "думать",
+  "thirty": "тридцать",
+  "this": "этот, это",
+  "thought": "подумал",
+  "three": "три",
+  "through": "через, сквозь",
+  "throw": "выбрасывать",
+  "time": "время, раз",
+  "to": "к, в, (частица инфинитива)",
+  "told": "сказал",
+  "tomorrow": "завтра",
+  "too": "тоже",
+  "took": "взял; снял",
+  "top": "вершина",
+  "toward": "к, по направлению к",
+  "tower": "вышка",
+  "tree": "дерево",
+  "trees": "деревья",
+  "tried": "пытался",
+  "trip": "поездка, плавание",
+  "turned": "исполнилось; стало; перевернула",
+  "tv": "телевизор",
+  "twelve": "двенадцать",
+  "two": "два",
+  "unclear": "неясный",
+  "under": "под",
+  "understand": "понимать",
+  "up": "вверх",
+  "us": "нас, нам",
+  "voice": "голос",
+  "waiting": "ждёт",
+  "want": "хотеть",
+  "wanted": "хотел",
+  "was": "был(а)",
+  "washed": "выбросило (волной)",
+  "watched": "следил",
+  "water": "вода",
+  "wave": "волна",
+  "waves": "волны",
+  "we": "мы",
+  "we're": "мы (есть)",
+  "weather": "погода",
+  "week": "неделя",
+  "weeks": "недели",
+  "went": "пошёл, стал",
+  "were": "были",
+  "what": "что",
+  "when": "когда",
+  "where": "где",
+  "while": "пока",
+  "white": "белый",
+  "who": "кто, который",
+  "whole": "весь, целый",
+  "wild": "дикий",
+  "will": "(буд. время)",
+  "wind": "ветер",
+  "window": "окно",
+  "wires": "провода",
+  "with": "с",
+  "woke": "проснулся",
+  "won't": "не (буд. время)",
+  "wooden": "деревянный",
+  "words": "слова",
+  "would": "бы",
+  "years": "годы, лет",
+  "yes": "да",
+  "yet": "ещё, пока",
+  "you": "ты, вы",
+  "you're": "ты (есть)",
+  "your": "твой"
+ },
+ "vocab": {
+  "continued": 9,
+  "tail": 29,
+  "off": 49,
+  "tree": 69,
+  "trees": 69,
+  "hair": 89,
+  "behind": 109,
+  "bon": 129,
+  "appetit": 129,
+  "shore": 149,
+  "leave": 169,
+  "plank": 189,
+  "toward": 210,
+  "afternoon": 230,
+  "matters": 250,
+  "offered": 270,
+  "chin": 291,
+  "teeth": 311,
+  "honest": 331,
+  "sofa": 351,
+  "confident": 371,
+  "advice": 392,
+  "area": 419,
+  "sign": 441,
+  "steal": 469,
+  "stolen": 469,
+  "disappointment": 491,
+  "familiar": 512,
+  "rather": 533,
+  "path": 554,
+  "deserve": 575,
+  "dream": 596,
+  "dreams": 596,
+  "barely": 617,
+  "sigh": 639
+ }
+}

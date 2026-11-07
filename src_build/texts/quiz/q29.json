@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did Helen doubt Oliver's story from the start?",
+  "q_ru": "Почему Хелен с самого начала сомневалась в рассказе Оливера?",
+  "options": [
+   "He changed his story several times.",
+   "He couldn't remember what time it was.",
+   "His memory was too clean, like a photograph.",
+   "He refused to come to the police station."
+  ],
+  "options_ru": [
+   "Он несколько раз менял свой рассказ.",
+   "Он не мог вспомнить, который был час.",
+   "Его память была слишком чёткой, как фотография.",
+   "Он отказался прийти в полицию."
+  ],
+  "answer": 2,
+  "explain_ru": "Хелен говорит: «Honest witnesses forget things… His memory is too clean. It's like a photograph»."
+ },
+ {
+  "q": "What did Helen discover when she sat under Oliver's tree?",
+  "q_ru": "Что поняла Хелен, когда села под дерево Оливера?",
+  "options": [
+   "From there, the boathouse was hidden by trees.",
+   "It was too far to see buttons or teeth.",
+   "The café waiter could see the tree clearly.",
+   "There was a perfect view of the man's face."
+  ],
+  "options_ru": [
+   "Оттуда лодочный сарай закрывали деревья.",
+   "Было слишком далеко, чтобы разглядеть пуговицы или зубы.",
+   "Официант из кафе хорошо видел это дерево.",
+   "Оттуда было прекрасно видно лицо мужчины."
+  ],
+  "answer": 1,
+  "explain_ru": "До мостков было около двухсот метров: «She could barely see his face, let alone his teeth… Nobody could see the buttons on a coat from here»."
+ },
+ {
+  "q": "Oliver said the sun was shining on the man's red hair. Why is this detail important?",
+  "q_ru": "Оливер сказал, что солнце светило на рыжие волосы мужчины. Почему эта деталь важна?",
+  "options": [
+   "It proves that Victor was at the lake.",
+   "It shows that Oliver has very good eyes.",
+   "It explains why nobody else saw the murder.",
+   "The day was cloudy, so Oliver described his drawing."
+  ],
+  "options_ru": [
+   "Она доказывает, что Виктор был на озере.",
+   "Она показывает, что у Оливера очень хорошее зрение.",
+   "Она объясняет, почему никто больше не видел убийства.",
+   "День был пасмурный, значит, Оливер описывал свой рисунок."
+  ],
+  "answer": 3,
+  "explain_ru": "Метеослужба сказала, что небо было «grey and cloudy for the whole of that Tuesday». Солнце было только на рисунке: «I had drawn it, and I couldn't take it out»."
+ },
+ {
+  "q": "Why did Oliver hate Gerald and Victor?",
+  "q_ru": "Почему Оливер ненавидел Джеральда и Виктора?",
+  "options": [
+   "They got rich from his paintings, and nobody knew his name.",
+   "They refused to show his paintings in their gallery.",
+   "Gerald had broken the walkway near his house.",
+   "Victor had bought his studio by the lake."
+  ],
+  "options_ru": [
+   "Они разбогатели на его картинах, а его имени никто не знал.",
+   "Они отказались выставлять его картины в своей галерее.",
+   "Джеральд сломал мостки возле его дома.",
+   "Виктор купил его мастерскую у озера."
+  ],
+  "answer": 0,
+  "explain_ru": "Джеральд покупал его лучшие работы «for almost nothing», Виктор продавал их как свои находки: «They became rich… nobody remembers who made them»."
+ },
+ {
+  "q": "Oliver says, 'I wanted to convey every detail.' What does 'convey' mean?",
+  "q_ru": "Оливер говорит: «I wanted to convey every detail». Что значит «convey»?",
+  "options": [
+   "To hide something carefully.",
+   "To change something to look better.",
+   "To communicate something to other people.",
+   "To forget something on purpose."
+  ],
+  "options_ru": [
+   "Тщательно что-то скрыть.",
+   "Изменить что-то, чтобы выглядело лучше.",
+   "Передать, донести что-то до других людей.",
+   "Намеренно что-то забыть."
+  ],
+  "answer": 2,
+  "explain_ru": "Оливер хотел, чтобы его слушали: «I wanted you to see it the way I saw it». «Convey» — передать, донести."
+ },
+ {
+  "q": "What lesson does Helen take from the case at the end?",
+  "q_ru": "Какой урок Хелен выносит из этого дела в конце?",
+  "options": [
+   "Painters always make the best witnesses.",
+   "The most dangerous lies have too much detail.",
+   "Business partners usually kill each other.",
+   "A detective should always trust her sergeant."
+  ],
+  "options_ru": [
+   "Художники всегда лучшие свидетели.",
+   "Самая опасная ложь — та, в которой слишком много деталей.",
+   "Деловые партнёры обычно убивают друг друга.",
+   "Детектив всегда должна доверять своему сержанту."
+  ],
+  "answer": 1,
+  "explain_ru": "Хелен повесила над столом фото рисунка как знак, что «the most dangerous lies are the ones with too much detail»."
+ }
+]

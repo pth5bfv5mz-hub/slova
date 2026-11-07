@@ -1,0 +1,1446 @@
+{
+ "id": 33,
+ "level": "B1",
+ "title_en": "The Plate Without Onion",
+ "title_ru": "Тарелка без лука",
+ "genre": "Детектив",
+ "summary_ru": "На свадьбе в старой загородной гостинице во время тостов падает замертво отчим невесты, дорогу затопило, и инспектор полиции, приехавшая просто гостьей, должна до утра выяснить, кто из родных и друзей его отравил.",
+ "paragraphs": [
+  {
+   "en": "The wedding of Isobel Marsh and Felix Vane took place on a grey Saturday in October, at Larkspur House, an old hotel at the end of a long country road. Inspector Hana Kessel had arrived the night before with one small bag and one clear intention: to be a guest, not a police officer. Isobel was her cousin, and she had made Hana promise. “No questions, no notebooks, and no looking at people as if they have done something wrong,” she had said, laughing. “Just eat, dance and cry a little when I say my vows.”",
+   "ru": "Свадьба Изабель Марш и Феликса Вейна состоялась в серую октябрьскую субботу в Ларкспур-хаусе — старой гостинице в конце длинной загородной дороги. Инспектор Хана Кессел приехала накануне вечером с одной небольшой сумкой и одним ясным намерением: быть гостьей, а не офицером полиции. Изабель была её двоюродной сестрой и взяла с Ханы обещание. «Никаких вопросов, никаких блокнотов и никаких взглядов на людей так, будто они сделали что-то плохое», — сказала она тогда, смеясь. «Просто ешь, танцуй и немножко поплачь, когда я буду произносить клятву».",
+   "s": [
+    [
+     "The wedding of Isobel Marsh and Felix Vane took place on a grey Saturday in October, at Larkspur House, an old hotel at the end of a long country road.",
+     "Свадьба Изабель Марш и Феликса Вейна состоялась в серую октябрьскую субботу в Ларкспур-хаусе — старой гостинице в конце длинной загородной дороги."
+    ],
+    [
+     "Inspector Hana Kessel had arrived the night before with one small bag and one clear intention: to be a guest, not a police officer.",
+     "Инспектор Хана Кессел приехала накануне вечером с одной небольшой сумкой и одним ясным намерением: быть гостьей, а не офицером полиции."
+    ],
+    [
+     "Isobel was her cousin, and she had made Hana promise.",
+     "Изабель была её двоюродной сестрой и взяла с Ханы обещание."
+    ],
+    [
+     "“No questions, no notebooks, and no looking at people as if they have done something wrong,” she had said, laughing.",
+     "«Никаких вопросов, никаких блокнотов и никаких взглядов на людей так, будто они сделали что-то плохое», — сказала она тогда, смеясь."
+    ],
+    [
+     "“Just eat, dance and cry a little when I say my vows.”",
+     "«Просто ешь, танцуй и немножко поплачь, когда я буду произносить клятву»."
+    ]
+   ]
+  },
+  {
+   "en": "For most of the day, Hana kept her promise. She cried during the ceremony, which surprised her, and she clapped when Felix pushed the ring onto Isobel's finger with shaking hands. Outside, the rain grew heavier, and the wind became so strong that the old windows rattled in their frames. Somewhere in the background, a band played old love songs that nobody really listened to.",
+   "ru": "Большую часть дня Хана держала своё обещание. Она плакала во время церемонии, что удивило её саму, и аплодировала, когда Феликс дрожащими руками надел кольцо на палец Изабель. Снаружи дождь становился всё сильнее, а ветер так усилился, что старые окна задребезжали в рамах. Где-то на заднем плане оркестр играл старые песни о любви, которые никто толком не слушал.",
+   "s": [
+    [
+     "For most of the day, Hana kept her promise.",
+     "Большую часть дня Хана держала своё обещание."
+    ],
+    [
+     "She cried during the ceremony, which surprised her, and she clapped when Felix pushed the ring onto Isobel's finger with shaking hands.",
+     "Она плакала во время церемонии, что удивило её саму, и аплодировала, когда Феликс дрожащими руками надел кольцо на палец Изабель."
+    ],
+    [
+     "Outside, the rain grew heavier, and the wind became so strong that the old windows rattled in their frames.",
+     "Снаружи дождь становился всё сильнее, а ветер так усилился, что старые окна задребезжали в рамах."
+    ],
+    [
+     "Somewhere in the background, a band played old love songs that nobody really listened to.",
+     "Где-то на заднем плане оркестр играл старые песни о любви, которые никто толком не слушал."
+    ]
+   ]
+  },
+  {
+   "en": "The only person who did not seem to enjoy the day was Gordon Lyle, Isobel's stepfather. He had paid for everything, and he made sure that everybody knew it. He had approved the menu, the flowers and even the colour of the napkins himself, and he often told anyone who would listen that Felix was not good enough for his stepdaughter. His wife, Joan, a quiet woman with tired eyes, stayed close to him all day and said very little.",
+   "ru": "Единственным человеком, которому, казалось, не нравился этот день, был Гордон Лайл, отчим Изабель. Он заплатил за всё и позаботился о том, чтобы все об этом знали. Он сам утвердил меню, цветы и даже цвет салфеток и часто говорил всем, кто был готов слушать, что Феликс недостаточно хорош для его падчерицы. Его жена Джоан, тихая женщина с усталыми глазами, весь день держалась рядом с ним и почти ничего не говорила.",
+   "s": [
+    [
+     "The only person who did not seem to enjoy the day was Gordon Lyle, Isobel's stepfather.",
+     "Единственным человеком, которому, казалось, не нравился этот день, был Гордон Лайл, отчим Изабель."
+    ],
+    [
+     "He had paid for everything, and he made sure that everybody knew it.",
+     "Он заплатил за всё и позаботился о том, чтобы все об этом знали."
+    ],
+    [
+     "He had approved the menu, the flowers and even the colour of the napkins himself, and he often told anyone who would listen that Felix was not good enough for his stepdaughter.",
+     "Он сам утвердил меню, цветы и даже цвет салфеток и часто говорил всем, кто был готов слушать, что Феликс недостаточно хорош для его падчерицы."
+    ],
+    [
+     "His wife, Joan, a quiet woman with tired eyes, stayed close to him all day and said very little.",
+     "Его жена Джоан, тихая женщина с усталыми глазами, весь день держалась рядом с ним и почти ничего не говорила."
+    ]
+   ]
+  },
+  {
+   "en": "At dinner, Hana was placed opposite the groom's grandmother, Lettice Vane, who was eighty-eight and sharper than anyone else in the room. Lettice carried a huge black umbrella everywhere, even indoors, and used it as a walking stick. “It's a habit,” she explained, when she saw Hana looking at it. “Sixty years ago a man tried to steal my bag, and I hit him with an umbrella. I have felt safer with one ever since.”",
+   "ru": "За ужином Хану посадили напротив бабушки жениха, Леттис Вейн, которой было восемьдесят восемь лет и которая соображала быстрее всех в зале. Леттис повсюду носила с собой огромный чёрный зонт, даже в помещении, и пользовалась им как тростью. «Это привычка», — объяснила она, заметив, что Хана на него смотрит. «Шестьдесят лет назад один мужчина попытался украсть мою сумку, и я ударила его зонтом. С тех пор с зонтом я чувствую себя спокойнее».",
+   "s": [
+    [
+     "At dinner, Hana was placed opposite the groom's grandmother, Lettice Vane, who was eighty-eight and sharper than anyone else in the room.",
+     "За ужином Хану посадили напротив бабушки жениха, Леттис Вейн, которой было восемьдесят восемь лет и которая соображала быстрее всех в зале."
+    ],
+    [
+     "Lettice carried a huge black umbrella everywhere, even indoors, and used it as a walking stick.",
+     "Леттис повсюду носила с собой огромный чёрный зонт, даже в помещении, и пользовалась им как тростью."
+    ],
+    [
+     "“It's a habit,” she explained, when she saw Hana looking at it.",
+     "«Это привычка», — объяснила она, заметив, что Хана на него смотрит."
+    ],
+    [
+     "“Sixty years ago a man tried to steal my bag, and I hit him with an umbrella.",
+     "«Шестьдесят лет назад один мужчина попытался украсть мою сумку, и я ударила его зонтом."
+    ],
+    [
+     "I have felt safer with one ever since.”",
+     "С тех пор с зонтом я чувствую себя спокойнее»."
+    ]
+   ]
+  },
+  {
+   "en": "Lettice talked about many topics during the meal: politics, her garden, and the crows that visited her window every morning. “People think a crow is a bad sign,” she said, “but crows are cleverer than most of my relatives. A crow never forgets a face.” Then she leaned across the table and lowered her voice. “On Monday I'm going to see my lawyer and change my will. My son Rupert won't like it, but he doesn't deserve a penny.”",
+   "ru": "За едой Леттис говорила на множество тем: о политике, о своём саде и о воронах, которые каждое утро прилетали к её окну. «Люди считают ворону дурным знаком, — сказала она, — но вороны умнее большинства моих родственников. Ворона никогда не забывает лицо». Затем она наклонилась через стол и понизила голос. «В понедельник я иду к своему адвокату, чтобы изменить завещание. Моему сыну Руперту это не понравится, но он не заслуживает ни пенни».",
+   "s": [
+    [
+     "Lettice talked about many topics during the meal: politics, her garden, and the crows that visited her window every morning.",
+     "За едой Леттис говорила на множество тем: о политике, о своём саде и о воронах, которые каждое утро прилетали к её окну."
+    ],
+    [
+     "“People think a crow is a bad sign,” she said, “but crows are cleverer than most of my relatives.",
+     "«Люди считают ворону дурным знаком, — сказала она, — но вороны умнее большинства моих родственников."
+    ],
+    [
+     "A crow never forgets a face.”",
+     "Ворона никогда не забывает лицо»."
+    ],
+    [
+     "Then she leaned across the table and lowered her voice.",
+     "Затем она наклонилась через стол и понизила голос."
+    ],
+    [
+     "“On Monday I'm going to see my lawyer and change my will.",
+     "«В понедельник я иду к своему адвокату, чтобы изменить завещание."
+    ],
+    [
+     "My son Rupert won't like it, but he doesn't deserve a penny.”",
+     "Моему сыну Руперту это не понравится, но он не заслуживает ни пенни»."
+    ]
+   ]
+  },
+  {
+   "en": "Rupert Vane sat two tables away, a handsome, charming man in expensive clothes who smiled at everyone and paid for nothing. Hana noticed that the waitress brought two special plates from the kitchen: one for Lettice and one for Gordon. “No onion,” Lettice said with a little annoyance. “My stomach can't take it any more, and Gordon simply hates the taste. So the poor chef has made two plates of fish in butter sauce just for the two of us.”",
+   "ru": "Руперт Вейн сидел через два стола от них — красивый, обаятельный мужчина в дорогой одежде, который улыбался всем и ни за что не платил. Хана заметила, что официантка принесла из кухни две особые тарелки: одну для Леттис и одну для Гордона. «Без лука», — с лёгким раздражением сказала Леттис. «Мой желудок его больше не выносит, а Гордон просто терпеть не может его вкус. Вот бедному повару и пришлось приготовить две тарелки рыбы в масляном соусе специально для нас двоих».",
+   "s": [
+    [
+     "Rupert Vane sat two tables away, a handsome, charming man in expensive clothes who smiled at everyone and paid for nothing.",
+     "Руперт Вейн сидел через два стола от них — красивый, обаятельный мужчина в дорогой одежде, который улыбался всем и ни за что не платил."
+    ],
+    [
+     "Hana noticed that the waitress brought two special plates from the kitchen: one for Lettice and one for Gordon.",
+     "Хана заметила, что официантка принесла из кухни две особые тарелки: одну для Леттис и одну для Гордона."
+    ],
+    [
+     "“No onion,” Lettice said with a little annoyance.",
+     "«Без лука», — с лёгким раздражением сказала Леттис."
+    ],
+    [
+     "“My stomach can't take it any more, and Gordon simply hates the taste.",
+     "«Мой желудок его больше не выносит, а Гордон просто терпеть не может его вкус."
+    ],
+    [
+     "So the poor chef has made two plates of fish in butter sauce just for the two of us.”",
+     "Вот бедному повару и пришлось приготовить две тарелки рыбы в масляном соусе специально для нас двоих»."
+    ]
+   ]
+  },
+  {
+   "en": "The speeches began at nine. The best man told a long joke, then a champagne bottle opened with a noise like a small explosion, and everybody laughed. Gordon stood up to speak. He raised his glass and opened his mouth, and suddenly his face went completely blank. The glass fell from his hand, and he fell after it, pulling the tablecloth down with him.",
+   "ru": "Речи начались в девять. Шафер рассказал длинную шутку, потом бутылка шампанского открылась с шумом, похожим на маленький взрыв, и все засмеялись. Гордон встал, чтобы произнести речь. Он поднял бокал, открыл рот — и вдруг его лицо стало совершенно пустым. Бокал выпал у него из руки, а следом упал и он сам, потянув за собой скатерть.",
+   "s": [
+    [
+     "The speeches began at nine.",
+     "Речи начались в девять."
+    ],
+    [
+     "The best man told a long joke, then a champagne bottle opened with a noise like a small explosion, and everybody laughed.",
+     "Шафер рассказал длинную шутку, потом бутылка шампанского открылась с шумом, похожим на маленький взрыв, и все засмеялись."
+    ],
+    [
+     "Gordon stood up to speak.",
+     "Гордон встал, чтобы произнести речь."
+    ],
+    [
+     "He raised his glass and opened his mouth, and suddenly his face went completely blank.",
+     "Он поднял бокал, открыл рот — и вдруг его лицо стало совершенно пустым."
+    ],
+    [
+     "The glass fell from his hand, and he fell after it, pulling the tablecloth down with him.",
+     "Бокал выпал у него из руки, а следом упал и он сам, потянув за собой скатерть."
+    ]
+   ]
+  },
+  {
+   "en": "A doctor among the guests ran to him, but there was very little she could do. Someone tried to call an ambulance, and Hana heard the hotel manager whisper the news that she had been afraid of: the river had flooded the only road, and nobody could arrive before morning. Gordon Lyle died twenty minutes later on the floor of the dining room. “This was not a natural death,” the doctor told Hana quietly. “His heart stopped, but I think somebody gave him something. Perhaps a large amount of heart medicine.”",
+   "ru": "К нему подбежала врач, которая была среди гостей, но сделать она почти ничего не могла. Кто-то попытался вызвать скорую, и Хана услышала, как управляющий гостиницей шёпотом сообщил новость, которой она боялась: река затопила единственную дорогу, и до утра никто не сможет приехать. Гордон Лайл умер через двадцать минут на полу обеденного зала. «Это была не естественная смерть», — тихо сказала врач Хане. «Его сердце остановилось, но я думаю, что кто-то ему что-то дал. Возможно, большую дозу сердечного лекарства».",
+   "s": [
+    [
+     "A doctor among the guests ran to him, but there was very little she could do.",
+     "К нему подбежала врач, которая была среди гостей, но сделать она почти ничего не могла."
+    ],
+    [
+     "Someone tried to call an ambulance, and Hana heard the hotel manager whisper the news that she had been afraid of: the river had flooded the only road, and nobody could arrive before morning.",
+     "Кто-то попытался вызвать скорую, и Хана услышала, как управляющий гостиницей шёпотом сообщил новость, которой она боялась: река затопила единственную дорогу, и до утра никто не сможет приехать."
+    ],
+    [
+     "Gordon Lyle died twenty minutes later on the floor of the dining room.",
+     "Гордон Лайл умер через двадцать минут на полу обеденного зала."
+    ],
+    [
+     "“This was not a natural death,” the doctor told Hana quietly.",
+     "«Это была не естественная смерть», — тихо сказала врач Хане."
+    ],
+    [
+     "“His heart stopped, but I think somebody gave him something.",
+     "«Его сердце остановилось, но я думаю, что кто-то ему что-то дал."
+    ],
+    [
+     "Perhaps a large amount of heart medicine.”",
+     "Возможно, большую дозу сердечного лекарства»."
+    ]
+   ]
+  },
+  {
+   "en": "Hana took off her high shoes, tied up her hair and became a police officer again. The mobile network had gone down in the storm, so she used the hotel's old phone to call her station. Her boss gave her the task that she had already given herself: nobody was allowed to leave, and she had to find out what had happened before the police arrived. She asked the manager to lock the kitchen and to use the internal phones to bring every member of staff into one room.",
+   "ru": "Хана сняла туфли на высоком каблуке, собрала волосы и снова стала офицером полиции. Мобильная связь пропала из-за бури, поэтому она позвонила в свой участок по старому телефону гостиницы. Начальник поставил перед ней задачу, которую она уже поставила себе сама: никому не разрешалось уезжать, и ей нужно было выяснить, что произошло, до приезда полиции. Она попросила управляющего запереть кухню и по внутренним телефонам собрать весь персонал в одной комнате.",
+   "s": [
+    [
+     "Hana took off her high shoes, tied up her hair and became a police officer again.",
+     "Хана сняла туфли на высоком каблуке, собрала волосы и снова стала офицером полиции."
+    ],
+    [
+     "The mobile network had gone down in the storm, so she used the hotel's old phone to call her station.",
+     "Мобильная связь пропала из-за бури, поэтому она позвонила в свой участок по старому телефону гостиницы."
+    ],
+    [
+     "Her boss gave her the task that she had already given herself: nobody was allowed to leave, and she had to find out what had happened before the police arrived.",
+     "Начальник поставил перед ней задачу, которую она уже поставила себе сама: никому не разрешалось уезжать, и ей нужно было выяснить, что произошло, до приезда полиции."
+    ],
+    [
+     "She asked the manager to lock the kitchen and to use the internal phones to bring every member of staff into one room.",
+     "Она попросила управляющего запереть кухню и по внутренним телефонам собрать весь персонал в одной комнате."
+    ]
+   ]
+  },
+  {
+   "en": "It did not take her long to understand that almost everyone in the building had a reason to hate Gordon. He had insulted Felix in front of his whole family. He had shouted at the chef, Marek, that morning because the sauce was “too thin”. Rupert owed him a large amount of money. And Joan, Hana thought sadly, had been married to him for twelve years. It was a wide circle of suspects, and the night was short.",
+   "ru": "Ей не понадобилось много времени, чтобы понять: почти у каждого в здании была причина ненавидеть Гордона. Он оскорбил Феликса на глазах у всей его семьи. Утром он накричал на повара Марека, потому что соус был «слишком жидкий». Руперт был должен ему крупную сумму денег. А Джоан, с грустью подумала Хана, прожила с ним в браке двенадцать лет. Круг подозреваемых был широким, а ночь — короткой.",
+   "s": [
+    [
+     "It did not take her long to understand that almost everyone in the building had a reason to hate Gordon.",
+     "Ей не понадобилось много времени, чтобы понять: почти у каждого в здании была причина ненавидеть Гордона."
+    ],
+    [
+     "He had insulted Felix in front of his whole family.",
+     "Он оскорбил Феликса на глазах у всей его семьи."
+    ],
+    [
+     "He had shouted at the chef, Marek, that morning because the sauce was “too thin”.",
+     "Утром он накричал на повара Марека, потому что соус был «слишком жидкий»."
+    ],
+    [
+     "Rupert owed him a large amount of money.",
+     "Руперт был должен ему крупную сумму денег."
+    ],
+    [
+     "And Joan, Hana thought sadly, had been married to him for twelve years.",
+     "А Джоан, с грустью подумала Хана, прожила с ним в браке двенадцать лет."
+    ],
+    [
+     "It was a wide circle of suspects, and the night was short.",
+     "Круг подозреваемых был широким, а ночь — короткой."
+    ]
+   ]
+  },
+  {
+   "en": "She set up a small office in the hotel library, where a single green lamp lit the desk and the rest of the room stayed dark. The first person she spoke to was Polly, the young waitress who had carried the special plates. Polly was exhausted, and her hands would not stop shaking. “The two plates were ready at eight,” she said. “Marek covered them, wrote a name card for each one and put them in the big refrigerator by the back door. When I took them out, one of the cards was lying on the floor. I was so overwhelmed, with a hundred guests and only four of us working, that I just guessed.” She began to cry. “What if I gave Mr Lyle the wrong plate? What if it's all my fault?”",
+   "ru": "Она устроила маленький кабинет в библиотеке гостиницы, где единственная зелёная лампа освещала стол, а остальная часть комнаты оставалась в темноте. Первой, с кем она поговорила, была Полли, молодая официантка, которая приносила особые тарелки. Полли была измучена, и руки у неё никак не переставали дрожать. «Две тарелки были готовы в восемь», — сказала она. «Марек накрыл их, написал на каждую карточку с именем и поставил в большой холодильник у задней двери. Когда я их доставала, одна из карточек лежала на полу. Я была так перегружена — сто гостей, а нас работало всего четверо, — что просто угадала наугад». Она расплакалась. «А вдруг я дала мистеру Лайлу не ту тарелку? Вдруг это всё моя вина?»",
+   "s": [
+    [
+     "She set up a small office in the hotel library, where a single green lamp lit the desk and the rest of the room stayed dark.",
+     "Она устроила маленький кабинет в библиотеке гостиницы, где единственная зелёная лампа освещала стол, а остальная часть комнаты оставалась в темноте."
+    ],
+    [
+     "The first person she spoke to was Polly, the young waitress who had carried the special plates.",
+     "Первой, с кем она поговорила, была Полли, молодая официантка, которая приносила особые тарелки."
+    ],
+    [
+     "Polly was exhausted, and her hands would not stop shaking.",
+     "Полли была измучена, и руки у неё никак не переставали дрожать."
+    ],
+    [
+     "“The two plates were ready at eight,” she said.",
+     "«Две тарелки были готовы в восемь», — сказала она."
+    ],
+    [
+     "“Marek covered them, wrote a name card for each one and put them in the big refrigerator by the back door.",
+     "«Марек накрыл их, написал на каждую карточку с именем и поставил в большой холодильник у задней двери."
+    ],
+    [
+     "When I took them out, one of the cards was lying on the floor.",
+     "Когда я их доставала, одна из карточек лежала на полу."
+    ],
+    [
+     "I was so overwhelmed, with a hundred guests and only four of us working, that I just guessed.”",
+     "Я была так перегружена — сто гостей, а нас работало всего четверо, — что просто угадала наугад»."
+    ],
+    [
+     "She began to cry.",
+     "Она расплакалась."
+    ],
+    [
+     "“What if I gave Mr Lyle the wrong plate?",
+     "«А вдруг я дала мистеру Лайлу не ту тарелку?"
+    ],
+    [
+     "What if it's all my fault?”",
+     "Вдруг это всё моя вина?»"
+    ]
+   ]
+  },
+  {
+   "en": "Hana felt cold. If Polly had mixed up the plates, then the person who was supposed to die tonight was perhaps not Gordon at all, but an old woman who was planning to change her will on Monday. And there was only one person who would lose a fortune if that happened.",
+   "ru": "Хане стало холодно. Если Полли перепутала тарелки, значит, умереть сегодня вечером должен был, возможно, вовсе не Гордон, а пожилая женщина, которая собиралась в понедельник изменить завещание. И был только один человек, который потерял бы целое состояние, если бы это произошло.",
+   "s": [
+    [
+     "Hana felt cold.",
+     "Хане стало холодно."
+    ],
+    [
+     "If Polly had mixed up the plates, then the person who was supposed to die tonight was perhaps not Gordon at all, but an old woman who was planning to change her will on Monday.",
+     "Если Полли перепутала тарелки, значит, умереть сегодня вечером должен был, возможно, вовсе не Гордон, а пожилая женщина, которая собиралась в понедельник изменить завещание."
+    ],
+    [
+     "And there was only one person who would lose a fortune if that happened.",
+     "И был только один человек, который потерял бы целое состояние, если бы это произошло."
+    ]
+   ]
+  },
+  {
+   "en": "Rupert came into the library with a glass of whisky and a careless attitude that Hana disliked at once. “You think I tried to poison my own mother,” he said. “I'm not stupid, Inspector. If I wanted her money, I wouldn't do it at a wedding, in front of a police officer. Besides, I never went near the kitchen.” Hana did ask, and to her annoyance, everyone agreed: Rupert had spent the whole evening at the bar, telling stories to the bridesmaids.",
+   "ru": "Руперт вошёл в библиотеку со стаканом виски и с таким беспечным отношением ко всему, которое Хане сразу не понравилось. «Вы думаете, что я пытался отравить собственную мать», — сказал он. «Я не дурак, инспектор. Если бы мне нужны были её деньги, я не стал бы делать это на свадьбе, на глазах у офицера полиции. К тому же я и близко не подходил к кухне». Хана спросила, и, к её досаде, все подтвердили: Руперт весь вечер провёл у бара, рассказывая истории подружкам невесты.",
+   "s": [
+    [
+     "Rupert came into the library with a glass of whisky and a careless attitude that Hana disliked at once.",
+     "Руперт вошёл в библиотеку со стаканом виски и с таким беспечным отношением ко всему, которое Хане сразу не понравилось."
+    ],
+    [
+     "“You think I tried to poison my own mother,” he said.",
+     "«Вы думаете, что я пытался отравить собственную мать», — сказал он."
+    ],
+    [
+     "“I'm not stupid, Inspector.",
+     "«Я не дурак, инспектор."
+    ],
+    [
+     "If I wanted her money, I wouldn't do it at a wedding, in front of a police officer.",
+     "Если бы мне нужны были её деньги, я не стал бы делать это на свадьбе, на глазах у офицера полиции."
+    ],
+    [
+     "Besides, I never went near the kitchen.”",
+     "К тому же я и близко не подходил к кухне»."
+    ],
+    [
+     "Hana did ask, and to her annoyance, everyone agreed: Rupert had spent the whole evening at the bar, telling stories to the bridesmaids.",
+     "Хана спросила, и, к её досаде, все подтвердили: Руперт весь вечер провёл у бара, рассказывая истории подружкам невесты."
+    ]
+   ]
+  },
+  {
+   "en": "By two in the morning, Hana was frustrated and very tired. She had motives but no proof, and suspects but no answer. Then the door opened, and Lettice came in, tapping the floor with her umbrella. “You look like a woman who needs a new idea,” she said. “May I suggest one?”",
+   "ru": "К двум часам ночи Хана была расстроена и очень устала. У неё были мотивы, но не было доказательств, были подозреваемые, но не было ответа. Тут дверь открылась, и вошла Леттис, постукивая зонтом по полу. «Вы похожи на женщину, которой нужна новая идея», — сказала она. «Можно мне кое-что предложить?»",
+   "s": [
+    [
+     "By two in the morning, Hana was frustrated and very tired.",
+     "К двум часам ночи Хана была расстроена и очень устала."
+    ],
+    [
+     "She had motives but no proof, and suspects but no answer.",
+     "У неё были мотивы, но не было доказательств, были подозреваемые, но не было ответа."
+    ],
+    [
+     "Then the door opened, and Lettice came in, tapping the floor with her umbrella.",
+     "Тут дверь открылась, и вошла Леттис, постукивая зонтом по полу."
+    ],
+    [
+     "“You look like a woman who needs a new idea,” she said.",
+     "«Вы похожи на женщину, которой нужна новая идея», — сказала она."
+    ],
+    [
+     "“May I suggest one?”",
+     "«Можно мне кое-что предложить?»"
+    ]
+   ]
+  },
+  {
+   "en": "“Gordon and I take the same heart pills,” the old woman went on. “Everybody in this family knows it, because we both complain about them at every dinner. If somebody wanted to kill me, the easiest way would be to use my own medicine. Here it is.” She put a small brown bottle on the desk. The bottle was almost full.",
+   "ru": "«Мы с Гордоном принимаем одни и те же таблетки для сердца, — продолжила старушка. Об этом знают все в этой семье, потому что мы оба жалуемся на них за каждым ужином. Если бы кто-то захотел меня убить, проще всего было бы воспользоваться моим же лекарством. Вот оно». Она поставила на стол маленький коричневый пузырёк. Пузырёк был почти полон.",
+   "s": [
+    [
+     "“Gordon and I take the same heart pills,” the old woman went on.",
+     "«Мы с Гордоном принимаем одни и те же таблетки для сердца, — продолжила старушка."
+    ],
+    [
+     "“Everybody in this family knows it, because we both complain about them at every dinner.",
+     "Об этом знают все в этой семье, потому что мы оба жалуемся на них за каждым ужином."
+    ],
+    [
+     "If somebody wanted to kill me, the easiest way would be to use my own medicine.",
+     "Если бы кто-то захотел меня убить, проще всего было бы воспользоваться моим же лекарством."
+    ],
+    [
+     "Here it is.”",
+     "Вот оно»."
+    ],
+    [
+     "She put a small brown bottle on the desk.",
+     "Она поставила на стол маленький коричневый пузырёк."
+    ],
+    [
+     "The bottle was almost full.",
+     "Пузырёк был почти полон."
+    ]
+   ]
+  },
+  {
+   "en": "Gordon's own bottle was still in the pocket of his jacket. Hana read the label carefully. The pharmacy had filled it on Friday, the day before the wedding, with sixty pills. Now there were only twelve left. Whoever had poisoned the fish had not used Lettice's medicine at all. They had used Gordon's.",
+   "ru": "Собственный пузырёк Гордона всё ещё лежал в кармане его пиджака. Хана внимательно прочитала этикетку. В аптеке его наполнили в пятницу, накануне свадьбы, — шестьдесят таблеток. Теперь осталось только двенадцать. Тот, кто отравил рыбу, вовсе не воспользовался лекарством Леттис. Он воспользовался лекарством Гордона.",
+   "s": [
+    [
+     "Gordon's own bottle was still in the pocket of his jacket.",
+     "Собственный пузырёк Гордона всё ещё лежал в кармане его пиджака."
+    ],
+    [
+     "Hana read the label carefully.",
+     "Хана внимательно прочитала этикетку."
+    ],
+    [
+     "The pharmacy had filled it on Friday, the day before the wedding, with sixty pills.",
+     "В аптеке его наполнили в пятницу, накануне свадьбы, — шестьдесят таблеток."
+    ],
+    [
+     "Now there were only twelve left.",
+     "Теперь осталось только двенадцать."
+    ],
+    [
+     "Whoever had poisoned the fish had not used Lettice's medicine at all.",
+     "Тот, кто отравил рыбу, вовсе не воспользовался лекарством Леттис."
+    ],
+    [
+     "They had used Gordon's.",
+     "Он воспользовался лекарством Гордона."
+    ]
+   ]
+  },
+  {
+   "en": "Hana sat back in her chair and thought about the meaning of this. Only a few people could have taken pills from Gordon's pocket without him noticing. And the person who had been closest to him all day, who had held his arm on the stairs and sat beside him at dinner, was his wife. “Don't hurry,” Hana told herself. “It may be nothing.”",
+   "ru": "Хана откинулась на спинку стула и задумалась о том, что это значит. Лишь немногие могли взять таблетки из кармана Гордона так, чтобы он этого не заметил. А человеком, который весь день был к нему ближе всех, который держал его под руку на лестнице и сидел рядом с ним за ужином, была его жена. «Не торопись», — сказала себе Хана. «Может быть, это ничего не значит».",
+   "s": [
+    [
+     "Hana sat back in her chair and thought about the meaning of this.",
+     "Хана откинулась на спинку стула и задумалась о том, что это значит."
+    ],
+    [
+     "Only a few people could have taken pills from Gordon's pocket without him noticing.",
+     "Лишь немногие могли взять таблетки из кармана Гордона так, чтобы он этого не заметил."
+    ],
+    [
+     "And the person who had been closest to him all day, who had held his arm on the stairs and sat beside him at dinner, was his wife.",
+     "А человеком, который весь день был к нему ближе всех, который держал его под руку на лестнице и сидел рядом с ним за ужином, была его жена."
+    ],
+    [
+     "“Don't hurry,” Hana told herself.",
+     "«Не торопись», — сказала себе Хана."
+    ],
+    [
+     "“It may be nothing.”",
+     "«Может быть, это ничего не значит»."
+    ]
+   ]
+  },
+  {
+   "en": "Joan was the last person she spoke to that night. She had changed out of her wedding clothes into a grey sweater, and she sat very straight, turning her ring around her finger. Her face was calm, but Hana noticed a dark mark on her wrist, half hidden by her sleeve. “I know what people are saying,” Joan said. “But perhaps it's simpler than you think, Inspector. That poor girl mixed up the name cards in the refrigerator, and Gordon ate Lettice's fish. Somebody wanted to kill Lettice, not my husband.”",
+   "ru": "Джоан была последней, с кем она поговорила в ту ночь. Она сменила праздничную одежду на серый свитер и сидела очень прямо, поворачивая кольцо на пальце. Лицо её было спокойным, но Хана заметила тёмный след у неё на запястье, наполовину скрытый рукавом. «Я знаю, что говорят люди», — сказала Джоан. «Но, может быть, всё проще, чем вы думаете, инспектор. Эта бедная девочка перепутала карточки с именами в холодильнике, и Гордон съел рыбу Леттис. Кто-то хотел убить Леттис, а не моего мужа».",
+   "s": [
+    [
+     "Joan was the last person she spoke to that night.",
+     "Джоан была последней, с кем она поговорила в ту ночь."
+    ],
+    [
+     "She had changed out of her wedding clothes into a grey sweater, and she sat very straight, turning her ring around her finger.",
+     "Она сменила праздничную одежду на серый свитер и сидела очень прямо, поворачивая кольцо на пальце."
+    ],
+    [
+     "Her face was calm, but Hana noticed a dark mark on her wrist, half hidden by her sleeve.",
+     "Лицо её было спокойным, но Хана заметила тёмный след у неё на запястье, наполовину скрытый рукавом."
+    ],
+    [
+     "“I know what people are saying,” Joan said.",
+     "«Я знаю, что говорят люди», — сказала Джоан."
+    ],
+    [
+     "“But perhaps it's simpler than you think, Inspector.",
+     "«Но, может быть, всё проще, чем вы думаете, инспектор."
+    ],
+    [
+     "That poor girl mixed up the name cards in the refrigerator, and Gordon ate Lettice's fish.",
+     "Эта бедная девочка перепутала карточки с именами в холодильнике, и Гордон съел рыбу Леттис."
+    ],
+    [
+     "Somebody wanted to kill Lettice, not my husband.”",
+     "Кто-то хотел убить Леттис, а не моего мужа»."
+    ]
+   ]
+  },
+  {
+   "en": "For a moment, the only sound in the room was the rain. Hana had not told anyone about the cards. Polly and Marek had spent the whole night in the staff room with the door closed. Nobody who had stayed in the dining room could know that the plates had waited in the refrigerator with names on them, unless they had gone into the kitchen and seen them. It was a strange feeling: Hana had the answer at last, and she did not want it.",
+   "ru": "На мгновение единственным звуком в комнате был дождь. Хана никому не рассказывала о карточках. Полли и Марек провели всю ночь в комнате для персонала за закрытой дверью. Никто из тех, кто оставался в обеденном зале, не мог знать, что тарелки ждали в холодильнике с именами, если только он не заходил на кухню и не видел их. Это было странное чувство: у Ханы наконец был ответ, а ей он был не нужен.",
+   "s": [
+    [
+     "For a moment, the only sound in the room was the rain.",
+     "На мгновение единственным звуком в комнате был дождь."
+    ],
+    [
+     "Hana had not told anyone about the cards.",
+     "Хана никому не рассказывала о карточках."
+    ],
+    [
+     "Polly and Marek had spent the whole night in the staff room with the door closed.",
+     "Полли и Марек провели всю ночь в комнате для персонала за закрытой дверью."
+    ],
+    [
+     "Nobody who had stayed in the dining room could know that the plates had waited in the refrigerator with names on them, unless they had gone into the kitchen and seen them.",
+     "Никто из тех, кто оставался в обеденном зале, не мог знать, что тарелки ждали в холодильнике с именами, если только он не заходил на кухню и не видел их."
+    ],
+    [
+     "It was a strange feeling: Hana had the answer at last, and she did not want it.",
+     "Это было странное чувство: у Ханы наконец был ответ, а ей он был не нужен."
+    ]
+   ]
+  },
+  {
+   "en": "“Mrs Lyle,” she said gently, “how do you know about the cards?” Hana watched her look for an answer, and then she saw the moment when she stopped looking. “It's time to tell me the truth,” Hana said. “All of it.”",
+   "ru": "«Миссис Лайл, — мягко сказала она, — откуда вы знаете о карточках?» Хана видела, как она ищет ответ, а затем увидела момент, когда она перестала искать. «Пора рассказать мне правду», — сказала Хана. «Всю».",
+   "s": [
+    [
+     "“Mrs Lyle,” she said gently, “how do you know about the cards?”",
+     "«Миссис Лайл, — мягко сказала она, — откуда вы знаете о карточках?»"
+    ],
+    [
+     "Hana watched her look for an answer, and then she saw the moment when she stopped looking.",
+     "Хана видела, как она ищет ответ, а затем увидела момент, когда она перестала искать."
+    ],
+    [
+     "“It's time to tell me the truth,” Hana said.",
+     "«Пора рассказать мне правду», — сказала Хана."
+    ],
+    [
+     "“All of it.”",
+     "«Всю»."
+    ]
+   ]
+  },
+  {
+   "en": "Joan did not cry. When she finally spoke, there was something almost like relief in her voice. “Twelve years,” she whispered. “Nobody ever saw it, because Gordon was cunning. The violence only happened behind closed doors, and the next morning he always bought me flowers. Last month he started on Isobel and Felix. He said he would destroy Felix's business if Isobel didn't leave him, and I believed him. I had to protect my daughter.”",
+   "ru": "Джоан не заплакала. Когда она наконец заговорила, в её голосе было что-то похожее на облегчение. «Двенадцать лет», — прошептала она. «Никто никогда этого не видел, потому что Гордон был хитрым. Насилие происходило только за закрытыми дверями, а на следующее утро он всегда покупал мне цветы. В прошлом месяце он взялся за Изабель и Феликса. Он сказал, что уничтожит бизнес Феликса, если Изабель его не бросит, и я ему поверила. Я должна была защитить свою дочь».",
+   "s": [
+    [
+     "Joan did not cry.",
+     "Джоан не заплакала."
+    ],
+    [
+     "When she finally spoke, there was something almost like relief in her voice.",
+     "Когда она наконец заговорила, в её голосе было что-то похожее на облегчение."
+    ],
+    [
+     "“Twelve years,” she whispered.",
+     "«Двенадцать лет», — прошептала она."
+    ],
+    [
+     "“Nobody ever saw it, because Gordon was cunning.",
+     "«Никто никогда этого не видел, потому что Гордон был хитрым."
+    ],
+    [
+     "The violence only happened behind closed doors, and the next morning he always bought me flowers.",
+     "Насилие происходило только за закрытыми дверями, а на следующее утро он всегда покупал мне цветы."
+    ],
+    [
+     "Last month he started on Isobel and Felix.",
+     "В прошлом месяце он взялся за Изабель и Феликса."
+    ],
+    [
+     "He said he would destroy Felix's business if Isobel didn't leave him, and I believed him.",
+     "Он сказал, что уничтожит бизнес Феликса, если Изабель его не бросит, и я ему поверила."
+    ],
+    [
+     "I had to protect my daughter.”",
+     "Я должна была защитить свою дочь»."
+    ]
+   ]
+  },
+  {
+   "en": "She explained the rest in a quiet, flat voice. She had taken the pills from his pocket in the morning and crushed them in the hotel bathroom. While everyone was taking photographs in the garden, she had slipped into the kitchen. The plate without onion was the only food in the whole building that nobody except Gordon and Lettice would eat, and she had read the cards carefully. “Then I heard someone coming, and I was in such a hurry that I must have knocked a card onto the floor,” she said. “When Gordon fell, I thought: if anyone finds out about the poison, they will remember Lettice's will, and they will look at Rupert.”",
+   "ru": "Остальное она объяснила тихим, ровным голосом. Утром она взяла таблетки из его кармана и растолкла их в ванной комнате гостиницы. Пока все фотографировались в саду, она проскользнула на кухню. Тарелка без лука была единственной едой во всём здании, которую не стал бы есть никто, кроме Гордона и Леттис, и она внимательно прочитала карточки. «Потом я услышала, что кто-то идёт, и так торопилась, что, наверное, смахнула карточку на пол», — сказала она. «Когда Гордон упал, я подумала: если кто-нибудь узнает про яд, все вспомнят о завещании Леттис и станут подозревать Руперта».",
+   "s": [
+    [
+     "She explained the rest in a quiet, flat voice.",
+     "Остальное она объяснила тихим, ровным голосом."
+    ],
+    [
+     "She had taken the pills from his pocket in the morning and crushed them in the hotel bathroom.",
+     "Утром она взяла таблетки из его кармана и растолкла их в ванной комнате гостиницы."
+    ],
+    [
+     "While everyone was taking photographs in the garden, she had slipped into the kitchen.",
+     "Пока все фотографировались в саду, она проскользнула на кухню."
+    ],
+    [
+     "The plate without onion was the only food in the whole building that nobody except Gordon and Lettice would eat, and she had read the cards carefully.",
+     "Тарелка без лука была единственной едой во всём здании, которую не стал бы есть никто, кроме Гордона и Леттис, и она внимательно прочитала карточки."
+    ],
+    [
+     "“Then I heard someone coming, and I was in such a hurry that I must have knocked a card onto the floor,” she said.",
+     "«Потом я услышала, что кто-то идёт, и так торопилась, что, наверное, смахнула карточку на пол», — сказала она."
+    ],
+    [
+     "“When Gordon fell, I thought: if anyone finds out about the poison, they will remember Lettice's will, and they will look at Rupert.”",
+     "«Когда Гордон упал, я подумала: если кто-нибудь узнает про яд, все вспомнят о завещании Леттис и станут подозревать Руперта»."
+    ]
+   ]
+  },
+  {
+   "en": "It had been a clever plan, and it had only one flaw: Joan had known a small fact that only the poisoner could know. Hana felt no satisfaction, only a deep, heavy disappointment, as if she had lost something too. “Did he deserve to die?” Joan asked. “It isn't my job to decide what people deserve,” Hana said. “My job is to find out what happened. I wish I could tell you something different.”",
+   "ru": "Это был умный план, и в нём был только один недостаток: Джоан знала маленькую деталь, которую мог знать только отравитель. Хана не чувствовала удовлетворения — только глубокое, тяжёлое разочарование, словно она тоже что-то потеряла. «Заслуживал ли он смерти?» — спросила Джоан. «Моя работа — не решать, кто чего заслуживает», — сказала Хана. «Моя работа — выяснить, что произошло. Жаль, что я не могу сказать вам ничего другого».",
+   "s": [
+    [
+     "It had been a clever plan, and it had only one flaw: Joan had known a small fact that only the poisoner could know.",
+     "Это был умный план, и в нём был только один недостаток: Джоан знала маленькую деталь, которую мог знать только отравитель."
+    ],
+    [
+     "Hana felt no satisfaction, only a deep, heavy disappointment, as if she had lost something too.",
+     "Хана не чувствовала удовлетворения — только глубокое, тяжёлое разочарование, словно она тоже что-то потеряла."
+    ],
+    [
+     "“Did he deserve to die?” Joan asked.",
+     "«Заслуживал ли он смерти?» — спросила Джоан."
+    ],
+    [
+     "“It isn't my job to decide what people deserve,” Hana said.",
+     "«Моя работа — не решать, кто чего заслуживает», — сказала Хана."
+    ],
+    [
+     "“My job is to find out what happened.",
+     "«Моя работа — выяснить, что произошло."
+    ],
+    [
+     "I wish I could tell you something different.”",
+     "Жаль, что я не могу сказать вам ничего другого»."
+    ]
+   ]
+  },
+  {
+   "en": "The rain stopped just before dawn, and the police arrived at seven, their cars covered in mud. Isobel stood on the hotel steps in Felix's coat and watched them lead her mother away. She looked at Hana with wide, red eyes, and Hana knew that no words could convey how sorry she was. “You promised me no questions,” Isobel said. Then she put her arms around her cousin and held her tight.",
+   "ru": "Дождь прекратился перед самым рассветом, и в семь часов приехала полиция — машины были покрыты грязью. Изабель стояла на ступенях гостиницы в пальто Феликса и смотрела, как уводят её мать. Она посмотрела на Хану широко раскрытыми, покрасневшими глазами, и Хана знала, что никакие слова не передадут, как ей жаль. «Ты обещала мне никаких вопросов», — сказала Изабель. А потом обняла сестру и крепко прижала её к себе.",
+   "s": [
+    [
+     "The rain stopped just before dawn, and the police arrived at seven, their cars covered in mud.",
+     "Дождь прекратился перед самым рассветом, и в семь часов приехала полиция — машины были покрыты грязью."
+    ],
+    [
+     "Isobel stood on the hotel steps in Felix's coat and watched them lead her mother away.",
+     "Изабель стояла на ступенях гостиницы в пальто Феликса и смотрела, как уводят её мать."
+    ],
+    [
+     "She looked at Hana with wide, red eyes, and Hana knew that no words could convey how sorry she was.",
+     "Она посмотрела на Хану широко раскрытыми, покрасневшими глазами, и Хана знала, что никакие слова не передадут, как ей жаль."
+    ],
+    [
+     "“You promised me no questions,” Isobel said.",
+     "«Ты обещала мне никаких вопросов», — сказала Изабель."
+    ],
+    [
+     "Then she put her arms around her cousin and held her tight.",
+     "А потом обняла сестру и крепко прижала её к себе."
+    ]
+   ]
+  },
+  {
+   "en": "Later, Hana found Lettice at the open window of the library, throwing pieces of bread to a large black crow on the wet grass. “You knew,” Hana said. “You saw her go into the kitchen, didn't you? That's why you came to me with the pills.” The old woman did not turn around. “I saw a frightened woman, and I saw a man who was capable of anything,” she said. “I wanted you to find the truth, Inspector. I just didn't want to be the one who told it.”",
+   "ru": "Позже Хана нашла Леттис у открытого окна библиотеки: та бросала кусочки хлеба большой чёрной вороне на мокрой траве. «Вы знали», — сказала Хана. «Вы видели, как она шла на кухню, правда? Поэтому вы и пришли ко мне с таблетками». Старушка не обернулась. «Я видела испуганную женщину и видела мужчину, который был способен на всё», — сказала она. «Я хотела, чтобы вы нашли правду, инспектор. Я просто не хотела быть той, кто её расскажет».",
+   "s": [
+    [
+     "Later, Hana found Lettice at the open window of the library, throwing pieces of bread to a large black crow on the wet grass.",
+     "Позже Хана нашла Леттис у открытого окна библиотеки: та бросала кусочки хлеба большой чёрной вороне на мокрой траве."
+    ],
+    [
+     "“You knew,” Hana said.",
+     "«Вы знали», — сказала Хана."
+    ],
+    [
+     "“You saw her go into the kitchen, didn't you?",
+     "«Вы видели, как она шла на кухню, правда?"
+    ],
+    [
+     "That's why you came to me with the pills.”",
+     "Поэтому вы и пришли ко мне с таблетками»."
+    ],
+    [
+     "The old woman did not turn around.",
+     "Старушка не обернулась."
+    ],
+    [
+     "“I saw a frightened woman, and I saw a man who was capable of anything,” she said.",
+     "«Я видела испуганную женщину и видела мужчину, который был способен на всё», — сказала она."
+    ],
+    [
+     "“I wanted you to find the truth, Inspector.",
+     "«Я хотела, чтобы вы нашли правду, инспектор."
+    ],
+    [
+     "I just didn't want to be the one who told it.”",
+     "Я просто не хотела быть той, кто её расскажет»."
+    ]
+   ]
+  },
+  {
+   "en": "The crow took the last piece of bread, looked at them both for a long moment and flew away over the fields. Hana watched it go. She had found the truth, just as she always did. This time, however, she was not sure that she was glad.",
+   "ru": "Ворона взяла последний кусочек хлеба, долго смотрела на них обеих, а потом улетела над полями. Хана проводила её взглядом. Она нашла правду, как находила всегда. Однако на этот раз она не была уверена, что рада этому.",
+   "s": [
+    [
+     "The crow took the last piece of bread, looked at them both for a long moment and flew away over the fields.",
+     "Ворона взяла последний кусочек хлеба, долго смотрела на них обеих, а потом улетела над полями."
+    ],
+    [
+     "Hana watched it go.",
+     "Хана проводила её взглядом."
+    ],
+    [
+     "She had found the truth, just as she always did.",
+     "Она нашла правду, как находила всегда."
+    ],
+    [
+     "This time, however, she was not sure that she was glad.",
+     "Однако на этот раз она не была уверена, что рада этому."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, об",
+  "across": "через, по",
+  "afraid": "испуганный",
+  "after": "после",
+  "again": "снова",
+  "ago": "назад",
+  "agreed": "подтвердили, согласились",
+  "all": "все, весь; совсем (at all)",
+  "allowed": "разрешено",
+  "almost": "почти",
+  "already": "уже",
+  "always": "всегда",
+  "ambulance": "скорая помощь",
+  "among": "среди",
+  "amount": "количество, доза, сумма",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "annoyance": "раздражение",
+  "answer": "ответ",
+  "any": "какой-либо; больше",
+  "anyone": "кого-либо",
+  "anything": "что угодно, всё",
+  "approved": "утвердил",
+  "are": "(есть) — вы/они",
+  "arm": "рука",
+  "arms": "руки",
+  "around": "вокруг, по",
+  "arrive": "приехать",
+  "arrived": "приехала",
+  "as": "как, так как",
+  "ask": "спросить",
+  "asked": "спросил(а)",
+  "at": "в, у, на",
+  "ate": "съел",
+  "attitude": "отношение",
+  "away": "прочь",
+  "back": "назад",
+  "background": "задний план",
+  "bad": "плохой",
+  "bag": "сумка",
+  "band": "оркестр",
+  "bar": "бар",
+  "bathroom": "ванная комната",
+  "be": "быть",
+  "became": "стал(а)",
+  "because": "потому что",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "began": "начал(а)",
+  "behind": "за, позади",
+  "believed": "верил",
+  "beside": "рядом с",
+  "besides": "кроме",
+  "best": "лучший (best man — шафер)",
+  "big": "большой",
+  "black": "чёрный",
+  "blank": "пустой",
+  "boss": "начальник",
+  "both": "оба",
+  "bottle": "пузырёк",
+  "bought": "купил",
+  "bread": "хлеб",
+  "bridesmaids": "подружки невесты",
+  "bring": "приносить",
+  "brought": "принесла",
+  "brown": "коричневый",
+  "building": "здание",
+  "business": "бизнес",
+  "but": "но",
+  "butter": "масло",
+  "by": "у, к, от",
+  "call": "позвонить, вызвать",
+  "calm": "спокойный",
+  "came": "пришёл, пришли",
+  "can't": "не может, нельзя",
+  "capable": "способный",
+  "card": "карточка",
+  "cards": "карточки",
+  "carefully": "внимательно",
+  "careless": "беспечный",
+  "carried": "приносила",
+  "cars": "машины",
+  "ceremony": "церемония",
+  "chair": "стул, кресло",
+  "champagne": "шампанское",
+  "change": "изменить",
+  "changed": "сменила, переоделась",
+  "charming": "обаятельный",
+  "chef": "повар",
+  "circle": "круг",
+  "clapped": "аплодировала",
+  "clear": "ясный",
+  "clever": "ловкий, умный",
+  "cleverer": "умнее",
+  "close": "близко",
+  "closed": "закрытый; закрыла",
+  "closest": "ближайший",
+  "clothes": "одежда",
+  "coat": "пальто",
+  "cold": "холодно; холодный",
+  "colour": "цвет, краски",
+  "coming": "идёт, приближается",
+  "complain": "жаловаться",
+  "completely": "полностью",
+  "convey": "передать (чувства)",
+  "could": "мог(ла)",
+  "country": "загородный (country road)",
+  "cousin": "двоюродная сестра",
+  "covered": "накрыл; покрытый",
+  "cried": "плакала",
+  "crow": "ворона",
+  "crows": "вороны",
+  "crushed": "растолкла",
+  "cry": "плакать",
+  "cunning": "хитрый",
+  "dance": "танцевать",
+  "dark": "тёмный",
+  "daughter": "дочь",
+  "dawn": "рассвет",
+  "day": "день",
+  "death": "смерть",
+  "decide": "решать",
+  "deep": "глубокий",
+  "deserve": "заслуживать",
+  "desk": "стол",
+  "destroy": "разрушить",
+  "did": "(вспом. гл.)",
+  "didn't": "не (прош. вр.)",
+  "die": "умереть",
+  "died": "умер(ла)",
+  "different": "другой, не такой",
+  "dining": "обеденный (dining room)",
+  "dinner": "ужин",
+  "disappointment": "разочарование",
+  "disliked": "не понравилось",
+  "do": "(вспом. гл.)",
+  "doctor": "врач",
+  "doesn't": "не (вспом.)",
+  "don't": "не (повел.)",
+  "done": "сделали",
+  "door": "дверь",
+  "doors": "двери",
+  "down": "вниз",
+  "during": "во время",
+  "each": "каждый",
+  "easiest": "самый лёгкий",
+  "eat": "есть",
+  "eight": "восемь",
+  "eighty": "восемьдесят",
+  "else": "ещё, другой",
+  "end": "конец",
+  "enjoy": "получать удовольствие",
+  "enough": "достаточно",
+  "even": "даже",
+  "evening": "вечер",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "everybody": "все",
+  "everyone": "все",
+  "everything": "всё",
+  "everywhere": "повсюду",
+  "except": "кроме",
+  "exhausted": "измученный",
+  "expensive": "дорогой",
+  "explained": "объяснил",
+  "explosion": "взрыв",
+  "eyes": "глаза",
+  "face": "лицо",
+  "fact": "факт",
+  "family": "семья",
+  "fault": "вина",
+  "feeling": "чувство",
+  "felix": "Феликс (имя)",
+  "felix's": "Феликса",
+  "fell": "упал(а)",
+  "felt": "чувствовала",
+  "few": "несколько",
+  "fields": "поля",
+  "filled": "наполнили",
+  "finally": "наконец",
+  "find": "найти; выяснить (find out)",
+  "finds": "узнает (finds out)",
+  "finger": "палец",
+  "first": "первый; сначала",
+  "fish": "рыба",
+  "flat": "ровный (о голосе)",
+  "flaw": "недостаток",
+  "flew": "улетела",
+  "flooded": "затопила",
+  "floor": "пол",
+  "flowers": "цветы",
+  "food": "еда",
+  "for": "для, в течение",
+  "forgets": "забывает",
+  "fortune": "состояние",
+  "found": "нашли",
+  "four": "четыре",
+  "frames": "рамы",
+  "friday": "пятница",
+  "frightened": "испуганная",
+  "from": "из, от",
+  "front": "перед (in front of)",
+  "frustrated": "расстроенный",
+  "full": "полный",
+  "garden": "сад",
+  "gave": "дал(а)",
+  "gently": "мягко",
+  "girl": "девочка",
+  "given": "дал; поставила (задачу)",
+  "glad": "рад",
+  "glass": "бокал, стакан",
+  "go": "ехать, идти",
+  "going": "собираюсь",
+  "gone": "пропала (gone down)",
+  "good": "хороший",
+  "gordon": "Гордон (имя)",
+  "gordon's": "Гордона",
+  "grandmother": "бабушка",
+  "grass": "трава",
+  "green": "зелёный",
+  "grew": "становился",
+  "grey": "серый",
+  "groom's": "жениха",
+  "guessed": "угадала",
+  "guest": "гостья",
+  "guests": "гости",
+  "habit": "привычка",
+  "had": "(вспом. гл.); имела",
+  "hair": "волосы",
+  "half": "половина",
+  "hana": "Хана (имя)",
+  "hand": "рука",
+  "hands": "руки",
+  "handsome": "красивый",
+  "happened": "случилось",
+  "has": "(вспом. гл.)",
+  "hate": "ненавидеть",
+  "hates": "ненавидит",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "heard": "слышала",
+  "heart": "сердце",
+  "heavier": "сильнее, тяжелее",
+  "heavy": "тяжёлый",
+  "held": "держала",
+  "her": "её, ей",
+  "here": "здесь",
+  "herself": "сама",
+  "hidden": "скрытый",
+  "high": "высокий, высоко",
+  "him": "его, ему",
+  "himself": "сам, себе",
+  "his": "его",
+  "hit": "ударила",
+  "hotel": "гостиница",
+  "hotel's": "гостиницы",
+  "house": "дом",
+  "how": "как",
+  "however": "однако; сколько бы",
+  "huge": "огромный",
+  "hundred": "сто",
+  "hurry": "торопиться",
+  "husband": "муж",
+  "i": "я",
+  "i'm": "я (есть)",
+  "idea": "идея",
+  "if": "если, ли",
+  "in": "в",
+  "indoors": "в помещении",
+  "inspector": "инспектор",
+  "insulted": "оскорбил",
+  "intention": "намерение",
+  "internal": "внутренний",
+  "into": "в",
+  "is": "есть, является",
+  "isn't": "не (есть)",
+  "isobel": "Изабель (имя)",
+  "isobel's": "Изабель (чья)",
+  "it": "он, оно, это",
+  "it's": "это",
+  "jacket": "пиджак",
+  "joan": "Джоан (имя)",
+  "job": "работа",
+  "joke": "шутка",
+  "just": "просто",
+  "kept": "держала (обещание)",
+  "kessel": "Кессел (фамилия)",
+  "kill": "убить",
+  "kitchen": "кухня",
+  "knew": "знал(и)",
+  "knocked": "смахнула, сбила",
+  "know": "знаю",
+  "known": "знала",
+  "knows": "знает",
+  "label": "этикетка",
+  "lamp": "лампа",
+  "large": "большой",
+  "larkspur": "Ларкспур (название)",
+  "last": "последний",
+  "later": "позже",
+  "laughed": "засмеялся",
+  "laughing": "смеялась",
+  "lawyer": "юрист",
+  "lead": "вести (lead away — уводить)",
+  "leaned": "наклонилась",
+  "leave": "уезжать; бросить (кого-то)",
+  "left": "осталось",
+  "lettice": "Леттис (имя)",
+  "lettice's": "Леттис (чей)",
+  "library": "библиотека",
+  "like": "хотеть (would like)",
+  "listen": "слушать",
+  "listened": "слушала",
+  "lit": "освещала",
+  "little": "маленький, немного",
+  "lock": "запереть",
+  "long": "долго, долгий",
+  "look": "смотреть; искать (look for)",
+  "looked": "посмотрела",
+  "looking": "смотрящая; искать",
+  "lose": "потерять",
+  "lost": "потеряла",
+  "love": "любовь",
+  "lowered": "опустил",
+  "lying": "лежала",
+  "lyle": "Лайл (фамилия)",
+  "made": "приготовил; заставила (made promise)",
+  "man": "мужчина",
+  "manager": "управляющий",
+  "many": "много",
+  "marek": "Марек (имя)",
+  "mark": "след",
+  "married": "вышла замуж",
+  "marsh": "Марш (фамилия)",
+  "may": "(may be) может быть",
+  "me": "меня, мне",
+  "meal": "еда, трапеза",
+  "meaning": "смысл",
+  "medicine": "лекарство; медицина",
+  "member": "член",
+  "menu": "меню",
+  "minutes": "минуты",
+  "mixed": "перепутала (mixed up)",
+  "mobile": "мобильный",
+  "moment": "мгновение",
+  "monday": "понедельник",
+  "money": "деньги",
+  "month": "месяц",
+  "more": "больше",
+  "morning": "утро",
+  "most": "большая часть",
+  "mother": "мать",
+  "motives": "мотивы",
+  "mouth": "рот",
+  "mr": "мистер",
+  "mrs": "миссис",
+  "mud": "грязь",
+  "must": "должно быть",
+  "my": "мой",
+  "name": "имя",
+  "names": "имена",
+  "napkins": "салфетки",
+  "natural": "естественный",
+  "near": "возле, у",
+  "needs": "нуждается, нужны",
+  "network": "сеть",
+  "never": "никогда",
+  "new": "новый",
+  "news": "новость",
+  "next": "следующий; рядом",
+  "night": "ночь",
+  "nine": "девять",
+  "no": "нет",
+  "nobody": "никто",
+  "noise": "шум",
+  "not": "не",
+  "notebooks": "блокноты",
+  "nothing": "ничего",
+  "noticed": "заметила",
+  "noticing": "заметив",
+  "now": "теперь",
+  "october": "октябрь",
+  "of": "из, о, (род. падеж)",
+  "off": "(took off) сняла",
+  "office": "офис",
+  "officer": "офицер",
+  "often": "часто",
+  "old": "старый",
+  "on": "на",
+  "once": "однажды",
+  "one": "один, одна",
+  "onion": "лук",
+  "only": "только",
+  "onto": "на",
+  "open": "открытый",
+  "opened": "открыл",
+  "opposite": "напротив",
+  "out": "(find out) выяснить; (took out) достала",
+  "outside": "снаружи",
+  "over": "над, через",
+  "overwhelmed": "перегруженный, измотанный",
+  "owed": "был должен",
+  "own": "собственный",
+  "paid": "заплатил",
+  "penny": "пенни",
+  "people": "люди",
+  "perhaps": "может быть",
+  "person": "человек",
+  "pharmacy": "аптека",
+  "phone": "телефон",
+  "phones": "телефоны",
+  "photographs": "фотографии",
+  "piece": "кусочек",
+  "pieces": "кусочки",
+  "pills": "таблетки",
+  "place": "место",
+  "placed": "посадили",
+  "plan": "план",
+  "planning": "собиралась",
+  "plate": "тарелка",
+  "plates": "тарелки",
+  "played": "играл",
+  "pocket": "карман",
+  "poison": "яд",
+  "poisoned": "отравила",
+  "poisoner": "отравитель",
+  "police": "полиция, полицейский",
+  "politics": "политика",
+  "polly": "Полли (имя)",
+  "poor": "бедный",
+  "promise": "обещание",
+  "promised": "пообещала",
+  "proof": "доказательство",
+  "protect": "защитить",
+  "pulling": "потянув",
+  "pushed": "надел (кольцо), толкнул",
+  "put": "поставила; обняла (put arms around)",
+  "questions": "вопросы",
+  "quiet": "тихий",
+  "quietly": "тихо",
+  "rain": "дождь",
+  "raised": "поднял",
+  "ran": "подбежала",
+  "rattled": "задребезжали",
+  "read": "читать, прочитала",
+  "ready": "готовый",
+  "really": "действительно",
+  "reason": "причина, повод",
+  "red": "покрасневший, красный",
+  "refrigerator": "холодильник",
+  "relatives": "родственники",
+  "relief": "облегчение",
+  "remember": "помню",
+  "rest": "остальное, остальная часть",
+  "ring": "кольцо",
+  "river": "река",
+  "road": "дорога",
+  "room": "комната",
+  "rupert": "Руперт (имя)",
+  "sadly": "грустно",
+  "safer": "безопаснее",
+  "said": "сказал(а)",
+  "same": "тот же",
+  "sat": "сидела",
+  "satisfaction": "удовлетворение",
+  "saturday": "суббота",
+  "sauce": "соус",
+  "saw": "увидела",
+  "say": "говорить",
+  "saying": "говорят",
+  "see": "видеть",
+  "seem": "казаться",
+  "seen": "видел",
+  "set": "устроила (set up)",
+  "seven": "семь",
+  "shaking": "дрожащими; дрожать",
+  "sharper": "сообразительнее, острее",
+  "she": "она",
+  "shoes": "туфли",
+  "short": "короткий",
+  "shouted": "накричал",
+  "sign": "знак",
+  "simpler": "проще",
+  "simply": "просто",
+  "since": "с (тех пор)",
+  "single": "единственный",
+  "sixty": "шестьдесят",
+  "sleeve": "рукав",
+  "slipped": "проскользнула",
+  "small": "маленький",
+  "smiled": "улыбнулся",
+  "so": "поэтому; так",
+  "somebody": "кто-то",
+  "someone": "кто-то",
+  "something": "что-то",
+  "somewhere": "где-то",
+  "son": "сын",
+  "songs": "песни",
+  "sorry": "жаль",
+  "sound": "звук",
+  "speak": "говорить; произнести речь",
+  "special": "особенный",
+  "speeches": "речи",
+  "spent": "провёл, провели",
+  "spoke": "говорила",
+  "staff": "персонал",
+  "stairs": "лестница",
+  "started": "начал; взялся (started on)",
+  "station": "(полицейский) участок",
+  "stayed": "оставалась",
+  "steal": "украсть",
+  "stepdaughter": "падчерица",
+  "stepfather": "отчим",
+  "steps": "ступени",
+  "stick": "палка",
+  "still": "всё ещё; неподвижный",
+  "stomach": "желудок",
+  "stood": "стоял",
+  "stop": "перестать",
+  "stopped": "прекратился, остановилось",
+  "stories": "истории",
+  "storm": "буря",
+  "straight": "прямо",
+  "strange": "странный",
+  "strong": "сильный",
+  "stupid": "глупый, дурак",
+  "such": "такой",
+  "suddenly": "вдруг",
+  "suggest": "предложить",
+  "supposed": "должен был",
+  "sure": "уверенный",
+  "surprised": "удивлена",
+  "suspects": "подозреваемые",
+  "sweater": "свитер",
+  "table": "стол",
+  "tablecloth": "скатерть",
+  "tables": "столы",
+  "take": "принимать; выносить (can't take it)",
+  "taken": "взять",
+  "taking": "делая (снимки)",
+  "talked": "говорил(а)",
+  "tapping": "постукивая",
+  "task": "задача",
+  "taste": "вкус; пробовать",
+  "tell": "сказать, рассказать",
+  "telling": "рассказывая",
+  "than": "чем",
+  "that": "что; тот, это",
+  "that's": "это (есть)",
+  "the": "(опр. артикль)",
+  "their": "их, свои",
+  "them": "их",
+  "then": "потом, тогда",
+  "there": "там",
+  "they": "они",
+  "thin": "худой",
+  "think": "думаю",
+  "this": "этот",
+  "thought": "подумала",
+  "throwing": "бросая",
+  "tied": "собрала (tied up hair)",
+  "tight": "крепко",
+  "time": "время; пора (it's time); раз (this time)",
+  "tired": "усталый",
+  "to": "к, в; (частица)",
+  "told": "сказала",
+  "tonight": "сегодня вечером",
+  "too": "слишком",
+  "took": "взяла, доставала; сняла (took off)",
+  "topics": "темы",
+  "tried": "пытались",
+  "truth": "правда",
+  "turn": "обернуться (turn around)",
+  "turning": "поворачивая",
+  "twelve": "двенадцать",
+  "twenty": "двадцать",
+  "two": "два",
+  "umbrella": "зонт",
+  "understand": "понимать",
+  "unless": "если только не",
+  "up": "вверх",
+  "us": "нам",
+  "use": "пользоваться",
+  "used": "воспользовался; пользовалась",
+  "vane": "Вейн (фамилия)",
+  "very": "очень",
+  "violence": "насилие, жестокость",
+  "visited": "прилетали",
+  "voice": "голос",
+  "vows": "клятва",
+  "waited": "ждали",
+  "waitress": "официантка",
+  "walking": "(walking stick) трость",
+  "want": "хотеть",
+  "wanted": "хотел",
+  "was": "был(а)",
+  "watched": "смотрела, наблюдала",
+  "way": "способ, так",
+  "we": "мы",
+  "wedding": "свадьба, свадебный",
+  "went": "пошла; стало (went blank)",
+  "were": "были",
+  "wet": "влажный, мокрый",
+  "what": "что",
+  "when": "когда",
+  "where": "где",
+  "which": "который, что",
+  "while": "пока",
+  "whisky": "виски",
+  "whisper": "шептать",
+  "whispered": "прошептала",
+  "who": "кто, который",
+  "whoever": "тот, кто",
+  "whole": "весь",
+  "why": "почему",
+  "wide": "широкий",
+  "wife": "жена",
+  "will": "будет",
+  "wind": "ветер",
+  "window": "окно",
+  "windows": "окна",
+  "wish": "желать (I wish — жаль, что)",
+  "with": "с",
+  "without": "без",
+  "woman": "женщина",
+  "won't": "не (буд. время)",
+  "words": "слова",
+  "working": "работающих",
+  "would": "бы; (would not stop) никак не",
+  "wouldn't": "не (бы)",
+  "wrist": "запястье",
+  "wrong": "плохой; не тот",
+  "wrote": "написал(а)",
+  "years": "лет, годы",
+  "you": "вы, ты",
+  "young": "молодой"
+ },
+ "vocab": {
+  "sign": 441,
+  "attitude": 581,
+  "opposite": 421,
+  "topics": 136,
+  "suggest": 363,
+  "relief": 481,
+  "blank": 426,
+  "exhausted": 484,
+  "refrigerator": 130,
+  "intention": 361,
+  "approved": 612,
+  "arrived": 94,
+  "arrive": 94,
+  "task": 619,
+  "umbrella": 103,
+  "afraid": 478,
+  "internal": 603,
+  "took": 49,
+  "off": 49,
+  "wide": 304,
+  "frustrated": 552,
+  "flaw": 579,
+  "clothes": 330,
+  "often": 81,
+  "background": 546,
+  "hurry": 627,
+  "then": 28,
+  "cunning": 268,
+  "pushed": 196,
+  "onion": 221,
+  "cry": 113,
+  "cried": 113,
+  "time": 46,
+  "habit": 473,
+  "wish": 161,
+  "butter": 56,
+  "even": 114,
+  "protect": 157,
+  "strange": 278,
+  "perhaps": 154,
+  "overwhelmed": 496,
+  "disappointment": 491,
+  "meaning": 279,
+  "saturday": 219,
+  "whispered": 356,
+  "whisper": 356,
+  "capable": 553,
+  "relatives": 568,
+  "ring": 285,
+  "annoyance": 476,
+  "arm": 91,
+  "arms": 91,
+  "explosion": 526,
+  "call": 286,
+  "lamp": 102,
+  "something": 202,
+  "crow": 305,
+  "crows": 305,
+  "natural": 225,
+  "may": 185,
+  "violence": 341,
+  "convey": 565,
+  "deserve": 575
+ }
+}

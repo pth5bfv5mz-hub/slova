@@ -1,0 +1,1195 @@
+{
+ "id": 20,
+ "title_en": "The Man Without a Shadow",
+ "title_ru": "Человек без тени",
+ "genre": "Сказка для взрослых",
+ "summary_ru": "Жадный торговец из городка Велмар продаёт незнакомцу в сером пальто свою тень — и вскоре узнаёт, чего она стоила на самом деле.",
+ "paragraphs": [
+  {
+   "en": "In the town of Velmar, where the streets were narrow and the market smelled of bread and onions, there lived a merchant called Anselm Brask. He sold vegetables and fruit: onions in winter, cherries in summer, and cherry juice in tall green bottles all year round. His juice was excellent, and people came from other towns to buy it.",
+   "ru": "В городке Велмар, где улицы были узкими, а рынок пах хлебом и луком, жил торговец по имени Ансельм Браск. Он продавал овощи и фрукты: зимой лук, летом вишню, а вишнёвый сок в высоких зелёных бутылках — круглый год. Сок у него был превосходный, и люди приезжали за ним из других городов.",
+   "s": [
+    [
+     "In the town of Velmar, where the streets were narrow and the market smelled of bread and onions, there lived a merchant called Anselm Brask.",
+     "В городке Велмар, где улицы были узкими, а рынок пах хлебом и луком, жил торговец по имени Ансельм Браск."
+    ],
+    [
+     "He sold vegetables and fruit: onions in winter, cherries in summer, and cherry juice in tall green bottles all year round.",
+     "Он продавал овощи и фрукты: зимой лук, летом вишню, а вишнёвый сок в высоких зелёных бутылках — круглый год."
+    ],
+    [
+     "His juice was excellent, and people came from other towns to buy it.",
+     "Сок у него был превосходный, и люди приезжали за ним из других городов."
+    ]
+   ]
+  },
+  {
+   "en": "But Anselm was never happy. He had an obsession, and its name was money. He counted his coins every night before he went to sleep, and every morning he felt that he did not have enough. He rarely smiled. He rarely took a break, even on Sundays. He paid no regard to his neighbors, and sometimes, when an old woman could not see well, he gave her less change than he owed her. In his heart he knew that this was the same as robbing her, but he told himself that everybody did it.",
+   "ru": "Но Ансельм никогда не был счастлив. У него была одержимость, и звали её деньги. Каждый вечер перед сном он пересчитывал монеты, а каждое утро чувствовал, что их недостаточно. Он редко улыбался. Он редко делал перерыв, даже по воскресеньям. Он не обращал внимания на соседей, а иногда, если старушка плохо видела, давал ей меньше сдачи, чем был должен. В глубине души он знал, что это всё равно что грабить её, но говорил себе, что так делают все.",
+   "s": [
+    [
+     "But Anselm was never happy.",
+     "Но Ансельм никогда не был счастлив."
+    ],
+    [
+     "He had an obsession, and its name was money.",
+     "У него была одержимость, и звали её деньги."
+    ],
+    [
+     "He counted his coins every night before he went to sleep, and every morning he felt that he did not have enough.",
+     "Каждый вечер перед сном он пересчитывал монеты, а каждое утро чувствовал, что их недостаточно."
+    ],
+    [
+     "He rarely smiled.",
+     "Он редко улыбался."
+    ],
+    [
+     "He rarely took a break, even on Sundays.",
+     "Он редко делал перерыв, даже по воскресеньям."
+    ],
+    [
+     "He paid no regard to his neighbors, and sometimes, when an old woman could not see well, he gave her less change than he owed her.",
+     "Он не обращал внимания на соседей, а иногда, если старушка плохо видела, давал ей меньше сдачи, чем был должен."
+    ],
+    [
+     "In his heart he knew that this was the same as robbing her, but he told himself that everybody did it.",
+     "В глубине души он знал, что это всё равно что грабить её, но говорил себе, что так делают все."
+    ]
+   ]
+  },
+  {
+   "en": "He had only one beloved thing besides money: Mira, the baker's daughter. She laughed at his serious face and called him “the onion man,” because, she said, he had many layers and all of them made people cry. Anselm wanted to marry her, but first, he decided, he had to become rich. Really rich.",
+   "ru": "Кроме денег, у него было лишь одно любимое сокровище — Мира, дочь пекаря. Она смеялась над его серьёзным лицом и называла его «луковым человеком», потому что, по её словам, у него было много слоёв и от каждого люди плакали. Ансельм хотел жениться на ней, но сначала, решил он, ему нужно разбогатеть. По-настоящему разбогатеть.",
+   "s": [
+    [
+     "He had only one beloved thing besides money: Mira, the baker's daughter.",
+     "Кроме денег, у него было лишь одно любимое сокровище — Мира, дочь пекаря."
+    ],
+    [
+     "She laughed at his serious face and called him “the onion man,” because, she said, he had many layers and all of them made people cry.",
+     "Она смеялась над его серьёзным лицом и называла его «луковым человеком», потому что, по её словам, у него было много слоёв и от каждого люди плакали."
+    ],
+    [
+     "Anselm wanted to marry her, but first, he decided, he had to become rich.",
+     "Ансельм хотел жениться на ней, но сначала, решил он, ему нужно разбогатеть."
+    ],
+    [
+     "Really rich.",
+     "По-настоящему разбогатеть."
+    ]
+   ]
+  },
+  {
+   "en": "One hot afternoon in July, a stranger came to his stall. He was tall and thin, dressed in a grey coat in spite of the heat, and he had very pale eyes. He did not look at the cherries or the juice. He looked at the ground, at Anselm's shadow.",
+   "ru": "Однажды жарким июльским днём к его прилавку подошёл незнакомец. Он был высоким и худым, несмотря на жару, одет в серое пальто, а глаза у него были очень светлые. Он не смотрел ни на вишню, ни на сок. Он смотрел на землю — на тень Ансельма.",
+   "s": [
+    [
+     "One hot afternoon in July, a stranger came to his stall.",
+     "Однажды жарким июльским днём к его прилавку подошёл незнакомец."
+    ],
+    [
+     "He was tall and thin, dressed in a grey coat in spite of the heat, and he had very pale eyes.",
+     "Он был высоким и худым, несмотря на жару, одет в серое пальто, а глаза у него были очень светлые."
+    ],
+    [
+     "He did not look at the cherries or the juice.",
+     "Он не смотрел ни на вишню, ни на сок."
+    ],
+    [
+     "He looked at the ground, at Anselm's shadow.",
+     "Он смотрел на землю — на тень Ансельма."
+    ]
+   ]
+  },
+  {
+   "en": "“That is an excellent shadow,” the stranger said. “Long, dark, very clear. I would like to buy it.”",
+   "ru": "«Превосходная тень, — сказал незнакомец. — Длинная, тёмная, очень чёткая. Я хотел бы её купить».",
+   "s": [
+    [
+     "“That is an excellent shadow,” the stranger said.",
+     "«Превосходная тень, — сказал незнакомец."
+    ],
+    [
+     "“Long, dark, very clear.",
+     "Длинная, тёмная, очень чёткая."
+    ],
+    [
+     "I would like to buy it.”",
+     "Я хотел бы её купить»."
+    ]
+   ]
+  },
+  {
+   "en": "Anselm laughed. “A shadow? You can't sell a shadow.”",
+   "ru": "Ансельм рассмеялся. «Тень? Тень нельзя продать».",
+   "s": [
+    [
+     "Anselm laughed.",
+     "Ансельм рассмеялся."
+    ],
+    [
+     "“A shadow?",
+     "«Тень?"
+    ],
+    [
+     "You can't sell a shadow.”",
+     "Тень нельзя продать»."
+    ]
+   ]
+  },
+  {
+   "en": "“You can sell anything,” said the stranger, “if someone wants to buy it. I will give you a hundred gold coins. Every month. For the rest of your life.” He took a small paper from his pocket. “Just sign here.”",
+   "ru": "«Продать можно что угодно, — сказал незнакомец, — если кто-то хочет это купить. Я дам вам сто золотых монет. Каждый месяц. До конца жизни. — Он достал из кармана небольшую бумагу. — Просто подпишите здесь».",
+   "s": [
+    [
+     "“You can sell anything,” said the stranger, “if someone wants to buy it.",
+     "«Продать можно что угодно, — сказал незнакомец, — если кто-то хочет это купить."
+    ],
+    [
+     "I will give you a hundred gold coins.",
+     "Я дам вам сто золотых монет."
+    ],
+    [
+     "Every month.",
+     "Каждый месяц."
+    ],
+    [
+     "For the rest of your life.”",
+     "До конца жизни»."
+    ],
+    [
+     "He took a small paper from his pocket.",
+     "Он достал из кармана небольшую бумагу."
+    ],
+    [
+     "“Just sign here.”",
+     "«Просто подпишите здесь»."
+    ]
+   ]
+  },
+  {
+   "en": "Anselm's mind worked quickly. A shadow was nothing. It did not eat, it did not work, it did not bring him money. A hundred gold coins every month was more than he earned in a year. He felt no resistance at all. He signed.",
+   "ru": "Ум Ансельма заработал быстро. Тень — это ничто. Она не ест, не работает, не приносит ему денег. Сто золотых монет каждый месяц — больше, чем он зарабатывал за год. Он не почувствовал никакого сопротивления. Он подписал.",
+   "s": [
+    [
+     "Anselm's mind worked quickly.",
+     "Ум Ансельма заработал быстро."
+    ],
+    [
+     "A shadow was nothing.",
+     "Тень — это ничто."
+    ],
+    [
+     "It did not eat, it did not work, it did not bring him money.",
+     "Она не ест, не работает, не приносит ему денег."
+    ],
+    [
+     "A hundred gold coins every month was more than he earned in a year.",
+     "Сто золотых монет каждый месяц — больше, чем он зарабатывал за год."
+    ],
+    [
+     "He felt no resistance at all.",
+     "Он не почувствовал никакого сопротивления."
+    ],
+    [
+     "He signed.",
+     "Он подписал."
+    ]
+   ]
+  },
+  {
+   "en": "The stranger bent down, took the edge of the shadow between two fingers, as if it were a piece of black silk, and rolled it up. Then he put it under his arm and walked away. When Anselm looked down, the ground at his feet was bright and empty.",
+   "ru": "Незнакомец наклонился, взял край тени двумя пальцами, словно это был кусок чёрного шёлка, и свернул её. Потом сунул её под мышку и ушёл прочь. Когда Ансельм посмотрел вниз, земля у его ног была светлой и пустой.",
+   "s": [
+    [
+     "The stranger bent down, took the edge of the shadow between two fingers, as if it were a piece of black silk, and rolled it up.",
+     "Незнакомец наклонился, взял край тени двумя пальцами, словно это был кусок чёрного шёлка, и свернул её."
+    ],
+    [
+     "Then he put it under his arm and walked away.",
+     "Потом сунул её под мышку и ушёл прочь."
+    ],
+    [
+     "When Anselm looked down, the ground at his feet was bright and empty.",
+     "Когда Ансельм посмотрел вниз, земля у его ног была светлой и пустой."
+    ]
+   ]
+  },
+  {
+   "en": "At first, it was wonderful. The gold arrived on the first day of every month, in a heavy bag that appeared on his table while he was sleeping. He bought a large house on the hill. He bought new clothes, a carriage and a picture by a famous painter for his living room. He stopped selling onions. Instead, he paid other people to sell them for him.",
+   "ru": "Поначалу всё было чудесно. Золото приходило в первый день каждого месяца — тяжёлый мешок появлялся у него на столе, пока он спал. Он купил большой дом на холме. Он купил новую одежду, карету и картину знаменитого художника для гостиной. Он перестал продавать лук. Вместо этого он платил другим, чтобы они продавали его за него.",
+   "s": [
+    [
+     "At first, it was wonderful.",
+     "Поначалу всё было чудесно."
+    ],
+    [
+     "The gold arrived on the first day of every month, in a heavy bag that appeared on his table while he was sleeping.",
+     "Золото приходило в первый день каждого месяца — тяжёлый мешок появлялся у него на столе, пока он спал."
+    ],
+    [
+     "He bought a large house on the hill.",
+     "Он купил большой дом на холме."
+    ],
+    [
+     "He bought new clothes, a carriage and a picture by a famous painter for his living room.",
+     "Он купил новую одежду, карету и картину знаменитого художника для гостиной."
+    ],
+    [
+     "He stopped selling onions.",
+     "Он перестал продавать лук."
+    ],
+    [
+     "Instead, he paid other people to sell them for him.",
+     "Вместо этого он платил другим, чтобы они продавали его за него."
+    ]
+   ]
+  },
+  {
+   "en": "But soon people began to notice. Children pointed at him in the sunny square. Dogs barked at him. Old women crossed the street when they saw him coming. Then the town newspaper printed an article with the title: “Is our richest man a ghost?” After that, it was evident to everyone that something was wrong with Anselm Brask. His sellers lost their customers, because nobody wanted to buy onions from a man without a shadow.",
+   "ru": "Но вскоре люди начали замечать. Дети показывали на него пальцами на солнечной площади. Собаки лаяли на него. Старушки переходили на другую сторону улицы, завидев его. Потом городская газета напечатала статью под заголовком: «Наш самый богатый человек — призрак?» После этого всем стало очевидно, что с Ансельмом Браском что-то не так. Его продавцы теряли покупателей, потому что никто не хотел покупать лук у человека без тени.",
+   "s": [
+    [
+     "But soon people began to notice.",
+     "Но вскоре люди начали замечать."
+    ],
+    [
+     "Children pointed at him in the sunny square.",
+     "Дети показывали на него пальцами на солнечной площади."
+    ],
+    [
+     "Dogs barked at him.",
+     "Собаки лаяли на него."
+    ],
+    [
+     "Old women crossed the street when they saw him coming.",
+     "Старушки переходили на другую сторону улицы, завидев его."
+    ],
+    [
+     "Then the town newspaper printed an article with the title: “Is our richest man a ghost?”",
+     "Потом городская газета напечатала статью под заголовком: «Наш самый богатый человек — призрак?»"
+    ],
+    [
+     "After that, it was evident to everyone that something was wrong with Anselm Brask.",
+     "После этого всем стало очевидно, что с Ансельмом Браском что-то не так."
+    ],
+    [
+     "His sellers lost their customers, because nobody wanted to buy onions from a man without a shadow.",
+     "Его продавцы теряли покупателей, потому что никто не хотел покупать лук у человека без тени."
+    ]
+   ]
+  },
+  {
+   "en": "Worst of all was Mira. When he finally came to her father's bakery with a ring, she looked at him for a long time. Then she looked at the floor next to his feet.",
+   "ru": "Хуже всего была Мира. Когда он наконец пришёл в пекарню её отца с кольцом, она долго смотрела на него. Потом посмотрела на пол рядом с его ногами.",
+   "s": [
+    [
+     "Worst of all was Mira.",
+     "Хуже всего была Мира."
+    ],
+    [
+     "When he finally came to her father's bakery with a ring, she looked at him for a long time.",
+     "Когда он наконец пришёл в пекарню её отца с кольцом, она долго смотрела на него."
+    ],
+    [
+     "Then she looked at the floor next to his feet.",
+     "Потом посмотрела на пол рядом с его ногами."
+    ]
+   ]
+  },
+  {
+   "en": "“Where is your shadow, Anselm?” she asked quietly.",
+   "ru": "«Где твоя тень, Ансельм?» — тихо спросила она.",
+   "s": [
+    [
+     "“Where is your shadow, Anselm?” she asked quietly.",
+     "«Где твоя тень, Ансельм?» — тихо спросила она."
+    ]
+   ]
+  },
+  {
+   "en": "“It doesn't matter,” he said. “I'm ready to marry you now. I have a house, gold, everything.”",
+   "ru": "«Это неважно, — сказал он. — Теперь я готов на тебе жениться. У меня есть дом, золото, всё».",
+   "s": [
+    [
+     "“It doesn't matter,” he said.",
+     "«Это неважно, — сказал он."
+    ],
+    [
+     "“I'm ready to marry you now.",
+     "Теперь я готов на тебе жениться."
+    ],
+    [
+     "I have a house, gold, everything.”",
+     "У меня есть дом, золото, всё»."
+    ]
+   ]
+  },
+  {
+   "en": "“A man without a shadow is a man without a past,” she said. “My grandmother always told me that. I'm sorry. I don't know who you are anymore.” And she sent him away.",
+   "ru": "«Человек без тени — это человек без прошлого, — сказала она. — Так всегда говорила мне бабушка. Прости. Я больше не знаю, кто ты». И она прогнала его прочь.",
+   "s": [
+    [
+     "“A man without a shadow is a man without a past,” she said.",
+     "«Человек без тени — это человек без прошлого, — сказала она."
+    ],
+    [
+     "“My grandmother always told me that.",
+     "Так всегда говорила мне бабушка."
+    ],
+    [
+     "I'm sorry.",
+     "Прости."
+    ],
+    [
+     "I don't know who you are anymore.”",
+     "Я больше не знаю, кто ты»."
+    ],
+    [
+     "And she sent him away.",
+     "И она прогнала его прочь."
+    ]
+   ]
+  },
+  {
+   "en": "That night Anselm could not sleep. He lay under his thick blanket in his big cold bedroom and listened to the silence. The house felt empty. His life felt empty. He understood that the gold could not buy him the one thing he really wanted. He tried to read, but the words meant nothing. He looked at the expensive picture on the wall, and for the first time he noticed that the people in it had shadows. Even the painted trees had shadows. Only he had none.",
+   "ru": "В ту ночь Ансельм не мог уснуть. Он лежал под толстым одеялом в своей большой холодной спальне и слушал тишину. Дом казался пустым. Его жизнь казалась пустой. Он понял, что золото не может купить ему то единственное, чего он по-настоящему хотел. Он попытался читать, но слова ничего не значили. Он посмотрел на дорогую картину на стене и впервые заметил, что у людей на ней есть тени. Даже у нарисованных деревьев были тени. Только у него не было.",
+   "s": [
+    [
+     "That night Anselm could not sleep.",
+     "В ту ночь Ансельм не мог уснуть."
+    ],
+    [
+     "He lay under his thick blanket in his big cold bedroom and listened to the silence.",
+     "Он лежал под толстым одеялом в своей большой холодной спальне и слушал тишину."
+    ],
+    [
+     "The house felt empty.",
+     "Дом казался пустым."
+    ],
+    [
+     "His life felt empty.",
+     "Его жизнь казалась пустой."
+    ],
+    [
+     "He understood that the gold could not buy him the one thing he really wanted.",
+     "Он понял, что золото не может купить ему то единственное, чего он по-настоящему хотел."
+    ],
+    [
+     "He tried to read, but the words meant nothing.",
+     "Он попытался читать, но слова ничего не значили."
+    ],
+    [
+     "He looked at the expensive picture on the wall, and for the first time he noticed that the people in it had shadows.",
+     "Он посмотрел на дорогую картину на стене и впервые заметил, что у людей на ней есть тени."
+    ],
+    [
+     "Even the painted trees had shadows.",
+     "Даже у нарисованных деревьев были тени."
+    ],
+    [
+     "Only he had none.",
+     "Только у него не было."
+    ]
+   ]
+  },
+  {
+   "en": "The next morning he went to a lawyer, an old man called Dorn who had an office above the post office. Dorn read the contract three times, slowly, through his small round glasses.",
+   "ru": "На следующее утро он пошёл к юристу — старику по имени Дорн, чья контора находилась над почтой. Дорн медленно прочитал договор три раза сквозь свои маленькие круглые очки.",
+   "s": [
+    [
+     "The next morning he went to a lawyer, an old man called Dorn who had an office above the post office.",
+     "На следующее утро он пошёл к юристу — старику по имени Дорн, чья контора находилась над почтой."
+    ],
+    [
+     "Dorn read the contract three times, slowly, through his small round glasses.",
+     "Дорн медленно прочитал договор три раза сквозь свои маленькие круглые очки."
+    ]
+   ]
+  },
+  {
+   "en": "“The issue is simple,” he said at last. “The contract is legal. But there is one line at the end, in very small letters. It says that the seller may buy back his shadow at any time, for a different price.”",
+   "ru": "«Проблема простая, — сказал он наконец. — Договор законный. Но в конце есть одна строчка очень мелкими буквами. В ней сказано, что продавец может выкупить свою тень в любое время, но за другую цену».",
+   "s": [
+    [
+     "“The issue is simple,” he said at last.",
+     "«Проблема простая, — сказал он наконец."
+    ],
+    [
+     "“The contract is legal.",
+     "Договор законный."
+    ],
+    [
+     "But there is one line at the end, in very small letters.",
+     "Но в конце есть одна строчка очень мелкими буквами."
+    ],
+    [
+     "It says that the seller may buy back his shadow at any time, for a different price.”",
+     "В ней сказано, что продавец может выкупить свою тень в любое время, но за другую цену»."
+    ]
+   ]
+  },
+  {
+   "en": "“What price?” Anselm asked.",
+   "ru": "«Какую цену?» — спросил Ансельм.",
+   "s": [
+    [
+     "“What price?” Anselm asked.",
+     "«Какую цену?» — спросил Ансельм."
+    ]
+   ]
+  },
+  {
+   "en": "“It doesn't say. You must ask the buyer. Here is his address.” The lawyer wrote something on a piece of paper. “I must warn you. People who go to that address rarely come back the same.”",
+   "ru": "«Здесь не сказано. Вы должны спросить покупателя. Вот его адрес. — Юрист что-то написал на листке бумаги. — Должен вас предупредить. Люди, которые идут по этому адресу, редко возвращаются прежними».",
+   "s": [
+    [
+     "“It doesn't say.",
+     "«Здесь не сказано."
+    ],
+    [
+     "You must ask the buyer.",
+     "Вы должны спросить покупателя."
+    ],
+    [
+     "Here is his address.”",
+     "Вот его адрес»."
+    ],
+    [
+     "The lawyer wrote something on a piece of paper.",
+     "Юрист что-то написал на листке бумаги."
+    ],
+    [
+     "“I must warn you.",
+     "«Должен вас предупредить."
+    ],
+    [
+     "People who go to that address rarely come back the same.”",
+     "Люди, которые идут по этому адресу, редко возвращаются прежними»."
+    ]
+   ]
+  },
+  {
+   "en": "The address led Anselm out of town, through the forest and up into the hills. It was evening when he reached a small grey house. The stranger opened the door before Anselm knocked, as if he had been waiting for this meeting.",
+   "ru": "Адрес привёл Ансельма за город, через лес и вверх, в холмы. Был уже вечер, когда он добрался до маленького серого дома. Незнакомец открыл дверь прежде, чем Ансельм постучал, словно давно ждал этой встречи.",
+   "s": [
+    [
+     "The address led Anselm out of town, through the forest and up into the hills.",
+     "Адрес привёл Ансельма за город, через лес и вверх, в холмы."
+    ],
+    [
+     "It was evening when he reached a small grey house.",
+     "Был уже вечер, когда он добрался до маленького серого дома."
+    ],
+    [
+     "The stranger opened the door before Anselm knocked, as if he had been waiting for this meeting.",
+     "Незнакомец открыл дверь прежде, чем Ансельм постучал, словно давно ждал этой встречи."
+    ]
+   ]
+  },
+  {
+   "en": "Inside, the walls were covered with shadows. Hundreds of them hung there like coats: the shadows of men and women, children, a dog, even a horse. Some of them moved a little, as if they were dreaming. Anselm recognized his own shadow at once. It was standing in a corner, with its head down. The room was cold, and it smelled of dust and old rain.",
+   "ru": "Внутри стены были увешаны тенями. Сотни теней висели там, как пальто: тени мужчин и женщин, детей, собаки и даже лошади. Некоторые слегка шевелились, будто видели сны. Ансельм сразу узнал свою тень. Она стояла в углу, опустив голову. В комнате было холодно, пахло пылью и старым дождём.",
+   "s": [
+    [
+     "Inside, the walls were covered with shadows.",
+     "Внутри стены были увешаны тенями."
+    ],
+    [
+     "Hundreds of them hung there like coats: the shadows of men and women, children, a dog, even a horse.",
+     "Сотни теней висели там, как пальто: тени мужчин и женщин, детей, собаки и даже лошади."
+    ],
+    [
+     "Some of them moved a little, as if they were dreaming.",
+     "Некоторые слегка шевелились, будто видели сны."
+    ],
+    [
+     "Anselm recognized his own shadow at once.",
+     "Ансельм сразу узнал свою тень."
+    ],
+    [
+     "It was standing in a corner, with its head down.",
+     "Она стояла в углу, опустив голову."
+    ],
+    [
+     "The room was cold, and it smelled of dust and old rain.",
+     "В комнате было холодно, пахло пылью и старым дождём."
+    ]
+   ]
+  },
+  {
+   "en": "“I want it back,” Anselm said. “I'll give you all the gold.”",
+   "ru": "«Я хочу её вернуть, — сказал Ансельм. — Я отдам вам всё золото».",
+   "s": [
+    [
+     "“I want it back,” Anselm said.",
+     "«Я хочу её вернуть, — сказал Ансельм."
+    ],
+    [
+     "“I'll give you all the gold.”",
+     "Я отдам вам всё золото»."
+    ]
+   ]
+  },
+  {
+   "en": "The stranger smiled. “I don't want gold. I have enough of it. I collect shadows because a shadow keeps everything a man has forgotten: every kind word he didn't say, every coin he took that wasn't his. Your shadow is very heavy, Anselm. Do you know why?”",
+   "ru": "Незнакомец улыбнулся. «Мне не нужно золото. У меня его достаточно. Я собираю тени, потому что тень хранит всё, что человек забыл: каждое доброе слово, которое он не сказал, каждую монету, которую он взял, хотя она была не его. Ваша тень очень тяжёлая, Ансельм. Знаете почему?»",
+   "s": [
+    [
+     "The stranger smiled.",
+     "Незнакомец улыбнулся."
+    ],
+    [
+     "“I don't want gold.",
+     "«Мне не нужно золото."
+    ],
+    [
+     "I have enough of it.",
+     "У меня его достаточно."
+    ],
+    [
+     "I collect shadows because a shadow keeps everything a man has forgotten: every kind word he didn't say, every coin he took that wasn't his.",
+     "Я собираю тени, потому что тень хранит всё, что человек забыл: каждое доброе слово, которое он не сказал, каждую монету, которую он взял, хотя она была не его."
+    ],
+    [
+     "Your shadow is very heavy, Anselm.",
+     "Ваша тень очень тяжёлая, Ансельм."
+    ],
+    [
+     "Do you know why?”",
+     "Знаете почему?»"
+    ]
+   ]
+  },
+  {
+   "en": "Anselm said nothing. He thought of the old women at his stall, and his face burned.",
+   "ru": "Ансельм ничего не ответил. Он вспомнил старушек у своего прилавка, и лицо его вспыхнуло.",
+   "s": [
+    [
+     "Anselm said nothing.",
+     "Ансельм ничего не ответил."
+    ],
+    [
+     "He thought of the old women at his stall, and his face burned.",
+     "Он вспомнил старушек у своего прилавка, и лицо его вспыхнуло."
+    ]
+   ]
+  },
+  {
+   "en": "“Here is my price,” the stranger said. “Tomorrow you will go back to the market. You will give back every coin you ever took dishonestly, and the gold I gave you too. And you will announce to the whole town what you have done. Then you will get your shadow back.”",
+   "ru": "«Вот моя цена, — сказал незнакомец. — Завтра вы вернётесь на рынок. Вы отдадите каждую монету, которую когда-либо взяли нечестно, и золото, которое дал вам я, тоже. И вы объявите всему городу о том, что сделали. Тогда вы получите свою тень обратно».",
+   "s": [
+    [
+     "“Here is my price,” the stranger said.",
+     "«Вот моя цена, — сказал незнакомец."
+    ],
+    [
+     "“Tomorrow you will go back to the market.",
+     "Завтра вы вернётесь на рынок."
+    ],
+    [
+     "You will give back every coin you ever took dishonestly, and the gold I gave you too.",
+     "Вы отдадите каждую монету, которую когда-либо взяли нечестно, и золото, которое дал вам я, тоже."
+    ],
+    [
+     "And you will announce to the whole town what you have done.",
+     "И вы объявите всему городу о том, что сделали."
+    ],
+    [
+     "Then you will get your shadow back.”",
+     "Тогда вы получите свою тень обратно»."
+    ]
+   ]
+  },
+  {
+   "en": "Anselm's first feeling was fear. To lose everything, and to lose it in front of all the people who already laughed at him! But then he thought of Mira's face, and he felt something different: relief. It was as if a heavy bag had fallen from his back. For years his obsession had been like a hand around his neck. Now, for the first time, it was letting go.",
+   "ru": "Первым чувством Ансельма был страх. Потерять всё, да ещё на глазах у всех людей, которые и так над ним смеялись! Но потом он подумал о лице Миры и почувствовал нечто другое — облегчение. Словно у него со спины упал тяжёлый мешок. Много лет его одержимость была словно рука на его шее. Теперь, впервые, она его отпускала.",
+   "s": [
+    [
+     "Anselm's first feeling was fear.",
+     "Первым чувством Ансельма был страх."
+    ],
+    [
+     "To lose everything, and to lose it in front of all the people who already laughed at him!",
+     "Потерять всё, да ещё на глазах у всех людей, которые и так над ним смеялись!"
+    ],
+    [
+     "But then he thought of Mira's face, and he felt something different: relief.",
+     "Но потом он подумал о лице Миры и почувствовал нечто другое — облегчение."
+    ],
+    [
+     "It was as if a heavy bag had fallen from his back.",
+     "Словно у него со спины упал тяжёлый мешок."
+    ],
+    [
+     "For years his obsession had been like a hand around his neck.",
+     "Много лет его одержимость была словно рука на его шее."
+    ],
+    [
+     "Now, for the first time, it was letting go.",
+     "Теперь, впервые, она его отпускала."
+    ]
+   ]
+  },
+  {
+   "en": "The next day, in the middle of the market, Anselm Brask stood on an empty box and told the town everything. He gave money to the old women, to the farmers, to the children who had bought juice from him. When he finished, he was poor again. The sun was hot and bright, and the people were silent. Some people shouted at him. Some people cried. One old woman, the one he had cheated most often, took his hand and held it for a moment without a word.",
+   "ru": "На следующий день посреди рынка Ансельм Браск встал на пустой ящик и рассказал городу всё. Он раздал деньги старушкам, фермерам, детям, которые покупали у него сок. Когда он закончил, он снова был беден. Солнце светило жарко и ярко, и люди молчали. Кто-то кричал на него. Кто-то плакал. Одна старушка, которую он обманывал чаще всех, взяла его за руку и подержала её мгновение, не говоря ни слова.",
+   "s": [
+    [
+     "The next day, in the middle of the market, Anselm Brask stood on an empty box and told the town everything.",
+     "На следующий день посреди рынка Ансельм Браск встал на пустой ящик и рассказал городу всё."
+    ],
+    [
+     "He gave money to the old women, to the farmers, to the children who had bought juice from him.",
+     "Он раздал деньги старушкам, фермерам, детям, которые покупали у него сок."
+    ],
+    [
+     "When he finished, he was poor again.",
+     "Когда он закончил, он снова был беден."
+    ],
+    [
+     "The sun was hot and bright, and the people were silent.",
+     "Солнце светило жарко и ярко, и люди молчали."
+    ],
+    [
+     "Some people shouted at him.",
+     "Кто-то кричал на него."
+    ],
+    [
+     "Some people cried.",
+     "Кто-то плакал."
+    ],
+    [
+     "One old woman, the one he had cheated most often, took his hand and held it for a moment without a word.",
+     "Одна старушка, которую он обманывал чаще всех, взяла его за руку и подержала её мгновение, не говоря ни слова."
+    ]
+   ]
+  },
+  {
+   "en": "Then a little girl shouted, “Look!” On the stones at Anselm's feet, a long dark shadow was slowly appearing, as if someone were painting it.",
+   "ru": "Вдруг маленькая девочка закричала: «Смотрите!» На камнях у ног Ансельма медленно проступала длинная тёмная тень, словно кто-то её рисовал.",
+   "s": [
+    [
+     "Then a little girl shouted, “Look!”",
+     "Вдруг маленькая девочка закричала: «Смотрите!»"
+    ],
+    [
+     "On the stones at Anselm's feet, a long dark shadow was slowly appearing, as if someone were painting it.",
+     "На камнях у ног Ансельма медленно проступала длинная тёмная тень, словно кто-то её рисовал."
+    ]
+   ]
+  },
+  {
+   "en": "Mira was standing at the edge of the crowd. She did not say anything. But Anselm saw that her shadow, on the ground, had already moved across the square and was holding his shadow's hand. Shadows, the old people of Velmar say, always know the truth a little earlier than we do.",
+   "ru": "Мира стояла на краю толпы. Она ничего не сказала. Но Ансельм увидел, что её тень на земле уже перебралась через площадь и держит за руку его тень. Тени, как говорят старики Велмара, всегда узнают правду чуть раньше нас.",
+   "s": [
+    [
+     "Mira was standing at the edge of the crowd.",
+     "Мира стояла на краю толпы."
+    ],
+    [
+     "She did not say anything.",
+     "Она ничего не сказала."
+    ],
+    [
+     "But Anselm saw that her shadow, on the ground, had already moved across the square and was holding his shadow's hand.",
+     "Но Ансельм увидел, что её тень на земле уже перебралась через площадь и держит за руку его тень."
+    ],
+    [
+     "Shadows, the old people of Velmar say, always know the truth a little earlier than we do.",
+     "Тени, как говорят старики Велмара, всегда узнают правду чуть раньше нас."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(артикль)",
+  "above": "над",
+  "across": "через",
+  "address": "адрес",
+  "after": "после",
+  "afternoon": "день, после полудня",
+  "again": "снова",
+  "all": "весь, все",
+  "already": "уже",
+  "always": "всегда",
+  "an": "(артикль)",
+  "and": "и",
+  "announce": "объявить",
+  "anselm": "Ансельм (имя)",
+  "anselm's": "Ансельма",
+  "any": "любой",
+  "anymore": "больше (не)",
+  "anything": "что-либо, ничего",
+  "appeared": "появлялся",
+  "appearing": "появлялась",
+  "are": "(есть)",
+  "arm": "рука; under his arm — под мышкой",
+  "around": "вокруг",
+  "arrived": "приходило",
+  "article": "статья",
+  "as": "как, будто",
+  "ask": "спросить",
+  "asked": "спросил",
+  "at": "в, на, у",
+  "away": "прочь",
+  "back": "назад; спина",
+  "bag": "мешок",
+  "baker's": "пекаря",
+  "bakery": "пекарня",
+  "barked": "лаяли",
+  "because": "потому что",
+  "become": "стать",
+  "bedroom": "спальня",
+  "been": "был",
+  "before": "до, перед",
+  "began": "начали",
+  "beloved": "любимый",
+  "bent": "наклонился",
+  "besides": "кроме",
+  "between": "между",
+  "big": "большой",
+  "black": "чёрный",
+  "blanket": "одеяло",
+  "bottles": "бутылки",
+  "bought": "купил",
+  "box": "ящик",
+  "brask": "Браск (фамилия)",
+  "bread": "хлеб",
+  "break": "перерыв",
+  "bright": "светлый, яркий",
+  "bring": "приносить",
+  "burned": "горело, вспыхнуло",
+  "but": "но",
+  "buy": "купить",
+  "buyer": "покупатель",
+  "by": "у (кого-то), кем",
+  "called": "по имени, называла",
+  "came": "пришёл",
+  "can": "может",
+  "can't": "нельзя",
+  "carriage": "карета",
+  "change": "сдача",
+  "cheated": "обманывал",
+  "cherries": "вишня",
+  "cherry": "вишнёвый",
+  "children": "дети",
+  "clear": "чёткий",
+  "clothes": "одежда",
+  "coat": "пальто",
+  "coats": "пальто",
+  "coin": "монета",
+  "coins": "монеты",
+  "cold": "холодный",
+  "collect": "собирать",
+  "come": "прийти, вернуться",
+  "coming": "идущий",
+  "contract": "договор",
+  "corner": "угол",
+  "could": "мог",
+  "counted": "пересчитывал",
+  "covered": "покрытый, увешанный",
+  "crossed": "переходили",
+  "crowd": "толпа",
+  "cry": "плакать",
+  "customers": "покупатели",
+  "dark": "тёмный",
+  "daughter": "дочь",
+  "day": "день",
+  "decided": "решил",
+  "did": "(вспом.), делали",
+  "didn't": "не (прош. вр.)",
+  "different": "другой, иной",
+  "dishonestly": "нечестно",
+  "do": "(вспом.), делать",
+  "doesn't": "не (3 л.)",
+  "dog": "собака",
+  "dogs": "собаки",
+  "don't": "не",
+  "done": "сделал",
+  "door": "дверь",
+  "dorn": "Дорн (фамилия)",
+  "down": "вниз",
+  "dreaming": "видели сны",
+  "dressed": "одетый",
+  "dust": "пыль",
+  "earlier": "раньше",
+  "earned": "зарабатывал",
+  "eat": "есть",
+  "edge": "край",
+  "empty": "пустой",
+  "end": "конец",
+  "enough": "достаточно",
+  "evening": "вечер",
+  "even": "даже",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "everybody": "все",
+  "everyone": "все",
+  "everything": "всё",
+  "evident": "очевидный",
+  "excellent": "превосходный",
+  "expensive": "дорогой",
+  "eyes": "глаза",
+  "face": "лицо",
+  "fallen": "упал",
+  "famous": "знаменитый",
+  "farmers": "фермеры",
+  "father's": "отца",
+  "fear": "страх",
+  "feeling": "чувство",
+  "feet": "ноги",
+  "felt": "почувствовал, казался",
+  "finally": "наконец",
+  "fingers": "пальцы",
+  "finished": "закончил",
+  "first": "первый; at first — сначала",
+  "floor": "пол",
+  "for": "за, для, в течение",
+  "forest": "лес",
+  "forgotten": "забыл",
+  "from": "из, от, у",
+  "front": "in front of — перед",
+  "fruit": "фрукты",
+  "gave": "дал",
+  "get": "получить",
+  "ghost": "призрак",
+  "girl": "девочка",
+  "give": "дать, отдать",
+  "glasses": "очки",
+  "go": "идти; let go — отпускать",
+  "gold": "золото, золотой",
+  "grandmother": "бабушка",
+  "green": "зелёный",
+  "grey": "серый",
+  "ground": "земля",
+  "had": "имел, (вспом.)",
+  "hand": "рука",
+  "happy": "счастливый",
+  "has": "(вспом.)",
+  "have": "иметь, (вспом.)",
+  "he": "он",
+  "head": "голова",
+  "heart": "сердце",
+  "heat": "жара",
+  "heavy": "тяжёлый",
+  "held": "держала",
+  "her": "её, ей",
+  "here": "здесь, вот",
+  "hill": "холм",
+  "hills": "холмы",
+  "him": "его, ему",
+  "himself": "себе",
+  "his": "его, свой",
+  "holding": "держала",
+  "horse": "лошадь",
+  "hot": "жаркий",
+  "house": "дом",
+  "hundred": "сто",
+  "hundreds": "сотни",
+  "hung": "висели",
+  "i": "я",
+  "i'll": "я (буд. вр.)",
+  "i'm": "я",
+  "if": "если",
+  "in": "в",
+  "inside": "внутри",
+  "instead": "вместо этого",
+  "into": "в",
+  "is": "есть, является",
+  "issue": "проблема",
+  "it": "это, он, она",
+  "its": "его, её",
+  "juice": "сок",
+  "july": "июль",
+  "just": "просто",
+  "keeps": "хранит",
+  "kind": "добрый",
+  "knew": "знал",
+  "knocked": "постучал",
+  "know": "знать",
+  "large": "большой",
+  "last": "at last — наконец",
+  "laughed": "смеялся",
+  "lawyer": "юрист",
+  "lay": "лежал",
+  "layers": "слои",
+  "led": "привёл",
+  "legal": "законный",
+  "less": "меньше",
+  "letters": "буквы",
+  "letting": "letting go — отпускать",
+  "life": "жизнь",
+  "like": "как",
+  "line": "строчка",
+  "listened": "слушал",
+  "little": "немного, маленький",
+  "lived": "жил",
+  "living": "living room — гостиная",
+  "long": "длинный, долгий",
+  "look": "смотреть",
+  "looked": "посмотрел",
+  "lose": "потерять",
+  "lost": "теряли",
+  "made": "заставляли",
+  "man": "человек, мужчина",
+  "many": "много",
+  "market": "рынок",
+  "marry": "жениться",
+  "matter": "иметь значение",
+  "may": "может",
+  "me": "мне",
+  "meant": "значили",
+  "meeting": "встреча",
+  "men": "мужчины",
+  "merchant": "торговец",
+  "middle": "середина",
+  "mind": "ум, разум",
+  "mira": "Мира (имя)",
+  "mira's": "Миры",
+  "money": "деньги",
+  "month": "месяц",
+  "more": "больше",
+  "morning": "утро",
+  "most": "most often — чаще всего",
+  "moved": "шевелились, перешла",
+  "must": "должен",
+  "my": "мой",
+  "name": "имя",
+  "narrow": "узкий",
+  "neck": "шея",
+  "neighbors": "соседи",
+  "never": "никогда",
+  "new": "новый",
+  "newspaper": "газета",
+  "next": "следующий; next to — рядом",
+  "night": "ночь, вечер",
+  "no": "никакой",
+  "nobody": "никто",
+  "none": "ни одной",
+  "not": "не",
+  "nothing": "ничто, ничего",
+  "notice": "замечать",
+  "noticed": "заметил",
+  "now": "теперь",
+  "obsession": "одержимость",
+  "of": "из, о, (родительный падеж)",
+  "office": "контора; post office — почта",
+  "often": "часто",
+  "old": "старый",
+  "on": "на, в",
+  "once": "at once — сразу",
+  "one": "один, одна",
+  "onion": "луковый",
+  "onions": "лук",
+  "only": "только, единственный",
+  "opened": "открыл",
+  "or": "или",
+  "other": "другой",
+  "our": "наш",
+  "out": "из, за",
+  "owed": "был должен",
+  "own": "собственный",
+  "paid": "платил; paid regard — обращал",
+  "painted": "нарисованный",
+  "painter": "художник",
+  "painting": "рисовал",
+  "pale": "светлый, бледный",
+  "paper": "бумага",
+  "past": "прошлое",
+  "people": "люди",
+  "picture": "картина",
+  "piece": "кусок, листок",
+  "pocket": "карман",
+  "pointed": "показывали",
+  "poor": "бедный",
+  "post": "post office — почта",
+  "price": "цена",
+  "printed": "напечатала",
+  "put": "положил",
+  "quickly": "быстро",
+  "quietly": "тихо",
+  "rain": "дождь",
+  "rarely": "редко",
+  "reached": "добрался",
+  "read": "читать, прочитал",
+  "ready": "готов",
+  "really": "по-настоящему",
+  "recognized": "узнал",
+  "regard": "внимание",
+  "relief": "облегчение",
+  "resistance": "сопротивление",
+  "rest": "остаток",
+  "rich": "богатый",
+  "richest": "самый богатый",
+  "ring": "кольцо",
+  "robbing": "грабить",
+  "rolled": "свернул",
+  "room": "комната",
+  "round": "круглый; all year round — круглый год",
+  "said": "сказал",
+  "same": "тот же; прежний",
+  "saw": "увидел",
+  "say": "говорить",
+  "says": "сказано, говорится",
+  "see": "видеть",
+  "sell": "продавать",
+  "seller": "продавец",
+  "sellers": "продавцы",
+  "selling": "продавать",
+  "sent": "отправила (прочь)",
+  "serious": "серьёзный",
+  "shadow": "тень",
+  "shadow's": "тени",
+  "shadows": "тени",
+  "she": "она",
+  "shouted": "кричали, закричала",
+  "sign": "подписать",
+  "signed": "подписал",
+  "silence": "тишина",
+  "silent": "молчаливый",
+  "silk": "шёлк",
+  "simple": "простой",
+  "sleep": "спать",
+  "sleeping": "спал",
+  "slowly": "медленно",
+  "small": "маленький, мелкий",
+  "smelled": "пахло",
+  "smiled": "улыбался",
+  "sold": "продавал",
+  "some": "некоторые",
+  "someone": "кто-то",
+  "something": "что-то",
+  "sometimes": "иногда",
+  "soon": "вскоре",
+  "sorry": "прости",
+  "spite": "in spite of — несмотря на",
+  "square": "площадь",
+  "stall": "прилавок",
+  "standing": "стояла",
+  "stones": "камни",
+  "stood": "встал",
+  "stopped": "перестал",
+  "stranger": "незнакомец",
+  "street": "улица",
+  "streets": "улицы",
+  "summer": "лето",
+  "sun": "солнце",
+  "sundays": "воскресенья",
+  "sunny": "солнечный",
+  "table": "стол",
+  "tall": "высокий",
+  "than": "чем",
+  "that": "что, тот, этот",
+  "the": "(артикль)",
+  "their": "их",
+  "them": "их, им",
+  "then": "потом, тогда",
+  "there": "там",
+  "they": "они",
+  "thick": "толстый",
+  "thin": "худой",
+  "thing": "вещь",
+  "this": "это, этот",
+  "thought": "думал",
+  "three": "три",
+  "through": "через, сквозь",
+  "time": "время, раз",
+  "times": "раз",
+  "title": "заголовок",
+  "to": "к, в, (частица)",
+  "told": "сказал, рассказал",
+  "tomorrow": "завтра",
+  "too": "тоже",
+  "took": "взял, достал",
+  "town": "город",
+  "towns": "города",
+  "trees": "деревья",
+  "tried": "попытался",
+  "truth": "правда",
+  "two": "два",
+  "under": "под",
+  "understood": "понял",
+  "up": "вверх",
+  "vegetables": "овощи",
+  "velmar": "Велмар (город)",
+  "very": "очень",
+  "waiting": "ждать",
+  "walked": "ушёл",
+  "wall": "стена",
+  "walls": "стены",
+  "want": "хотеть",
+  "wanted": "хотел",
+  "wants": "хочет",
+  "warn": "предупредить",
+  "was": "был",
+  "wasn't": "не был",
+  "we": "мы",
+  "well": "хорошо",
+  "went": "пошёл",
+  "were": "были",
+  "what": "что, какой",
+  "when": "когда",
+  "where": "где",
+  "while": "пока",
+  "who": "кто, который",
+  "whole": "весь",
+  "why": "почему",
+  "will": "(буд. вр.)",
+  "winter": "зима",
+  "with": "с",
+  "without": "без",
+  "woman": "женщина",
+  "women": "женщины",
+  "wonderful": "чудесный",
+  "word": "слово",
+  "words": "слова",
+  "work": "работать",
+  "worked": "работал",
+  "worst": "хуже всего",
+  "would": "бы",
+  "wrong": "не так",
+  "wrote": "написал",
+  "year": "год",
+  "years": "годы",
+  "you": "ты, вы",
+  "your": "твой, ваш",
+  "cried": "плакали",
+  "moment": "мгновение"
+ },
+ "vocab": {
+  "picture": 20,
+  "away": 40,
+  "rarely": 60,
+  "sleep": 80,
+  "juice": 100,
+  "felt": 120,
+  "break": 140,
+  "cherry": 160,
+  "cherries": 160,
+  "ready": 180,
+  "empty": 200,
+  "onion": 221,
+  "onions": 221,
+  "reached": 241,
+  "sent": 261,
+  "lawyer": 281,
+  "mind": 302,
+  "meeting": 322,
+  "different": 342,
+  "instead": 362,
+  "issue": 382,
+  "beloved": 410,
+  "excellent": 430,
+  "blanket": 457,
+  "relief": 481,
+  "led": 502,
+  "announce": 524,
+  "regard": 545,
+  "article": 566,
+  "evident": 586,
+  "robbing": 608,
+  "resistance": 629,
+  "obsession": 651
+ }
+}

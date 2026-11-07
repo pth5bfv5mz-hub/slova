@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did American officials want to keep German scientists after the war with Japan ended?",
+  "q_ru": "Почему американские чиновники хотели оставить немецких учёных после окончания войны с Японией?",
+  "options": [
+   "They did not want the experts to work for the Soviet Union",
+   "The scientists asked to become American citizens",
+   "Germany refused to take them back",
+   "They needed them to rebuild German factories"
+  ],
+  "options_ru": [
+   "Они не хотели, чтобы специалисты работали на Советский Союз",
+   "Учёные сами попросили американское гражданство",
+   "Германия отказалась принять их обратно",
+   "Они были нужны для восстановления немецких заводов"
+  ],
+  "answer": 0,
+  "explain_ru": "В тексте: американцы считали, что СССР станет главным врагом: «If the Americans did not take these scientists... the Soviets would»."
+ },
+ {
+  "q": "What condition did President Truman set in 1946?",
+  "q_ru": "Какое условие поставил президент Трумэн в 1946 году?",
+  "options": [
+   "Scientists could stay for only one year",
+   "Scientists had to work only on space projects",
+   "No active Nazis or active supporters of Nazism could be brought",
+   "Scientists had to give up their German citizenship"
+  ],
+  "options_ru": [
+   "Учёные могли остаться только на год",
+   "Учёные должны были работать только над космическими проектами",
+   "Нельзя было привозить активных нацистов и активных сторонников нацизма",
+   "Учёные должны были отказаться от немецкого гражданства"
+  ],
+  "answer": 2,
+  "explain_ru": "Трумэн одобрил программу при условии, что в Америку не привезут никого, кто был больше чем номинальным членом партии или активным сторонником нацизма."
+ },
+ {
+  "q": "How did JIOA officials get around Truman's rule?",
+  "q_ru": "Как сотрудники JIOA обходили правило Трумэна?",
+  "options": [
+   "They brought scientists in secretly by submarine",
+   "They sent security reports back to be rewritten in a softer way",
+   "They gave the scientists new names",
+   "They asked Truman to cancel the rule"
+  ],
+  "options_ru": [
+   "Тайно привозили учёных на подводных лодках",
+   "Отправляли отчёты о благонадёжности обратно, чтобы их переписали мягче",
+   "Давали учёным новые имена",
+   "Просили Трумэна отменить правило"
+  ],
+  "answer": 1,
+  "explain_ru": "Порочащие подробности исчезали из досье, появлялись новые, более мягкие отчёты — критики назвали это «отбеливанием»."
+ },
+ {
+  "q": "What horrible fact about the V-2 does the article mention?",
+  "q_ru": "Какой ужасный факт о Фау-2 упоминается в статье?",
+  "options": [
+   "It often exploded before reaching its target",
+   "It was first tested on prisoners",
+   "It was built mainly by children",
+   "More people died building it than were killed by it in war"
+  ],
+  "options_ru": [
+   "Она часто взрывалась, не долетев до цели",
+   "Её сначала испытывали на заключённых",
+   "Её строили в основном дети",
+   "При её производстве погибло больше людей, чем от её применения на войне"
+  ],
+  "answer": 3,
+  "explain_ru": "Удары Фау-2 убили около 9000 человек, а при производстве в туннелях «Миттельверка» погибли не менее 12 000 узников."
+ },
+ {
+  "q": "Why did Arthur Rudolph leave the United States in 1984?",
+  "q_ru": "Почему Артур Рудольф уехал из США в 1984 году?",
+  "options": [
+   "He was investigated by the OSI and agreed to leave rather than face a trial",
+   "NASA closed the Saturn V programme",
+   "He wanted to work in the Soviet Union",
+   "Linda Hunt asked him to leave"
+  ],
+  "options_ru": [
+   "Его расследовало OSI, и он согласился уехать, чтобы не предстать перед судом",
+   "НАСА закрыло программу «Сатурн-5»",
+   "Он хотел работать в Советском Союзе",
+   "Линда Хант попросила его уехать"
+  ],
+  "answer": 0,
+  "explain_ru": "Управление специальных расследований (OSI) расследовало его роль на «Миттельверке»; он отказался от гражданства и уехал в ФРГ."
+ },
+ {
+  "q": "According to the article, which statement is NOT supported by evidence?",
+  "q_ru": "Какое утверждение, согласно статье, НЕ подтверждается доказательствами?",
+  "options": [
+   "Officials changed security reports",
+   "Von Braun had been a member of the SS",
+   "Paperclip scientists secretly controlled the US government",
+   "The Soviet Union also took German specialists"
+  ],
+  "options_ru": [
+   "Чиновники меняли отчёты о благонадёжности",
+   "Фон Браун был членом СС",
+   "Учёные «Скрепки» тайно управляли правительством США",
+   "Советский Союз тоже вывозил немецких специалистов"
+  ],
+  "answer": 2,
+  "explain_ru": "Статья говорит: «there is no evidence» для историй о том, что учёные «Скрепки» тайно управляли правительством или строили «Четвёртый рейх»."
+ }
+]

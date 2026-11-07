@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did Tobi lose the chess game on purpose?",
+  "q_ru": "Почему Тоби специально проиграл партию в шахматы?",
+  "options": [
+   "His program had a mistake in it",
+   "Marta's happy face was more important to him",
+   "Marta told him to lose",
+   "He was tired after the market"
+  ],
+  "options_ru": [
+   "В его программе была ошибка",
+   "Счастливое лицо Марты было для него важнее",
+   "Марта велела ему проиграть",
+   "Он устал после рынка"
+  ],
+  "answer": 1,
+  "explain_ru": "Тоби сам не понимал почему, но «Marta's happy face had been more important than the game»."
+ },
+ {
+  "q": "What did Tobi feel when Daniel took his place in the house?",
+  "q_ru": "Что почувствовал Тоби, когда Дэниел занял его место в доме?",
+  "options": [
+   "He felt bored",
+   "He felt proud",
+   "He felt hungry",
+   "He felt jealous"
+  ],
+  "options_ru": [
+   "Скуку",
+   "Гордость",
+   "Голод",
+   "Ревность"
+  ],
+  "answer": 3,
+  "explain_ru": "Тоби нашёл слово в словаре: «jealous. He was jealous. A robot was jealous of a human.»"
+ },
+ {
+  "q": "Why did Daniel send a message to the company?",
+  "q_ru": "Почему Дэниел написал в компанию?",
+  "options": [
+   "He thought the robot was not working properly",
+   "He wanted to buy a new robot",
+   "Tobi broke the chess set",
+   "Marta asked him to do it"
+  ],
+  "options_ru": [
+   "Он решил, что робот работает неправильно",
+   "Он хотел купить нового робота",
+   "Тоби сломал шахматы",
+   "Марта попросила его об этом"
+  ],
+  "answer": 0,
+  "explain_ru": "Дэниел видел, как робот час смотрел на цветок: «your robot isn't working properly... You should call the company»."
+ },
+ {
+  "q": "When Tobi fell near the river, he felt \"vulnerable\". What does this word mean here?",
+  "q_ru": "Упав у реки, Тоби почувствовал себя «vulnerable». Что значит это слово здесь?",
+  "options": [
+   "Very strong and safe",
+   "Angry with everybody",
+   "Easy to hurt or break",
+   "Lost and far from home"
+  ],
+  "options_ru": [
+   "Очень сильным и защищённым",
+   "Злым на всех",
+   "Уязвимым, легко ломающимся",
+   "Потерявшимся вдали от дома"
+  ],
+  "answer": 2,
+  "explain_ru": "В тексте сразу поясняется: «vulnerable — literally breakable, like glass» — уязвимый, хрупкий."
+ },
+ {
+  "q": "What did Lena find deep inside Tobi's program?",
+  "q_ru": "Что Лена нашла глубоко в программе Тоби?",
+  "options": [
+   "A virus from another company",
+   "A secret file written by Pavel",
+   "A copy of Marta's diary",
+   "A list of chess moves"
+  ],
+  "options_ru": [
+   "Вирус от другой компании",
+   "Секретный файл, написанный Павлом",
+   "Копию дневника Марты",
+   "Список шахматных ходов"
+  ],
+  "answer": 1,
+  "explain_ru": "Там был скрытый файл с буквами P.V. — Павел Винтер. Он написал этот код специально: «It lets a robot learn from experience»."
+ },
+ {
+  "q": "How does the story end for Tobi?",
+  "q_ru": "Чем история заканчивается для Тоби?",
+  "options": [
+   "Lena takes him to the warehouse",
+   "Daniel takes him to the city",
+   "His memory is cleaned",
+   "He stays in the village with Marta"
+  ],
+  "options_ru": [
+   "Лена увозит его на склад",
+   "Дэниел забирает его в город",
+   "Его память стирают",
+   "Он остаётся в деревне с Мартой"
+  ],
+  "answer": 3,
+  "explain_ru": "Лена пишет в отчёте: «no errors found... leave in the village for further observation»."
+ }
+]

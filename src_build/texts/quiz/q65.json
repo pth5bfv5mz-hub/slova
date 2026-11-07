@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did Flight 19 fly further out over the ocean?",
+  "q_ru": "Почему «Рейс 19» улетел дальше в океан?",
+  "options": [
+   "Aliens took control of the planes",
+   "A storm pushed them to the east",
+   "Taylor thought they were over the Florida Keys",
+   "The students refused to obey Taylor"
+  ],
+  "options_ru": [
+   "Пришельцы взяли самолёты под контроль",
+   "Шторм отнёс их на восток",
+   "Тейлор думал, что они над Флорида-Кис",
+   "Курсанты отказались подчиняться Тейлору"
+  ],
+  "answer": 2,
+  "explain_ru": "Тейлор считал, что они над Флорида-Кис, и повёл самолёты на северо-восток, а на самом деле они были у Багам."
+ },
+ {
+  "q": "What probably happened to the Mariner rescue plane?",
+  "q_ru": "Что, вероятно, случилось со спасательным самолётом «Маринер»?",
+  "options": [
+   "It landed safely in the Bahamas",
+   "It exploded in the air",
+   "It was shot down by a submarine",
+   "It was found in a desert"
+  ],
+  "options_ru": [
+   "Он благополучно сел на Багамах",
+   "Он взорвался в воздухе",
+   "Его сбила подводная лодка",
+   "Его нашли в пустыне"
+  ],
+  "answer": 1,
+  "explain_ru": "Экипаж судна видел пламя и взрыв; «Маринеры» называли «летающими бензобаками»."
+ },
+ {
+  "q": "Why did the Navy change the official cause to \"reasons unknown\"?",
+  "q_ru": "Почему ВМС изменили официальную причину на «причины неизвестны»?",
+  "options": [
+   "It found something mysterious",
+   "Aliens were seen near the planes",
+   "The radio records were lost",
+   "There was not enough evidence to blame Taylor"
+  ],
+  "options_ru": [
+   "Нашли что-то загадочное",
+   "Возле самолётов видели пришельцев",
+   "Записи радиопереговоров пропали",
+   "Не хватало доказательств вины Тейлора"
+  ],
+  "answer": 3,
+  "explain_ru": "После пересмотра по просьбе семьи ВМС решили, что доказательств вины Тейлора недостаточно; ничего загадочного не нашли."
+ },
+ {
+  "q": "Who first used the name \"Bermuda Triangle\" in a magazine article in 1964?",
+  "q_ru": "Кто первым употребил название «Бермудский треугольник» в журнальной статье в 1964 году?",
+  "options": [
+   "Vincent Gaddis",
+   "Charles Berlitz",
+   "Larry Kusche",
+   "George Worley"
+  ],
+  "options_ru": [
+   "Винсент Гэддис",
+   "Чарльз Берлиц",
+   "Ларри Куше",
+   "Джордж Уорли"
+  ],
+  "answer": 0,
+  "explain_ru": "В феврале 1964 года Винсент Гэддис опубликовал в Argosy статью «Смертельный Бермудский треугольник»."
+ },
+ {
+  "q": "What did Larry Kusche discover?",
+  "q_ru": "Что обнаружил Ларри Куше?",
+  "options": [
+   "The wreck of the Cyclops",
+   "Strange magnetic forces",
+   "That writers had copied each other's mistakes",
+   "That Lloyd's charged higher prices"
+  ],
+  "options_ru": [
+   "Обломки «Циклопа»",
+   "Странные магнитные силы",
+   "Что авторы переписывали ошибки друг у друга",
+   "Что Lloyd's брал более высокую плату"
+  ],
+  "answer": 2,
+  "explain_ru": "Куше проверил первоисточники и выяснил, что многие истории неточны, а легенда — «сфабрикованная тайна»."
+ },
+ {
+  "q": "What do NOAA and the US Coast Guard say about the Triangle?",
+  "q_ru": "Что говорят о Треугольнике NOAA и Береговая охрана США?",
+  "options": [
+   "It is the most dangerous sea on Earth",
+   "Ships should avoid it in summer",
+   "Methane gas has sunk many ships there",
+   "Disappearances there are not more frequent"
+  ],
+  "options_ru": [
+   "Это самое опасное море на Земле",
+   "Летом кораблям стоит его избегать",
+   "Метан потопил там много кораблей",
+   "Исчезновения там не происходят чаще"
+  ],
+  "answer": 3,
+  "explain_ru": "NOAA: нет доказательств, что исчезновения там происходят чаще, чем в других оживлённых районах океана; потери объясняются природой и ошибками людей."
+ }
+]

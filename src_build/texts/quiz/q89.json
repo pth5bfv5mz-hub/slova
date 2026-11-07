@@ -1,0 +1,50 @@
+[
+ {
+  "q": "According to the witnesses, where did Hitler die?",
+  "q_ru": "Где, по словам свидетелей, умер Гитлер?",
+  "options": ["On a submarine in the Atlantic", "In a house near Bariloche", "In his bunker in Berlin", "In a prison in Moscow"],
+  "options_ru": ["На подводной лодке в Атлантике", "В доме возле Барилоче", "В своём бункере в Берлине", "В тюрьме в Москве"],
+  "answer": 2,
+  "explain_ru": "Линге и другие свидетели рассказали, что 30 апреля 1945 года Гитлер покончил с собой в бункере, а тело сожгли в саду рейхсканцелярии."
+ },
+ {
+  "q": "How did Soviet investigators identify Hitler's body in 1945?",
+  "q_ru": "Как советские следователи опознали тело Гитлера в 1945 году?",
+  "options": ["By his teeth, with help from his dentist's assistant", "By his fingerprints", "By DNA tests", "By photographs of his face"],
+  "options_ru": ["По зубам, с помощью ассистентки его стоматолога", "По отпечаткам пальцев", "По анализу ДНК", "По фотографиям его лица"],
+  "answer": 0,
+  "explain_ru": "Тела сильно обгорели, поэтому следователи положились на зубы: Кете Хойзерман узнала мосты и протезы, а зубной техник это подтвердил."
+ },
+ {
+  "q": "What is true about the submarines U-530 and U-977?",
+  "q_ru": "Что верно о подводных лодках U-530 и U-977?",
+  "options": ["They sank near the coast of Spain", "They were never found after the war", "Investigators found Nazi leaders on board", "They surrendered in Argentina, and no evidence of passengers was found"],
+  "options_ru": ["Они затонули у берегов Испании", "Их так и не нашли после войны", "Следователи нашли на борту нацистских лидеров", "Они сдались в Аргентине, и доказательств перевозки пассажиров не нашли"],
+  "answer": 3,
+  "explain_ru": "Лодки пришли в Мар-дель-Плату в июле и августе 1945 года; аргентинский флот и американцы допросили экипажи и не нашли доказательств, что на борту были пассажиры."
+ },
+ {
+  "q": "What did the 2009 test of the skull fragment claim?",
+  "q_ru": "Что утверждалось по итогам исследования фрагмента черепа в 2009 году?",
+  "options": ["The skull had no bullet hole", "The DNA belonged to a woman", "The DNA matched Hitler's relatives", "The skull was found in Argentina"],
+  "options_ru": ["В черепе не было пулевого отверстия", "ДНК принадлежала женщине", "ДНК совпала с ДНК родственников Гитлера", "Череп нашли в Аргентине"],
+  "answer": 1,
+  "explain_ru": "Беллантони заявил, что ДНК женская, но фрагмент нашли только в 1946 году, его связь с Гитлером не доказана, а главным доказательством всегда были зубы."
+ },
+ {
+  "q": "What did the French study published in 2018 show?",
+  "q_ru": "Что показало французское исследование, опубликованное в 2018 году?",
+  "options": ["The teeth matched Hitler's X-rays and dental descriptions", "The teeth were modern copies", "Hitler had lived in Patagonia until the 1960s", "DNA from the teeth belonged to a woman"],
+  "options_ru": ["Зубы совпали с рентгеновскими снимками и описаниями зубов Гитлера", "Зубы оказались современными копиями", "Гитлер жил в Патагонии до 1960-х годов", "ДНК с зубов принадлежала женщине"],
+  "answer": 0,
+  "explain_ru": "Группа Филиппа Шарлье сравнила зубы со снимками 1944 года и описаниями: совпадение было полным. Образцы для ДНК брать не разрешили."
+ },
+ {
+  "q": "Which question is still open, according to the article?",
+  "q_ru": "Какой вопрос, согласно статье, до сих пор остаётся открытым?",
+  "options": ["Whether Hitler escaped from Berlin", "Whether Nazi criminals lived in Argentina", "Whether Hitler shot himself, took poison, or did both", "Whether Berlin was surrounded in April 1945"],
+  "options_ru": ["Сбежал ли Гитлер из Берлина", "Жили ли нацистские преступники в Аргентине", "Застрелился ли Гитлер, принял ли яд или сделал и то и другое", "Был ли Берлин окружён в апреле 1945 года"],
+  "answer": 2,
+  "explain_ru": "Открытые вопросы касаются того, как он умер, а не того, умер ли он: все надёжные доказательства говорят о его смерти в Берлине."
+ }
+]

@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did Lena go to the village of Kalna?",
+  "q_ru": "Зачем Лена поехала в деревню Кална?",
+  "options": [
+   "To return her grandmother's ring to Vera",
+   "To work as a translator there",
+   "To buy her grandmother's old house",
+   "To study crows in the mountains"
+  ],
+  "options_ru": [
+   "Чтобы вернуть кольцо бабушки Вере",
+   "Чтобы работать там переводчиком",
+   "Чтобы купить старый дом бабушки",
+   "Чтобы изучать ворон в горах"
+  ],
+  "answer": 0,
+  "explain_ru": "В письме бабушка пишет: «This ring... belongs to my sister, Vera... Please take it back to Kalna»."
+ },
+ {
+  "q": "What did Tomas mean about Lena's \"approach to languages\"?",
+  "q_ru": "Что Томас имел в виду, говоря о её «подходе к языкам»?",
+  "options": [
+   "She spoke too fast",
+   "She knew hard words but not everyday phrases",
+   "She didn't want to learn the language",
+   "She only spoke with native speakers"
+  ],
+  "options_ru": [
+   "Она говорила слишком быстро",
+   "Она знала сложные слова, но не простые бытовые фразы",
+   "Она не хотела учить язык",
+   "Она говорила только с носителями"
+  ],
+  "answer": 1,
+  "explain_ru": "«You know difficult words, but you don't know how to ask for bread» — книжные знания без практики."
+ },
+ {
+  "q": "What happened when they crossed the river?",
+  "q_ru": "Что произошло, когда они переходили реку?",
+  "options": [
+   "Tomas fell and hurt his leg",
+   "They lost the ring in the water",
+   "Lena fell in, and Tomas pulled her out",
+   "The crow showed them a bridge"
+  ],
+  "options_ru": [
+   "Томас упал и повредил ногу",
+   "Они потеряли кольцо в воде",
+   "Лена упала в воду, а Томас вытащил её",
+   "Ворона показала им мост"
+  ],
+  "answer": 2,
+  "explain_ru": "Камень сдвинулся, Лена упала в ледяную воду, и «Tomas pulled her out onto the rocks». Пропал только зонтик."
+ },
+ {
+  "q": "What did Lena do for the crow near the hut?",
+  "q_ru": "Что Лена сделала для вороны возле хижины?",
+  "options": [
+   "She gave it some bread",
+   "She sent it away with a stick",
+   "She took it home in her backpack",
+   "She freed its leg from a trap"
+  ],
+  "options_ru": [
+   "Дала ей хлеба",
+   "Прогнала её палкой",
+   "Унесла её домой в рюкзаке",
+   "Освободила её лапу из капкана"
+  ],
+  "answer": 3,
+  "explain_ru": "Нога вороны попала в старый проволочный капкан, и Лена «released the bird» — освободила птицу."
+ },
+ {
+  "q": "Why do people in Kalna call Vera a witch?",
+  "q_ru": "Почему жители Калны называют Веру ведьмой?",
+  "options": [
+   "She makes strange medicine from flowers",
+   "She lives in the forest with wolves",
+   "They think she cursed her sister long ago",
+   "She took the ring from her sister"
+  ],
+  "options_ru": [
+   "Она делает странные лекарства из цветов",
+   "Она живёт в лесу с волками",
+   "Они думают, что она давно прокляла сестру",
+   "Она забрала кольцо у сестры"
+  ],
+  "answer": 2,
+  "explain_ru": "«People in the village decided that I had put a curse on her. That is why they call me a witch.»"
+ },
+ {
+  "q": "What does Lena do at the end of the story?",
+  "q_ru": "Что Лена делает в конце истории?",
+  "options": [
+   "She answers all her emails",
+   "She switches off her phone and stays with Vera",
+   "She goes back to the city with Tomas",
+   "She sells the ring in the village"
+  ],
+  "options_ru": [
+   "Отвечает на все письма",
+   "Выключает телефон и остаётся с Верой",
+   "Возвращается в город с Томасом",
+   "Продаёт кольцо в деревне"
+  ],
+  "answer": 1,
+  "explain_ru": "Увидев сообщение начальника, она «switched off the phone, turned around and went back inside», к Вере."
+ }
+]

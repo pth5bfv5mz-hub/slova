@@ -1,0 +1,1475 @@
+{
+ "id": 35,
+ "level": "B1",
+ "title_en": "The Note in the Pocket",
+ "title_ru": "Записка в кармане",
+ "genre": "Фантастика",
+ "summary_ru": "Учитель французского просыпается на скамейке и обнаруживает, что ни жена, ни сын, ни лучший друг его не помнят, — а в кармане лежит записка, написанная его собственной рукой.",
+ "paragraphs": [
+  {
+   "en": "Felix Moran woke up on a bench in the middle of the old square, with a heavy head and a low grey sky above him. He was wearing his blue shirt and his brown jacket, but he had no idea how he had got there. The last thing he remembered was rain, darkness and a loud noise, like a river shouting. He sat up slowly, and his knees hurt as if he had climbed a mountain during the night.",
+   "ru": "Феликс Моран проснулся на скамейке посреди старой площади с тяжёлой головой, а над ним висело низкое серое небо. На нём были его синяя рубашка и коричневая куртка, но он понятия не имел, как здесь оказался. Последнее, что он помнил, — дождь, темнота и громкий шум, будто кричала река. Он медленно сел, и колени болели так, будто ночью он взбирался на гору.",
+   "s": [
+    [
+     "Felix Moran woke up on a bench in the middle of the old square, with a heavy head and a low grey sky above him.",
+     "Феликс Моран проснулся на скамейке посреди старой площади с тяжёлой головой, а над ним висело низкое серое небо."
+    ],
+    [
+     "He was wearing his blue shirt and his brown jacket, but he had no idea how he had got there.",
+     "На нём были его синяя рубашка и коричневая куртка, но он понятия не имел, как здесь оказался."
+    ],
+    [
+     "The last thing he remembered was rain, darkness and a loud noise, like a river shouting.",
+     "Последнее, что он помнил, — дождь, темнота и громкий шум, будто кричала река."
+    ],
+    [
+     "He sat up slowly, and his knees hurt as if he had climbed a mountain during the night.",
+     "Он медленно сел, и колени болели так, будто ночью он взбирался на гору."
+    ]
+   ]
+  },
+  {
+   "en": "\"Too much wine at Gus's birthday, probably,\" he guessed, although he rarely drank more than one glass. He checked his pockets. His keys and wallet were there, and there was also a folded piece of paper that he did not remember putting in. He decided to read it later. First he wanted to get home, have a hot shower and kiss Iris and their son Alfie, who would both be anxious by now.",
+   "ru": "«Наверное, слишком много вина на дне рождения Гаса», — предположил он, хотя редко пил больше одного бокала. Он проверил карманы. Ключи и бумажник были на месте, а ещё там лежал сложенный листок бумаги, который, как ему казалось, он туда не клал. Он решил прочитать его позже. Сначала он хотел добраться до дома, принять горячий душ и поцеловать Айрис и их сына Альфи, которые, должно быть, уже волновались.",
+   "s": [
+    [
+     "\"Too much wine at Gus's birthday, probably,\" he guessed, although he rarely drank more than one glass.",
+     "«Наверное, слишком много вина на дне рождения Гаса», — предположил он, хотя редко пил больше одного бокала."
+    ],
+    [
+     "He checked his pockets.",
+     "Он проверил карманы."
+    ],
+    [
+     "His keys and wallet were there, and there was also a folded piece of paper that he did not remember putting in.",
+     "Ключи и бумажник были на месте, а ещё там лежал сложенный листок бумаги, который, как ему казалось, он туда не клал."
+    ],
+    [
+     "He decided to read it later.",
+     "Он решил прочитать его позже."
+    ],
+    [
+     "First he wanted to get home, have a hot shower and kiss Iris and their son Alfie, who would both be anxious by now.",
+     "Сначала он хотел добраться до дома, принять горячий душ и поцеловать Айрис и их сына Альфи, которые, должно быть, уже волновались."
+    ]
+   ]
+  },
+  {
+   "en": "But his key would not enter the lock. He tried again, and then the door was opened from the inside by a young man in a dressing gown, who looked at him with evident disgust. \"I live here,\" Felix said. \"This is my flat.\" \"I've lived here for four years,\" the man answered. \"Go away, or I'll call the police.\" Over his shoulder Felix could see the hall, and the furniture was all wrong: a black leather sofa instead of Iris's old green one, and a television where Felix's big map of France had always hung.",
+   "ru": "Но ключ не входил в замок. Он попробовал ещё раз, и тут дверь изнутри открыл молодой человек в халате, который смотрел на него с явным отвращением. «Я здесь живу», — сказал Феликс. «Это моя квартира». «Я живу здесь уже четыре года», — ответил мужчина. «Уходите, или я вызову полицию». Через его плечо Феликс видел прихожую, и мебель была совсем не та: чёрный кожаный диван вместо старого зелёного дивана Айрис и телевизор там, где всегда висела большая карта Франции, принадлежавшая Феликсу.",
+   "s": [
+    [
+     "But his key would not enter the lock.",
+     "Но ключ не входил в замок."
+    ],
+    [
+     "He tried again, and then the door was opened from the inside by a young man in a dressing gown, who looked at him with evident disgust.",
+     "Он попробовал ещё раз, и тут дверь изнутри открыл молодой человек в халате, который смотрел на него с явным отвращением."
+    ],
+    [
+     "\"I live here,\" Felix said.",
+     "«Я здесь живу», — сказал Феликс."
+    ],
+    [
+     "\"This is my flat.\"",
+     "«Это моя квартира»."
+    ],
+    [
+     "\"I've lived here for four years,\" the man answered.",
+     "«Я живу здесь уже четыре года», — ответил мужчина."
+    ],
+    [
+     "\"Go away, or I'll call the police.\"",
+     "«Уходите, или я вызову полицию»."
+    ],
+    [
+     "Over his shoulder Felix could see the hall, and the furniture was all wrong: a black leather sofa instead of Iris's old green one, and a television where Felix's big map of France had always hung.",
+     "Через его плечо Феликс видел прихожую, и мебель была совсем не та: чёрный кожаный диван вместо старого зелёного дивана Айрис и телевизор там, где всегда висела большая карта Франции, принадлежавшая Феликсу."
+    ]
+   ]
+  },
+  {
+   "en": "He walked to the evening school where he had taught French for nine years. His French was his greatest pride; even native speakers sometimes asked him which part of France he came from. But the woman at the desk did not know him. Neither did the director, nor Gus, his best friend, who looked at him with polite, empty eyes. \"I'm sorry,\" Gus said. \"Have we had a meeting before? I'm terrible with faces.\"",
+   "ru": "Он пошёл в вечернюю школу, где девять лет преподавал французский. Его французский был его главной гордостью: даже носители языка иногда спрашивали, из какой части Франции он родом. Но женщина за стойкой его не знала. Не знал его и директор, и Гас, его лучший друг, который смотрел на него вежливыми, пустыми глазами. «Простите», — сказал Гас. «Мы с вами уже встречались? Я ужасно запоминаю лица».",
+   "s": [
+    [
+     "He walked to the evening school where he had taught French for nine years.",
+     "Он пошёл в вечернюю школу, где девять лет преподавал французский."
+    ],
+    [
+     "His French was his greatest pride; even native speakers sometimes asked him which part of France he came from.",
+     "Его французский был его главной гордостью: даже носители языка иногда спрашивали, из какой части Франции он родом."
+    ],
+    [
+     "But the woman at the desk did not know him.",
+     "Но женщина за стойкой его не знала."
+    ],
+    [
+     "Neither did the director, nor Gus, his best friend, who looked at him with polite, empty eyes.",
+     "Не знал его и директор, и Гас, его лучший друг, который смотрел на него вежливыми, пустыми глазами."
+    ],
+    [
+     "\"I'm sorry,\" Gus said.",
+     "«Простите», — сказал Гас."
+    ],
+    [
+     "\"Have we had a meeting before?",
+     "«Мы с вами уже встречались?"
+    ],
+    [
+     "I'm terrible with faces.\"",
+     "Я ужасно запоминаю лица»."
+    ]
+   ]
+  },
+  {
+   "en": "Felix tried to convince him. He talked about their Thursday lunches, about the green umbrella that Gus had borrowed and never returned, about the night their car had broken down and they had walked home in the snow. Gus became embarrassed, then a little frightened, the way people are frightened of a stranger who talks too loudly in a quiet room. \"Look, I think you should leave,\" he said. \"If this is a joke, it isn't funny.\"",
+   "ru": "Феликс попытался его убедить. Он говорил об их обедах по четвергам, о зелёном зонте, который Гас одолжил и так и не вернул, о ночи, когда у них сломалась машина и они шли домой пешком по снегу. Гас смутился, а потом немного испугался — так, как люди пугаются незнакомца, который слишком громко говорит в тихой комнате. «Послушайте, думаю, вам лучше уйти», — сказал он. «Если это шутка, то она не смешная».",
+   "s": [
+    [
+     "Felix tried to convince him.",
+     "Феликс попытался его убедить."
+    ],
+    [
+     "He talked about their Thursday lunches, about the green umbrella that Gus had borrowed and never returned, about the night their car had broken down and they had walked home in the snow.",
+     "Он говорил об их обедах по четвергам, о зелёном зонте, который Гас одолжил и так и не вернул, о ночи, когда у них сломалась машина и они шли домой пешком по снегу."
+    ],
+    [
+     "Gus became embarrassed, then a little frightened, the way people are frightened of a stranger who talks too loudly in a quiet room.",
+     "Гас смутился, а потом немного испугался — так, как люди пугаются незнакомца, который слишком громко говорит в тихой комнате."
+    ],
+    [
+     "\"Look, I think you should leave,\" he said.",
+     "«Послушайте, думаю, вам лучше уйти», — сказал он."
+    ],
+    [
+     "\"If this is a joke, it isn't funny.\"",
+     "«Если это шутка, то она не смешная»."
+    ]
+   ]
+  },
+  {
+   "en": "At the bank his card was refused. \"This card isn't valid, sir,\" the cashier said. \"There's no account with this number, and we have no customer with your name.\" Felix felt a wave of frustration so strong that he wanted to shout. Instead, he sat down on the steps outside and finally took the paper out of his pocket.",
+   "ru": "В банке его карту отклонили. «Эта карта недействительна, сэр», — сказал кассир. «Счёта с таким номером нет, и клиента с вашим именем у нас тоже нет». Феликса накрыла такая сильная волна отчаяния и разочарования, что ему захотелось закричать. Вместо этого он сел на ступеньки у входа и наконец достал листок из кармана.",
+   "s": [
+    [
+     "At the bank his card was refused.",
+     "В банке его карту отклонили."
+    ],
+    [
+     "\"This card isn't valid, sir,\" the cashier said.",
+     "«Эта карта недействительна, сэр», — сказал кассир."
+    ],
+    [
+     "\"There's no account with this number, and we have no customer with your name.\"",
+     "«Счёта с таким номером нет, и клиента с вашим именем у нас тоже нет»."
+    ],
+    [
+     "Felix felt a wave of frustration so strong that he wanted to shout.",
+     "Феликса накрыла такая сильная волна отчаяния и разочарования, что ему захотелось закричать."
+    ],
+    [
+     "Instead, he sat down on the steps outside and finally took the paper out of his pocket.",
+     "Вместо этого он сел на ступеньки у входа и наконец достал листок из кармана."
+    ]
+   ]
+  },
+  {
+   "en": "It was his own handwriting: the small, careful letters of a man who corrected other people's mistakes for a living. \"Felix, don't panic,\" the note began. \"You won't remember writing this, but trust me, because I am you. Nobody will know you today. This is not a mistake. Go to the pharmacy on Kell Street and ask for Mrs Quill. Be patient, and whatever she tells you, don't be rude to her.\"",
+   "ru": "Это был его собственный почерк — мелкие аккуратные буквы человека, который зарабатывает на жизнь, исправляя чужие ошибки. «Феликс, не паникуй», — так начиналась записка. «Ты не вспомнишь, как писал это, но доверься мне, потому что я — это ты. Сегодня тебя никто не узнает. Это не ошибка. Иди в аптеку на Келл-стрит и спроси миссис Квилл. Наберись терпения и, что бы она тебе ни сказала, не груби ей».",
+   "s": [
+    [
+     "It was his own handwriting: the small, careful letters of a man who corrected other people's mistakes for a living.",
+     "Это был его собственный почерк — мелкие аккуратные буквы человека, который зарабатывает на жизнь, исправляя чужие ошибки."
+    ],
+    [
+     "\"Felix, don't panic,\" the note began.",
+     "«Феликс, не паникуй», — так начиналась записка."
+    ],
+    [
+     "\"You won't remember writing this, but trust me, because I am you.",
+     "«Ты не вспомнишь, как писал это, но доверься мне, потому что я — это ты."
+    ],
+    [
+     "Nobody will know you today.",
+     "Сегодня тебя никто не узнает."
+    ],
+    [
+     "This is not a mistake.",
+     "Это не ошибка."
+    ],
+    [
+     "Go to the pharmacy on Kell Street and ask for Mrs Quill.",
+     "Иди в аптеку на Келл-стрит и спроси миссис Квилл."
+    ],
+    [
+     "Be patient, and whatever she tells you, don't be rude to her.\"",
+     "Наберись терпения и, что бы она тебе ни сказала, не груби ей»."
+    ]
+   ]
+  },
+  {
+   "en": "Felix read the note four times. Then he walked, because it was the only thing he could do. The town looked exactly as it had always looked: the same grey rocks along the river, the same church, the same shadows under the old bridge. That was the cruel part. Nothing had changed at all; only he had been removed from the picture.",
+   "ru": "Феликс прочитал записку четыре раза. Потом он пошёл пешком, потому что больше ничего не мог сделать. Город выглядел точно так же, как всегда: те же серые камни вдоль реки, та же церковь, те же тени под старым мостом. Это и было самым жестоким. Ничего совсем не изменилось — только его самого убрали с картины.",
+   "s": [
+    [
+     "Felix read the note four times.",
+     "Феликс прочитал записку четыре раза."
+    ],
+    [
+     "Then he walked, because it was the only thing he could do.",
+     "Потом он пошёл пешком, потому что больше ничего не мог сделать."
+    ],
+    [
+     "The town looked exactly as it had always looked: the same grey rocks along the river, the same church, the same shadows under the old bridge.",
+     "Город выглядел точно так же, как всегда: те же серые камни вдоль реки, та же церковь, те же тени под старым мостом."
+    ],
+    [
+     "That was the cruel part.",
+     "Это и было самым жестоким."
+    ],
+    [
+     "Nothing had changed at all; only he had been removed from the picture.",
+     "Ничего совсем не изменилось — только его самого убрали с картины."
+    ]
+   ]
+  },
+  {
+   "en": "The pharmacy was small and old-fashioned, with wooden shelves and a smell of soap and dry herbs. When Felix entered, a bell rang above the door, and a tiny woman with white hair looked up from behind the counter. For a moment she said nothing. Then she smiled sadly. \"So you came,\" she said. \"Good morning, Felix.\"",
+   "ru": "Аптека была маленькой и старомодной, с деревянными полками и запахом мыла и сухих трав. Когда Феликс вошёл, над дверью зазвенел колокольчик, и крошечная седая женщина подняла глаза из-за прилавка. Мгновение она молчала. Потом грустно улыбнулась. «Значит, ты пришёл», — сказала она. «Доброе утро, Феликс».",
+   "s": [
+    [
+     "The pharmacy was small and old-fashioned, with wooden shelves and a smell of soap and dry herbs.",
+     "Аптека была маленькой и старомодной, с деревянными полками и запахом мыла и сухих трав."
+    ],
+    [
+     "When Felix entered, a bell rang above the door, and a tiny woman with white hair looked up from behind the counter.",
+     "Когда Феликс вошёл, над дверью зазвенел колокольчик, и крошечная седая женщина подняла глаза из-за прилавка."
+    ],
+    [
+     "For a moment she said nothing.",
+     "Мгновение она молчала."
+    ],
+    [
+     "Then she smiled sadly.",
+     "Потом грустно улыбнулась."
+    ],
+    [
+     "\"So you came,\" she said.",
+     "«Значит, ты пришёл», — сказала она."
+    ],
+    [
+     "\"Good morning, Felix.\"",
+     "«Доброе утро, Феликс»."
+    ]
+   ]
+  },
+  {
+   "en": "He almost cried with relief. \"You know me! Everyone else has forgotten me: my friends, my bank, my own home. Is it some kind of illness? Have I hit my head?\" \"Sit down,\" Mrs Quill said, and she pulled out a chair for him. \"You are perfectly healthy. I'll tell you the truth, but you must listen with patience, because the truth is rather unusual.\"",
+   "ru": "Он чуть не заплакал от облегчения. «Вы меня знаете! Все остальные меня забыли: друзья, банк, мой собственный дом. Это какая-то болезнь? Я ударился головой?» «Садись», — сказала миссис Квилл и выдвинула для него стул. «Ты совершенно здоров. Я расскажу тебе правду, но слушай с терпением, потому что правда довольно необычная».",
+   "s": [
+    [
+     "He almost cried with relief.",
+     "Он чуть не заплакал от облегчения."
+    ],
+    [
+     "\"You know me!",
+     "«Вы меня знаете!"
+    ],
+    [
+     "Everyone else has forgotten me: my friends, my bank, my own home.",
+     "Все остальные меня забыли: друзья, банк, мой собственный дом."
+    ],
+    [
+     "Is it some kind of illness?",
+     "Это какая-то болезнь?"
+    ],
+    [
+     "Have I hit my head?\"",
+     "Я ударился головой?»"
+    ],
+    [
+     "\"Sit down,\" Mrs Quill said, and she pulled out a chair for him.",
+     "«Садись», — сказала миссис Квилл и выдвинула для него стул."
+    ],
+    [
+     "\"You are perfectly healthy.",
+     "«Ты совершенно здоров."
+    ],
+    [
+     "I'll tell you the truth, but you must listen with patience, because the truth is rather unusual.\"",
+     "Я расскажу тебе правду, но слушай с терпением, потому что правда довольно необычная»."
+    ]
+   ]
+  },
+  {
+   "en": "She made him a cup of strong tea and waited until he had drunk half of it. \"Do you remember the river last night?\" she asked. Felix shook his head. \"There was a storm. A little boy was playing on the rocks near the old mill, and he slipped and fell in. The water was high and fast, and he was going to drown. You were the only person who saw it happen.\"",
+   "ru": "Она заварила ему чашку крепкого чая и подождала, пока он выпьет половину. «Ты помнишь реку прошлой ночью?» — спросила она. Феликс покачал головой. «Была буря. Маленький мальчик играл на камнях у старой мельницы, поскользнулся и упал в воду. Вода была высокой и быстрой, и он должен был утонуть. Ты был единственным, кто это видел».",
+   "s": [
+    [
+     "She made him a cup of strong tea and waited until he had drunk half of it.",
+     "Она заварила ему чашку крепкого чая и подождала, пока он выпьет половину."
+    ],
+    [
+     "\"Do you remember the river last night?\" she asked.",
+     "«Ты помнишь реку прошлой ночью?» — спросила она."
+    ],
+    [
+     "Felix shook his head.",
+     "Феликс покачал головой."
+    ],
+    [
+     "\"There was a storm.",
+     "«Была буря."
+    ],
+    [
+     "A little boy was playing on the rocks near the old mill, and he slipped and fell in.",
+     "Маленький мальчик играл на камнях у старой мельницы, поскользнулся и упал в воду."
+    ],
+    [
+     "The water was high and fast, and he was going to drown.",
+     "Вода была высокой и быстрой, и он должен был утонуть."
+    ],
+    [
+     "You were the only person who saw it happen.\"",
+     "Ты был единственным, кто это видел»."
+    ]
+   ]
+  },
+  {
+   "en": "A cold feeling began to climb up Felix's back. \"What boy?\" he asked, although he already knew. \"Alfie,\" she said softly. \"He had gone out to look for you, because you were late. You jumped in after him, but the river was stronger than both of you. You held on to a rock with one hand and to your son with the other, and you called for help. And something answered.\"",
+   "ru": "По спине Феликса пополз холод. «Какой мальчик?» — спросил он, хотя уже знал ответ. «Альфи», — тихо сказала она. «Он вышел искать тебя, потому что ты задерживался. Ты прыгнул за ним, но река была сильнее вас обоих. Одной рукой ты держался за камень, другой — за сына и звал на помощь. И что-то ответило».",
+   "s": [
+    [
+     "A cold feeling began to climb up Felix's back.",
+     "По спине Феликса пополз холод."
+    ],
+    [
+     "\"What boy?\" he asked, although he already knew.",
+     "«Какой мальчик?» — спросил он, хотя уже знал ответ."
+    ],
+    [
+     "\"Alfie,\" she said softly.",
+     "«Альфи», — тихо сказала она."
+    ],
+    [
+     "\"He had gone out to look for you, because you were late.",
+     "«Он вышел искать тебя, потому что ты задерживался."
+    ],
+    [
+     "You jumped in after him, but the river was stronger than both of you.",
+     "Ты прыгнул за ним, но река была сильнее вас обоих."
+    ],
+    [
+     "You held on to a rock with one hand and to your son with the other, and you called for help.",
+     "Одной рукой ты держался за камень, другой — за сына и звал на помощь."
+    ],
+    [
+     "And something answered.\"",
+     "И что-то ответило»."
+    ]
+   ]
+  },
+  {
+   "en": "She did not say who or what it was. Her eyes went to the window, to the dark clouds over the water. \"It offered you a deal,\" she went on. \"The boy would live. In exchange, the world would forget you: every person, every document, every computer. It would be as if you had never been born. You said yes before it had even finished speaking.\"",
+   "ru": "Она не сказала, кто или что это было. Её взгляд ушёл к окну, к тёмным тучам над водой. «Оно предложило тебе сделку», — продолжила она. «Мальчик будет жить. Взамен мир забудет тебя: каждый человек, каждый документ, каждый компьютер. Как будто ты никогда не рождался. Ты сказал «да» ещё до того, как оно договорило».",
+   "s": [
+    [
+     "She did not say who or what it was.",
+     "Она не сказала, кто или что это было."
+    ],
+    [
+     "Her eyes went to the window, to the dark clouds over the water.",
+     "Её взгляд ушёл к окну, к тёмным тучам над водой."
+    ],
+    [
+     "\"It offered you a deal,\" she went on.",
+     "«Оно предложило тебе сделку», — продолжила она."
+    ],
+    [
+     "\"The boy would live.",
+     "«Мальчик будет жить."
+    ],
+    [
+     "In exchange, the world would forget you: every person, every document, every computer.",
+     "Взамен мир забудет тебя: каждый человек, каждый документ, каждый компьютер."
+    ],
+    [
+     "It would be as if you had never been born.",
+     "Как будто ты никогда не рождался."
+    ],
+    [
+     "You said yes before it had even finished speaking.\"",
+     "Ты сказал «да» ещё до того, как оно договорило»."
+    ]
+   ]
+  },
+  {
+   "en": "Felix stared at her. It was incredible, impossible, and yet everything that had happened that morning was consistent with her story. \"Is he alive?\" he whispered. \"He is alive and safe. He has a cold, and his mother is making him soup.\" \"And why do you remember me, when nobody else does?\"",
+   "ru": "Феликс уставился на неё. Это было невероятно, невозможно, и всё же всё, что случилось этим утром, полностью согласовывалось с её рассказом. «Он жив?» — прошептал он. «Жив и в безопасности. У него простуда, и мама варит ему суп». «А почему вы меня помните, если больше никто не помнит?»",
+   "s": [
+    [
+     "Felix stared at her.",
+     "Феликс уставился на неё."
+    ],
+    [
+     "It was incredible, impossible, and yet everything that had happened that morning was consistent with her story.",
+     "Это было невероятно, невозможно, и всё же всё, что случилось этим утром, полностью согласовывалось с её рассказом."
+    ],
+    [
+     "\"Is he alive?\" he whispered.",
+     "«Он жив?» — прошептал он."
+    ],
+    [
+     "\"He is alive and safe.",
+     "«Жив и в безопасности."
+    ],
+    [
+     "He has a cold, and his mother is making him soup.\"",
+     "У него простуда, и мама варит ему суп»."
+    ],
+    [
+     "\"And why do you remember me, when nobody else does?\"",
+     "«А почему вы меня помните, если больше никто не помнит?»"
+    ]
+   ]
+  },
+  {
+   "en": "\"Because the same thing happened to me forty-one years ago,\" Mrs Quill said. \"A fire, and a daughter who was trapped inside. People like us are outside the world's memory, so it cannot make us forget each other. You came here at midnight, wet to the knees and shaking, and asked for my advice. I told you to write a note to yourself, because I knew you would wake up with nothing.\"",
+   "ru": "«Потому что то же самое случилось со мной сорок один год назад», — сказала миссис Квилл. «Пожар и дочь, которая оказалась в ловушке внутри. Такие, как мы, находятся вне памяти мира, поэтому он не может заставить нас забыть друг друга. Ты пришёл сюда в полночь, промокший до колен и дрожащий, и попросил у меня совета. Я посоветовала тебе написать себе записку, потому что знала: ты проснёшься ни с чем».",
+   "s": [
+    [
+     "\"Because the same thing happened to me forty-one years ago,\" Mrs Quill said.",
+     "«Потому что то же самое случилось со мной сорок один год назад», — сказала миссис Квилл."
+    ],
+    [
+     "\"A fire, and a daughter who was trapped inside.",
+     "«Пожар и дочь, которая оказалась в ловушке внутри."
+    ],
+    [
+     "People like us are outside the world's memory, so it cannot make us forget each other.",
+     "Такие, как мы, находятся вне памяти мира, поэтому он не может заставить нас забыть друг друга."
+    ],
+    [
+     "You came here at midnight, wet to the knees and shaking, and asked for my advice.",
+     "Ты пришёл сюда в полночь, промокший до колен и дрожащий, и попросил у меня совета."
+    ],
+    [
+     "I told you to write a note to yourself, because I knew you would wake up with nothing.\"",
+     "Я посоветовала тебе написать себе записку, потому что знала: ты проснёшься ни с чем»."
+    ]
+   ]
+  },
+  {
+   "en": "Felix put his face in his hands. He thought about the last few months: his boredom, his bad temper, the way he had compared his small life with the exciting lives of other people. He had always wanted a perfect life, and he had not noticed that he already had a good one. A week ago he had told Iris that their life was dull and that he wanted something different. It had been a cruel thing to say, and he had seen the hurt in her eyes. \"Is this a punishment?\" he asked. \"Am I being punished for my behaviour?\"",
+   "ru": "Феликс закрыл лицо руками. Он думал о последних месяцах: о своей скуке, о плохом настроении, о том, как сравнивал свою маленькую жизнь с яркой жизнью других людей. Он всегда хотел идеальной жизни и не замечал, что у него уже есть хорошая. Неделю назад он сказал Айрис, что их жизнь скучна и что ему хочется чего-то другого. Это были жестокие слова, и он видел боль в её глазах. «Это наказание?» — спросил он. «Меня наказывают за моё поведение?»",
+   "s": [
+    [
+     "Felix put his face in his hands.",
+     "Феликс закрыл лицо руками."
+    ],
+    [
+     "He thought about the last few months: his boredom, his bad temper, the way he had compared his small life with the exciting lives of other people.",
+     "Он думал о последних месяцах: о своей скуке, о плохом настроении, о том, как сравнивал свою маленькую жизнь с яркой жизнью других людей."
+    ],
+    [
+     "He had always wanted a perfect life, and he had not noticed that he already had a good one.",
+     "Он всегда хотел идеальной жизни и не замечал, что у него уже есть хорошая."
+    ],
+    [
+     "A week ago he had told Iris that their life was dull and that he wanted something different.",
+     "Неделю назад он сказал Айрис, что их жизнь скучна и что ему хочется чего-то другого."
+    ],
+    [
+     "It had been a cruel thing to say, and he had seen the hurt in her eyes.",
+     "Это были жестокие слова, и он видел боль в её глазах."
+    ],
+    [
+     "\"Is this a punishment?\" he asked.",
+     "«Это наказание?» — спросил он."
+    ],
+    [
+     "\"Am I being punished for my behaviour?\"",
+     "«Меня наказывают за моё поведение?»"
+    ]
+   ]
+  },
+  {
+   "en": "\"Nobody is punishing you,\" she said. \"The river has no opinion about your behaviour. But I will give you the only piece of knowledge I have, and it is worth more than every medicine on these shelves. The world can forget you. It cannot stop you from being known again.\"",
+   "ru": "«Никто тебя не наказывает», — сказала она. «У реки нет никакого мнения о твоём поведении. Но я поделюсь с тобой единственным знанием, которое у меня есть, и оно ценнее всех лекарств на этих полках. Мир может тебя забыть. Но он не может помешать тому, чтобы тебя узнали заново».",
+   "s": [
+    [
+     "\"Nobody is punishing you,\" she said.",
+     "«Никто тебя не наказывает», — сказала она."
+    ],
+    [
+     "\"The river has no opinion about your behaviour.",
+     "«У реки нет никакого мнения о твоём поведении."
+    ],
+    [
+     "But I will give you the only piece of knowledge I have, and it is worth more than every medicine on these shelves.",
+     "Но я поделюсь с тобой единственным знанием, которое у меня есть, и оно ценнее всех лекарств на этих полках."
+    ],
+    [
+     "The world can forget you.",
+     "Мир может тебя забыть."
+    ],
+    [
+     "It cannot stop you from being known again.\"",
+     "Но он не может помешать тому, чтобы тебя узнали заново»."
+    ]
+   ]
+  },
+  {
+   "en": "She told him how, after the fire, she had moved into the house next to her daughter's. At first she had been just a neighbour, then a babysitter, then a friend. Now her daughter was fifty and called her \"the aunt I never had\". \"It took years,\" Mrs Quill said. \"But love doesn't live only in memory. It lives in the way you treat people every day.\"",
+   "ru": "Она рассказала ему, как после пожара поселилась в доме рядом с домом дочери. Сначала она была просто соседкой, потом няней, потом подругой. Теперь её дочери было пятьдесят, и она называла её «тётей, которой у меня никогда не было». «На это ушли годы», — сказала миссис Квилл. «Но любовь живёт не только в памяти. Она живёт в том, как ты относишься к людям каждый день».",
+   "s": [
+    [
+     "She told him how, after the fire, she had moved into the house next to her daughter's.",
+     "Она рассказала ему, как после пожара поселилась в доме рядом с домом дочери."
+    ],
+    [
+     "At first she had been just a neighbour, then a babysitter, then a friend.",
+     "Сначала она была просто соседкой, потом няней, потом подругой."
+    ],
+    [
+     "Now her daughter was fifty and called her \"the aunt I never had\".",
+     "Теперь её дочери было пятьдесят, и она называла её «тётей, которой у меня никогда не было»."
+    ],
+    [
+     "\"It took years,\" Mrs Quill said.",
+     "«На это ушли годы», — сказала миссис Квилл."
+    ],
+    [
+     "\"But love doesn't live only in memory.",
+     "«Но любовь живёт не только в памяти."
+    ],
+    [
+     "It lives in the way you treat people every day.\"",
+     "Она живёт в том, как ты относишься к людям каждый день»."
+    ]
+   ]
+  },
+  {
+   "en": "After their long talk, she became practical. There was a small room above the pharmacy that he could use, and she needed someone to deliver medicine to old people who could not go out. \"The pharmacy is also open at night for emergencies,\" she added, \"so you'll have to get used to a bell ringing at three in the morning.\" Then she gave him one more piece of news. \"Without you, Iris never moved into that flat. She lives in her mother's old house on Mill Lane.\"",
+   "ru": "После их долгого разговора она перешла к практическим делам. Над аптекой была маленькая комнатка, которой он мог пользоваться, а ей нужен был человек, чтобы разносить лекарства старикам, которые не могли выходить из дома. «Аптека ещё и открыта ночью для экстренных случаев, — добавила она, — так что тебе придётся привыкнуть к звонку в три часа ночи». Потом она сообщила ему ещё одну новость. «Без тебя Айрис так и не переехала в ту квартиру. Она живёт в старом доме своей матери на Милл-лейн».",
+   "s": [
+    [
+     "After their long talk, she became practical.",
+     "После их долгого разговора она перешла к практическим делам."
+    ],
+    [
+     "There was a small room above the pharmacy that he could use, and she needed someone to deliver medicine to old people who could not go out.",
+     "Над аптекой была маленькая комнатка, которой он мог пользоваться, а ей нужен был человек, чтобы разносить лекарства старикам, которые не могли выходить из дома."
+    ],
+    [
+     "\"The pharmacy is also open at night for emergencies,\" she added, \"so you'll have to get used to a bell ringing at three in the morning.\"",
+     "«Аптека ещё и открыта ночью для экстренных случаев, — добавила она, — так что тебе придётся привыкнуть к звонку в три часа ночи»."
+    ],
+    [
+     "Then she gave him one more piece of news.",
+     "Потом она сообщила ему ещё одну новость."
+    ],
+    [
+     "\"Without you, Iris never moved into that flat.",
+     "«Без тебя Айрис так и не переехала в ту квартиру."
+    ],
+    [
+     "She lives in her mother's old house on Mill Lane.\"",
+     "Она живёт в старом доме своей матери на Милл-лейн»."
+    ]
+   ]
+  },
+  {
+   "en": "That evening he stood across the road from the house on Mill Lane and watched the bright kitchen window. Iris was putting plates on the table, and Alfie, with a red nose and a blanket around his shoulders, was telling her something that made her laugh. It was the most lovely sight he had ever seen, and the most painful. He missed them so badly that it felt like a heavy stone in his chest, and they were only twenty metres away. He wanted to knock on the door, but he knew that a strange man crying on the doorstep would only frighten them and do harm. So he turned and walked back to his little room.",
+   "ru": "В тот вечер он стоял через дорогу от дома на Милл-лейн и смотрел на светлое окно кухни. Айрис ставила тарелки на стол, а Альфи, с красным носом и одеялом на плечах, рассказывал ей что-то, от чего она смеялась. Это было самое прекрасное зрелище, которое он когда-либо видел, и самое болезненное. Он так сильно скучал по ним, что это было похоже на тяжёлый камень в груди, а ведь они были всего в двадцати метрах. Ему хотелось постучать в дверь, но он знал, что незнакомый мужчина, плачущий на пороге, лишь напугает их и причинит вред. Поэтому он развернулся и пошёл обратно в свою комнатку.",
+   "s": [
+    [
+     "That evening he stood across the road from the house on Mill Lane and watched the bright kitchen window.",
+     "В тот вечер он стоял через дорогу от дома на Милл-лейн и смотрел на светлое окно кухни."
+    ],
+    [
+     "Iris was putting plates on the table, and Alfie, with a red nose and a blanket around his shoulders, was telling her something that made her laugh.",
+     "Айрис ставила тарелки на стол, а Альфи, с красным носом и одеялом на плечах, рассказывал ей что-то, от чего она смеялась."
+    ],
+    [
+     "It was the most lovely sight he had ever seen, and the most painful.",
+     "Это было самое прекрасное зрелище, которое он когда-либо видел, и самое болезненное."
+    ],
+    [
+     "He missed them so badly that it felt like a heavy stone in his chest, and they were only twenty metres away.",
+     "Он так сильно скучал по ним, что это было похоже на тяжёлый камень в груди, а ведь они были всего в двадцати метрах."
+    ],
+    [
+     "He wanted to knock on the door, but he knew that a strange man crying on the doorstep would only frighten them and do harm.",
+     "Ему хотелось постучать в дверь, но он знал, что незнакомый мужчина, плачущий на пороге, лишь напугает их и причинит вред."
+    ],
+    [
+     "So he turned and walked back to his little room.",
+     "Поэтому он развернулся и пошёл обратно в свою комнатку."
+    ]
+   ]
+  },
+  {
+   "en": "The weeks that followed were the hardest of his life. He delivered medicine all over town with a map in his hand, as if Wrenford were a foreign city. He felt vulnerable all the time, like a man without skin. At night he often lay awake and wondered what the purpose of his life was now, if nobody he loved even knew his name.",
+   "ru": "Последовавшие недели были самыми тяжёлыми в его жизни. Он разносил лекарства по всему городу с картой в руке, словно Ренфорд был чужим городом. Он всё время чувствовал себя уязвимым, как человек без кожи. Ночами он часто лежал без сна и думал о том, в чём теперь цель его жизни, если никто из тех, кого он любит, даже не знает его имени.",
+   "s": [
+    [
+     "The weeks that followed were the hardest of his life.",
+     "Последовавшие недели были самыми тяжёлыми в его жизни."
+    ],
+    [
+     "He delivered medicine all over town with a map in his hand, as if Wrenford were a foreign city.",
+     "Он разносил лекарства по всему городу с картой в руке, словно Ренфорд был чужим городом."
+    ],
+    [
+     "He felt vulnerable all the time, like a man without skin.",
+     "Он всё время чувствовал себя уязвимым, как человек без кожи."
+    ],
+    [
+     "At night he often lay awake and wondered what the purpose of his life was now, if nobody he loved even knew his name.",
+     "Ночами он часто лежал без сна и думал о том, в чём теперь цель его жизни, если никто из тех, кого он любит, даже не знает его имени."
+    ]
+   ]
+  },
+  {
+   "en": "Then, one rainy Tuesday, Iris came into the pharmacy to buy cough medicine for Alfie. Felix served her, and his hands were shaking so much that he dropped the bottle. She did not like him at first sight; she told him later that she had thought he stared too much. But she came back the next week, and the week after that. He was always honest with her, at least about everything he could be honest about.",
+   "ru": "Потом, в один дождливый вторник, Айрис зашла в аптеку купить Альфи лекарство от кашля. Феликс обслуживал её, и руки у него так дрожали, что он уронил бутылочку. С первого взгляда он ей не понравился: позже она призналась ему, что ей показалось, будто он слишком пристально смотрит. Но через неделю она пришла снова, а потом ещё через неделю. Он всегда был с ней честен — по крайней мере во всём, в чём мог быть честным.",
+   "s": [
+    [
+     "Then, one rainy Tuesday, Iris came into the pharmacy to buy cough medicine for Alfie.",
+     "Потом, в один дождливый вторник, Айрис зашла в аптеку купить Альфи лекарство от кашля."
+    ],
+    [
+     "Felix served her, and his hands were shaking so much that he dropped the bottle.",
+     "Феликс обслуживал её, и руки у него так дрожали, что он уронил бутылочку."
+    ],
+    [
+     "She did not like him at first sight; she told him later that she had thought he stared too much.",
+     "С первого взгляда он ей не понравился: позже она призналась ему, что ей показалось, будто он слишком пристально смотрит."
+    ],
+    [
+     "But she came back the next week, and the week after that.",
+     "Но через неделю она пришла снова, а потом ещё через неделю."
+    ],
+    [
+     "He was always honest with her, at least about everything he could be honest about.",
+     "Он всегда был с ней честен — по крайней мере во всём, в чём мог быть честным."
+    ]
+   ]
+  },
+  {
+   "en": "One day she mentioned that Alfie was having trouble with French at school. \"I used to teach it,\" Felix said, trying to sound casual. \"If you like, I could help him.\" So twice a week he sat at the kitchen table on Mill Lane and taught his own son the verbs he had already taught him once before. Alfie laughed at the same silly jokes, and by Christmas his teacher had written in his book that his French was excellent.",
+   "ru": "Однажды она упомянула, что у Альфи проблемы с французским в школе. «Я когда-то его преподавал», — сказал Феликс, стараясь говорить небрежно. «Если хотите, я мог бы ему помочь». И вот дважды в неделю он сидел за кухонным столом на Милл-лейн и учил собственного сына глаголам, которым однажды уже его научил. Альфи смеялся над теми же глупыми шутками, а к Рождеству учительница написала в его тетради, что его французский превосходен.",
+   "s": [
+    [
+     "One day she mentioned that Alfie was having trouble with French at school.",
+     "Однажды она упомянула, что у Альфи проблемы с французским в школе."
+    ],
+    [
+     "\"I used to teach it,\" Felix said, trying to sound casual.",
+     "«Я когда-то его преподавал», — сказал Феликс, стараясь говорить небрежно."
+    ],
+    [
+     "\"If you like, I could help him.\"",
+     "«Если хотите, я мог бы ему помочь»."
+    ],
+    [
+     "So twice a week he sat at the kitchen table on Mill Lane and taught his own son the verbs he had already taught him once before.",
+     "И вот дважды в неделю он сидел за кухонным столом на Милл-лейн и учил собственного сына глаголам, которым однажды уже его научил."
+    ],
+    [
+     "Alfie laughed at the same silly jokes, and by Christmas his teacher had written in his book that his French was excellent.",
+     "Альфи смеялся над теми же глупыми шутками, а к Рождеству учительница написала в его тетради, что его французский превосходен."
+    ]
+   ]
+  },
+  {
+   "en": "One night in December, Iris walked him to the door. The sky was clear and full of stars. \"Can I tell you something strange?\" she said in a low voice, looking embarrassed. \"When you laugh, you remind me of someone. I don't know who. Someone I miss, although I'm sure I've never met him.\"",
+   "ru": "Однажды декабрьским вечером Айрис проводила его до двери. Небо было ясным и полным звёзд. «Можно я скажу вам кое-что странное?» — сказала она тихим голосом, смущённо. «Когда вы смеётесь, вы напоминаете мне кого-то. Не знаю кого. Кого-то, по кому я скучаю, хотя я уверена, что никогда его не встречала».",
+   "s": [
+    [
+     "One night in December, Iris walked him to the door.",
+     "Однажды декабрьским вечером Айрис проводила его до двери."
+    ],
+    [
+     "The sky was clear and full of stars.",
+     "Небо было ясным и полным звёзд."
+    ],
+    [
+     "\"Can I tell you something strange?\" she said in a low voice, looking embarrassed.",
+     "«Можно я скажу вам кое-что странное?» — сказала она тихим голосом, смущённо."
+    ],
+    [
+     "\"When you laugh, you remind me of someone.",
+     "«Когда вы смеётесь, вы напоминаете мне кого-то."
+    ],
+    [
+     "I don't know who.",
+     "Не знаю кого."
+    ],
+    [
+     "Someone I miss, although I'm sure I've never met him.\"",
+     "Кого-то, по кому я скучаю, хотя я уверена, что никогда его не встречала»."
+    ]
+   ]
+  },
+  {
+   "en": "Felix could not speak for a moment. \"Maybe you'll meet him one day,\" he said at last. Iris smiled. \"Come for dinner on Sunday,\" she said. \"Not for a lesson. Just for dinner.\"",
+   "ru": "Феликс на мгновение лишился дара речи. «Может быть, однажды вы его встретите», — сказал он наконец. Айрис улыбнулась. «Приходите на ужин в воскресенье», — сказала она. «Не на урок. Просто на ужин».",
+   "s": [
+    [
+     "Felix could not speak for a moment.",
+     "Феликс на мгновение лишился дара речи."
+    ],
+    [
+     "\"Maybe you'll meet him one day,\" he said at last.",
+     "«Может быть, однажды вы его встретите», — сказал он наконец."
+    ],
+    [
+     "Iris smiled.",
+     "Айрис улыбнулась."
+    ],
+    [
+     "\"Come for dinner on Sunday,\" she said.",
+     "«Приходите на ужин в воскресенье», — сказала она."
+    ],
+    [
+     "\"Not for a lesson.",
+     "«Не на урок."
+    ],
+    [
+     "Just for dinner.\"",
+     "Просто на ужин»."
+    ]
+   ]
+  },
+  {
+   "en": "He walked home along the river, past the black rocks where the water had almost taken everything from him. In his jacket pocket he found the old note, soft now because he had read it so many times. At the very bottom, in tiny letters, there was a line he had never noticed before. \"P.S. It will be worth it.\" Felix smiled, put the note back in his pocket, and walked on into the night.",
+   "ru": "Он шёл домой вдоль реки, мимо чёрных скал, где вода едва не отняла у него всё. В кармане куртки он нашёл старую записку, ставшую мягкой оттого, что он столько раз её перечитывал. В самом низу, крошечными буквами, была строчка, которую он раньше никогда не замечал. «P.S. Оно того будет стоить». Феликс улыбнулся, положил записку обратно в карман и пошёл дальше в ночь.",
+   "s": [
+    [
+     "He walked home along the river, past the black rocks where the water had almost taken everything from him.",
+     "Он шёл домой вдоль реки, мимо чёрных скал, где вода едва не отняла у него всё."
+    ],
+    [
+     "In his jacket pocket he found the old note, soft now because he had read it so many times.",
+     "В кармане куртки он нашёл старую записку, ставшую мягкой оттого, что он столько раз её перечитывал."
+    ],
+    [
+     "At the very bottom, in tiny letters, there was a line he had never noticed before.",
+     "В самом низу, крошечными буквами, была строчка, которую он раньше никогда не замечал."
+    ],
+    [
+     "\"P.S. It will be worth it.\"",
+     "«P.S. Оно того будет стоить»."
+    ],
+    [
+     "Felix smiled, put the note back in his pocket, and walked on into the night.",
+     "Феликс улыбнулся, положил записку обратно в карман и пошёл дальше в ночь."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, об",
+  "above": "над",
+  "account": "счёт",
+  "across": "через, по",
+  "added": "добавил",
+  "advice": "совет",
+  "after": "после",
+  "again": "снова",
+  "ago": "назад",
+  "alfie": "Альфи (имя)",
+  "alive": "живой",
+  "all": "совсем (at all)",
+  "almost": "почти",
+  "along": "вдоль",
+  "already": "уже",
+  "also": "также",
+  "although": "хотя",
+  "always": "всегда",
+  "am": "(есть) — я",
+  "and": "и",
+  "answered": "ответил",
+  "anxious": "тревожный, взволнованный",
+  "are": "(есть) — вы/они",
+  "around": "вокруг, по",
+  "as": "как, так как",
+  "ask": "спросить",
+  "asked": "спросил(а)",
+  "at": "в, у, на",
+  "aunt": "тётя",
+  "awake": "без сна",
+  "away": "прочь",
+  "babysitter": "няня",
+  "back": "назад",
+  "bad": "плохой",
+  "badly": "плохо",
+  "bank": "банк",
+  "be": "быть",
+  "became": "стал",
+  "because": "потому что",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "began": "началась",
+  "behaviour": "поведение",
+  "behind": "за, позади",
+  "being": "быть (being known — быть узнанным)",
+  "bell": "колокольчик",
+  "bench": "скамейка",
+  "best": "лучший",
+  "big": "большой",
+  "birthday": "день рождения",
+  "black": "чёрный",
+  "blanket": "одеяло",
+  "blue": "синий",
+  "book": "тетрадь",
+  "boredom": "скука",
+  "born": "рождённый (was born — родилась)",
+  "borrowed": "одолжил",
+  "both": "оба",
+  "bottle": "пузырёк",
+  "bottom": "низ",
+  "boy": "мальчик",
+  "bridge": "мост",
+  "bright": "яркий",
+  "broken": "разбитый",
+  "brown": "коричневый",
+  "but": "но",
+  "buy": "купить",
+  "by": "у, к, от",
+  "call": "вызвать (call the police)",
+  "called": "называла; звал (called for help)",
+  "came": "пришёл, пришли",
+  "can": "могу, можем",
+  "cannot": "не могут",
+  "car": "машина",
+  "card": "карта (банковская)",
+  "careful": "осторожный, тщательный",
+  "cashier": "кассир",
+  "casual": "повседневный",
+  "chair": "стул, кресло",
+  "changed": "изменились",
+  "checked": "проверил",
+  "chest": "грудь",
+  "christmas": "рождественский",
+  "church": "церковь",
+  "city": "город",
+  "clear": "ясный",
+  "climb": "ползти вверх, подниматься",
+  "climbed": "взбирался",
+  "clouds": "облака",
+  "cold": "холодный; простуда",
+  "come": "прийти; (come from) быть родом из",
+  "compared": "сравнивал",
+  "computer": "компьютер",
+  "consistent": "последовательный",
+  "convince": "убедить",
+  "corrected": "исправленный",
+  "cough": "кашель",
+  "could": "мог(ла)",
+  "counter": "прилавок",
+  "cried": "заплакал (cried with relief)",
+  "cruel": "жестокий",
+  "crying": "плачущий",
+  "cup": "чашка",
+  "customer": "клиент",
+  "dark": "тёмный",
+  "darkness": "темнота",
+  "daughter": "дочь",
+  "daughter's": "дочери (дом дочери)",
+  "day": "день",
+  "deal": "сделка",
+  "december": "декабрь",
+  "decided": "решил",
+  "deliver": "доставлять, разносить",
+  "delivered": "разносил",
+  "desk": "стол",
+  "did": "(вспом. гл.)",
+  "different": "другой, не такой",
+  "dinner": "ужин",
+  "director": "директор",
+  "disgust": "отвращение",
+  "do": "(вспом. гл.)",
+  "document": "документ",
+  "does": "(вспом. гл.)",
+  "doesn't": "не (вспом.)",
+  "don't": "не (повел.)",
+  "door": "дверь",
+  "doorstep": "порог",
+  "down": "вниз",
+  "drank": "пил",
+  "dressing": "(dressing gown) халат",
+  "dropped": "уронил",
+  "drown": "утонуть",
+  "drunk": "выпил",
+  "dry": "сухой",
+  "dull": "скучный",
+  "during": "во время",
+  "each": "друг (each other)",
+  "else": "ещё, другой",
+  "embarrassed": "смущённый",
+  "emergencies": "экстренные случаи",
+  "empty": "пустой",
+  "enter": "входить",
+  "entered": "вошёл",
+  "even": "даже",
+  "evening": "вечер",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "everyone": "все",
+  "everything": "всё",
+  "evident": "очевидный",
+  "exactly": "точно",
+  "excellent": "превосходный",
+  "exchange": "обмен (in exchange — взамен)",
+  "exciting": "захватывающий",
+  "eyes": "глаза",
+  "face": "лицо",
+  "faces": "лица",
+  "fashioned": "(old-fashioned) старомодный",
+  "fast": "быстрый",
+  "feeling": "чувство",
+  "felix": "Феликс (имя)",
+  "felix's": "Феликса",
+  "fell": "упал (fell in — упал в воду)",
+  "felt": "почувствовал; ощущалось",
+  "few": "несколько",
+  "fifty": "пятьдесят",
+  "finally": "наконец",
+  "finished": "закончило, договорило",
+  "fire": "пожар",
+  "first": "первый; сначала",
+  "flat": "квартира",
+  "folded": "сложенный",
+  "followed": "последовали",
+  "for": "для, в течение",
+  "foreign": "иностранный",
+  "forget": "забыть",
+  "forgotten": "забыли",
+  "forty": "сорок",
+  "found": "нашли",
+  "four": "четыре",
+  "france": "Франция",
+  "french": "французский (язык)",
+  "friend": "друг",
+  "friends": "друзья",
+  "frighten": "напугать",
+  "frightened": "испугался, испуганный",
+  "from": "из, от",
+  "frustration": "разочарование",
+  "full": "полный",
+  "funny": "смешной",
+  "furniture": "мебель",
+  "gave": "дал, сообщил",
+  "get": "добраться; (get used to) привыкнуть",
+  "give": "дать",
+  "glass": "бокал",
+  "go": "ехать, идти",
+  "going": "(was going to) должен был",
+  "gone": "(had gone out) вышел",
+  "good": "хороший",
+  "got": "оказался (got there)",
+  "gown": "(dressing gown) халат",
+  "greatest": "главный",
+  "green": "зелёный",
+  "grey": "серый",
+  "guessed": "предположил",
+  "gus": "Гас (имя)",
+  "gus's": "Гаса",
+  "had": "(вспом. гл.); имела",
+  "hair": "волосы",
+  "half": "половина",
+  "hall": "прихожая",
+  "hand": "рука",
+  "hands": "руки",
+  "handwriting": "почерк, рукопись",
+  "happen": "случиться",
+  "happened": "случилось",
+  "hardest": "самый тяжёлый",
+  "harm": "вред",
+  "has": "(вспом. гл.)",
+  "have": "иметь; (вспом.)",
+  "having": "(having trouble) иметь (проблемы)",
+  "he": "он",
+  "head": "голова",
+  "healthy": "здоровый",
+  "heavy": "тяжёлый",
+  "held": "держался",
+  "help": "помочь",
+  "her": "её, ей",
+  "herbs": "травы",
+  "here": "здесь",
+  "high": "высокий, высоко",
+  "him": "его, ему",
+  "his": "его",
+  "hit": "ударился",
+  "home": "домой",
+  "honest": "честный",
+  "hot": "горячий",
+  "house": "дом",
+  "how": "как",
+  "hung": "висела",
+  "hurt": "болели; боль, обида",
+  "i": "я",
+  "i'll": "я (буду)",
+  "i'm": "я (есть)",
+  "i've": "я (уже)",
+  "idea": "идея",
+  "if": "если, ли",
+  "illness": "болезнь",
+  "impossible": "невозможный",
+  "in": "в",
+  "incredible": "невероятный",
+  "inside": "внутри",
+  "instead": "вместо этого",
+  "into": "в",
+  "iris": "Айрис (имя)",
+  "iris's": "Айрис (принадлежащий)",
+  "is": "есть, является",
+  "isn't": "не (есть)",
+  "it": "он, оно, это",
+  "jacket": "куртка",
+  "joke": "шутка",
+  "jokes": "шутки",
+  "jumped": "прыгнул",
+  "just": "просто",
+  "kell": "Келл (название улицы)",
+  "key": "ключ",
+  "keys": "ключи",
+  "kind": "вид; a kind of — что-то вроде",
+  "kiss": "поцеловать",
+  "kitchen": "кухня",
+  "knees": "колени",
+  "knew": "знал(и)",
+  "knock": "постучать",
+  "know": "знаю",
+  "knowledge": "знание",
+  "known": "узнанный (being known — чтобы тебя узнали)",
+  "lane": "переулок (Mill Lane — название улицы)",
+  "last": "прошлый",
+  "late": "поздно",
+  "later": "позже",
+  "laugh": "смех; смеяться",
+  "laughed": "засмеялся",
+  "lay": "лежал",
+  "least": "наименьший (at least)",
+  "leather": "кожаный",
+  "leave": "уйти",
+  "lesson": "урок",
+  "letters": "буквы",
+  "life": "жизнь",
+  "like": "как; (if you like) если хотите",
+  "line": "строчка",
+  "listen": "слушать",
+  "little": "маленький, немного",
+  "live": "жить",
+  "lived": "живу (I've lived) — жил",
+  "lives": "живёт; жизни",
+  "living": "(for a living) зарабатывать на жизнь",
+  "lock": "замок",
+  "long": "долго, долгий",
+  "look": "смотреть",
+  "looked": "выглядел; посмотрела",
+  "looking": "выглядя",
+  "loud": "громкий",
+  "loudly": "громко",
+  "love": "любовь",
+  "loved": "любит",
+  "lovely": "прекрасный",
+  "low": "низкий",
+  "lunches": "обеды",
+  "made": "заварила; заставило",
+  "make": "заставить",
+  "making": "заваривала",
+  "man": "мужчина",
+  "many": "много",
+  "map": "карта",
+  "maybe": "может быть",
+  "me": "меня, мне",
+  "medicine": "лекарство; медицина",
+  "meet": "встретить",
+  "meeting": "встреча",
+  "memory": "память",
+  "mentioned": "упомянула",
+  "met": "встречала",
+  "metres": "метров",
+  "middle": "середина",
+  "midnight": "полночь",
+  "mill": "мельница",
+  "miss": "скучать",
+  "missed": "скучал",
+  "mistake": "ошибка",
+  "mistakes": "ошибки",
+  "moment": "мгновение",
+  "months": "месяцы",
+  "moran": "Моран (фамилия)",
+  "more": "больше",
+  "morning": "утро",
+  "most": "самый",
+  "mother": "мать",
+  "mother's": "матери",
+  "mountain": "гора",
+  "moved": "переехала, поселилась",
+  "mrs": "миссис",
+  "much": "гораздо",
+  "must": "должны",
+  "my": "мой",
+  "name": "имя",
+  "native": "(native speakers) носители языка",
+  "near": "возле, у",
+  "needed": "был нужен",
+  "neighbour": "сосед",
+  "neither": "ни один",
+  "never": "никогда",
+  "news": "новость",
+  "next": "следующий; рядом",
+  "night": "ночь",
+  "nine": "девять",
+  "no": "нет",
+  "nobody": "никто",
+  "noise": "шум",
+  "nor": "и не",
+  "nose": "нос",
+  "not": "не",
+  "note": "записка",
+  "nothing": "ничего",
+  "noticed": "заметил",
+  "now": "теперь",
+  "number": "номер",
+  "of": "из, о, (род. падеж)",
+  "offered": "предложил",
+  "often": "часто",
+  "old": "старый",
+  "on": "на",
+  "once": "однажды",
+  "one": "один, одна",
+  "only": "только",
+  "open": "открытый",
+  "opened": "открыл",
+  "opinion": "мнение",
+  "or": "или",
+  "other": "другой",
+  "out": "наружу",
+  "outside": "снаружи",
+  "over": "через (плечо); над",
+  "own": "собственный",
+  "p": "(P.S.) постскриптум",
+  "painful": "болезненный",
+  "panic": "паника",
+  "paper": "бумага, бумажный",
+  "part": "часть",
+  "past": "мимо",
+  "patience": "терпение",
+  "patient": "терпеливый",
+  "people": "люди",
+  "people's": "людей",
+  "perfect": "идеальный",
+  "perfectly": "совершенно",
+  "person": "человек",
+  "pharmacy": "аптека",
+  "picture": "картина",
+  "piece": "кусок",
+  "plates": "тарелки",
+  "playing": "играл",
+  "pocket": "карман",
+  "pockets": "карманы",
+  "police": "полиция, полицейский",
+  "polite": "вежливый",
+  "practical": "практичный",
+  "pride": "гордость",
+  "probably": "вероятно",
+  "pulled": "выдвинула (pulled out)",
+  "punished": "наказан",
+  "punishing": "наказывать",
+  "punishment": "наказание",
+  "purpose": "цель (on purpose — нарочно)",
+  "put": "положил; (put his face in his hands) закрыл лицо руками",
+  "putting": "ставила; класть",
+  "quiet": "тихий",
+  "quill": "Квилл (фамилия)",
+  "rain": "дождь",
+  "rainy": "дождливый",
+  "rang": "зазвонил",
+  "rarely": "редко",
+  "rather": "скорее, лучше",
+  "read": "читать, прочитала",
+  "red": "красный",
+  "refused": "отклонена",
+  "relief": "облегчение",
+  "remember": "помню",
+  "remembered": "помнил",
+  "remind": "напомнить",
+  "removed": "убрали",
+  "returned": "вернул",
+  "ringing": "звенеть",
+  "river": "река",
+  "road": "дорога",
+  "rock": "камень, скала",
+  "rocks": "камни, скалы",
+  "room": "комната",
+  "rude": "грубый",
+  "s": "(P.S.) постскриптум",
+  "sadly": "грустно",
+  "safe": "в безопасности",
+  "said": "сказал(а)",
+  "same": "тот же",
+  "sat": "сел; сидел",
+  "saw": "видел",
+  "say": "говорить",
+  "school": "школа",
+  "see": "видеть",
+  "seen": "видел",
+  "served": "обслуживал",
+  "shadows": "тени",
+  "shaking": "дрожали",
+  "she": "она",
+  "shelves": "полки",
+  "shirt": "рубашка",
+  "shook": "покачал",
+  "should": "должен",
+  "shoulder": "плечо",
+  "shoulders": "плечи",
+  "shout": "кричать",
+  "shouting": "кричащий",
+  "shower": "душ",
+  "sight": "взгляд",
+  "silly": "глупый",
+  "sir": "сэр",
+  "sit": "сидеть",
+  "skin": "кожа",
+  "sky": "небо",
+  "slipped": "поскользнулся",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smell": "запах",
+  "smiled": "улыбнулся, улыбнулась",
+  "snow": "снег",
+  "so": "поэтому; так",
+  "soap": "мыло",
+  "sofa": "диван",
+  "soft": "мягкий",
+  "softly": "мягко",
+  "some": "некоторые",
+  "someone": "кто-то",
+  "something": "что-то",
+  "sometimes": "иногда",
+  "son": "сын",
+  "sorry": "простите",
+  "sound": "звучать",
+  "soup": "суп",
+  "speak": "говорить",
+  "speakers": "(native speakers) носители языка",
+  "speaking": "говоривший",
+  "square": "площадь",
+  "stared": "уставился; пристально смотрел",
+  "stars": "звёзды",
+  "steps": "ступеньки",
+  "stone": "камень",
+  "stood": "стоял",
+  "stop": "помешать (stop from)",
+  "storm": "шторм",
+  "story": "история",
+  "strange": "странный",
+  "stranger": "незнакомец",
+  "street": "улица",
+  "strong": "сильный",
+  "stronger": "сильнее",
+  "sunday": "воскресенье",
+  "sure": "уверенный",
+  "table": "стол",
+  "taken": "отнял(а)",
+  "talk": "разговор",
+  "talked": "говорил",
+  "talks": "говорит",
+  "taught": "научил",
+  "tea": "чай",
+  "teach": "научить",
+  "teacher": "учительница",
+  "television": "телевизор",
+  "tell": "сказать",
+  "telling": "рассказывал",
+  "tells": "скажет",
+  "temper": "настроение, нрав",
+  "terrible": "ужасный",
+  "than": "чем",
+  "that": "что; тот, это",
+  "the": "(опр. артикль)",
+  "their": "их, свои",
+  "them": "их",
+  "then": "потом, тогда",
+  "there": "там",
+  "there's": "есть, имеется",
+  "these": "эти",
+  "they": "они",
+  "thing": "вещь",
+  "think": "думаю",
+  "this": "этот",
+  "thought": "думал",
+  "three": "три",
+  "thursday": "четверг",
+  "time": "время, раз",
+  "times": "раз",
+  "tiny": "крошечный",
+  "to": "к, в; (частица)",
+  "today": "сегодня",
+  "told": "сказал(а), рассказал(а)",
+  "too": "слишком",
+  "took": "достал; (it took years) ушли годы",
+  "town": "город",
+  "trapped": "в ловушке",
+  "treat": "обращаться, относиться",
+  "tried": "попытался, попробовал",
+  "trouble": "проблема, трудность",
+  "trust": "доверять",
+  "truth": "правда",
+  "trying": "стараясь",
+  "tuesday": "вторник",
+  "turned": "повернулся",
+  "twenty": "двадцать",
+  "twice": "дважды",
+  "umbrella": "зонт",
+  "under": "под",
+  "until": "до",
+  "unusual": "необычный",
+  "up": "вверх",
+  "us": "нам",
+  "use": "пользоваться",
+  "used": "(used to) раньше, когда-то",
+  "valid": "действительный",
+  "verbs": "глаголы",
+  "very": "очень",
+  "voice": "голос",
+  "vulnerable": "уязвимый",
+  "waited": "ждал",
+  "wake": "проснуться",
+  "walked": "шёл пешком; проводила (walked to the door)",
+  "wallet": "кошелёк",
+  "wanted": "хотел",
+  "was": "был(а)",
+  "watched": "смотрела",
+  "water": "вода",
+  "wave": "волна",
+  "way": "способ, так",
+  "we": "мы",
+  "wearing": "носил, был одет",
+  "week": "неделя",
+  "weeks": "недели",
+  "went": "пошёл; (went on) продолжила; (went to) ушёл к",
+  "were": "были",
+  "wet": "влажный, мокрый",
+  "what": "что",
+  "whatever": "что угодно",
+  "when": "когда",
+  "where": "где",
+  "which": "который, что",
+  "whispered": "прошептала",
+  "white": "белый",
+  "who": "кто, который",
+  "why": "почему",
+  "will": "будет",
+  "window": "окно",
+  "wine": "вино",
+  "with": "с",
+  "without": "без",
+  "woke": "проснулся",
+  "woman": "женщина",
+  "won't": "не (буд. время)",
+  "wondered": "размышлял, думал",
+  "wooden": "деревянный",
+  "world": "мир",
+  "world's": "мира",
+  "worth": "ценность",
+  "would": "бы",
+  "wrenford": "Ренфорд (название города)",
+  "write": "записывать",
+  "writing": "(remember writing) как писал",
+  "written": "написала",
+  "wrong": "неправильно",
+  "years": "лет, годы",
+  "yes": "да",
+  "yet": "ещё, пока",
+  "you": "вы, ты",
+  "you'll": "вам придётся (you will)",
+  "young": "молодой",
+  "your": "ваш",
+  "yourself": "сами"
+ },
+ "vocab": {
+  "go": 85,
+  "gone": 85,
+  "out": 85,
+  "boredom": 424,
+  "pride": 404,
+  "cruel": 88,
+  "rude": 466,
+  "heavy": 389,
+  "night": 188,
+  "advice": 392,
+  "talk": 135,
+  "opinion": 237,
+  "incredible": 203,
+  "worth": 516,
+  "map": 314,
+  "middle": 529,
+  "watched": 14,
+  "shirt": 288,
+  "honest": 331,
+  "miss": 282,
+  "missed": 282,
+  "furniture": 605,
+  "embarrassed": 490,
+  "frustration": 475,
+  "noise": 31,
+  "plates": 375,
+  "jacket": 595,
+  "patience": 408,
+  "loud": 194,
+  "loudly": 194,
+  "sight": 368,
+  "knowledge": 101,
+  "unusual": 266,
+  "guessed": 429,
+  "valid": 560,
+  "away": 40,
+  "punished": 339,
+  "punishing": 339,
+  "rock": 166,
+  "rocks": 166,
+  "evident": 586,
+  "behaviour": 446,
+  "consistent": 498,
+  "knees": 637,
+  "probably": 422,
+  "meeting": 322,
+  "remind": 165,
+  "sky": 187,
+  "lovely": 17,
+  "harm": 610,
+  "shadows": 61,
+  "purpose": 513,
+  "excellent": 430,
+  "compared": 259,
+  "pocket": 355,
+  "pockets": 355,
+  "anxious": 495,
+  "emergencies": 648,
+  "perfect": 26,
+  "rarely": 60,
+  "convince": 628,
+  "low": 294,
+  "pharmacy": 316,
+  "native": 43,
+  "speakers": 43,
+  "vulnerable": 570,
+  "enter": 62,
+  "entered": 62,
+  "climbed": 204,
+  "climb": 204,
+  "disgust": 643,
+  "drown": 143
+ }
+}

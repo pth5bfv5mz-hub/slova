@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What strange things happened in Brindle that winter?",
+  "q_ru": "Какие странные вещи происходили в Бриндле той зимой?",
+  "options": [
+   "The river froze and the mill stopped working.",
+   "A witch came to the village every night.",
+   "A huge animal walked at night, and children got sick.",
+   "All the silver forks disappeared from the doors."
+  ],
+  "options_ru": [
+   "Река замёрзла, и мельница перестала работать.",
+   "Ведьма каждую ночь приходила в деревню.",
+   "По ночам ходил огромный зверь, а дети заболели.",
+   "Все серебряные вилки исчезли с дверей."
+  ],
+  "answer": 2,
+  "explain_ru": "По ночам кто-то огромный ходил по деревне (следы «as big as plates»), а потом «the children began to get sick», в том числе брат Мары Том."
+ },
+ {
+  "q": "Why did Mara go to the witch's house?",
+  "q_ru": "Почему Мара пошла к дому ведьмы?",
+  "options": [
+   "The council talked a lot but decided nothing.",
+   "The council sent her there with money.",
+   "Her grandfather asked her to go.",
+   "She wanted to buy dry plants for tea."
+  ],
+  "options_ru": [
+   "Совет много говорил, но ничего не решил.",
+   "Совет отправил её туда с деньгами.",
+   "Её попросил пойти дедушка.",
+   "Она хотела купить сушёные травы для чая."
+  ],
+  "answer": 0,
+  "explain_ru": "Старики на совете «talked and talked», обвиняли ведьму, но «nobody made a decision». Тревога Мары росла, и она сама пошла в лес."
+ },
+ {
+  "q": "According to Ilsa, who made the curse?",
+  "q_ru": "Кто, по словам Ильзы, создал проклятие?",
+  "options": [
+   "Ilsa's mother, before she died.",
+   "Ilsa herself, to punish the village.",
+   "A wild wolf from the forest.",
+   "The village, out of its own shame."
+  ],
+  "options_ru": [
+   "Мать Ильзы перед смертью.",
+   "Сама Ильза, чтобы наказать деревню.",
+   "Дикий волк из леса.",
+   "Сама деревня — из-за своего стыда."
+  ],
+  "answer": 3,
+  "explain_ru": "Ильза говорит: «I didn't make this curse, child. Your village made it» и объясняет, что проклятие «grows by itself, out of shame»."
+ },
+ {
+  "q": "What did Mara's grandfather do fifty years ago?",
+  "q_ru": "Что сделал дедушка Мары пятьдесят лет назад?",
+  "options": [
+   "He helped Ilsa's mother to escape.",
+   "He threw the first stone at Ilsa's mother.",
+   "He put the first silver fork on the church door.",
+   "He killed a big wolf in the forest."
+  ],
+  "options_ru": [
+   "Он помог матери Ильзы сбежать.",
+   "Он бросил первый камень в мать Ильзы.",
+   "Он повесил первую серебряную вилку на дверь церкви.",
+   "Он убил большого волка в лесу."
+  ],
+  "answer": 1,
+  "explain_ru": "Ильза спокойно говорит: «He threw the first stone». Дед тогда был в совете деревни, которая выгнала целительницу в лес."
+ },
+ {
+  "q": "Ilsa says: \"I can only prolong the time.\" What does \"prolong\" mean here?",
+  "q_ru": "Ильза говорит: «I can only prolong the time». Что здесь значит «prolong»?",
+  "options": [
+   "To stop something forever.",
+   "To make something faster.",
+   "To make something last longer.",
+   "To forget something quickly."
+  ],
+  "options_ru": [
+   "Остановить что-то навсегда.",
+   "Сделать что-то быстрее.",
+   "Сделать так, чтобы что-то длилось дольше.",
+   "Быстро что-то забыть."
+  ],
+  "answer": 2,
+  "explain_ru": "«Prolong» — продлить. Ильза не может убить волка, но её лекарство даст Тому «a few more days»."
+ },
+ {
+  "q": "What happened at the end of the story?",
+  "q_ru": "Что произошло в конце рассказа?",
+  "options": [
+   "The old men went to Ilsa's house and knocked on her door.",
+   "Ilsa left Brindle and never came back.",
+   "The villagers put new silver forks on their doors.",
+   "Mara killed the wolf in the village square."
+  ],
+  "options_ru": [
+   "Старики пошли к дому Ильзы и постучали в её дверь.",
+   "Ильза уехала из Бриндла и больше не вернулась.",
+   "Жители повесили на двери новые серебряные вилки.",
+   "Мара убила волка на деревенской площади."
+  ],
+  "answer": 0,
+  "explain_ru": "После того как Мара обняла волка, вилки сняли со всех дверей, а старики «walked together to the house at the edge of the forest, knocked on the door and waited». Ильза их впустила."
+ }
+]

@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What did the woman in the green raincoat complain about?",
+  "q_ru": "На что пожаловалась женщина в зелёном плаще?",
+  "options": [
+   "The book had pages missing",
+   "The killer in the detective novel had changed",
+   "The library had closed early",
+   "The book was too long"
+  ],
+  "options_ru": [
+   "В книге не хватало страниц",
+   "В детективе сменился убийца",
+   "Библиотека рано закрылась",
+   "Книга была слишком длинной"
+  ],
+  "answer": 1,
+  "explain_ru": "Раньше убийцей был садовник, а теперь им оказалась кухарка."
+ },
+ {
+  "q": "Why did Maya first think Rafi was connected to the changes?",
+  "q_ru": "Почему Майя сначала решила, что изменения связаны с Рафи?",
+  "options": [
+   "He had borrowed all three changed books",
+   "He had written in the books",
+   "He was Mr Abernathy's grandson",
+   "He asked her to change the endings"
+  ],
+  "options_ru": [
+   "Он брал все три изменившиеся книги",
+   "Он писал в книгах",
+   "Он был внуком мистера Абернати",
+   "Он просил её изменить концовки"
+  ],
+  "answer": 0,
+  "explain_ru": "По записям о выдаче все три книги в прошлом месяце брал Рафи. Но ему изменения не нравились."
+ },
+ {
+  "q": "What did Maya see in the reading room at night?",
+  "q_ru": "Что Майя увидела ночью в читальном зале?",
+  "options": [
+   "Mr Abernathy writing in the books",
+   "A ghost of her brother",
+   "Rafi hiding behind the shelves",
+   "Pages turning by themselves and letters forming new words"
+  ],
+  "options_ru": [
+   "Мистера Абернати, который писал в книгах",
+   "Призрак своего брата",
+   "Рафи, прятавшегося за стеллажами",
+   "Страницы, которые переворачивались сами, и буквы, складывавшиеся в новые слова"
+  ],
+  "answer": 3,
+  "explain_ru": "В серебристом свете страницы сказок перевернулись сами, а буквы на последней странице сложились в новую концовку."
+ },
+ {
+  "q": "What did all the changed endings have in common?",
+  "q_ru": "Что было общего у всех изменённых концовок?",
+  "options": [
+   "They all ended with a wedding",
+   "They were all about dinosaurs",
+   "They all saved somebody's brother",
+   "They were all written by Rafi"
+  ],
+  "options_ru": [
+   "Все они заканчивались свадьбой",
+   "Все они были про динозавров",
+   "Все они спасали чьего-то брата",
+   "Все их написал Рафи"
+  ],
+  "answer": 2,
+  "explain_ru": "Садовник был братом жертвы, солдат возвращался к сестре, капитан обещал сестре вернуться — книги менялись ради Майи."
+ },
+ {
+  "q": "According to Mr Abernathy, why do the books change?",
+  "q_ru": "Почему, по словам мистера Абернати, книги меняются?",
+  "options": [
+   "A reader with a very strong desire makes them try to help",
+   "Someone breaks in and prints new pages",
+   "The building is too old and damp",
+   "Readers write new endings in pencil"
+  ],
+  "options_ru": [
+   "Читатель с очень сильным желанием заставляет их пытаться помочь",
+   "Кто-то проникает внутрь и печатает новые страницы",
+   "Здание слишком старое и сырое",
+   "Читатели пишут новые концовки карандашом"
+  ],
+  "answer": 0,
+  "explain_ru": "Книги прислушиваются к читателям и дают концовку, которую человек хочет, — но не всегда ту, что ему нужна."
+ },
+ {
+  "q": "What did the new page in Maya's notebook say?",
+  "q_ru": "Что было написано на новой странице в тетради Майи?",
+  "options": [
+   "That Joel would come back soon",
+   "That she must leave the library",
+   "That Rafi had changed the books",
+   "That this ending could not be changed, and she was more than her last words to him"
+  ],
+  "options_ru": [
+   "Что Джоэл скоро вернётся",
+   "Что ей нужно уйти из библиотеки",
+   "Что книги менял Рафи",
+   "Что эту концовку изменить нельзя и что она — не только её последние слова брату"
+  ],
+  "answer": 3,
+  "explain_ru": "Библиотека написала, что не может изменить эту концовку, и посоветовала читать всю книгу, а не только последнюю страницу."
+ }
+]

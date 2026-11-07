@@ -1,0 +1,110 @@
+[
+ {
+  "q": "About how many trees were flattened by the Tunguska explosion?",
+  "q_ru": "Примерно сколько деревьев повалил Тунгусский взрыв?",
+  "options": [
+   "About 8,000",
+   "About 800,000",
+   "About 8 million",
+   "About 80 million"
+  ],
+  "options_ru": [
+   "Около 8 тысяч",
+   "Около 800 тысяч",
+   "Около 8 миллионов",
+   "Около 80 миллионов"
+  ],
+  "answer": 3,
+  "explain_ru": "В тексте: «the blast flattened about 80 million trees over an area of more than 2,000 square kilometres»."
+ },
+ {
+  "q": "What did Leonid Kulik hope to find in Siberia?",
+  "q_ru": "Что Леонид Кулик надеялся найти в Сибири?",
+  "options": [
+   "A huge crater and a mass of valuable iron",
+   "The remains of an alien spaceship",
+   "A new kind of reindeer",
+   "An old Evenki village"
+  ],
+  "options_ru": [
+   "Огромный кратер и массу ценного железа",
+   "Остатки инопланетного корабля",
+   "Новый вид оленей",
+   "Старую эвенкийскую деревню"
+  ],
+  "answer": 0,
+  "explain_ru": "Кулик был уверен, что упал гигантский метеорит, и «hoped to find a huge crater and a mass of valuable iron», но так его и не нашёл."
+ },
+ {
+  "q": "Why were many trees at the centre still standing?",
+  "q_ru": "Почему многие деревья в центре остались стоять?",
+  "options": [
+   "They were younger and stronger",
+   "The explosion hit them from directly above",
+   "The fire did not reach the centre",
+   "Local people later stood them up again"
+  ],
+  "options_ru": [
+   "Они были моложе и крепче",
+   "Взрыв ударил по ним прямо сверху",
+   "Огонь не дошёл до центра",
+   "Местные жители позже снова их подняли"
+  ],
+  "answer": 1,
+  "explain_ru": "Деревья прямо под воздушным взрывом получили удар сверху, поэтому лишились ветвей, но не упали."
+ },
+ {
+  "q": "What is the main scientific explanation of the Tunguska event?",
+  "q_ru": "Каково главное научное объяснение Тунгусского события?",
+  "options": [
+   "An earthquake under the forest",
+   "A large iron meteorite that hit the ground",
+   "An object from space that exploded in the air",
+   "A fire started by lightning"
+  ],
+  "options_ru": [
+   "Землетрясение под лесом",
+   "Крупный железный метеорит, ударившийся о землю",
+   "Тело из космоса, взорвавшееся в воздухе",
+   "Пожар от удара молнии"
+  ],
+  "answer": 2,
+  "explain_ru": "Большинство учёных считают, что астероид или кусок кометы взорвался на высоте около 5–10 км — это называют airburst."
+ },
+ {
+  "q": "Why was the black hole theory rejected?",
+  "q_ru": "Почему от теории чёрной дыры отказались?",
+  "options": [
+   "Black holes are always too large",
+   "Tesla proved it was wrong",
+   "Kulik found the black hole's crater",
+   "No second disaster happened in the North Atlantic"
+  ],
+  "options_ru": [
+   "Чёрные дыры всегда слишком большие",
+   "Тесла доказал, что она неверна",
+   "Кулик нашёл кратер чёрной дыры",
+   "В Северной Атлантике не случилось второй катастрофы"
+  ],
+  "answer": 3,
+  "explain_ru": "Чёрная дыра должна была выйти с другой стороны планеты и вызвать вторую катастрофу в Северной Атлантике, но ничего подобного не зафиксировали."
+ },
+ {
+  "q": "What do scientists still not know for certain about Tunguska?",
+  "q_ru": "Чего учёные до сих пор точно не знают о Тунгуске?",
+  "options": [
+   "Whether it happened in 1908",
+   "Whether the object was an asteroid or a comet",
+   "Whether trees were knocked down",
+   "Whether it was an alien spaceship"
+  ],
+  "options_ru": [
+   "Произошло ли это в 1908 году",
+   "Был ли это астероид или комета",
+   "Были ли повалены деревья",
+   "Был ли это инопланетный корабль"
+  ],
+  "answer": 1,
+  "explain_ru": "Учёные не могут точно сказать, было ли тело камнем или куском кометы, каким по размеру и долетело ли что-то до земли. Доказательств инопланетного корабля нет."
+ }
+]

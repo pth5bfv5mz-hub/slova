@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What did the searchers find when they reached the tent?",
+  "q_ru": "Что обнаружили поисковики, когда добрались до палатки?",
+  "options": [
+   "All nine hikers asleep inside",
+   "A note explaining what had happened",
+   "An empty tent, cut open, with boots and coats still inside",
+   "Signs that the tent had been robbed"
+  ],
+  "options_ru": [
+   "Всех девятерых туристов, спящих внутри",
+   "Записку с объяснением случившегося",
+   "Пустую разрезанную палатку, в которой остались ботинки и куртки",
+   "Следы того, что палатку ограбили"
+  ],
+  "answer": 2,
+  "explain_ru": "Палатка была пуста и разрезана, а внутри остались ботинки, куртки и еда. Деньги и ценные вещи никто не забрал."
+ },
+ {
+  "q": "What did the footprints below the tent suggest?",
+  "q_ru": "О чём говорили следы ниже палатки?",
+  "options": [
+   "The hikers walked down in a line, mostly without boots",
+   "The hikers were chased by other people",
+   "The hikers ran in panic in different directions",
+   "Only one hiker left the tent"
+  ],
+  "options_ru": [
+   "Туристы спускались цепочкой, в основном без ботинок",
+   "Туристов преследовали другие люди",
+   "Туристы в панике бежали в разные стороны",
+   "Палатку покинул только один турист"
+  ],
+  "answer": 0,
+  "explain_ru": "В тексте: «they were walking in a line, not running in panic» — шли в носках, в одном ботинке или босиком."
+ },
+ {
+  "q": "Why does the article reject the theory that the Mansi attacked the hikers?",
+  "q_ru": "Почему статья отвергает версию о нападении манси?",
+  "options": [
+   "The Mansi lived far away from the mountain",
+   "The hikers' diaries described the Mansi as friends",
+   "A court proved the Mansi were somewhere else",
+   "No footprints of other people were found, and nothing valuable was taken"
+  ],
+  "options_ru": [
+   "Манси жили далеко от горы",
+   "В дневниках туристов манси названы друзьями",
+   "Суд доказал, что манси были в другом месте",
+   "Следов других людей не нашли, и ничего ценного не забрали"
+  ],
+  "answer": 3,
+  "explain_ru": "Против манси не было улик: они помогали в поисках, чужих следов у палатки не было, а деньги и вещи остались на месте."
+ },
+ {
+  "q": "What did Russian prosecutors conclude in 2020?",
+  "q_ru": "К какому выводу пришла российская прокуратура в 2020 году?",
+  "options": [
+   "A secret rocket test killed the hikers",
+   "A slab avalanche forced the hikers out, and they died of cold",
+   "The hikers were killed by escaped prisoners",
+   "The case could never be solved"
+  ],
+  "options_ru": [
+   "Туристов погубило секретное испытание ракеты",
+   "Снежная доска выгнала туристов из палатки, и они погибли от холода",
+   "Туристов убили беглые заключённые",
+   "Дело невозможно раскрыть"
+  ],
+  "answer": 1,
+  "explain_ru": "В июле 2020 года прокуратура объявила, что причиной стала снежная доска; туристы не смогли вернуться и замёрзли."
+ },
+ {
+  "q": "What did the 2021 Swiss study show?",
+  "q_ru": "Что показало швейцарское исследование 2021 года?",
+  "options": [
+   "That a small slab avalanche on that slope was physically possible",
+   "That the avalanche definitely happened at midnight",
+   "That the injuries were caused by a military explosion",
+   "That the slope was too gentle for any avalanche"
+  ],
+  "options_ru": [
+   "Что небольшая снежная доска на этом склоне была физически возможна",
+   "Что лавина точно сошла в полночь",
+   "Что травмы вызвал военный взрыв",
+   "Что склон был слишком пологим для любой лавины"
+  ],
+  "answer": 0,
+  "explain_ru": "Гом и Пузрин показали, что лавина была возможна, но не утверждали, что она точно произошла и что тайна полностью раскрыта."
+ },
+ {
+  "q": "What is the article's final conclusion?",
+  "q_ru": "Каков итоговый вывод статьи?",
+  "options": [
+   "Spies and secret agents were most likely involved",
+   "The mystery has been completely solved",
+   "A natural cause is most likely, but some details are still unexplained",
+   "Nobody has any idea what happened"
+  ],
+  "options_ru": [
+   "Скорее всего, здесь замешаны шпионы и тайные агенты",
+   "Загадка полностью разгадана",
+   "Скорее всего, причина природная, но некоторые подробности до сих пор не объяснены",
+   "Никто не имеет ни малейшего представления о случившемся"
+  ],
+  "answer": 2,
+  "explain_ru": "Многие исследователи считают причину природной, доказательств оружия, шпионов или НЛО нет, но некоторые детали, возможно, никогда не будут объяснены."
+ }
+]

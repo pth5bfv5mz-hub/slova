@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What condition did Aunt Margaret leave in her will?",
+  "q_ru": "Какое условие оставила в завещании тётя Маргарет?",
+  "options": [
+   "Nora must sell the house to Simon.",
+   "Nora must live in the house for thirty days first.",
+   "Nora must repair the roof before winter.",
+   "Nora must never open the green door."
+  ],
+  "options_ru": [
+   "Нора должна продать дом Саймону.",
+   "Нора должна сначала прожить в доме тридцать дней.",
+   "Нора должна починить крышу до зимы.",
+   "Нора никогда не должна открывать зелёную дверь."
+  ],
+  "answer": 1,
+  "explain_ru": "Мистер Данмор сказал: «Your aunt asked that you live here for thirty days before you decide anything»."
+ },
+ {
+  "q": "Why did Nora not like Simon's visit?",
+  "q_ru": "Почему Норе не понравился визит Саймона?",
+  "options": [
+   "He was rude to her and to Mrs. Pike.",
+   "He said the house was ugly and cold.",
+   "He kept looking at the stairs and asked about upstairs.",
+   "He refused to tell her who he was."
+  ],
+  "options_ru": [
+   "Он был груб с ней и с миссис Пайк.",
+   "Он сказал, что дом некрасивый и холодный.",
+   "Он всё время поглядывал на лестницу и спрашивал о втором этаже.",
+   "Он отказался сказать, кто он такой."
+  ],
+  "answer": 2,
+  "explain_ru": "Саймон был обаятелен, но «his eyes kept moving towards the stairs», и он «a little too casually» спросил о странностях наверху."
+ },
+ {
+  "q": "Margaret called Simon 'the cunning one'. What does 'cunning' mean?",
+  "q_ru": "Маргарет называла Саймона «the cunning one». Что значит «cunning»?",
+  "options": [
+   "Clever in a dishonest, tricky way.",
+   "Kind and generous to everyone.",
+   "Lazy and slow to act.",
+   "Shy and afraid of people."
+  ],
+  "options_ru": [
+   "Хитрый, умный нечестным образом.",
+   "Добрый и щедрый ко всем.",
+   "Ленивый и медлительный.",
+   "Застенчивый, боящийся людей."
+  ],
+  "answer": 0,
+  "explain_ru": "Саймон приходил «always with papers, always in a rush», хотел получить дом и скрыть правду. «Cunning» — хитрый."
+ },
+ {
+  "q": "Why was Nora's grandfather Thomas called a traitor?",
+  "q_ru": "Почему деда Норы, Томаса, называли предателем?",
+  "options": [
+   "He stole money from the family shipyard.",
+   "He left the family to marry a poor woman.",
+   "He sold the shipyard's secrets to another company.",
+   "He told the police the shipyard used cheap steel."
+  ],
+  "options_ru": [
+   "Он украл деньги у семейной верфи.",
+   "Он ушёл из семьи, чтобы жениться на бедной девушке.",
+   "Он продал секреты верфи другой компании.",
+   "Он сообщил полиции, что верфь использовала дешёвую сталь."
+  ],
+  "answer": 3,
+  "explain_ru": "После гибели «Gull» Томас пошёл в полицию: «the shipyard had used cheap steel to reduce costs». Город решил, что он предал семью."
+ },
+ {
+  "q": "How did Nora find the key to the green door?",
+  "q_ru": "Как Нора нашла ключ от зелёной двери?",
+  "options": [
+   "Mrs. Pike gave it to her from her coat pocket.",
+   "She noticed the model of the Gull faced the wall.",
+   "Mr. Dunmore sent it to her after thirty days.",
+   "She found it under a carpet in the library."
+  ],
+  "options_ru": [
+   "Миссис Пайк дала его ей из кармана пальто.",
+   "Она заметила, что модель «Gull» повёрнута к стене.",
+   "Мистер Данмор прислал его через тридцать дней.",
+   "Она нашла его под ковром в библиотеке."
+  ],
+  "answer": 1,
+  "explain_ru": "Все модели кораблей смотрели на море, а «the Gull faced the wall». В подставке модели был спрятан ящичек с ключом."
+ },
+ {
+  "q": "How does the story end?",
+  "q_ru": "Чем заканчивается рассказ?",
+  "options": [
+   "Nora sells the house and returns to the city.",
+   "Simon burns the papers and wins the election.",
+   "The truth is published, and Nora stays in the house.",
+   "Nora locks the green door forever."
+  ],
+  "options_ru": [
+   "Нора продаёт дом и возвращается в город.",
+   "Саймон сжигает бумаги и побеждает на выборах.",
+   "Правду публикуют, и Нора остаётся жить в доме.",
+   "Нора навсегда запирает зелёную дверь."
+  ],
+  "answer": 2,
+  "explain_ru": "Газета опубликовала бумаги и письмо Маргарет, Саймон снялся с выборов, а Нора «didn't sell» и осталась; дверь «is never locked»."
+ }
+]

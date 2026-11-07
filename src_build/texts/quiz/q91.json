@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why couldn't the police help quickly?",
+  "q_ru": "Почему полиция не могла помочь быстро?",
+  "options": [
+   "There had been an accident on the bridge",
+   "Mr Prosser forgot to call them",
+   "The officers were at another concert",
+   "The phone in the hall was broken"
+  ],
+  "options_ru": [
+   "На мосту произошла авария",
+   "Мистер Проссер забыл им позвонить",
+   "Полицейские были на другом концерте",
+   "Телефон в зале был сломан"
+  ],
+  "answer": 0,
+  "explain_ru": "Из-за аварии на мосту полицейским нужно было около сорока минут, чтобы доехать."
+ },
+ {
+  "q": "What did the security camera show?",
+  "q_ru": "Что показала камера наблюдения?",
+  "options": [
+   "Hamish opening the door at 6:55",
+   "Nobody entering Room Three after 6:40",
+   "Mrs Okafor carrying a violin case",
+   "A stranger climbing through the window"
+  ],
+  "options_ru": [
+   "Как Хэмиш открывает дверь в 18:55",
+   "Что после 18:40 никто не входил в третью комнату",
+   "Как миссис Окафор несёт футляр",
+   "Как незнакомец лезет в окно"
+  ],
+  "answer": 1,
+  "explain_ru": "Мимо проходили только уборщица и Каспер Холм, но никто не открывал дверь до возвращения Сабины."
+ },
+ {
+  "q": "Why did Kasper Holm stop outside Sabine's door?",
+  "q_ru": "Почему Каспер Холм остановился у двери Сабины?",
+  "options": [
+   "He wanted to steal the violin",
+   "He was looking for Mrs Okafor",
+   "He wanted to say sorry to her",
+   "He had lost his own key"
+  ],
+  "options_ru": [
+   "Он хотел украсть скрипку",
+   "Он искал миссис Окафор",
+   "Он хотел перед ней извиниться",
+   "Он потерял свой ключ"
+  ],
+  "answer": 2,
+  "explain_ru": "Он хотел извиниться за грубые слова, сказанные неделю назад, но не решился постучать."
+ },
+ {
+  "q": "Which detail was NOT one of Maud's clues?",
+  "q_ru": "Какая деталь НЕ была одной из подсказок для Мод?",
+  "options": [
+   "The neatly folded silk cloth",
+   "The orange that nobody had eaten",
+   "The dull sound of the piano keys",
+   "Orange peel in Hamish's pocket"
+  ],
+  "options_ru": [
+   "Аккуратно сложенная шёлковая ткань",
+   "Апельсин, который никто не съел",
+   "Глухой звук клавиш пианино",
+   "Апельсиновая кожура в кармане Хэмиша"
+  ],
+  "answer": 3,
+  "explain_ru": "Подсказками были сложенная ткань, нетронутый апельсин, идея с ужином и глухие клавиши; кожуры у Хэмиша не было."
+ },
+ {
+  "q": "Why did Sabine hide the violin?",
+  "q_ru": "Почему Сабина спрятала скрипку?",
+  "options": [
+   "She wanted to sell it to pay her debts",
+   "She was afraid of failing in front of everyone",
+   "She wanted to get Kasper into trouble",
+   "She thought the violin was a fake"
+  ],
+  "options_ru": [
+   "Она хотела продать её, чтобы заплатить долги",
+   "Она боялась провалиться у всех на глазах",
+   "Она хотела подставить Каспера",
+   "Она думала, что скрипка поддельная"
+  ],
+  "answer": 1,
+  "explain_ru": "После смерти учителя она боялась провала; если бы скрипку «украли», её никто не смог бы обвинить."
+ },
+ {
+  "q": "How does the story end for Maud?",
+  "q_ru": "Чем история заканчивается для Мод?",
+  "options": [
+   "She loses her job at the hall",
+   "She plays the violin on stage",
+   "She plays the old piano for the first time in years",
+   "She tells the police that Kasper is guilty"
+  ],
+  "options_ru": [
+   "Она теряет работу в зале",
+   "Она играет на скрипке на сцене",
+   "Она впервые за много лет играет на старом пианино",
+   "Она говорит полиции, что виноват Каспер"
+  ],
+  "answer": 2,
+  "explain_ru": "Ночью, когда зал опустел, Мод села за старое пианино и впервые за тридцать один год заиграла."
+ }
+]

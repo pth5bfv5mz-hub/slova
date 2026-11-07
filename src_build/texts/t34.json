@@ -1,0 +1,1480 @@
+{
+ "id": 34,
+ "level": "B1",
+ "title_en": "The Cherry Under the Water",
+ "title_ru": "«Вишенка» под водой",
+ "genre": "Приключения",
+ "summary_ru": "Внучка лётчика, которого шестьдесят лет считают вором, получает по почте старую ложку с загадочными цифрами и отправляется в джунгли искать пропавший самолёт.",
+ "paragraphs": [
+  {
+   "en": "The letter arrived on a wet afternoon in early spring, and it was not addressed to Lucia Quintero at all. It was addressed to her grandfather, Arturo, who had disappeared sixty years earlier. Inside the envelope there was no message, only an old tin spoon wrapped in brown paper. Someone had scratched tiny numbers into its handle.",
+   "ru": "Письмо пришло дождливым днём в начале весны, и адресовано оно было вовсе не Лусии Кинтеро. Оно было адресовано её деду, Артуро, который исчез шестьдесят лет назад. В конверте не было никакого послания, только старая жестяная ложка, завёрнутая в коричневую бумагу. Кто-то нацарапал на её ручке крошечные цифры.",
+   "s": [
+    [
+     "The letter arrived on a wet afternoon in early spring, and it was not addressed to Lucia Quintero at all.",
+     "Письмо пришло дождливым днём в начале весны, и адресовано оно было вовсе не Лусии Кинтеро."
+    ],
+    [
+     "It was addressed to her grandfather, Arturo, who had disappeared sixty years earlier.",
+     "Оно было адресовано её деду, Артуро, который исчез шестьдесят лет назад."
+    ],
+    [
+     "Inside the envelope there was no message, only an old tin spoon wrapped in brown paper.",
+     "В конверте не было никакого послания, только старая жестяная ложка, завёрнутая в коричневую бумагу."
+    ],
+    [
+     "Someone had scratched tiny numbers into its handle.",
+     "Кто-то нацарапал на её ручке крошечные цифры."
+    ]
+   ]
+  },
+  {
+   "en": "Lucia resided in a small fishing town on the coast, where she repaired boats and taught diving to tourists. Everyone in town knew the story of her grandfather. According to the official record, Arturo Quintero had been a thief. In 1961 he had stolen the Jaguar Mask, a golden treasure, from the great hall of the National Museum, and had flown away with it in his small cargo plane. Neither the man nor the plane had ever been seen again.",
+   "ru": "Лусия жила в маленьком рыбацком городке на побережье, где чинила лодки и учила туристов нырять. Все в городе знали историю её деда. Согласно официальной записи, Артуро Кинтеро был вором. В 1961 году он украл Маску Ягуара, золотое сокровище, из большого зала Национального музея и улетел с ней на своём маленьком грузовом самолёте. Ни этого человека, ни самолёт больше никто никогда не видел.",
+   "s": [
+    [
+     "Lucia resided in a small fishing town on the coast, where she repaired boats and taught diving to tourists.",
+     "Лусия жила в маленьком рыбацком городке на побережье, где чинила лодки и учила туристов нырять."
+    ],
+    [
+     "Everyone in town knew the story of her grandfather.",
+     "Все в городе знали историю её деда."
+    ],
+    [
+     "According to the official record, Arturo Quintero had been a thief.",
+     "Согласно официальной записи, Артуро Кинтеро был вором."
+    ],
+    [
+     "In 1961 he had stolen the Jaguar Mask, a golden treasure, from the great hall of the National Museum, and had flown away with it in his small cargo plane.",
+     "В 1961 году он украл Маску Ягуара, золотое сокровище, из большого зала Национального музея и улетел с ней на своём маленьком грузовом самолёте."
+    ],
+    [
+     "Neither the man nor the plane had ever been seen again.",
+     "Ни этого человека, ни самолёт больше никто никогда не видел."
+    ]
+   ]
+  },
+  {
+   "en": "Her grandmother, Elena, had never believed a word of it. She had lived for another fifty years, making jam every summer from the cherry tree that Arturo had planted, and she had always said the same thing in her gentle voice. \"Your grandfather was not a thief. He named his plane after me, you know. He called it the Cherry, because of my red cheeks.",
+   "ru": "Её бабушка, Елена, никогда не верила ни единому слову. Она прожила ещё пятьдесят лет, каждое лето варила варенье с вишнёвого дерева, которое посадил Артуро, и всегда повторяла одно и то же своим нежным голосом. «Твой дед не был вором. Знаешь, он назвал свой самолёт в мою честь. Он назвал его „Вишенкой“ — из-за моих красных щёк.",
+   "s": [
+    [
+     "Her grandmother, Elena, had never believed a word of it.",
+     "Её бабушка, Елена, никогда не верила ни единому слову."
+    ],
+    [
+     "She had lived for another fifty years, making jam every summer from the cherry tree that Arturo had planted, and she had always said the same thing in her gentle voice.",
+     "Она прожила ещё пятьдесят лет, каждое лето варила варенье с вишнёвого дерева, которое посадил Артуро, и всегда повторяла одно и то же своим нежным голосом."
+    ],
+    [
+     "\"Your grandfather was not a thief.",
+     "«Твой дед не был вором."
+    ],
+    [
+     "He named his plane after me, you know.",
+     "Знаешь, он назвал свой самолёт в мою честь."
+    ],
+    [
+     "He called it the Cherry, because of my red cheeks.",
+     "Он назвал его „Вишенкой“ — из-за моих красных щёк."
+    ]
+   ]
+  },
+  {
+   "en": "Lucia studied the spoon for a long time. At first the numbers made no sense, but she had spent half her life on boats, and suddenly she realised what they meant. They were coordinates. When she checked them on a map, they pointed to a lake deep in the jungle, far from Arturo's official route.",
+   "ru": "Лусия долго разглядывала ложку. Сначала цифры не имели никакого смысла, но она провела полжизни на лодках и вдруг поняла, что они означают. Это были координаты. Когда она проверила их по карте, они указали на озеро глубоко в джунглях, далеко от официального маршрута Артуро.",
+   "s": [
+    [
+     "Lucia studied the spoon for a long time.",
+     "Лусия долго разглядывала ложку."
+    ],
+    [
+     "At first the numbers made no sense, but she had spent half her life on boats, and suddenly she realised what they meant.",
+     "Сначала цифры не имели никакого смысла, но она провела полжизни на лодках и вдруг поняла, что они означают."
+    ],
+    [
+     "They were coordinates.",
+     "Это были координаты."
+    ],
+    [
+     "When she checked them on a map, they pointed to a lake deep in the jungle, far from Arturo's official route.",
+     "Когда она проверила их по карте, они указали на озеро глубоко в джунглях, далеко от официального маршрута Артуро."
+    ]
+   ]
+  },
+  {
+   "en": "She needed money for an expedition, and the money arrived in the shape of Desmond Thorne. Thorne was the star of a television show called Lost Treasures, a tall man who always wore a red cap and never stopped bragging about his fame. His last two programmes had received terrible reviews, and he badly needed a big discovery. \"A lost plane, a golden mask and a family secret,\" he said, smiling at Lucia across her kitchen table.",
+   "ru": "Ей нужны были деньги на экспедицию, и деньги явились в лице Десмонда Торна. Торн был звездой телешоу «Потерянные сокровища» — высокий мужчина, который всегда носил красную кепку и без конца хвастался своей славой. Две его последние программы получили ужасные обзоры критиков, и ему очень нужно было большое открытие. «Пропавший самолёт, золотая маска и семейная тайна», — сказал он, улыбаясь Лусии через кухонный стол.",
+   "s": [
+    [
+     "She needed money for an expedition, and the money arrived in the shape of Desmond Thorne.",
+     "Ей нужны были деньги на экспедицию, и деньги явились в лице Десмонда Торна."
+    ],
+    [
+     "Thorne was the star of a television show called Lost Treasures, a tall man who always wore a red cap and never stopped bragging about his fame.",
+     "Торн был звездой телешоу «Потерянные сокровища» — высокий мужчина, который всегда носил красную кепку и без конца хвастался своей славой."
+    ],
+    [
+     "His last two programmes had received terrible reviews, and he badly needed a big discovery.",
+     "Две его последние программы получили ужасные обзоры критиков, и ему очень нужно было большое открытие."
+    ],
+    [
+     "\"A lost plane, a golden mask and a family secret,\" he said, smiling at Lucia across her kitchen table.",
+     "«Пропавший самолёт, золотая маска и семейная тайна», — сказал он, улыбаясь Лусии через кухонный стол."
+    ]
+   ]
+  },
+  {
+   "en": "Lucia did not like him, but she had no choice. She also hired a guide, an old man called Mateo Ruiz, who had a grey beard down to his chest and had worked on the rivers for forty years. \"The jungle doesn't care about television,\" Mateo told Thorne on the first day. \"If you listen to me, you will probably come back. If you don't, you probably won't.\"",
+   "ru": "Лусии он не нравился, но выбора у неё не было. Она также наняла проводника, старика по имени Матео Руис, у которого была седая борода до груди и который сорок лет проработал на реках. «Джунглям нет дела до телевидения», — сказал Матео Торну в первый же день. «Если будете меня слушать, то, скорее всего, вернётесь. Если нет — скорее всего, не вернётесь».",
+   "s": [
+    [
+     "Lucia did not like him, but she had no choice.",
+     "Лусии он не нравился, но выбора у неё не было."
+    ],
+    [
+     "She also hired a guide, an old man called Mateo Ruiz, who had a grey beard down to his chest and had worked on the rivers for forty years.",
+     "Она также наняла проводника, старика по имени Матео Руис, у которого была седая борода до груди и который сорок лет проработал на реках."
+    ],
+    [
+     "\"The jungle doesn't care about television,\" Mateo told Thorne on the first day.",
+     "«Джунглям нет дела до телевидения», — сказал Матео Торну в первый же день."
+    ],
+    [
+     "\"If you listen to me, you will probably come back. If you don't, you probably won't.\"",
+     "«Если будете меня слушать, то, скорее всего, вернётесь. Если нет — скорее всего, не вернётесь»."
+    ]
+   ]
+  },
+  {
+   "en": "They travelled for four days up the river on an old ship, then continued in a narrow boat with an engine that broke down twice a day. Each time, Mateo fixed it with a piece of wire and a few quiet words, while Thorne's cameraman, a nervous young man named Ignacio, filmed everything. In the evenings they ate rice and beans with a spoon each and tried to dry their socks over the fire, although the socks were never really dry.",
+   "ru": "Четыре дня они плыли вверх по реке на старом корабле, а потом продолжили путь на узкой лодке с мотором, который ломался дважды в день. Каждый раз Матео чинил его куском проволоки и несколькими тихими словами, а оператор Торна, нервный молодой человек по имени Игнасио, снимал всё на камеру. По вечерам они ели рис с фасолью, у каждого была своя ложка, и пытались сушить носки над костром, хотя носки так по-настоящему и не высыхали.",
+   "s": [
+    [
+     "They travelled for four days up the river on an old ship, then continued in a narrow boat with an engine that broke down twice a day.",
+     "Четыре дня они плыли вверх по реке на старом корабле, а потом продолжили путь на узкой лодке с мотором, который ломался дважды в день."
+    ],
+    [
+     "Each time, Mateo fixed it with a piece of wire and a few quiet words, while Thorne's cameraman, a nervous young man named Ignacio, filmed everything.",
+     "Каждый раз Матео чинил его куском проволоки и несколькими тихими словами, а оператор Торна, нервный молодой человек по имени Игнасио, снимал всё на камеру."
+    ],
+    [
+     "In the evenings they ate rice and beans with a spoon each and tried to dry their socks over the fire, although the socks were never really dry.",
+     "По вечерам они ели рис с фасолью, у каждого была своя ложка, и пытались сушить носки над костром, хотя носки так по-настоящему и не высыхали."
+    ]
+   ]
+  },
+  {
+   "en": "On the sixth day they reached the place where the river divided. \"From here we walk,\" Mateo said. The jungle floor was soft and dark, and the red earth stuck to their boots like glue. They had to avoid the swamps on the left, where Mateo said the ground could swallow a man, and they could rely only on his knife and his memory. The worst part was the insects. Lucia was tired and wet, and her neck burned where they had bitten her, but she did not complain.",
+   "ru": "На шестой день они добрались до места, где река разделялась. «Отсюда пойдём пешком», — сказал Матео. Земля в джунглях была мягкой и тёмной, и красная почва липла к ботинкам, как клей. Им приходилось обходить болота слева, где, по словам Матео, земля могла проглотить человека, и полагаться они могли только на его нож и его память. Хуже всего были насекомые. Лусия устала и промокла, и шея у неё горела там, где её искусали, но она не жаловалась.",
+   "s": [
+    [
+     "On the sixth day they reached the place where the river divided.",
+     "На шестой день они добрались до места, где река разделялась."
+    ],
+    [
+     "\"From here we walk,\" Mateo said.",
+     "«Отсюда пойдём пешком», — сказал Матео."
+    ],
+    [
+     "The jungle floor was soft and dark, and the red earth stuck to their boots like glue.",
+     "Земля в джунглях была мягкой и тёмной, и красная почва липла к ботинкам, как клей."
+    ],
+    [
+     "They had to avoid the swamps on the left, where Mateo said the ground could swallow a man, and they could rely only on his knife and his memory.",
+     "Им приходилось обходить болота слева, где, по словам Матео, земля могла проглотить человека, и полагаться они могли только на его нож и его память."
+    ],
+    [
+     "The worst part was the insects.",
+     "Хуже всего были насекомые."
+    ],
+    [
+     "Lucia was tired and wet, and her neck burned where they had bitten her, but she did not complain.",
+     "Лусия устала и промокла, и шея у неё горела там, где её искусали, но она не жаловалась."
+    ]
+   ]
+  },
+  {
+   "en": "On the second evening of the walk, Thorne sat down next to her by the fire. \"So tell me,\" he said in a friendly voice, \"who sent you the spoon?\" \"I don't know,\" Lucia answered honestly. \"Interesting,\" said Thorne, but his eyes were not friendly at all. Later that night Lucia woke up and saw him outside the tent, talking quietly into a satellite phone.",
+   "ru": "На второй вечер пешего пути Торн подсел к ней у костра. «Ну, расскажите, — сказал он дружелюбным голосом, — кто прислал вам ложку?» «Не знаю», — честно ответила Лусия. «Интересно», — сказал Торн, но глаза у него были совсем не дружелюбные. Позже той ночью Лусия проснулась и увидела его возле палатки: он тихо говорил по спутниковому телефону.",
+   "s": [
+    [
+     "On the second evening of the walk, Thorne sat down next to her by the fire.",
+     "На второй вечер пешего пути Торн подсел к ней у костра."
+    ],
+    [
+     "\"So tell me,\" he said in a friendly voice, \"who sent you the spoon?\"",
+     "«Ну, расскажите, — сказал он дружелюбным голосом, — кто прислал вам ложку?»"
+    ],
+    [
+     "\"I don't know,\" Lucia answered honestly.",
+     "«Не знаю», — честно ответила Лусия."
+    ],
+    [
+     "\"Interesting,\" said Thorne, but his eyes were not friendly at all.",
+     "«Интересно», — сказал Торн, но глаза у него были совсем не дружелюбные."
+    ],
+    [
+     "Later that night Lucia woke up and saw him outside the tent, talking quietly into a satellite phone.",
+     "Позже той ночью Лусия проснулась и увидела его возле палатки: он тихо говорил по спутниковому телефону."
+    ]
+   ]
+  },
+  {
+   "en": "\"Who were you calling?\" she asked in the morning. \"My producer,\" he said quickly. \"He worries about me.\" Mateo, who was packing his bag nearby, said nothing, but he looked at Lucia for a moment longer than usual. From then on, she paid more attention to Thorne.",
+   "ru": "«Кому вы звонили?» — спросила она утром. «Своему продюсеру», — быстро ответил он. «Он за меня волнуется». Матео, который собирал рюкзак поблизости, ничего не сказал, но посмотрел на Лусию на мгновение дольше обычного. С тех пор она стала внимательнее присматриваться к Торну.",
+   "s": [
+    [
+     "\"Who were you calling?\" she asked in the morning.",
+     "«Кому вы звонили?» — спросила она утром."
+    ],
+    [
+     "\"My producer,\" he said quickly.",
+     "«Своему продюсеру», — быстро ответил он."
+    ],
+    [
+     "\"He worries about me.\"",
+     "«Он за меня волнуется»."
+    ],
+    [
+     "Mateo, who was packing his bag nearby, said nothing, but he looked at Lucia for a moment longer than usual.",
+     "Матео, который собирал рюкзак поблизости, ничего не сказал, но посмотрел на Лусию на мгновение дольше обычного."
+    ],
+    [
+     "From then on, she paid more attention to Thorne.",
+     "С тех пор она стала внимательнее присматриваться к Торну."
+    ]
+   ]
+  },
+  {
+   "en": "They skipped breakfast on the eighth day because Mateo said the lake was close, and they reached it before noon. It was small, round and black, surrounded by tall trees, and so quiet that she could hear her own heart. A narrow beach of white sand ran along one side. She thought about her grandmother, who had waited fifty years for an answer and had died without one. Then she put on her diving equipment.",
+   "ru": "На восьмой день они пропустили завтрак, потому что Матео сказал, что озеро близко, и добрались до него ещё до полудня. Оно было небольшим, круглым и чёрным, окружённым высокими деревьями, и таким тихим, что она слышала собственное сердце. Вдоль одного берега тянулась узкая полоска белого песка. Она думала о бабушке, которая пятьдесят лет ждала ответа и умерла, так его и не получив. Потом она надела снаряжение для погружения.",
+   "s": [
+    [
+     "They skipped breakfast on the eighth day because Mateo said the lake was close, and they reached it before noon.",
+     "На восьмой день они пропустили завтрак, потому что Матео сказал, что озеро близко, и добрались до него ещё до полудня."
+    ],
+    [
+     "It was small, round and black, surrounded by tall trees, and so quiet that she could hear her own heart.",
+     "Оно было небольшим, круглым и чёрным, окружённым высокими деревьями, и таким тихим, что она слышала собственное сердце."
+    ],
+    [
+     "A narrow beach of white sand ran along one side.",
+     "Вдоль одного берега тянулась узкая полоска белого песка."
+    ],
+    [
+     "She thought about her grandmother, who had waited fifty years for an answer and had died without one.",
+     "Она думала о бабушке, которая пятьдесят лет ждала ответа и умерла, так его и не получив."
+    ],
+    [
+     "Then she put on her diving equipment.",
+     "Потом она надела снаряжение для погружения."
+    ]
+   ]
+  },
+  {
+   "en": "\"I'm coming with you,\" said Thorne. Lucia would rather have gone alone, but she did not want an argument. She attached a rope to a tree, gave the other end to Mateo and repeated the rules twice: stay close, watch your air, and if anything goes wrong, pull the rope three times.",
+   "ru": "«Я иду с вами», — сказал Торн. Лусия предпочла бы нырнуть одна, но ей не хотелось спорить. Она привязала верёвку к дереву, отдала другой конец Матео и дважды повторила правила: держаться рядом, следить за воздухом, а если что-то пойдёт не так — трижды дёрнуть верёвку.",
+   "s": [
+    [
+     "\"I'm coming with you,\" said Thorne.",
+     "«Я иду с вами», — сказал Торн."
+    ],
+    [
+     "Lucia would rather have gone alone, but she did not want an argument.",
+     "Лусия предпочла бы нырнуть одна, но ей не хотелось спорить."
+    ],
+    [
+     "She attached a rope to a tree, gave the other end to Mateo and repeated the rules twice: stay close, watch your air, and if anything goes wrong, pull the rope three times.",
+     "Она привязала верёвку к дереву, отдала другой конец Матео и дважды повторила правила: держаться рядом, следить за воздухом, а если что-то пойдёт не так — трижды дёрнуть верёвку."
+    ]
+   ]
+  },
+  {
+   "en": "The water was warm and brown near the surface, then cold and green, then almost black. At twelve metres her hand touched something hard and smooth. She moved the light slowly along it and saw a wing, then a door, then a name painted in faded red letters on the nose of the plane: CHERRY. The plane lay on the bottom of the lake almost in one piece, under a thin blanket of mud, as if it had landed there gently and gone to sleep.",
+   "ru": "У поверхности вода была тёплой и бурой, потом холодной и зелёной, потом почти чёрной. На глубине двенадцати метров её рука коснулась чего-то твёрдого и гладкого. Она медленно повела лучом вдоль него и увидела крыло, потом дверь, а потом надпись выцветшими красными буквами на носу самолёта: «ВИШЕНКА». Самолёт лежал на дне озера почти целый, под тонким покрывалом ила, словно мягко приземлился там и уснул.",
+   "s": [
+    [
+     "The water was warm and brown near the surface, then cold and green, then almost black.",
+     "У поверхности вода была тёплой и бурой, потом холодной и зелёной, потом почти чёрной."
+    ],
+    [
+     "At twelve metres her hand touched something hard and smooth.",
+     "На глубине двенадцати метров её рука коснулась чего-то твёрдого и гладкого."
+    ],
+    [
+     "She moved the light slowly along it and saw a wing, then a door, then a name painted in faded red letters on the nose of the plane: CHERRY.",
+     "Она медленно повела лучом вдоль него и увидела крыло, потом дверь, а потом надпись выцветшими красными буквами на носу самолёта: «ВИШЕНКА»."
+    ],
+    [
+     "The plane lay on the bottom of the lake almost in one piece, under a thin blanket of mud, as if it had landed there gently and gone to sleep.",
+     "Самолёт лежал на дне озера почти целый, под тонким покрывалом ила, словно мягко приземлился там и уснул."
+    ]
+   ]
+  },
+  {
+   "en": "Lucia felt tears inside her mask. Her grandmother had been right: Arturo had not flown away to live a rich life. He had come here, to the middle of nowhere, and he had never returned. She swam to the cockpit. But behind the pilot's seat, attached to the floor with a metal chain, there was a small steel box.",
+   "ru": "Лусия почувствовала слёзы под маской. Бабушка оказалась права: Артуро не улетел, чтобы жить богатой жизнью. Он прилетел сюда, в самую глушь, и так и не вернулся. Она подплыла к кабине. Но за креслом пилота, прикованный к полу металлической цепью, стоял небольшой стальной ящик.",
+   "s": [
+    [
+     "Lucia felt tears inside her mask.",
+     "Лусия почувствовала слёзы под маской."
+    ],
+    [
+     "Her grandmother had been right: Arturo had not flown away to live a rich life.",
+     "Бабушка оказалась права: Артуро не улетел, чтобы жить богатой жизнью."
+    ],
+    [
+     "He had come here, to the middle of nowhere, and he had never returned.",
+     "Он прилетел сюда, в самую глушь, и так и не вернулся."
+    ],
+    [
+     "She swam to the cockpit.",
+     "Она подплыла к кабине."
+    ],
+    [
+     "But behind the pilot's seat, attached to the floor with a metal chain, there was a small steel box.",
+     "Но за креслом пилота, прикованный к полу металлической цепью, стоял небольшой стальной ящик."
+    ]
+   ]
+  },
+  {
+   "en": "Before she could touch it, a light appeared behind her. Thorne swam past her, grabbed the box and pulled hard. Fortunately, the chain held. He pulled again, and a cloud of mud rose around them both until Lucia could see nothing at all. Thorne was bigger and stronger, but she had one advantage: she knew this kind of water. She stayed calm and held the rope firmly. When the mud cleared, she saw that Thorne had a knife in his hand and was cutting the chain.",
+   "ru": "Не успела она к нему прикоснуться, как позади появился свет. Торн проплыл мимо неё, схватил ящик и с силой дёрнул. К счастью, цепь выдержала. Он дёрнул снова, и вокруг них поднялось облако ила, так что Лусия совсем ничего не видела. Торн был крупнее и сильнее, но у неё было одно преимущество: она знала такую воду. Она сохранила спокойствие и крепко держалась за верёвку. Когда ил осел, она увидела, что у Торна в руке нож и он перерезает цепь.",
+   "s": [
+    [
+     "Before she could touch it, a light appeared behind her.",
+     "Не успела она к нему прикоснуться, как позади появился свет."
+    ],
+    [
+     "Thorne swam past her, grabbed the box and pulled hard.",
+     "Торн проплыл мимо неё, схватил ящик и с силой дёрнул."
+    ],
+    [
+     "Fortunately, the chain held.",
+     "К счастью, цепь выдержала."
+    ],
+    [
+     "He pulled again, and a cloud of mud rose around them both until Lucia could see nothing at all.",
+     "Он дёрнул снова, и вокруг них поднялось облако ила, так что Лусия совсем ничего не видела."
+    ],
+    [
+     "Thorne was bigger and stronger, but she had one advantage: she knew this kind of water.",
+     "Торн был крупнее и сильнее, но у неё было одно преимущество: она знала такую воду."
+    ],
+    [
+     "She stayed calm and held the rope firmly.",
+     "Она сохранила спокойствие и крепко держалась за верёвку."
+    ],
+    [
+     "When the mud cleared, she saw that Thorne had a knife in his hand and was cutting the chain.",
+     "Когда ил осел, она увидела, что у Торна в руке нож и он перерезает цепь."
+    ]
+   ]
+  },
+  {
+   "en": "They came up together, with the box between them. On the beach Thorne tried to open it, but the lock was solid with rust. \"We'll open it in the capital,\" he said, \"in front of the cameras. It'll be the best moment of the series.\" \"It belongs to my family,\" Lucia said. \"Nothing belongs to anyone until it's on television,\" he answered with a smile, and he put the box in his own bag.",
+   "ru": "Они поднялись вместе, с ящиком между собой. На берегу Торн попытался его открыть, но замок намертво заржавел. «Откроем его в столице, — сказал он, — перед камерами. Это будет лучший момент сезона». «Он принадлежит моей семье», — сказала Лусия. «Ничто никому не принадлежит, пока его не покажут по телевизору», — ответил он с улыбкой и положил ящик в свою сумку.",
+   "s": [
+    [
+     "They came up together, with the box between them.",
+     "Они поднялись вместе, с ящиком между собой."
+    ],
+    [
+     "On the beach Thorne tried to open it, but the lock was solid with rust.",
+     "На берегу Торн попытался его открыть, но замок намертво заржавел."
+    ],
+    [
+     "\"We'll open it in the capital,\" he said, \"in front of the cameras. It'll be the best moment of the series.\"",
+     "«Откроем его в столице, — сказал он, — перед камерами. Это будет лучший момент сезона»."
+    ],
+    [
+     "\"It belongs to my family,\" Lucia said.",
+     "«Он принадлежит моей семье», — сказала Лусия."
+    ],
+    [
+     "\"Nothing belongs to anyone until it's on television,\" he answered with a smile, and he put the box in his own bag.",
+     "«Ничто никому не принадлежит, пока его не покажут по телевизору», — ответил он с улыбкой и положил ящик в свою сумку."
+    ]
+   ]
+  },
+  {
+   "en": "That night Mateo sat beside Lucia while the others slept. \"I have something to tell you,\" he said quietly. \"I sent you the spoon.\" \"Sixty years ago I was a boy in a village two days from here. One spring afternoon a plane flew over us, very low, with smoke coming from its engine. My father and I followed the smoke.\"",
+   "ru": "Той ночью, пока остальные спали, Матео сел рядом с Лусией. «Мне нужно кое-что тебе сказать», — тихо произнёс он. «Это я прислал тебе ложку». «Шестьдесят лет назад я был мальчишкой в деревне в двух днях пути отсюда. Однажды весенним днём над нами пролетел самолёт, совсем низко, и из его мотора шёл дым. Мы с отцом пошли на дым».",
+   "s": [
+    [
+     "That night Mateo sat beside Lucia while the others slept.",
+     "Той ночью, пока остальные спали, Матео сел рядом с Лусией."
+    ],
+    [
+     "\"I have something to tell you,\" he said quietly.",
+     "«Мне нужно кое-что тебе сказать», — тихо произнёс он."
+    ],
+    [
+     "\"I sent you the spoon.\"",
+     "«Это я прислал тебе ложку»."
+    ],
+    [
+     "\"Sixty years ago I was a boy in a village two days from here.",
+     "«Шестьдесят лет назад я был мальчишкой в деревне в двух днях пути отсюда."
+    ],
+    [
+     "One spring afternoon a plane flew over us, very low, with smoke coming from its engine.",
+     "Однажды весенним днём над нами пролетел самолёт, совсем низко, и из его мотора шёл дым."
+    ],
+    [
+     "My father and I followed the smoke.\"",
+     "Мы с отцом пошли на дым»."
+    ]
+   ]
+  },
+  {
+   "en": "Mateo explained that they had found the pilot on the shore of the lake, badly hurt. The plane had already sunk behind him. Arturo had lived for three more days in their house. Before he died, he had given the boy a spoon from his pocket and made him repeat the numbers until he knew them by heart. \"He told me that the box must go to the newspapers, not to the police,\" Mateo said. \"He said that powerful people paid the police. Then I grew old, and I was afraid. But recently I saw your grandfather's name in an article about the museum, and I made a decision. I scratched the numbers on the spoon and sent it to you.\"",
+   "ru": "Матео рассказал, что они нашли пилота на берегу озера, тяжело раненного. Самолёт позади него уже затонул. Артуро прожил в их доме ещё три дня. Перед смертью он отдал мальчику ложку из кармана и заставлял его повторять цифры, пока тот не выучил их наизусть. «Он сказал мне, что ящик должен попасть в газеты, а не в полицию», — сказал Матео. «Он сказал, что полиции платят влиятельные люди. Потом я состарился, и мне было страшно. Но недавно я увидел имя твоего деда в статье о музее и принял решение. Я нацарапал цифры на ложке и отправил её тебе».",
+   "s": [
+    [
+     "Mateo explained that they had found the pilot on the shore of the lake, badly hurt.",
+     "Матео рассказал, что они нашли пилота на берегу озера, тяжело раненного."
+    ],
+    [
+     "The plane had already sunk behind him.",
+     "Самолёт позади него уже затонул."
+    ],
+    [
+     "Arturo had lived for three more days in their house.",
+     "Артуро прожил в их доме ещё три дня."
+    ],
+    [
+     "Before he died, he had given the boy a spoon from his pocket and made him repeat the numbers until he knew them by heart.",
+     "Перед смертью он отдал мальчику ложку из кармана и заставлял его повторять цифры, пока тот не выучил их наизусть."
+    ],
+    [
+     "\"He told me that the box must go to the newspapers, not to the police,\" Mateo said.",
+     "«Он сказал мне, что ящик должен попасть в газеты, а не в полицию», — сказал Матео."
+    ],
+    [
+     "\"He said that powerful people paid the police.",
+     "«Он сказал, что полиции платят влиятельные люди."
+    ],
+    [
+     "Then I grew old, and I was afraid.",
+     "Потом я состарился, и мне было страшно."
+    ],
+    [
+     "But recently I saw your grandfather's name in an article about the museum, and I made a decision.",
+     "Но недавно я увидел имя твоего деда в статье о музее и принял решение."
+    ],
+    [
+     "I scratched the numbers on the spoon and sent it to you.\"",
+     "Я нацарапал цифры на ложке и отправил её тебе»."
+    ]
+   ]
+  },
+  {
+   "en": "\"Why didn't you just tell me?\" Lucia asked. \"Because I wanted to see who would come with you,\" said the old man. \"And now I know. Thorne's grandfather was the director of the museum in 1961.\"",
+   "ru": "«Почему вы просто не сказали мне?» — спросила Лусия. «Потому что хотел посмотреть, кто пойдёт с тобой», — ответил старик. «И теперь я знаю. Дед Торна был директором музея в 1961 году».",
+   "s": [
+    [
+     "\"Why didn't you just tell me?\" Lucia asked.",
+     "«Почему вы просто не сказали мне?» — спросила Лусия."
+    ],
+    [
+     "\"Because I wanted to see who would come with you,\" said the old man.",
+     "«Потому что хотел посмотреть, кто пойдёт с тобой», — ответил старик."
+    ],
+    [
+     "\"And now I know.",
+     "«И теперь я знаю."
+    ],
+    [
+     "Thorne's grandfather was the director of the museum in 1961.\"",
+     "Дед Торна был директором музея в 1961 году»."
+    ]
+   ]
+  },
+  {
+   "en": "Suddenly everything made sense: the satellite phone, the questions about the spoon, the way Thorne had fought for the box under the water. \"He doesn't want to find the truth,\" Lucia whispered. \"He wants to bury it.\" \"Don't look so worried,\" he said, and for the first time on the journey he smiled through his beard. \"I took the papers out of the box an hour ago, while he was eating. The lock was rusty, but I have opened worse.\"",
+   "ru": "Внезапно всё обрело смысл: спутниковый телефон, вопросы о ложке, то, как Торн боролся за ящик под водой. «Он не хочет найти правду, — прошептала Лусия. Он хочет её похоронить». «Не надо так волноваться», — сказал он и впервые за всё путешествие улыбнулся в бороду. «Я вынул бумаги из ящика час назад, пока он ел. Замок был ржавый, но я открывал и похуже».",
+   "s": [
+    [
+     "Suddenly everything made sense: the satellite phone, the questions about the spoon, the way Thorne had fought for the box under the water.",
+     "Внезапно всё обрело смысл: спутниковый телефон, вопросы о ложке, то, как Торн боролся за ящик под водой."
+    ],
+    [
+     "\"He doesn't want to find the truth,\" Lucia whispered.",
+     "«Он не хочет найти правду, — прошептала Лусия."
+    ],
+    [
+     "\"He wants to bury it.\"",
+     "Он хочет её похоронить»."
+    ],
+    [
+     "\"Don't look so worried,\" he said, and for the first time on the journey he smiled through his beard.",
+     "«Не надо так волноваться», — сказал он и впервые за всё путешествие улыбнулся в бороду."
+    ],
+    [
+     "\"I took the papers out of the box an hour ago, while he was eating. The lock was rusty, but I have opened worse.\"",
+     "«Я вынул бумаги из ящика час назад, пока он ел. Замок был ржавый, но я открывал и похуже»."
+    ]
+   ]
+  },
+  {
+   "en": "Inside a waterproof bag there was a notebook, a few photographs and a letter in Arturo's careful handwriting. The Jaguar Mask in the museum hall, Arturo had written, was a fake. The director had sold the real mask to a private collector and had ordered a copy. Arturo had discovered the truth by chance when he carried the copy from the workshop to the museum, and he had taken the photographs as proof. He had been flying them to a journalist he trusted when his engine failed.",
+   "ru": "В непромокаемом мешке лежали блокнот, несколько фотографий и письмо, написанное аккуратным почерком Артуро. Маска Ягуара в зале музея, писал Артуро, была подделкой. Директор продал настоящую маску частному коллекционеру и заказал копию. Артуро случайно узнал правду, когда перевозил копию из мастерской в музей, и сделал фотографии в качестве доказательства. Он летел с ними к журналисту, которому доверял, когда у него отказал мотор.",
+   "s": [
+    [
+     "Inside a waterproof bag there was a notebook, a few photographs and a letter in Arturo's careful handwriting.",
+     "В непромокаемом мешке лежали блокнот, несколько фотографий и письмо, написанное аккуратным почерком Артуро."
+    ],
+    [
+     "The Jaguar Mask in the museum hall, Arturo had written, was a fake.",
+     "Маска Ягуара в зале музея, писал Артуро, была подделкой."
+    ],
+    [
+     "The director had sold the real mask to a private collector and had ordered a copy.",
+     "Директор продал настоящую маску частному коллекционеру и заказал копию."
+    ],
+    [
+     "Arturo had discovered the truth by chance when he carried the copy from the workshop to the museum, and he had taken the photographs as proof.",
+     "Артуро случайно узнал правду, когда перевозил копию из мастерской в музей, и сделал фотографии в качестве доказательства."
+    ],
+    [
+     "He had been flying them to a journalist he trusted when his engine failed.",
+     "Он летел с ними к журналисту, которому доверял, когда у него отказал мотор."
+    ]
+   ]
+  },
+  {
+   "en": "\"And when the plane disappeared, the director called him a thief,\" Lucia said slowly. \"A missing pilot and a missing mask. It was the perfect story, because a dead man can't answer back.\" \"That is what power does,\" said Mateo. \"It writes the records.\"",
+   "ru": "«А когда самолёт пропал, директор назвал его вором», — медленно сказала Лусия. «Пропавший пилот и пропавшая маска. Идеальная история — ведь мёртвый не может возразить». «Вот что делает власть», — сказал Матео. «Она пишет записи».",
+   "s": [
+    [
+     "\"And when the plane disappeared, the director called him a thief,\" Lucia said slowly.",
+     "«А когда самолёт пропал, директор назвал его вором», — медленно сказала Лусия."
+    ],
+    [
+     "\"A missing pilot and a missing mask. It was the perfect story, because a dead man can't answer back.\"",
+     "«Пропавший пилот и пропавшая маска. Идеальная история — ведь мёртвый не может возразить»."
+    ],
+    [
+     "\"That is what power does,\" said Mateo.",
+     "«Вот что делает власть», — сказал Матео."
+    ],
+    [
+     "\"It writes the records.\"",
+     "«Она пишет записи»."
+    ]
+   ]
+  },
+  {
+   "en": "In the morning Thorne found the empty box, and his face went white with anger. Then he offered Lucia a lot of money. \"Think about it,\" he said. \"Under the circumstances, a little money is better than a lot of trouble. Nobody cares about an old pilot.\" \"I care,\" said Lucia. \"So did my grandmother.\"",
+   "ru": "Утром Торн обнаружил пустой ящик, и его лицо побелело от злости. Потом он предложил Лусии много денег. «Подумайте», — сказал он. «В данных обстоятельствах немного денег лучше, чем много неприятностей. Никому нет дела до старого пилота». «Мне есть дело», — сказала Лусия. «И моей бабушке было».",
+   "s": [
+    [
+     "In the morning Thorne found the empty box, and his face went white with anger.",
+     "Утром Торн обнаружил пустой ящик, и его лицо побелело от злости."
+    ],
+    [
+     "Then he offered Lucia a lot of money.",
+     "Потом он предложил Лусии много денег."
+    ],
+    [
+     "\"Think about it,\" he said.",
+     "«Подумайте», — сказал он."
+    ],
+    [
+     "\"Under the circumstances, a little money is better than a lot of trouble. Nobody cares about an old pilot.\"",
+     "«В данных обстоятельствах немного денег лучше, чем много неприятностей. Никому нет дела до старого пилота»."
+    ],
+    [
+     "\"I care,\" said Lucia.",
+     "«Мне есть дело», — сказала Лусия."
+    ],
+    [
+     "\"So did my grandmother.\"",
+     "«И моей бабушке было»."
+    ]
+   ]
+  },
+  {
+   "en": "It was Ignacio, the quiet cameraman, who ended the discussion. \"Your helmet camera was on the whole time, Mr Thorne,\" he said nervously. \"It recorded everything under the water: the chain, the knife, the box. And last night I used your satellite phone to send a copy to the studio.\"",
+   "ru": "Разговор закончил Игнасио, тихий оператор. «Камера на вашем шлеме всё время была включена, мистер Торн», — нервно сказал он. «Она записала всё, что было под водой: цепь, нож, ящик. А вчера вечером я воспользовался вашим спутниковым телефоном и отправил копию на студию».",
+   "s": [
+    [
+     "It was Ignacio, the quiet cameraman, who ended the discussion.",
+     "Разговор закончил Игнасио, тихий оператор."
+    ],
+    [
+     "\"Your helmet camera was on the whole time, Mr Thorne,\" he said nervously.",
+     "«Камера на вашем шлеме всё время была включена, мистер Торн», — нервно сказал он."
+    ],
+    [
+     "\"It recorded everything under the water: the chain, the knife, the box.",
+     "«Она записала всё, что было под водой: цепь, нож, ящик."
+    ],
+    [
+     "And last night I used your satellite phone to send a copy to the studio.\"",
+     "А вчера вечером я воспользовался вашим спутниковым телефоном и отправил копию на студию»."
+    ]
+   ]
+  },
+  {
+   "en": "\"You're fired,\" he said. \"No,\" said Ignacio, and for the first time his voice was firm. \"I quit. I'm tired of making programmes about other people's lies.\"",
+   "ru": "«Ты уволен», — сказал он. «Нет, — ответил Игнасио, и впервые его голос звучал твёрдо. Я сам ухожу. Я устал делать программы о чужой лжи».",
+   "s": [
+    [
+     "\"You're fired,\" he said.",
+     "«Ты уволен», — сказал он."
+    ],
+    [
+     "\"No,\" said Ignacio, and for the first time his voice was firm.",
+     "«Нет, — ответил Игнасио, и впервые его голос звучал твёрдо."
+    ],
+    [
+     "\"I quit.",
+     "Я сам ухожу."
+    ],
+    [
+     "I'm tired of making programmes about other people's lies.\"",
+     "Я устал делать программы о чужой лжи»."
+    ]
+   ]
+  },
+  {
+   "en": "The journey back took eleven days, and it was the longest of Lucia's life. He walked at the back without his red cap, which he had lost somewhere in the swamp, and nobody went back to look for it. Mateo led them by a different path, to avoid the places where a man might easily have an accident.",
+   "ru": "Обратный путь занял одиннадцать дней и стал самым долгим в жизни Лусии. Он шёл позади всех без своей красной кепки, которую потерял где-то в болоте, и никто не вернулся её искать. Матео вёл их другой тропой, чтобы обойти места, где с человеком легко может случиться несчастье.",
+   "s": [
+    [
+     "The journey back took eleven days, and it was the longest of Lucia's life.",
+     "Обратный путь занял одиннадцать дней и стал самым долгим в жизни Лусии."
+    ],
+    [
+     "He walked at the back without his red cap, which he had lost somewhere in the swamp, and nobody went back to look for it.",
+     "Он шёл позади всех без своей красной кепки, которую потерял где-то в болоте, и никто не вернулся её искать."
+    ],
+    [
+     "Mateo led them by a different path, to avoid the places where a man might easily have an accident.",
+     "Матео вёл их другой тропой, чтобы обойти места, где с человеком легко может случиться несчастье."
+    ]
+   ]
+  },
+  {
+   "en": "Three months later, Arturo's letter and photographs were printed on the front page of the biggest newspaper in the country. The police searched the Thorne family's house and found the real Jaguar Mask in a locked room, where it had stayed for sixty years. The museum's review of the case took only a week, and its conclusion was short: Arturo Quintero had been innocent. Desmond Thorne's show was cancelled, and his fame disappeared faster than the Cherry had sunk into the lake.",
+   "ru": "Три месяца спустя письмо и фотографии Артуро были напечатаны на первой полосе крупнейшей газеты страны. Полиция обыскала дом семьи Торн и нашла настоящую Маску Ягуара в запертой комнате, где она пролежала шестьдесят лет. Пересмотр дела музеем занял всего неделю, а вывод был коротким: Артуро Кинтеро был невиновен. Шоу Десмонда Торна закрыли, и его слава исчезла быстрее, чем „Вишенка“ ушла на дно озера.",
+   "s": [
+    [
+     "Three months later, Arturo's letter and photographs were printed on the front page of the biggest newspaper in the country.",
+     "Три месяца спустя письмо и фотографии Артуро были напечатаны на первой полосе крупнейшей газеты страны."
+    ],
+    [
+     "The police searched the Thorne family's house and found the real Jaguar Mask in a locked room, where it had stayed for sixty years.",
+     "Полиция обыскала дом семьи Торн и нашла настоящую Маску Ягуара в запертой комнате, где она пролежала шестьдесят лет."
+    ],
+    [
+     "The museum's review of the case took only a week, and its conclusion was short: Arturo Quintero had been innocent.",
+     "Пересмотр дела музеем занял всего неделю, а вывод был коротким: Артуро Кинтеро был невиновен."
+    ],
+    [
+     "Desmond Thorne's show was cancelled, and his fame disappeared faster than the Cherry had sunk into the lake.",
+     "Шоу Десмонда Торна закрыли, и его слава исчезла быстрее, чем „Вишенка“ ушла на дно озера."
+    ]
+   ]
+  },
+  {
+   "en": "In late summer, the real mask returned to the great hall of the museum. Lucia stood in front of it with Mateo, who wore a new shirt that was slightly too big for him. Next to the glass there was a small new sign with her grandfather's name and photograph. She thought of her grandmother, whose stubborn faith had been her inspiration from the very beginning. \"Thanks,\" Lucia said to the old man, and she hugged him. \"Fate brought the spoon back to you,\" said Mateo. \"I only carried it a little way.\"",
+   "ru": "В конце лета настоящая маска вернулась в большой зал музея. Лусия стояла перед ней вместе с Матео, на котором была новая рубашка, немного великоватая для него. Рядом со стеклом висела небольшая новая табличка с именем и фотографией её деда. Она подумала о бабушке, чья упрямая вера с самого начала вдохновляла её. «Спасибо», — сказала Лусия старику и обняла его. «Судьба вернула тебе ложку, — сказал Матео. Я лишь немного пронёс её по пути».",
+   "s": [
+    [
+     "In late summer, the real mask returned to the great hall of the museum.",
+     "В конце лета настоящая маска вернулась в большой зал музея."
+    ],
+    [
+     "Lucia stood in front of it with Mateo, who wore a new shirt that was slightly too big for him.",
+     "Лусия стояла перед ней вместе с Матео, на котором была новая рубашка, немного великоватая для него."
+    ],
+    [
+     "Next to the glass there was a small new sign with her grandfather's name and photograph.",
+     "Рядом со стеклом висела небольшая новая табличка с именем и фотографией её деда."
+    ],
+    [
+     "She thought of her grandmother, whose stubborn faith had been her inspiration from the very beginning.",
+     "Она подумала о бабушке, чья упрямая вера с самого начала вдохновляла её."
+    ],
+    [
+     "\"Thanks,\" Lucia said to the old man, and she hugged him.",
+     "«Спасибо», — сказала Лусия старику и обняла его."
+    ],
+    [
+     "\"Fate brought the spoon back to you,\" said Mateo.",
+     "«Судьба вернула тебе ложку, — сказал Матео."
+    ],
+    [
+     "\"I only carried it a little way.\"",
+     "Я лишь немного пронёс её по пути»."
+    ]
+   ]
+  },
+  {
+   "en": "That autumn, Lucia planted a young cherry tree next to her grandmother's old one. When people asked her about the expedition, she never bragged. She only said that the jungle had kept a secret for sixty years and had finally decided to give it back. Each morning she stirred her coffee with the old tin spoon, and each morning she felt the same quiet satisfaction. Her grandfather's name was clean at last.",
+   "ru": "Той осенью Лусия посадила молодую вишню рядом со старым бабушкиным деревом. Когда люди расспрашивали её об экспедиции, она никогда не хвасталась. Она говорила лишь, что джунгли шестьдесят лет хранили тайну и наконец решили её вернуть. Каждое утро она размешивала кофе старой жестяной ложкой и каждое утро испытывала то же тихое удовлетворение. Имя её деда наконец было очищено.",
+   "s": [
+    [
+     "That autumn, Lucia planted a young cherry tree next to her grandmother's old one.",
+     "Той осенью Лусия посадила молодую вишню рядом со старым бабушкиным деревом."
+    ],
+    [
+     "When people asked her about the expedition, she never bragged.",
+     "Когда люди расспрашивали её об экспедиции, она никогда не хвасталась."
+    ],
+    [
+     "She only said that the jungle had kept a secret for sixty years and had finally decided to give it back.",
+     "Она говорила лишь, что джунгли шестьдесят лет хранили тайну и наконец решили её вернуть."
+    ],
+    [
+     "Each morning she stirred her coffee with the old tin spoon, and each morning she felt the same quiet satisfaction.",
+     "Каждое утро она размешивала кофе старой жестяной ложкой и каждое утро испытывала то же тихое удовлетворение."
+    ],
+    [
+     "Her grandfather's name was clean at last.",
+     "Имя её деда наконец было очищено."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, об",
+  "accident": "несчастный случай",
+  "according": "согласно",
+  "across": "через, по",
+  "addressed": "адресованный",
+  "advantage": "преимущество",
+  "afraid": "страшно (I was afraid — мне было страшно)",
+  "after": "после",
+  "afternoon": "день, после полудня",
+  "again": "снова",
+  "ago": "назад",
+  "air": "воздух",
+  "all": "совсем (at all)",
+  "almost": "почти",
+  "alone": "один, одна",
+  "along": "вдоль",
+  "already": "уже",
+  "also": "также",
+  "although": "хотя",
+  "always": "всегда",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "anger": "злость, гнев",
+  "another": "ещё один",
+  "answer": "ответ",
+  "answered": "ответил(а)",
+  "anyone": "кого-либо",
+  "anything": "что-нибудь",
+  "appeared": "появился",
+  "argument": "спор",
+  "around": "вокруг, по",
+  "arrived": "пришло; явились",
+  "article": "статья",
+  "arturo": "Артуро (имя)",
+  "arturo's": "Артуро (чей)",
+  "as": "как, так как",
+  "asked": "спросил(а)",
+  "at": "в, у, на",
+  "ate": "ели",
+  "attached": "прикреплённый",
+  "attention": "внимание",
+  "autumn": "осень",
+  "avoid": "избегать",
+  "away": "прочь",
+  "back": "назад",
+  "badly": "тяжело, сильно",
+  "bag": "сумка, мешок",
+  "be": "быть",
+  "beach": "пляж",
+  "beans": "фасоль",
+  "beard": "борода",
+  "because": "потому что",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "beginning": "начало",
+  "behind": "за, позади",
+  "believed": "верила",
+  "belongs": "принадлежит",
+  "beside": "рядом с",
+  "best": "лучший",
+  "better": "лучше",
+  "between": "между",
+  "big": "большой",
+  "bigger": "крупнее",
+  "biggest": "крупнейший",
+  "bitten": "искусали",
+  "black": "чёрный",
+  "blanket": "покрывало",
+  "boat": "лодка",
+  "boats": "лодки",
+  "boots": "ботинки",
+  "both": "оба",
+  "bottom": "дно",
+  "box": "ящик",
+  "boy": "мальчик",
+  "bragged": "хвастался",
+  "bragging": "хвастаться",
+  "breakfast": "завтрак",
+  "broke": "сломался",
+  "brought": "вернула",
+  "brown": "коричневый",
+  "burned": "горела",
+  "bury": "похоронить",
+  "but": "но",
+  "by": "у, к, от",
+  "called": "называемый; назвал",
+  "calling": "звонили",
+  "calm": "спокойный",
+  "came": "пришёл; поднялись",
+  "camera": "камера",
+  "cameraman": "оператор",
+  "cameras": "камеры",
+  "can't": "не может, нельзя",
+  "cancelled": "закрыли (шоу)",
+  "cap": "кепка",
+  "capital": "столица",
+  "care": "есть дело (I care — мне не всё равно)",
+  "careful": "осторожный, тщательный",
+  "cares": "есть дело",
+  "cargo": "грузовой",
+  "carried": "возил; перевозил; пронёс",
+  "case": "дело",
+  "chain": "цепь",
+  "chance": "случай",
+  "checked": "проверила",
+  "cheeks": "щёки",
+  "cherry": "вишня, вишнёвый",
+  "chest": "грудь",
+  "choice": "выбор",
+  "circumstances": "обстоятельства",
+  "clean": "чистый",
+  "cleared": "осел, рассеялся",
+  "close": "близко; рядом",
+  "cloud": "облако",
+  "coast": "побережье",
+  "cockpit": "кабина пилота",
+  "coffee": "кофе",
+  "cold": "холодный",
+  "collector": "коллекционер",
+  "come": "прийти; прилететь",
+  "coming": "иду",
+  "complain": "жаловаться",
+  "conclusion": "вывод",
+  "continued": "продолжили",
+  "coordinates": "координаты",
+  "copy": "копия",
+  "could": "мог(ла)",
+  "country": "страна",
+  "cutting": "перерезал",
+  "dark": "тёмный",
+  "day": "день",
+  "days": "дни",
+  "dead": "мёртвый",
+  "decided": "решили",
+  "decision": "решение",
+  "deep": "глубокий",
+  "desmond": "Десмонд (имя)",
+  "did": "(вспом. гл.)",
+  "didn't": "не (прош. вр.)",
+  "died": "умер(ла)",
+  "different": "другой, не такой",
+  "director": "директор",
+  "disappeared": "исчез(ла)",
+  "discovered": "узнал",
+  "discovery": "открытие",
+  "discussion": "разговор, спор",
+  "divided": "разделялась",
+  "diving": "дайвинг, ныряние",
+  "does": "(вспом. гл.)",
+  "doesn't": "не (вспом.)",
+  "don't": "не (повел.)",
+  "door": "дверь",
+  "down": "вниз",
+  "dry": "сухой; сушить",
+  "each": "каждый",
+  "earlier": "раньше",
+  "early": "ранний",
+  "earth": "земля",
+  "easily": "легко",
+  "eating": "ел",
+  "eighth": "восьмой",
+  "elena": "Елена (имя)",
+  "eleven": "одиннадцать",
+  "empty": "пустой",
+  "end": "конец",
+  "ended": "закончил",
+  "engine": "мотор",
+  "envelope": "конверт",
+  "equipment": "снаряжение",
+  "evening": "вечер",
+  "evenings": "вечера",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "everyone": "все",
+  "everything": "всё",
+  "expedition": "экспедиция",
+  "explained": "объяснил",
+  "eyes": "глаза",
+  "face": "лицо",
+  "faded": "выцветший",
+  "failed": "отказал",
+  "faith": "вера",
+  "fake": "подделка",
+  "fame": "слава",
+  "family": "семья",
+  "family's": "семьи",
+  "far": "далеко",
+  "faster": "быстрее",
+  "fate": "судьба",
+  "father": "отец",
+  "felt": "чувствовала",
+  "few": "несколько",
+  "fifty": "пятьдесят",
+  "filmed": "снимал",
+  "finally": "наконец",
+  "find": "найти",
+  "fire": "костёр",
+  "fired": "уволен",
+  "firm": "твёрдый",
+  "firmly": "твёрдо",
+  "first": "первый; сначала",
+  "fishing": "рыбацкий",
+  "fixed": "чинил",
+  "flew": "пролетел",
+  "floor": "пол",
+  "flown": "улетел",
+  "flying": "летел",
+  "followed": "пошли за",
+  "for": "для, в течение",
+  "fortunately": "к счастью",
+  "forty": "сорок",
+  "fought": "боролся",
+  "found": "нашла; нашли",
+  "four": "четыре",
+  "friendly": "дружелюбный",
+  "from": "из, от",
+  "front": "перед (in front of); первая (полоса)",
+  "gave": "отдал(а)",
+  "gentle": "нежный, добрый",
+  "gently": "мягко",
+  "give": "дать",
+  "given": "отдал",
+  "glass": "стекло, стеклянный",
+  "glue": "клей",
+  "go": "ехать, идти",
+  "goes": "пойдёт (goes wrong — пойдёт не так)",
+  "golden": "золотой",
+  "gone": "пойти (would have gone)",
+  "grabbed": "схватил",
+  "grandfather": "дедушка",
+  "grandfather's": "дедушкин",
+  "grandmother": "бабушка",
+  "grandmother's": "бабушкин",
+  "great": "большой",
+  "green": "зелёный",
+  "grew": "стал (grew old — состарился)",
+  "grey": "серый",
+  "ground": "земля",
+  "guide": "проводник",
+  "had": "(вспом. гл.); имела",
+  "half": "половина",
+  "hall": "зал",
+  "hand": "рука",
+  "handle": "ручка",
+  "handwriting": "почерк",
+  "hard": "твёрдый; сильно",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "hear": "слышать",
+  "heart": "сердце",
+  "held": "выдержала; держалась",
+  "helmet": "шлем",
+  "her": "её, ей",
+  "here": "здесь",
+  "him": "его, ему",
+  "hired": "наняла",
+  "his": "его",
+  "honestly": "честно",
+  "hour": "час",
+  "house": "дом",
+  "hugged": "обняла",
+  "hurt": "раненый",
+  "i": "я",
+  "i'm": "я (есть)",
+  "if": "если, ли",
+  "ignacio": "Игнасио (имя)",
+  "in": "в",
+  "innocent": "невиновный",
+  "insects": "насекомые",
+  "inside": "внутри",
+  "inspiration": "вдохновение",
+  "interesting": "интересно",
+  "into": "в",
+  "is": "есть, является",
+  "it": "он, оно, это",
+  "it'll": "это будет (it will)",
+  "it's": "это",
+  "its": "его, её",
+  "jaguar": "ягуар",
+  "jam": "варенье",
+  "journalist": "журналист",
+  "journey": "путешествие",
+  "jungle": "джунгли",
+  "just": "просто",
+  "kept": "хранили",
+  "kind": "вид; a kind of — что-то вроде",
+  "kitchen": "кухня",
+  "knew": "знал(и)",
+  "knife": "нож",
+  "know": "знаю",
+  "lake": "озеро",
+  "landed": "приземлился",
+  "last": "последний; прошлый",
+  "late": "поздно",
+  "later": "позже",
+  "lay": "лежал",
+  "led": "привели",
+  "left": "левый (on the left)",
+  "letter": "письмо",
+  "letters": "буквы",
+  "lies": "ложь",
+  "life": "жизнь",
+  "light": "свет",
+  "like": "как",
+  "listen": "слушать",
+  "little": "маленький, немного",
+  "live": "жить",
+  "lived": "жила; прожил",
+  "lock": "замок",
+  "locked": "запертый",
+  "long": "долго, долгий",
+  "longer": "дольше",
+  "longest": "самый долгий",
+  "look": "смотреть",
+  "looked": "посмотрел",
+  "lost": "потерял(а)",
+  "lot": "много (a lot)",
+  "low": "низко",
+  "lucia": "Лусия (имя)",
+  "lucia's": "Лусии",
+  "made": "сделал; заставил",
+  "making": "варя, делая",
+  "man": "мужчина",
+  "map": "карта",
+  "mask": "маска",
+  "mateo": "Матео (имя)",
+  "me": "меня, мне",
+  "meant": "означали",
+  "memory": "память",
+  "message": "сообщение",
+  "metal": "металлический",
+  "metres": "метров",
+  "middle": "середина",
+  "might": "мог бы",
+  "missing": "пропавший",
+  "moment": "мгновение",
+  "money": "деньги",
+  "months": "месяцы",
+  "more": "больше",
+  "morning": "утро",
+  "moved": "повела",
+  "mr": "мистер",
+  "mud": "ил",
+  "museum": "музей",
+  "museum's": "музея",
+  "must": "должен",
+  "my": "мой",
+  "name": "имя",
+  "named": "назвал; по имени",
+  "narrow": "узкий",
+  "national": "национальный",
+  "near": "возле, у",
+  "nearby": "поблизости",
+  "neck": "шея",
+  "needed": "нуждался",
+  "neither": "ни один",
+  "nervous": "нервный",
+  "nervously": "нервно",
+  "never": "никогда",
+  "new": "новый",
+  "newspaper": "газета",
+  "newspapers": "газеты",
+  "next": "рядом (next to)",
+  "night": "ночь",
+  "no": "нет",
+  "nobody": "никто",
+  "noon": "полдень",
+  "nor": "и не",
+  "nose": "нос",
+  "not": "не",
+  "notebook": "блокнот",
+  "nothing": "ничего",
+  "now": "теперь",
+  "nowhere": "нигде (middle of nowhere — глушь)",
+  "numbers": "цифры",
+  "of": "из, о, (род. падеж)",
+  "offered": "предложил",
+  "official": "официальный",
+  "old": "старый",
+  "on": "на",
+  "one": "один, одна",
+  "only": "только",
+  "open": "открыть",
+  "opened": "открывал",
+  "ordered": "заказал",
+  "other": "другой",
+  "others": "другие",
+  "out": "из (out of)",
+  "outside": "снаружи",
+  "over": "над",
+  "own": "собственный",
+  "packing": "собирал (вещи)",
+  "page": "страница",
+  "paid": "платили",
+  "painted": "написанный краской",
+  "paper": "бумага",
+  "papers": "бумаги",
+  "part": "часть",
+  "past": "мимо",
+  "path": "тропа",
+  "people": "люди",
+  "people's": "людей",
+  "perfect": "идеальный",
+  "phone": "телефон",
+  "photograph": "фотография",
+  "photographs": "фотографии",
+  "piece": "кусок",
+  "pilot": "пилот",
+  "pilot's": "пилота",
+  "place": "место",
+  "places": "места",
+  "plane": "самолёт",
+  "planted": "посадил(а)",
+  "pocket": "карман",
+  "pointed": "указали",
+  "police": "полиция, полицейский",
+  "power": "власть",
+  "powerful": "влиятельный",
+  "printed": "напечатаны",
+  "private": "частный",
+  "probably": "вероятно",
+  "producer": "продюсер",
+  "programmes": "программы",
+  "proof": "доказательство",
+  "pull": "тянуть",
+  "pulled": "дёрнул",
+  "put": "положил; надела",
+  "questions": "вопросы",
+  "quickly": "быстро",
+  "quiet": "тихий",
+  "quietly": "тихо",
+  "quintero": "Кинтеро (фамилия)",
+  "quit": "ухожу (с работы)",
+  "ran": "тянулась",
+  "rather": "скорее, лучше",
+  "reached": "дошли",
+  "real": "настоящий",
+  "realised": "понял",
+  "really": "действительно",
+  "received": "получили",
+  "recently": "недавно",
+  "record": "запись",
+  "recorded": "записала",
+  "records": "записи",
+  "red": "красный",
+  "rely": "полагаться",
+  "repaired": "ремонтировал",
+  "repeat": "повторить",
+  "repeated": "повторила",
+  "resided": "проживала",
+  "returned": "вернулся; вернулась",
+  "review": "обзор",
+  "reviews": "обзоры",
+  "rice": "рис",
+  "rich": "богатый",
+  "right": "прав(а)",
+  "river": "река",
+  "rivers": "реки",
+  "room": "комната",
+  "rope": "верёвка",
+  "rose": "поднялось",
+  "round": "круглый",
+  "route": "маршрут",
+  "ruiz": "Руис (фамилия)",
+  "rules": "правила",
+  "rust": "ржавчина",
+  "rusty": "ржавый",
+  "said": "сказал(а)",
+  "same": "тот же",
+  "sand": "песок",
+  "sat": "сел; сидела",
+  "satellite": "спутниковый",
+  "satisfaction": "удовлетворение",
+  "saw": "увидела; увидел",
+  "scratched": "нацарапал",
+  "searched": "обыскала",
+  "seat": "кресло",
+  "second": "второй",
+  "secret": "тайна",
+  "see": "посмотреть; видеть",
+  "seen": "видели",
+  "send": "послать",
+  "sense": "смысл",
+  "sent": "отправил",
+  "series": "сезон, сериал",
+  "shape": "облик (in the shape of — в лице)",
+  "she": "она",
+  "ship": "корабль",
+  "shirt": "рубашка",
+  "shore": "берег",
+  "short": "короткий",
+  "show": "шоу",
+  "side": "сторона",
+  "sign": "табличка",
+  "sixth": "шестой",
+  "sixty": "шестьдесят",
+  "skipped": "пропустили",
+  "sleep": "спать",
+  "slept": "спали",
+  "slightly": "слегка, чуть",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smile": "улыбка",
+  "smiled": "улыбнулся",
+  "smiling": "улыбаясь",
+  "smoke": "дым",
+  "smooth": "гладкий",
+  "so": "так; такой",
+  "socks": "носки",
+  "soft": "мягкий",
+  "sold": "продал",
+  "solid": "сплошной, намертво",
+  "someone": "кто-то",
+  "something": "что-то",
+  "somewhere": "где-то",
+  "spent": "провела",
+  "spoon": "ложка",
+  "spring": "весна",
+  "star": "звезда",
+  "stay": "остаться",
+  "stayed": "пролежала; оставалась",
+  "steel": "стальной",
+  "stirred": "размешивала",
+  "stolen": "украл",
+  "stood": "стоял",
+  "stopped": "перестал",
+  "story": "история",
+  "stronger": "сильнее",
+  "stubborn": "упрямый",
+  "stuck": "липла",
+  "studied": "разглядывала",
+  "studio": "студия",
+  "suddenly": "вдруг",
+  "summer": "лето",
+  "sunk": "затонул",
+  "surface": "поверхность",
+  "surrounded": "окружённый",
+  "swallow": "проглотить",
+  "swam": "плыл(а)",
+  "swamp": "болото",
+  "swamps": "болота",
+  "table": "стол",
+  "taken": "взял; сделал",
+  "talking": "говорил",
+  "tall": "высокий",
+  "taught": "учила",
+  "tears": "слёзы",
+  "television": "телевидение",
+  "tell": "сказать",
+  "tent": "палатка",
+  "terrible": "ужасный",
+  "than": "чем",
+  "thanks": "спасибо",
+  "that": "что; тот, это",
+  "the": "(опр. артикль)",
+  "their": "их, свои",
+  "them": "их",
+  "then": "потом, тогда",
+  "there": "там",
+  "they": "они",
+  "thief": "вор",
+  "thin": "худой",
+  "thing": "вещь",
+  "think": "думаю",
+  "this": "этот",
+  "thorne": "Торн (фамилия)",
+  "thorne's": "Торна",
+  "thought": "думала; подумала",
+  "three": "три",
+  "through": "через, сквозь",
+  "time": "время, раз",
+  "times": "раз",
+  "tin": "жестяной",
+  "tiny": "крошечный",
+  "tired": "усталый",
+  "to": "к, в; (частица)",
+  "together": "вместе",
+  "told": "сказал",
+  "too": "слишком",
+  "took": "занял; вынул",
+  "touch": "трогать",
+  "touched": "коснулась",
+  "tourists": "туристов",
+  "town": "город",
+  "travelled": "плыли, путешествовали",
+  "treasure": "сокровище",
+  "treasures": "сокровища",
+  "tree": "дерево",
+  "trees": "деревья",
+  "tried": "пытался",
+  "trouble": "неприятности",
+  "trusted": "доверял",
+  "truth": "правда",
+  "twelve": "двенадцать",
+  "twice": "дважды",
+  "two": "два",
+  "under": "под",
+  "until": "до",
+  "up": "вверх",
+  "us": "нам",
+  "used": "воспользовался",
+  "usual": "обычный",
+  "very": "очень",
+  "village": "деревня",
+  "voice": "голос",
+  "waited": "ждала",
+  "walk": "идти",
+  "walked": "шёл",
+  "want": "хотеть",
+  "wanted": "хотел",
+  "wants": "хочет",
+  "warm": "тёплый",
+  "was": "был(а)",
+  "watch": "следить",
+  "water": "вода",
+  "waterproof": "непромокаемый",
+  "way": "способ, так",
+  "we": "мы",
+  "we'll": "мы (буд. время)",
+  "week": "неделя",
+  "went": "пошёл; побелело (went white)",
+  "were": "были",
+  "wet": "дождливый; мокрый",
+  "what": "что",
+  "when": "когда",
+  "where": "где",
+  "which": "который, что",
+  "while": "пока",
+  "whispered": "прошептала",
+  "white": "белый",
+  "who": "кто, который",
+  "whole": "весь (the whole time — всё время)",
+  "whose": "чей",
+  "why": "почему",
+  "will": "будет",
+  "wing": "крыло",
+  "wire": "проволока",
+  "with": "с",
+  "without": "без",
+  "woke": "проснулась",
+  "won't": "не (буд. время)",
+  "word": "слово",
+  "words": "слова",
+  "wore": "носил; был в",
+  "worked": "работал",
+  "workshop": "мастерская",
+  "worried": "обеспокоенный",
+  "worries": "волнуется",
+  "worse": "хуже",
+  "worst": "худший",
+  "would": "бы",
+  "wrapped": "завёрнутый",
+  "writes": "пишет",
+  "written": "написал",
+  "wrong": "неправильно",
+  "years": "лет, годы",
+  "you": "вы, ты",
+  "you're": "ты (есть)",
+  "young": "молодой",
+  "your": "ваш"
+ },
+ "vocab": {
+  "power": 537,
+  "powerful": 537,
+  "hall": 274,
+  "record": 567,
+  "records": 567,
+  "recorded": 567,
+  "avoid": 387,
+  "cherry": 160,
+  "firm": 27,
+  "firmly": 27,
+  "rather": 533,
+  "rely": 530,
+  "wore": 300,
+  "cap": 72,
+  "satisfaction": 482,
+  "meant": 280,
+  "fame": 501,
+  "spoon": 599,
+  "beard": 90,
+  "reviews": 373,
+  "review": 373,
+  "sent": 261,
+  "send": 261,
+  "resided": 574,
+  "sense": 401,
+  "earth": 82,
+  "decision": 420,
+  "bragging": 642,
+  "bragged": 642,
+  "listen": 83,
+  "fortunately": 334,
+  "hugged": 51,
+  "fate": 450,
+  "each": 313,
+  "think": 65,
+  "thought": 65,
+  "spring": 216,
+  "ship": 87,
+  "thanks": 12,
+  "thief": 350,
+  "worst": 377,
+  "failed": 505,
+  "recently": 584,
+  "lay": 146,
+  "floor": 35,
+  "led": 502,
+  "that": 177,
+  "under": 108,
+  "stay": 243,
+  "stayed": 243,
+  "socks": 452,
+  "fixed": 378,
+  "carried": 150,
+  "reached": 241,
+  "circumstances": 555,
+  "returned": 95,
+  "gentle": 520,
+  "gently": 520,
+  "afternoon": 230,
+  "advantage": 262,
+  "attached": 535,
+  "sand": 276,
+  "nearby": 315,
+  "repeat": 181,
+  "repeated": 181,
+  "attention": 271,
+  "skipped": 470,
+  "tired": 53,
+  "neck": 212,
+  "worried": 480,
+  "inspiration": 650
+ }
+}

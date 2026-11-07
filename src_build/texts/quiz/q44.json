@@ -1,0 +1,110 @@
+[
+ {
+  "q": "How did Ilse know the signal was not coming from Earth?",
+  "q_ru": "Как Ильзе поняла, что сигнал идёт не с Земли?",
+  "options": [
+   "It was louder than any radio on Earth",
+   "Owen told her it was from space",
+   "It moved across the sky at the same speed as the stars",
+   "It stopped every time a plane flew past"
+  ],
+  "options_ru": [
+   "Он был громче любого земного радио",
+   "Оуэн сказал ей, что он из космоса",
+   "Он двигался по небу с той же скоростью, что и звёзды",
+   "Он прерывался каждый раз, когда пролетал самолёт"
+  ],
+  "answer": 2,
+  "explain_ru": "Спутников и самолётов не было, а сигнал «was moving across the sky at exactly the same speed as the stars, which meant that it was not coming from Earth»."
+ },
+ {
+  "q": "What did the numbers nine, twelve, nineteen, five mean?",
+  "q_ru": "Что означали числа 9, 12, 19, 5?",
+  "options": [
+   "The letters of Ilse's name",
+   "The date of her birthday",
+   "The position of the star Kepra",
+   "A telephone number"
+  ],
+  "options_ru": [
+   "Буквы имени Ильзе",
+   "Дату её дня рождения",
+   "Положение звезды Кепра",
+   "Номер телефона"
+  ],
+  "answer": 0,
+  "explain_ru": "Это детский шифр «one for A, two for B»: I, L, S, E. «The signal from the stars was saying her name.»"
+ },
+ {
+  "q": "\"Owen had a reputation.\" What does this mean here?",
+  "q_ru": "«Owen had a reputation». Что это значит здесь?",
+  "options": [
+   "He was famous on television",
+   "He was the best technician in the desert",
+   "He was often late for work",
+   "People knew him for playing jokes"
+  ],
+  "options_ru": [
+   "Он был знаменит на телевидении",
+   "Он был лучшим техником в пустыне",
+   "Он часто опаздывал на работу",
+   "Все знали, что он любит разыгрывать людей"
+  ],
+  "answer": 3,
+  "explain_ru": "Reputation — репутация. Дальше примеры: он прятал пластиковую змею в её столе и сделал голос компьютера пиратским. Поэтому Ильзе сначала подумала на него."
+ },
+ {
+  "q": "Why did Ilse's father lose his job in 1982?",
+  "q_ru": "Почему отец Ильзе потерял работу в 1982 году?",
+  "options": [
+   "He broke the telescope by mistake",
+   "He used the telescope without permission to send a message",
+   "He sold secret information to a newspaper",
+   "He brought his daughter to work at night"
+  ],
+  "options_ru": [
+   "Он случайно сломал телескоп",
+   "Он без разрешения использовал телескоп, чтобы отправить послание",
+   "Он продал секретные сведения газете",
+   "Он привёз дочь на работу ночью"
+  ],
+  "answer": 1,
+  "explain_ru": "«Nobody had given him permission». Послание заняло телескоп на шесть часов, и когда директор узнал, «Leonard lost his job»."
+ },
+ {
+  "q": "Why was Ilse's own child voice at the end of the signal?",
+  "q_ru": "Почему в конце сигнала был голос маленькой Ильзе?",
+  "options": [
+   "To show that they had received and heard her message",
+   "Because Owen added it as a joke",
+   "Because the telescope recorded it by mistake",
+   "To ask her to send more numbers"
+  ],
+  "options_ru": [
+   "Чтобы показать, что её послание получили и услышали",
+   "Потому что Оуэн добавил его в шутку",
+   "Потому что телескоп случайно его записал",
+   "Чтобы попросить её прислать ещё числа"
+  ],
+  "answer": 0,
+  "explain_ru": "Оуэн объясняет: они не понимают английский, «So they gave them back, to show that they had heard»."
+ },
+ {
+  "q": "What did Ilse do at the end of the story?",
+  "q_ru": "Что Ильзе сделала в конце рассказа?",
+  "options": [
+   "She waited for the government to decide",
+   "She asked Owen to send an answer",
+   "She sent a reply herself with her father's microphone",
+   "She gave her story to a newspaper"
+  ],
+  "options_ru": [
+   "Ждала решения правительства",
+   "Попросила Оуэна отправить ответ",
+   "Сама отправила ответ через микрофон отца",
+   "Рассказала свою историю газете"
+  ],
+  "answer": 2,
+  "explain_ru": "Не дожидаясь «years of careful discussion», она подключила старый микрофон отца и сказала: «Hello again... Thank you for answering»."
+ }
+]

@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What happened in the MGM Grand lobby a few hours before Tupac was shot?",
+  "q_ru": "Что произошло в вестибюле MGM Grand за несколько часов до того, как в Тупака стреляли?",
+  "options": [
+   "Tupac argued with Biggie",
+   "Tupac and his group beat Orlando Anderson",
+   "Suge Knight was arrested",
+   "Mike Tyson attacked Tupac"
+  ],
+  "options_ru": [
+   "Тупак поругался с Бигги",
+   "Тупак и его компания избили Орландо Андерсона",
+   "Шуга Найта арестовали",
+   "Майк Тайсон напал на Тупака"
+  ],
+  "answer": 1,
+  "explain_ru": "После боя Тупак, Найт и другие напали на Орландо Андерсона, члена банды Southside Compton Crips; это записали камеры отеля."
+ },
+ {
+  "q": "Why did Tupac's friendship with Biggie end?",
+  "q_ru": "Почему закончилась дружба Тупака и Бигги?",
+  "options": [
+   "Tupac blamed Biggie and Combs for the 1994 attack on him in New York",
+   "Biggie refused to sign with Death Row",
+   "They argued about a boxing match",
+   "Biggie insulted Tupac in \"Hit 'Em Up\""
+  ],
+  "options_ru": [
+   "Тупак обвинил Бигги и Комбса в нападении на него в Нью-Йорке в 1994 году",
+   "Бигги отказался подписать контракт с Death Row",
+   "Они поспорили из-за боксёрского матча",
+   "Бигги оскорбил Тупака в песне «Hit 'Em Up»"
+  ],
+  "answer": 0,
+  "explain_ru": "В ноябре 1994 года в Тупака стреляли и ограбили его в студии на Таймс-сквер; он публично обвинил Бигги и Комбса, а они это отрицали. «Hit 'Em Up» написал сам Тупак."
+ },
+ {
+  "q": "What did detective Russell Poole believe about Biggie's murder?",
+  "q_ru": "Во что верил детектив Рассел Пул в отношении убийства Бигги?",
+  "options": [
+   "Tupac had organised it before his death",
+   "It was a robbery by strangers",
+   "Corrupt police officers linked to Death Row were involved",
+   "Biggie had faked his own death"
+  ],
+  "options_ru": [
+   "Что Тупак организовал его до своей смерти",
+   "Что это было ограбление незнакомцами",
+   "Что в нём были замешаны продажные полицейские, связанные с Death Row",
+   "Что Бигги инсценировал собственную смерть"
+  ],
+  "answer": 2,
+  "explain_ru": "Пул пришёл к убеждению, что замешаны продажные полицейские, связанные с Death Row; департамент отверг это, и никого из полицейских не обвинили."
+ },
+ {
+  "q": "Which fact strongly shows that Tupac really died?",
+  "q_ru": "Какой факт убедительно показывает, что Тупак действительно умер?",
+  "options": [
+   "He released an album under the name Makaveli",
+   "People said they had seen him in other countries",
+   "New songs kept appearing for years",
+   "Doctors declared him dead and his body was cremated"
+  ],
+  "options_ru": [
+   "Он выпустил альбом под именем Makaveli",
+   "Люди говорили, что видели его в других странах",
+   "Новые песни появлялись годами",
+   "Врачи констатировали смерть, а тело кремировали"
+  ],
+  "answer": 3,
+  "explain_ru": "Его смерть в больнице официально зарегистрирована, тело кремировано; «новые» песни были из старых записей."
+ },
+ {
+  "q": "What were the prosecutors' main claims against Duane \"Keffe D\" Davis?",
+  "q_ru": "В чём прокуроры главным образом обвиняли Дуэйна «Кеффи Ди» Дэвиса?",
+  "options": [
+   "That he fired the shots himself",
+   "That he organised the attack and got the gun",
+   "That he paid Suge Knight to drive the car",
+   "That he hid the white Cadillac for years"
+  ],
+  "options_ru": [
+   "Что он сам стрелял",
+   "Что он организовал нападение и достал пистолет",
+   "Что он заплатил Шугу Найту, чтобы тот вёл машину",
+   "Что он годами прятал белый «Кадиллак»"
+  ],
+  "answer": 1,
+  "explain_ru": "Прокуроры не утверждали, что стрелял Дэвис: по их версии, он организовал нападение и достал оружие в отместку за избиение племянника."
+ },
+ {
+  "q": "What is still unproven after the 2026 trial?",
+  "q_ru": "Что остаётся недоказанным после суда 2026 года?",
+  "options": [
+   "That Keffe D was in the Cadillac",
+   "That Tupac was shot in Las Vegas",
+   "Who killed Biggie and who actually pulled the trigger in Tupac's case",
+   "That Keffe D talked about the shooting in public"
+  ],
+  "options_ru": [
+   "Что Кеффи Ди был в «Кадиллаке»",
+   "Что в Тупака стреляли в Лас-Вегасе",
+   "Кто убил Бигги и кто на самом деле стрелял в Тупака",
+   "Что Кеффи Ди публично рассказывал о стрельбе"
+  ],
+  "answer": 2,
+  "explain_ru": "Андерсона так и не судили, поэтому суд не решал, кто стрелял; убийство Бигги официально не раскрыто, и никому не предъявили обвинения."
+ }
+]

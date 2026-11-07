@@ -1,0 +1,1456 @@
+{
+ "id": 39,
+ "level": "B1",
+ "title_en": "The Baron Has Vanished",
+ "title_ru": "Барон исчез",
+ "genre": "Комедийный детектив",
+ "summary_ru": "Неуклюжий частный сыщик, которому нечем платить за аренду, берётся за дело о пропавшем коте богатой старушки — и всё, что может пойти не так, идёт не так.",
+ "paragraphs": [
+  {
+   "en": "Barnaby Plum had been a private detective for twenty-two years, and in all that time he had solved exactly four cases. Two of them had been solved by accident, and one had been solved by his mother. He had passed the detective exam on his third attempt.",
+   "ru": "Барнаби Плам был частным детективом уже двадцать два года и за всё это время раскрыл ровно четыре дела. Два из них были раскрыты случайно, а одно раскрыла его мама. Экзамен на детектива он сдал с третьей попытки.",
+   "s": [
+    [
+     "Barnaby Plum had been a private detective for twenty-two years, and in all that time he had solved exactly four cases.",
+     "Барнаби Плам был частным детективом уже двадцать два года и за всё это время раскрыл ровно четыре дела."
+    ],
+    [
+     "Two of them had been solved by accident, and one had been solved by his mother.",
+     "Два из них были раскрыты случайно, а одно раскрыла его мама."
+    ],
+    [
+     "He had passed the detective exam on his third attempt.",
+     "Экзамен на детектива он сдал с третьей попытки."
+    ]
+   ]
+  },
+  {
+   "en": "On a grey autumn morning he sat in his tiny office above a fish-and-chip shop, reading a notice from his landlord. It was short and clear: if the rent was not paid by Friday, Mr Plum would have to leave. Barnaby put his feet on the desk to think, as detectives do in films. The chair moved backwards, and a moment later he was lying on the floor, looking at the ceiling. It was there, on the floor, that the telephone rang.",
+   "ru": "Серым осенним утром он сидел в своей крошечной конторе над закусочной с рыбой и картошкой и читал уведомление от хозяина помещения. Оно было коротким и ясным: если арендная плата не будет внесена до пятницы, мистеру Пламу придётся съехать. Барнаби положил ноги на стол, чтобы подумать, как это делают детективы в фильмах. Стул поехал назад, и мгновение спустя он уже лежал на полу и смотрел в потолок. Именно там, на полу, и зазвонил телефон.",
+   "s": [
+    [
+     "On a grey autumn morning he sat in his tiny office above a fish-and-chip shop, reading a notice from his landlord.",
+     "Серым осенним утром он сидел в своей крошечной конторе над закусочной с рыбой и картошкой и читал уведомление от хозяина помещения."
+    ],
+    [
+     "It was short and clear: if the rent was not paid by Friday, Mr Plum would have to leave.",
+     "Оно было коротким и ясным: если арендная плата не будет внесена до пятницы, мистеру Пламу придётся съехать."
+    ],
+    [
+     "Barnaby put his feet on the desk to think, as detectives do in films.",
+     "Барнаби положил ноги на стол, чтобы подумать, как это делают детективы в фильмах."
+    ],
+    [
+     "The chair moved backwards, and a moment later he was lying on the floor, looking at the ceiling.",
+     "Стул поехал назад, и мгновение спустя он уже лежал на полу и смотрел в потолок."
+    ],
+    [
+     "It was there, on the floor, that the telephone rang.",
+     "Именно там, на полу, и зазвонил телефон."
+    ]
+   ]
+  },
+  {
+   "en": "\"Mr Plum?\" said a woman's voice. \"This is Cordelia Fenwick. You found my sister's turtle in 2009. You may not remember.\" Barnaby remembered very well. He had found the turtle by sitting on it. \"My beloved Baron has vanished,\" Mrs Fenwick went on. \"The police are not interested in cats. But I have faith in you, Mr Plum. Can you come today?\" Barnaby looked at the notice from his landlord. \"I'm ready,\" he said.",
+   "ru": "«Мистер Плам?» — произнёс женский голос. «Это Корделия Фенвик. В 2009 году вы нашли черепаху моей сестры. Возможно, вы не помните». Барнаби помнил очень хорошо. Он нашёл черепаху, сев на неё. «Мой любимый Барон исчез», — продолжала миссис Фенвик. «Полицию кошки не интересуют. Но я верю в вас, мистер Плам. Вы можете приехать сегодня?» Барнаби посмотрел на уведомление от хозяина. «Я готов», — сказал он.",
+   "s": [
+    [
+     "\"Mr Plum?\" said a woman's voice.",
+     "«Мистер Плам?» — произнёс женский голос."
+    ],
+    [
+     "\"This is Cordelia Fenwick. You found my sister's turtle in 2009. You may not remember.\"",
+     "«Это Корделия Фенвик. В 2009 году вы нашли черепаху моей сестры. Возможно, вы не помните»."
+    ],
+    [
+     "Barnaby remembered very well.",
+     "Барнаби помнил очень хорошо."
+    ],
+    [
+     "He had found the turtle by sitting on it.",
+     "Он нашёл черепаху, сев на неё."
+    ],
+    [
+     "\"My beloved Baron has vanished,\" Mrs Fenwick went on.",
+     "«Мой любимый Барон исчез», — продолжала миссис Фенвик."
+    ],
+    [
+     "\"The police are not interested in cats. But I have faith in you, Mr Plum. Can you come today?\"",
+     "«Полицию кошки не интересуют. Но я верю в вас, мистер Плам. Вы можете приехать сегодня?»"
+    ],
+    [
+     "Barnaby looked at the notice from his landlord.",
+     "Барнаби посмотрел на уведомление от хозяина."
+    ],
+    [
+     "\"I'm ready,\" he said.",
+     "«Я готов», — сказал он."
+    ]
+   ]
+  },
+  {
+   "en": "Mrs Fenwick lived in a large white house on the shore, a mile from the fishing village of Little Wickham. Barnaby drove there in his old yellow car, which made a noise like a sick goose on every hill. At the gate he pressed the wrong button, and the gate closed on his car with a horrible crunch. A thin woman in a grey dress came out of the house and looked at the car with pity. \"I'm Mrs Pettifer, the housekeeper,\" she said. \"Madam is waiting for you. Please try not to break anything else.\"",
+   "ru": "Миссис Фенвик жила в большом белом доме на берегу моря, в миле от рыбацкой деревни Литл-Уикем. Барнаби поехал туда на своей старой жёлтой машине, которая на каждом подъёме издавала звук, похожий на крик больного гуся. У ворот он нажал не ту кнопку, и ворота с ужасным хрустом закрылись прямо на его машине. Худая женщина в сером платье вышла из дома и с жалостью посмотрела на машину. «Я миссис Петтифер, экономка», — сказала она. «Мадам ждёт вас. Пожалуйста, постарайтесь больше ничего не сломать».",
+   "s": [
+    [
+     "Mrs Fenwick lived in a large white house on the shore, a mile from the fishing village of Little Wickham.",
+     "Миссис Фенвик жила в большом белом доме на берегу моря, в миле от рыбацкой деревни Литл-Уикем."
+    ],
+    [
+     "Barnaby drove there in his old yellow car, which made a noise like a sick goose on every hill.",
+     "Барнаби поехал туда на своей старой жёлтой машине, которая на каждом подъёме издавала звук, похожий на крик больного гуся."
+    ],
+    [
+     "At the gate he pressed the wrong button, and the gate closed on his car with a horrible crunch.",
+     "У ворот он нажал не ту кнопку, и ворота с ужасным хрустом закрылись прямо на его машине."
+    ],
+    [
+     "A thin woman in a grey dress came out of the house and looked at the car with pity.",
+     "Худая женщина в сером платье вышла из дома и с жалостью посмотрела на машину."
+    ],
+    [
+     "\"I'm Mrs Pettifer, the housekeeper,\" she said.",
+     "«Я миссис Петтифер, экономка», — сказала она."
+    ],
+    [
+     "\"Madam is waiting for you. Please try not to break anything else.\"",
+     "«Мадам ждёт вас. Пожалуйста, постарайтесь больше ничего не сломать»."
+    ]
+   ]
+  },
+  {
+   "en": "Mrs Fenwick was seventy, small and very rich. She managed a shipping company and three hotels, but at the moment she could think about nothing except her cat. She gave Barnaby a tour of the house, which seemed to belong more to Baron than to her. There was a room for his toys, a room for his beds, and a long glass cabinet full of photographs of him.",
+   "ru": "Миссис Фенвик было семьдесят лет, она была маленькой и очень богатой. Она управляла судоходной компанией и тремя гостиницами, но сейчас ни о чём, кроме своего кота, думать не могла. Она провела для Барнаби экскурсию по дому, который, казалось, принадлежал скорее Барону, чем ей. Там была комната для его игрушек, комната для его лежанок и длинный стеклянный шкаф, полный его фотографий.",
+   "s": [
+    [
+     "Mrs Fenwick was seventy, small and very rich.",
+     "Миссис Фенвик было семьдесят лет, она была маленькой и очень богатой."
+    ],
+    [
+     "She managed a shipping company and three hotels, but at the moment she could think about nothing except her cat.",
+     "Она управляла судоходной компанией и тремя гостиницами, но сейчас ни о чём, кроме своего кота, думать не могла."
+    ],
+    [
+     "She gave Barnaby a tour of the house, which seemed to belong more to Baron than to her.",
+     "Она провела для Барнаби экскурсию по дому, который, казалось, принадлежал скорее Барону, чем ей."
+    ],
+    [
+     "There was a room for his toys, a room for his beds, and a long glass cabinet full of photographs of him.",
+     "Там была комната для его игрушек, комната для его лежанок и длинный стеклянный шкаф, полный его фотографий."
+    ]
+   ]
+  },
+  {
+   "en": "\"He is unique,\" she said proudly. \"Completely white, except for one black ear. And he has very good taste. He eats only the best meat, and he has an addiction to salted fish. He doesn't obey anyone.\"",
+   "ru": "«Он уникален», — гордо сказала она. «Совершенно белый, если не считать одного чёрного уха. И у него очень хороший вкус. Он ест только лучшее мясо, и у него зависимость от солёной рыбы. Он никого не слушается».",
+   "s": [
+    [
+     "\"He is unique,\" she said proudly.",
+     "«Он уникален», — гордо сказала она."
+    ],
+    [
+     "\"Completely white, except for one black ear. And he has very good taste.",
+     "«Совершенно белый, если не считать одного чёрного уха. И у него очень хороший вкус."
+    ],
+    [
+     "He eats only the best meat, and he has an addiction to salted fish.",
+     "Он ест только лучшее мясо, и у него зависимость от солёной рыбы."
+    ],
+    [
+     "He doesn't obey anyone.\"",
+     "Он никого не слушается»."
+    ]
+   ]
+  },
+  {
+   "en": "Barnaby took out his notebook and tried to establish the facts. Baron had last been seen on Tuesday evening at seven o'clock, sleeping on a chair in the kitchen. By nine he had disappeared. All the doors and windows had been shut, and the external camera above the front door had recorded nothing more interesting than a fox. \"A predator!\" cried Mrs Fenwick, holding her heart. \"Foxes don't usually eat cats, madam,\" said Barnaby, although he was not completely sure.",
+   "ru": "Барнаби достал блокнот и попытался установить факты. Последний раз Барона видели во вторник вечером в семь часов: он спал на стуле на кухне. К девяти он исчез. Все двери и окна были закрыты, а наружная камера над входной дверью не записала ничего интереснее лисы. «Хищник!» — воскликнула миссис Фенвик, схватившись за сердце. «Лисы обычно не едят кошек, мадам», — сказал Барнаби, хотя сам не был в этом полностью уверен.",
+   "s": [
+    [
+     "Barnaby took out his notebook and tried to establish the facts.",
+     "Барнаби достал блокнот и попытался установить факты."
+    ],
+    [
+     "Baron had last been seen on Tuesday evening at seven o'clock, sleeping on a chair in the kitchen.",
+     "Последний раз Барона видели во вторник вечером в семь часов: он спал на стуле на кухне."
+    ],
+    [
+     "By nine he had disappeared.",
+     "К девяти он исчез."
+    ],
+    [
+     "All the doors and windows had been shut, and the external camera above the front door had recorded nothing more interesting than a fox.",
+     "Все двери и окна были закрыты, а наружная камера над входной дверью не записала ничего интереснее лисы."
+    ],
+    [
+     "\"A predator!\" cried Mrs Fenwick, holding her heart.",
+     "«Хищник!» — воскликнула миссис Фенвик, схватившись за сердце."
+    ],
+    [
+     "\"Foxes don't usually eat cats, madam,\" said Barnaby, although he was not completely sure.",
+     "«Лисы обычно не едят кошек, мадам», — сказал Барнаби, хотя сам не был в этом полностью уверен."
+    ]
+   ]
+  },
+  {
+   "en": "Only three people had access to the house that evening: Mrs Pettifer, the cook and Mrs Fenwick's nephew, Crispin. The cook was a large, cheerful man who cried every time someone mentioned the cat. Crispin was a different story. He was young, handsome and completely useless, and he had been living in his aunt's house since the spring because, as Mrs Pettifer said quietly, he had lost all his own money at cards.",
+   "ru": "В тот вечер доступ в дом был только у троих: у миссис Петтифер, у повара и у племянника миссис Фенвик, Криспина. Повар был крупным весёлым мужчиной, который плакал всякий раз, когда кто-нибудь упоминал кота. С Криспином всё было иначе. Он был молод, красив и совершенно бесполезен и жил в доме своей тёти с весны, потому что, как тихо сказала миссис Петтифер, проиграл в карты все свои деньги.",
+   "s": [
+    [
+     "Only three people had access to the house that evening: Mrs Pettifer, the cook and Mrs Fenwick's nephew, Crispin.",
+     "В тот вечер доступ в дом был только у троих: у миссис Петтифер, у повара и у племянника миссис Фенвик, Криспина."
+    ],
+    [
+     "The cook was a large, cheerful man who cried every time someone mentioned the cat.",
+     "Повар был крупным весёлым мужчиной, который плакал всякий раз, когда кто-нибудь упоминал кота."
+    ],
+    [
+     "Crispin was a different story.",
+     "С Криспином всё было иначе."
+    ],
+    [
+     "He was young, handsome and completely useless, and he had been living in his aunt's house since the spring because, as Mrs Pettifer said quietly, he had lost all his own money at cards.",
+     "Он был молод, красив и совершенно бесполезен и жил в доме своей тёти с весны, потому что, как тихо сказала миссис Петтифер, проиграл в карты все свои деньги."
+    ]
+   ]
+  },
+  {
+   "en": "Barnaby found Crispin in the garden, putting a suitcase into a sports car. \"Going somewhere?\" Barnaby asked. \"Monaco,\" said Crispin. \"My flight is on Friday. Some of us have a life, detective.\" \"Your aunt says you argued with her last week.\" \"We always argue,\" said Crispin. \"She loves that cat more than she loves me. Honestly, I don't blame her.\" He shut the boot of the car and smiled his handsome smile. \"See you, Mr Plum. Good luck with your little mystery.\"",
+   "ru": "Барнаби нашёл Криспина в саду: тот укладывал чемодан в спортивную машину. «Куда-то собираетесь?» — спросил Барнаби. «В Монако», — ответил Криспин. «Мой рейс в пятницу. У некоторых из нас есть жизнь, детектив». «Ваша тётя говорит, что на прошлой неделе вы с ней поспорили». «Мы всегда спорим», — сказал Криспин. «Она любит этого кота больше, чем меня. Честно говоря, я её не виню». Он захлопнул багажник и улыбнулся своей красивой улыбкой. «Увидимся, мистер Плам. Удачи с вашей маленькой загадкой».",
+   "s": [
+    [
+     "Barnaby found Crispin in the garden, putting a suitcase into a sports car.",
+     "Барнаби нашёл Криспина в саду: тот укладывал чемодан в спортивную машину."
+    ],
+    [
+     "\"Going somewhere?\" Barnaby asked.",
+     "«Куда-то собираетесь?» — спросил Барнаби."
+    ],
+    [
+     "\"Monaco,\" said Crispin.",
+     "«В Монако», — ответил Криспин."
+    ],
+    [
+     "\"My flight is on Friday. Some of us have a life, detective.\"",
+     "«Мой рейс в пятницу. У некоторых из нас есть жизнь, детектив»."
+    ],
+    [
+     "\"Your aunt says you argued with her last week.\"",
+     "«Ваша тётя говорит, что на прошлой неделе вы с ней поспорили»."
+    ],
+    [
+     "\"We always argue,\" said Crispin.",
+     "«Мы всегда спорим», — сказал Криспин."
+    ],
+    [
+     "\"She loves that cat more than she loves me. Honestly, I don't blame her.\"",
+     "«Она любит этого кота больше, чем меня. Честно говоря, я её не виню»."
+    ],
+    [
+     "He shut the boot of the car and smiled his handsome smile.",
+     "Он захлопнул багажник и улыбнулся своей красивой улыбкой."
+    ],
+    [
+     "\"See you, Mr Plum. Good luck with your little mystery.\"",
+     "«Увидимся, мистер Плам. Удачи с вашей маленькой загадкой»."
+    ]
+   ]
+  },
+  {
+   "en": "In the kitchen Barnaby asked the cook about the cat's behavior. \"Strange lately,\" said the cook, wiping his eyes. \"Especially in the afternoons. He used to sleep all day. But this last month he has gone out every afternoon and come back late in the evening, smelling of fish. And not my fish, either. Cheaper fish.\"",
+   "ru": "На кухне Барнаби расспросил повара о поведении кота. «В последнее время странное», — сказал повар, вытирая глаза. «Особенно после обеда. Раньше он спал целыми днями. Но весь последний месяц он каждый день после обеда уходил и возвращался поздно вечером, пахнущий рыбой. И не моей рыбой, кстати. Рыбой подешевле».",
+   "s": [
+    [
+     "In the kitchen Barnaby asked the cook about the cat's behavior.",
+     "На кухне Барнаби расспросил повара о поведении кота."
+    ],
+    [
+     "\"Strange lately,\" said the cook, wiping his eyes.",
+     "«В последнее время странное», — сказал повар, вытирая глаза."
+    ],
+    [
+     "\"Especially in the afternoons. He used to sleep all day. But this last month he has gone out every afternoon and come back late in the evening, smelling of fish. And not my fish, either. Cheaper fish.\"",
+     "«Особенно после обеда. Раньше он спал целыми днями. Но весь последний месяц он каждый день после обеда уходил и возвращался поздно вечером, пахнущий рыбой. И не моей рыбой, кстати. Рыбой подешевле»."
+    ]
+   ]
+  },
+  {
+   "en": "Barnaby wrote this down carefully. Then he leaned on the table to look clever, knocked over a bowl of salt and sat down on a wooden chair that broke under him with a loud crack. \"That chair was two hundred years old,\" said Mrs Pettifer from the door. \"It was made of the finest wood in England.\" \"You can take it out of my fee,\" said Barnaby from the floor.",
+   "ru": "Барнаби тщательно это записал. Потом он облокотился на стол, чтобы выглядеть умнее, опрокинул миску с солью и сел на деревянный стул, который с громким треском развалился под ним. «Этому стулу было двести лет», — сказала миссис Петтифер от двери. «Он был сделан из лучшего дерева в Англии». «Можете вычесть это из моего гонорара», — сказал Барнаби с пола.",
+   "s": [
+    [
+     "Barnaby wrote this down carefully.",
+     "Барнаби тщательно это записал."
+    ],
+    [
+     "Then he leaned on the table to look clever, knocked over a bowl of salt and sat down on a wooden chair that broke under him with a loud crack.",
+     "Потом он облокотился на стол, чтобы выглядеть умнее, опрокинул миску с солью и сел на деревянный стул, который с громким треском развалился под ним."
+    ],
+    [
+     "\"That chair was two hundred years old,\" said Mrs Pettifer from the door.",
+     "«Этому стулу было двести лет», — сказала миссис Петтифер от двери."
+    ],
+    [
+     "\"It was made of the finest wood in England.\"",
+     "«Он был сделан из лучшего дерева в Англии»."
+    ],
+    [
+     "\"You can take it out of my fee,\" said Barnaby from the floor.",
+     "«Можете вычесть это из моего гонорара», — сказал Барнаби с пола."
+    ]
+   ]
+  },
+  {
+   "en": "The next morning a letter arrived. It had been made from words cut out of newspapers, like in old films. WE HAVE YOUR CAT. LEAVE FIFTY THOUSAND POUNDS IN THE BOAT HOUSE ON THURSDAY NIGHT. NO POLICE. NO DETECTIVES. OR YOU WILL REGRET IT. There was also a photograph of a white cat with one black ear, sitting on a red cushion next to a chess board. Mrs Fenwick read the letter three times and burst into tears. \"I'll pay,\" she said.",
+   "ru": "На следующее утро пришло письмо. Оно было составлено из слов, вырезанных из газет, как в старых фильмах. МЫ ПОХИТИЛИ ВАШЕГО КОТА. ОСТАВЬТЕ ПЯТЬДЕСЯТ ТЫСЯЧ ФУНТОВ В ЛОДОЧНОМ САРАЕ В ЧЕТВЕРГ НОЧЬЮ. НИКАКОЙ ПОЛИЦИИ. НИКАКИХ ДЕТЕКТИВОВ. ИНАЧЕ ВЫ ПОЖАЛЕЕТЕ. К письму прилагалась фотография белого кота с одним чёрным ухом, сидящего на красной подушке рядом с шахматной доской. Миссис Фенвик трижды перечитала письмо и расплакалась. «Я заплачу, — сказала она.",
+   "s": [
+    [
+     "The next morning a letter arrived.",
+     "На следующее утро пришло письмо."
+    ],
+    [
+     "It had been made from words cut out of newspapers, like in old films.",
+     "Оно было составлено из слов, вырезанных из газет, как в старых фильмах."
+    ],
+    [
+     "WE HAVE YOUR CAT.",
+     "МЫ ПОХИТИЛИ ВАШЕГО КОТА."
+    ],
+    [
+     "LEAVE FIFTY THOUSAND POUNDS IN THE BOAT HOUSE ON THURSDAY NIGHT.",
+     "ОСТАВЬТЕ ПЯТЬДЕСЯТ ТЫСЯЧ ФУНТОВ В ЛОДОЧНОМ САРАЕ В ЧЕТВЕРГ НОЧЬЮ."
+    ],
+    [
+     "NO POLICE. NO DETECTIVES. OR YOU WILL REGRET IT.",
+     "НИКАКОЙ ПОЛИЦИИ. НИКАКИХ ДЕТЕКТИВОВ. ИНАЧЕ ВЫ ПОЖАЛЕЕТЕ."
+    ],
+    [
+     "There was also a photograph of a white cat with one black ear, sitting on a red cushion next to a chess board.",
+     "К письму прилагалась фотография белого кота с одним чёрным ухом, сидящего на красной подушке рядом с шахматной доской."
+    ],
+    [
+     "Mrs Fenwick read the letter three times and burst into tears.",
+     "Миссис Фенвик трижды перечитала письмо и расплакалась."
+    ],
+    [
+     "\"I'll pay,\" she said.",
+     "«Я заплачу, — сказала она."
+    ]
+   ]
+  },
+  {
+   "en": "\"Please wait one day, madam,\" said Barnaby, holding the photograph close to his eyes. He was not sure why he said it. Perhaps it was a detective's instinct, or perhaps it was because he could not see properly without his glasses, which he had sat on in the car. But when he finally found a spare pair in his coat, he noticed two interesting things.",
+   "ru": "«Пожалуйста, подождите один день, мадам», — сказал Барнаби, поднеся фотографию к самым глазам. Он и сам не знал, почему так сказал. Может быть, это было чутьё детектива, а может быть, дело было в том, что он плохо видел без очков, на которые сел в машине. Но когда он наконец нашёл в пальто запасную пару, то заметил две интересные вещи.",
+   "s": [
+    [
+     "\"Please wait one day, madam,\" said Barnaby, holding the photograph close to his eyes.",
+     "«Пожалуйста, подождите один день, мадам», — сказал Барнаби, поднеся фотографию к самым глазам."
+    ],
+    [
+     "He was not sure why he said it.",
+     "Он и сам не знал, почему так сказал."
+    ],
+    [
+     "Perhaps it was a detective's instinct, or perhaps it was because he could not see properly without his glasses, which he had sat on in the car.",
+     "Может быть, это было чутьё детектива, а может быть, дело было в том, что он плохо видел без очков, на которые сел в машине."
+    ],
+    [
+     "But when he finally found a spare pair in his coat, he noticed two interesting things.",
+     "Но когда он наконец нашёл в пальто запасную пару, то заметил две интересные вещи."
+    ]
+   ]
+  },
+  {
+   "en": "First, the pieces on the chess board were in exactly the same positions as the unfinished game in the library, which Crispin had been playing against himself all month. Second, the cat in the photograph was fat. Baron, according to every recent picture in the glass cabinet, was thin. Barnaby thought about these two facts for a long time. \"I suppose,\" he said slowly, \"that this photograph was taken a long time ago, in this house.\" \"What does that mean?\" asked Mrs Fenwick. \"It means, madam, that whoever wrote this letter may not have your cat at all.\"",
+   "ru": "Во-первых, фигуры на шахматной доске стояли точно так же, как в неоконченной партии в библиотеке, которую Криспин весь месяц играл сам с собой. Во-вторых, кот на фотографии был толстым. А Барон, судя по всем недавним снимкам в стеклянном шкафу, был худым. Барнаби долго размышлял над этими двумя фактами. «Полагаю, — медленно сказал он, — что эту фотографию сделали давно, в этом самом доме». «Что это значит?» — спросила миссис Фенвик. «Это значит, мадам, что у того, кто написал это письмо, вашего кота, возможно, вовсе нет».",
+   "s": [
+    [
+     "First, the pieces on the chess board were in exactly the same positions as the unfinished game in the library, which Crispin had been playing against himself all month.",
+     "Во-первых, фигуры на шахматной доске стояли точно так же, как в неоконченной партии в библиотеке, которую Криспин весь месяц играл сам с собой."
+    ],
+    [
+     "Second, the cat in the photograph was fat.",
+     "Во-вторых, кот на фотографии был толстым."
+    ],
+    [
+     "Baron, according to every recent picture in the glass cabinet, was thin.",
+     "А Барон, судя по всем недавним снимкам в стеклянном шкафу, был худым."
+    ],
+    [
+     "Barnaby thought about these two facts for a long time.",
+     "Барнаби долго размышлял над этими двумя фактами."
+    ],
+    [
+     "\"I suppose,\" he said slowly, \"that this photograph was taken a long time ago, in this house.\"",
+     "«Полагаю, — медленно сказал он, — что эту фотографию сделали давно, в этом самом доме»."
+    ],
+    [
+     "\"What does that mean?\" asked Mrs Fenwick.",
+     "«Что это значит?» — спросила миссис Фенвик."
+    ],
+    [
+     "\"It means, madam, that whoever wrote this letter may not have your cat at all.\"",
+     "«Это значит, мадам, что у того, кто написал это письмо, вашего кота, возможно, вовсе нет»."
+    ]
+   ]
+  },
+  {
+   "en": "Barnaby decided that it was time for action. On Thursday night, while the house slept, he hid in the boat house with a torch, a flask of tea and a bag of fake money that Mrs Pettifer had made from old magazines. Mrs Fenwick had promised that nobody would disturb him. At midnight he heard footsteps on the shore. A tall figure in a black coat came in quietly to collect the bag and began to drag it towards the door.",
+   "ru": "Барнаби решил, что пора действовать. В четверг ночью, пока дом спал, он спрятался в лодочном сарае с фонариком, термосом чая и сумкой фальшивых денег, которые миссис Петтифер сделала из старых журналов. Миссис Фенвик пообещала, что никто его не потревожит. В полночь он услышал шаги на берегу. Высокая фигура в чёрном пальто тихо вошла, чтобы забрать сумку, и потащила её к двери.",
+   "s": [
+    [
+     "Barnaby decided that it was time for action.",
+     "Барнаби решил, что пора действовать."
+    ],
+    [
+     "On Thursday night, while the house slept, he hid in the boat house with a torch, a flask of tea and a bag of fake money that Mrs Pettifer had made from old magazines.",
+     "В четверг ночью, пока дом спал, он спрятался в лодочном сарае с фонариком, термосом чая и сумкой фальшивых денег, которые миссис Петтифер сделала из старых журналов."
+    ],
+    [
+     "Mrs Fenwick had promised that nobody would disturb him.",
+     "Миссис Фенвик пообещала, что никто его не потревожит."
+    ],
+    [
+     "At midnight he heard footsteps on the shore.",
+     "В полночь он услышал шаги на берегу."
+    ],
+    [
+     "A tall figure in a black coat came in quietly to collect the bag and began to drag it towards the door.",
+     "Высокая фигура в чёрном пальто тихо вошла, чтобы забрать сумку, и потащила её к двери."
+    ]
+   ]
+  },
+  {
+   "en": "\"Don't move!\" shouted Barnaby, jumping out of his hiding place. Unfortunately, he jumped onto a wet board, slipped, flew through the air and landed directly on top of the thief. They both fell into the water with a great splash. When Mrs Pettifer arrived with a lamp, she found the detective sitting on Crispin Fenwick in half a metre of sea water, holding him by the collar. \"I can explain,\" said Crispin, spitting out seaweed.",
+   "ru": "«Ни с места!» — крикнул Барнаби, выпрыгивая из укрытия. К несчастью, он прыгнул на мокрую доску, поскользнулся, пролетел по воздуху и приземлился прямо на вора. Оба с громким всплеском рухнули в воду. Когда прибежала миссис Петтифер с лампой, она увидела, что детектив сидит на Криспине Фенвике в полуметре морской воды и держит его за воротник. «Я могу всё объяснить», — сказал Криспин, выплёвывая водоросли.",
+   "s": [
+    [
+     "\"Don't move!\" shouted Barnaby, jumping out of his hiding place.",
+     "«Ни с места!» — крикнул Барнаби, выпрыгивая из укрытия."
+    ],
+    [
+     "Unfortunately, he jumped onto a wet board, slipped, flew through the air and landed directly on top of the thief.",
+     "К несчастью, он прыгнул на мокрую доску, поскользнулся, пролетел по воздуху и приземлился прямо на вора."
+    ],
+    [
+     "They both fell into the water with a great splash.",
+     "Оба с громким всплеском рухнули в воду."
+    ],
+    [
+     "When Mrs Pettifer arrived with a lamp, she found the detective sitting on Crispin Fenwick in half a metre of sea water, holding him by the collar.",
+     "Когда прибежала миссис Петтифер с лампой, она увидела, что детектив сидит на Криспине Фенвике в полуметре морской воды и держит его за воротник."
+    ],
+    [
+     "\"I can explain,\" said Crispin, spitting out seaweed.",
+     "«Я могу всё объяснить», — сказал Криспин, выплёвывая водоросли."
+    ]
+   ]
+  },
+  {
+   "en": "He explained everything in the kitchen, wrapped in a blanket and shaking. He had not stolen the cat. He had simply noticed, like everyone else, that Baron had vanished, and he had seen an opportunity. He needed money for his debts, and he had thought that his aunt would pay quickly and ask no questions. \"I never wanted to rob you, Aunt Cordelia,\" he said miserably. \"I regret it, I promise.\" \"That is exactly what robbing is, Crispin,\" said Mrs Fenwick coldly.",
+   "ru": "Он объяснил всё на кухне, закутанный в одеяло и дрожащий. Кота он не крал. Он просто заметил, как и все остальные, что Барон исчез, и увидел в этом возможность. Ему нужны были деньги на долги, и он думал, что тётя быстро заплатит и не станет задавать вопросов. «Я никогда не хотел вас грабить, тётя Корделия», — жалобно сказал он. «Я жалею об этом, честное слово». «Это и называется грабежом, Криспин», — холодно сказала миссис Фенвик.",
+   "s": [
+    [
+     "He explained everything in the kitchen, wrapped in a blanket and shaking.",
+     "Он объяснил всё на кухне, закутанный в одеяло и дрожащий."
+    ],
+    [
+     "He had not stolen the cat.",
+     "Кота он не крал."
+    ],
+    [
+     "He had simply noticed, like everyone else, that Baron had vanished, and he had seen an opportunity.",
+     "Он просто заметил, как и все остальные, что Барон исчез, и увидел в этом возможность."
+    ],
+    [
+     "He needed money for his debts, and he had thought that his aunt would pay quickly and ask no questions.",
+     "Ему нужны были деньги на долги, и он думал, что тётя быстро заплатит и не станет задавать вопросов."
+    ],
+    [
+     "\"I never wanted to rob you, Aunt Cordelia,\" he said miserably.",
+     "«Я никогда не хотел вас грабить, тётя Корделия», — жалобно сказал он."
+    ],
+    [
+     "\"I regret it, I promise.\"",
+     "«Я жалею об этом, честное слово»."
+    ],
+    [
+     "\"That is exactly what robbing is, Crispin,\" said Mrs Fenwick coldly.",
+     "«Это и называется грабежом, Криспин», — холодно сказала миссис Фенвик."
+    ]
+   ]
+  },
+  {
+   "en": "\"Will I go to prison?\" Crispin asked. \"Not if you do as you are told,\" said his aunt. \"You will cancel your flight. You will work for the cook until Christmas. And your pocket money will be reduced to the price of a bus ticket.\" Then she turned to Barnaby, and her voice broke. \"But where is my Baron?\"",
+   "ru": "«Меня посадят в тюрьму?» — спросил Криспин. «Нет, если будешь делать то, что тебе говорят», — ответила тётя. «Ты отменишь свой рейс. До Рождества будешь работать у повара. А твои карманные деньги будут урезаны до стоимости билета на автобус». Затем она повернулась к Барнаби, и голос её дрогнул. «Но где же мой Барон?»",
+   "s": [
+    [
+     "\"Will I go to prison?\" Crispin asked.",
+     "«Меня посадят в тюрьму?» — спросил Криспин."
+    ],
+    [
+     "\"Not if you do as you are told,\" said his aunt.",
+     "«Нет, если будешь делать то, что тебе говорят», — ответила тётя."
+    ],
+    [
+     "\"You will cancel your flight. You will work for the cook until Christmas. And your pocket money will be reduced to the price of a bus ticket.\"",
+     "«Ты отменишь свой рейс. До Рождества будешь работать у повара. А твои карманные деньги будут урезаны до стоимости билета на автобус»."
+    ],
+    [
+     "Then she turned to Barnaby, and her voice broke.",
+     "Затем она повернулась к Барнаби, и голос её дрогнул."
+    ],
+    [
+     "\"But where is my Baron?\"",
+     "«Но где же мой Барон?»"
+    ]
+   ]
+  },
+  {
+   "en": "Barnaby did not know. He went to bed in the guest room and could not sleep. He tried counting sheep, but the sheep kept turning into cats, which was not a useful distraction. So he thought instead about everything he had learned: a cat who went out every afternoon, who came back smelling of cheap fish, who had an addiction to salt. Cheap fish meant the village.",
+   "ru": "Барнаби не знал. Он лёг спать в гостевой комнате, но не смог уснуть. Он попробовал считать овец, но овцы всё время превращались в котов, что не очень-то помогало отвлечься. Поэтому он стал думать обо всём, что узнал: о коте, который каждый день после обеда уходил, возвращался, пахнущий дешёвой рыбой, и был зависим от соли. Дешёвая рыба означала деревню.",
+   "s": [
+    [
+     "Barnaby did not know.",
+     "Барнаби не знал."
+    ],
+    [
+     "He went to bed in the guest room and could not sleep.",
+     "Он лёг спать в гостевой комнате, но не смог уснуть."
+    ],
+    [
+     "He tried counting sheep, but the sheep kept turning into cats, which was not a useful distraction.",
+     "Он попробовал считать овец, но овцы всё время превращались в котов, что не очень-то помогало отвлечься."
+    ],
+    [
+     "So he thought instead about everything he had learned: a cat who went out every afternoon, who came back smelling of cheap fish, who had an addiction to salt.",
+     "Поэтому он стал думать обо всём, что узнал: о коте, который каждый день после обеда уходил, возвращался, пахнущий дешёвой рыбой, и был зависим от соли."
+    ],
+    [
+     "Cheap fish meant the village.",
+     "Дешёвая рыба означала деревню."
+    ]
+   ]
+  },
+  {
+   "en": "In the morning he walked to Little Wickham. It was a small place with a church, a pub, a few fishing boats and a notice board outside the post office. Barnaby stopped in front of the board because his shoelace had come undone, and while he was tying it, he saw a handwritten piece of paper at the bottom, half hidden behind an advertisement for yoga. FOUND: WHITE CAT, ONE BLACK EAR. VERY RUDE. ASK EZRA, BLUE HOUSE BY THE HARBOUR.",
+   "ru": "Утром он пешком отправился в Литл-Уикем. Это было маленькое местечко с церковью, пабом, несколькими рыбацкими лодками и доской объявлений у почты. Барнаби остановился перед доской, потому что у него развязался шнурок, и, пока он его завязывал, увидел внизу листок бумаги, исписанный от руки и наполовину скрытый за рекламой йоги. НАЙДЕН БЕЛЫЙ КОТ С ОДНИМ ЧЁРНЫМ УХОМ. ОЧЕНЬ НАХАЛЬНЫЙ. СПРОСИТЬ ЭЗРУ, СИНИЙ ДОМ У ГАВАНИ.",
+   "s": [
+    [
+     "In the morning he walked to Little Wickham.",
+     "Утром он пешком отправился в Литл-Уикем."
+    ],
+    [
+     "It was a small place with a church, a pub, a few fishing boats and a notice board outside the post office.",
+     "Это было маленькое местечко с церковью, пабом, несколькими рыбацкими лодками и доской объявлений у почты."
+    ],
+    [
+     "Barnaby stopped in front of the board because his shoelace had come undone, and while he was tying it, he saw a handwritten piece of paper at the bottom, half hidden behind an advertisement for yoga.",
+     "Барнаби остановился перед доской, потому что у него развязался шнурок, и, пока он его завязывал, увидел внизу листок бумаги, исписанный от руки и наполовину скрытый за рекламой йоги."
+    ],
+    [
+     "FOUND: WHITE CAT, ONE BLACK EAR. VERY RUDE. ASK EZRA, BLUE HOUSE BY THE HARBOUR.",
+     "НАЙДЕН БЕЛЫЙ КОТ С ОДНИМ ЧЁРНЫМ УХОМ. ОЧЕНЬ НАХАЛЬНЫЙ. СПРОСИТЬ ЭЗРУ, СИНИЙ ДОМ У ГАВАНИ."
+    ]
+   ]
+  },
+  {
+   "en": "The blue house was small and old, and the man who opened the door was even older. Behind him, on a chair by the fire, sat a white cat with one black ear, eating a piece of salted fish. \"He comes every afternoon,\" said Ezra. \"Has done since the summer. I thought he was a stray. I've been a bit lonely since my wife died, and he's good company, though his manners are horrible.\" \"On Tuesday he came and didn't go home. So I put up a notice, but nobody reads that board except me.\"",
+   "ru": "Синий дом был маленьким и старым, а человек, открывший дверь, — ещё старше. За его спиной, на стуле у камина, сидел белый кот с одним чёрным ухом и ел кусок солёной рыбы. «Он приходит каждый день после обеда», — сказал Эзра. «С самого лета. Я думал, он бездомный. Мне немного одиноко с тех пор, как умерла жена, а он хорошая компания, хоть манеры у него ужасные». «Во вторник он пришёл и домой не пошёл. Вот я и повесил объявление, только эту доску никто, кроме меня, не читает».",
+   "s": [
+    [
+     "The blue house was small and old, and the man who opened the door was even older.",
+     "Синий дом был маленьким и старым, а человек, открывший дверь, — ещё старше."
+    ],
+    [
+     "Behind him, on a chair by the fire, sat a white cat with one black ear, eating a piece of salted fish.",
+     "За его спиной, на стуле у камина, сидел белый кот с одним чёрным ухом и ел кусок солёной рыбы."
+    ],
+    [
+     "\"He comes every afternoon,\" said Ezra.",
+     "«Он приходит каждый день после обеда», — сказал Эзра."
+    ],
+    [
+     "\"Has done since the summer. I thought he was a stray. I've been a bit lonely since my wife died, and he's good company, though his manners are horrible.\"",
+     "«С самого лета. Я думал, он бездомный. Мне немного одиноко с тех пор, как умерла жена, а он хорошая компания, хоть манеры у него ужасные»."
+    ],
+    [
+     "\"On Tuesday he came and didn't go home. So I put up a notice, but nobody reads that board except me.\"",
+     "«Во вторник он пришёл и домой не пошёл. Вот я и повесил объявление, только эту доску никто, кроме меня, не читает»."
+    ]
+   ]
+  },
+  {
+   "en": "Barnaby sat down carefully on the second chair, which did not break, and drank a cup of Ezra's tea, which tasted of smoke. Something was still troubling him. Why had a cat with two homes suddenly stopped going back to one of them? Then he remembered a small detail that Mrs Pettifer had mentioned on the first day. On Tuesday afternoon, men from a security company had put a new external door in the kitchen, which had been ordered by Mrs Fenwick herself after a burglary in the next village. The old door had a cat flap. The new door did not.",
+   "ru": "Барнаби осторожно сел на второй стул, который не сломался, и выпил чашку чая Эзры, отдававшего дымом. Что-то всё ещё не давало ему покоя. Почему кот, у которого два дома, вдруг перестал возвращаться в один из них? Тут он вспомнил одну мелочь, о которой миссис Петтифер упомянула в первый же день. Во вторник после обеда люди из охранной фирмы поставили на кухне новую наружную дверь, которую заказала сама миссис Фенвик после ограбления в соседней деревне. В старой двери была кошачья дверца. В новой её не было.",
+   "s": [
+    [
+     "Barnaby sat down carefully on the second chair, which did not break, and drank a cup of Ezra's tea, which tasted of smoke.",
+     "Барнаби осторожно сел на второй стул, который не сломался, и выпил чашку чая Эзры, отдававшего дымом."
+    ],
+    [
+     "Something was still troubling him.",
+     "Что-то всё ещё не давало ему покоя."
+    ],
+    [
+     "Why had a cat with two homes suddenly stopped going back to one of them?",
+     "Почему кот, у которого два дома, вдруг перестал возвращаться в один из них?"
+    ],
+    [
+     "Then he remembered a small detail that Mrs Pettifer had mentioned on the first day.",
+     "Тут он вспомнил одну мелочь, о которой миссис Петтифер упомянула в первый же день."
+    ],
+    [
+     "On Tuesday afternoon, men from a security company had put a new external door in the kitchen, which had been ordered by Mrs Fenwick herself after a burglary in the next village.",
+     "Во вторник после обеда люди из охранной фирмы поставили на кухне новую наружную дверь, которую заказала сама миссис Фенвик после ограбления в соседней деревне."
+    ],
+    [
+     "The old door had a cat flap.",
+     "В старой двери была кошачья дверца."
+    ],
+    [
+     "The new door did not.",
+     "В новой её не было."
+    ]
+   ]
+  },
+  {
+   "en": "\"So the cat didn't vanish,\" Barnaby said aloud, very pleased with himself. \"He was locked out. By the best security system that money can buy.\" Baron looked at him with no interest at all and went on eating.",
+   "ru": "«Значит, кот не исчезал, — вслух сказал Барнаби, очень довольный собой. Его просто не пустили домой. Лучшая охранная система, какую только можно купить за деньги». Барон посмотрел на него без малейшего интереса и продолжил есть.",
+   "s": [
+    [
+     "\"So the cat didn't vanish,\" Barnaby said aloud, very pleased with himself.",
+     "«Значит, кот не исчезал, — вслух сказал Барнаби, очень довольный собой."
+    ],
+    [
+     "\"He was locked out. By the best security system that money can buy.\"",
+     "Его просто не пустили домой. Лучшая охранная система, какую только можно купить за деньги»."
+    ],
+    [
+     "Baron looked at him with no interest at all and went on eating.",
+     "Барон посмотрел на него без малейшего интереса и продолжил есть."
+    ]
+   ]
+  },
+  {
+   "en": "Carrying the cat back along the shore was not easy. Baron did not want to be carried, and he made his opinion very clear with all four feet. By the time Barnaby reached the white house, his coat was torn and his hands were covered in scratches. He looked as if he had fought a small predator, which, in a way, he had. But when Mrs Fenwick saw the cat, she cried out with such joy that Barnaby forgot all the pain.",
+   "ru": "Нести кота обратно вдоль берега оказалось нелегко. Барон не хотел, чтобы его несли, и очень ясно выразил своё мнение всеми четырьмя лапами. К тому времени, как Барнаби добрался до белого дома, его пальто было порвано, а руки покрыты царапинами. Он выглядел так, будто подрался с небольшим хищником, — что, в каком-то смысле, так и было. Но когда миссис Фенвик увидела кота, она вскрикнула от такой радости, что Барнаби забыл про всю боль.",
+   "s": [
+    [
+     "Carrying the cat back along the shore was not easy.",
+     "Нести кота обратно вдоль берега оказалось нелегко."
+    ],
+    [
+     "Baron did not want to be carried, and he made his opinion very clear with all four feet.",
+     "Барон не хотел, чтобы его несли, и очень ясно выразил своё мнение всеми четырьмя лапами."
+    ],
+    [
+     "By the time Barnaby reached the white house, his coat was torn and his hands were covered in scratches.",
+     "К тому времени, как Барнаби добрался до белого дома, его пальто было порвано, а руки покрыты царапинами."
+    ],
+    [
+     "He looked as if he had fought a small predator, which, in a way, he had.",
+     "Он выглядел так, будто подрался с небольшим хищником, — что, в каком-то смысле, так и было."
+    ],
+    [
+     "But when Mrs Fenwick saw the cat, she cried out with such joy that Barnaby forgot all the pain.",
+     "Но когда миссис Фенвик увидела кота, она вскрикнула от такой радости, что Барнаби забыл про всю боль."
+    ]
+   ]
+  },
+  {
+   "en": "That evening there was a special dinner, and Ezra was the guest of honour. Mrs Fenwick listened to his stories about the sea for three hours and laughed more than she had laughed in ten years. Baron sat between them, eating meat from one plate and salted fish from the other. It was agreed that from now on he would keep two homes, and that a new cat flap would be cut in the expensive door on Monday morning.",
+   "ru": "В тот вечер устроили праздничный ужин, и Эзра был почётным гостем. Миссис Фенвик три часа слушала его рассказы о море и смеялась больше, чем за последние десять лет. Барон сидел между ними и ел мясо с одной тарелки и солёную рыбу с другой. Было решено, что отныне у него будет два дома и что в понедельник утром в дорогой двери прорежут новую кошачью дверцу.",
+   "s": [
+    [
+     "That evening there was a special dinner, and Ezra was the guest of honour.",
+     "В тот вечер устроили праздничный ужин, и Эзра был почётным гостем."
+    ],
+    [
+     "Mrs Fenwick listened to his stories about the sea for three hours and laughed more than she had laughed in ten years.",
+     "Миссис Фенвик три часа слушала его рассказы о море и смеялась больше, чем за последние десять лет."
+    ],
+    [
+     "Baron sat between them, eating meat from one plate and salted fish from the other.",
+     "Барон сидел между ними и ел мясо с одной тарелки и солёную рыбу с другой."
+    ],
+    [
+     "It was agreed that from now on he would keep two homes, and that a new cat flap would be cut in the expensive door on Monday morning.",
+     "Было решено, что отныне у него будет два дома и что в понедельник утром в дорогой двери прорежут новую кошачью дверцу."
+    ]
+   ]
+  },
+  {
+   "en": "Before Barnaby left, Mrs Fenwick gave him an envelope. Inside was a cheque large enough to pay his rent for two years. \"Your methods are unusual, Mr Plum,\" she said. \"But I have never met a more useful detective. First my sister's turtle, now my cat.\"",
+   "ru": "Перед отъездом Барнаби миссис Фенвик вручила ему конверт. Внутри лежал чек на сумму, которой хватило бы на арендную плату за два года. «У вас необычные методы, мистер Плам», — сказала она. «Но более полезного детектива я никогда не встречала. Сначала черепаха моей сестры, теперь мой кот».",
+   "s": [
+    [
+     "Before Barnaby left, Mrs Fenwick gave him an envelope.",
+     "Перед отъездом Барнаби миссис Фенвик вручила ему конверт."
+    ],
+    [
+     "Inside was a cheque large enough to pay his rent for two years.",
+     "Внутри лежал чек на сумму, которой хватило бы на арендную плату за два года."
+    ],
+    [
+     "\"Your methods are unusual, Mr Plum,\" she said.",
+     "«У вас необычные методы, мистер Плам», — сказала она."
+    ],
+    [
+     "\"But I have never met a more useful detective. First my sister's turtle, now my cat.\"",
+     "«Но более полезного детектива я никогда не встречала. Сначала черепаха моей сестры, теперь мой кот»."
+    ]
+   ]
+  },
+  {
+   "en": "Barnaby walked out to his car with a wonderful feeling of success. He did not even mind when the gate closed on it again. He had broken a chair, fallen into the sea, sat on his glasses and been attacked by the victim. Some people would call it a failure. But Barnaby Plum had learned something important in twenty-two years of practice: a good detective needs patience and faith, but a great detective needs luck.",
+   "ru": "Барнаби вышел к машине с чудесным чувством успеха. Он даже не расстроился, когда ворота снова захлопнулись на ней. Он сломал стул, упал в море, сел на свои очки и подвергся нападению пострадавшего. Кто-то назвал бы это провалом. Но Барнаби Плам за двадцать два года практики усвоил одну важную вещь: хорошему детективу нужны терпение и вера, а великому детективу нужна удача.",
+   "s": [
+    [
+     "Barnaby walked out to his car with a wonderful feeling of success.",
+     "Барнаби вышел к машине с чудесным чувством успеха."
+    ],
+    [
+     "He did not even mind when the gate closed on it again.",
+     "Он даже не расстроился, когда ворота снова захлопнулись на ней."
+    ],
+    [
+     "He had broken a chair, fallen into the sea, sat on his glasses and been attacked by the victim.",
+     "Он сломал стул, упал в море, сел на свои очки и подвергся нападению пострадавшего."
+    ],
+    [
+     "Some people would call it a failure.",
+     "Кто-то назвал бы это провалом."
+    ],
+    [
+     "But Barnaby Plum had learned something important in twenty-two years of practice: a good detective needs patience and faith, but a great detective needs luck.",
+     "Но Барнаби Плам за двадцать два года практики усвоил одну важную вещь: хорошему детективу нужны терпение и вера, а великому детективу нужна удача."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, об",
+  "above": "над",
+  "access": "доступ",
+  "accident": "несчастный случай",
+  "according": "согласно",
+  "action": "действие",
+  "addiction": "зависимость",
+  "advertisement": "реклама",
+  "after": "после",
+  "afternoon": "после обеда, день",
+  "afternoons": "после обеда (по дням)",
+  "again": "снова",
+  "against": "против",
+  "ago": "назад",
+  "agreed": "решено (it was agreed)",
+  "air": "воздух",
+  "all": "все; весь; совсем (at all)",
+  "along": "вдоль",
+  "aloud": "вслух",
+  "also": "также",
+  "although": "хотя",
+  "always": "всегда",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "anyone": "кого-либо",
+  "anything": "что-нибудь",
+  "are": "(есть) — вы/они",
+  "argue": "спорим",
+  "argued": "поспорили",
+  "arrived": "пришло; прибежала",
+  "as": "как, так как",
+  "ask": "спросить",
+  "asked": "спросил(а)",
+  "at": "в, у, на",
+  "attacked": "подвергся нападению",
+  "attempt": "попытка",
+  "aunt": "тётя",
+  "aunt's": "тёти",
+  "autumn": "осень",
+  "back": "обратно",
+  "backwards": "назад",
+  "bag": "сумка",
+  "barnaby": "Барнаби (имя)",
+  "baron": "Барон (кличка кота)",
+  "be": "быть",
+  "because": "потому что",
+  "bed": "постель (went to bed — лёг спать)",
+  "beds": "лежанки",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "began": "начал(а)",
+  "behavior": "поведение",
+  "behind": "за, позади",
+  "belong": "принадлежать",
+  "beloved": "любимый",
+  "best": "лучший",
+  "between": "между",
+  "bit": "немного (a bit)",
+  "black": "чёрный",
+  "blame": "винить",
+  "blanket": "одеяло",
+  "blue": "синий",
+  "board": "доска",
+  "boat": "лодка",
+  "boats": "лодки",
+  "boot": "багажник",
+  "both": "оба",
+  "bottom": "низ",
+  "bowl": "тарелка, миска",
+  "break": "сломать",
+  "broke": "сломался; дрогнул (о голосе)",
+  "broken": "сломал",
+  "burglary": "ограбление, кража со взломом",
+  "burst": "разразилась (burst into tears — расплакалась)",
+  "bus": "автобус",
+  "but": "но",
+  "button": "кнопка",
+  "buy": "купить",
+  "by": "у, к, от",
+  "cabinet": "шкаф",
+  "call": "назвать",
+  "came": "пришёл; вошла; вышла",
+  "camera": "камера",
+  "can": "могу, можем",
+  "cancel": "отменить",
+  "car": "машина",
+  "cards": "карты",
+  "carefully": "тщательно; осторожно",
+  "carried": "несли",
+  "carrying": "неся",
+  "cases": "дела",
+  "cat": "кот",
+  "cat's": "кота",
+  "cats": "кошки, коты",
+  "ceiling": "потолок",
+  "chair": "стул",
+  "cheap": "дешёвый",
+  "cheaper": "дешевле",
+  "cheerful": "весёлый",
+  "cheque": "чек",
+  "chess": "шахматный",
+  "chip": "картошка фри (fish-and-chip — рыба с картошкой)",
+  "christmas": "Рождество",
+  "church": "церковь",
+  "clear": "ясный",
+  "clever": "умный",
+  "close": "близко",
+  "closed": "закрылись",
+  "coat": "пальто",
+  "coldly": "холодно",
+  "collar": "воротник",
+  "collect": "забрать",
+  "come": "прийти, вернуться",
+  "comes": "приходит",
+  "company": "компания; общество (good company)",
+  "completely": "полностью",
+  "cook": "повар",
+  "cordelia": "Корделия (имя)",
+  "could": "мог(ла)",
+  "counting": "считать",
+  "covered": "покрыты",
+  "crack": "треск",
+  "cried": "плакал; воскликнула",
+  "crispin": "Криспин (имя)",
+  "crunch": "хруст",
+  "cup": "чашка",
+  "cushion": "подушка",
+  "cut": "вырезанный; прорезать",
+  "day": "день",
+  "debts": "долги",
+  "decided": "решили",
+  "desk": "стол",
+  "detail": "деталь",
+  "detective": "детектив",
+  "detective's": "детектива",
+  "detectives": "детективы",
+  "did": "(вспом. гл.)",
+  "didn't": "не (прош. вр.)",
+  "died": "умер(ла)",
+  "different": "другой, не такой",
+  "dinner": "ужин",
+  "directly": "прямо",
+  "disappeared": "исчез",
+  "distraction": "отвлечение",
+  "disturb": "беспокоить",
+  "do": "(вспом. гл.)",
+  "does": "(вспом. гл.)",
+  "doesn't": "не (вспом.)",
+  "don't": "не (повел.)",
+  "done": "делает (has done — так и делает)",
+  "door": "дверь",
+  "doors": "двери",
+  "down": "вниз (wrote down — записал)",
+  "drag": "тащить, протащить",
+  "drank": "выпил",
+  "dress": "платье",
+  "drove": "поехал",
+  "ear": "ухо",
+  "easy": "лёгкий",
+  "eat": "есть",
+  "eating": "ел; есть",
+  "eats": "ест",
+  "either": "тоже (не)",
+  "else": "ещё, другой",
+  "england": "Англия",
+  "enough": "достаточно",
+  "envelope": "конверт",
+  "especially": "особенно",
+  "establish": "установить",
+  "even": "даже; ещё (even older)",
+  "evening": "вечер",
+  "every": "каждый",
+  "everyone": "все",
+  "everything": "всё",
+  "exactly": "точно",
+  "exam": "экзамен",
+  "except": "кроме",
+  "expensive": "дорогой",
+  "explain": "объяснять",
+  "explained": "объяснил",
+  "external": "наружный",
+  "eyes": "глаза",
+  "ezra": "Эзра (имя)",
+  "ezra's": "Эзры",
+  "facts": "факты",
+  "failure": "неудача",
+  "faith": "вера",
+  "fake": "фальшивый",
+  "fallen": "упал",
+  "fat": "толстый",
+  "fee": "гонорар",
+  "feeling": "чувство",
+  "feet": "ноги; лапы",
+  "fell": "упали",
+  "fenwick": "Фенвик (фамилия)",
+  "fenwick's": "Фенвик (чей)",
+  "few": "несколько",
+  "fifty": "пятьдесят",
+  "figure": "фигура",
+  "films": "фильмы",
+  "finally": "наконец",
+  "finest": "лучший, тончайший",
+  "fire": "камин",
+  "first": "первый; во-первых",
+  "fish": "рыба",
+  "fishing": "рыбацкий",
+  "flap": "дверца (cat flap — кошачья дверца)",
+  "flask": "термос",
+  "flew": "пролетел",
+  "flight": "рейс",
+  "floor": "пол",
+  "footsteps": "шаги",
+  "for": "для, в течение",
+  "forgot": "забыл",
+  "fought": "подрался",
+  "found": "нашли",
+  "four": "четыре",
+  "fox": "лиса",
+  "foxes": "лисы",
+  "friday": "пятница",
+  "from": "из, от",
+  "front": "перед (in front of); входной (front door)",
+  "full": "полный",
+  "game": "партия",
+  "garden": "сад",
+  "gate": "ворота",
+  "gave": "провела; вручила",
+  "glass": "стеклянный",
+  "glasses": "очки",
+  "go": "идти; попасть",
+  "going": "собираетесь; возвращаться",
+  "gone": "уходил",
+  "good": "хороший",
+  "goose": "гусь",
+  "great": "громкий; великий",
+  "grey": "серый",
+  "guest": "гость; гостевой",
+  "had": "(вспом. гл.); имела",
+  "half": "половина",
+  "hands": "руки",
+  "handsome": "красивый",
+  "handwritten": "написанный от руки",
+  "harbour": "гавань",
+  "has": "(вспом. гл.)",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "he's": "он (есть)",
+  "heard": "услышал",
+  "heart": "сердце",
+  "her": "её, ей",
+  "herself": "сама",
+  "hid": "спрятался",
+  "hidden": "скрытый",
+  "hiding": "укрытие (hiding place)",
+  "hill": "подъём, холм",
+  "him": "его, ему",
+  "himself": "сам, себе",
+  "his": "его",
+  "holding": "держась; держа",
+  "home": "домой",
+  "homes": "дома",
+  "honestly": "честно",
+  "honour": "честь",
+  "horrible": "ужасный",
+  "hotels": "гостиницы",
+  "hours": "часы",
+  "house": "дом",
+  "housekeeper": "экономка",
+  "hundred": "сто",
+  "i": "я",
+  "i'll": "я (буду)",
+  "i'm": "я (есть)",
+  "i've": "я (уже)",
+  "if": "если, ли",
+  "important": "важный",
+  "in": "в",
+  "inside": "внутри",
+  "instead": "вместо этого",
+  "instinct": "чутьё, инстинкт",
+  "interest": "интерес",
+  "interested": "заинтересованный",
+  "interesting": "интересный",
+  "into": "в",
+  "is": "есть, является",
+  "it": "он, оно, это",
+  "joy": "радость",
+  "jumped": "прыгнул",
+  "jumping": "выпрыгивая",
+  "keep": "иметь (keep two homes)",
+  "kept": "продолжали (kept turning)",
+  "kitchen": "кухня",
+  "knocked": "опрокинул (knocked over)",
+  "know": "знаю",
+  "lamp": "лампа",
+  "landed": "приземлился",
+  "landlord": "хозяин помещения",
+  "large": "большой",
+  "last": "последний; прошлый",
+  "late": "поздно",
+  "lately": "в последнее время",
+  "later": "спустя",
+  "laughed": "смеялась",
+  "leaned": "облокотился",
+  "learned": "узнал; усвоил",
+  "leave": "оставить; съехать",
+  "left": "уехал",
+  "letter": "письмо",
+  "library": "библиотека",
+  "life": "жизнь",
+  "like": "как",
+  "listened": "слушала",
+  "little": "маленький, немного",
+  "lived": "жила",
+  "living": "жил",
+  "locked": "запертый (locked out — не пустили)",
+  "lonely": "одинокий",
+  "long": "долго, долгий",
+  "look": "смотреть",
+  "looked": "посмотрел; выглядел",
+  "looking": "глядя",
+  "lost": "проиграл",
+  "loud": "громкий",
+  "loves": "любит",
+  "luck": "удача",
+  "lying": "лежал",
+  "madam": "мадам",
+  "made": "издавала; сделан; выразил",
+  "magazines": "журналы",
+  "man": "мужчина",
+  "managed": "управляла",
+  "manners": "манеры",
+  "may": "может быть, возможно",
+  "me": "меня, мне",
+  "mean": "значить",
+  "means": "значит",
+  "meant": "означала",
+  "meat": "мясо",
+  "men": "люди",
+  "mentioned": "упоминал; упомянула",
+  "met": "встречала",
+  "methods": "методы",
+  "metre": "метр",
+  "midnight": "полночь",
+  "mile": "миля",
+  "mind": "расстраиваться, возражать",
+  "miserably": "жалобно",
+  "moment": "мгновение",
+  "monaco": "Монако",
+  "monday": "понедельник",
+  "money": "деньги",
+  "month": "месяц",
+  "more": "больше",
+  "morning": "утро",
+  "mother": "мать",
+  "move": "двигаться",
+  "moved": "поехал",
+  "mr": "мистер",
+  "mrs": "миссис",
+  "my": "мой",
+  "mystery": "загадка",
+  "needed": "нуждался",
+  "needs": "нужен",
+  "nephew": "племянник",
+  "never": "никогда",
+  "new": "новый",
+  "newspapers": "газеты",
+  "next": "следующий; соседний",
+  "night": "ночь",
+  "nine": "девять",
+  "no": "нет",
+  "nobody": "никто",
+  "noise": "звук",
+  "not": "не",
+  "notebook": "блокнот",
+  "nothing": "ничего",
+  "notice": "уведомление",
+  "noticed": "заметил",
+  "now": "теперь",
+  "o'clock": "часов",
+  "obey": "слушаться",
+  "of": "из, о, (род. падеж)",
+  "office": "контора; почта (post office)",
+  "old": "старый",
+  "older": "старше",
+  "on": "на",
+  "one": "один, одна",
+  "only": "только",
+  "onto": "на",
+  "opened": "открыл",
+  "opinion": "мнение",
+  "opportunity": "возможность",
+  "or": "или; иначе",
+  "ordered": "заказана",
+  "other": "другой",
+  "out": "наружу",
+  "outside": "снаружи",
+  "over": "через (knocked over — опрокинул)",
+  "own": "собственный",
+  "paid": "внесена",
+  "pain": "боль",
+  "pair": "пара",
+  "paper": "бумага, бумажный",
+  "passed": "сдал",
+  "patience": "терпение",
+  "pay": "платить, заплатить",
+  "people": "люди",
+  "perhaps": "может быть",
+  "pettifer": "Петтифер (фамилия)",
+  "photograph": "фотография",
+  "photographs": "фотографии",
+  "picture": "снимок",
+  "piece": "кусок",
+  "pieces": "фигуры (шахматные)",
+  "pity": "жалость",
+  "place": "место",
+  "plate": "тарелка",
+  "playing": "играл",
+  "please": "пожалуйста",
+  "pleased": "довольный",
+  "plum": "Плам (фамилия)",
+  "pocket": "карманный",
+  "police": "полиция, полицейский",
+  "positions": "позиции",
+  "post": "почта (post office)",
+  "pounds": "фунты",
+  "practice": "практика",
+  "predator": "хищник",
+  "pressed": "нажал",
+  "price": "цена",
+  "prison": "тюрьма",
+  "private": "частный",
+  "promise": "обещаю",
+  "promised": "пообещала",
+  "properly": "правильно, как следует",
+  "proudly": "гордо",
+  "pub": "паб",
+  "put": "положил; поставили; повесил (put up)",
+  "putting": "укладывая",
+  "questions": "вопросы",
+  "quickly": "быстро",
+  "quietly": "тихо",
+  "rang": "зазвонил",
+  "reached": "добрался",
+  "read": "прочитала",
+  "reading": "читал",
+  "reads": "читает",
+  "ready": "готовый",
+  "recent": "недавний",
+  "recorded": "записала",
+  "red": "красный",
+  "reduced": "урезаны, уменьшены",
+  "regret": "пожалеть, жалеть",
+  "remember": "помню",
+  "remembered": "помнил; вспомнил",
+  "rent": "аренда",
+  "rich": "богатый",
+  "rob": "грабить",
+  "robbing": "грабёж",
+  "room": "комната",
+  "rude": "нахальный",
+  "said": "сказал(а)",
+  "salt": "соль",
+  "salted": "солёный",
+  "same": "тот же",
+  "sat": "сидел; сел",
+  "saw": "увидел(а)",
+  "says": "говорит",
+  "scratches": "царапины",
+  "sea": "море",
+  "seaweed": "водоросли",
+  "second": "второй; во-вторых",
+  "security": "охранный",
+  "see": "видеть",
+  "seemed": "казалось",
+  "seen": "видели",
+  "seven": "семь",
+  "seventy": "семьдесят",
+  "shaking": "дрожа",
+  "she": "она",
+  "sheep": "овца, овцы",
+  "shipping": "судоходный",
+  "shoelace": "шнурок",
+  "shop": "закусочная, магазин",
+  "shore": "берег",
+  "short": "короткий",
+  "shouted": "крикнул",
+  "shut": "захлопнул; закрыты",
+  "sick": "больной",
+  "simply": "просто",
+  "since": "с (тех пор как)",
+  "sister's": "сестры",
+  "sitting": "сидящий",
+  "sleep": "спать",
+  "sleeping": "спящий",
+  "slept": "спали",
+  "slipped": "поскользнулся",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smelling": "пахнущий",
+  "smile": "улыбка",
+  "smiled": "улыбнулся",
+  "smoke": "дым",
+  "so": "так; значит",
+  "solved": "раскрыл(и)",
+  "some": "некоторые; немного",
+  "someone": "кто-то",
+  "something": "что-то",
+  "somewhere": "где-то",
+  "spare": "запасной",
+  "special": "праздничный",
+  "spitting": "выплёвывая",
+  "splash": "всплеск",
+  "sports": "спортивный",
+  "spring": "весна",
+  "still": "до сих пор; всё ещё",
+  "stolen": "украл",
+  "stopped": "остановился; перестал",
+  "stories": "истории",
+  "story": "история",
+  "strange": "странный",
+  "stray": "бездомный (кот)",
+  "success": "успех",
+  "such": "такой",
+  "suddenly": "вдруг",
+  "suitcase": "чемодан",
+  "summer": "лето",
+  "suppose": "полагаю",
+  "sure": "уверенный",
+  "system": "система",
+  "table": "стол",
+  "take": "вычесть (take out of)",
+  "taken": "сделана (о фото)",
+  "tall": "высокий",
+  "taste": "вкус",
+  "tasted": "на вкус, отдавал",
+  "tea": "чай",
+  "tears": "слёзы",
+  "telephone": "телефон",
+  "ten": "десять",
+  "than": "чем",
+  "that": "что; тот, это",
+  "the": "(опр. артикль)",
+  "them": "их",
+  "then": "потом, тогда",
+  "there": "там",
+  "these": "эти",
+  "they": "они",
+  "thief": "вор",
+  "thin": "худой",
+  "things": "вещи",
+  "think": "думать",
+  "third": "третий",
+  "this": "этот",
+  "though": "хотя; однако",
+  "thought": "думал",
+  "thousand": "тысяча",
+  "three": "три",
+  "through": "по, через",
+  "thursday": "четверг",
+  "ticket": "билет",
+  "time": "время, раз",
+  "times": "раз",
+  "tiny": "крошечный",
+  "to": "к, в; (частица)",
+  "today": "сегодня",
+  "told": "говорят (do as you are told)",
+  "took": "достал",
+  "top": "верх (on top of — прямо на)",
+  "torch": "фонарик",
+  "torn": "порванный",
+  "tour": "экскурсия",
+  "towards": "к, по направлению к",
+  "toys": "игрушки",
+  "tried": "попытался; попробовал",
+  "troubling": "беспокоить, тревожить",
+  "try": "постараться",
+  "tuesday": "вторник",
+  "turned": "повернулась",
+  "turning": "превращаясь",
+  "turtle": "черепаха",
+  "twenty": "двадцать",
+  "two": "два",
+  "tying": "завязывая",
+  "under": "под",
+  "undone": "развязанный (come undone — развязался)",
+  "unfinished": "неоконченный",
+  "unfortunately": "к несчастью",
+  "unique": "уникальный",
+  "until": "до",
+  "unusual": "необычный",
+  "up": "вверх (put up — повесить)",
+  "us": "нам",
+  "used": "раньше (used to)",
+  "useful": "полезный",
+  "useless": "бесполезный",
+  "usually": "обычно",
+  "vanish": "исчезать",
+  "vanished": "исчез",
+  "very": "очень",
+  "victim": "пострадавший",
+  "village": "деревня",
+  "voice": "голос",
+  "wait": "ждать",
+  "waiting": "ждёт",
+  "walked": "пошёл; вышел",
+  "want": "хотеть",
+  "wanted": "хотел",
+  "was": "был(а)",
+  "water": "вода",
+  "way": "смысл (in a way — в каком-то смысле)",
+  "we": "мы",
+  "week": "неделя",
+  "well": "хорошо",
+  "went": "пошёл; продолжила (went on); лёг (went to bed)",
+  "were": "были",
+  "wet": "влажный, мокрый",
+  "what": "что",
+  "when": "когда",
+  "where": "где",
+  "which": "который, что",
+  "while": "пока",
+  "white": "белый",
+  "who": "кто, который",
+  "whoever": "тот, кто",
+  "why": "почему",
+  "wickham": "Уикем (название)",
+  "wife": "жена",
+  "will": "будет",
+  "windows": "окна",
+  "wiping": "вытирая",
+  "with": "с",
+  "without": "без",
+  "woman": "женщина",
+  "woman's": "женский",
+  "wonderful": "чудесный",
+  "wood": "дерево (материал)",
+  "wooden": "деревянный",
+  "words": "слова",
+  "work": "работать",
+  "would": "бы",
+  "wrapped": "закутанный",
+  "wrong": "не тот",
+  "wrote": "написал(а)",
+  "years": "лет, годы",
+  "yellow": "жёлтый",
+  "yoga": "йога",
+  "you": "вы, ты",
+  "young": "молодой",
+  "your": "ваш"
+ },
+ "vocab": {
+  "practice": 7,
+  "turtle": 48,
+  "learned": 15,
+  "beloved": 410,
+  "salt": 57,
+  "salted": 57,
+  "establish": 573,
+  "shore": 149,
+  "rob": 608,
+  "robbing": 608,
+  "board": 190,
+  "addiction": 468,
+  "ready": 180,
+  "passed": 223,
+  "argued": 297,
+  "argue": 297,
+  "vanished": 515,
+  "vanish": 515,
+  "flight": 425,
+  "see": 42,
+  "tasted": 52,
+  "taste": 52,
+  "failure": 518,
+  "lonely": 337,
+  "dinner": 78,
+  "meat": 59,
+  "unique": 591,
+  "wood": 124,
+  "wooden": 124,
+  "chair": 205,
+  "action": 483,
+  "suppose": 442,
+  "holding": 175,
+  "faith": 536,
+  "piece": 213,
+  "pieces": 213,
+  "access": 571,
+  "especially": 403,
+  "handsome": 277,
+  "external": 601,
+  "disturb": 444,
+  "drag": 551,
+  "thin": 296,
+  "kept": 208,
+  "keep": 208,
+  "these": 3,
+  "predator": 641,
+  "regret": 365,
+  "village": 104,
+  "managed": 609,
+  "distraction": 472,
+  "horrible": 86,
+  "ordered": 269,
+  "behavior": 585,
+  "useful": 264,
+  "reduced": 508,
+  "tour": 293,
+  "more": 6,
+  "glass": 115,
+  "prison": 346,
+  "obey": 344,
+  "suddenly": 30,
+  "collect": 593,
+  "late": 199,
+  "moved": 152,
+  "move": 152,
+  "autumn": 217,
+  "notice": 121,
+  "shut": 34,
+  "drove": 116
+ }
+}

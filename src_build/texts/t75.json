@@ -1,0 +1,1317 @@
+{
+ "id": 75,
+ "level": "B1",
+ "cat": "cons",
+ "title_en": "The Plane That Vanished: The Mystery of Flight MH370",
+ "title_ru": "Самолёт, который исчез: загадка рейса MH370",
+ "genre": "Конспирология: загадка",
+ "summary_ru": "В марте 2014 года «Боинг» с 239 людьми на борту выключил связь, развернулся и ещё шесть часов летел в никуда — спутниковые сигналы и обломки на пляжах Африки рассказали, где он упал, но не рассказали, почему.",
+ "paragraphs": [
+  {
+   "en": "At 1.19 in the morning on 8 March 2014, a calm voice from the cockpit of Malaysia Airlines Flight 370 spoke to air traffic controllers in Kuala Lumpur. \"Good night, Malaysian three seven zero,\" it said. The plane, a Boeing 777, was flying from Kuala Lumpur to Beijing, and it was about to pass into airspace controlled by Vietnam. Those were the last words that anyone ever heard from it.",
+   "ru": "В 1:19 ночи 8 марта 2014 года спокойный голос из кабины пилотов рейса 370 авиакомпании Malaysia Airlines обратился к авиадиспетчерам в Куала-Лумпуре. «Доброй ночи, Малайзийский три семь ноль», — сказал он. Самолёт, «Боинг-777», летел из Куала-Лумпура в Пекин и вот-вот должен был войти в воздушное пространство, которое контролирует Вьетнам. Это были последние слова, которые кто-либо от него услышал.",
+   "s": [
+    [
+     "At 1.19 in the morning on 8 March 2014, a calm voice from the cockpit of Malaysia Airlines Flight 370 spoke to air traffic controllers in Kuala Lumpur.",
+     "В 1:19 ночи 8 марта 2014 года спокойный голос из кабины пилотов рейса 370 авиакомпании Malaysia Airlines обратился к авиадиспетчерам в Куала-Лумпуре."
+    ],
+    [
+     "\"Good night, Malaysian three seven zero,\" it said.",
+     "«Доброй ночи, Малайзийский три семь ноль», — сказал он."
+    ],
+    [
+     "The plane, a Boeing 777, was flying from Kuala Lumpur to Beijing, and it was about to pass into airspace controlled by Vietnam.",
+     "Самолёт, «Боинг-777», летел из Куала-Лумпура в Пекин и вот-вот должен был войти в воздушное пространство, которое контролирует Вьетнам."
+    ],
+    [
+     "Those were the last words that anyone ever heard from it.",
+     "Это были последние слова, которые кто-либо от него услышал."
+    ]
+   ]
+  },
+  {
+   "en": "Less than two minutes later, the plane disappeared from the controllers' screens. No emergency call was made, and no message was sent. For the families of the 239 people on board, it was the beginning of a mystery which, more than ten years later, has still not been solved.",
+   "ru": "Меньше чем через две минуты самолёт исчез с экранов диспетчеров. Никакого сигнала бедствия не было подано, и никакого сообщения не было отправлено. Для семей 239 человек, находившихся на борту, это стало началом тайны, которая и спустя более десяти лет до сих пор не раскрыта.",
+   "s": [
+    [
+     "Less than two minutes later, the plane disappeared from the controllers' screens.",
+     "Меньше чем через две минуты самолёт исчез с экранов диспетчеров."
+    ],
+    [
+     "No emergency call was made, and no message was sent.",
+     "Никакого сигнала бедствия не было подано, и никакого сообщения не было отправлено."
+    ],
+    [
+     "For the families of the 239 people on board, it was the beginning of a mystery which, more than ten years later, has still not been solved.",
+     "Для семей 239 человек, находившихся на борту, это стало началом тайны, которая и спустя более десяти лет до сих пор не раскрыта."
+    ]
+   ]
+  },
+  {
+   "en": "The flight had taken off at 12.42 a.m. with 227 passengers and 12 crew members. Most of the passengers, 153 of them, were from China, and many others came from Malaysia, Indonesia, Australia, India, France and the United States. The captain, Zaharie Ahmad Shah, was 53 and had more than 18,000 hours of flying experience. His first officer, Fariq Abdul Hamid, was 27.",
+   "ru": "Рейс вылетел в 0:42 ночи с 227 пассажирами и 12 членами экипажа. Большинство пассажиров, 153 человека, были из Китая, а многие другие — из Малайзии, Индонезии, Австралии, Индии, Франции и США. Капитану, Захари Ахмаду Шаху, было 53 года, и у него было более 18 000 часов налёта. Его второму пилоту, Фарику Абдул Хамиду, было 27 лет.",
+   "s": [
+    [
+     "The flight had taken off at 12.42 a.m. with 227 passengers and 12 crew members.",
+     "Рейс вылетел в 0:42 ночи с 227 пассажирами и 12 членами экипажа."
+    ],
+    [
+     "Most of the passengers, 153 of them, were from China, and many others came from Malaysia, Indonesia, Australia, India, France and the United States.",
+     "Большинство пассажиров, 153 человека, были из Китая, а многие другие — из Малайзии, Индонезии, Австралии, Индии, Франции и США."
+    ],
+    [
+     "The captain, Zaharie Ahmad Shah, was 53 and had more than 18,000 hours of flying experience.",
+     "Капитану, Захари Ахмаду Шаху, было 53 года, и у него было более 18 000 часов налёта."
+    ],
+    [
+     "His first officer, Fariq Abdul Hamid, was 27.",
+     "Его второму пилоту, Фарику Абдул Хамиду, было 27 лет."
+    ]
+   ]
+  },
+  {
+   "en": "At first, people thought that the plane must have crashed into the South China Sea, near the place where it had disappeared, and ships and aircraft were sent there. But within days, Malaysian officials revealed something strange. The plane's transponder, a device which sends a plane's identity and height to air traffic radar, had stopped working at about 1.21 a.m. However, Malaysian military radar, which does not need a transponder, had continued to see an unidentified object.",
+   "ru": "Сначала люди думали, что самолёт, должно быть, упал в Южно-Китайское море рядом с тем местом, где он исчез, и туда отправили корабли и самолёты. Но уже через несколько дней малайзийские официальные лица сообщили нечто странное. Транспондер самолёта — устройство, которое передаёт на радар авиадиспетчеров данные о том, что это за самолёт и на какой он высоте, — перестал работать примерно в 1:21 ночи. Однако малайзийский военный радар, которому транспондер не нужен, продолжал видеть неопознанный объект.",
+   "s": [
+    [
+     "At first, people thought that the plane must have crashed into the South China Sea, near the place where it had disappeared, and ships and aircraft were sent there.",
+     "Сначала люди думали, что самолёт, должно быть, упал в Южно-Китайское море рядом с тем местом, где он исчез, и туда отправили корабли и самолёты."
+    ],
+    [
+     "But within days, Malaysian officials revealed something strange.",
+     "Но уже через несколько дней малайзийские официальные лица сообщили нечто странное."
+    ],
+    [
+     "The plane's transponder, a device which sends a plane's identity and height to air traffic radar, had stopped working at about 1.21 a.m.",
+     "Транспондер самолёта — устройство, которое передаёт на радар авиадиспетчеров данные о том, что это за самолёт и на какой он высоте, — перестал работать примерно в 1:21 ночи."
+    ],
+    [
+     "However, Malaysian military radar, which does not need a transponder, had continued to see an unidentified object.",
+     "Однако малайзийский военный радар, которому транспондер не нужен, продолжал видеть неопознанный объект."
+    ]
+   ]
+  },
+  {
+   "en": "According to this military data, the plane had made a sharp turn and flown back almost the way it had come. It crossed the Malay Peninsula, passed close to the island of Penang and then flew northwest over the Strait of Malacca. The last military radar contact came at 2.22 a.m., when the plane was over the Andaman Sea.",
+   "ru": "Согласно этим военным данным, самолёт резко развернулся и полетел почти тем же путём, каким прилетел. Он пересёк Малаккский полуостров, пролетел рядом с островом Пенанг, а затем направился на северо-запад над Малаккским проливом. Последний контакт с военным радаром был в 2:22 ночи, когда самолёт находился над Андаманским морем.",
+   "s": [
+    [
+     "According to this military data, the plane had made a sharp turn and flown back almost the way it had come.",
+     "Согласно этим военным данным, самолёт резко развернулся и полетел почти тем же путём, каким прилетел."
+    ],
+    [
+     "It crossed the Malay Peninsula, passed close to the island of Penang and then flew northwest over the Strait of Malacca.",
+     "Он пересёк Малаккский полуостров, пролетел рядом с островом Пенанг, а затем направился на северо-запад над Малаккским проливом."
+    ],
+    [
+     "The last military radar contact came at 2.22 a.m., when the plane was over the Andaman Sea.",
+     "Последний контакт с военным радаром был в 2:22 ночи, когда самолёт находился над Андаманским морем."
+    ]
+   ]
+  },
+  {
+   "en": "Later, many people asked why nobody had taken action that night. The military had watched the radar but had not tried to stop the plane, and officials said afterwards that it had not been seen as a threat. According to the official report, an official rescue alert was not started until about four hours after the plane had been lost.",
+   "ru": "Позже многие спрашивали, почему той ночью никто ничего не предпринял. Военные следили за радаром, но не пытались остановить самолёт, и официальные лица потом сказали, что его не сочли угрозой. Согласно официальному отчёту, официальная тревога для спасательной службы была объявлена лишь примерно через четыре часа после того, как самолёт был потерян.",
+   "s": [
+    [
+     "Later, many people asked why nobody had taken action that night.",
+     "Позже многие спрашивали, почему той ночью никто ничего не предпринял."
+    ],
+    [
+     "The military had watched the radar but had not tried to stop the plane, and officials said afterwards that it had not been seen as a threat.",
+     "Военные следили за радаром, но не пытались остановить самолёт, и официальные лица потом сказали, что его не сочли угрозой."
+    ],
+    [
+     "According to the official report, an official rescue alert was not started until about four hours after the plane had been lost.",
+     "Согласно официальному отчёту, официальная тревога для спасательной службы была объявлена лишь примерно через четыре часа после того, как самолёт был потерян."
+    ]
+   ]
+  },
+  {
+   "en": "The most important clues came from a place few people had thought about: a satellite high above the Indian Ocean, owned by the British company Inmarsat. The plane had a satellite communication system. Even when no messages are being sent, such a system and a ground station exchange short automatic signals, roughly once an hour, to check that the connection still works. Engineers call these signals \"handshakes\", while newspapers called them \"pings\".",
+   "ru": "Самые важные подсказки пришли оттуда, о чём мало кто думал: со спутника высоко над Индийским океаном, принадлежащего британской компании Inmarsat. На самолёте была система спутниковой связи. Даже когда никаких сообщений не передаётся, такая система и наземная станция обмениваются короткими автоматическими сигналами примерно раз в час, чтобы проверить, что связь всё ещё работает. Инженеры называют эти сигналы «рукопожатиями», а газеты называли их «пингами».",
+   "s": [
+    [
+     "The most important clues came from a place few people had thought about: a satellite high above the Indian Ocean, owned by the British company Inmarsat.",
+     "Самые важные подсказки пришли оттуда, о чём мало кто думал: со спутника высоко над Индийским океаном, принадлежащего британской компании Inmarsat."
+    ],
+    [
+     "The plane had a satellite communication system.",
+     "На самолёте была система спутниковой связи."
+    ],
+    [
+     "Even when no messages are being sent, such a system and a ground station exchange short automatic signals, roughly once an hour, to check that the connection still works.",
+     "Даже когда никаких сообщений не передаётся, такая система и наземная станция обмениваются короткими автоматическими сигналами примерно раз в час, чтобы проверить, что связь всё ещё работает."
+    ],
+    [
+     "Engineers call these signals \"handshakes\", while newspapers called them \"pings\".",
+     "Инженеры называют эти сигналы «рукопожатиями», а газеты называли их «пингами»."
+    ]
+   ]
+  },
+  {
+   "en": "The records showed that the plane's system had connected again at 2.25 a.m., just after the last radar contact. After that, the satellite received handshakes from the plane for six more hours. The last complete one came at 8.11 a.m., and a final, incomplete one at 8.19 a.m. This proved something that shocked the world: the plane had kept flying for about six hours after radar had lost it. Ground staff also tried to call the plane twice by satellite telephone, but nobody answered.",
+   "ru": "Записи показали, что система самолёта снова подключилась в 2:25 ночи, сразу после последнего контакта с радаром. После этого спутник получал «рукопожатия» от самолёта ещё шесть часов. Последнее полное пришло в 8:11 утра, а заключительное, неполное — в 8:19 утра. Это доказало то, что потрясло мир: самолёт продолжал лететь ещё около шести часов после того, как радар его потерял. Наземный персонал также дважды пытался позвонить на самолёт по спутниковому телефону, но никто не ответил.",
+   "s": [
+    [
+     "The records showed that the plane's system had connected again at 2.25 a.m., just after the last radar contact.",
+     "Записи показали, что система самолёта снова подключилась в 2:25 ночи, сразу после последнего контакта с радаром."
+    ],
+    [
+     "After that, the satellite received handshakes from the plane for six more hours.",
+     "После этого спутник получал «рукопожатия» от самолёта ещё шесть часов."
+    ],
+    [
+     "The last complete one came at 8.11 a.m., and a final, incomplete one at 8.19 a.m.",
+     "Последнее полное пришло в 8:11 утра, а заключительное, неполное — в 8:19 утра."
+    ],
+    [
+     "This proved something that shocked the world: the plane had kept flying for about six hours after radar had lost it.",
+     "Это доказало то, что потрясло мир: самолёт продолжал лететь ещё около шести часов после того, как радар его потерял."
+    ],
+    [
+     "Ground staff also tried to call the plane twice by satellite telephone, but nobody answered.",
+     "Наземный персонал также дважды пытался позвонить на самолёт по спутниковому телефону, но никто не ответил."
+    ]
+   ]
+  },
+  {
+   "en": "The handshakes did not contain the plane's position. But by measuring how long each signal took to travel, Inmarsat scientists could calculate the distance between the plane and the satellite at that moment. Each measurement gave a huge curved line on the map, called an \"arc\", and the plane had to be somewhere on it. A tiny change in the frequency of the signals, caused by the plane's movement, helped to show which direction it was flying in.",
+   "ru": "«Рукопожатия» не содержали координат самолёта. Но, измеряя, сколько времени шёл каждый сигнал, учёные Inmarsat могли вычислить расстояние между самолётом и спутником в тот момент. Каждое измерение давало на карте огромную изогнутую линию, которую назвали «дугой», и самолёт должен был находиться где-то на ней. Крошечное изменение частоты сигналов, вызванное движением самолёта, помогло показать, в каком направлении он летел.",
+   "s": [
+    [
+     "The handshakes did not contain the plane's position.",
+     "«Рукопожатия» не содержали координат самолёта."
+    ],
+    [
+     "But by measuring how long each signal took to travel, Inmarsat scientists could calculate the distance between the plane and the satellite at that moment.",
+     "Но, измеряя, сколько времени шёл каждый сигнал, учёные Inmarsat могли вычислить расстояние между самолётом и спутником в тот момент."
+    ],
+    [
+     "Each measurement gave a huge curved line on the map, called an \"arc\", and the plane had to be somewhere on it.",
+     "Каждое измерение давало на карте огромную изогнутую линию, которую назвали «дугой», и самолёт должен был находиться где-то на ней."
+    ],
+    [
+     "A tiny change in the frequency of the signals, caused by the plane's movement, helped to show which direction it was flying in.",
+     "Крошечное изменение частоты сигналов, вызванное движением самолёта, помогло показать, в каком направлении он летел."
+    ]
+   ]
+  },
+  {
+   "en": "The analysis showed that the plane had most likely turned south, not north, and that its flight had ended somewhere along the seventh and last arc, in a remote part of the southern Indian Ocean far west of Australia. On 24 March 2014, the Malaysian prime minister, Najib Razak, told the world with \"deep sadness and regret\" that, according to this new data, the flight had ended there. Experts believe that the plane ran out of fuel, and that the last, incomplete handshake happened when the system restarted after the engines had stopped. Many families refused to accept this without any wreckage, and angry relatives protested in Beijing.",
+   "ru": "Анализ показал, что самолёт, скорее всего, повернул на юг, а не на север, и что его полёт закончился где-то вдоль седьмой, последней дуги, в отдалённой части южной части Индийского океана, далеко к западу от Австралии. 24 марта 2014 года премьер-министр Малайзии Наджиб Разак с «глубокой печалью и сожалением» сообщил миру, что, согласно этим новым данным, полёт закончился там. Эксперты считают, что у самолёта закончилось топливо и что последнее, неполное «рукопожатие» произошло, когда система перезапустилась после остановки двигателей. Многие семьи отказались принять это без каких-либо обломков, и разгневанные родственники протестовали в Пекине.",
+   "s": [
+    [
+     "The analysis showed that the plane had most likely turned south, not north, and that its flight had ended somewhere along the seventh and last arc, in a remote part of the southern Indian Ocean far west of Australia.",
+     "Анализ показал, что самолёт, скорее всего, повернул на юг, а не на север, и что его полёт закончился где-то вдоль седьмой, последней дуги, в отдалённой части южной части Индийского океана, далеко к западу от Австралии."
+    ],
+    [
+     "On 24 March 2014, the Malaysian prime minister, Najib Razak, told the world with \"deep sadness and regret\" that, according to this new data, the flight had ended there.",
+     "24 марта 2014 года премьер-министр Малайзии Наджиб Разак с «глубокой печалью и сожалением» сообщил миру, что, согласно этим новым данным, полёт закончился там."
+    ],
+    [
+     "Experts believe that the plane ran out of fuel, and that the last, incomplete handshake happened when the system restarted after the engines had stopped.",
+     "Эксперты считают, что у самолёта закончилось топливо и что последнее, неполное «рукопожатие» произошло, когда система перезапустилась после остановки двигателей."
+    ],
+    [
+     "Many families refused to accept this without any wreckage, and angry relatives protested in Beijing.",
+     "Многие семьи отказались принять это без каких-либо обломков, и разгневанные родственники протестовали в Пекине."
+    ]
+   ]
+  },
+  {
+   "en": "What followed was the largest and most expensive search in the history of aviation. In 2014, dozens of ships and planes from many countries searched the surface of the ocean, but they found nothing from the aircraft. Ships also listened for signals from the plane's \"black boxes\", the flight recorders, whose batteries last only about a month.",
+   "ru": "Последовали самые масштабные и самые дорогие поиски в истории авиации. В 2014 году десятки кораблей и самолётов из многих стран обыскивали поверхность океана, но не нашли ничего от самолёта. Корабли также прослушивали океан в поисках сигналов от «чёрных ящиков» самолёта — бортовых самописцев, батареи которых работают всего около месяца.",
+   "s": [
+    [
+     "What followed was the largest and most expensive search in the history of aviation.",
+     "Последовали самые масштабные и самые дорогие поиски в истории авиации."
+    ],
+    [
+     "In 2014, dozens of ships and planes from many countries searched the surface of the ocean, but they found nothing from the aircraft.",
+     "В 2014 году десятки кораблей и самолётов из многих стран обыскивали поверхность океана, но не нашли ничего от самолёта."
+    ],
+    [
+     "Ships also listened for signals from the plane's \"black boxes\", the flight recorders, whose batteries last only about a month.",
+     "Корабли также прослушивали океан в поисках сигналов от «чёрных ящиков» самолёта — бортовых самописцев, батареи которых работают всего около месяца."
+    ]
+   ]
+  },
+  {
+   "en": "The underwater search was led by the Australian Transport Safety Bureau, working with Malaysia and China. Ships pulled sonar equipment, which uses sound to create pictures, through water four to six kilometres deep, in some of the roughest seas on Earth. They searched about 120,000 square kilometres of seabed, an area almost the size of England, and found two old shipwrecks, but no plane. The search ended in January 2017, after it had cost around 200 million Australian dollars.",
+   "ru": "Подводные поиски возглавило Австралийское бюро безопасности на транспорте, работавшее вместе с Малайзией и Китаем. Корабли тянули гидролокаторы, которые с помощью звука создают изображения, сквозь воду глубиной от четырёх до шести километров, в одних из самых бурных морей на Земле. Они обследовали около 120 000 квадратных километров морского дна — площадь почти размером с Англию — и нашли два старых затонувших корабля, но не самолёт. Поиски завершились в январе 2017 года, обойдясь примерно в 200 миллионов австралийских долларов.",
+   "s": [
+    [
+     "The underwater search was led by the Australian Transport Safety Bureau, working with Malaysia and China.",
+     "Подводные поиски возглавило Австралийское бюро безопасности на транспорте, работавшее вместе с Малайзией и Китаем."
+    ],
+    [
+     "Ships pulled sonar equipment, which uses sound to create pictures, through water four to six kilometres deep, in some of the roughest seas on Earth.",
+     "Корабли тянули гидролокаторы, которые с помощью звука создают изображения, сквозь воду глубиной от четырёх до шести километров, в одних из самых бурных морей на Земле."
+    ],
+    [
+     "They searched about 120,000 square kilometres of seabed, an area almost the size of England, and found two old shipwrecks, but no plane.",
+     "Они обследовали около 120 000 квадратных километров морского дна — площадь почти размером с Англию — и нашли два старых затонувших корабля, но не самолёт."
+    ],
+    [
+     "The search ended in January 2017, after it had cost around 200 million Australian dollars.",
+     "Поиски завершились в январе 2017 года, обойдясь примерно в 200 миллионов австралийских долларов."
+    ]
+   ]
+  },
+  {
+   "en": "In 2018, an American seabed exploration company called Ocean Infinity tried again on a \"no find, no fee\" basis, which meant that it would be paid only if it found the plane. Its robot submarines covered more than 100,000 square kilometres north of the earlier area in just a few months. Again, they found nothing.",
+   "ru": "В 2018 году американская компания по исследованию морского дна Ocean Infinity попробовала снова на условиях «нет находки — нет оплаты», то есть ей заплатили бы, только если бы она нашла самолёт. Её подводные роботы обследовали более 100 000 квадратных километров к северу от прежнего района всего за несколько месяцев. И снова они ничего не нашли.",
+   "s": [
+    [
+     "In 2018, an American seabed exploration company called Ocean Infinity tried again on a \"no find, no fee\" basis, which meant that it would be paid only if it found the plane.",
+     "В 2018 году американская компания по исследованию морского дна Ocean Infinity попробовала снова на условиях «нет находки — нет оплаты», то есть ей заплатили бы, только если бы она нашла самолёт."
+    ],
+    [
+     "Its robot submarines covered more than 100,000 square kilometres north of the earlier area in just a few months.",
+     "Её подводные роботы обследовали более 100 000 квадратных километров к северу от прежнего района всего за несколько месяцев."
+    ],
+    [
+     "Again, they found nothing.",
+     "И снова они ничего не нашли."
+    ]
+   ]
+  },
+  {
+   "en": "By then, however, the ocean had already given investigators a small piece of the answer. On 29 July 2015, workers cleaning a beach on Reunion, a French island east of Madagascar, found a large piece of metal about two metres long. It was a flaperon, a moving part of a wing which helps to control a plane. The part was sent to France, and in September 2015 French investigators said they were certain that it came from MH370, using a serial number found inside it.",
+   "ru": "Однако к тому времени океан уже дал следователям маленький кусочек ответа. 29 июля 2015 года рабочие, убиравшие пляж на Реюньоне, французском острове к востоку от Мадагаскара, нашли большой кусок металла длиной около двух метров. Это был флаперон — подвижная часть крыла, которая помогает управлять самолётом. Деталь отправили во Францию, и в сентябре 2015 года французские следователи заявили, что уверены, что она с MH370, — по серийному номеру, найденному внутри.",
+   "s": [
+    [
+     "By then, however, the ocean had already given investigators a small piece of the answer.",
+     "Однако к тому времени океан уже дал следователям маленький кусочек ответа."
+    ],
+    [
+     "On 29 July 2015, workers cleaning a beach on Reunion, a French island east of Madagascar, found a large piece of metal about two metres long.",
+     "29 июля 2015 года рабочие, убиравшие пляж на Реюньоне, французском острове к востоку от Мадагаскара, нашли большой кусок металла длиной около двух метров."
+    ],
+    [
+     "It was a flaperon, a moving part of a wing which helps to control a plane.",
+     "Это был флаперон — подвижная часть крыла, которая помогает управлять самолётом."
+    ],
+    [
+     "The part was sent to France, and in September 2015 French investigators said they were certain that it came from MH370, using a serial number found inside it.",
+     "Деталь отправили во Францию, и в сентябре 2015 года французские следователи заявили, что уверены, что она с MH370, — по серийному номеру, найденному внутри."
+    ]
+   ]
+  },
+  {
+   "en": "It was the first physical proof that the plane had crashed into the Indian Ocean. Over the next few years, people collected more than 30 pieces of possible debris on beaches in Mozambique, South Africa, Mauritius, Madagascar and Tanzania. Several of them were confirmed, or judged almost certain, to be from MH370. A number of pieces were found by Blaine Gibson, an American adventurer who decided to visit remote beaches himself.",
+   "ru": "Это было первое вещественное доказательство того, что самолёт упал в Индийский океан. За следующие несколько лет люди собрали более 30 возможных обломков на пляжах Мозамбика, Южной Африки, Маврикия, Мадагаскара и Танзании. Несколько из них были подтверждены или признаны почти наверняка принадлежащими MH370. Ряд обломков нашёл Блейн Гибсон, американский искатель приключений, который решил сам объехать отдалённые пляжи.",
+   "s": [
+    [
+     "It was the first physical proof that the plane had crashed into the Indian Ocean.",
+     "Это было первое вещественное доказательство того, что самолёт упал в Индийский океан."
+    ],
+    [
+     "Over the next few years, people collected more than 30 pieces of possible debris on beaches in Mozambique, South Africa, Mauritius, Madagascar and Tanzania.",
+     "За следующие несколько лет люди собрали более 30 возможных обломков на пляжах Мозамбика, Южной Африки, Маврикия, Мадагаскара и Танзании."
+    ],
+    [
+     "Several of them were confirmed, or judged almost certain, to be from MH370.",
+     "Несколько из них были подтверждены или признаны почти наверняка принадлежащими MH370."
+    ],
+    [
+     "A number of pieces were found by Blaine Gibson, an American adventurer who decided to visit remote beaches himself.",
+     "Ряд обломков нашёл Блейн Гибсон, американский искатель приключений, который решил сам объехать отдалённые пляжи."
+    ]
+   ]
+  },
+  {
+   "en": "Ocean scientists studied how currents could have carried these objects to Africa. Their results agreed with a crash in the southern Indian Ocean, although they could not show the exact place. Studies of the flaperon and of a piece of another wing part suggested that they were probably not extended when the plane hit the water. This was a sign, though not proof, that the plane was not being prepared for a careful landing on the sea.",
+   "ru": "Учёные-океанологи изучили, как течения могли донести эти предметы до Африки. Их результаты согласовывались с падением в южной части Индийского океана, хотя точное место они показать не могли. Исследования флаперона и фрагмента другой части крыла показали, что они, вероятно, не были выпущены, когда самолёт ударился о воду. Это был признак, хотя и не доказательство, того, что самолёт не готовили к осторожной посадке на воду.",
+   "s": [
+    [
+     "Ocean scientists studied how currents could have carried these objects to Africa.",
+     "Учёные-океанологи изучили, как течения могли донести эти предметы до Африки."
+    ],
+    [
+     "Their results agreed with a crash in the southern Indian Ocean, although they could not show the exact place.",
+     "Их результаты согласовывались с падением в южной части Индийского океана, хотя точное место они показать не могли."
+    ],
+    [
+     "Studies of the flaperon and of a piece of another wing part suggested that they were probably not extended when the plane hit the water.",
+     "Исследования флаперона и фрагмента другой части крыла показали, что они, вероятно, не были выпущены, когда самолёт ударился о воду."
+    ],
+    [
+     "This was a sign, though not proof, that the plane was not being prepared for a careful landing on the sea.",
+     "Это был признак, хотя и не доказательство, того, что самолёт не готовили к осторожной посадке на воду."
+    ]
+   ]
+  },
+  {
+   "en": "So where the plane ended its journey is roughly known. The much harder question is why. Over the years, several sets of explanations have been offered, and none of them has been proven.",
+   "ru": "Итак, где самолёт закончил свой путь, примерно известно. Гораздо более трудный вопрос — почему. За эти годы было предложено несколько групп объяснений, и ни одно из них не доказано.",
+   "s": [
+    [
+     "So where the plane ended its journey is roughly known.",
+     "Итак, где самолёт закончил свой путь, примерно известно."
+    ],
+    [
+     "The much harder question is why.",
+     "Гораздо более трудный вопрос — почему."
+    ],
+    [
+     "Over the years, several sets of explanations have been offered, and none of them has been proven.",
+     "За эти годы было предложено несколько групп объяснений, и ни одно из них не доказано."
+    ]
+   ]
+  },
+  {
+   "en": "The first theory, which many aviation experts consider the most likely, is that someone in the cockpit flew the plane away on purpose, perhaps the captain himself. Supporters of this opinion point out that the transponder stopped just as the plane was moving from Malaysian to Vietnamese control, when each side might think the other was in contact with it. The route then passed near Penang, the captain's home island. Malaysian police also found that his home flight simulator held deleted data from a flight that went far into the southern Indian Ocean.",
+   "ru": "Первая теория, которую многие авиационные эксперты считают наиболее вероятной, состоит в том, что кто-то в кабине намеренно увёл самолёт, возможно, сам капитан. Сторонники этого мнения указывают, что транспондер отключился как раз тогда, когда самолёт переходил из-под малайзийского контроля под вьетнамский, когда каждая сторона могла думать, что на связи с ним другая. Затем маршрут прошёл рядом с Пенангом, родным островом капитана. Малайзийская полиция также обнаружила, что в его домашнем авиасимуляторе хранились удалённые данные о полёте, уходившем далеко в южную часть Индийского океана.",
+   "s": [
+    [
+     "The first theory, which many aviation experts consider the most likely, is that someone in the cockpit flew the plane away on purpose, perhaps the captain himself.",
+     "Первая теория, которую многие авиационные эксперты считают наиболее вероятной, состоит в том, что кто-то в кабине намеренно увёл самолёт, возможно, сам капитан."
+    ],
+    [
+     "Supporters of this opinion point out that the transponder stopped just as the plane was moving from Malaysian to Vietnamese control, when each side might think the other was in contact with it.",
+     "Сторонники этого мнения указывают, что транспондер отключился как раз тогда, когда самолёт переходил из-под малайзийского контроля под вьетнамский, когда каждая сторона могла думать, что на связи с ним другая."
+    ],
+    [
+     "The route then passed near Penang, the captain's home island.",
+     "Затем маршрут прошёл рядом с Пенангом, родным островом капитана."
+    ],
+    [
+     "Malaysian police also found that his home flight simulator held deleted data from a flight that went far into the southern Indian Ocean.",
+     "Малайзийская полиция также обнаружила, что в его домашнем авиасимуляторе хранились удалённые данные о полёте, уходившем далеко в южную часть Индийского океана."
+    ]
+   ]
+  },
+  {
+   "en": "However, investigators found no clear reason why he would do such a thing. They looked at the health, money, training and private lives of both pilots and found nothing that explained the disappearance. Many of the captain's family and friends strongly reject the idea, which they find unfair and offensive.",
+   "ru": "Однако следователи не нашли ясной причины, почему он мог бы сделать такое. Они изучили здоровье, финансы, подготовку и личную жизнь обоих пилотов и не нашли ничего, что объясняло бы исчезновение. Многие родственники и друзья капитана решительно отвергают эту версию, считая её несправедливой и оскорбительной.",
+   "s": [
+    [
+     "However, investigators found no clear reason why he would do such a thing.",
+     "Однако следователи не нашли ясной причины, почему он мог бы сделать такое."
+    ],
+    [
+     "They looked at the health, money, training and private lives of both pilots and found nothing that explained the disappearance.",
+     "Они изучили здоровье, финансы, подготовку и личную жизнь обоих пилотов и не нашли ничего, что объясняло бы исчезновение."
+    ],
+    [
+     "Many of the captain's family and friends strongly reject the idea, which they find unfair and offensive.",
+     "Многие родственники и друзья капитана решительно отвергают эту версию, считая её несправедливой и оскорбительной."
+    ]
+   ]
+  },
+  {
+   "en": "A second theory is that a technical failure or a fire, for example caused by the lithium-ion batteries in the cargo, left the crew unconscious. The plane would then have become a \"ghost flight\", flying on autopilot until its fuel ran out. This has happened before: in 2005, the crew of a Greek plane, Helios Flight 522, lost consciousness, and the plane flew on until it crashed. Critics answer that MH370 made several turns in the first hour, which is hard to explain without a person at the controls.",
+   "ru": "Вторая теория — что техническая неисправность или пожар, вызванный, например, литий-ионными батареями в грузе, лишили экипаж сознания. Тогда самолёт превратился бы в «рейс-призрак», летевший на автопилоте, пока не закончилось топливо. Такое уже случалось: в 2005 году экипаж греческого самолёта, рейса 522 компании Helios, потерял сознание, и самолёт летел дальше, пока не разбился. Критики отвечают, что в первый час MH370 совершил несколько поворотов, что трудно объяснить без человека за штурвалом.",
+   "s": [
+    [
+     "A second theory is that a technical failure or a fire, for example caused by the lithium-ion batteries in the cargo, left the crew unconscious.",
+     "Вторая теория — что техническая неисправность или пожар, вызванный, например, литий-ионными батареями в грузе, лишили экипаж сознания."
+    ],
+    [
+     "The plane would then have become a \"ghost flight\", flying on autopilot until its fuel ran out.",
+     "Тогда самолёт превратился бы в «рейс-призрак», летевший на автопилоте, пока не закончилось топливо."
+    ],
+    [
+     "This has happened before: in 2005, the crew of a Greek plane, Helios Flight 522, lost consciousness, and the plane flew on until it crashed.",
+     "Такое уже случалось: в 2005 году экипаж греческого самолёта, рейса 522 компании Helios, потерял сознание, и самолёт летел дальше, пока не разбился."
+    ],
+    [
+     "Critics answer that MH370 made several turns in the first hour, which is hard to explain without a person at the controls.",
+     "Критики отвечают, что в первый час MH370 совершил несколько поворотов, что трудно объяснить без человека за штурвалом."
+    ]
+   ]
+  },
+  {
+   "en": "A third possibility is a hijacking by someone else on board. Early in the search, there was great interest in two Iranian passengers who were travelling with passports that had been stolen in Thailand. But police and Interpol concluded that they were young men who were trying to move to Europe, not terrorists. No group has ever made a believable claim that it took the plane, and no evidence of violence on board has been found.",
+   "ru": "Третья возможность — захват самолёта кем-то другим на борту. В начале поисков большой интерес вызвали два иранских пассажира, которые летели по паспортам, украденным в Таиланде. Но полиция и Интерпол пришли к выводу, что это были молодые люди, которые пытались переехать в Европу, а не террористы. Ни одна группа так и не сделала правдоподобного заявления, что это она захватила самолёт, и никаких свидетельств насилия на борту не найдено.",
+   "s": [
+    [
+     "A third possibility is a hijacking by someone else on board.",
+     "Третья возможность — захват самолёта кем-то другим на борту."
+    ],
+    [
+     "Early in the search, there was great interest in two Iranian passengers who were travelling with passports that had been stolen in Thailand.",
+     "В начале поисков большой интерес вызвали два иранских пассажира, которые летели по паспортам, украденным в Таиланде."
+    ],
+    [
+     "But police and Interpol concluded that they were young men who were trying to move to Europe, not terrorists.",
+     "Но полиция и Интерпол пришли к выводу, что это были молодые люди, которые пытались переехать в Европу, а не террористы."
+    ],
+    [
+     "No group has ever made a believable claim that it took the plane, and no evidence of violence on board has been found.",
+     "Ни одна группа так и не сделала правдоподобного заявления, что это она захватила самолёт, и никаких свидетельств насилия на борту не найдено."
+    ]
+   ]
+  },
+  {
+   "en": "Other theories go much further. Some people believe that the plane was secretly flown north to Central Asia, or that it landed at the American military base on the island of Diego Garcia. Others think that it was shot down by accident during a military exercise, or that hackers took control of it from the ground. There is no evidence for any of these ideas, and they do not fit the satellite data or the debris which washed up on the beaches of Africa, on the other side of the ocean.",
+   "ru": "Другие теории заходят гораздо дальше. Некоторые люди верят, что самолёт тайно увели на север, в Центральную Азию, или что он приземлился на американской военной базе на острове Диего-Гарсия. Другие думают, что его случайно сбили во время военных учений или что хакеры захватили управление им с земли. Ни одна из этих идей не подтверждается доказательствами, и они не согласуются ни со спутниковыми данными, ни с обломками, которые выбросило на пляжи Африки, на другой стороне океана.",
+   "s": [
+    [
+     "Other theories go much further.",
+     "Другие теории заходят гораздо дальше."
+    ],
+    [
+     "Some people believe that the plane was secretly flown north to Central Asia, or that it landed at the American military base on the island of Diego Garcia.",
+     "Некоторые люди верят, что самолёт тайно увели на север, в Центральную Азию, или что он приземлился на американской военной базе на острове Диего-Гарсия."
+    ],
+    [
+     "Others think that it was shot down by accident during a military exercise, or that hackers took control of it from the ground.",
+     "Другие думают, что его случайно сбили во время военных учений или что хакеры захватили управление им с земли."
+    ],
+    [
+     "There is no evidence for any of these ideas, and they do not fit the satellite data or the debris which washed up on the beaches of Africa, on the other side of the ocean.",
+     "Ни одна из этих идей не подтверждается доказательствами, и они не согласуются ни со спутниковыми данными, ни с обломками, которые выбросило на пляжи Африки, на другой стороне океана."
+    ]
+   ]
+  },
+  {
+   "en": "On 30 July 2018, the official Malaysian safety investigation team, which included experts from several countries, published its final report. Its most important conclusion was surprisingly honest: the team could not determine the real cause of the disappearance. It said that the changes in the plane's direction had most likely been made by hand, not by the autopilot. It also said that unlawful interference by a third party could not be ruled out, but it did not say who that might be.",
+   "ru": "30 июля 2018 года официальная малайзийская группа по расследованию авиационных происшествий, в которую входили эксперты из нескольких стран, опубликовала свой итоговый отчёт. Её самый важный вывод оказался на удивление честным: группа не смогла установить настоящую причину исчезновения. В отчёте говорилось, что изменения направления полёта, скорее всего, были сделаны вручную, а не автопилотом. В нём также говорилось, что нельзя исключать незаконное вмешательство третьей стороны, но не говорилось, кто бы это мог быть.",
+   "s": [
+    [
+     "On 30 July 2018, the official Malaysian safety investigation team, which included experts from several countries, published its final report.",
+     "30 июля 2018 года официальная малайзийская группа по расследованию авиационных происшествий, в которую входили эксперты из нескольких стран, опубликовала свой итоговый отчёт."
+    ],
+    [
+     "Its most important conclusion was surprisingly honest: the team could not determine the real cause of the disappearance.",
+     "Её самый важный вывод оказался на удивление честным: группа не смогла установить настоящую причину исчезновения."
+    ],
+    [
+     "It said that the changes in the plane's direction had most likely been made by hand, not by the autopilot.",
+     "В отчёте говорилось, что изменения направления полёта, скорее всего, были сделаны вручную, а не автопилотом."
+    ],
+    [
+     "It also said that unlawful interference by a third party could not be ruled out, but it did not say who that might be.",
+     "В нём также говорилось, что нельзя исключать незаконное вмешательство третьей стороны, но не говорилось, кто бы это мог быть."
+    ]
+   ]
+  },
+  {
+   "en": "The report criticised air traffic controllers in Kuala Lumpur for not following the correct procedures that night. Soon afterwards, the head of Malaysia's civil aviation authority resigned. The chief investigator told reporters that a final answer would only be possible if the wreckage was found. For many families, this was not enough, and they said that the report had brought them no comfort.",
+   "ru": "Отчёт раскритиковал авиадиспетчеров в Куала-Лумпуре за то, что той ночью они не следовали правильным процедурам. Вскоре после этого глава гражданской авиации Малайзии ушёл в отставку. Главный следователь сказал журналистам, что окончательный ответ станет возможен, только если будут найдены обломки самолёта. Для многих семей этого было недостаточно, и они говорили, что отчёт не принёс им никакого утешения.",
+   "s": [
+    [
+     "The report criticised air traffic controllers in Kuala Lumpur for not following the correct procedures that night.",
+     "Отчёт раскритиковал авиадиспетчеров в Куала-Лумпуре за то, что той ночью они не следовали правильным процедурам."
+    ],
+    [
+     "Soon afterwards, the head of Malaysia's civil aviation authority resigned.",
+     "Вскоре после этого глава гражданской авиации Малайзии ушёл в отставку."
+    ],
+    [
+     "The chief investigator told reporters that a final answer would only be possible if the wreckage was found.",
+     "Главный следователь сказал журналистам, что окончательный ответ станет возможен, только если будут найдены обломки самолёта."
+    ],
+    [
+     "For many families, this was not enough, and they said that the report had brought them no comfort.",
+     "Для многих семей этого было недостаточно, и они говорили, что отчёт не принёс им никакого утешения."
+    ]
+   ]
+  },
+  {
+   "en": "In 2025, the Malaysian government agreed a new \"no find, no fee\" deal with Ocean Infinity. The company would receive 70 million US dollars, but only if it found the main wreckage, in a new area of about 15,000 square kilometres. The search began in early 2025 but was soon stopped for a while because of bad weather.",
+   "ru": "В 2025 году правительство Малайзии заключило с Ocean Infinity новую сделку на условиях «нет находки — нет оплаты». Компания получила бы 70 миллионов долларов США, но только если бы нашла основные обломки, в новом районе площадью около 15 000 квадратных километров. Поиски начались в начале 2025 года, но вскоре были на время остановлены из-за плохой погоды.",
+   "s": [
+    [
+     "In 2025, the Malaysian government agreed a new \"no find, no fee\" deal with Ocean Infinity.",
+     "В 2025 году правительство Малайзии заключило с Ocean Infinity новую сделку на условиях «нет находки — нет оплаты»."
+    ],
+    [
+     "The company would receive 70 million US dollars, but only if it found the main wreckage, in a new area of about 15,000 square kilometres.",
+     "Компания получила бы 70 миллионов долларов США, но только если бы нашла основные обломки, в новом районе площадью около 15 000 квадратных километров."
+    ],
+    [
+     "The search began in early 2025 but was soon stopped for a while because of bad weather.",
+     "Поиски начались в начале 2025 года, но вскоре были на время остановлены из-за плохой погоды."
+    ]
+   ]
+  },
+  {
+   "en": "If the wreck is ever found, the black boxes could finally show what the plane's systems were doing. Even then, a full answer is not guaranteed. The voice recorder on a plane like this kept only the last two hours of sound, so it would probably not include the moment when the transponder went silent.",
+   "ru": "Если обломки когда-нибудь найдут, «чёрные ящики» смогут наконец показать, что делали системы самолёта. Но даже тогда полного ответа никто не гарантирует. Речевой самописец на подобном самолёте хранил только последние два часа звука, поэтому он, вероятно, не содержит того момента, когда транспондер замолчал.",
+   "s": [
+    [
+     "If the wreck is ever found, the black boxes could finally show what the plane's systems were doing.",
+     "Если обломки когда-нибудь найдут, «чёрные ящики» смогут наконец показать, что делали системы самолёта."
+    ],
+    [
+     "Even then, a full answer is not guaranteed.",
+     "Но даже тогда полного ответа никто не гарантирует."
+    ],
+    [
+     "The voice recorder on a plane like this kept only the last two hours of sound, so it would probably not include the moment when the transponder went silent.",
+     "Речевой самописец на подобном самолёте хранил только последние два часа звука, поэтому он, вероятно, не содержит того момента, когда транспондер замолчал."
+    ]
+   ]
+  },
+  {
+   "en": "The disaster has already changed aviation rules. Under new international standards, airlines must now report the position of planes over the ocean at least every 15 minutes. New large planes must also have voice recorders that keep 25 hours of sound instead of two. These changes are a direct reflection of how little the world knew about MH370 in the hours after it vanished.",
+   "ru": "Катастрофа уже изменила авиационные правила. По новым международным стандартам авиакомпании теперь должны сообщать положение самолётов над океаном не реже чем раз в 15 минут. Новые большие самолёты также должны иметь речевые самописцы, которые хранят 25 часов звука вместо двух. Эти изменения — прямое отражение того, как мало мир знал о MH370 в часы после его исчезновения.",
+   "s": [
+    [
+     "The disaster has already changed aviation rules.",
+     "Катастрофа уже изменила авиационные правила."
+    ],
+    [
+     "Under new international standards, airlines must now report the position of planes over the ocean at least every 15 minutes.",
+     "По новым международным стандартам авиакомпании теперь должны сообщать положение самолётов над океаном не реже чем раз в 15 минут."
+    ],
+    [
+     "New large planes must also have voice recorders that keep 25 hours of sound instead of two.",
+     "Новые большие самолёты также должны иметь речевые самописцы, которые хранят 25 часов звука вместо двух."
+    ],
+    [
+     "These changes are a direct reflection of how little the world knew about MH370 in the hours after it vanished.",
+     "Эти изменения — прямое отражение того, как мало мир знал о MH370 в часы после его исчезновения."
+    ]
+   ]
+  },
+  {
+   "en": "So what is really known? The plane turned back, its transponder stopped, it flew for about six more hours, and it ended its flight in the southern Indian Ocean. The debris proves that it crashed there. What nobody knows is who or what turned it around, and why.",
+   "ru": "Так что же на самом деле известно? Самолёт развернулся, его транспондер отключился, он летел ещё около шести часов и закончил полёт в южной части Индийского океана. Обломки доказывают, что он упал именно там. Никто не знает, кто или что развернуло его и почему.",
+   "s": [
+    [
+     "So what is really known?",
+     "Так что же на самом деле известно?"
+    ],
+    [
+     "The plane turned back, its transponder stopped, it flew for about six more hours, and it ended its flight in the southern Indian Ocean.",
+     "Самолёт развернулся, его транспондер отключился, он летел ещё около шести часов и закончил полёт в южной части Индийского океана."
+    ],
+    [
+     "The debris proves that it crashed there.",
+     "Обломки доказывают, что он упал именно там."
+    ],
+    [
+     "What nobody knows is who or what turned it around, and why.",
+     "Никто не знает, кто или что развернуло его и почему."
+    ]
+   ]
+  },
+  {
+   "en": "Above all, there are still 239 families who are waiting for an answer. Some of them have spent years meeting experts, collecting information and asking governments not to give up. Until the wreck is found, the story of MH370 will remain one of the greatest mysteries of modern times, and every new theory will be only that: a theory.",
+   "ru": "Прежде всего, есть 239 семей, которые до сих пор ждут ответа. Некоторые из них годами встречаются с экспертами, собирают информацию и просят правительства не сдаваться. Пока обломки не найдены, история MH370 останется одной из величайших загадок нашего времени, а каждая новая теория будет лишь тем, чем она является, — теорией.",
+   "s": [
+    [
+     "Above all, there are still 239 families who are waiting for an answer.",
+     "Прежде всего, есть 239 семей, которые до сих пор ждут ответа."
+    ],
+    [
+     "Some of them have spent years meeting experts, collecting information and asking governments not to give up.",
+     "Некоторые из них годами встречаются с экспертами, собирают информацию и просят правительства не сдаваться."
+    ],
+    [
+     "Until the wreck is found, the story of MH370 will remain one of the greatest mysteries of modern times, and every new theory will be only that: a theory.",
+     "Пока обломки не найдены, история MH370 останется одной из величайших загадок нашего времени, а каждая новая теория будет лишь тем, чем она является, — теорией."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "abdul": "Абдул (часть имени)",
+  "about": "о, около",
+  "above": "над (above all — прежде всего)",
+  "accept": "принять",
+  "accident": "(by accident) случайно",
+  "according": "согласно",
+  "action": "действие (take action — предпринять что-то)",
+  "adventurer": "искатель приключений",
+  "africa": "Африка",
+  "after": "после",
+  "afterwards": "после этого",
+  "again": "снова",
+  "agreed": "согласовывались; заключило (сделку)",
+  "ahmad": "Ахмад (часть имени)",
+  "air": "воздух",
+  "aircraft": "самолёт(ы)",
+  "airlines": "авиалинии (Malaysia Airlines — авиакомпания)",
+  "airspace": "воздушное пространство",
+  "alert": "тревога, оповещение",
+  "all": "весь, все",
+  "almost": "почти",
+  "along": "вдоль",
+  "already": "уже",
+  "also": "также",
+  "although": "хотя",
+  "american": "американский",
+  "an": "(неопр. артикль)",
+  "analysis": "анализ",
+  "and": "и",
+  "andaman": "Андаманское (море)",
+  "angry": "разгневанный",
+  "another": "другой",
+  "answer": "ответ",
+  "answered": "ответил",
+  "any": "какой-либо, любой",
+  "anyone": "кого-либо",
+  "arc": "дуга",
+  "are": "(есть) — вы/они",
+  "area": "район, площадь",
+  "around": "вокруг, по",
+  "as": "как, так как",
+  "asia": "Азия",
+  "asked": "спросил(а)",
+  "asking": "спрашивая",
+  "at": "в, у, на",
+  "australia": "Австралия",
+  "australian": "австралийский",
+  "authority": "ведомство, управление",
+  "automatic": "автоматический",
+  "autopilot": "автопилот",
+  "aviation": "авиационный, авиация",
+  "away": "(flew away) увёл; прочь",
+  "back": "назад",
+  "bad": "плохой",
+  "base": "база",
+  "basis": "основа (on a basis — на условиях)",
+  "batteries": "батареи",
+  "be": "быть",
+  "beach": "пляж",
+  "beaches": "пляжи",
+  "because": "потому что",
+  "become": "стать",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "began": "начались",
+  "beginning": "начало",
+  "beijing": "Пекин",
+  "being": "(being sent) (вспом. гл.); (being prepared) (вспом. гл.)",
+  "believable": "правдоподобный",
+  "believe": "считать, верить",
+  "between": "между",
+  "black": "чёрный",
+  "blaine": "Блейн (имя)",
+  "board": "(on board) на борту",
+  "boeing": "«Боинг» (самолёт)",
+  "both": "оба",
+  "boxes": "ящики",
+  "british": "британский",
+  "brought": "принёс",
+  "bureau": "бюро",
+  "but": "но",
+  "by": "к, от; путём; по",
+  "calculate": "вычислить",
+  "call": "звонок; (emergency call) сигнал; позвонить",
+  "called": "назвали; под названием",
+  "calm": "спокойный",
+  "came": "пришёл, пришли; был",
+  "captain": "капитан",
+  "captain's": "капитана",
+  "careful": "осторожный, тщательный",
+  "cargo": "груз",
+  "carried": "донести",
+  "cause": "причина",
+  "caused": "вызванный",
+  "central": "центральный",
+  "certain": "уверенный",
+  "change": "изменение",
+  "changed": "изменила",
+  "changes": "изменения",
+  "check": "проверить",
+  "chief": "главный",
+  "china": "Китай",
+  "civil": "гражданский",
+  "claim": "заявление",
+  "cleaning": "убиравшие",
+  "clear": "ясный",
+  "close": "близко",
+  "clues": "подсказки, улики",
+  "cockpit": "кабина пилота",
+  "collected": "собрали",
+  "collecting": "собирая",
+  "come": "прийти, вернуться",
+  "comfort": "утешение",
+  "communication": "связь",
+  "company": "компания",
+  "complete": "полный",
+  "concluded": "сделали вывод",
+  "conclusion": "вывод",
+  "confirmed": "подтверждены",
+  "connected": "подключилась",
+  "connection": "связь",
+  "consciousness": "сознание",
+  "consider": "считать",
+  "contact": "связь, контакт",
+  "contain": "содержать",
+  "continued": "продолжал(и)",
+  "control": "управление, контроль",
+  "controlled": "контролируемое",
+  "controllers": "диспетчеры",
+  "controls": "(at the controls) за штурвалом",
+  "correct": "правильный",
+  "cost": "стоить; обошлись",
+  "could": "мог(ла)",
+  "countries": "страны",
+  "covered": "обследовали",
+  "crash": "падение",
+  "crashed": "упал, разбился",
+  "create": "создавать",
+  "crew": "экипаж",
+  "criticised": "раскритиковал",
+  "critics": "критики",
+  "crossed": "пересёк",
+  "currents": "течения",
+  "curved": "изогнутый",
+  "data": "данные",
+  "days": "дни",
+  "deal": "сделка",
+  "debris": "обломки",
+  "decided": "решили",
+  "deep": "глубокий; глубиной",
+  "deleted": "удалённый",
+  "determine": "установить",
+  "device": "устройство",
+  "did": "(вспом. гл.)",
+  "diego": "Диего (Diego Garcia — остров Диего-Гарсия)",
+  "direct": "прямой",
+  "direction": "направление",
+  "disappearance": "исчезновение",
+  "disappeared": "исчез",
+  "disaster": "катастрофа",
+  "distance": "расстояние",
+  "do": "делать",
+  "does": "(вспом. гл.)",
+  "doing": "делать",
+  "dollars": "долларов",
+  "down": "вниз",
+  "dozens": "десятки",
+  "during": "во время",
+  "each": "каждый",
+  "earlier": "прежний",
+  "early": "(early in) в начале; ранний",
+  "earth": "Земля",
+  "east": "к востоку",
+  "else": "другой (someone else — кто-то другой)",
+  "emergency": "(emergency call) сигнал бедствия",
+  "ended": "закончился",
+  "engineers": "инженеры",
+  "engines": "двигатели",
+  "england": "Англия",
+  "enough": "достаточно",
+  "equipment": "оборудование",
+  "europe": "Европа",
+  "even": "даже",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "evidence": "доказательства",
+  "exact": "точный",
+  "example": "пример",
+  "exchange": "обмениваться",
+  "exercise": "учения (military exercise)",
+  "expensive": "дорогой",
+  "experience": "опыт (flying experience — налёт)",
+  "experts": "эксперты",
+  "explain": "объяснять",
+  "explained": "объясняло",
+  "explanations": "объяснения",
+  "exploration": "исследование",
+  "extended": "выпущены (о закрылках)",
+  "failure": "неисправность",
+  "families": "семьи",
+  "family": "семья",
+  "far": "далеко",
+  "fariq": "Фарик (имя)",
+  "fee": "оплата",
+  "few": "мало (few people — мало кто); несколько",
+  "final": "итоговый",
+  "finally": "наконец",
+  "find": "найти; находка",
+  "fire": "пожар",
+  "first": "первый; сначала",
+  "fit": "подходить, соответствовать",
+  "flaperon": "флаперон (часть крыла)",
+  "flew": "летел, пролетел",
+  "flight": "рейс",
+  "flown": "уведён (о самолёте)",
+  "flying": "летать; лётный",
+  "followed": "последовали",
+  "following": "следовать",
+  "for": "для, в течение",
+  "found": "нашли",
+  "four": "четыре",
+  "france": "Франция",
+  "french": "французский",
+  "frequency": "частота",
+  "friends": "друзья",
+  "from": "из, от",
+  "fuel": "топливо",
+  "full": "полный",
+  "further": "дальше",
+  "garcia": "Гарсия (Diego Garcia — остров Диего-Гарсия)",
+  "gave": "дал",
+  "ghost": "призрак",
+  "gibson": "Гибсон (фамилия)",
+  "give": "(give up) сдаваться",
+  "given": "дал",
+  "go": "заходить (go further)",
+  "good": "хороший",
+  "government": "правительство",
+  "governments": "правительства",
+  "great": "большой, отличный",
+  "greatest": "величайший",
+  "greek": "греческий",
+  "ground": "земля; наземный",
+  "group": "группа",
+  "guaranteed": "гарантирован",
+  "hackers": "хакеры",
+  "had": "(вспом. гл.); имела",
+  "hamid": "Хамид (часть имени)",
+  "hand": "(by hand) вручную",
+  "handshake": "«рукопожатие» (сигнал связи)",
+  "handshakes": "«рукопожатия» (сигналы связи)",
+  "happened": "случилось",
+  "hard": "трудный",
+  "harder": "труднее",
+  "has": "(вспом. гл.)",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "head": "глава",
+  "health": "здоровье",
+  "heard": "услышал",
+  "height": "высота",
+  "held": "хранил",
+  "helios": "Helios (авиакомпания)",
+  "helped": "помогал",
+  "helps": "помогает",
+  "high": "высокий, высоко",
+  "hijacking": "захват самолёта",
+  "himself": "сам, себе",
+  "his": "его",
+  "history": "история",
+  "hit": "ударился",
+  "home": "родной, домашний",
+  "honest": "честный",
+  "hour": "час",
+  "hours": "часы",
+  "how": "как",
+  "however": "однако",
+  "huge": "огромный",
+  "idea": "идея",
+  "ideas": "идеи",
+  "identity": "опознавательные данные",
+  "if": "если, ли",
+  "important": "важный",
+  "in": "в",
+  "include": "содержать",
+  "included": "включала",
+  "incomplete": "неполный",
+  "india": "Индия",
+  "indian": "Индийский (океан)",
+  "indonesia": "Индонезия",
+  "infinity": "Infinity (Ocean Infinity — компания)",
+  "information": "информация",
+  "inmarsat": "Inmarsat (спутниковая компания)",
+  "inside": "внутри",
+  "instead": "вместо этого",
+  "interest": "интерес",
+  "interference": "вмешательство",
+  "international": "международный",
+  "interpol": "Интерпол",
+  "into": "в",
+  "investigation": "расследование",
+  "investigator": "следователь",
+  "investigators": "следователи",
+  "ion": "-ионный (lithium-ion — литий-ионный)",
+  "iranian": "иранский",
+  "is": "есть, является",
+  "island": "остров",
+  "it": "он, оно, это",
+  "its": "его, её",
+  "january": "январь",
+  "journey": "путь",
+  "judged": "признаны",
+  "july": "июль",
+  "just": "как раз; сразу; всего",
+  "keep": "хранить",
+  "kept": "продолжал; хранил",
+  "kilometres": "километров",
+  "knew": "знал(и)",
+  "known": "известно",
+  "knows": "знает",
+  "kuala": "Куала (Kuala Lumpur — Куала-Лумпур)",
+  "landed": "приземлился",
+  "landing": "посадка",
+  "large": "большой",
+  "largest": "самый масштабный",
+  "last": "последний; работать (о батареях)",
+  "later": "позже",
+  "least": "(at least) не реже чем",
+  "led": "возглавлял",
+  "left": "оставил (left unconscious — лишил сознания)",
+  "less": "(less than) меньше чем",
+  "like": "как",
+  "likely": "вероятный (most likely — скорее всего)",
+  "line": "линия",
+  "listened": "прослушивали",
+  "lithium": "литий (lithium-ion — литий-ионный)",
+  "little": "мало",
+  "lives": "жизни",
+  "long": "долго, долгий",
+  "looked": "(looked at) изучили",
+  "lost": "потерян; потерял",
+  "lumpur": "Лумпур (Kuala Lumpur — Куала-Лумпур)",
+  "m": "(a.m. — ночи, утра)",
+  "madagascar": "Мадагаскар",
+  "made": "сделал, совершил",
+  "main": "основной",
+  "malacca": "Малаккский",
+  "malay": "Малаккский (полуостров)",
+  "malaysia": "Малайзия",
+  "malaysia's": "Малайзии",
+  "malaysian": "малайзийский",
+  "many": "много",
+  "map": "карта",
+  "march": "март",
+  "mauritius": "Маврикий",
+  "meant": "означало",
+  "measurement": "измерение",
+  "measuring": "измеряя, определяя",
+  "meeting": "встречаясь",
+  "members": "члены",
+  "men": "мужчины",
+  "message": "сообщение",
+  "messages": "сообщения",
+  "metal": "металл",
+  "metres": "метров",
+  "mh": "MH (MH370 — номер рейса)",
+  "might": "мог бы",
+  "military": "военный",
+  "million": "миллион",
+  "minister": "министр (prime minister — премьер-министр)",
+  "minutes": "минуты",
+  "modern": "современный",
+  "moment": "момент",
+  "money": "деньги, финансы",
+  "month": "месяц",
+  "months": "месяцы",
+  "more": "больше",
+  "morning": "(in the morning) ночи, утра",
+  "most": "большинство; самый (most likely — скорее всего)",
+  "move": "переехать",
+  "movement": "движение",
+  "moving": "двигаясь",
+  "mozambique": "Мозамбик",
+  "much": "гораздо",
+  "must": "должен",
+  "mysteries": "тайны",
+  "mystery": "тайна",
+  "najib": "Наджиб (имя)",
+  "near": "возле, у",
+  "need": "нужно",
+  "new": "новый",
+  "newspapers": "газеты",
+  "next": "следующий; рядом",
+  "night": "ночь",
+  "no": "нет",
+  "nobody": "никто",
+  "none": "ничто",
+  "north": "север; на север",
+  "northwest": "северо-запад",
+  "not": "не",
+  "nothing": "ничего",
+  "now": "теперь",
+  "number": "номер; (a number of) ряд",
+  "object": "предмет",
+  "objects": "объекты",
+  "ocean": "океан",
+  "of": "из, о, (род. падеж)",
+  "off": "(took off — взлетел)",
+  "offensive": "оскорбительный",
+  "offered": "предложены",
+  "officer": "(first officer) второй пилот",
+  "official": "официальный",
+  "officials": "чиновники",
+  "old": "старый",
+  "on": "на",
+  "once": "(once an hour) раз в час",
+  "one": "один, одна",
+  "only": "только",
+  "opinion": "мнение",
+  "or": "или",
+  "other": "другой",
+  "others": "другие",
+  "out": "(ran out) закончилось; (point out) указывать",
+  "over": "над; за (over the years)",
+  "owned": "принадлежащий",
+  "paid": "заплатил",
+  "part": "часть",
+  "party": "(third party) третья сторона",
+  "pass": "пройти, войти",
+  "passed": "пролетел, прошёл",
+  "passengers": "пассажиры",
+  "passports": "паспорта",
+  "penang": "Пенанг (остров)",
+  "peninsula": "полуостров",
+  "people": "люди",
+  "perhaps": "может быть",
+  "person": "человек",
+  "physical": "вещественный",
+  "pictures": "изображения",
+  "piece": "кусок, кусочек",
+  "pieces": "обломки, части",
+  "pilots": "пилоты",
+  "pings": "«пинги» (сигналы)",
+  "place": "место",
+  "plane": "самолёт",
+  "plane's": "самолёта",
+  "planes": "самолёты",
+  "point": "(point out) указывать",
+  "police": "полиция, полицейский",
+  "position": "положение",
+  "possibility": "возможность",
+  "possible": "возможный",
+  "prepared": "подготовлен",
+  "prime": "(prime minister) премьер-министр",
+  "private": "личный",
+  "probably": "вероятно",
+  "procedures": "процедуры",
+  "proof": "доказательство",
+  "protested": "протестовали",
+  "proved": "доказали",
+  "proven": "доказана",
+  "proves": "доказывает",
+  "published": "опубликовала",
+  "pulled": "тянули",
+  "purpose": "цель (on purpose — нарочно)",
+  "question": "вопрос",
+  "radar": "радар",
+  "ran": "(ran out) закончилось",
+  "razak": "Разак (фамилия)",
+  "real": "настоящий",
+  "really": "действительно",
+  "reason": "причина, повод",
+  "receive": "получить",
+  "received": "получил",
+  "recorder": "самописец",
+  "recorders": "самописцы",
+  "records": "записи",
+  "reflection": "отражение",
+  "refused": "отказался",
+  "regret": "сожаление",
+  "reject": "отвергают",
+  "relatives": "родственники",
+  "remain": "оставаться",
+  "remote": "удалённый",
+  "report": "отчёт; сообщать",
+  "reporters": "репортёры",
+  "rescue": "спасательный",
+  "resigned": "ушёл в отставку",
+  "restarted": "перезапустилась",
+  "results": "результаты",
+  "reunion": "Реюньон (остров)",
+  "revealed": "сообщили",
+  "robot": "робот",
+  "roughest": "самый бурный",
+  "roughly": "примерно",
+  "route": "маршрут",
+  "ruled": "(ruled out) исключён",
+  "rules": "правила",
+  "sadness": "печаль",
+  "safety": "безопасность",
+  "said": "сказал(а)",
+  "satellite": "спутник; спутниковый",
+  "say": "говорить",
+  "scientists": "учёные",
+  "screens": "экраны",
+  "sea": "море",
+  "seabed": "морское дно",
+  "search": "поиски",
+  "searched": "обыскивали, обследовали",
+  "seas": "моря",
+  "second": "второй",
+  "secretly": "тайно",
+  "see": "видеть",
+  "seen": "(seen as) сочтён",
+  "sends": "передаёт",
+  "sent": "отправил",
+  "september": "сентябрь",
+  "serial": "серийный",
+  "sets": "наборы, группы",
+  "seven": "семь",
+  "seventh": "седьмой",
+  "several": "несколько",
+  "shah": "Шах (часть имени)",
+  "sharp": "резкий",
+  "ships": "корабли",
+  "shipwrecks": "затонувшие корабли",
+  "shocked": "потрясло",
+  "short": "короткий",
+  "shot": "(shot down) сбит",
+  "show": "показать",
+  "showed": "показала",
+  "side": "сторона",
+  "sign": "знак",
+  "signal": "сигнал",
+  "signals": "сигналы",
+  "silent": "(went silent) замолчал",
+  "simulator": "симулятор",
+  "six": "шесть",
+  "size": "размер",
+  "small": "маленький",
+  "so": "поэтому; так",
+  "solved": "раскрыта",
+  "some": "некоторые",
+  "someone": "кто-то",
+  "something": "что-то",
+  "somewhere": "где-то",
+  "sonar": "гидролокатор, сонар",
+  "soon": "вскоре",
+  "sound": "звук",
+  "south": "юг; на юг",
+  "southern": "южный",
+  "spent": "провели",
+  "spoke": "обратился",
+  "square": "квадратный",
+  "staff": "персонал",
+  "standards": "стандарты",
+  "started": "начат, объявлена",
+  "states": "(United States) Штаты",
+  "station": "станция",
+  "still": "всё ещё",
+  "stolen": "украденный",
+  "stop": "остановить",
+  "stopped": "перестал, отключился, остановлены",
+  "story": "история",
+  "strait": "пролив",
+  "strange": "странный",
+  "strongly": "решительно",
+  "studied": "изучили",
+  "studies": "исследования",
+  "submarines": "подводные аппараты",
+  "such": "такой",
+  "suggested": "показали",
+  "supporters": "сторонники",
+  "surface": "поверхность",
+  "surprisingly": "на удивление",
+  "system": "система",
+  "systems": "системы",
+  "taken": "(taken action) предпринял; (taken off) вылетел",
+  "tanzania": "Танзания",
+  "team": "группа",
+  "technical": "технический",
+  "telephone": "телефон",
+  "ten": "десять",
+  "terrorists": "террористы",
+  "thailand": "Таиланд",
+  "than": "чем",
+  "that": "что; тот, это",
+  "the": "(опр. артикль)",
+  "their": "их, свои",
+  "them": "их",
+  "then": "потом, тогда",
+  "theories": "теории",
+  "theory": "теория",
+  "there": "там",
+  "these": "эти",
+  "they": "они",
+  "thing": "вещь",
+  "think": "думать",
+  "third": "третий",
+  "this": "этот",
+  "those": "те",
+  "though": "хотя; однако",
+  "thought": "думали",
+  "threat": "угроза",
+  "three": "три",
+  "through": "через, сквозь",
+  "times": "времена",
+  "tiny": "крошечный",
+  "to": "к, в; (частица)",
+  "told": "сказал, сообщил",
+  "took": "(took control) захватили; (took to travel) шёл; (took the plane) захватила",
+  "traffic": "(air traffic) воздушное движение",
+  "training": "подготовка",
+  "transponder": "транспондер",
+  "transport": "транспорт",
+  "travel": "идти (о сигнале)",
+  "travelling": "летевшие",
+  "tried": "пытался",
+  "trying": "пытались",
+  "turn": "разворот",
+  "turned": "повернулся",
+  "turns": "повороты",
+  "twice": "дважды",
+  "two": "два",
+  "unconscious": "без сознания",
+  "under": "по; под",
+  "underwater": "подводный",
+  "unfair": "несправедливый",
+  "unidentified": "неопознанный",
+  "united": "соединённые",
+  "unlawful": "незаконный",
+  "until": "пока не; до",
+  "up": "(washed up) на берег; (give up) сдаваться",
+  "us": "(US) США",
+  "uses": "использует",
+  "using": "используя",
+  "vanished": "исчез",
+  "vietnam": "Вьетнам",
+  "vietnamese": "вьетнамский; вьетнамцы",
+  "violence": "насилие, жестокость",
+  "visit": "посетить",
+  "voice": "голос",
+  "waiting": "ждал",
+  "was": "был(а)",
+  "washed": "(washed up) выброшены на берег",
+  "watched": "следили",
+  "water": "вода",
+  "way": "путь",
+  "weather": "погода",
+  "went": "ушёл; (went silent) замолчал",
+  "were": "были",
+  "west": "к западу",
+  "what": "что",
+  "when": "когда",
+  "where": "где",
+  "which": "который, что",
+  "while": "а; (for a while) на время",
+  "who": "кто, который",
+  "whose": "чей",
+  "why": "почему",
+  "will": "будет",
+  "wing": "крыло",
+  "with": "с",
+  "within": "(within days) уже через",
+  "without": "без",
+  "words": "слова",
+  "workers": "рабочие",
+  "working": "работать; работавший",
+  "works": "работает",
+  "world": "мир",
+  "would": "бы",
+  "wreck": "обломки (самолёта)",
+  "wreckage": "обломки",
+  "years": "годы, лет",
+  "young": "молодой",
+  "zaharie": "Захари (имя)",
+  "zero": "ноль"
+ },
+ "vocab": {
+  "think": 65,
+  "listened": 83,
+  "plane": 290,
+  "planes": 290,
+  "visit": 44,
+  "collected": 593,
+  "collecting": 593,
+  "received": 214,
+  "receive": 214,
+  "violence": 341,
+  "sets": 549,
+  "reflection": 534,
+  "heard": 68,
+  "around": 644,
+  "failure": 518,
+  "opinion": 237,
+  "mystery": 340,
+  "action": 483,
+  "place": 427,
+  "paid": 320,
+  "above": 353,
+  "thought": 65
+ }
+}

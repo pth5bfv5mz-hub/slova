@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What did Lucia realise the numbers on the spoon were?",
+  "q_ru": "Что, как поняла Лючия, означали цифры на ложке?",
+  "options": [
+   "A date from 1961",
+   "An old phone number",
+   "Coordinates of a place on the map",
+   "A bank account number"
+  ],
+  "options_ru": [
+   "Дату из 1961 года",
+   "Старый номер телефона",
+   "Координаты места на карте",
+   "Номер банковского счёта"
+  ],
+  "answer": 2,
+  "explain_ru": "Она много лет провела на лодках и поняла: «They were coordinates». Они указывали на озеро в джунглях."
+ },
+ {
+  "q": "Thorne \"never stopped bragging about his fame\". What does \"bragging\" mean?",
+  "q_ru": "Торн «never stopped bragging about his fame». Что значит «bragging»?",
+  "options": [
+   "Complaining",
+   "Telling lies",
+   "Worrying",
+   "Talking proudly about yourself"
+  ],
+  "options_ru": [
+   "Жаловаться",
+   "Врать",
+   "Беспокоиться",
+   "Хвастаться, гордо говорить о себе"
+  ],
+  "answer": 3,
+  "explain_ru": "Bragging — хвастовство. Торн — звезда телешоу, который постоянно говорит о своей славе. В конце Лючия, наоборот, «never bragged»."
+ },
+ {
+  "q": "Who sent Lucia the spoon?",
+  "q_ru": "Кто прислал Лючии ложку?",
+  "options": [
+   "Desmond Thorne, to start a new TV story",
+   "Mateo, who had met her grandfather sixty years ago",
+   "Ignacio, because he hated Thorne",
+   "The museum, to find the real mask"
+  ],
+  "options_ru": [
+   "Десмонд Торн, чтобы начать новый телесюжет",
+   "Матео, который встречал её деда шестьдесят лет назад",
+   "Игнасио, потому что ненавидел Торна",
+   "Музей, чтобы найти настоящую маску"
+  ],
+  "answer": 1,
+  "explain_ru": "Матео признаётся: «I sent you the spoon». Мальчиком он нашёл раненого Артуро у озера, и тот заставил его выучить цифры."
+ },
+ {
+  "q": "Why did Thorne really want the steel box?",
+  "q_ru": "Зачем Торну на самом деле был нужен стальной ящик?",
+  "options": [
+   "To hide the truth about his grandfather",
+   "To give it back to Lucia's family",
+   "To sell the golden mask inside it",
+   "To show the truth on television"
+  ],
+  "options_ru": [
+   "Чтобы скрыть правду о своём деде",
+   "Чтобы вернуть его семье Лючии",
+   "Чтобы продать золотую маску внутри",
+   "Чтобы показать правду по телевизору"
+  ],
+  "answer": 0,
+  "explain_ru": "Дед Торна был директором музея в 1961 году. Лючия понимает: «He doesn't want to find the truth. He wants to bury it»."
+ },
+ {
+  "q": "What did Arturo's papers show?",
+  "q_ru": "Что показывали бумаги Артуро?",
+  "options": [
+   "Arturo really had stolen the mask",
+   "Elena had sold the real mask",
+   "The museum mask was a fake; the director sold the real one",
+   "The real mask was hidden in the plane"
+  ],
+  "options_ru": [
+   "Артуро действительно украл маску",
+   "Елена продала настоящую маску",
+   "Маска в музее была подделкой; директор продал настоящую",
+   "Настоящая маска была спрятана в самолёте"
+  ],
+  "answer": 2,
+  "explain_ru": "В письме Артуро: маска в зале «was a fake», директор продал настоящую коллекционеру. Артуро вёз фотографии журналисту, когда отказал двигатель."
+ },
+ {
+  "q": "How does the story end?",
+  "q_ru": "Чем заканчивается рассказ?",
+  "options": [
+   "Thorne's show becomes more famous than ever",
+   "Arturo is declared innocent, and the real mask returns",
+   "Mateo keeps the mask in his village",
+   "Lucia sells the papers for a lot of money"
+  ],
+  "options_ru": [
+   "Шоу Торна становится знаменитее, чем раньше",
+   "Артуро признан невиновным, настоящая маска возвращается",
+   "Матео оставляет маску в своей деревне",
+   "Лючия продаёт бумаги за большие деньги"
+  ],
+  "answer": 1,
+  "explain_ru": "Полиция нашла маску в доме семьи Торн, музей решил, что «Arturo Quintero had been innocent», а шоу Торна закрыли."
+ }
+]

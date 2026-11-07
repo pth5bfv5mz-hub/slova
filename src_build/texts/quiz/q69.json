@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What does the switch theory claim?",
+  "q_ru": "Что утверждает теория подмены?",
+  "options": [
+   "The Titanic never left Southampton",
+   "The Olympic was sunk instead of the Titanic for insurance money",
+   "The Titanic was sunk by a German submarine",
+   "The iceberg story was invented by newspapers"
+  ],
+  "options_ru": [
+   "«Титаник» так и не вышел из Саутгемптона",
+   "Вместо «Титаника» ради страховки потопили «Олимпик»",
+   "«Титаник» потопила немецкая подводная лодка",
+   "Историю про айсберг выдумали газеты"
+  ],
+  "answer": 1,
+  "explain_ru": "По теории, корабли тайно поменяли, и затонул повреждённый «Олимпик», чтобы получить страховку."
+ },
+ {
+  "q": "Which real event is the starting point of the theory?",
+  "q_ru": "Какое реальное событие лежит в основе теории?",
+  "options": [
+   "A fire on the Titanic in Belfast",
+   "A strike at the shipyard",
+   "The Olympic's collision with HMS Hawke",
+   "Morgan's sale of White Star"
+  ],
+  "options_ru": [
+   "Пожар на «Титанике» в Белфасте",
+   "Забастовка на верфи",
+   "Столкновение «Олимпика» с кораблём «Хок»",
+   "Продажа «Уайт Стар» Морганом"
+  ],
+  "answer": 2,
+  "explain_ru": "В сентябре 1911 года «Олимпик» столкнулся с военным кораблём «Хок» — с этого и начинается теория."
+ },
+ {
+  "q": "Why does the insurance argument not make sense?",
+  "q_ru": "Почему довод про страховку не имеет смысла?",
+  "options": [
+   "The ship was not insured at all",
+   "The insurance company refused to pay",
+   "Insurance money went to the passengers",
+   "The ship was insured for less than it cost"
+  ],
+  "options_ru": [
+   "Корабль вообще не был застрахован",
+   "Страховая компания отказалась платить",
+   "Страховые деньги получили пассажиры",
+   "Корабль был застрахован на меньшую сумму, чем стоил"
+  ],
+  "answer": 3,
+  "explain_ru": "Страховка — около 1 млн фунтов, а строительство стоило около 1,5 млн, так что компания потеряла бы деньги."
+ },
+ {
+  "q": "What number can be seen on a propeller blade of the wreck?",
+  "q_ru": "Какой номер виден на лопасти винта затонувшего корабля?",
+  "options": [
+   "401, the Titanic's yard number",
+   "400, the Olympic's yard number",
+   "1912, the year of the disaster",
+   "1985, the year of discovery"
+  ],
+  "options_ru": [
+   "401 — заводской номер «Титаника»",
+   "400 — заводской номер «Олимпика»",
+   "1912 — год катастрофы",
+   "1985 — год обнаружения"
+  ],
+  "answer": 0,
+  "explain_ru": "На лопасти винта выбито число 401, а это заводской номер «Титаника»; у «Олимпика» был номер 400."
+ },
+ {
+  "q": "What happened to the Olympic after 1912?",
+  "q_ru": "Что стало с «Олимпиком» после 1912 года?",
+  "options": [
+   "She sank in the First World War",
+   "She was hidden in Belfast",
+   "She sailed until 1935 and was called \"Old Reliable\"",
+   "She was renamed Britannic"
+  ],
+  "options_ru": [
+   "Он затонул в Первую мировую войну",
+   "Его спрятали в Белфасте",
+   "Он ходил до 1935 года, и его прозвали «Старый надёжный»",
+   "Его переименовали в «Британник»"
+  ],
+  "answer": 2,
+  "explain_ru": "«Олимпик» служил до 1935 года, перевозил солдат и даже потопил подводную лодку — для корабля с погнутым килем это невозможно."
+ },
+ {
+  "q": "What is the article's conclusion?",
+  "q_ru": "Каков вывод статьи?",
+  "options": [
+   "The theory is probably true",
+   "Nobody can know which ship sank",
+   "The 2023 scan proved the switch",
+   "The wreck is the Titanic; the evidence does not support the switch"
+  ],
+  "options_ru": [
+   "Теория, вероятно, верна",
+   "Никто не может знать, какой корабль затонул",
+   "Сканирование 2023 года доказало подмену",
+   "На дне лежит «Титаник»; факты не подтверждают подмену"
+  ],
+  "answer": 3,
+  "explain_ru": "Номер на винте, страховые суммы, служба «Олимпика» и молчание рабочих — всё говорит против теории."
+ }
+]

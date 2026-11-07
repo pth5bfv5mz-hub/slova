@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did the U-2 often look like a burning object in the evening sky?",
+  "q_ru": "Почему U-2 вечером часто выглядел как горящий объект в небе?",
+  "options": [
+   "It was painted with special bright paint",
+   "Its engine produced a long line of fire",
+   "The sun still lit its silver wings high above the dark ground",
+   "It carried lights to warn other planes"
+  ],
+  "options_ru": [
+   "Он был покрашен особой яркой краской",
+   "Его двигатель оставлял длинный огненный след",
+   "Солнце всё ещё освещало его серебристые крылья высоко над тёмной землёй",
+   "Он нёс огни, чтобы предупреждать другие самолёты"
+  ],
+  "answer": 2,
+  "explain_ru": "В тексте: «when the ground was already dark, the sun still lit up the silver wings of the U-2 high above»."
+ },
+ {
+  "q": "What did Project Blue Book investigators do with many UFO reports?",
+  "q_ru": "Что следователи «Голубой книги» делали со многими сообщениями об НЛО?",
+  "options": [
+   "They compared them with U-2 flight records",
+   "They sent them to Soviet scientists",
+   "They published them in newspapers",
+   "They ignored them completely"
+  ],
+  "options_ru": [
+   "Сравнивали их с журналами полётов U-2",
+   "Отправляли их советским учёным",
+   "Публиковали их в газетах",
+   "Полностью их игнорировали"
+  ],
+  "answer": 0,
+  "explain_ru": "Сотрудники «Голубой книги» связывались с группой ЦРУ, «to compare the sightings with the U-2 flight records»."
+ },
+ {
+  "q": "Why did the Air Force explain the lights with ice crystals or unusual temperatures?",
+  "q_ru": "Почему ВВС объясняли огни ледяными кристаллами или необычной температурой?",
+  "options": [
+   "Because scientists had proved it",
+   "Because the pilots asked them to",
+   "Because aliens were involved",
+   "Because the U-2 was secret and could not be mentioned"
+  ],
+  "options_ru": [
+   "Потому что учёные это доказали",
+   "Потому что об этом попросили пилоты",
+   "Потому что были замешаны инопланетяне",
+   "Потому что U-2 был секретным и о нём нельзя было говорить"
+  ],
+  "answer": 3,
+  "explain_ru": "«Blue Book could not tell the public the truth, because the U-2 was secret» — поэтому давались вводящие в заблуждение объяснения."
+ },
+ {
+  "q": "What happened after Francis Gary Powers was shot down in 1960?",
+  "q_ru": "Что произошло после того, как в 1960 году сбили Фрэнсиса Гэри Пауэрса?",
+  "options": [
+   "He escaped and returned home the same year",
+   "The US claimed it was a weather plane, but Khrushchev revealed the pilot was alive",
+   "The Soviet Union kept the story secret for decades",
+   "The CIA immediately admitted that Area 51 existed"
+  ],
+  "options_ru": [
+   "Он сбежал и в том же году вернулся домой",
+   "США заявили, что это был метеорологический самолёт, но Хрущёв сообщил, что пилот жив",
+   "Советский Союз десятилетиями держал эту историю в секрете",
+   "ЦРУ сразу признало существование Зоны 51"
+  ],
+  "answer": 1,
+  "explain_ru": "Правительство США объявило о пропаже самолёта для исследования погоды, но Хрущёв сообщил, что Пауэрс жив и находится в советских руках."
+ },
+ {
+  "q": "Why can the Roswell crash of 1947 not be connected with Area 51 in the way some people believe?",
+  "q_ru": "Почему крушение в Розуэлле в 1947 году нельзя связать с Зоной 51 так, как думают некоторые?",
+  "options": [
+   "Because Roswell is in another country",
+   "Because nothing crashed at Roswell",
+   "Because Area 51 did not exist until 1955",
+   "Because the wreckage was sent to Washington"
+  ],
+  "options_ru": [
+   "Потому что Розуэлл находится в другой стране",
+   "Потому что в Розуэлле ничего не разбивалось",
+   "Потому что Зоны 51 не существовало до 1955 года",
+   "Потому что обломки отправили в Вашингтон"
+  ],
+  "answer": 2,
+  "explain_ru": "«In 1947, Area 51 did not exist yet. The site was chosen only in 1955.»"
+ },
+ {
+  "q": "What did the CIA history released in 2013 show?",
+  "q_ru": "Что показала история ЦРУ, опубликованная в 2013 году?",
+  "options": [
+   "That the base was used to test spy planes such as the U-2 and A-12",
+   "That aliens had visited Nevada",
+   "That Bob Lazar's story was true",
+   "That the base had been closed in 1968"
+  ],
+  "options_ru": [
+   "Что база использовалась для испытаний самолётов-шпионов, таких как U-2 и A-12",
+   "Что инопланетяне посещали Неваду",
+   "Что история Боба Лазара была правдой",
+   "Что базу закрыли в 1968 году"
+  ],
+  "answer": 0,
+  "explain_ru": "Документ открыто назвал Зону 51 и описал программы U-2 и OXCART, но ни слова не сказал об инопланетянах."
+ }
+]

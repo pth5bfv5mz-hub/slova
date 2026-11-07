@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why is shortwave radio useful for sending messages to spies?",
+  "q_ru": "Почему коротковолновое радио удобно для передачи сообщений шпионам?",
+  "options": [
+   "Only spies have the special receivers",
+   "A receiver sends nothing back, so nobody knows who is listening",
+   "The signals cannot travel far",
+   "Governments cannot record radio broadcasts"
+  ],
+  "options_ru": [
+   "Специальные приёмники есть только у шпионов",
+   "Приёмник ничего не передаёт обратно, поэтому никто не знает, кто слушает",
+   "Сигналы не распространяются далеко",
+   "Правительства не могут записывать радиопередачи"
+  ],
+  "answer": 1,
+  "explain_ru": "В тексте: приёмник только принимает, «it sends nothing back, so there is no record of who is listening»."
+ },
+ {
+  "q": "When is a one-time pad impossible to break?",
+  "q_ru": "Когда одноразовый блокнот невозможно взломать?",
+  "options": [
+   "When the message is read by a woman's voice",
+   "When the numbers are sent in Morse code",
+   "When the key is truly random, long enough, secret and used only once",
+   "When the broadcast is repeated twice"
+  ],
+  "options_ru": [
+   "Когда сообщение читает женский голос",
+   "Когда цифры передают азбукой Морзе",
+   "Когда ключ действительно случайный, достаточно длинный, секретный и используется один раз",
+   "Когда передачу повторяют дважды"
+  ],
+  "answer": 2,
+  "explain_ru": "Клод Шеннон доказал, что система не взламывается, если ключ случайный, не короче сообщения, хранится в тайне и не используется повторно."
+ },
+ {
+  "q": "How were American code-breakers able to read some Soviet messages in the Venona project?",
+  "q_ru": "Как американские дешифровщики в проекте «Венона» смогли прочитать часть советских сообщений?",
+  "options": [
+   "Some pages of the pads had been printed more than once",
+   "A Soviet spy gave them the keys",
+   "They used powerful computers in the 1940s",
+   "The messages were not coded at all"
+  ],
+  "options_ru": [
+   "Некоторые страницы блокнотов были напечатаны более одного раза",
+   "Советский шпион передал им ключи",
+   "Они использовали мощные компьютеры в 1940-х",
+   "Сообщения вообще не были зашифрованы"
+  ],
+  "answer": 0,
+  "explain_ru": "Под давлением советская разведка напечатала некоторые страницы повторно, и американцы заметили эту ошибку."
+ },
+ {
+  "q": "What is known for certain about the Lincolnshire Poacher?",
+  "q_ru": "Что точно известно о «Линкольнширском браконьере»?",
+  "options": [
+   "MI6 officially admitted running it",
+   "It is still on the air today",
+   "It read numbers in Russian",
+   "It played a folk tune and read groups of five numbers in English"
+  ],
+  "options_ru": [
+   "МИ-6 официально признала, что управляла ею",
+   "Она до сих пор в эфире",
+   "Она читала цифры по-русски",
+   "Она играла народную мелодию и читала группы по пять цифр на английском"
+  ],
+  "answer": 3,
+  "explain_ru": "Связь с МИ-6 и Кипром — лишь предположения радиолюбителей; британское правительство это не подтверждало. Станция замолчала в 2008 году."
+ },
+ {
+  "q": "What do most researchers think the Buzzer (UVB-76) is?",
+  "q_ru": "Чем, по мнению большинства исследователей, является «Жужжалка» (UVB-76)?",
+  "options": [
+   "A system that will launch missiles if it stops",
+   "Probably a military channel that keeps the frequency in use",
+   "A station for talking to aliens",
+   "A recording left on by mistake"
+  ],
+  "options_ru": [
+   "Система, которая запустит ракеты, если замолчит",
+   "Вероятно, военный канал, который держит частоту занятой",
+   "Станция для общения с инопланетянами",
+   "Запись, которую забыли выключить"
+  ],
+  "answer": 1,
+  "explain_ru": "Для теорий о «мёртвой руке» и инопланетянах доказательств нет; жужжание, вероятно, показывает, что канал занят и готов к работе."
+ },
+ {
+  "q": "How did the FBI decode the numbers broadcasts in the Cuban Five case?",
+  "q_ru": "Как ФБР расшифровало передачи с цифрами в деле «Кубинской пятёрки»?",
+  "options": [
+   "Cuba sent the keys to the US government",
+   "Radio fans broke the code",
+   "They used keys found on disks copied secretly from the spies' apartments",
+   "One of the five explained the code at the trial"
+  ],
+  "options_ru": [
+   "Куба передала ключи правительству США",
+   "Радиолюбители взломали код",
+   "С помощью ключей с дисков, тайно скопированных в квартирах шпионов",
+   "Один из пятерых объяснил код на суде"
+  ],
+  "answer": 2,
+  "explain_ru": "Агенты ФБР тайно копировали компьютерные диски шпионов и с помощью найденных ключей превращали цифры станции «Атенсьон» в текст."
+ }
+]

@@ -1,0 +1,1305 @@
+{
+ "id": 45,
+ "level": "B1",
+ "title_en": "Five Fares Before Morning",
+ "title_ru": "Пять пассажиров до утра",
+ "genre": "Драма",
+ "summary_ru": "Пожилой таксист за одну дождливую ночь везёт пятерых незнакомцев — и постепенно понимает, что все их истории сходятся на нём самом.",
+ "paragraphs": [
+  {
+   "en": "It was a wet Sunday night in Harwick, and Wendell Ash had been driving his taxi for three hours without a single conversation worth remembering. He was sixty-one, with a grey beard and an old cap that he never took off, even in summer. In twelve years of night work he had learned one important skill: to listen without asking questions. People told taxi drivers things that they never told their friends.",
+   "ru": "Был дождливый воскресный вечер в Харвике, и Уэнделл Эш уже три часа водил своё такси, не услышав ни одного разговора, который стоило бы запомнить. Ему был шестьдесят один год, у него была седая борода и старая кепка, которую он никогда не снимал, даже летом. За двенадцать лет ночной работы он освоил одно важное умение: слушать, не задавая вопросов. Люди рассказывали таксистам то, чего никогда не рассказывали друзьям.",
+   "s": [
+    [
+     "It was a wet Sunday night in Harwick, and Wendell Ash had been driving his taxi for three hours without a single conversation worth remembering.",
+     "Был дождливый воскресный вечер в Харвике, и Уэнделл Эш уже три часа водил своё такси, не услышав ни одного разговора, который стоило бы запомнить."
+    ],
+    [
+     "He was sixty-one, with a grey beard and an old cap that he never took off, even in summer.",
+     "Ему был шестьдесят один год, у него была седая борода и старая кепка, которую он никогда не снимал, даже летом."
+    ],
+    [
+     "In twelve years of night work he had learned one important skill: to listen without asking questions.",
+     "За двенадцать лет ночной работы он освоил одно важное умение: слушать, не задавая вопросов."
+    ],
+    [
+     "People told taxi drivers things that they never told their friends.",
+     "Люди рассказывали таксистам то, чего никогда не рассказывали друзьям."
+    ]
+   ]
+  },
+  {
+   "en": "His first real passenger got in at twenty to ten, outside a restaurant called the Copper Gate. She was a young woman with a white cook's jacket under her coat, a red umbrella and a heavy cardboard box. She gave him an address on the other side of the river, and then she started to cry very quietly, as if she was trying not to make a sound.",
+   "ru": "Его первая настоящая пассажирка села в машину без двадцати десять у ресторана под названием «Медные ворота». Это была молодая женщина в белой поварской куртке под пальто, с красным зонтом и тяжёлой картонной коробкой. Она назвала адрес на другом берегу реки, а потом начала очень тихо плакать, словно старалась не издать ни звука.",
+   "s": [
+    [
+     "His first real passenger got in at twenty to ten, outside a restaurant called the Copper Gate.",
+     "Его первая настоящая пассажирка села в машину без двадцати десять у ресторана под названием «Медные ворота»."
+    ],
+    [
+     "She was a young woman with a white cook's jacket under her coat, a red umbrella and a heavy cardboard box.",
+     "Это была молодая женщина в белой поварской куртке под пальто, с красным зонтом и тяжёлой картонной коробкой."
+    ],
+    [
+     "She gave him an address on the other side of the river, and then she started to cry very quietly, as if she was trying not to make a sound.",
+     "Она назвала адрес на другом берегу реки, а потом начала очень тихо плакать, словно старалась не издать ни звука."
+    ]
+   ]
+  },
+  {
+   "en": "\"Bad night?\" Wendell asked, which was more than he usually said. \"I was fired,\" she said. \"I'm Priya, by the way. Did you read the review in the Sunday paper? Ambrose Kell wrote that our fish had no taste at all.\" \"Mr Brascu needed someone to blame, so he blamed me. Five years I worked there. I cooked that fish perfectly. I know I did.\"",
+   "ru": "«Тяжёлый вечер?» — спросил Уэнделл, и это было больше, чем он обычно говорил. «Меня уволили», — ответила она. «Я Прия, кстати. Вы читали рецензию в воскресной газете? Амброуз Келл написал, что у нашей рыбы вообще нет вкуса». «Мистеру Браску нужно было кого-то обвинить, и он обвинил меня. Пять лет я там проработала. Я приготовила эту рыбу идеально. Я точно знаю».",
+   "s": [
+    [
+     "\"Bad night?\" Wendell asked, which was more than he usually said.",
+     "«Тяжёлый вечер?» — спросил Уэнделл, и это было больше, чем он обычно говорил."
+    ],
+    [
+     "\"I was fired,\" she said.",
+     "«Меня уволили», — ответила она."
+    ],
+    [
+     "\"I'm Priya, by the way. Did you read the review in the Sunday paper? Ambrose Kell wrote that our fish had no taste at all.\"",
+     "«Я Прия, кстати. Вы читали рецензию в воскресной газете? Амброуз Келл написал, что у нашей рыбы вообще нет вкуса»."
+    ],
+    [
+     "\"Mr Brascu needed someone to blame, so he blamed me. Five years I worked there. I cooked that fish perfectly. I know I did.\"",
+     "«Мистеру Браску нужно было кого-то обвинить, и он обвинил меня. Пять лет я там проработала. Я приготовила эту рыбу идеально. Я точно знаю»."
+    ]
+   ]
+  },
+  {
+   "en": "Wendell knew the name Ambrose Kell. He had known it for fourteen years. He said nothing and kept his eyes on the wet road. \"My boyfriend says I should open my own place one day,\" Priya went on, wiping her face. \"He's a cook too, a baker now. He works nights. He doesn't talk to his father, some old family story. He never explains it.\" \"Families are difficult,\" Wendell said.",
+   "ru": "Уэнделл знал имя Амброуза Келла. Он знал его уже четырнадцать лет. Он ничего не сказал и не отрывал глаз от мокрой дороги. «Мой парень говорит, что когда-нибудь мне стоит открыть своё заведение», — продолжала Прия, вытирая лицо. «Он тоже повар, сейчас пекарь. Работает по ночам. Он не общается со своим отцом — какая-то старая семейная история. Он никогда её не объясняет». «С семьёй бывает трудно», — сказал Уэнделл.",
+   "s": [
+    [
+     "Wendell knew the name Ambrose Kell.",
+     "Уэнделл знал имя Амброуза Келла."
+    ],
+    [
+     "He had known it for fourteen years.",
+     "Он знал его уже четырнадцать лет."
+    ],
+    [
+     "He said nothing and kept his eyes on the wet road.",
+     "Он ничего не сказал и не отрывал глаз от мокрой дороги."
+    ],
+    [
+     "\"My boyfriend says I should open my own place one day,\" Priya went on, wiping her face.",
+     "«Мой парень говорит, что когда-нибудь мне стоит открыть своё заведение», — продолжала Прия, вытирая лицо."
+    ],
+    [
+     "\"He's a cook too, a baker now. He works nights. He doesn't talk to his father, some old family story. He never explains it.\"",
+     "«Он тоже повар, сейчас пекарь. Работает по ночам. Он не общается со своим отцом — какая-то старая семейная история. Он никогда её не объясняет»."
+    ],
+    [
+     "\"Families are difficult,\" Wendell said.",
+     "«С семьёй бывает трудно», — сказал Уэнделл."
+    ]
+   ]
+  },
+  {
+   "en": "When they arrived, she paid, thanked him and hurried toward a small house with a yellow light in the window. She took the box, but she left the red umbrella on the back seat. Wendell only noticed it ten minutes later, and he decided to return it at the end of the night.",
+   "ru": "Когда они приехали, она заплатила, поблагодарила его и поспешила к маленькому дому с жёлтым светом в окне. Коробку она забрала, но красный зонт оставила на заднем сиденье. Уэнделл заметил его только через десять минут и решил вернуть его в конце ночи.",
+   "s": [
+    [
+     "When they arrived, she paid, thanked him and hurried toward a small house with a yellow light in the window.",
+     "Когда они приехали, она заплатила, поблагодарила его и поспешила к маленькому дому с жёлтым светом в окне."
+    ],
+    [
+     "She took the box, but she left the red umbrella on the back seat.",
+     "Коробку она забрала, но красный зонт оставила на заднем сиденье."
+    ],
+    [
+     "Wendell only noticed it ten minutes later, and he decided to return it at the end of the night.",
+     "Уэнделл заметил его только через десять минут и решил вернуть его в конце ночи."
+    ]
+   ]
+  },
+  {
+   "en": "At eleven he was sent to the Grand Hotel. A tall man came out, coughing, with a leather bag and an expensive coat. \"Airport,\" he said. His face was older and his beard was white now, but Wendell recognised him instantly. Fourteen years ago that face had sat at a table in Wendell's own small restaurant, Ash and Salt, near the river. A week later the review had appeared: \"Food without taste, cooked without skill.\" Within three months the restaurant was gone.",
+   "ru": "В одиннадцать его отправили к отелю «Гранд». Оттуда вышел высокий мужчина в дорогом пальто, с кожаной сумкой; он кашлял. «В аэропорт», — сказал он. Его лицо постарело, а борода теперь была белой, но Уэнделл мгновенно его узнал. Четырнадцать лет назад это лицо сидело за столиком в собственном маленьком ресторане Уэнделла, «Пепел и соль», у реки. Через неделю появилась рецензия: «Еда без вкуса, приготовленная без умения». Не прошло и трёх месяцев, как ресторана не стало.",
+   "s": [
+    [
+     "At eleven he was sent to the Grand Hotel.",
+     "В одиннадцать его отправили к отелю «Гранд»."
+    ],
+    [
+     "A tall man came out, coughing, with a leather bag and an expensive coat.",
+     "Оттуда вышел высокий мужчина в дорогом пальто, с кожаной сумкой; он кашлял."
+    ],
+    [
+     "\"Airport,\" he said.",
+     "«В аэропорт», — сказал он."
+    ],
+    [
+     "His face was older and his beard was white now, but Wendell recognised him instantly.",
+     "Его лицо постарело, а борода теперь была белой, но Уэнделл мгновенно его узнал."
+    ],
+    [
+     "Fourteen years ago that face had sat at a table in Wendell's own small restaurant, Ash and Salt, near the river.",
+     "Четырнадцать лет назад это лицо сидело за столиком в собственном маленьком ресторане Уэнделла, «Пепел и соль», у реки."
+    ],
+    [
+     "A week later the review had appeared: \"Food without taste, cooked without skill.\"",
+     "Через неделю появилась рецензия: «Еда без вкуса, приготовленная без умения»."
+    ],
+    [
+     "Within three months the restaurant was gone.",
+     "Не прошло и трёх месяцев, как ресторана не стало."
+    ]
+   ]
+  },
+  {
+   "en": "Wendell had never forgiven Kell. But he had never forgiven his son either. On the night of Kell's visit, Owen, nineteen and full of confidence, had been alone in the kitchen, because Wendell was ill in bed. After the review, Wendell had said terrible things to him, and a month later Owen had left home. Wendell still kept the review in his wallet. His wife, before she died, had called it his obsession.",
+   "ru": "Уэнделл так и не простил Келла. Но он так и не простил и своего сына. В тот вечер, когда приходил Келл, Оуэн, девятнадцатилетний и полный уверенности, был на кухне один, потому что Уэнделл лежал больной. После рецензии Уэнделл наговорил ему ужасных вещей, и через месяц Оуэн ушёл из дома. Уэнделл до сих пор хранил ту рецензию в бумажнике. Его жена, пока была жива, называла это его одержимостью.",
+   "s": [
+    [
+     "Wendell had never forgiven Kell.",
+     "Уэнделл так и не простил Келла."
+    ],
+    [
+     "But he had never forgiven his son either.",
+     "Но он так и не простил и своего сына."
+    ],
+    [
+     "On the night of Kell's visit, Owen, nineteen and full of confidence, had been alone in the kitchen, because Wendell was ill in bed.",
+     "В тот вечер, когда приходил Келл, Оуэн, девятнадцатилетний и полный уверенности, был на кухне один, потому что Уэнделл лежал больной."
+    ],
+    [
+     "After the review, Wendell had said terrible things to him, and a month later Owen had left home.",
+     "После рецензии Уэнделл наговорил ему ужасных вещей, и через месяц Оуэн ушёл из дома."
+    ],
+    [
+     "Wendell still kept the review in his wallet.",
+     "Уэнделл до сих пор хранил ту рецензию в бумажнике."
+    ],
+    [
+     "His wife, before she died, had called it his obsession.",
+     "Его жена, пока была жива, называла это его одержимостью."
+    ]
+   ]
+  },
+  {
+   "en": "Halfway to the airport, the critic's phone rang. He answered with annoyance in his voice, and Wendell, as always, listened. \"No, Moira, I can't write another one this week,\" Kell said. \"I told you on Thursday, I have a terrible cold. I can't taste anything.\" \"Yes, I know you wanted something strong for Sunday. That's why I wrote it.\" \"I couldn't taste their fish, and I said it had no taste. What does that make me?\" He listened, then said quietly, \"I promised myself I would never do this again.\"",
+   "ru": "На полпути к аэропорту у критика зазвонил телефон. Он ответил с раздражением в голосе, а Уэнделл, как всегда, слушал. «Нет, Мойра, я не могу написать ещё одну на этой неделе», — сказал Келл. «Я говорил тебе ещё в четверг: у меня жуткая простуда. Я не чувствую никакого вкуса». «Да, я знаю, что тебе нужно было что-то резкое к воскресенью. Поэтому я это и написал». «Я не почувствовал вкуса их рыбы — и написал, что у неё нет вкуса. Кем это меня делает?» Он послушал, а потом тихо сказал: «Я обещал себе, что больше никогда так не сделаю».",
+   "s": [
+    [
+     "Halfway to the airport, the critic's phone rang.",
+     "На полпути к аэропорту у критика зазвонил телефон."
+    ],
+    [
+     "He answered with annoyance in his voice, and Wendell, as always, listened.",
+     "Он ответил с раздражением в голосе, а Уэнделл, как всегда, слушал."
+    ],
+    [
+     "\"No, Moira, I can't write another one this week,\" Kell said.",
+     "«Нет, Мойра, я не могу написать ещё одну на этой неделе», — сказал Келл."
+    ],
+    [
+     "\"I told you on Thursday, I have a terrible cold. I can't taste anything.\"",
+     "«Я говорил тебе ещё в четверг: у меня жуткая простуда. Я не чувствую никакого вкуса»."
+    ],
+    [
+     "\"Yes, I know you wanted something strong for Sunday. That's why I wrote it.\"",
+     "«Да, я знаю, что тебе нужно было что-то резкое к воскресенью. Поэтому я это и написал»."
+    ],
+    [
+     "\"I couldn't taste their fish, and I said it had no taste. What does that make me?\"",
+     "«Я не почувствовал вкуса их рыбы — и написал, что у неё нет вкуса. Кем это меня делает?»"
+    ],
+    [
+     "He listened, then said quietly, \"I promised myself I would never do this again.\"",
+     "Он послушал, а потом тихо сказал: «Я обещал себе, что больше никогда так не сделаю»."
+    ]
+   ]
+  },
+  {
+   "en": "He ended the call and looked out at the rain. Wendell's heart was so loud that he could hear it. Again. The word went round and round in his head. At the airport Kell gave him a large tip without looking at him and walked into the bright building. Only later, when Wendell was cleaning the back seat, did he find a small black notebook on the floor.",
+   "ru": "Он закончил разговор и стал смотреть на дождь. Сердце Уэнделла стучало так громко, что он его слышал. «Снова». Это слово крутилось у него в голове снова и снова. В аэропорту Келл дал ему большие чаевые, даже не взглянув на него, и вошёл в ярко освещённое здание. Лишь позже, убирая заднее сиденье, Уэнделл нашёл на полу маленький чёрный блокнот.",
+   "s": [
+    [
+     "He ended the call and looked out at the rain.",
+     "Он закончил разговор и стал смотреть на дождь."
+    ],
+    [
+     "Wendell's heart was so loud that he could hear it.",
+     "Сердце Уэнделла стучало так громко, что он его слышал."
+    ],
+    [
+     "Again.",
+     "«Снова»."
+    ],
+    [
+     "The word went round and round in his head.",
+     "Это слово крутилось у него в голове снова и снова."
+    ],
+    [
+     "At the airport Kell gave him a large tip without looking at him and walked into the bright building.",
+     "В аэропорту Келл дал ему большие чаевые, даже не взглянув на него, и вошёл в ярко освещённое здание."
+    ],
+    [
+     "Only later, when Wendell was cleaning the back seat, did he find a small black notebook on the floor.",
+     "Лишь позже, убирая заднее сиденье, Уэнделл нашёл на полу маленький чёрный блокнот."
+    ]
+   ]
+  },
+  {
+   "en": "He knew that he should not read it. He read it anyway, under the lights of a petrol station. On the last page were the words \"Thursday, Copper Gate\" and, below them, in shaky handwriting: \"Cold worse. Can't taste or smell. Fish — ? Moira needs 600 words by Saturday. Write something.\" Wendell sat for a long time with the notebook in his hands. It was evidence that the review was a lie.",
+   "ru": "Он знал, что читать его не следует. Но всё равно прочитал — под фонарями заправки. На последней странице было написано «Четверг, \"Медные ворота\"», а ниже — дрожащим почерком: «Простуда хуже. Не чувствую ни вкуса, ни запаха. Рыба — ? Мойре нужно 600 слов к субботе. Написать что-нибудь». Уэнделл долго сидел с блокнотом в руках. Это было доказательство того, что рецензия была ложью.",
+   "s": [
+    [
+     "He knew that he should not read it.",
+     "Он знал, что читать его не следует."
+    ],
+    [
+     "He read it anyway, under the lights of a petrol station.",
+     "Но всё равно прочитал — под фонарями заправки."
+    ],
+    [
+     "On the last page were the words \"Thursday, Copper Gate\" and, below them, in shaky handwriting: \"Cold worse. Can't taste or smell. Fish — ? Moira needs 600 words by Saturday. Write something.\"",
+     "На последней странице было написано «Четверг, \"Медные ворота\"», а ниже — дрожащим почерком: «Простуда хуже. Не чувствую ни вкуса, ни запаха. Рыба — ? Мойре нужно 600 слов к субботе. Написать что-нибудь»."
+    ],
+    [
+     "Wendell sat for a long time with the notebook in his hands.",
+     "Уэнделл долго сидел с блокнотом в руках."
+    ],
+    [
+     "It was evidence that the review was a lie.",
+     "Это было доказательство того, что рецензия была ложью."
+    ]
+   ]
+  },
+  {
+   "en": "His third passenger got in at half past twelve outside a bar near the Copper Gate. He was a heavy old man with a tired face, and he smelled of wine. \"Home,\" he said, then laughed sadly. \"If it is still my home next month. The bank will decide.\" Wendell had no doubt who he was. Priya had mentioned the gold ring and the voice that was too loud for a small car.",
+   "ru": "Его третий пассажир сел в половине первого у бара рядом с «Медными воротами». Это был грузный старик с усталым лицом, и от него пахло вином. «Домой», — сказал он и грустно рассмеялся. — «Если это ещё будет мой дом в следующем месяце. Решит банк». Уэнделл не сомневался, кто он такой. Прия упоминала золотое кольцо и голос, слишком громкий для маленькой машины.",
+   "s": [
+    [
+     "His third passenger got in at half past twelve outside a bar near the Copper Gate.",
+     "Его третий пассажир сел в половине первого у бара рядом с «Медными воротами»."
+    ],
+    [
+     "He was a heavy old man with a tired face, and he smelled of wine.",
+     "Это был грузный старик с усталым лицом, и от него пахло вином."
+    ],
+    [
+     "\"Home,\" he said, then laughed sadly. \"If it is still my home next month. The bank will decide.\"",
+     "«Домой», — сказал он и грустно рассмеялся. — «Если это ещё будет мой дом в следующем месяце. Решит банк»."
+    ],
+    [
+     "Wendell had no doubt who he was.",
+     "Уэнделл не сомневался, кто он такой."
+    ],
+    [
+     "Priya had mentioned the gold ring and the voice that was too loud for a small car.",
+     "Прия упоминала золотое кольцо и голос, слишком громкий для маленькой машины."
+    ]
+   ]
+  },
+  {
+   "en": "\"I did a stupid thing today,\" said Mr Brascu, mostly to the window. \"I fired my best cook. That girl has more skill than anyone I have ever employed.\" \"The review came out, the phone stopped ringing, and I needed to shout at someone. She was there, that is all.\"",
+   "ru": "«Я сегодня сделал глупость», — сказал мистер Браску, обращаясь в основном к окну. «Я уволил свою лучшую повариху. У этой девушки больше умения, чем у всех, кого я когда-либо нанимал». «Вышла рецензия, телефон перестал звонить, и мне нужно было на кого-то накричать. Она оказалась рядом, вот и всё».",
+   "s": [
+    [
+     "\"I did a stupid thing today,\" said Mr Brascu, mostly to the window.",
+     "«Я сегодня сделал глупость», — сказал мистер Браску, обращаясь в основном к окну."
+    ],
+    [
+     "\"I fired my best cook. That girl has more skill than anyone I have ever employed.\"",
+     "«Я уволил свою лучшую повариху. У этой девушки больше умения, чем у всех, кого я когда-либо нанимал»."
+    ],
+    [
+     "\"The review came out, the phone stopped ringing, and I needed to shout at someone. She was there, that is all.\"",
+     "«Вышла рецензия, телефон перестал звонить, и мне нужно было на кого-то накричать. Она оказалась рядом, вот и всё»."
+    ]
+   ]
+  },
+  {
+   "en": "Wendell drove in silence for a while. Then he said, \"The man who wrote that review had a cold. He couldn't taste anything.\" Brascu turned to look at him. \"How could you possibly know that?\" \"I'm a taxi driver. People talk in my car.\" \"Then do you have evidence? Something the newspaper would believe?\" Wendell thought of the notebook in his pocket. \"Maybe,\" he said. \"But you don't need evidence to call that girl and tell her you were wrong.\"",
+   "ru": "Какое-то время Уэнделл ехал молча. Потом он сказал: «Человек, который написал ту рецензию, был простужен. Он не чувствовал никакого вкуса». Браску повернулся и посмотрел на него. «Откуда вы можете это знать?» «Я таксист. В моей машине люди разговаривают». «Тогда у вас есть доказательства? Что-то, чему поверила бы газета?» Уэнделл подумал о блокноте у себя в кармане. «Может быть, — сказал он. — Но вам не нужны доказательства, чтобы позвонить этой девушке и сказать, что вы были неправы».",
+   "s": [
+    [
+     "Wendell drove in silence for a while.",
+     "Какое-то время Уэнделл ехал молча."
+    ],
+    [
+     "Then he said, \"The man who wrote that review had a cold. He couldn't taste anything.\"",
+     "Потом он сказал: «Человек, который написал ту рецензию, был простужен. Он не чувствовал никакого вкуса»."
+    ],
+    [
+     "Brascu turned to look at him.",
+     "Браску повернулся и посмотрел на него."
+    ],
+    [
+     "\"How could you possibly know that?\"",
+     "«Откуда вы можете это знать?»"
+    ],
+    [
+     "\"I'm a taxi driver. People talk in my car.\"",
+     "«Я таксист. В моей машине люди разговаривают»."
+    ],
+    [
+     "\"Then do you have evidence? Something the newspaper would believe?\"",
+     "«Тогда у вас есть доказательства? Что-то, чему поверила бы газета?»"
+    ],
+    [
+     "Wendell thought of the notebook in his pocket.",
+     "Уэнделл подумал о блокноте у себя в кармане."
+    ],
+    [
+     "\"Maybe,\" he said. \"But you don't need evidence to call that girl and tell her you were wrong.\"",
+     "«Может быть, — сказал он. — Но вам не нужны доказательства, чтобы позвонить этой девушке и сказать, что вы были неправы»."
+    ]
+   ]
+  },
+  {
+   "en": "The old man was quiet. \"And if she won't forgive me?\" \"Then at least you'll know you tried,\" Wendell said. \"I've been waiting fourteen years to have a conversation like that, and I still haven't had it. Don't do what I did.\" When Brascu got out, he stood in the rain for a moment, then knocked on the window. \"You are a wise man, driver.\" Wendell laughed without joy. A wise man would follow his own advice.",
+   "ru": "Старик молчал. «А если она меня не простит?» «Тогда вы хотя бы будете знать, что попытались», — сказал Уэнделл. «Я четырнадцать лет жду такого разговора — и до сих пор его не начал. Не повторяйте мою ошибку». Выйдя из машины, Браску немного постоял под дождём, а потом постучал в окно. «Вы мудрый человек, водитель». Уэнделл невесело рассмеялся. Мудрый человек следовал бы собственному совету.",
+   "s": [
+    [
+     "The old man was quiet.",
+     "Старик молчал."
+    ],
+    [
+     "\"And if she won't forgive me?\"",
+     "«А если она меня не простит?»"
+    ],
+    [
+     "\"Then at least you'll know you tried,\" Wendell said.",
+     "«Тогда вы хотя бы будете знать, что попытались», — сказал Уэнделл."
+    ],
+    [
+     "\"I've been waiting fourteen years to have a conversation like that, and I still haven't had it. Don't do what I did.\"",
+     "«Я четырнадцать лет жду такого разговора — и до сих пор его не начал. Не повторяйте мою ошибку»."
+    ],
+    [
+     "When Brascu got out, he stood in the rain for a moment, then knocked on the window.",
+     "Выйдя из машины, Браску немного постоял под дождём, а потом постучал в окно."
+    ],
+    [
+     "\"You are a wise man, driver.\"",
+     "«Вы мудрый человек, водитель»."
+    ],
+    [
+     "Wendell laughed without joy.",
+     "Уэнделл невесело рассмеялся."
+    ],
+    [
+     "A wise man would follow his own advice.",
+     "Мудрый человек следовал бы собственному совету."
+    ]
+   ]
+  },
+  {
+   "en": "At two o'clock he took a call from the city hospital. A woman in a nurse's uniform got in, so tired that she closed her eyes before they had even passed the hospital gate. Then her phone buzzed, and she sighed. \"My father,\" she explained. \"He's at the airport hotel with a fever, and he's flying to a food festival at six because his editor told him to.\" \"Now he's lost his notebook and he's in a panic. He's a restaurant critic, Ambrose Kell. Maybe you've heard of him.\"",
+   "ru": "В два часа он принял вызов из городской больницы. В машину села женщина в форме медсестры — такая усталая, что закрыла глаза, ещё прежде чем они проехали больничные ворота. Потом у неё зажужжал телефон, и она вздохнула. «Отец», — объяснила она. «Он в гостинице при аэропорте с температурой, а в шесть летит на гастрономический фестиваль, потому что так велел его редактор». «А теперь он потерял свой блокнот и в панике. Он ресторанный критик, Амброуз Келл. Может, вы о нём слышали».",
+   "s": [
+    [
+     "At two o'clock he took a call from the city hospital.",
+     "В два часа он принял вызов из городской больницы."
+    ],
+    [
+     "A woman in a nurse's uniform got in, so tired that she closed her eyes before they had even passed the hospital gate.",
+     "В машину села женщина в форме медсестры — такая усталая, что закрыла глаза, ещё прежде чем они проехали больничные ворота."
+    ],
+    [
+     "Then her phone buzzed, and she sighed.",
+     "Потом у неё зажужжал телефон, и она вздохнула."
+    ],
+    [
+     "\"My father,\" she explained.",
+     "«Отец», — объяснила она."
+    ],
+    [
+     "\"He's at the airport hotel with a fever, and he's flying to a food festival at six because his editor told him to.\"",
+     "«Он в гостинице при аэропорте с температурой, а в шесть летит на гастрономический фестиваль, потому что так велел его редактор»."
+    ],
+    [
+     "\"Now he's lost his notebook and he's in a panic. He's a restaurant critic, Ambrose Kell. Maybe you've heard of him.\"",
+     "«А теперь он потерял свой блокнот и в панике. Он ресторанный критик, Амброуз Келл. Может, вы о нём слышали»."
+    ]
+   ]
+  },
+  {
+   "en": "Wendell almost stopped the car. \"I've heard of him,\" he said carefully. \"Everyone has heard of him recently, after that Sunday review,\" she said, shaking her head. \"He wasn't always like this. Years ago he wrote about a little restaurant by the river when he was ill, and it closed.\" \"He never got over it. He still keeps their menu in his desk. Ash and Salt, it was called.\"",
+   "ru": "Уэнделл чуть не остановил машину. «Слышал», — осторожно сказал он. «В последнее время о нём все слышали — после той воскресной рецензии», — сказала она, покачав головой. «Он не всегда был таким. Много лет назад он, будучи больным, написал о маленьком ресторане у реки, и тот закрылся». «Он так и не смог это пережить. До сих пор хранит их меню в своём столе. \"Пепел и соль\" — так он назывался».",
+   "s": [
+    [
+     "Wendell almost stopped the car.",
+     "Уэнделл чуть не остановил машину."
+    ],
+    [
+     "\"I've heard of him,\" he said carefully.",
+     "«Слышал», — осторожно сказал он."
+    ],
+    [
+     "\"Everyone has heard of him recently, after that Sunday review,\" she said, shaking her head.",
+     "«В последнее время о нём все слышали — после той воскресной рецензии», — сказала она, покачав головой."
+    ],
+    [
+     "\"He wasn't always like this. Years ago he wrote about a little restaurant by the river when he was ill, and it closed.\"",
+     "«Он не всегда был таким. Много лет назад он, будучи больным, написал о маленьком ресторане у реки, и тот закрылся»."
+    ],
+    [
+     "\"He never got over it. He still keeps their menu in his desk. Ash and Salt, it was called.\"",
+     "«Он так и не смог это пережить. До сих пор хранит их меню в своём столе. \"Пепел и соль\" — так он назывался»."
+    ]
+   ]
+  },
+  {
+   "en": "For a long moment Wendell could not speak. For fourteen years he had imagined Kell laughing at him and forgetting him the next day. He had never imagined a menu in a desk drawer. He reached into his pocket, took out the black notebook and passed it back to her. \"He left it in my taxi tonight,\" he said.",
+   "ru": "Долгое мгновение Уэнделл не мог вымолвить ни слова. Четырнадцать лет он представлял, как Келл смеётся над ним и забывает о нём на следующий же день. Меню в ящике стола он не представлял никогда. Он полез в карман, достал чёрный блокнот и протянул его ей назад. «Он оставил его сегодня в моём такси», — сказал он.",
+   "s": [
+    [
+     "For a long moment Wendell could not speak.",
+     "Долгое мгновение Уэнделл не мог вымолвить ни слова."
+    ],
+    [
+     "For fourteen years he had imagined Kell laughing at him and forgetting him the next day.",
+     "Четырнадцать лет он представлял, как Келл смеётся над ним и забывает о нём на следующий же день."
+    ],
+    [
+     "He had never imagined a menu in a desk drawer.",
+     "Меню в ящике стола он не представлял никогда."
+    ],
+    [
+     "He reached into his pocket, took out the black notebook and passed it back to her.",
+     "Он полез в карман, достал чёрный блокнот и протянул его ей назад."
+    ],
+    [
+     "\"He left it in my taxi tonight,\" he said.",
+     "«Он оставил его сегодня в моём такси», — сказал он."
+    ]
+   ]
+  },
+  {
+   "en": "She opened it, read the last page and went pale. \"You've read this,\" she said. It wasn't a question. \"Please. If this goes to the newspapers, it will finish him. He's sixty-eight. His work is the only thing he has.\" Wendell looked at her in the mirror: a tired daughter, worried about a foolish father. He knew something about foolish fathers.",
+   "ru": "Она открыла его, прочитала последнюю страницу и побледнела. «Вы это читали», — сказала она. Это был не вопрос. «Пожалуйста. Если это попадёт в газеты, ему конец. Ему шестьдесят восемь. Работа — это всё, что у него есть». Уэнделл посмотрел на неё в зеркало: уставшая дочь, которая волнуется за глупого отца. Он кое-что знал о глупых отцах.",
+   "s": [
+    [
+     "She opened it, read the last page and went pale.",
+     "Она открыла его, прочитала последнюю страницу и побледнела."
+    ],
+    [
+     "\"You've read this,\" she said.",
+     "«Вы это читали», — сказала она."
+    ],
+    [
+     "It wasn't a question.",
+     "Это был не вопрос."
+    ],
+    [
+     "\"Please. If this goes to the newspapers, it will finish him. He's sixty-eight. His work is the only thing he has.\"",
+     "«Пожалуйста. Если это попадёт в газеты, ему конец. Ему шестьдесят восемь. Работа — это всё, что у него есть»."
+    ],
+    [
+     "Wendell looked at her in the mirror: a tired daughter, worried about a foolish father.",
+     "Уэнделл посмотрел на неё в зеркало: уставшая дочь, которая волнуется за глупого отца."
+    ],
+    [
+     "He knew something about foolish fathers.",
+     "Он кое-что знал о глупых отцах."
+    ]
+   ]
+  },
+  {
+   "en": "\"Keep it,\" he said finally. \"But give him a message from me.\" \"Tell him the driver was Wendell Ash, from Ash and Salt. Tell him the Copper Gate deserves a second visit, when he can taste again.\" \"And tell him that a young cook lost her job today because of him.\" She stared at him, then nodded slowly. \"I'll tell him. I promise.\"",
+   "ru": "«Оставьте его себе, — сказал он наконец. — Но передайте ему кое-что от меня». «Скажите ему, что водителем был Уэнделл Эш из \"Пепла и соли\". Скажите, что \"Медные ворота\" заслуживают второго визита — когда к нему вернётся вкус». «И скажите ему, что сегодня из-за него молодая повариха потеряла работу». Она пристально посмотрела на него, а потом медленно кивнула. «Я ему скажу. Обещаю».",
+   "s": [
+    [
+     "\"Keep it,\" he said finally. \"But give him a message from me.\"",
+     "«Оставьте его себе, — сказал он наконец. — Но передайте ему кое-что от меня»."
+    ],
+    [
+     "\"Tell him the driver was Wendell Ash, from Ash and Salt. Tell him the Copper Gate deserves a second visit, when he can taste again.\"",
+     "«Скажите ему, что водителем был Уэнделл Эш из \"Пепла и соли\". Скажите, что \"Медные ворота\" заслуживают второго визита — когда к нему вернётся вкус»."
+    ],
+    [
+     "\"And tell him that a young cook lost her job today because of him.\"",
+     "«И скажите ему, что сегодня из-за него молодая повариха потеряла работу»."
+    ],
+    [
+     "She stared at him, then nodded slowly.",
+     "Она пристально посмотрела на него, а потом медленно кивнула."
+    ],
+    [
+     "\"I'll tell him. I promise.\"",
+     "«Я ему скажу. Обещаю»."
+    ]
+   ]
+  },
+  {
+   "en": "It was nearly four when the last call came, from a bakery on Mill Street. A young man in a jacket covered with flour got in and gave an address across the river. It was the same address where Wendell had taken Priya. Then the young man saw the red umbrella on the seat beside him. \"This is Priya's,\" he said in surprise. \"I gave it to her for her birthday. How did you…\" Then he looked at the driver's card on the dashboard, and the rest of the sentence never came.",
+   "ru": "Было почти четыре, когда поступил последний вызов — из пекарни на Милл-стрит. В машину сел молодой человек в куртке, покрытой мукой, и назвал адрес за рекой. Это был тот самый адрес, куда Уэнделл отвёз Прию. Потом молодой человек увидел красный зонт на сиденье рядом с собой. «Это же Прии, — удивлённо сказал он. — Я подарил его ей на день рождения. Как вы…» Тут он взглянул на карточку водителя на приборной панели, и конец фразы так и не прозвучал.",
+   "s": [
+    [
+     "It was nearly four when the last call came, from a bakery on Mill Street.",
+     "Было почти четыре, когда поступил последний вызов — из пекарни на Милл-стрит."
+    ],
+    [
+     "A young man in a jacket covered with flour got in and gave an address across the river.",
+     "В машину сел молодой человек в куртке, покрытой мукой, и назвал адрес за рекой."
+    ],
+    [
+     "It was the same address where Wendell had taken Priya.",
+     "Это был тот самый адрес, куда Уэнделл отвёз Прию."
+    ],
+    [
+     "Then the young man saw the red umbrella on the seat beside him.",
+     "Потом молодой человек увидел красный зонт на сиденье рядом с собой."
+    ],
+    [
+     "\"This is Priya's,\" he said in surprise. \"I gave it to her for her birthday. How did you…\"",
+     "«Это же Прии, — удивлённо сказал он. — Я подарил его ей на день рождения. Как вы…»"
+    ],
+    [
+     "Then he looked at the driver's card on the dashboard, and the rest of the sentence never came.",
+     "Тут он взглянул на карточку водителя на приборной панели, и конец фразы так и не прозвучал."
+    ]
+   ]
+  },
+  {
+   "en": "\"Dad,\" said Owen. It was not a warm word. It sounded like something heavy falling to the floor. Wendell took off his cap, which he had not done in front of anyone for years. For fourteen years he had prepared what he would say, and now he could not find a single word.",
+   "ru": "«Папа», — сказал Оуэн. Это слово прозвучало совсем не тепло. Оно прозвучало так, словно на пол упало что-то тяжёлое. Уэнделл снял кепку, чего не делал ни перед кем уже много лет. Четырнадцать лет он готовил то, что скажет, а теперь не мог найти ни единого слова.",
+   "s": [
+    [
+     "\"Dad,\" said Owen.",
+     "«Папа», — сказал Оуэн."
+    ],
+    [
+     "It was not a warm word.",
+     "Это слово прозвучало совсем не тепло."
+    ],
+    [
+     "It sounded like something heavy falling to the floor.",
+     "Оно прозвучало так, словно на пол упало что-то тяжёлое."
+    ],
+    [
+     "Wendell took off his cap, which he had not done in front of anyone for years.",
+     "Уэнделл снял кепку, чего не делал ни перед кем уже много лет."
+    ],
+    [
+     "For fourteen years he had prepared what he would say, and now he could not find a single word.",
+     "Четырнадцать лет он готовил то, что скажет, а теперь не мог найти ни единого слова."
+    ]
+   ]
+  },
+  {
+   "en": "\"It wasn't your fault,\" he said at last. \"The review, the restaurant. The man who wrote it was ill that week. He couldn't taste a thing. I found out tonight.\" \"But even before tonight, deep down, I knew. I blamed you because it was easier than blaming myself. I'm sorry, Owen. I'm so sorry.\"",
+   "ru": "«Это была не твоя вина», — сказал он наконец. «Рецензия, ресторан. Человек, который её написал, болел на той неделе. Он не чувствовал вообще никакого вкуса. Я узнал это сегодня ночью». «Но даже до сегодняшнего дня, в глубине души, я знал. Я обвинил тебя, потому что это было легче, чем обвинять себя. Прости, Оуэн. Прости меня».",
+   "s": [
+    [
+     "\"It wasn't your fault,\" he said at last.",
+     "«Это была не твоя вина», — сказал он наконец."
+    ],
+    [
+     "\"The review, the restaurant. The man who wrote it was ill that week. He couldn't taste a thing. I found out tonight.\"",
+     "«Рецензия, ресторан. Человек, который её написал, болел на той неделе. Он не чувствовал вообще никакого вкуса. Я узнал это сегодня ночью»."
+    ],
+    [
+     "\"But even before tonight, deep down, I knew. I blamed you because it was easier than blaming myself. I'm sorry, Owen. I'm so sorry.\"",
+     "«Но даже до сегодняшнего дня, в глубине души, я знал. Я обвинил тебя, потому что это было легче, чем обвинять себя. Прости, Оуэн. Прости меня»."
+    ]
+   ]
+  },
+  {
+   "en": "Owen said nothing for a long time. The streets were empty, and the traffic lights changed from red to green for nobody. \"Fourteen years,\" he said finally. \"Do you know how many times I almost called you?\" \"Probably as many times as I almost called you.\" Owen laughed, short and surprised, and for a second he sounded nineteen again.",
+   "ru": "Оуэн долго молчал. Улицы были пусты, и светофоры переключались с красного на зелёный ни для кого. «Четырнадцать лет, — сказал он наконец. — Знаешь, сколько раз я чуть не позвонил тебе?» «Наверное, столько же, сколько я чуть не позвонил тебе». Оуэн рассмеялся — коротко и удивлённо, — и на секунду его голос снова стал голосом девятнадцатилетнего.",
+   "s": [
+    [
+     "Owen said nothing for a long time.",
+     "Оуэн долго молчал."
+    ],
+    [
+     "The streets were empty, and the traffic lights changed from red to green for nobody.",
+     "Улицы были пусты, и светофоры переключались с красного на зелёный ни для кого."
+    ],
+    [
+     "\"Fourteen years,\" he said finally. \"Do you know how many times I almost called you?\"",
+     "«Четырнадцать лет, — сказал он наконец. — Знаешь, сколько раз я чуть не позвонил тебе?»"
+    ],
+    [
+     "\"Probably as many times as I almost called you.\"",
+     "«Наверное, столько же, сколько я чуть не позвонил тебе»."
+    ],
+    [
+     "Owen laughed, short and surprised, and for a second he sounded nineteen again.",
+     "Оуэн рассмеялся — коротко и удивлённо, — и на секунду его голос снова стал голосом девятнадцатилетнего."
+    ]
+   ]
+  },
+  {
+   "en": "Then Wendell told him everything: the crying cook, the critic, the restaurant owner, the nurse and the notebook. By the time he had finished, they were outside the little house with the yellow light. Priya was standing at the door in a big jumper, with her phone in her hand. \"Mr Brascu called,\" she said as soon as Owen got out. \"At half past one in the morning! He said sorry three times. He wants me back.\" She stopped. \"Wait. You're my taxi driver.\"",
+   "ru": "Тогда Уэнделл рассказал ему всё: о плачущей поварихе, о критике, о владельце ресторана, о медсестре и о блокноте. К тому времени, как он закончил, они уже стояли у маленького дома с жёлтым светом. Прия стояла в дверях в большом свитере, с телефоном в руке. «Звонил мистер Браску, — сказала она, как только Оуэн вышел. — В половине второго ночи! Трижды извинился. Он хочет, чтобы я вернулась». Она осеклась. «Подождите. Вы же мой таксист».",
+   "s": [
+    [
+     "Then Wendell told him everything: the crying cook, the critic, the restaurant owner, the nurse and the notebook.",
+     "Тогда Уэнделл рассказал ему всё: о плачущей поварихе, о критике, о владельце ресторана, о медсестре и о блокноте."
+    ],
+    [
+     "By the time he had finished, they were outside the little house with the yellow light.",
+     "К тому времени, как он закончил, они уже стояли у маленького дома с жёлтым светом."
+    ],
+    [
+     "Priya was standing at the door in a big jumper, with her phone in her hand.",
+     "Прия стояла в дверях в большом свитере, с телефоном в руке."
+    ],
+    [
+     "\"Mr Brascu called,\" she said as soon as Owen got out. \"At half past one in the morning! He said sorry three times. He wants me back.\"",
+     "«Звонил мистер Браску, — сказала она, как только Оуэн вышел. — В половине второго ночи! Трижды извинился. Он хочет, чтобы я вернулась»."
+    ],
+    [
+     "She stopped. \"Wait. You're my taxi driver.\"",
+     "Она осеклась. «Подождите. Вы же мой таксист»."
+    ]
+   ]
+  },
+  {
+   "en": "Owen took the umbrella from the back seat and gave it to her. Then he turned toward the taxi, where Wendell was still sitting with his cap in his hands, not sure if he was allowed to stay. \"Priya, this is my father,\" Owen said. \"Dad, are you coming in? She makes terrible coffee, but it's hot.\" Relief came over Wendell like warm water. He turned off the engine.",
+   "ru": "Оуэн взял зонт с заднего сиденья и отдал ей. Потом он повернулся к такси, где Уэнделл всё ещё сидел с кепкой в руках, не зная, можно ли ему остаться. «Прия, это мой отец, — сказал Оуэн. — Пап, ты зайдёшь? Кофе она варит ужасный, зато горячий». Облегчение окатило Уэнделла, как тёплая вода. Он заглушил мотор.",
+   "s": [
+    [
+     "Owen took the umbrella from the back seat and gave it to her.",
+     "Оуэн взял зонт с заднего сиденья и отдал ей."
+    ],
+    [
+     "Then he turned toward the taxi, where Wendell was still sitting with his cap in his hands, not sure if he was allowed to stay.",
+     "Потом он повернулся к такси, где Уэнделл всё ещё сидел с кепкой в руках, не зная, можно ли ему остаться."
+    ],
+    [
+     "\"Priya, this is my father,\" Owen said. \"Dad, are you coming in? She makes terrible coffee, but it's hot.\"",
+     "«Прия, это мой отец, — сказал Оуэн. — Пап, ты зайдёшь? Кофе она варит ужасный, зато горячий»."
+    ],
+    [
+     "Relief came over Wendell like warm water.",
+     "Облегчение окатило Уэнделла, как тёплая вода."
+    ],
+    [
+     "He turned off the engine.",
+     "Он заглушил мотор."
+    ]
+   ]
+  },
+  {
+   "en": "Two Sundays later, a short review appeared in the newspaper. Ambrose Kell wrote that he had made a serious mistake about the Copper Gate, and that its fish was the best he had tasted in years. In the last paragraph he apologised to a small restaurant by the river which had closed fourteen years before, \"because of my lack of honesty, not because of their lack of skill.\" Wendell read it on Owen's sofa, while Priya and Owen argued happily in the kitchen about salt. Then he took the old review out of his wallet and, for the first time in fourteen years, threw it away.",
+   "ru": "Через два воскресенья в газете появилась короткая рецензия. Амброуз Келл написал, что серьёзно ошибся насчёт «Медных ворот» и что их рыба — лучшая из всех, что он пробовал за многие годы. В последнем абзаце он извинился перед маленьким ресторанчиком у реки, который закрылся четырнадцать лет назад, «из-за моей нечестности, а не из-за их неумения». Уэнделл прочитал её на диване у Оуэна, пока Прия и Оуэн весело спорили на кухне о соли. Потом он достал из бумажника старую рецензию и впервые за четырнадцать лет выбросил её.",
+   "s": [
+    [
+     "Two Sundays later, a short review appeared in the newspaper.",
+     "Через два воскресенья в газете появилась короткая рецензия."
+    ],
+    [
+     "Ambrose Kell wrote that he had made a serious mistake about the Copper Gate, and that its fish was the best he had tasted in years.",
+     "Амброуз Келл написал, что серьёзно ошибся насчёт «Медных ворот» и что их рыба — лучшая из всех, что он пробовал за многие годы."
+    ],
+    [
+     "In the last paragraph he apologised to a small restaurant by the river which had closed fourteen years before, \"because of my lack of honesty, not because of their lack of skill.\"",
+     "В последнем абзаце он извинился перед маленьким ресторанчиком у реки, который закрылся четырнадцать лет назад, «из-за моей нечестности, а не из-за их неумения»."
+    ],
+    [
+     "Wendell read it on Owen's sofa, while Priya and Owen argued happily in the kitchen about salt.",
+     "Уэнделл прочитал её на диване у Оуэна, пока Прия и Оуэн весело спорили на кухне о соли."
+    ],
+    [
+     "Then he took the old review out of his wallet and, for the first time in fourteen years, threw it away.",
+     "Потом он достал из бумажника старую рецензию и впервые за четырнадцать лет выбросил её."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, об",
+  "across": "через, по",
+  "address": "адрес",
+  "advice": "совет",
+  "after": "после",
+  "again": "снова",
+  "ago": "назад",
+  "airport": "аэропорт",
+  "all": "вообще (at all); всё",
+  "allowed": "разрешено",
+  "almost": "почти",
+  "alone": "один, одна",
+  "always": "всегда",
+  "ambrose": "Амброуз (имя)",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "annoyance": "раздражение",
+  "another": "ещё один",
+  "answered": "ответил",
+  "anyone": "кого-либо",
+  "anything": "что-нибудь",
+  "anyway": "всё равно",
+  "apologised": "извинился",
+  "appeared": "появилась",
+  "are": "(есть) — вы/они",
+  "argued": "спорили",
+  "arrived": "приехали",
+  "as": "как, так как",
+  "ash": "Эш (фамилия); пепел (в названии)",
+  "asked": "спросил(а)",
+  "asking": "спрашивая",
+  "at": "в, у, на",
+  "away": "(threw away) выбросил",
+  "back": "назад; задний",
+  "bad": "плохой",
+  "bag": "сумка",
+  "baker": "пекарь",
+  "bakery": "пекарня",
+  "bank": "банк",
+  "bar": "бар",
+  "beard": "борода",
+  "because": "потому что",
+  "bed": "(ill in bed) лежал больной",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "believe": "верить",
+  "below": "внизу",
+  "beside": "рядом с",
+  "best": "лучший",
+  "big": "большой",
+  "birthday": "день рождения",
+  "black": "чёрный",
+  "blame": "обвинить",
+  "blamed": "обвинил",
+  "blaming": "обвинять",
+  "box": "коробка",
+  "boyfriend": "парень",
+  "brascu": "Браску (фамилия)",
+  "bright": "яркий",
+  "building": "здание",
+  "but": "но",
+  "buzzed": "завибрировал",
+  "by": "у; из-за; к",
+  "call": "позвонить; вызов",
+  "called": "под названием; называла; позвонил",
+  "came": "поступил; пришёл; (came over) охватило",
+  "can": "могу, можем",
+  "can't": "не может, нельзя",
+  "cap": "кепка",
+  "car": "машина",
+  "card": "карточка",
+  "cardboard": "картонный",
+  "carefully": "осторожно",
+  "changed": "переключались",
+  "city": "город",
+  "cleaning": "убирая",
+  "closed": "закрыла; закрылся",
+  "coat": "пальто",
+  "coffee": "кофе",
+  "cold": "простуда",
+  "coming": "(coming in) зайдёшь",
+  "confidence": "уверенность",
+  "conversation": "разговор",
+  "cook": "повар",
+  "cook's": "повара, поварской",
+  "cooked": "приготовила",
+  "copper": "медный",
+  "coughing": "кашляя",
+  "could": "мог(ла)",
+  "couldn't": "не мог",
+  "covered": "покрытый",
+  "critic": "критик",
+  "critic's": "критика",
+  "cry": "плакать",
+  "crying": "плачущий",
+  "dad": "папа",
+  "dashboard": "приборная панель",
+  "daughter": "дочь",
+  "day": "день",
+  "decide": "решать",
+  "decided": "решил",
+  "deep": "(deep down) в глубине души",
+  "deserves": "заслуживает",
+  "desk": "письменный стол",
+  "did": "(вспом. гл.)",
+  "died": "умер(ла)",
+  "difficult": "трудный",
+  "do": "(вспом. гл.)",
+  "does": "(вспом. гл.)",
+  "doesn't": "не (вспом.)",
+  "don't": "не (вспом.)",
+  "done": "сделал",
+  "door": "дверь",
+  "doubt": "сомнение",
+  "down": "(deep down) в глубине души",
+  "drawer": "ящик",
+  "driver": "водитель",
+  "driver's": "водителя",
+  "drivers": "водители (taxi drivers — таксисты)",
+  "driving": "водил (машину)",
+  "drove": "ехал",
+  "easier": "легче",
+  "editor": "редактор",
+  "eight": "восемь",
+  "either": "тоже (не)",
+  "eleven": "одиннадцать",
+  "employed": "нанимал",
+  "empty": "пустой",
+  "end": "конец",
+  "ended": "закончил",
+  "engine": "двигатель",
+  "even": "даже",
+  "ever": "когда-либо",
+  "everyone": "все",
+  "everything": "всё",
+  "evidence": "доказательства",
+  "expensive": "дорогой",
+  "explained": "объяснила",
+  "explains": "объясняет",
+  "eyes": "глаза",
+  "face": "лицо",
+  "falling": "падающий",
+  "families": "семьи",
+  "family": "семья",
+  "father": "отец",
+  "fathers": "отцы",
+  "fault": "вина",
+  "festival": "фестиваль",
+  "fever": "жар, температура",
+  "finally": "наконец",
+  "find": "найти",
+  "finish": "погубить (it will finish him — ему конец)",
+  "finished": "закончил",
+  "fired": "уволили; уволил",
+  "first": "первый; (for the first time) впервые",
+  "fish": "рыба",
+  "five": "пять",
+  "floor": "пол",
+  "flour": "мука",
+  "flying": "летит",
+  "follow": "следовать",
+  "food": "еда",
+  "foolish": "глупый",
+  "for": "для, в течение",
+  "forgetting": "забывающий",
+  "forgive": "простить",
+  "forgiven": "простил",
+  "found": "(found out) узнал",
+  "four": "четыре",
+  "fourteen": "четырнадцать",
+  "friends": "друзья",
+  "from": "из, от",
+  "front": "(in front of) перед",
+  "full": "полный",
+  "gate": "ворота",
+  "gave": "дал; подарил; назвал (адрес)",
+  "girl": "девушка",
+  "give": "передать; дать",
+  "goes": "попадёт",
+  "gold": "золотой",
+  "gone": "(was gone) не стало",
+  "got": "(got in) сел; (got out) вышел",
+  "grand": "«Гранд» (название)",
+  "green": "зелёный",
+  "grey": "серый",
+  "had": "(вспом. гл.); имел",
+  "half": "половина",
+  "halfway": "на полпути",
+  "hand": "рука",
+  "hands": "руки",
+  "handwriting": "почерк",
+  "happily": "весело, радостно",
+  "harwick": "Харвик (город)",
+  "has": "(вспом. гл.)",
+  "have": "иметь; (вспом.)",
+  "haven't": "не (вспом.)",
+  "he": "он",
+  "he's": "он (есть)",
+  "head": "голова",
+  "hear": "слышать",
+  "heard": "слышал",
+  "heart": "сердце",
+  "heavy": "тяжёлый",
+  "her": "её, ей",
+  "him": "его, ему",
+  "his": "его",
+  "home": "домой; дом",
+  "honesty": "честность",
+  "hospital": "больница",
+  "hot": "горячий",
+  "hotel": "гостиница",
+  "hours": "часы",
+  "house": "дом",
+  "how": "как",
+  "hurried": "поспешила",
+  "i": "я",
+  "i'll": "я (буду)",
+  "i'm": "я (есть)",
+  "i've": "я (уже)",
+  "if": "если, ли",
+  "ill": "больной",
+  "imagined": "представлял",
+  "important": "важный",
+  "in": "в",
+  "instantly": "мгновенно",
+  "into": "в",
+  "is": "есть, является",
+  "it": "он, оно, это",
+  "it's": "это",
+  "its": "его, её",
+  "jacket": "куртка",
+  "job": "работа",
+  "joy": "радость",
+  "jumper": "свитер",
+  "keep": "хранить; (keep it) оставьте себе",
+  "keeps": "хранит",
+  "kell": "Келл (фамилия)",
+  "kell's": "Келла",
+  "kept": "хранил; (kept his eyes on) не отрывал глаз",
+  "kitchen": "кухня",
+  "knew": "знал",
+  "knocked": "постучал",
+  "know": "знаю, знать",
+  "known": "знал",
+  "lack": "недостаток",
+  "large": "большой",
+  "last": "последний",
+  "later": "позже",
+  "laughed": "рассмеялся",
+  "laughing": "смеющийся",
+  "learned": "освоил, научился",
+  "least": "(at least) хотя бы",
+  "leather": "кожаный",
+  "left": "оставила; оставил; (left home) ушёл из дома",
+  "lie": "ложь",
+  "light": "свет",
+  "lights": "фонари; (traffic lights) светофоры",
+  "like": "как; такой (like that)",
+  "listen": "слушать",
+  "listened": "слушал",
+  "little": "маленький, немного",
+  "long": "долго, долгий",
+  "look": "смотреть",
+  "looked": "посмотрел; взглянул",
+  "looking": "глядя",
+  "lost": "потерял(а)",
+  "loud": "громкий",
+  "made": "допустил (made a mistake)",
+  "make": "издать (make a sound)",
+  "makes": "варит",
+  "man": "мужчина",
+  "many": "много",
+  "maybe": "может быть",
+  "me": "меня, мне",
+  "mentioned": "упоминала",
+  "menu": "меню",
+  "message": "послание, сообщение",
+  "mill": "Милл (название улицы)",
+  "minutes": "минуты",
+  "mirror": "зеркало",
+  "mistake": "ошибка",
+  "moira": "Мойра (имя)",
+  "moment": "мгновение",
+  "month": "месяц",
+  "months": "месяцы",
+  "more": "больше",
+  "morning": "утро",
+  "mostly": "в основном",
+  "mr": "мистер",
+  "my": "мой",
+  "myself": "сам",
+  "name": "имя",
+  "near": "возле, у",
+  "nearly": "чуть не, почти",
+  "need": "нужно",
+  "needed": "нужно было",
+  "needs": "нужно",
+  "never": "никогда",
+  "newspaper": "газета",
+  "newspapers": "газеты",
+  "next": "следующий; рядом",
+  "night": "ночь",
+  "nights": "(works nights) по ночам",
+  "nineteen": "девятнадцать",
+  "no": "нет",
+  "nobody": "никто",
+  "nodded": "кивнул",
+  "not": "не",
+  "notebook": "блокнот",
+  "nothing": "ничего",
+  "noticed": "заметил",
+  "now": "теперь",
+  "nurse": "медсестра",
+  "nurse's": "медсестры",
+  "o'clock": "часов",
+  "obsession": "одержимость",
+  "of": "из, о, (род. падеж)",
+  "off": "(took off) снял; (turned off) заглушил",
+  "old": "старый",
+  "older": "старше",
+  "on": "на",
+  "one": "один, одна",
+  "only": "только",
+  "open": "открыть",
+  "opened": "открыла",
+  "or": "или",
+  "other": "другой",
+  "our": "наш",
+  "out": "(got out) вышел; (found out) узнал; из",
+  "outside": "снаружи",
+  "over": "(came over) охватило",
+  "owen": "Оуэн (имя)",
+  "owen's": "Оуэна",
+  "own": "собственный",
+  "owner": "владелец",
+  "page": "страница",
+  "paid": "заплатила",
+  "pale": "бледный",
+  "panic": "паника",
+  "paper": "газета",
+  "paragraph": "абзац",
+  "passed": "проехали; протянул",
+  "passenger": "пассажир(ка)",
+  "past": "(half past) половина",
+  "people": "люди",
+  "perfectly": "идеально",
+  "petrol": "бензин",
+  "phone": "телефон",
+  "place": "место",
+  "please": "пожалуйста",
+  "pocket": "карман",
+  "possibly": "(how could you possibly) откуда вообще",
+  "prepared": "готовил",
+  "priya": "Прия (имя)",
+  "priya's": "Прии",
+  "probably": "вероятно",
+  "promise": "обещать",
+  "promised": "обещал",
+  "question": "вопрос",
+  "questions": "вопросы",
+  "quiet": "тихий",
+  "quietly": "тихо",
+  "rain": "дождь",
+  "rang": "зазвонил",
+  "reached": "(reached into) полез",
+  "read": "читать; прочитал(а)",
+  "real": "настоящий",
+  "recently": "недавно",
+  "recognised": "узнал",
+  "red": "красный",
+  "relief": "облегчение",
+  "remembering": "запомнить (worth remembering — стоит запомнить)",
+  "rest": "остаток, конец",
+  "restaurant": "ресторан",
+  "return": "вернуть",
+  "review": "рецензия",
+  "ring": "кольцо",
+  "ringing": "звонить",
+  "river": "река",
+  "road": "дорога",
+  "round": "(round and round) снова и снова, по кругу",
+  "sadly": "грустно",
+  "said": "сказал(а)",
+  "salt": "соль",
+  "same": "тот же",
+  "sat": "сидел",
+  "saturday": "суббота",
+  "saw": "увидел",
+  "say": "говорить",
+  "says": "говорит",
+  "seat": "сиденье",
+  "second": "секунда; второй",
+  "sent": "отправили",
+  "sentence": "предложение",
+  "serious": "серьёзный",
+  "shaking": "качая (головой)",
+  "shaky": "дрожащий",
+  "she": "она",
+  "short": "короткий",
+  "should": "должен",
+  "shout": "кричать",
+  "side": "сторона",
+  "sighed": "вздохнула",
+  "silence": "тишина",
+  "single": "единственный",
+  "sitting": "сидел",
+  "six": "шесть",
+  "sixty": "шестьдесят",
+  "skill": "умение",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smell": "чувствовать запах",
+  "smelled": "пахло",
+  "so": "поэтому; так",
+  "sofa": "диван",
+  "some": "какой-то",
+  "someone": "кто-то",
+  "something": "что-то",
+  "son": "сын",
+  "soon": "вскоре",
+  "sorry": "прости; (said sorry) извинился",
+  "sound": "звук",
+  "sounded": "звучал",
+  "speak": "говорить",
+  "standing": "стояла",
+  "stared": "пристально посмотрела",
+  "started": "начала",
+  "station": "(petrol station) заправка",
+  "stay": "остаться",
+  "still": "всё ещё; неподвижный",
+  "stood": "постоял",
+  "stopped": "перестал; осеклась",
+  "story": "история",
+  "street": "улица",
+  "streets": "улицы",
+  "strong": "резкий, сильный",
+  "stupid": "глупый",
+  "summer": "лето",
+  "sunday": "воскресенье",
+  "sundays": "воскресенья",
+  "sure": "уверенный (not sure — не зная)",
+  "surprise": "удивление",
+  "surprised": "удивлённый",
+  "table": "стол",
+  "taken": "отвёз",
+  "talk": "говорить, общаться",
+  "tall": "высокий",
+  "taste": "вкус; пробовать",
+  "tasted": "пробовал",
+  "taxi": "такси",
+  "tell": "сказать",
+  "ten": "десять",
+  "terrible": "ужасный",
+  "than": "чем",
+  "thanked": "поблагодарила",
+  "that": "что; тот, это",
+  "that's": "это (есть)",
+  "the": "(опр. артикль)",
+  "their": "их, свои",
+  "them": "их",
+  "then": "потом, тогда",
+  "there": "там",
+  "they": "они",
+  "thing": "вещь",
+  "things": "вещи",
+  "third": "третий",
+  "this": "этот",
+  "thought": "подумал",
+  "three": "три",
+  "threw": "(threw away) выбросил",
+  "thursday": "четверг",
+  "time": "время, раз",
+  "times": "раз",
+  "tip": "чаевые",
+  "tired": "усталый",
+  "to": "к, в; (частица)",
+  "today": "сегодня",
+  "told": "сказал; велел",
+  "tonight": "сегодня ночью",
+  "too": "слишком",
+  "took": "(took off) снял; забрала; взял; достал",
+  "toward": "к, по направлению",
+  "traffic": "(traffic lights) светофоры",
+  "tried": "попытались",
+  "trying": "старалась",
+  "turned": "повернулся; (turned off) заглушил",
+  "twelve": "двенадцать",
+  "twenty": "двадцать",
+  "two": "два",
+  "umbrella": "зонт",
+  "under": "под",
+  "uniform": "форма",
+  "usually": "обычно",
+  "very": "очень",
+  "visit": "визит",
+  "voice": "голос",
+  "wait": "ждать",
+  "waiting": "ждать (have been waiting — жду)",
+  "walked": "вошёл",
+  "wallet": "бумажник",
+  "wanted": "хотела",
+  "wants": "хочет",
+  "warm": "тёплый",
+  "was": "был(а)",
+  "wasn't": "не был",
+  "water": "вода",
+  "way": "(by the way) кстати",
+  "week": "неделя",
+  "wendell": "Уэнделл (имя)",
+  "wendell's": "Уэнделла",
+  "went": "(went on) продолжала; (went round) крутилось; (went pale) побледнела",
+  "were": "были",
+  "wet": "влажный, мокрый",
+  "what": "что",
+  "when": "когда",
+  "where": "где",
+  "which": "который, что",
+  "while": "пока",
+  "white": "белый",
+  "who": "кто, который",
+  "why": "почему",
+  "wife": "жена",
+  "will": "будет",
+  "window": "окно",
+  "wine": "вино",
+  "wiping": "вытирая",
+  "wise": "мудрый",
+  "with": "с",
+  "within": "в течение",
+  "without": "без",
+  "woman": "женщина",
+  "won't": "не (буд. время)",
+  "word": "слово",
+  "words": "слова",
+  "work": "работа",
+  "worked": "проработала",
+  "works": "работает",
+  "worried": "волнующийся",
+  "worse": "хуже",
+  "worth": "(worth remembering) стоит",
+  "would": "бы",
+  "write": "написать",
+  "wrong": "неправ",
+  "wrote": "написал",
+  "years": "лет, годы",
+  "yellow": "жёлтый",
+  "yes": "да",
+  "you": "вы, ты",
+  "you'll": "вы будете",
+  "you're": "вы (есть)",
+  "you've": "вы (уже)",
+  "young": "молодой",
+  "your": "ваш"
+ },
+ "vocab": {
+  "umbrella": 103,
+  "blame": 445,
+  "blamed": 445,
+  "blaming": 445,
+  "review": 373,
+  "sofa": 351,
+  "took": 49,
+  "off": 49,
+  "relief": 481,
+  "loud": 194,
+  "that": 177,
+  "evidence": 528,
+  "driving": 116,
+  "drove": 116,
+  "joy": 186,
+  "coming": 111,
+  "in": 111,
+  "forgive": 366,
+  "forgiven": 366,
+  "wise": 458,
+  "confidence": 247,
+  "beard": 90,
+  "sunday": 176,
+  "sundays": 176,
+  "taste": 52,
+  "tasted": 52,
+  "toward": 210,
+  "skill": 231,
+  "obsession": 651,
+  "recently": 584,
+  "instantly": 626,
+  "annoyance": 476,
+  "thing": 8,
+  "things": 8,
+  "floor": 35,
+  "gate": 142,
+  "return": 95
+ }
+}

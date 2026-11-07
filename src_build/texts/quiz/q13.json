@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What did Bella do in the cafe at the beginning?",
+  "q_ru": "Что сделала Белла в кафе в начале рассказа?",
+  "options": [
+   "She took a wallet from a man at the next table.",
+   "She showed Marta a photo of the plate.",
+   "She broke a cup and laughed.",
+   "She brought two laptops and sweets."
+  ],
+  "options_ru": [
+   "Она взяла кошелёк у мужчины за соседним столиком.",
+   "Она показала Марте фото тарелки.",
+   "Она разбила чашку и засмеялась.",
+   "Она принесла два ноутбука и сладости."
+  ],
+  "answer": 0,
+  "explain_ru": "Белла положила на стол чужой кошелёк: «The man at the next table... It's a habit». Марта велела вернуть его."
+ },
+ {
+  "q": "How did Viktor know that the plate was a fake?",
+  "q_ru": "Как Виктор понял, что тарелка — подделка?",
+  "options": [
+   "It was too heavy and too cold.",
+   "There was a modern date on the back.",
+   "The gold was too bright, and a sheep's shadow was wrong.",
+   "The shepherd had a different face."
+  ],
+  "options_ru": [
+   "Она была слишком тяжёлой и холодной.",
+   "На обороте была современная дата.",
+   "Золото было слишком ярким, а тень овцы — не с той стороны.",
+   "У пастуха было другое лицо."
+  ],
+  "answer": 2,
+  "explain_ru": "Виктор: «the gold is too bright... this sheep has its shadow on the wrong side»."
+ },
+ {
+  "q": "Viktor says: \"It's a small flaw, and only an expert can see it.\" What is a \"flaw\"?",
+  "q_ru": "Виктор говорит: «It's a small flaw, and only an expert can see it». Что такое «flaw»?",
+  "options": [
+   "A secret sign of the artist.",
+   "A very expensive detail.",
+   "A kind of old paint.",
+   "A small mistake or problem."
+  ],
+  "options_ru": [
+   "Тайный знак художника.",
+   "Очень дорогая деталь.",
+   "Вид старой краски.",
+   "Небольшая ошибка или изъян."
+  ],
+  "answer": 3,
+  "explain_ru": "«Flaw» — недостаток, изъян. Здесь это ошибка с тенью овцы, которую заметит только специалист."
+ },
+ {
+  "q": "Who was Marta's father?",
+  "q_ru": "Кем был отец Марты?",
+  "options": [
+   "The director of the City Museum.",
+   "The night guard whom the museum blamed for a theft.",
+   "A rich collector in Switzerland.",
+   "The artist who painted the plate."
+  ],
+  "options_ru": [
+   "Директором Городского музея.",
+   "Ночным сторожем, которого музей обвинил в краже.",
+   "Богатым коллекционером в Швейцарии.",
+   "Художником, который расписал тарелку."
+  ],
+  "answer": 1,
+  "explain_ru": "Пятнадцать лет назад из музея пропала картина, и «the museum blamed the night guard». Марта говорит: «He was my father»."
+ },
+ {
+  "q": "What did everyone see on the museum screens?",
+  "q_ru": "Что все увидели на экранах музея?",
+  "options": [
+   "A video of the team in the Great Hall.",
+   "A photo of Marta's father.",
+   "Mr Grant shaking hands with the collector, with the golden plate.",
+   "A message that the plate was stolen."
+  ],
+  "options_ru": [
+   "Видео команды в Большом зале.",
+   "Фотографию отца Марты.",
+   "Мистера Гранта, пожимающего руку коллекционеру, с золотой тарелкой.",
+   "Сообщение о том, что тарелку украли."
+  ],
+  "answer": 2,
+  "explain_ru": "Оскар нажал клавишу, и все экраны показали «Mr Grant, smiling and shaking hands with the collector, with the golden plate between them»."
+ },
+ {
+  "q": "What does Marta mean when she says \"We stole his story\"?",
+  "q_ru": "Что имеет в виду Марта, когда говорит «We stole his story»?",
+  "options": [
+   "They sold Mr Grant's story to a newspaper.",
+   "Now people will believe her father, not Mr Grant.",
+   "They took Mr Grant's diary from the museum.",
+   "Bella stole Mr Grant's wallet."
+  ],
+  "options_ru": [
+   "Они продали историю мистера Гранта газете.",
+   "Теперь люди поверят её отцу, а не мистеру Гранту.",
+   "Они забрали дневник мистера Гранта из музея.",
+   "Белла украла кошелёк мистера Гранта."
+  ],
+  "answer": 1,
+  "explain_ru": "Они не взяли ни золота, ни денег. Марта объясняет: «For fifteen years everybody believed his narrative. Now they will believe my father's»."
+ }
+]

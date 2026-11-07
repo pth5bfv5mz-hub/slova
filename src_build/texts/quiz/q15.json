@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Who was Nora Wells?",
+  "q_ru": "Кто такая Нора Уэллс?",
+  "options": [
+   "A young conductor on the night train.",
+   "A businesswoman who owed money.",
+   "A retired police detective going to see her sister.",
+   "A cook in the restaurant car."
+  ],
+  "options_ru": [
+   "Молодая проводница ночного поезда.",
+   "Бизнесвумен, которая была должна деньги.",
+   "Детектив полиции на пенсии, ехавшая к сестре.",
+   "Повар в вагоне-ресторане."
+  ],
+  "answer": 2,
+  "explain_ru": "Ей 62, она «had worked as a police detective for thirty years, and now she was retired» и ехала к сестре на море."
+ },
+ {
+  "q": "Nora says: \"Your ticket is valid for any seat.\" What does \"valid\" mean?",
+  "q_ru": "Нора говорит: «Your ticket is valid for any seat». Что значит «valid»?",
+  "options": [
+   "Very expensive.",
+   "Correct and possible to use.",
+   "Lost or broken.",
+   "Only for one day."
+  ],
+  "options_ru": [
+   "Очень дорогой.",
+   "Действительный, им можно пользоваться.",
+   "Потерянный или испорченный.",
+   "Только на один день."
+  ],
+  "answer": 1,
+  "explain_ru": "«Valid» — действительный. Нора имеет в виду, что разрешение не нужно: по билету можно сесть на любое место."
+ },
+ {
+  "q": "Why was Crane afraid of the two men?",
+  "q_ru": "Почему Крейн боялся двух мужчин?",
+  "options": [
+   "They were police officers.",
+   "They wanted to steal his hat.",
+   "They were his old business partners from the sea.",
+   "He owed them money that he could never pay."
+  ],
+  "options_ru": [
+   "Они были полицейскими.",
+   "Они хотели украсть его шляпу.",
+   "Это были его бывшие партнёры с побережья.",
+   "Он был должен им деньги, которые никогда не смог бы вернуть."
+  ],
+  "answer": 3,
+  "explain_ru": "Крейн рассказал, что занял деньги «from the wrong people» и теперь у него «a debt that I can never pay». Эти люди преследовали его по трём странам."
+ },
+ {
+  "q": "Which clue showed Nora that nobody had jumped from the train?",
+  "q_ru": "Какая улика показала Норе, что никто не выпрыгивал из поезда?",
+  "options": [
+   "Crane's ticket was still on the seat.",
+   "Most of the glass was on the floor, and there was sand.",
+   "The two men had blood on their hands.",
+   "The train had stopped for ten minutes."
+  ],
+  "options_ru": [
+   "Билет Крейна остался на сиденье.",
+   "Почти всё стекло лежало на полу, и там был песок.",
+   "У двух мужчин была кровь на руках.",
+   "Поезд останавливался на десять минут."
+  ],
+  "answer": 1,
+  "explain_ru": "Если окно разбить изнутри, стекло падает наружу, а тут оно лежало «in a neat little pile». А песок был из пожарного ведра — до моря ещё далеко."
+ },
+ {
+  "q": "Why did Crane make it look like he had jumped?",
+  "q_ru": "Зачем Крейн сделал вид, что выпрыгнул?",
+  "options": [
+   "So the men would think he was dead and stop looking for him.",
+   "So the train would stop and he could get off.",
+   "So Nora would feel sorry for him.",
+   "So the company would give him money."
+  ],
+  "options_ru": [
+   "Чтобы мужчины решили, что он мёртв, и перестали его искать.",
+   "Чтобы поезд остановился и он смог сойти.",
+   "Чтобы Нора его пожалела.",
+   "Чтобы компания дала ему денег."
+  ],
+  "answer": 0,
+  "explain_ru": "Нора объясняет: «You wanted the men to believe you were dead... Then they would stop looking for you, and your debt would die with you»."
+ },
+ {
+  "q": "What did Nora decide to do at the end?",
+  "q_ru": "Что решила сделать Нора в конце?",
+  "options": [
+   "She gave Crane to the two men.",
+   "She told the police where Crane was hiding.",
+   "She sent the police after the two men and let Crane go.",
+   "She asked Crane to pay his debt."
+  ],
+  "options_ru": [
+   "Она отдала Крейна тем двум мужчинам.",
+   "Она сказала полиции, где прячется Крейн.",
+   "Она направила полицию на двух мужчин и отпустила Крейна.",
+   "Она попросила Крейна выплатить долг."
+  ],
+  "answer": 2,
+  "explain_ru": "Нора предложила сказать полиции, что пассажир пропал после спора с двумя мужчинами. Пока полиция занималась ими, «a cook may leave the train». Крейн ушёл к морю, а Нора оставила себе шляпу."
+ }
+]

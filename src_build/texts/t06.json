@@ -1,0 +1,1298 @@
+{
+ "id": 6,
+ "title_en": "The Night Guard",
+ "title_ru": "Ночной сторож",
+ "genre": "Ужасы",
+ "summary_ru": "Молодой человек соглашается охранять ночью заброшенную больницу на холме, но старый сторож даёт ему три странных правила.",
+ "paragraphs": [
+  {
+   "en": "The last bus to the hill left the town at nine o'clock, and Mark was the only passenger. Rain was hitting the windows, and the driver kept looking at him in the mirror. “Are you going to the old hospital?” he asked at last.",
+   "ru": "Последний автобус на холм уходил из города в девять часов, и Марк был единственным пассажиром. Дождь бил в окна, а водитель всё время смотрел на него в зеркало. «Вы едете в старую больницу?» — наконец спросил он.",
+   "s": [
+    [
+     "The last bus to the hill left the town at nine o'clock, and Mark was the only passenger.",
+     "Последний автобус на холм уходил из города в девять часов, и Марк был единственным пассажиром."
+    ],
+    [
+     "Rain was hitting the windows, and the driver kept looking at him in the mirror.",
+     "Дождь бил в окна, а водитель всё время смотрел на него в зеркало."
+    ],
+    [
+     "“Are you going to the old hospital?” he asked at last.",
+     "«Вы едете в старую больницу?» — наконец спросил он."
+    ]
+   ]
+  },
+  {
+   "en": "“Yes,” Mark said with more confidence than he really felt. “I'm the new night guard.”",
+   "ru": "«Да, — ответил Марк с большей уверенностью, чем чувствовал на самом деле. — Я новый ночной сторож».",
+   "s": [
+    [
+     "“Yes,” Mark said with more confidence than he really felt.",
+     "«Да», — ответил Марк с большей уверенностью, чем чувствовал на самом деле."
+    ],
+    [
+     "“I'm the new night guard.”",
+     "«Я новый ночной сторож»."
+    ]
+   ]
+  },
+  {
+   "en": "The driver did not say anything for a long time. Then he stopped the bus at the gate and opened the door. “Good luck, son,” he said. “Most guards don't stay more than one night.”",
+   "ru": "Водитель долго молчал. Потом он остановил автобус у ворот и открыл дверь. «Удачи, сынок, — сказал он. — Большинство сторожей не остаются больше чем на одну ночь».",
+   "s": [
+    [
+     "The driver did not say anything for a long time.",
+     "Водитель долго молчал."
+    ],
+    [
+     "Then he stopped the bus at the gate and opened the door.",
+     "Потом он остановил автобус у ворот и открыл дверь."
+    ],
+    [
+     "“Good luck, son,” he said.",
+     "«Удачи, сынок», — сказал он."
+    ],
+    [
+     "“Most guards don't stay more than one night.”",
+     "«Большинство сторожей не остаются больше чем на одну ночь»."
+    ]
+   ]
+  },
+  {
+   "en": "At first sight, Saint Agnes Hospital looked like a perfect place for a horror film. It was a long grey building on top of a rock, with dark windows and a broken clock above the door. It had been closed for twenty years. Now the city wanted to restore it and turn it into a museum, and somebody had to watch it at night. The pay was good, and Mark needed money.",
+   "ru": "С первого взгляда больница Святой Агнессы казалась идеальным местом для фильма ужасов. Это было длинное серое здание на вершине скалы, с тёмными окнами и сломанными часами над дверью. Она была закрыта двадцать лет. Теперь город хотел восстановить её и превратить в музей, и кто-то должен был охранять её по ночам. Платили хорошо, а Марку нужны были деньги.",
+   "s": [
+    [
+     "At first sight, Saint Agnes Hospital looked like a perfect place for a horror film.",
+     "С первого взгляда больница Святой Агнессы казалась идеальным местом для фильма ужасов."
+    ],
+    [
+     "It was a long grey building on top of a rock, with dark windows and a broken clock above the door.",
+     "Это было длинное серое здание на вершине скалы, с тёмными окнами и сломанными часами над дверью."
+    ],
+    [
+     "It had been closed for twenty years.",
+     "Она была закрыта двадцать лет."
+    ],
+    [
+     "Now the city wanted to restore it and turn it into a museum, and somebody had to watch it at night.",
+     "Теперь город хотел восстановить её и превратить в музей, и кто-то должен был охранять её по ночам."
+    ],
+    [
+     "The pay was good, and Mark needed money.",
+     "Платили хорошо, а Марку нужны были деньги."
+    ]
+   ]
+  },
+  {
+   "en": "An old man was waiting for him at the entrance. He was tall and thin, with a weak voice and very pale hands. “I'm Henry,” he said. “I worked here for forty years. Come in. It is time I showed you everything.”",
+   "ru": "У входа его ждал старик. Он был высокий и худой, со слабым голосом и очень бледными руками. «Я Генри, — сказал он. — Я проработал здесь сорок лет. Заходи. Пора мне всё тебе показать».",
+   "s": [
+    [
+     "An old man was waiting for him at the entrance.",
+     "У входа его ждал старик."
+    ],
+    [
+     "He was tall and thin, with a weak voice and very pale hands.",
+     "Он был высокий и худой, со слабым голосом и очень бледными руками."
+    ],
+    [
+     "“I'm Henry,” he said.",
+     "«Я Генри», — сказал он."
+    ],
+    [
+     "“I worked here for forty years.",
+     "«Я проработал здесь сорок лет."
+    ],
+    [
+     "Come in.",
+     "Заходи."
+    ],
+    [
+     "It is time I showed you everything.”",
+     "Пора мне всё тебе показать»."
+    ]
+   ]
+  },
+  {
+   "en": "Henry gave him a heavy bunch of keys, a torch and an old hammer. “What is the hammer for?” Mark asked. “The doors here are old,” Henry answered. “Sometimes they get stuck. And sometimes...” He did not finish.",
+   "ru": "Генри дал ему тяжёлую связку ключей, фонарик и старый молоток. «А молоток зачем?» — спросил Марк. «Двери здесь старые, — ответил Генри. — Иногда их заедает. А иногда...» Он не договорил.",
+   "s": [
+    [
+     "Henry gave him a heavy bunch of keys, a torch and an old hammer.",
+     "Генри дал ему тяжёлую связку ключей, фонарик и старый молоток."
+    ],
+    [
+     "“What is the hammer for?” Mark asked.",
+     "«А молоток зачем?» — спросил Марк."
+    ],
+    [
+     "“The doors here are old,” Henry answered.",
+     "«Двери здесь старые», — ответил Генри."
+    ],
+    [
+     "“Sometimes they get stuck.",
+     "«Иногда их заедает."
+    ],
+    [
+     "And sometimes...”",
+     "А иногда...»"
+    ],
+    [
+     "He did not finish.",
+     "Он не договорил."
+    ]
+   ]
+  },
+  {
+   "en": "They walked along endlessly long corridors. Henry showed him the empty wards, where rusty beds still lay in rows, and the doctors' rooms, where old papers lay on the floor. Mark collected a few of them. They were lists of patients, ordinary citizens of the town, with names, ages and dates. Next to many of the names somebody had drawn a small cross.",
+   "ru": "Они шли по бесконечно длинным коридорам. Генри показал ему пустые палаты, где рядами всё ещё стояли ржавые кровати, и кабинеты врачей, где на полу лежали старые бумаги. Марк собрал несколько из них. Это были списки пациентов, обычных граждан города, с именами, возрастом и датами. Рядом со многими именами кто-то нарисовал маленький крестик.",
+   "s": [
+    [
+     "They walked along endlessly long corridors.",
+     "Они шли по бесконечно длинным коридорам."
+    ],
+    [
+     "Henry showed him the empty wards, where rusty beds still lay in rows, and the doctors' rooms, where old papers lay on the floor.",
+     "Генри показал ему пустые палаты, где рядами всё ещё стояли ржавые кровати, и кабинеты врачей, где на полу лежали старые бумаги."
+    ],
+    [
+     "Mark collected a few of them.",
+     "Марк собрал несколько из них."
+    ],
+    [
+     "They were lists of patients, ordinary citizens of the town, with names, ages and dates.",
+     "Это были списки пациентов, обычных граждан города, с именами, возрастом и датами."
+    ],
+    [
+     "Next to many of the names somebody had drawn a small cross.",
+     "Рядом со многими именами кто-то нарисовал маленький крестик."
+    ]
+   ]
+  },
+  {
+   "en": "“There are only three rules,” Henry said when they came back to the entrance. “First, don't sleep. Second, if you hear a bell, don't answer it. Third, never go to the floor below this one. The basement is closed. There is nothing there for you.”",
+   "ru": "«Есть только три правила, — сказал Генри, когда они вернулись ко входу. — Первое: не спи. Второе: если услышишь звонок, не отвечай на него. Третье: никогда не спускайся на этаж ниже этого. Подвал закрыт. Тебе там делать нечего».",
+   "s": [
+    [
+     "“There are only three rules,” Henry said when they came back to the entrance.",
+     "«Есть только три правила», — сказал Генри, когда они вернулись ко входу."
+    ],
+    [
+     "“First, don't sleep.",
+     "«Первое: не спи."
+    ],
+    [
+     "Second, if you hear a bell, don't answer it.",
+     "Второе: если услышишь звонок, не отвечай на него."
+    ],
+    [
+     "Third, never go to the floor below this one.",
+     "Третье: никогда не спускайся на этаж ниже этого."
+    ],
+    [
+     "The basement is closed.",
+     "Подвал закрыт."
+    ],
+    [
+     "There is nothing there for you.”",
+     "Тебе там делать нечего»."
+    ]
+   ]
+  },
+  {
+   "en": "“What's in the basement?” Mark asked. Henry looked at him for a long moment. “The old operating rooms,” he said quietly. “And the morgue.” Then he put on his coat and walked out into the rain. Mark expected to hear a car, but there was no sound at all except the wind.",
+   "ru": "«А что в подвале?» — спросил Марк. Генри долго смотрел на него. «Старые операционные, — тихо сказал он. — И морг». Потом он надел пальто и вышел под дождь. Марк ожидал услышать машину, но не было вообще никаких звуков, кроме ветра.",
+   "s": [
+    [
+     "“What's in the basement?” Mark asked.",
+     "«А что в подвале?» — спросил Марк."
+    ],
+    [
+     "Henry looked at him for a long moment.",
+     "Генри долго смотрел на него."
+    ],
+    [
+     "“The old operating rooms,” he said quietly.",
+     "«Старые операционные», — тихо сказал он."
+    ],
+    [
+     "“And the morgue.”",
+     "«И морг»."
+    ],
+    [
+     "Then he put on his coat and walked out into the rain.",
+     "Потом он надел пальто и вышел под дождь."
+    ],
+    [
+     "Mark expected to hear a car, but there was no sound at all except the wind.",
+     "Марк ожидал услышать машину, но не было вообще никаких звуков, кроме ветра."
+    ]
+   ]
+  },
+  {
+   "en": "For the first two hours everything was fine. Mark sat at the desk near the entrance with a bright lamp, a flask of coffee and a book. He walked around the building every hour, as Henry had told him. Slowly his confidence began to increase. It was just an old building, he told himself. Old buildings make noises. That's all.",
+   "ru": "Первые два часа всё было хорошо. Марк сидел за столом у входа с яркой лампой, термосом кофе и книгой. Каждый час он обходил здание, как велел Генри. Постепенно его уверенность начала расти. Это просто старое здание, говорил он себе. Старые здания издают звуки. Вот и всё.",
+   "s": [
+    [
+     "For the first two hours everything was fine.",
+     "Первые два часа всё было хорошо."
+    ],
+    [
+     "Mark sat at the desk near the entrance with a bright lamp, a flask of coffee and a book.",
+     "Марк сидел за столом у входа с яркой лампой, термосом кофе и книгой."
+    ],
+    [
+     "He walked around the building every hour, as Henry had told him.",
+     "Каждый час он обходил здание, как велел Генри."
+    ],
+    [
+     "Slowly his confidence began to increase.",
+     "Постепенно его уверенность начала расти."
+    ],
+    [
+     "It was just an old building, he told himself.",
+     "Это просто старое здание, говорил он себе."
+    ],
+    [
+     "Old buildings make noises.",
+     "Старые здания издают звуки."
+    ],
+    [
+     "That's all.",
+     "Вот и всё."
+    ]
+   ]
+  },
+  {
+   "en": "At midnight he went up to the third floor. From the window of an old ward he could see the lights of the town far below, small and warm. He thought about his flat, his bed, and his little sister, who always laughed at his fears. “One night,” he said to the window. “Only one night, and then I will have money for the whole month.” Behind him, in the dark corridor, a door closed very quietly.",
+   "ru": "В полночь он поднялся на третий этаж. Из окна старой палаты были видны огни города далеко внизу, маленькие и тёплые. Он думал о своей квартире, о своей кровати и о младшей сестре, которая всегда смеялась над его страхами. «Одна ночь, — сказал он окну. — Всего одна ночь, и у меня будут деньги на целый месяц». Позади него, в тёмном коридоре, очень тихо закрылась дверь.",
+   "s": [
+    [
+     "At midnight he went up to the third floor.",
+     "В полночь он поднялся на третий этаж."
+    ],
+    [
+     "From the window of an old ward he could see the lights of the town far below, small and warm.",
+     "Из окна старой палаты были видны огни города далеко внизу, маленькие и тёплые."
+    ],
+    [
+     "He thought about his flat, his bed, and his little sister, who always laughed at his fears.",
+     "Он думал о своей квартире, о своей кровати и о младшей сестре, которая всегда смеялась над его страхами."
+    ],
+    [
+     "“One night,” he said to the window.",
+     "«Одна ночь», — сказал он окну."
+    ],
+    [
+     "“Only one night, and then I will have money for the whole month.”",
+     "«Всего одна ночь, и у меня будут деньги на целый месяц»."
+    ],
+    [
+     "Behind him, in the dark corridor, a door closed very quietly.",
+     "Позади него, в тёмном коридоре, очень тихо закрылась дверь."
+    ]
+   ]
+  },
+  {
+   "en": "He turned quickly, but the corridor was empty. “Hello?” he said. Nobody answered. He told himself that it was the wind, and he went back down to his desk, a little faster than he had come up.",
+   "ru": "Он быстро обернулся, но коридор был пуст. «Эй?» — сказал он. Никто не ответил. Он сказал себе, что это ветер, и вернулся вниз к своему столу — чуть быстрее, чем поднимался.",
+   "s": [
+    [
+     "He turned quickly, but the corridor was empty.",
+     "Он быстро обернулся, но коридор был пуст."
+    ],
+    [
+     "“Hello?” he said.",
+     "«Эй?» — сказал он."
+    ],
+    [
+     "Nobody answered.",
+     "Никто не ответил."
+    ],
+    [
+     "He told himself that it was the wind, and he went back down to his desk, a little faster than he had come up.",
+     "Он сказал себе, что это ветер, и вернулся вниз к своему столу — чуть быстрее, чем поднимался."
+    ]
+   ]
+  },
+  {
+   "en": "At one o'clock the lamp went out. The electricity in the whole building was gone. Mark sat in complete darkness, and his heart was beating fast. He switched on his torch and waited. After a minute the power was restored, and the lamp shone again. Mark laughed nervously. “Perfect,” he said aloud. “Just perfect.”",
+   "ru": "В час ночи лампа погасла. Электричество пропало во всём здании. Марк сидел в полной темноте, и сердце его быстро билось. Он включил фонарик и стал ждать. Через минуту электричество восстановилось, и лампа снова засветилась. Марк нервно засмеялся. «Идеально, — сказал он вслух. — Просто идеально».",
+   "s": [
+    [
+     "At one o'clock the lamp went out.",
+     "В час ночи лампа погасла."
+    ],
+    [
+     "The electricity in the whole building was gone.",
+     "Электричество пропало во всём здании."
+    ],
+    [
+     "Mark sat in complete darkness, and his heart was beating fast.",
+     "Марк сидел в полной темноте, и сердце его быстро билось."
+    ],
+    [
+     "He switched on his torch and waited.",
+     "Он включил фонарик и стал ждать."
+    ],
+    [
+     "After a minute the power was restored, and the lamp shone again.",
+     "Через минуту электричество восстановилось, и лампа снова засветилась."
+    ],
+    [
+     "Mark laughed nervously.",
+     "Марк нервно засмеялся."
+    ],
+    [
+     "“Perfect,” he said aloud.",
+     "«Идеально», — сказал он вслух."
+    ],
+    [
+     "“Just perfect.”",
+     "«Просто идеально»."
+    ]
+   ]
+  },
+  {
+   "en": "Then he heard the bell. It was a thin, weak sound, like the bells patients used to call nurses. It came from somewhere below him. Ring. Ring. Ring. Mark remembered the second rule and did not move. The bell rang endlessly, for ten minutes, twenty, thirty. Then it stopped, and the silence was even more horrible.",
+   "ru": "Потом он услышал звонок. Это был тонкий, слабый звук, как у колокольчиков, которыми пациенты вызывали медсестёр. Он шёл откуда-то снизу. Дзинь. Дзинь. Дзинь. Марк вспомнил второе правило и не двигался. Звонок звенел бесконечно: десять минут, двадцать, тридцать. Потом он стих, и тишина была ещё ужаснее.",
+   "s": [
+    [
+     "Then he heard the bell.",
+     "Потом он услышал звонок."
+    ],
+    [
+     "It was a thin, weak sound, like the bells patients used to call nurses.",
+     "Это был тонкий, слабый звук, как у колокольчиков, которыми пациенты вызывали медсестёр."
+    ],
+    [
+     "It came from somewhere below him.",
+     "Он шёл откуда-то снизу."
+    ],
+    [
+     "Ring.",
+     "Дзинь."
+    ],
+    [
+     "Ring.",
+     "Дзинь."
+    ],
+    [
+     "Ring.",
+     "Дзинь."
+    ],
+    [
+     "Mark remembered the second rule and did not move.",
+     "Марк вспомнил второе правило и не двигался."
+    ],
+    [
+     "The bell rang endlessly, for ten minutes, twenty, thirty.",
+     "Звонок звенел бесконечно: десять минут, двадцать, тридцать."
+    ],
+    [
+     "Then it stopped, and the silence was even more horrible.",
+     "Потом он стих, и тишина была ещё ужаснее."
+    ]
+   ]
+  },
+  {
+   "en": "And then a voice called his name. “Mark... Mark, please, help me...” It was a woman's voice, and it was coming from the basement.",
+   "ru": "А потом голос позвал его по имени: «Марк... Марк, пожалуйста, помоги мне...» Это был женский голос, и он доносился из подвала.",
+   "s": [
+    [
+     "And then a voice called his name.",
+     "А потом голос позвал его по имени."
+    ],
+    [
+     "“Mark...",
+     "«Марк..."
+    ],
+    [
+     "Mark, please, help me...”",
+     "Марк, пожалуйста, помоги мне...»"
+    ],
+    [
+     "It was a woman's voice, and it was coming from the basement.",
+     "Это был женский голос, и он доносился из подвала."
+    ]
+   ]
+  },
+  {
+   "en": "Mark knew it was a bad idea. He knew it as well as he knew his own name. But the voice sounded so tired, so frightened, so similar to his mother's voice, that he could not stay in his chair. He took the hammer and the torch and went to the stairs.",
+   "ru": "Марк знал, что это плохая идея. Он знал это так же хорошо, как своё имя. Но голос звучал так устало, так испуганно, так похоже на голос его матери, что он не смог усидеть на стуле. Он взял молоток и фонарик и пошёл к лестнице.",
+   "s": [
+    [
+     "Mark knew it was a bad idea.",
+     "Марк знал, что это плохая идея."
+    ],
+    [
+     "He knew it as well as he knew his own name.",
+     "Он знал это так же хорошо, как своё имя."
+    ],
+    [
+     "But the voice sounded so tired, so frightened, so similar to his mother's voice, that he could not stay in his chair.",
+     "Но голос звучал так устало, так испуганно, так похоже на голос его матери, что он не смог усидеть на стуле."
+    ],
+    [
+     "He took the hammer and the torch and went to the stairs.",
+     "Он взял молоток и фонарик и пошёл к лестнице."
+    ]
+   ]
+  },
+  {
+   "en": "The door to the basement was locked. Mark tried every key, and the last one opened it. Cold air came up from the darkness, with a smell of earth and medicine. He went down slowly. On the wall below the stairs somebody had painted a snake around a stick, the old sign of medicine. In the light of the torch the snake seemed to move.",
+   "ru": "Дверь в подвал была заперта. Марк перепробовал все ключи, и последний открыл её. Из темноты поднялся холодный воздух с запахом земли и лекарств. Он медленно спустился. На стене под лестницей кто-то нарисовал змею, обвившую палку, — старый знак медицины. В свете фонарика змея, казалось, двигалась.",
+   "s": [
+    [
+     "The door to the basement was locked.",
+     "Дверь в подвал была заперта."
+    ],
+    [
+     "Mark tried every key, and the last one opened it.",
+     "Марк перепробовал все ключи, и последний открыл её."
+    ],
+    [
+     "Cold air came up from the darkness, with a smell of earth and medicine.",
+     "Из темноты поднялся холодный воздух с запахом земли и лекарств."
+    ],
+    [
+     "He went down slowly.",
+     "Он медленно спустился."
+    ],
+    [
+     "On the wall below the stairs somebody had painted a snake around a stick, the old sign of medicine.",
+     "На стене под лестницей кто-то нарисовал змею, обвившую палку, — старый знак медицины."
+    ],
+    [
+     "In the light of the torch the snake seemed to move.",
+     "В свете фонарика змея, казалось, двигалась."
+    ]
+   ]
+  },
+  {
+   "en": "The basement corridor was long and narrow. At the end of it there was a metal door, and behind the door something was moving. He could hear a sound: something heavy was being dragged across the floor, slowly, again and again.",
+   "ru": "Коридор подвала был длинным и узким. В конце его была металлическая дверь, и за дверью что-то двигалось. Он слышал звук: что-то тяжёлое тащили по полу, медленно, снова и снова.",
+   "s": [
+    [
+     "The basement corridor was long and narrow.",
+     "Коридор подвала был длинным и узким."
+    ],
+    [
+     "At the end of it there was a metal door, and behind the door something was moving.",
+     "В конце его была металлическая дверь, и за дверью что-то двигалось."
+    ],
+    [
+     "He could hear a sound: something heavy was being dragged across the floor, slowly, again and again.",
+     "Он слышал звук: что-то тяжёлое тащили по полу, медленно, снова и снова."
+    ]
+   ]
+  },
+  {
+   "en": "Mark stood still and listened. His torch was getting weak, and its light was turning yellow. He thought about the bus, about the town, about his warm bed. He could still turn around. He could go back up the stairs, sit at his desk and wait for the morning. Nobody would ever know. But then the voice called again, quietly and sadly, from behind the metal door.",
+   "ru": "Марк замер и прислушался. Фонарик слабел, и его свет становился жёлтым. Он подумал об автобусе, о городе, о своей тёплой кровати. Он ещё мог повернуть назад. Мог подняться по лестнице, сесть за стол и ждать утра. Никто бы никогда не узнал. Но тут голос позвал снова, тихо и печально, из-за металлической двери.",
+   "s": [
+    [
+     "Mark stood still and listened.",
+     "Марк замер и прислушался."
+    ],
+    [
+     "His torch was getting weak, and its light was turning yellow.",
+     "Фонарик слабел, и его свет становился жёлтым."
+    ],
+    [
+     "He thought about the bus, about the town, about his warm bed.",
+     "Он подумал об автобусе, о городе, о своей тёплой кровати."
+    ],
+    [
+     "He could still turn around.",
+     "Он ещё мог повернуть назад."
+    ],
+    [
+     "He could go back up the stairs, sit at his desk and wait for the morning.",
+     "Мог подняться по лестнице, сесть за стол и ждать утра."
+    ],
+    [
+     "Nobody would ever know.",
+     "Никто бы никогда не узнал."
+    ],
+    [
+     "But then the voice called again, quietly and sadly, from behind the metal door.",
+     "Но тут голос позвал снова, тихо и печально, из-за металлической двери."
+    ]
+   ]
+  },
+  {
+   "en": "“Who's there?” Mark shouted. His voice was not as strong as he wanted. “This is private property. I'm calling the police!”",
+   "ru": "«Кто там?» — крикнул Марк. Голос его звучал не так твёрдо, как ему хотелось. «Это частная собственность. Я звоню в полицию!»",
+   "s": [
+    [
+     "“Who's there?” Mark shouted.",
+     "«Кто там?» — крикнул Марк."
+    ],
+    [
+     "His voice was not as strong as he wanted.",
+     "Голос его звучал не так твёрдо, как ему хотелось."
+    ],
+    [
+     "“This is private property.",
+     "«Это частная собственность."
+    ],
+    [
+     "I'm calling the police!”",
+     "Я звоню в полицию!»"
+    ]
+   ]
+  },
+  {
+   "en": "The dragging stopped. Then the voice said, very close to the door: “Don't be rude, young man. Nobody has visited me for such a long time.”",
+   "ru": "Волочение прекратилось. Потом голос сказал совсем близко от двери: «Не груби, молодой человек. Меня так давно никто не навещал».",
+   "s": [
+    [
+     "The dragging stopped.",
+     "Волочение прекратилось."
+    ],
+    [
+     "Then the voice said, very close to the door: “Don't be rude, young man.",
+     "Потом голос сказал совсем близко от двери: «Не груби, молодой человек."
+    ],
+    [
+     "Nobody has visited me for such a long time.”",
+     "Меня так давно никто не навещал»."
+    ]
+   ]
+  },
+  {
+   "en": "Mark lifted the hammer. He could not rely on his legs any more; they were shaking. Slowly, the metal door began to open by itself. Inside, in the bright light of his torch, he saw a room full of beds. On every bed lay a figure under a white sheet. And in the middle of the room stood an old woman in a nurse's uniform. She was smiling at him with real joy. “At last,” she said. “A new patient. It is time for your medicine.”",
+   "ru": "Марк поднял молоток. Он больше не мог полагаться на свои ноги: они дрожали. Медленно металлическая дверь начала открываться сама. Внутри, в ярком свете фонарика, он увидел комнату, полную кроватей. На каждой кровати под белой простынёй лежала фигура. А посреди комнаты стояла старая женщина в форме медсестры. Она улыбалась ему с настоящей радостью. «Наконец-то, — сказала она. — Новый пациент. Пора принимать лекарство».",
+   "s": [
+    [
+     "Mark lifted the hammer.",
+     "Марк поднял молоток."
+    ],
+    [
+     "He could not rely on his legs any more; they were shaking.",
+     "Он больше не мог полагаться на свои ноги: они дрожали."
+    ],
+    [
+     "Slowly, the metal door began to open by itself.",
+     "Медленно металлическая дверь начала открываться сама."
+    ],
+    [
+     "Inside, in the bright light of his torch, he saw a room full of beds.",
+     "Внутри, в ярком свете фонарика, он увидел комнату, полную кроватей."
+    ],
+    [
+     "On every bed lay a figure under a white sheet.",
+     "На каждой кровати под белой простынёй лежала фигура."
+    ],
+    [
+     "And in the middle of the room stood an old woman in a nurse's uniform.",
+     "А посреди комнаты стояла старая женщина в форме медсестры."
+    ],
+    [
+     "She was smiling at him with real joy.",
+     "Она улыбалась ему с настоящей радостью."
+    ],
+    [
+     "“At last,” she said.",
+     "«Наконец-то», — сказала она."
+    ],
+    [
+     "“A new patient.",
+     "«Новый пациент."
+    ],
+    [
+     "It is time for your medicine.”",
+     "Пора принимать лекарство»."
+    ]
+   ]
+  },
+  {
+   "en": "Mark ran. He did not remember the stairs or the corridors. He only remembered the cold hands that touched his shoulders, and the bell that started ringing again behind him. He fell near the entrance, hit his head on the floor, and everything went black.",
+   "ru": "Марк побежал. Он не помнил ни лестницы, ни коридоров. Он помнил только холодные руки, которые касались его плеч, и звонок, который снова зазвенел у него за спиной. Он упал у входа, ударился головой об пол, и всё почернело.",
+   "s": [
+    [
+     "Mark ran.",
+     "Марк побежал."
+    ],
+    [
+     "He did not remember the stairs or the corridors.",
+     "Он не помнил ни лестницы, ни коридоров."
+    ],
+    [
+     "He only remembered the cold hands that touched his shoulders, and the bell that started ringing again behind him.",
+     "Он помнил только холодные руки, которые касались его плеч, и звонок, который снова зазвенел у него за спиной."
+    ],
+    [
+     "He fell near the entrance, hit his head on the floor, and everything went black.",
+     "Он упал у входа, ударился головой об пол, и всё почернело."
+    ]
+   ]
+  },
+  {
+   "en": "When he woke up, it was morning. Sunlight was coming through the dirty windows. A man in a suit was standing over him. It was Mr Collins, the director of the museum project, whom Mark had met at the interview.",
+   "ru": "Когда он проснулся, было утро. Сквозь грязные окна проникал солнечный свет. Над ним стоял мужчина в костюме. Это был мистер Коллинз, директор проекта музея, с которым Марк познакомился на собеседовании.",
+   "s": [
+    [
+     "When he woke up, it was morning.",
+     "Когда он проснулся, было утро."
+    ],
+    [
+     "Sunlight was coming through the dirty windows.",
+     "Сквозь грязные окна проникал солнечный свет."
+    ],
+    [
+     "A man in a suit was standing over him.",
+     "Над ним стоял мужчина в костюме."
+    ],
+    [
+     "It was Mr Collins, the director of the museum project, whom Mark had met at the interview.",
+     "Это был мистер Коллинз, директор проекта музея, с которым Марк познакомился на собеседовании."
+    ]
+   ]
+  },
+  {
+   "en": "“Are you all right?” Collins asked. “You look horrible. What happened? And how did you get in? I was supposed to meet you here last night with the keys, but my car broke down. I called you, but you didn't answer.”",
+   "ru": "«Вы в порядке? — спросил Коллинз. — Вы ужасно выглядите. Что случилось? И как вы вошли? Я должен был встретить вас здесь вчера вечером с ключами, но у меня сломалась машина. Я звонил вам, но вы не ответили».",
+   "s": [
+    [
+     "“Are you all right?” Collins asked.",
+     "«Вы в порядке?» — спросил Коллинз."
+    ],
+    [
+     "“You look horrible.",
+     "«Вы ужасно выглядите."
+    ],
+    [
+     "What happened?",
+     "Что случилось?"
+    ],
+    [
+     "And how did you get in?",
+     "И как вы вошли?"
+    ],
+    [
+     "I was supposed to meet you here last night with the keys, but my car broke down.",
+     "Я должен был встретить вас здесь вчера вечером с ключами, но у меня сломалась машина."
+    ],
+    [
+     "I called you, but you didn't answer.”",
+     "Я звонил вам, но вы не ответили»."
+    ]
+   ]
+  },
+  {
+   "en": "Mark sat up slowly. “Henry let me in,” he said. “The old guard. He gave me the keys.”",
+   "ru": "Марк медленно сел. «Меня впустил Генри, — сказал он. — Старый сторож. Он дал мне ключи».",
+   "s": [
+    [
+     "Mark sat up slowly.",
+     "Марк медленно сел."
+    ],
+    [
+     "“Henry let me in,” he said.",
+     "«Меня впустил Генри», — сказал он."
+    ],
+    [
+     "“The old guard.",
+     "«Старый сторож."
+    ],
+    [
+     "He gave me the keys.”",
+     "Он дал мне ключи»."
+    ]
+   ]
+  },
+  {
+   "en": "Collins's face became white. “Henry?” he repeated. “Henry Walsh? He was the guard here when the hospital was still open. He died in the fire in the basement, together with the night nurse and all her patients. That was twenty years ago. Certainly you are joking.”",
+   "ru": "Лицо Коллинза побелело. «Генри? — повторил он. — Генри Уолш? Он был здесь сторожем, когда больница ещё работала. Он погиб при пожаре в подвале вместе с ночной медсестрой и всеми её пациентами. Это было двадцать лет назад. Вы, конечно, шутите».",
+   "s": [
+    [
+     "Collins's face became white.",
+     "Лицо Коллинза побелело."
+    ],
+    [
+     "“Henry?” he repeated.",
+     "«Генри?» — повторил он."
+    ],
+    [
+     "“Henry Walsh?",
+     "«Генри Уолш?"
+    ],
+    [
+     "He was the guard here when the hospital was still open.",
+     "Он был здесь сторожем, когда больница ещё работала."
+    ],
+    [
+     "He died in the fire in the basement, together with the night nurse and all her patients.",
+     "Он погиб при пожаре в подвале вместе с ночной медсестрой и всеми её пациентами."
+    ],
+    [
+     "That was twenty years ago.",
+     "Это было двадцать лет назад."
+    ],
+    [
+     "Certainly you are joking.”",
+     "Вы, конечно, шутите»."
+    ]
+   ]
+  },
+  {
+   "en": "Mark did not answer. He looked down at his hands. He was still holding the old hammer, and there was a name cut into its wooden handle: H. WALSH.",
+   "ru": "Марк не ответил. Он посмотрел на свои руки. Он всё ещё держал старый молоток, и на его деревянной ручке было вырезано имя: Г. УОЛШ.",
+   "s": [
+    [
+     "Mark did not answer.",
+     "Марк не ответил."
+    ],
+    [
+     "He looked down at his hands.",
+     "Он посмотрел на свои руки."
+    ],
+    [
+     "He was still holding the old hammer, and there was a name cut into its wooden handle: H.",
+     "Он всё ещё держал старый молоток, и на его деревянной ручке было вырезано имя: Г."
+    ],
+    [
+     "WALSH.",
+     "УОЛШ."
+    ]
+   ]
+  },
+  {
+   "en": "That afternoon, before he took the bus back to town, Mark walked into the small garden behind the hospital. In the tall grass he found the grave. The stone was old and grey, but somebody had put fresh flowers on it. Mark left the hammer on a rock next to it and did not look back.",
+   "ru": "В тот день, прежде чем сесть на автобус обратно в город, Марк зашёл в маленький сад за больницей. В высокой траве он нашёл могилу. Камень был старым и серым, но кто-то положил на него свежие цветы. Марк оставил молоток на камне рядом с ней и не оглянулся.",
+   "s": [
+    [
+     "That afternoon, before he took the bus back to town, Mark walked into the small garden behind the hospital.",
+     "В тот день, прежде чем сесть на автобус обратно в город, Марк зашёл в маленький сад за больницей."
+    ],
+    [
+     "In the tall grass he found the grave.",
+     "В высокой траве он нашёл могилу."
+    ],
+    [
+     "The stone was old and grey, but somebody had put fresh flowers on it.",
+     "Камень был старым и серым, но кто-то положил на него свежие цветы."
+    ],
+    [
+     "Mark left the hammer on a rock next to it and did not look back.",
+     "Марк оставил молоток на камне рядом с ней и не оглянулся."
+    ]
+   ]
+  },
+  {
+   "en": "He never went back. But sometimes, late at night, he has the strange impression that somewhere below his floor a small bell is ringing, and that a patient voice is waiting for him to answer.",
+   "ru": "Он больше никогда туда не возвращался. Но иногда, поздно ночью, у него возникает странное впечатление, что где-то этажом ниже звенит маленький колокольчик и терпеливый голос ждёт, когда он ответит.",
+   "s": [
+    [
+     "He never went back.",
+     "Он больше никогда туда не возвращался."
+    ],
+    [
+     "But sometimes, late at night, he has the strange impression that somewhere below his floor a small bell is ringing, and that a patient voice is waiting for him to answer.",
+     "Но иногда, поздно ночью, у него возникает странное впечатление, что где-то этажом ниже звенит маленький колокольчик и терпеливый голос ждёт, когда он ответит."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "above": "над",
+  "across": "по, через",
+  "after": "через, после",
+  "afternoon": "день (после полудня)",
+  "again": "снова",
+  "ages": "возраст",
+  "agnes": "Агнесса (имя)",
+  "ago": "назад",
+  "air": "воздух",
+  "all": "все, весь; вообще",
+  "along": "вдоль, по",
+  "aloud": "вслух",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "answer": "отвечать",
+  "answered": "ответил",
+  "any": "(не) больше",
+  "anything": "что-нибудь",
+  "are": "есть; (глагол-связка)",
+  "around": "вокруг",
+  "as": "как; так же",
+  "asked": "спросил",
+  "at": "в, у, за",
+  "back": "обратно, назад",
+  "bad": "плохой",
+  "basement": "подвал",
+  "be": "быть",
+  "beating": "биться",
+  "became": "стало",
+  "bed": "кровать",
+  "beds": "кровати",
+  "been": "был (была)",
+  "before": "прежде чем",
+  "began": "начал",
+  "behind": "за, позади",
+  "being": "(страд. залог)",
+  "bell": "звонок, колокольчик",
+  "bells": "колокольчики",
+  "below": "ниже, под",
+  "black": "чёрный",
+  "book": "книга",
+  "bright": "яркий",
+  "broke": "сломалась",
+  "broken": "сломанный",
+  "building": "здание",
+  "buildings": "здания",
+  "bunch": "связка",
+  "bus": "автобус",
+  "but": "но",
+  "by": "(само)",
+  "call": "вызывать",
+  "called": "позвал; звонил",
+  "calling": "звоню",
+  "came": "пришёл, вернулся",
+  "car": "машина",
+  "certainly": "конечно",
+  "chair": "стул",
+  "citizens": "граждане",
+  "city": "город",
+  "clock": "часы",
+  "close": "близко",
+  "closed": "закрыт",
+  "coat": "пальто",
+  "coffee": "кофе",
+  "cold": "холодный",
+  "collected": "собрал",
+  "collins": "Коллинз (фамилия)",
+  "collins's": "Коллинза",
+  "come": "входить",
+  "coming": "доносился; проникал",
+  "complete": "полный",
+  "confidence": "уверенность",
+  "corridor": "коридор",
+  "corridors": "коридоры",
+  "could": "мог",
+  "cross": "крестик",
+  "cut": "вырезано",
+  "dark": "тёмный",
+  "darkness": "темнота",
+  "dates": "даты",
+  "desk": "стол",
+  "did": "(вспом. глагол)",
+  "didn't": "не (вспом.)",
+  "died": "умер, погиб",
+  "director": "директор",
+  "dirty": "грязный",
+  "doctors": "врачи",
+  "don't": "не (вспом.)",
+  "door": "дверь",
+  "doors": "двери",
+  "down": "вниз",
+  "dragged": "тащили",
+  "dragging": "волочение",
+  "drawn": "нарисовал",
+  "driver": "водитель",
+  "earth": "земля",
+  "electricity": "электричество",
+  "empty": "пустой",
+  "end": "конец",
+  "endlessly": "бесконечно",
+  "entrance": "вход",
+  "even": "ещё (более)",
+  "every": "каждый",
+  "everything": "всё",
+  "except": "кроме",
+  "expected": "ожидал",
+  "face": "лицо",
+  "fast": "быстро",
+  "fell": "упал",
+  "felt": "чувствовал",
+  "few": "несколько",
+  "figure": "фигура",
+  "film": "фильм",
+  "fine": "в порядке",
+  "finish": "договорить",
+  "fire": "пожар",
+  "first": "первый; сначала",
+  "flask": "термос",
+  "floor": "пол; этаж",
+  "flowers": "цветы",
+  "for": "для; в течение",
+  "forty": "сорок",
+  "found": "нашёл",
+  "fresh": "свежий",
+  "frightened": "испуганно",
+  "from": "из, от",
+  "full": "полный",
+  "garden": "сад",
+  "gate": "ворота",
+  "gave": "дал",
+  "get": "попадать; становиться",
+  "go": "идти",
+  "going": "едете",
+  "gone": "пропало",
+  "good": "хороший",
+  "grass": "трава",
+  "grave": "могила",
+  "grey": "серый",
+  "guard": "сторож",
+  "guards": "сторожа",
+  "h": "Г. (инициал)",
+  "had": "(вспом. глагол); должен был",
+  "hammer": "молоток",
+  "handle": "ручка",
+  "hands": "руки",
+  "happened": "случилось",
+  "has": "имеет, есть у",
+  "he": "он",
+  "head": "голова",
+  "hear": "слышать",
+  "heard": "услышал",
+  "heart": "сердце",
+  "heavy": "тяжёлый",
+  "help": "помочь",
+  "henry": "Генри (имя)",
+  "her": "её",
+  "here": "здесь",
+  "hill": "холм",
+  "him": "его, ему",
+  "himself": "себе",
+  "his": "его",
+  "hit": "ударился",
+  "hitting": "бил",
+  "holding": "держал",
+  "horrible": "ужасный",
+  "horror": "ужас",
+  "hospital": "больница",
+  "hour": "час",
+  "hours": "часы",
+  "how": "как",
+  "i": "я",
+  "i'm": "я (есть)",
+  "idea": "идея",
+  "if": "если",
+  "impression": "впечатление",
+  "in": "в",
+  "increase": "увеличиваться",
+  "inside": "внутри",
+  "interview": "собеседование",
+  "into": "в",
+  "is": "есть; (связка)",
+  "it": "это, оно",
+  "its": "его",
+  "itself": "само",
+  "joking": "шутить",
+  "joy": "радость",
+  "just": "просто",
+  "kept": "продолжал",
+  "key": "ключ",
+  "keys": "ключи",
+  "knew": "знал",
+  "lamp": "лампа",
+  "last": "последний; вчера",
+  "late": "поздно",
+  "laughed": "засмеялся",
+  "lay": "лежали",
+  "left": "уехал; оставил",
+  "legs": "ноги",
+  "let": "впустил",
+  "lifted": "поднял",
+  "light": "свет",
+  "like": "как, похоже",
+  "lists": "списки",
+  "locked": "заперта",
+  "long": "долгий; длинный",
+  "look": "выглядеть; смотреть",
+  "looked": "выглядел; посмотрел",
+  "looking": "смотреть",
+  "luck": "удача",
+  "make": "издавать",
+  "man": "мужчина",
+  "many": "многие",
+  "mark": "Марк (имя)",
+  "me": "меня, мне",
+  "medicine": "лекарство; медицина",
+  "meet": "встретить",
+  "met": "познакомился",
+  "metal": "металлический",
+  "middle": "середина",
+  "minute": "минута",
+  "minutes": "минуты",
+  "mirror": "зеркало",
+  "moment": "момент",
+  "money": "деньги",
+  "more": "больше",
+  "morgue": "морг",
+  "morning": "утро",
+  "most": "большинство",
+  "mother's": "матери",
+  "move": "двигаться",
+  "moving": "двигалось",
+  "mr": "мистер",
+  "museum": "музей",
+  "my": "мой",
+  "name": "имя",
+  "names": "имена",
+  "narrow": "узкий",
+  "near": "около",
+  "needed": "нуждался",
+  "nervously": "нервно",
+  "never": "никогда",
+  "new": "новый",
+  "next": "рядом",
+  "night": "ночь",
+  "nine": "девять",
+  "no": "нет; никакой",
+  "nobody": "никто",
+  "noises": "звуки, шумы",
+  "not": "не",
+  "nothing": "ничего",
+  "now": "теперь",
+  "nurse": "медсестра",
+  "nurse's": "медсестры",
+  "nurses": "медсёстры",
+  "o'clock": "час(ов)",
+  "of": "из, (родительный падеж)",
+  "old": "старый",
+  "on": "на",
+  "one": "один; час (ночи)",
+  "only": "единственный; только",
+  "open": "открытый; открываться",
+  "opened": "открыл",
+  "operating": "операционный",
+  "or": "или",
+  "ordinary": "обычный",
+  "out": "наружу",
+  "over": "над",
+  "own": "собственный",
+  "painted": "нарисовал",
+  "pale": "бледный",
+  "papers": "бумаги",
+  "passenger": "пассажир",
+  "patient": "терпеливый; пациент",
+  "patients": "пациенты",
+  "pay": "оплата",
+  "perfect": "идеальный",
+  "place": "место",
+  "please": "пожалуйста",
+  "police": "полиция",
+  "power": "электричество",
+  "private": "частный",
+  "project": "проект",
+  "property": "собственность",
+  "put": "надел; положил",
+  "quietly": "тихо",
+  "rain": "дождь",
+  "ran": "побежал",
+  "rang": "звенел",
+  "real": "настоящий",
+  "really": "на самом деле",
+  "rely": "полагаться",
+  "remember": "помнить",
+  "remembered": "помнил; вспомнил",
+  "repeated": "повторил",
+  "restore": "восстановить",
+  "restored": "восстановилось",
+  "right": "в порядке",
+  "ring": "дзинь",
+  "ringing": "звенеть",
+  "rock": "скала; камень",
+  "room": "комната",
+  "rooms": "комнаты, кабинеты",
+  "rows": "ряды",
+  "rude": "грубый",
+  "rule": "правило",
+  "rules": "правила",
+  "rusty": "ржавый",
+  "said": "сказал",
+  "saint": "святая",
+  "sat": "сидел",
+  "saw": "увидел",
+  "say": "сказать",
+  "second": "второй",
+  "seemed": "казалось",
+  "shaking": "дрожали",
+  "she": "она",
+  "sheet": "простыня",
+  "shone": "светила",
+  "shoulders": "плечи",
+  "shouted": "крикнул",
+  "showed": "показал",
+  "sight": "взгляд",
+  "sign": "знак",
+  "silence": "тишина",
+  "similar": "похожий",
+  "sleep": "спать",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smell": "запах",
+  "smiling": "улыбаясь",
+  "snake": "змея",
+  "so": "так",
+  "somebody": "кто-то",
+  "something": "что-то",
+  "sometimes": "иногда",
+  "somewhere": "где-то",
+  "son": "сынок",
+  "sound": "звук",
+  "sounded": "звучал",
+  "stairs": "лестница",
+  "standing": "стоял",
+  "started": "начал",
+  "stay": "оставаться",
+  "stick": "палка",
+  "still": "всё ещё",
+  "stone": "камень",
+  "stood": "стояла",
+  "stopped": "остановил; прекратилось",
+  "strange": "странный",
+  "strong": "сильный",
+  "stuck": "застрявший",
+  "such": "такой",
+  "suit": "костюм",
+  "sunlight": "солнечный свет",
+  "supposed": "должен был",
+  "switched": "включил",
+  "tall": "высокий",
+  "ten": "десять",
+  "than": "чем",
+  "that": "что; тот, это",
+  "that's": "это (есть)",
+  "the": "(определённый артикль)",
+  "them": "их",
+  "then": "потом",
+  "there": "там; (оборот there is)",
+  "they": "они",
+  "thin": "худой; тонкий",
+  "third": "третий",
+  "thirty": "тридцать",
+  "this": "этот",
+  "three": "три",
+  "through": "сквозь",
+  "time": "время (пора)",
+  "tired": "устало",
+  "to": "к, в; (частица инфинитива)",
+  "together": "вместе",
+  "told": "сказал, велел",
+  "took": "взял; сел (на автобус)",
+  "top": "вершина",
+  "torch": "фонарик",
+  "touched": "касались",
+  "town": "город",
+  "tried": "попробовал",
+  "turn": "превратить",
+  "twenty": "двадцать",
+  "two": "два",
+  "under": "под",
+  "uniform": "форма",
+  "up": "вверх",
+  "used": "(раньше) обычно",
+  "very": "очень",
+  "visited": "навещал",
+  "voice": "голос",
+  "waited": "ждал",
+  "waiting": "ждал",
+  "walked": "шёл, ходил",
+  "wall": "стена",
+  "walsh": "Уолш (фамилия)",
+  "wanted": "хотел",
+  "wards": "палаты",
+  "was": "был",
+  "watch": "охранять",
+  "weak": "слабый",
+  "well": "хорошо",
+  "went": "пошёл; погасла",
+  "were": "были",
+  "what": "что",
+  "what's": "что (есть)",
+  "when": "когда",
+  "where": "где",
+  "white": "белый",
+  "who's": "кто (есть)",
+  "whole": "весь",
+  "whom": "которого",
+  "wind": "ветер",
+  "windows": "окна",
+  "with": "с",
+  "woke": "проснулся",
+  "woman": "женщина",
+  "woman's": "женский",
+  "wooden": "деревянный",
+  "worked": "работал",
+  "years": "лет",
+  "yes": "да",
+  "you": "ты, вы",
+  "young": "молодой",
+  "your": "твой, ваш",
+  "about": "о",
+  "always": "всегда",
+  "ever": "когда-либо",
+  "far": "далеко",
+  "faster": "быстрее",
+  "fears": "страхи",
+  "flat": "квартира",
+  "getting": "становился",
+  "have": "иметь",
+  "hello": "эй, алло",
+  "know": "знать",
+  "lights": "огни",
+  "listened": "прислушался",
+  "little": "маленький; немного",
+  "midnight": "полночь",
+  "month": "месяц",
+  "quickly": "быстро",
+  "sadly": "печально",
+  "see": "видеть",
+  "sister": "сестра",
+  "sit": "сесть",
+  "thought": "думал",
+  "turned": "обернулся",
+  "turning": "становился",
+  "wait": "ждать",
+  "ward": "палата",
+  "warm": "тёплый",
+  "who": "который; кто",
+  "will": "(будущее время)",
+  "window": "окно",
+  "would": "бы",
+  "yellow": "жёлтый"
+ },
+ "vocab": {
+  "more": 6,
+  "perfect": 26,
+  "time": 46,
+  "woke": 66,
+  "horrible": 86,
+  "bus": 106,
+  "below": 126,
+  "lay": 146,
+  "rock": 166,
+  "joy": 186,
+  "bright": 206,
+  "similar": 227,
+  "confidence": 247,
+  "all": 267,
+  "snake": 287,
+  "certainly": 308,
+  "expected": 328,
+  "weak": 348,
+  "sight": 368,
+  "except": 388,
+  "endlessly": 416,
+  "grave": 437,
+  "rude": 466,
+  "impression": 488,
+  "increase": 509,
+  "rely": 530,
+  "dragged": 551,
+  "dragging": 551,
+  "citizens": 572,
+  "collected": 593,
+  "restore": 614,
+  "restored": 614,
+  "hammer": 636
+ }
+}

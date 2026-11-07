@@ -1,0 +1,1324 @@
+{
+ "id": 95,
+ "level": "B1",
+ "title_en": "The Blue Envelopes",
+ "title_ru": "Голубые конверты",
+ "genre": "Загадка",
+ "summary_ru": "Почтальон маленького городка семь лет приносит голубые письма в пустой дом — и однажды замечает, что кто-то по ночам их забирает.",
+ "paragraphs": [
+  {
+   "en": "For twenty-six years, Bernard Ostley had carried the post through the small town of Ainsley, and he knew its streets better than he knew his own kitchen. He knew which dogs really bit and which only showed their teeth, which gates stuck in the rain, and which lonely old men waited at the window for letters that never came. So when something strange began to happen on Quarry Lane, he was the first to notice.",
+   "ru": "Двадцать шесть лет Бернард Остли разносил почту по маленькому городку Эйнсли и знал его улицы лучше, чем собственную кухню. Он знал, какие собаки действительно кусаются, а какие только показывают зубы, какие калитки заедают в дождь и какие одинокие старики ждут у окна писем, которые так и не приходят. Поэтому, когда на Карьерной улице начало происходить что-то странное, он заметил это первым.",
+   "s": [
+    [
+     "For twenty-six years, Bernard Ostley had carried the post through the small town of Ainsley, and he knew its streets better than he knew his own kitchen.",
+     "Двадцать шесть лет Бернард Остли разносил почту по маленькому городку Эйнсли и знал его улицы лучше, чем собственную кухню."
+    ],
+    [
+     "He knew which dogs really bit and which only showed their teeth, which gates stuck in the rain, and which lonely old men waited at the window for letters that never came.",
+     "Он знал, какие собаки действительно кусаются, а какие только показывают зубы, какие калитки заедают в дождь и какие одинокие старики ждут у окна писем, которые так и не приходят."
+    ],
+    [
+     "So when something strange began to happen on Quarry Lane, he was the first to notice.",
+     "Поэтому, когда на Карьерной улице начало происходить что-то странное, он заметил это первым."
+    ]
+   ]
+  },
+  {
+   "en": "Number Nine, Quarry Lane, was a narrow grey house at the end of the street, with a broken gate and a garden full of weeds. Nobody had lived there for seven years. The curtains were always closed, the paint on the door was coming off, and a \"For Sale\" sign had fallen over long ago and had never been fixed. Yet every Thursday morning, Bernard pushed a letter through its door.",
+   "ru": "Дом номер девять по Карьерной улице был узким серым домом в конце улицы, со сломанной калиткой и садом, заросшим сорняками. Там уже семь лет никто не жил. Шторы всегда были задёрнуты, краска на двери облезала, а табличка «Продаётся» давно упала, и её так никто и не поправил. И всё же каждый четверг утром Бернард просовывал в щель его двери письмо.",
+   "s": [
+    [
+     "Number Nine, Quarry Lane, was a narrow grey house at the end of the street, with a broken gate and a garden full of weeds.",
+     "Дом номер девять по Карьерной улице был узким серым домом в конце улицы, со сломанной калиткой и садом, заросшим сорняками."
+    ],
+    [
+     "Nobody had lived there for seven years.",
+     "Там уже семь лет никто не жил."
+    ],
+    [
+     "The curtains were always closed, the paint on the door was coming off, and a \"For Sale\" sign had fallen over long ago and had never been fixed.",
+     "Шторы всегда были задёрнуты, краска на двери облезала, а табличка «Продаётся» давно упала, и её так никто и не поправил."
+    ],
+    [
+     "Yet every Thursday morning, Bernard pushed a letter through its door.",
+     "И всё же каждый четверг утром Бернард просовывал в щель его двери письмо."
+    ]
+   ]
+  },
+  {
+   "en": "The letters always looked the same. They came in pale blue envelopes, and the address was written by hand in careful, old-fashioned writing: Mr C. Lowther, 9 Quarry Lane, Ainsley. There was never a return address on the back. The postmark, the stamp that the post office prints on every letter to show where it was sent from, showed that each one had been posted in Ainsley itself. Whoever was writing them lived somewhere in the town.",
+   "ru": "Письма всегда выглядели одинаково. Они приходили в бледно-голубых конвертах, а адрес был написан от руки аккуратным старомодным почерком: «Мистеру К. Лоутеру, Карьерная улица, 9, Эйнсли». Обратного адреса на обороте никогда не было. Почтовый штемпель — отметка, которую почта ставит на каждое письмо, чтобы показать, откуда оно отправлено, — показывал, что каждое из них было отправлено в самом Эйнсли. Тот, кто их писал, жил где-то в городе.",
+   "s": [
+    [
+     "The letters always looked the same.",
+     "Письма всегда выглядели одинаково."
+    ],
+    [
+     "They came in pale blue envelopes, and the address was written by hand in careful, old-fashioned writing: Mr C. Lowther, 9 Quarry Lane, Ainsley.",
+     "Они приходили в бледно-голубых конвертах, а адрес был написан от руки аккуратным старомодным почерком: «Мистеру К. Лоутеру, Карьерная улица, 9, Эйнсли»."
+    ],
+    [
+     "There was never a return address on the back.",
+     "Обратного адреса на обороте никогда не было."
+    ],
+    [
+     "The postmark, the stamp that the post office prints on every letter to show where it was sent from, showed that each one had been posted in Ainsley itself.",
+     "Почтовый штемпель — отметка, которую почта ставит на каждое письмо, чтобы показать, откуда оно отправлено, — показывал, что каждое из них было отправлено в самом Эйнсли."
+    ],
+    [
+     "Whoever was writing them lived somewhere in the town.",
+     "Тот, кто их писал, жил где-то в городе."
+    ]
+   ]
+  },
+  {
+   "en": "For years Bernard did not think much about it. People often sent letters to old addresses. Besides, there were rules. A postman delivers the post; he does not ask questions about it. Still, a letter every single week for a man who was not there? It did not look like a mistake. It looked like something that someone was doing on purpose.",
+   "ru": "Годами Бернард особо об этом не задумывался. Люди часто отправляют письма по старым адресам. К тому же существовали правила. Почтальон доставляет почту; он не задаёт о ней вопросов. И всё же письмо каждую неделю человеку, которого там нет? Это не было похоже на ошибку. Это было похоже на то, что кто-то делает нарочно.",
+   "s": [
+    [
+     "For years Bernard did not think much about it.",
+     "Годами Бернард особо об этом не задумывался."
+    ],
+    [
+     "People often sent letters to old addresses.",
+     "Люди часто отправляют письма по старым адресам."
+    ],
+    [
+     "Besides, there were rules.",
+     "К тому же существовали правила."
+    ],
+    [
+     "A postman delivers the post; he does not ask questions about it.",
+     "Почтальон доставляет почту; он не задаёт о ней вопросов."
+    ],
+    [
+     "Still, a letter every single week for a man who was not there?",
+     "И всё же письмо каждую неделю человеку, которого там нет?"
+    ],
+    [
+     "It did not look like a mistake.",
+     "Это не было похоже на ошибку."
+    ],
+    [
+     "It looked like something that someone was doing on purpose.",
+     "Это было похоже на то, что кто-то делает нарочно."
+    ]
+   ]
+  },
+  {
+   "en": "One Thursday in October, his curiosity finally won. After he had pushed the blue envelope through the door, Bernard bent down and looked through the letterbox. He expected to see a mountain of old post on the floor inside, years of envelopes that nobody had opened. Instead, the floor was completely empty, apart from the letter he had just delivered. There was nothing else in the hall except dust and a single dead leaf.",
+   "ru": "Однажды в четверг в октябре любопытство наконец победило. Просунув голубой конверт в дверь, Бернард наклонился и заглянул в щель для писем. Он ожидал увидеть на полу гору старой почты — конверты за многие годы, которые никто не открывал. Вместо этого пол был совершенно пуст, если не считать письма, которое он только что доставил. Больше в прихожей не было ничего, кроме пыли и одного сухого листа.",
+   "s": [
+    [
+     "One Thursday in October, his curiosity finally won.",
+     "Однажды в четверг в октябре любопытство наконец победило."
+    ],
+    [
+     "After he had pushed the blue envelope through the door, Bernard bent down and looked through the letterbox.",
+     "Просунув голубой конверт в дверь, Бернард наклонился и заглянул в щель для писем."
+    ],
+    [
+     "He expected to see a mountain of old post on the floor inside, years of envelopes that nobody had opened.",
+     "Он ожидал увидеть на полу гору старой почты — конверты за многие годы, которые никто не открывал."
+    ],
+    [
+     "Instead, the floor was completely empty, apart from the letter he had just delivered.",
+     "Вместо этого пол был совершенно пуст, если не считать письма, которое он только что доставил."
+    ],
+    [
+     "There was nothing else in the hall except dust and a single dead leaf.",
+     "Больше в прихожей не было ничего, кроме пыли и одного сухого листа."
+    ]
+   ]
+  },
+  {
+   "en": "He stood up slowly, his knees aching. Someone was collecting the letters. But the doors were locked, the windows were dirty and closed, and he had never seen a light in the house. \"Maybe the owner has a key and comes in secretly,\" his wife, Hazel, said that evening over dinner, when he told her about it. \"Or maybe you've finally gone mad from boredom,\" she added with a smile. \"Twenty-six years of the same streets would do that to anyone.\" Bernard laughed, but he could not stop thinking about it.",
+   "ru": "Он медленно выпрямился; колени ныли. Кто-то забирал письма. Но двери были заперты, окна грязные и закрытые, а света в доме он не видел ни разу. «Может, у хозяина есть ключ, и он заходит тайком», — сказала в тот вечер за ужином его жена Хейзел, когда он ей об этом рассказал. «А может, ты наконец сошёл с ума от скуки», — добавила она с улыбкой. «Двадцать шесть лет одних и тех же улиц кого угодно до этого доведут». Бернард рассмеялся, но не мог перестать об этом думать.",
+   "s": [
+    [
+     "He stood up slowly, his knees aching.",
+     "Он медленно выпрямился; колени ныли."
+    ],
+    [
+     "Someone was collecting the letters.",
+     "Кто-то забирал письма."
+    ],
+    [
+     "But the doors were locked, the windows were dirty and closed, and he had never seen a light in the house.",
+     "Но двери были заперты, окна грязные и закрытые, а света в доме он не видел ни разу."
+    ],
+    [
+     "\"Maybe the owner has a key and comes in secretly,\" his wife, Hazel, said that evening over dinner, when he told her about it.",
+     "«Может, у хозяина есть ключ, и он заходит тайком», — сказала в тот вечер за ужином его жена Хейзел, когда он ей об этом рассказал."
+    ],
+    [
+     "\"Or maybe you've finally gone mad from boredom,\" she added with a smile.",
+     "«А может, ты наконец сошёл с ума от скуки», — добавила она с улыбкой."
+    ],
+    [
+     "\"Twenty-six years of the same streets would do that to anyone.\"",
+     "«Двадцать шесть лет одних и тех же улиц кого угодно до этого доведут»."
+    ],
+    [
+     "Bernard laughed, but he could not stop thinking about it.",
+     "Бернард рассмеялся, но не мог перестать об этом думать."
+    ]
+   ]
+  },
+  {
+   "en": "Over the next few days, he asked a few careful questions in the town. Everyone remembered the Lowthers. The house had belonged to Colin Lowther, a quiet engineer who had worked at the chemical factory by the river. Seven years earlier, he had told the government that the factory was secretly pouring poison into the water. There had been an investigation, the factory had been closed, and more than three hundred people had lost their jobs.",
+   "ru": "В следующие несколько дней он осторожно порасспрашивал людей в городе. Лоутеров помнили все. Дом принадлежал Колину Лоутеру, тихому инженеру, который работал на химическом заводе у реки. Семь лет назад он сообщил правительству, что завод тайно сливает яд в воду. Провели расследование, завод закрыли, и больше трёхсот человек потеряли работу.",
+   "s": [
+    [
+     "Over the next few days, he asked a few careful questions in the town.",
+     "В следующие несколько дней он осторожно порасспрашивал людей в городе."
+    ],
+    [
+     "Everyone remembered the Lowthers.",
+     "Лоутеров помнили все."
+    ],
+    [
+     "The house had belonged to Colin Lowther, a quiet engineer who had worked at the chemical factory by the river.",
+     "Дом принадлежал Колину Лоутеру, тихому инженеру, который работал на химическом заводе у реки."
+    ],
+    [
+     "Seven years earlier, he had told the government that the factory was secretly pouring poison into the water.",
+     "Семь лет назад он сообщил правительству, что завод тайно сливает яд в воду."
+    ],
+    [
+     "There had been an investigation, the factory had been closed, and more than three hundred people had lost their jobs.",
+     "Провели расследование, завод закрыли, и больше трёхсот человек потеряли работу."
+    ]
+   ]
+  },
+  {
+   "en": "\"People here called him a traitor,\" said the woman in the newsagent's, lowering her voice. \"One night there was a crowd outside his house, shouting and throwing stones at the windows. Somebody screamed that he should leave town, and soon after that he did. Some say he went abroad. Some say he ended up in prison, though I don't know what for.\" She shrugged. \"His mother still lives on the same street, you know. She married again after his father died, so she has a different name now. Mrs Benn, at Number Twelve.\"",
+   "ru": "«Люди здесь называли его предателем», — сказала, понизив голос, женщина из газетного киоска. «Однажды ночью у его дома собралась толпа: кричали и бросали камни в окна. Кто-то орал, что ему нужно убираться из города, и вскоре после этого он уехал. Одни говорят, что он уехал за границу. Другие — что он попал в тюрьму, хотя не знаю за что». Она пожала плечами. «А его мать, знаете, до сих пор живёт на той же улице. Она снова вышла замуж после смерти его отца, так что фамилия у неё теперь другая. Миссис Бенн, из дома номер двенадцать».",
+   "s": [
+    [
+     "\"People here called him a traitor,\" said the woman in the newsagent's, lowering her voice.",
+     "«Люди здесь называли его предателем», — сказала, понизив голос, женщина из газетного киоска."
+    ],
+    [
+     "\"One night there was a crowd outside his house, shouting and throwing stones at the windows.",
+     "«Однажды ночью у его дома собралась толпа: кричали и бросали камни в окна."
+    ],
+    [
+     "Somebody screamed that he should leave town, and soon after that he did.",
+     "Кто-то орал, что ему нужно убираться из города, и вскоре после этого он уехал."
+    ],
+    [
+     "Some say he went abroad.",
+     "Одни говорят, что он уехал за границу."
+    ],
+    [
+     "Some say he ended up in prison, though I don't know what for.\"",
+     "Другие — что он попал в тюрьму, хотя не знаю за что»."
+    ],
+    [
+     "She shrugged.",
+     "Она пожала плечами."
+    ],
+    [
+     "\"His mother still lives on the same street, you know.",
+     "«А его мать, знаете, до сих пор живёт на той же улице."
+    ],
+    [
+     "She married again after his father died, so she has a different name now.",
+     "Она снова вышла замуж после смерти его отца, так что фамилия у неё теперь другая."
+    ],
+    [
+     "Mrs Benn, at Number Twelve.\"",
+     "Миссис Бенн, из дома номер двенадцать»."
+    ]
+   ]
+  },
+  {
+   "en": "Bernard knew Mrs Benn well. She was a small, white-haired woman of about eighty who lived in the neat little house directly opposite Number Nine. She received very little post: a bill now and then, a card at Christmas. Every morning she sat at her front window with a cup of tea, and every morning she waved to him. He had never imagined that the empty house across the road had anything to do with her.",
+   "ru": "Бернард хорошо знал миссис Бенн. Это была маленькая седая женщина лет восьмидесяти, которая жила в аккуратном домике прямо напротив дома номер девять. Почты она получала очень мало: время от времени счёт, открытку на Рождество. Каждое утро она сидела у окна, выходящего на улицу, с чашкой чая, и каждое утро махала ему рукой. Ему и в голову не приходило, что пустой дом через дорогу как-то с ней связан.",
+   "s": [
+    [
+     "Bernard knew Mrs Benn well.",
+     "Бернард хорошо знал миссис Бенн."
+    ],
+    [
+     "She was a small, white-haired woman of about eighty who lived in the neat little house directly opposite Number Nine.",
+     "Это была маленькая седая женщина лет восьмидесяти, которая жила в аккуратном домике прямо напротив дома номер девять."
+    ],
+    [
+     "She received very little post: a bill now and then, a card at Christmas.",
+     "Почты она получала очень мало: время от времени счёт, открытку на Рождество."
+    ],
+    [
+     "Every morning she sat at her front window with a cup of tea, and every morning she waved to him.",
+     "Каждое утро она сидела у окна, выходящего на улицу, с чашкой чая, и каждое утро махала ему рукой."
+    ],
+    [
+     "He had never imagined that the empty house across the road had anything to do with her.",
+     "Ему и в голову не приходило, что пустой дом через дорогу как-то с ней связан."
+    ]
+   ]
+  },
+  {
+   "en": "Now he began to watch. On Wednesday afternoon of the following week, he did not go straight home after work. Instead, he waited in his car at the corner, from where he could see the red post box at the end of Quarry Lane. It took patience. He sat there for almost two hours, with cold feet and the radio turned low. Then, just before five o'clock, a small figure in a brown coat came slowly down the street.",
+   "ru": "Теперь он начал наблюдать. В среду следующей недели после работы он не поехал сразу домой. Вместо этого он ждал в машине на углу, откуда был виден красный почтовый ящик в конце Карьерной улицы. Для этого понадобилось терпение. Он просидел там почти два часа, с замёрзшими ногами и тихо включённым радио. Потом, около пяти часов, по улице медленно прошла маленькая фигурка в коричневом пальто.",
+   "s": [
+    [
+     "Now he began to watch.",
+     "Теперь он начал наблюдать."
+    ],
+    [
+     "On Wednesday afternoon of the following week, he did not go straight home after work.",
+     "В среду следующей недели после работы он не поехал сразу домой."
+    ],
+    [
+     "Instead, he waited in his car at the corner, from where he could see the red post box at the end of Quarry Lane.",
+     "Вместо этого он ждал в машине на углу, откуда был виден красный почтовый ящик в конце Карьерной улицы."
+    ],
+    [
+     "It took patience.",
+     "Для этого понадобилось терпение."
+    ],
+    [
+     "He sat there for almost two hours, with cold feet and the radio turned low.",
+     "Он просидел там почти два часа, с замёрзшими ногами и тихо включённым радио."
+    ],
+    [
+     "Then, just before five o'clock, a small figure in a brown coat came slowly down the street.",
+     "Потом, около пяти часов, по улице медленно прошла маленькая фигурка в коричневом пальто."
+    ]
+   ]
+  },
+  {
+   "en": "It was Mrs Benn. She stopped at the post box, took a pale blue envelope out of her handbag and looked at it for a long moment before she dropped it inside. Then she turned and walked home, holding on to the garden walls as she went.",
+   "ru": "Это была миссис Бенн. Она остановилась у почтового ящика, достала из сумочки бледно-голубой конверт и долго смотрела на него, прежде чем опустить внутрь. Потом она повернулась и пошла домой, держась за садовые ограды.",
+   "s": [
+    [
+     "It was Mrs Benn.",
+     "Это была миссис Бенн."
+    ],
+    [
+     "She stopped at the post box, took a pale blue envelope out of her handbag and looked at it for a long moment before she dropped it inside.",
+     "Она остановилась у почтового ящика, достала из сумочки бледно-голубой конверт и долго смотрела на него, прежде чем опустить внутрь."
+    ],
+    [
+     "Then she turned and walked home, holding on to the garden walls as she went.",
+     "Потом она повернулась и пошла домой, держась за садовые ограды."
+    ]
+   ]
+  },
+  {
+   "en": "Bernard sat in the car for a while without moving. So the mother was writing to her son at his old address. It was sad, but it explained only half of the mystery. There was a flaw in the picture, a piece that did not fit. If Colin had left town seven years ago, who was taking the letters from the empty house?",
+   "ru": "Бернард какое-то время сидел в машине не шевелясь. Значит, мать писала сыну по его старому адресу. Это было грустно, но объясняло лишь половину загадки. В картине был изъян — кусочек, который не подходил. Если Колин уехал из города семь лет назад, кто забирал письма из пустого дома?",
+   "s": [
+    [
+     "Bernard sat in the car for a while without moving.",
+     "Бернард какое-то время сидел в машине не шевелясь."
+    ],
+    [
+     "So the mother was writing to her son at his old address.",
+     "Значит, мать писала сыну по его старому адресу."
+    ],
+    [
+     "It was sad, but it explained only half of the mystery.",
+     "Это было грустно, но объясняло лишь половину загадки."
+    ],
+    [
+     "There was a flaw in the picture, a piece that did not fit.",
+     "В картине был изъян — кусочек, который не подходил."
+    ],
+    [
+     "If Colin had left town seven years ago, who was taking the letters from the empty house?",
+     "Если Колин уехал из города семь лет назад, кто забирал письма из пустого дома?"
+    ]
+   ]
+  },
+  {
+   "en": "The next night, a Thursday, Bernard told his wife that he was going out for a walk. Hazel raised an eyebrow but said nothing. He put on his old hat and his warmest coat and walked to Quarry Lane. He stood in the shadow of a large tree a little way down the street, where he could see the front of Number Nine. The houses went dark one by one, until the whole street was asleep. At eleven o'clock, the light in Mrs Benn's window went out too.",
+   "ru": "На следующий вечер, в четверг, Бернард сказал жене, что идёт прогуляться. Хейзел подняла бровь, но ничего не сказала. Он надел старую шляпу и самое тёплое пальто и пошёл на Карьерную улицу. Он встал в тени большого дерева чуть дальше по улице, откуда был виден фасад дома номер девять. Окна в домах гасли одно за другим, пока вся улица не уснула. В одиннадцать часов погас свет и в окне миссис Бенн.",
+   "s": [
+    [
+     "The next night, a Thursday, Bernard told his wife that he was going out for a walk.",
+     "На следующий вечер, в четверг, Бернард сказал жене, что идёт прогуляться."
+    ],
+    [
+     "Hazel raised an eyebrow but said nothing.",
+     "Хейзел подняла бровь, но ничего не сказала."
+    ],
+    [
+     "He put on his old hat and his warmest coat and walked to Quarry Lane.",
+     "Он надел старую шляпу и самое тёплое пальто и пошёл на Карьерную улицу."
+    ],
+    [
+     "He stood in the shadow of a large tree a little way down the street, where he could see the front of Number Nine.",
+     "Он встал в тени большого дерева чуть дальше по улице, откуда был виден фасад дома номер девять."
+    ],
+    [
+     "The houses went dark one by one, until the whole street was asleep.",
+     "Окна в домах гасли одно за другим, пока вся улица не уснула."
+    ],
+    [
+     "At eleven o'clock, the light in Mrs Benn's window went out too.",
+     "В одиннадцать часов погас свет и в окне миссис Бенн."
+    ]
+   ]
+  },
+  {
+   "en": "Nothing happened for hours. Bernard was cold, tired and beginning to feel foolish: a man of fifty-eight, hiding behind a tree like a boy in a spy film. He was about to go home when, at half past two, a car came slowly into the street with its lights turned off. It stopped some distance from the houses. A tall man got out, closed the door quietly and walked straight round to the back of Number Nine.",
+   "ru": "Несколько часов ничего не происходило. Бернарду было холодно, он устал и начинал чувствовать себя глупо: мужчина пятидесяти восьми лет прячется за деревом, как мальчишка из шпионского фильма. Он уже собирался идти домой, когда в половине третьего на улицу медленно въехала машина с выключенными фарами. Она остановилась на некотором расстоянии от домов. Высокий мужчина вышел, тихо закрыл дверцу и прямиком направился к задней стороне дома номер девять.",
+   "s": [
+    [
+     "Nothing happened for hours.",
+     "Несколько часов ничего не происходило."
+    ],
+    [
+     "Bernard was cold, tired and beginning to feel foolish: a man of fifty-eight, hiding behind a tree like a boy in a spy film.",
+     "Бернарду было холодно, он устал и начинал чувствовать себя глупо: мужчина пятидесяти восьми лет прячется за деревом, как мальчишка из шпионского фильма."
+    ],
+    [
+     "He was about to go home when, at half past two, a car came slowly into the street with its lights turned off.",
+     "Он уже собирался идти домой, когда в половине третьего на улицу медленно въехала машина с выключенными фарами."
+    ],
+    [
+     "It stopped some distance from the houses.",
+     "Она остановилась на некотором расстоянии от домов."
+    ],
+    [
+     "A tall man got out, closed the door quietly and walked straight round to the back of Number Nine.",
+     "Высокий мужчина вышел, тихо закрыл дверцу и прямиком направился к задней стороне дома номер девять."
+    ]
+   ]
+  },
+  {
+   "en": "Bernard's heart was beating hard. He followed at a distance and stopped by the broken gate. Through a gap in the curtains, he saw the thin beam of a torch moving inside. A few minutes later, the man came out again. He locked the back door behind him with a key from a small set, put something into his coat pocket and turned towards the street. That was when he saw Bernard.",
+   "ru": "Сердце Бернарда сильно колотилось. Он пошёл следом на расстоянии и остановился у сломанной калитки. Сквозь щель между шторами он увидел, как внутри движется тонкий луч фонарика. Через несколько минут мужчина вышел обратно. Он запер за собой заднюю дверь ключом из небольшой связки, положил что-то в карман пальто и повернулся к улице. Тут-то он и увидел Бернарда.",
+   "s": [
+    [
+     "Bernard's heart was beating hard.",
+     "Сердце Бернарда сильно колотилось."
+    ],
+    [
+     "He followed at a distance and stopped by the broken gate.",
+     "Он пошёл следом на расстоянии и остановился у сломанной калитки."
+    ],
+    [
+     "Through a gap in the curtains, he saw the thin beam of a torch moving inside.",
+     "Сквозь щель между шторами он увидел, как внутри движется тонкий луч фонарика."
+    ],
+    [
+     "A few minutes later, the man came out again.",
+     "Через несколько минут мужчина вышел обратно."
+    ],
+    [
+     "He locked the back door behind him with a key from a small set, put something into his coat pocket and turned towards the street.",
+     "Он запер за собой заднюю дверь ключом из небольшой связки, положил что-то в карман пальто и повернулся к улице."
+    ],
+    [
+     "That was when he saw Bernard.",
+     "Тут-то он и увидел Бернарда."
+    ]
+   ]
+  },
+  {
+   "en": "For a second, both men froze. Bernard had been afraid that the stranger might run, or even attack him, but he did neither. He simply stood there, looking tired and much older than his age. In the light from the street lamp, Bernard recognised the face: older and greyer, but the same. \"You're Bernard,\" the man said at last. \"You used to bring our post.\" \"And you're Colin Lowther,\" said Bernard. \"I heard you were abroad. Or in prison.\" Colin gave a short laugh with no humour in it.",
+   "ru": "На секунду оба мужчины застыли. Бернард боялся, что незнакомец убежит или даже нападёт на него, но тот не сделал ни того, ни другого. Он просто стоял, усталый и выглядевший гораздо старше своих лет. В свете уличного фонаря Бернард узнал это лицо: постаревшее и поседевшее, но то же самое. «Вы Бернард», — сказал наконец мужчина. «Вы раньше приносили нам почту». «А вы Колин Лоутер», — сказал Бернард. «Я слышал, что вы за границей. Или в тюрьме». Колин коротко и невесело рассмеялся.",
+   "s": [
+    [
+     "For a second, both men froze.",
+     "На секунду оба мужчины застыли."
+    ],
+    [
+     "Bernard had been afraid that the stranger might run, or even attack him, but he did neither.",
+     "Бернард боялся, что незнакомец убежит или даже нападёт на него, но тот не сделал ни того, ни другого."
+    ],
+    [
+     "He simply stood there, looking tired and much older than his age.",
+     "Он просто стоял, усталый и выглядевший гораздо старше своих лет."
+    ],
+    [
+     "In the light from the street lamp, Bernard recognised the face: older and greyer, but the same.",
+     "В свете уличного фонаря Бернард узнал это лицо: постаревшее и поседевшее, но то же самое."
+    ],
+    [
+     "\"You're Bernard,\" the man said at last.",
+     "«Вы Бернард», — сказал наконец мужчина."
+    ],
+    [
+     "\"You used to bring our post.\"",
+     "«Вы раньше приносили нам почту»."
+    ],
+    [
+     "\"And you're Colin Lowther,\" said Bernard.",
+     "«А вы Колин Лоутер», — сказал Бернард."
+    ],
+    [
+     "\"I heard you were abroad. Or in prison.\"",
+     "«Я слышал, что вы за границей. Или в тюрьме»."
+    ],
+    [
+     "Colin gave a short laugh with no humour in it.",
+     "Колин коротко и невесело рассмеялся."
+    ]
+   ]
+  },
+  {
+   "en": "\"That's what they say, is it? No. I live in a flat in a city two hours north. I work for a water company now, testing rivers.\" He touched the pocket where the letter was. \"About a year ago, I came back to sell the house. When I opened the door, there were hundreds of blue envelopes on the floor. Six years of letters from my mother.\"",
+   "ru": "«Вот, значит, что говорят? Нет. Я живу в квартире в городе в двух часах езды к северу. Сейчас я работаю в компании по водоснабжению — проверяю реки». Он дотронулся до кармана, где лежало письмо. «Около года назад я вернулся, чтобы продать дом. Когда я открыл дверь, на полу лежали сотни голубых конвертов. Письма от моей матери за шесть лет».",
+   "s": [
+    [
+     "\"That's what they say, is it?",
+     "«Вот, значит, что говорят?"
+    ],
+    [
+     "No. I live in a flat in a city two hours north.",
+     "Нет. Я живу в квартире в городе в двух часах езды к северу."
+    ],
+    [
+     "I work for a water company now, testing rivers.\"",
+     "Сейчас я работаю в компании по водоснабжению — проверяю реки»."
+    ],
+    [
+     "He touched the pocket where the letter was.",
+     "Он дотронулся до кармана, где лежало письмо."
+    ],
+    [
+     "\"About a year ago, I came back to sell the house.",
+     "«Около года назад я вернулся, чтобы продать дом."
+    ],
+    [
+     "When I opened the door, there were hundreds of blue envelopes on the floor.",
+     "Когда я открыл дверь, на полу лежали сотни голубых конвертов."
+    ],
+    [
+     "Six years of letters from my mother.\"",
+     "Письма от моей матери за шесть лет»."
+    ]
+   ]
+  },
+  {
+   "en": "He told Bernard everything, standing there in the dark garden. After the night of the crowd, he had written to his mother only once, to tell her that he was leaving. Then he had changed his phone number and stopped answering. He had been angry with the whole town, and in his anger he had not wanted to hear anyone's voice, not even hers. \"She wrote to me every single week,\" he said. \"She told me about the weather, about her garden, about the pain in her leg. She told me she was proud of me, despite everything. And I didn't answer a single one.\"",
+   "ru": "Он рассказал Бернарду всё, стоя там, в тёмном саду. После той ночи с толпой он написал матери всего один раз — чтобы сообщить, что уезжает. Потом он сменил номер телефона и перестал отвечать. Он злился на весь город и в своей злости не хотел слышать ничьего голоса, даже её. «Она писала мне каждую неделю», — сказал он. «Она рассказывала мне о погоде, о своём саде, о боли в ноге. Она писала, что гордится мной, несмотря ни на что. А я не ответил ни на одно».",
+   "s": [
+    [
+     "He told Bernard everything, standing there in the dark garden.",
+     "Он рассказал Бернарду всё, стоя там, в тёмном саду."
+    ],
+    [
+     "After the night of the crowd, he had written to his mother only once, to tell her that he was leaving.",
+     "После той ночи с толпой он написал матери всего один раз — чтобы сообщить, что уезжает."
+    ],
+    [
+     "Then he had changed his phone number and stopped answering.",
+     "Потом он сменил номер телефона и перестал отвечать."
+    ],
+    [
+     "He had been angry with the whole town, and in his anger he had not wanted to hear anyone's voice, not even hers.",
+     "Он злился на весь город и в своей злости не хотел слышать ничьего голоса, даже её."
+    ],
+    [
+     "\"She wrote to me every single week,\" he said.",
+     "«Она писала мне каждую неделю», — сказал он."
+    ],
+    [
+     "\"She told me about the weather, about her garden, about the pain in her leg.",
+     "«Она рассказывала мне о погоде, о своём саде, о боли в ноге."
+    ],
+    [
+     "She told me she was proud of me, despite everything.",
+     "Она писала, что гордится мной, несмотря ни на что."
+    ],
+    [
+     "And I didn't answer a single one.\"",
+     "А я не ответил ни на одно»."
+    ]
+   ]
+  },
+  {
+   "en": "\"Why didn't you just knock on her door?\" Bernard asked. \"She lives opposite. She's right there.\" Colin looked across the road at the dark window. \"Because every week I tell myself that I'll do it next time,\" he said quietly. \"Then I read the letter in the car, and I can't. How do you say sorry for seven years? How do I explain that I've been coming here every Thursday night, like a thief, and I've never once crossed the road?\"",
+   "ru": "«Почему же вы просто не постучали в её дверь?» — спросил Бернард. «Она живёт напротив. Вот же она, рядом». Колин посмотрел через дорогу на тёмное окно. «Потому что каждую неделю я говорю себе, что сделаю это в следующий раз», — тихо сказал он. «А потом читаю письмо в машине — и не могу. Как попросить прощения за семь лет? Как объяснить, что я каждый четверг ночью приезжаю сюда, как вор, и ни разу не перешёл через дорогу?»",
+   "s": [
+    [
+     "\"Why didn't you just knock on her door?\" Bernard asked.",
+     "«Почему же вы просто не постучали в её дверь?» — спросил Бернард."
+    ],
+    [
+     "\"She lives opposite. She's right there.\"",
+     "«Она живёт напротив. Вот же она, рядом»."
+    ],
+    [
+     "Colin looked across the road at the dark window.",
+     "Колин посмотрел через дорогу на тёмное окно."
+    ],
+    [
+     "\"Because every week I tell myself that I'll do it next time,\" he said quietly.",
+     "«Потому что каждую неделю я говорю себе, что сделаю это в следующий раз», — тихо сказал он."
+    ],
+    [
+     "\"Then I read the letter in the car, and I can't.",
+     "«А потом читаю письмо в машине — и не могу."
+    ],
+    [
+     "How do you say sorry for seven years?",
+     "Как попросить прощения за семь лет?"
+    ],
+    [
+     "How do I explain that I've been coming here every Thursday night, like a thief, and I've never once crossed the road?\"",
+     "Как объяснить, что я каждый четверг ночью приезжаю сюда, как вор, и ни разу не перешёл через дорогу?»"
+    ]
+   ]
+  },
+  {
+   "en": "Bernard thought for a long time before he answered. He was not good with words; his job was to carry other people's. \"I don't know how you say it,\" he said finally. \"But I know she sits at that window every morning. She's over eighty, and her leg is getting worse. I don't think she needs a perfect explanation. I think she just needs you to knock.\"",
+   "ru": "Бернард долго думал, прежде чем ответить. Он не умел обращаться со словами — его работой было носить чужие. «Я не знаю, как это сказать», — произнёс он наконец. «Но я знаю, что она каждое утро сидит у этого окна. Ей за восемьдесят, и с ногой у неё всё хуже. Не думаю, что ей нужно идеальное объяснение. Думаю, ей просто нужно, чтобы вы постучали».",
+   "s": [
+    [
+     "Bernard thought for a long time before he answered.",
+     "Бернард долго думал, прежде чем ответить."
+    ],
+    [
+     "He was not good with words; his job was to carry other people's.",
+     "Он не умел обращаться со словами — его работой было носить чужие."
+    ],
+    [
+     "\"I don't know how you say it,\" he said finally.",
+     "«Я не знаю, как это сказать», — произнёс он наконец."
+    ],
+    [
+     "\"But I know she sits at that window every morning.",
+     "«Но я знаю, что она каждое утро сидит у этого окна."
+    ],
+    [
+     "She's over eighty, and her leg is getting worse.",
+     "Ей за восемьдесят, и с ногой у неё всё хуже."
+    ],
+    [
+     "I don't think she needs a perfect explanation.",
+     "Не думаю, что ей нужно идеальное объяснение."
+    ],
+    [
+     "I think she just needs you to knock.\"",
+     "Думаю, ей просто нужно, чтобы вы постучали»."
+    ]
+   ]
+  },
+  {
+   "en": "Colin said nothing. He walked back to his car, and Bernard watched it disappear at the end of the street. On the way home, Bernard wondered whether he had made a mistake. Perhaps he should have kept out of it. Perhaps he had only made a sad man feel worse.",
+   "ru": "Колин ничего не ответил. Он вернулся к машине, и Бернард смотрел, как она исчезает в конце улицы. По дороге домой Бернард думал, не совершил ли он ошибку. Может, ему не стоило вмешиваться. Может быть, он только заставил несчастного человека почувствовать себя ещё хуже.",
+   "s": [
+    [
+     "Colin said nothing.",
+     "Колин ничего не ответил."
+    ],
+    [
+     "He walked back to his car, and Bernard watched it disappear at the end of the street.",
+     "Он вернулся к машине, и Бернард смотрел, как она исчезает в конце улицы."
+    ],
+    [
+     "On the way home, Bernard wondered whether he had made a mistake.",
+     "По дороге домой Бернард думал, не совершил ли он ошибку."
+    ],
+    [
+     "Perhaps he should have kept out of it.",
+     "Может, ему не стоило вмешиваться."
+    ],
+    [
+     "Perhaps he had only made a sad man feel worse.",
+     "Может быть, он только заставил несчастного человека почувствовать себя ещё хуже."
+    ]
+   ]
+  },
+  {
+   "en": "All the next week, he tried not to think about Quarry Lane, but it was no use. Even the football on television was no distraction. On Wednesday he did not watch the post box; he did not want to know. But on Thursday morning, when he reached Number Nine with his heavy bag, he looked through the letters in his hand once, then twice. For the first time in seven years, there was no blue envelope.",
+   "ru": "Всю следующую неделю он старался не думать о Карьерной улице, но ничего не выходило. Даже футбол по телевизору не отвлекал. В среду он не стал следить за почтовым ящиком: он не хотел знать. Но в четверг утром, дойдя со своей тяжёлой сумкой до дома номер девять, он перебрал письма в руке один раз, потом второй. Впервые за семь лет голубого конверта не было.",
+   "s": [
+    [
+     "All the next week, he tried not to think about Quarry Lane, but it was no use.",
+     "Всю следующую неделю он старался не думать о Карьерной улице, но ничего не выходило."
+    ],
+    [
+     "Even the football on television was no distraction.",
+     "Даже футбол по телевизору не отвлекал."
+    ],
+    [
+     "On Wednesday he did not watch the post box; he did not want to know.",
+     "В среду он не стал следить за почтовым ящиком: он не хотел знать."
+    ],
+    [
+     "But on Thursday morning, when he reached Number Nine with his heavy bag, he looked through the letters in his hand once, then twice.",
+     "Но в четверг утром, дойдя со своей тяжёлой сумкой до дома номер девять, он перебрал письма в руке один раз, потом второй."
+    ],
+    [
+     "For the first time in seven years, there was no blue envelope.",
+     "Впервые за семь лет голубого конверта не было."
+    ]
+   ]
+  },
+  {
+   "en": "He looked across the road. Mrs Benn was not sitting at her window. For one terrible moment he thought that something had happened to her. Then her front door opened, and a tall man stepped out to collect the milk from the doorstep. Behind him, Bernard could hear a radio and the sound of an old woman laughing in the kitchen.",
+   "ru": "Он посмотрел через дорогу. Миссис Бенн не сидела у окна. На одно ужасное мгновение он подумал, что с ней что-то случилось. Затем её входная дверь открылась, и высокий мужчина вышел забрать молоко с крыльца. Позади него Бернард слышал радио и смех пожилой женщины на кухне.",
+   "s": [
+    [
+     "He looked across the road.",
+     "Он посмотрел через дорогу."
+    ],
+    [
+     "Mrs Benn was not sitting at her window.",
+     "Миссис Бенн не сидела у окна."
+    ],
+    [
+     "For one terrible moment he thought that something had happened to her.",
+     "На одно ужасное мгновение он подумал, что с ней что-то случилось."
+    ],
+    [
+     "Then her front door opened, and a tall man stepped out to collect the milk from the doorstep.",
+     "Затем её входная дверь открылась, и высокий мужчина вышел забрать молоко с крыльца."
+    ],
+    [
+     "Behind him, Bernard could hear a radio and the sound of an old woman laughing in the kitchen.",
+     "Позади него Бернард слышал радио и смех пожилой женщины на кухне."
+    ]
+   ]
+  },
+  {
+   "en": "Colin saw him and lifted a hand. He did not say anything, and Bernard did not need him to. He pushed a gas bill and a gardening catalogue through Mrs Benn's letterbox, nodded once and went on down the street.",
+   "ru": "Колин увидел его и поднял руку. Он ничего не сказал, да Бернарду это и не было нужно. Он просунул в щель для писем миссис Бенн счёт за газ и садовый каталог, один раз кивнул и пошёл дальше по улице.",
+   "s": [
+    [
+     "Colin saw him and lifted a hand.",
+     "Колин увидел его и поднял руку."
+    ],
+    [
+     "He did not say anything, and Bernard did not need him to.",
+     "Он ничего не сказал, да Бернарду это и не было нужно."
+    ],
+    [
+     "He pushed a gas bill and a gardening catalogue through Mrs Benn's letterbox, nodded once and went on down the street.",
+     "Он просунул в щель для писем миссис Бенн счёт за газ и садовый каталог, один раз кивнул и пошёл дальше по улице."
+    ]
+   ]
+  },
+  {
+   "en": "That evening, at dinner, Hazel asked him whether he had solved his mystery. \"I think it solved itself,\" Bernard said, and he did not explain. She looked at him for a moment, then smiled and passed him the potatoes. And for the rest of that week, though he could not have said why, the long hill up to Quarry Lane felt a little less steep.",
+   "ru": "В тот вечер за ужином Хейзел спросила, разгадал ли он свою загадку. «Думаю, она разгадалась сама», — сказал Бернард и не стал ничего объяснять. Она мгновение смотрела на него, потом улыбнулась и передала ему картошку. И всю оставшуюся неделю, хотя он и не смог бы сказать почему, длинный подъём к Карьерной улице казался ему чуть менее крутым.",
+   "s": [
+    [
+     "That evening, at dinner, Hazel asked him whether he had solved his mystery.",
+     "В тот вечер за ужином Хейзел спросила, разгадал ли он свою загадку."
+    ],
+    [
+     "\"I think it solved itself,\" Bernard said, and he did not explain.",
+     "«Думаю, она разгадалась сама», — сказал Бернард и не стал ничего объяснять."
+    ],
+    [
+     "She looked at him for a moment, then smiled and passed him the potatoes.",
+     "Она мгновение смотрела на него, потом улыбнулась и передала ему картошку."
+    ],
+    [
+     "And for the rest of that week, though he could not have said why, the long hill up to Quarry Lane felt a little less steep.",
+     "И всю оставшуюся неделю, хотя он и не смог бы сказать почему, длинный подъём к Карьерной улице казался ему чуть менее крутым."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, об",
+  "abroad": "за границей",
+  "aching": "ноющий",
+  "across": "через, по",
+  "added": "добавила",
+  "address": "адрес",
+  "addresses": "адреса",
+  "afraid": "боялся",
+  "after": "после",
+  "afternoon": "день, после полудня",
+  "again": "снова",
+  "age": "возраст",
+  "ago": "назад",
+  "ainsley": "Эйнсли (город)",
+  "all": "весь, все",
+  "almost": "почти",
+  "always": "всегда",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "anger": "злость, гнев",
+  "angry": "злой, сердитый",
+  "answer": "ответить",
+  "answered": "ответил",
+  "answering": "отвечать",
+  "anyone": "кого-либо",
+  "anyone's": "чей-либо",
+  "anything": "что-нибудь",
+  "apart": "(apart from) кроме",
+  "as": "как, так как",
+  "ask": "спросить",
+  "asked": "спросил",
+  "asleep": "спящий",
+  "at": "в, у, на",
+  "attack": "напасть",
+  "back": "задний; назад",
+  "bag": "сумка",
+  "beam": "луч",
+  "beating": "колотилось",
+  "because": "потому что",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "began": "начал(а)",
+  "beginning": "начинал",
+  "behind": "за, позади",
+  "belonged": "принадлежал",
+  "benn": "Бенн (фамилия)",
+  "benn's": "Бенн (миссис Бенн)",
+  "bent": "наклонился",
+  "bernard": "Бернард (имя)",
+  "bernard's": "Бернарда",
+  "besides": "к тому же",
+  "better": "лучше",
+  "bill": "счёт",
+  "bit": "кусали",
+  "blue": "голубой",
+  "boredom": "скука",
+  "both": "оба",
+  "box": "ящик",
+  "boy": "мальчик",
+  "bring": "приносить",
+  "broken": "сломанный",
+  "brown": "коричневый",
+  "but": "но",
+  "by": "у, к, от",
+  "c": "К. (инициал)",
+  "called": "называли",
+  "came": "приходили; пришла",
+  "can't": "не могу",
+  "car": "машина",
+  "card": "открытка",
+  "careful": "аккуратный",
+  "carried": "нёс, носил",
+  "carry": "носить",
+  "catalogue": "каталог",
+  "changed": "сменил",
+  "chemical": "химический",
+  "christmas": "Рождество",
+  "city": "город",
+  "closed": "закрытый; задёрнутый",
+  "coat": "пальто",
+  "cold": "замёрзший",
+  "colin": "Колин (имя)",
+  "collect": "забрать",
+  "collecting": "забирал",
+  "comes": "приходит",
+  "coming": "(coming off) облезала; приезжать",
+  "company": "компания",
+  "completely": "полностью",
+  "corner": "угол",
+  "could": "мог(ла)",
+  "crossed": "перешёл",
+  "crowd": "толпа",
+  "cup": "чашка",
+  "curiosity": "любопытство",
+  "curtains": "шторы",
+  "dark": "тёмный; (went dark) погасли",
+  "days": "дни",
+  "dead": "сухой (лист)",
+  "delivered": "доставил",
+  "delivers": "доставляет",
+  "despite": "несмотря на",
+  "did": "(вспом. гл.)",
+  "didn't": "не (прош. вр.)",
+  "died": "умер(ла)",
+  "different": "другой, не такой",
+  "dinner": "ужин",
+  "directly": "прямо",
+  "dirty": "грязный",
+  "disappear": "исчезнуть",
+  "distance": "расстояние",
+  "distraction": "отвлечение",
+  "do": "(вспом. гл.)",
+  "does": "(вспом. гл.)",
+  "dogs": "собаки",
+  "doing": "делает",
+  "don't": "не (вспом.)",
+  "door": "дверь",
+  "doors": "двери",
+  "doorstep": "крыльцо",
+  "down": "вниз; по (улице)",
+  "dropped": "опустила",
+  "dust": "пыль",
+  "each": "каждый",
+  "earlier": "раньше",
+  "eight": "восемь",
+  "eighty": "восемьдесят",
+  "eleven": "одиннадцать",
+  "else": "ещё, другой",
+  "empty": "пустой",
+  "end": "конец",
+  "ended": "(ended up) оказался",
+  "engineer": "инженер",
+  "envelope": "конверт",
+  "envelopes": "конверты",
+  "even": "даже",
+  "evening": "вечер",
+  "every": "каждый",
+  "everyone": "все",
+  "everything": "всё",
+  "except": "кроме",
+  "expected": "ожидал",
+  "explain": "объяснять",
+  "explained": "объясняло",
+  "explanation": "объяснение",
+  "eyebrow": "бровь",
+  "face": "лицо",
+  "factory": "завод",
+  "fallen": "(fallen over) упала",
+  "fashioned": "(old-fashioned) старомодный",
+  "father": "отец",
+  "feel": "чувствовать",
+  "feet": "ноги",
+  "felt": "казался",
+  "few": "несколько",
+  "fifty": "пятьдесят",
+  "figure": "фигурка",
+  "film": "фильм",
+  "finally": "наконец",
+  "first": "первый; сначала",
+  "fit": "подходить, соответствовать",
+  "five": "пять",
+  "fixed": "поправлена",
+  "flat": "квартира",
+  "flaw": "изъян, недостаток",
+  "floor": "пол",
+  "followed": "пошёл следом",
+  "following": "следующий",
+  "foolish": "глупый",
+  "football": "футбол",
+  "for": "для, в течение",
+  "from": "из, от",
+  "front": "передний; входной",
+  "froze": "застыли",
+  "full": "полный",
+  "gap": "щель",
+  "garden": "сад",
+  "gardening": "садовый",
+  "gas": "газ (gas bill — счёт за газ)",
+  "gate": "калитка",
+  "gates": "калитки",
+  "gave": "издал",
+  "getting": "становится",
+  "go": "идти",
+  "going": "иду",
+  "gone": "(gone mad) сошёл",
+  "good": "(not good with) не умел",
+  "got": "(got out) вышел",
+  "government": "правительство",
+  "grey": "серый",
+  "greyer": "более седой",
+  "had": "(вспом. гл.); имела",
+  "haired": "-волосый (grey-haired — седой)",
+  "half": "половина",
+  "hall": "прихожая",
+  "hand": "рука",
+  "handbag": "сумочка",
+  "happen": "случиться",
+  "happened": "случилось",
+  "hard": "сильно",
+  "has": "(вспом. гл.)",
+  "hat": "шляпа",
+  "have": "иметь; (вспом.)",
+  "hazel": "Хейзел (имя)",
+  "he": "он",
+  "hear": "слышать",
+  "heard": "слышал",
+  "heart": "сердце",
+  "heavy": "тяжёлый",
+  "her": "её, ей",
+  "here": "здесь",
+  "hers": "её",
+  "hiding": "прячущийся",
+  "hill": "подъём",
+  "him": "его, ему",
+  "his": "его",
+  "holding": "держась",
+  "home": "домой",
+  "hours": "часы",
+  "house": "дом",
+  "houses": "дома",
+  "how": "как",
+  "humour": "юмор",
+  "hundred": "сто",
+  "hundreds": "сотни",
+  "i": "я",
+  "i'll": "я (сделаю)",
+  "i've": "я (уже)",
+  "if": "если, ли",
+  "imagined": "представлял",
+  "in": "в",
+  "inside": "внутри",
+  "instead": "вместо этого",
+  "into": "в",
+  "investigation": "расследование",
+  "is": "есть, является",
+  "it": "он, оно, это",
+  "its": "его, её",
+  "itself": "сам",
+  "job": "работа",
+  "jobs": "работу",
+  "just": "просто; только что",
+  "kept": "(kept out of it) не вмешивался",
+  "key": "ключ",
+  "kitchen": "кухня",
+  "knees": "колени",
+  "knew": "знал(и)",
+  "knock": "постучать",
+  "know": "знать",
+  "lamp": "фонарь",
+  "lane": "улица (Quarry Lane)",
+  "large": "большой",
+  "last": "(at last) наконец; последний",
+  "later": "позже",
+  "laugh": "смешок",
+  "laughed": "рассмеялся",
+  "laughing": "смеющийся",
+  "leaf": "лист",
+  "leave": "уехать",
+  "leaving": "уезжает",
+  "left": "уехал",
+  "leg": "нога",
+  "less": "менее",
+  "letter": "письмо",
+  "letterbox": "щель для писем",
+  "letters": "письма",
+  "lifted": "поднял",
+  "light": "свет",
+  "lights": "фары",
+  "like": "как",
+  "little": "маленький; немного",
+  "live": "живу",
+  "lived": "жил",
+  "lives": "живёт",
+  "locked": "заперты; запер",
+  "lonely": "одинокий",
+  "long": "долго, долгий",
+  "look": "выглядеть",
+  "looked": "посмотрел; выглядели",
+  "looking": "выглядящий",
+  "lost": "потеряли",
+  "low": "тихо (радио)",
+  "lowering": "понизив",
+  "lowther": "Лоутер (фамилия)",
+  "lowthers": "Лоутеры (семья)",
+  "mad": "(gone mad) сошёл с ума",
+  "made": "совершил; заставил",
+  "man": "мужчина",
+  "married": "вышла замуж",
+  "maybe": "может быть",
+  "me": "меня, мне",
+  "men": "мужчины",
+  "might": "мог бы",
+  "milk": "молоко",
+  "minutes": "минуты",
+  "mistake": "ошибка",
+  "moment": "мгновение",
+  "more": "больше",
+  "morning": "утро",
+  "mother": "мать",
+  "mountain": "гора",
+  "moving": "двигающийся; шевелясь",
+  "mr": "мистер",
+  "mrs": "миссис",
+  "much": "гораздо",
+  "my": "мой",
+  "myself": "себе",
+  "mystery": "загадка",
+  "name": "фамилия",
+  "narrow": "узкий",
+  "neat": "аккуратный",
+  "need": "нуждаться",
+  "needs": "нужно",
+  "neither": "ни то, ни другое",
+  "never": "никогда",
+  "newsagent's": "газетный киоск",
+  "next": "следующий; рядом",
+  "night": "ночь",
+  "nine": "девять",
+  "no": "нет",
+  "nobody": "никто",
+  "nodded": "кивнул",
+  "north": "к северу",
+  "not": "не",
+  "nothing": "ничего",
+  "notice": "заметить",
+  "now": "теперь",
+  "number": "номер",
+  "o'clock": "часов",
+  "october": "октябрь",
+  "of": "из, о, (род. падеж)",
+  "off": "(coming off) облезать; (turned off) выключенный",
+  "office": "(post office) почта",
+  "often": "часто",
+  "old": "старый",
+  "older": "старше",
+  "on": "на",
+  "once": "один раз; (never once) ни разу",
+  "one": "один, одна",
+  "only": "только",
+  "opened": "открылась; открыл",
+  "opposite": "напротив",
+  "or": "или",
+  "ostley": "Остли (фамилия)",
+  "other": "другой",
+  "our": "наш",
+  "out": "(went out) погас; (got out) вышел",
+  "outside": "у, снаружи",
+  "over": "(fallen over) упала; за (ужином); (over eighty) за",
+  "own": "собственный",
+  "owner": "хозяин",
+  "pain": "боль",
+  "paint": "краска",
+  "pale": "бледный",
+  "passed": "передала",
+  "past": "(half past two) половина третьего",
+  "patience": "терпение",
+  "people": "люди",
+  "people's": "чужие",
+  "perfect": "идеальный",
+  "perhaps": "может быть",
+  "phone": "телефон",
+  "picture": "картина",
+  "piece": "кусочек",
+  "pocket": "карман",
+  "poison": "яд",
+  "post": "почта; почтовый",
+  "posted": "отправлено",
+  "postman": "почтальон",
+  "postmark": "почтовый штемпель",
+  "potatoes": "картофель",
+  "pouring": "сливал",
+  "prints": "ставит",
+  "prison": "тюрьма",
+  "proud": "гордый",
+  "purpose": "цель (on purpose — нарочно)",
+  "pushed": "просунул",
+  "put": "надел; положил",
+  "quarry": "Карьерная (улица)",
+  "questions": "вопросы",
+  "quiet": "тихий",
+  "quietly": "тихо",
+  "radio": "радио",
+  "rain": "дождь",
+  "raised": "поднял",
+  "reached": "дошли",
+  "read": "читаю",
+  "really": "действительно",
+  "received": "получала",
+  "recognised": "узнал",
+  "red": "красный",
+  "remembered": "помнили",
+  "rest": "остаток",
+  "return": "обратный",
+  "right": "(right there) прямо, рядом",
+  "river": "река",
+  "rivers": "реки",
+  "road": "дорога",
+  "round": "(walked round) обошёл",
+  "rules": "правила",
+  "run": "убежать",
+  "sad": "грустный",
+  "said": "сказал(а)",
+  "sale": "продажа",
+  "same": "тот же",
+  "sat": "сидела",
+  "saw": "увидел",
+  "say": "говорят; сказать",
+  "screamed": "орал",
+  "second": "секунда",
+  "secretly": "тайно",
+  "see": "видеть",
+  "seen": "видел",
+  "sell": "продать",
+  "sent": "отправлено",
+  "set": "связка, набор",
+  "seven": "семь",
+  "shadow": "тень",
+  "she": "она",
+  "she's": "она (есть)",
+  "short": "короткий",
+  "should": "следует",
+  "shouting": "крича",
+  "show": "показать",
+  "showed": "показывали; показывал",
+  "shrugged": "пожал плечами",
+  "sign": "табличка",
+  "simply": "просто",
+  "single": "(every single) каждый; один",
+  "sits": "сидит",
+  "sitting": "сидела",
+  "six": "шесть",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smile": "улыбка",
+  "smiled": "улыбнулась",
+  "so": "поэтому; так",
+  "solved": "разгадал; разгадалась",
+  "some": "одни; некоторый",
+  "somebody": "кто-то",
+  "someone": "кто-то",
+  "something": "что-то",
+  "somewhere": "где-то",
+  "son": "сын",
+  "soon": "вскоре",
+  "sorry": "(say sorry) попросить прощения",
+  "sound": "звук",
+  "spy": "шпионский",
+  "stamp": "отметка",
+  "standing": "стоя",
+  "steep": "крутой",
+  "stepped": "вышел",
+  "still": "всё же; до сих пор",
+  "stones": "камни",
+  "stood": "выпрямился; стоял",
+  "stop": "перестать",
+  "stopped": "остановилась",
+  "straight": "прямо",
+  "strange": "странный",
+  "stranger": "незнакомец",
+  "street": "улица",
+  "streets": "улицы",
+  "stuck": "заедали",
+  "taking": "забирал",
+  "tall": "высокий",
+  "tea": "чай",
+  "teeth": "зубы",
+  "television": "телевизор",
+  "tell": "говорю",
+  "terrible": "ужасный",
+  "testing": "проверяя",
+  "than": "чем",
+  "that": "что; тот, это",
+  "that's": "это (есть)",
+  "the": "(опр. артикль)",
+  "their": "их, свои",
+  "them": "их",
+  "then": "потом, тогда",
+  "there": "там",
+  "they": "они",
+  "thief": "вор",
+  "thin": "тонкий",
+  "think": "думать",
+  "thinking": "думать",
+  "though": "хотя",
+  "thought": "думал; подумал",
+  "three": "три",
+  "through": "в, сквозь; (looked through) перебрал",
+  "throwing": "бросая",
+  "thursday": "четверг",
+  "time": "раз",
+  "tired": "усталый",
+  "to": "к, в; (частица)",
+  "told": "сказал; рассказал",
+  "too": "тоже",
+  "took": "достала",
+  "torch": "фонарик",
+  "touched": "дотронулся",
+  "towards": "к, по направлению к",
+  "town": "город",
+  "traitor": "предатель",
+  "tree": "дерево",
+  "tried": "старался",
+  "turned": "повернулась; (turned low/off) убавленный, выключенный",
+  "twelve": "двенадцать",
+  "twenty": "двадцать",
+  "twice": "второй раз",
+  "two": "два",
+  "until": "пока не",
+  "up": "вверх",
+  "use": "(no use) бесполезно",
+  "used": "(used to) раньше",
+  "very": "очень",
+  "voice": "голос",
+  "waited": "ждал",
+  "walk": "прогулка",
+  "walked": "пошёл, прошла",
+  "walls": "ограды",
+  "want": "хотеть",
+  "wanted": "хотел",
+  "warmest": "самый тёплый",
+  "was": "был(а)",
+  "watch": "наблюдать",
+  "watched": "смотрел",
+  "water": "вода",
+  "waved": "махала",
+  "way": "путь (on the way)",
+  "weather": "погода",
+  "wednesday": "среда",
+  "weeds": "сорняки",
+  "week": "неделя",
+  "well": "хорошо",
+  "went": "пошёл",
+  "were": "были",
+  "what": "что",
+  "when": "когда",
+  "where": "где",
+  "whether": "ли",
+  "which": "который, что",
+  "while": "(for a while) какое-то время",
+  "white": "белый",
+  "who": "кто, который",
+  "whoever": "тот, кто",
+  "whole": "весь",
+  "why": "почему",
+  "wife": "жена",
+  "window": "окно",
+  "windows": "окна",
+  "with": "с",
+  "without": "без",
+  "woman": "женщина",
+  "won": "победило",
+  "wondered": "размышлял, думал",
+  "words": "слова",
+  "work": "работа",
+  "worked": "работал",
+  "worse": "хуже",
+  "would": "бы",
+  "writing": "почерк",
+  "written": "написан",
+  "wrote": "написал(а)",
+  "year": "год",
+  "years": "лет, годы",
+  "yet": "и всё же",
+  "you": "вы, ты",
+  "you're": "вы (есть)",
+  "you've": "ты (уже)"
+ },
+ "vocab": {
+  "flaw": 579,
+  "before": 141,
+  "teeth": 311,
+  "same": 298,
+  "hat": 155,
+  "married": 283,
+  "despite": 623,
+  "often": 81,
+  "government": 383,
+  "prison": 346,
+  "traitor": 349,
+  "carried": 150,
+  "carry": 150,
+  "boredom": 424,
+  "set": 549,
+  "mistake": 4,
+  "leave": 169,
+  "until": 606,
+  "screamed": 197,
+  "yet": 517,
+  "pain": 173,
+  "opposite": 421,
+  "patience": 408,
+  "dinner": 78,
+  "fixed": 378,
+  "outside": 32,
+  "crowd": 367,
+  "better": 13,
+  "distraction": 472
+ }
+}

@@ -1,0 +1,110 @@
+[
+ {
+  "q": "How did the journalists recognise Snowden at the hotel in Hong Kong?",
+  "q_ru": "Как журналисты узнали Сноудена в отеле в Гонконге?",
+  "options": [
+   "He was wearing a red hood",
+   "He was holding a Rubik's Cube",
+   "He showed them his NSA card",
+   "He was sitting near the fridge"
+  ],
+  "options_ru": [
+   "На нём был красный капюшон",
+   "Он держал в руках кубик Рубика",
+   "Он показал им удостоверение АНБ",
+   "Он сидел рядом с холодильником"
+  ],
+  "answer": 1,
+  "explain_ru": "В тексте: «he would be holding a Rubik's Cube… and he would answer a secret question with a secret answer»."
+ },
+ {
+  "q": "What did the first Guardian story on 5 June 2013 reveal?",
+  "q_ru": "Что раскрыла первая статья The Guardian 5 июня 2013 года?",
+  "options": [
+   "That the NSA listened to Angela Merkel's phone",
+   "That Snowden had left Hong Kong",
+   "A secret court order making Verizon give the NSA phone records every day",
+   "That Google had sold users' data to Russia"
+  ],
+  "options_ru": [
+   "Что АНБ прослушивало телефон Ангелы Меркель",
+   "Что Сноуден покинул Гонконг",
+   "Секретное судебное постановление, обязывавшее Verizon ежедневно передавать АНБ записи о звонках",
+   "Что Google продал данные пользователей России"
+  ],
+  "answer": 2,
+  "explain_ru": "Первая статья рассказала о секретном постановлении суда FISA, по которому Verizon каждый день передавала АНБ записи о звонках клиентов. О Меркель написал Der Spiegel позже, в октябре."
+ },
+ {
+  "q": "What is metadata, according to the article?",
+  "q_ru": "Что такое метаданные, согласно статье?",
+  "options": [
+   "Data about calls: who called whom, when and for how long",
+   "Recordings of the words people say on the phone",
+   "Secret passwords of internet users",
+   "Photos stored on company servers"
+  ],
+  "options_ru": [
+   "Данные о звонках: кто кому звонил, когда и как долго",
+   "Записи слов, которые люди говорят по телефону",
+   "Секретные пароли интернет-пользователей",
+   "Фотографии на серверах компаний"
+  ],
+  "answer": 0,
+  "explain_ru": "Метаданные — «data about communications, such as which number called which, when, and for how long», без содержания разговоров."
+ },
+ {
+  "q": "Why did James Clapper's answer to Senator Wyden matter to Snowden?",
+  "q_ru": "Почему ответ Джеймса Клэппера сенатору Уайдену был важен для Сноудена?",
+  "options": [
+   "Clapper had promised to give Snowden a job",
+   "Clapper had admitted everything in public",
+   "Clapper had asked Snowden to leak the files",
+   "Clapper had said the NSA did not collect data on millions of Americans, which was not true"
+  ],
+  "options_ru": [
+   "Клэппер обещал Сноудену работу",
+   "Клэппер публично во всём признался",
+   "Клэппер попросил Сноудена слить файлы",
+   "Клэппер сказал, что АНБ не собирает данные о миллионах американцев, а это была неправда"
+  ],
+  "answer": 3,
+  "explain_ru": "Клэппер ответил «No, sir… Not wittingly», а Сноуден знал, что это неправда; позже Клэппер извинился и признал, что ответ был неверным."
+ },
+ {
+  "q": "What did the USA Freedom Act of 2015 change?",
+  "q_ru": "Что изменил «Акт о свободе США» 2015 года?",
+  "options": [
+   "It closed Section 702 and ended PRISM",
+   "It gave Snowden permission to return home",
+   "It stopped the NSA from collecting Americans' phone records in bulk",
+   "It made encryption illegal in America"
+  ],
+  "options_ru": [
+   "Он отменил Раздел 702 и закрыл PRISM",
+   "Он разрешил Сноудену вернуться домой",
+   "Он запретил АНБ массово собирать телефонные записи американцев",
+   "Он запретил шифрование в Америке"
+  ],
+  "answer": 2,
+  "explain_ru": "После закона записи остались у телефонных компаний, и для конкретных номеров нужно судебное постановление. Раздел 702 при этом всё ещё действует."
+ },
+ {
+  "q": "Which statement best describes the conclusion of the article?",
+  "q_ru": "Какое утверждение лучше всего передаёт вывод статьи?",
+  "options": [
+   "Mass surveillance was confirmed by documents, official reports and court rulings",
+   "Snowden's claims were never confirmed by anyone",
+   "The surveillance stories were only rumours",
+   "All surveillance laws in America have now been cancelled"
+  ],
+  "options_ru": [
+   "Массовая слежка подтверждена документами, официальными отчётами и решениями судов",
+   "Утверждения Сноудена никто так и не подтвердил",
+   "Истории о слежке были лишь слухами",
+   "Все законы о слежке в Америке теперь отменены"
+  ],
+  "answer": 0,
+  "explain_ru": "Вывод: то, что звучало как теория заговора, стало «a documented fact, confirmed by secret court papers, official reports and, finally, by judges»."
+ }
+]

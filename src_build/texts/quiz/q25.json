@@ -1,0 +1,110 @@
+[
+ {
+  "q": "How did Tomas change in the fifth month?",
+  "q_ru": "Как изменился Томас на пятом месяце?",
+  "options": [
+   "He became loud and angry with everyone.",
+   "He became quiet and spent hours alone in the dome.",
+   "He started baking bread every day.",
+   "He asked to go back to Earth at once."
+  ],
+  "options_ru": [
+   "Стал шумным и злым со всеми.",
+   "Стал молчаливым и часами сидел один в куполе.",
+   "Начал печь хлеб каждый день.",
+   "Попросился сразу вернуться на Землю."
+  ],
+  "answer": 1,
+  "explain_ru": "Томас перестал приходить на ужин, пропускал зарядку и «spent hours alone in the observation dome», хотя раньше всё время шутил."
+ },
+ {
+  "q": "Why was the box of sand so strange?",
+  "q_ru": "Почему коробка с песком была такой странной?",
+  "options": [
+   "Sand is dangerous for the station's computers.",
+   "It was hidden inside the commander's room.",
+   "Everything on the station was checked, and sand was not allowed.",
+   "It was sand from the Moon, not from Earth."
+  ],
+  "options_ru": [
+   "Песок опасен для компьютеров станции.",
+   "Она была спрятана в каюте командира.",
+   "Всё на станции проверялось, и песка там быть не могло.",
+   "Это был песок с Луны, а не с Земли."
+  ],
+  "answer": 2,
+  "explain_ru": "«There was no sand on the station. There could not be. Every gram that flew up from Earth was checked, weighed and written down». Значит, Томас тайно провёз его."
+ },
+ {
+  "q": "After seeing the computer records, what did Lena begin to fear?",
+  "q_ru": "Увидев записи в компьютере, чего начала бояться Лена?",
+  "options": [
+   "That Tomas was seriously ill.",
+   "That Tomas wanted to leave the company.",
+   "That the control centre was spying on her.",
+   "That Tomas planned to damage the station."
+  ],
+  "options_ru": [
+   "Что Томас тяжело болен.",
+   "Что Томас хочет уйти из компании.",
+   "Что центр управления шпионит за ней.",
+   "Что Томас собирается повредить станцию."
+  ],
+  "answer": 3,
+  "explain_ru": "Томас 11 ночей подряд открывал файлы о раме, болтах и стекле купола. Лена думала, что кто-то может захотеть навредить Orbis: «the station was the perfect place to do it»."
+ },
+ {
+  "q": "Why didn't Tomas tell the crew about the crack?",
+  "q_ru": "Почему Томас не рассказал экипажу о трещине?",
+  "options": [
+   "A man from company security told him to keep it secret.",
+   "He thought the crack was too small to matter.",
+   "He wanted to repair it alone and become a hero.",
+   "Commander Adebayo had ordered him to stay silent."
+  ],
+  "options_ru": [
+   "Человек из службы безопасности компании велел держать это в секрете.",
+   "Думал, что трещина слишком мала, чтобы о ней говорить.",
+   "Хотел починить её сам и стать героем.",
+   "Командир Адебайо приказала ему молчать."
+  ],
+  "answer": 0,
+  "explain_ru": "Он отправил отчёт на Землю, но ему позвонили и сказали: «I mustn't tell the crew… panic would reduce the quality of our work», напомнив о бонусе."
+ },
+ {
+  "q": "Tomas says, 'I waited, because I was a coward.' What is a 'coward'?",
+  "q_ru": "Томас говорит: «I waited, because I was a coward». Кто такой «coward»?",
+  "options": [
+   "A person who is not brave enough to act.",
+   "A person who tells lies for money.",
+   "A person who works too hard.",
+   "A person who feels very lonely."
+  ],
+  "options_ru": [
+   "Человек, которому не хватает смелости действовать.",
+   "Человек, который лжёт ради денег.",
+   "Человек, который слишком много работает.",
+   "Человек, который чувствует себя очень одиноким."
+  ],
+  "answer": 0,
+  "explain_ru": "Томас знал об опасности, но боялся пойти против компании и просто ждал. «Coward» — трус."
+ },
+ {
+  "q": "What did Lena learn from this mission?",
+  "q_ru": "Чему Лена научилась в этой миссии?",
+  "options": [
+   "That a company always tells the truth to its crew.",
+   "That small cracks in glass are never dangerous.",
+   "That in a closed world, silence is the worst danger.",
+   "That a scientist should not trust her friends."
+  ],
+  "options_ru": [
+   "Что компания всегда говорит экипажу правду.",
+   "Что маленькие трещины в стекле никогда не опасны.",
+   "Что в замкнутом мире молчание — самая большая опасность.",
+   "Что учёный не должен доверять друзьям."
+  ],
+  "answer": 2,
+  "explain_ru": "В конце: «in a closed world, the worst danger is not a crack, but silence». Командир рассказала всё по открытой линии, экипаж вернулся домой, и Томас обнял дочь."
+ }
+]

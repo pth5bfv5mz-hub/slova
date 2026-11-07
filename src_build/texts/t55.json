@@ -1,0 +1,1280 @@
+{
+ "id": 55,
+ "level": "B1",
+ "cat": "cons",
+ "title_en": "The Attack That Never Was: The Gulf of Tonkin, 1964",
+ "title_ru": "Атака, которой не было: Тонкинский залив, 1964",
+ "genre": "Конспирология: правда",
+ "summary_ru": "В августе 1964 года президент США объявил о нападении на американские корабли у берегов Вьетнама и получил право начать войну, но рассекреченные в 2005 году документы АНБ показали, что второго нападения, скорее всего, вообще не было.",
+ "paragraphs": [
+  {
+   "en": "Late in the evening of 4 August 1964, millions of Americans were watching television when the President of the United States suddenly appeared on their screens. Lyndon B. Johnson looked serious. He told the nation that American warships had been attacked by North Vietnamese boats in international waters, for the second time in three days. He announced that American planes were already on their way to strike back.",
+   "ru": "Поздно вечером 4 августа 1964 года миллионы американцев смотрели телевизор, когда на их экранах неожиданно появился президент Соединённых Штатов. Линдон Б. Джонсон выглядел серьёзным. Он сообщил народу, что американские военные корабли были атакованы северовьетнамскими катерами в международных водах — второй раз за три дня. Он объявил, что американские самолёты уже летят, чтобы нанести ответный удар.",
+   "s": [
+    [
+     "Late in the evening of 4 August 1964, millions of Americans were watching television when the President of the United States suddenly appeared on their screens.",
+     "Поздно вечером 4 августа 1964 года миллионы американцев смотрели телевизор, когда на их экранах неожиданно появился президент Соединённых Штатов."
+    ],
+    [
+     "Lyndon B. Johnson looked serious.",
+     "Линдон Б. Джонсон выглядел серьёзным."
+    ],
+    [
+     "He told the nation that American warships had been attacked by North Vietnamese boats in international waters, for the second time in three days.",
+     "Он сообщил народу, что американские военные корабли были атакованы северовьетнамскими катерами в международных водах — второй раз за три дня."
+    ],
+    [
+     "He announced that American planes were already on their way to strike back.",
+     "Он объявил, что американские самолёты уже летят, чтобы нанести ответный удар."
+    ]
+   ]
+  },
+  {
+   "en": "Within a few days, Congress gave Johnson the power to use military force in Southeast Asia almost without limits. Within a year, American soldiers were fighting a real war in Vietnam. But there was a problem with the story that the President had told. The second attack, the one that started it all, most likely never happened.",
+   "ru": "Через несколько дней Конгресс дал Джонсону право применять военную силу в Юго-Восточной Азии почти без ограничений. Через год американские солдаты уже вели во Вьетнаме настоящую войну. Но с историей, которую рассказал президент, была одна проблема. Второго нападения — того самого, с которого всё началось, — скорее всего, никогда не было.",
+   "s": [
+    [
+     "Within a few days, Congress gave Johnson the power to use military force in Southeast Asia almost without limits.",
+     "Через несколько дней Конгресс дал Джонсону право применять военную силу в Юго-Восточной Азии почти без ограничений."
+    ],
+    [
+     "Within a year, American soldiers were fighting a real war in Vietnam.",
+     "Через год американские солдаты уже вели во Вьетнаме настоящую войну."
+    ],
+    [
+     "But there was a problem with the story that the President had told.",
+     "Но с историей, которую рассказал президент, была одна проблема."
+    ],
+    [
+     "The second attack, the one that started it all, most likely never happened.",
+     "Второго нападения — того самого, с которого всё началось, — скорее всего, никогда не было."
+    ]
+   ]
+  },
+  {
+   "en": "This is the story of how a confused night at sea became one of the most important events of the twentieth century, and how secret documents, many years later, showed what had really happened.",
+   "ru": "Это история о том, как одна запутанная ночь в море стала одним из самых важных событий двадцатого века и как секретные документы много лет спустя показали, что произошло на самом деле.",
+   "s": [
+    [
+     "This is the story of how a confused night at sea became one of the most important events of the twentieth century, and how secret documents, many years later, showed what had really happened.",
+     "Это история о том, как одна запутанная ночь в море стала одним из самых важных событий двадцатого века и как секретные документы много лет спустя показали, что произошло на самом деле."
+    ]
+   ]
+  },
+  {
+   "en": "To understand the events of that summer, we need to go back a little. In 1964, Vietnam was divided into two states. North Vietnam was a communist country supported by the Soviet Union and China. South Vietnam was supported by the United States, which had sent money, weapons and thousands of military advisers there. Communist fighters in the South, known as the Viet Cong, were fighting against the government in Saigon, and they received help from the North.",
+   "ru": "Чтобы понять события того лета, нужно немного вернуться назад. В 1964 году Вьетнам был разделён на два государства. Северный Вьетнам был коммунистической страной, которую поддерживали Советский Союз и Китай. Южный Вьетнам поддерживали Соединённые Штаты, которые отправили туда деньги, оружие и тысячи военных советников. Коммунистические бойцы на Юге, известные как Вьетконг, воевали против правительства в Сайгоне и получали помощь с Севера.",
+   "s": [
+    [
+     "To understand the events of that summer, we need to go back a little.",
+     "Чтобы понять события того лета, нужно немного вернуться назад."
+    ],
+    [
+     "In 1964, Vietnam was divided into two states.",
+     "В 1964 году Вьетнам был разделён на два государства."
+    ],
+    [
+     "North Vietnam was a communist country supported by the Soviet Union and China.",
+     "Северный Вьетнам был коммунистической страной, которую поддерживали Советский Союз и Китай."
+    ],
+    [
+     "South Vietnam was supported by the United States, which had sent money, weapons and thousands of military advisers there.",
+     "Южный Вьетнам поддерживали Соединённые Штаты, которые отправили туда деньги, оружие и тысячи военных советников."
+    ],
+    [
+     "Communist fighters in the South, known as the Viet Cong, were fighting against the government in Saigon, and they received help from the North.",
+     "Коммунистические бойцы на Юге, известные как Вьетконг, воевали против правительства в Сайгоне и получали помощь с Севера."
+    ]
+   ]
+  },
+  {
+   "en": "Many people in Washington were anxious. They believed that if South Vietnam became communist, other countries in the region might follow, one after another, like a line of falling dominoes. This idea was often called the \"domino theory\". The United States had already invested a lot of money and political energy in South Vietnam, and its leaders were afraid that losing it would humiliate America in front of the whole world.",
+   "ru": "Многие в Вашингтоне были встревожены. Они считали, что если Южный Вьетнам станет коммунистическим, другие страны региона могут последовать за ним, одна за другой, как ряд падающих костяшек домино. Эту идею часто называли «теорией домино». Соединённые Штаты уже вложили в Южный Вьетнам много денег и политических сил, и их руководители боялись, что его потеря унизит Америку перед всем миром.",
+   "s": [
+    [
+     "Many people in Washington were anxious.",
+     "Многие в Вашингтоне были встревожены."
+    ],
+    [
+     "They believed that if South Vietnam became communist, other countries in the region might follow, one after another, like a line of falling dominoes.",
+     "Они считали, что если Южный Вьетнам станет коммунистическим, другие страны региона могут последовать за ним, одна за другой, как ряд падающих костяшек домино."
+    ],
+    [
+     "This idea was often called the \"domino theory\".",
+     "Эту идею часто называли «теорией домино»."
+    ],
+    [
+     "The United States had already invested a lot of money and political energy in South Vietnam, and its leaders were afraid that losing it would humiliate America in front of the whole world.",
+     "Соединённые Штаты уже вложили в Южный Вьетнам много денег и политических сил, и их руководители боялись, что его потеря унизит Америку перед всем миром."
+    ]
+   ]
+  },
+  {
+   "en": "At the same time, the United States was secretly helping South Vietnam to attack the North. Under a programme called OPLAN 34A, small fast boats with South Vietnamese crews raided targets on the North Vietnamese coast. The boats had been provided by the Americans, and the raids were planned with American help. On the night of 30 to 31 July 1964, such boats attacked two North Vietnamese islands in the Gulf of Tonkin, a large bay between North Vietnam and the Chinese island of Hainan.",
+   "ru": "В то же время Соединённые Штаты тайно помогали Южному Вьетнаму нападать на Север. В рамках программы под названием OPLAN 34A небольшие быстрые катера с южновьетнамскими экипажами совершали налёты на цели на северовьетнамском побережье. Катера были предоставлены американцами, а налёты планировались с американской помощью. В ночь с 30 на 31 июля 1964 года такие катера атаковали два северовьетнамских острова в Тонкинском заливе — большом заливе между Северным Вьетнамом и китайским островом Хайнань.",
+   "s": [
+    [
+     "At the same time, the United States was secretly helping South Vietnam to attack the North.",
+     "В то же время Соединённые Штаты тайно помогали Южному Вьетнаму нападать на Север."
+    ],
+    [
+     "Under a programme called OPLAN 34A, small fast boats with South Vietnamese crews raided targets on the North Vietnamese coast.",
+     "В рамках программы под названием OPLAN 34A небольшие быстрые катера с южновьетнамскими экипажами совершали налёты на цели на северовьетнамском побережье."
+    ],
+    [
+     "The boats had been provided by the Americans, and the raids were planned with American help.",
+     "Катера были предоставлены американцами, а налёты планировались с американской помощью."
+    ],
+    [
+     "On the night of 30 to 31 July 1964, such boats attacked two North Vietnamese islands in the Gulf of Tonkin, a large bay between North Vietnam and the Chinese island of Hainan.",
+     "В ночь с 30 на 31 июля 1964 года такие катера атаковали два северовьетнамских острова в Тонкинском заливе — большом заливе между Северным Вьетнамом и китайским островом Хайнань."
+    ]
+   ]
+  },
+  {
+   "en": "Only a short distance away, an American destroyer, the USS Maddox, was sailing along the same coast. It was on a special mission called a DESOTO patrol. Its job was to collect electronic intelligence: to listen to North Vietnamese radio messages and to find the positions of their radar stations. Officially, the Maddox had nothing to do with the raids. But for the North Vietnamese, who saw both the raiders and an American warship near their coast, it was easy to believe that they were working together.",
+   "ru": "Совсем недалеко вдоль того же побережья шёл американский эсминец «Мэддокс». Он выполнял особое задание, которое называлось патрулём DESOTO. Его задачей был сбор радиоэлектронной разведки: прослушивать северовьетнамские радиосообщения и определять расположение их радиолокационных станций. Официально «Мэддокс» не имел никакого отношения к налётам. Но северным вьетнамцам, которые видели у своего берега и налётчиков, и американский военный корабль, было легко поверить, что они действуют вместе.",
+   "s": [
+    [
+     "Only a short distance away, an American destroyer, the USS Maddox, was sailing along the same coast.",
+     "Совсем недалеко вдоль того же побережья шёл американский эсминец «Мэддокс»."
+    ],
+    [
+     "It was on a special mission called a DESOTO patrol.",
+     "Он выполнял особое задание, которое называлось патрулём DESOTO."
+    ],
+    [
+     "Its job was to collect electronic intelligence: to listen to North Vietnamese radio messages and to find the positions of their radar stations.",
+     "Его задачей был сбор радиоэлектронной разведки: прослушивать северовьетнамские радиосообщения и определять расположение их радиолокационных станций."
+    ],
+    [
+     "Officially, the Maddox had nothing to do with the raids.",
+     "Официально «Мэддокс» не имел никакого отношения к налётам."
+    ],
+    [
+     "But for the North Vietnamese, who saw both the raiders and an American warship near their coast, it was easy to believe that they were working together.",
+     "Но северным вьетнамцам, которые видели у своего берега и налётчиков, и американский военный корабль, было легко поверить, что они действуют вместе."
+    ]
+   ]
+  },
+  {
+   "en": "On the afternoon of 2 August, three North Vietnamese torpedo boats raced towards the Maddox. The destroyer fired warning shots and then fired directly at the boats. The boats launched torpedoes, but all of them missed. Planes from the aircraft carrier USS Ticonderoga soon arrived and attacked the boats. When the short battle was over, the North Vietnamese boats had been badly damaged and several of their sailors had been killed. The Maddox had been hit by just one bullet, and no Americans were hurt.",
+   "ru": "Днём 2 августа три северовьетнамских торпедных катера устремились к «Мэддоксу». Эсминец сделал предупредительные выстрелы, а затем открыл огонь прямо по катерам. Катера выпустили торпеды, но все они прошли мимо. Вскоре прилетели самолёты с авианосца «Тикондерога» и атаковали катера. Когда короткий бой закончился, северовьетнамские катера были сильно повреждены, а несколько их моряков погибли. В «Мэддокс» попала всего одна пуля, и никто из американцев не пострадал.",
+   "s": [
+    [
+     "On the afternoon of 2 August, three North Vietnamese torpedo boats raced towards the Maddox.",
+     "Днём 2 августа три северовьетнамских торпедных катера устремились к «Мэддоксу»."
+    ],
+    [
+     "The destroyer fired warning shots and then fired directly at the boats.",
+     "Эсминец сделал предупредительные выстрелы, а затем открыл огонь прямо по катерам."
+    ],
+    [
+     "The boats launched torpedoes, but all of them missed.",
+     "Катера выпустили торпеды, но все они прошли мимо."
+    ],
+    [
+     "Planes from the aircraft carrier USS Ticonderoga soon arrived and attacked the boats.",
+     "Вскоре прилетели самолёты с авианосца «Тикондерога» и атаковали катера."
+    ],
+    [
+     "When the short battle was over, the North Vietnamese boats had been badly damaged and several of their sailors had been killed.",
+     "Когда короткий бой закончился, северовьетнамские катера были сильно повреждены, а несколько их моряков погибли."
+    ],
+    [
+     "The Maddox had been hit by just one bullet, and no Americans were hurt.",
+     "В «Мэддокс» попала всего одна пуля, и никто из американцев не пострадал."
+    ]
+   ]
+  },
+  {
+   "en": "This first clash really happened, and nobody seriously doubts it today. Vietnamese officials later confirmed it themselves. Johnson decided not to strike back. Instead, he sent a warning to the government in Hanoi and ordered the Maddox to continue its patrol, now together with a second destroyer, the USS Turner Joy.",
+   "ru": "Это первое столкновение действительно произошло, и сегодня никто всерьёз в этом не сомневается. Позже вьетнамские официальные лица сами это подтвердили. Джонсон решил не наносить ответного удара. Вместо этого он направил предупреждение правительству в Ханое и приказал «Мэддоксу» продолжить патрулирование, теперь вместе со вторым эсминцем — «Тёрнер Джой».",
+   "s": [
+    [
+     "This first clash really happened, and nobody seriously doubts it today.",
+     "Это первое столкновение действительно произошло, и сегодня никто всерьёз в этом не сомневается."
+    ],
+    [
+     "Vietnamese officials later confirmed it themselves.",
+     "Позже вьетнамские официальные лица сами это подтвердили."
+    ],
+    [
+     "Johnson decided not to strike back.",
+     "Джонсон решил не наносить ответного удара."
+    ],
+    [
+     "Instead, he sent a warning to the government in Hanoi and ordered the Maddox to continue its patrol, now together with a second destroyer, the USS Turner Joy.",
+     "Вместо этого он направил предупреждение правительству в Ханое и приказал «Мэддоксу» продолжить патрулирование, теперь вместе со вторым эсминцем — «Тёрнер Джой»."
+    ]
+   ]
+  },
+  {
+   "en": "On the evening of 4 August, the two ships were sailing far from the coast. The weather was bad, the sea was rough and the night was very dark. Earlier that day, American intelligence had intercepted North Vietnamese messages which seemed to suggest that another attack was being prepared. The crews were tense and expected a fight.",
+   "ru": "Вечером 4 августа оба корабля шли далеко от берега. Погода была плохой, море — бурным, а ночь — очень тёмной. Ранее в тот день американская разведка перехватила северовьетнамские сообщения, которые, казалось, указывали на то, что готовится новое нападение. Экипажи были напряжены и ждали боя.",
+   "s": [
+    [
+     "On the evening of 4 August, the two ships were sailing far from the coast.",
+     "Вечером 4 августа оба корабля шли далеко от берега."
+    ],
+    [
+     "The weather was bad, the sea was rough and the night was very dark.",
+     "Погода была плохой, море — бурным, а ночь — очень тёмной."
+    ],
+    [
+     "Earlier that day, American intelligence had intercepted North Vietnamese messages which seemed to suggest that another attack was being prepared.",
+     "Ранее в тот день американская разведка перехватила северовьетнамские сообщения, которые, казалось, указывали на то, что готовится новое нападение."
+    ],
+    [
+     "The crews were tense and expected a fight.",
+     "Экипажи были напряжены и ждали боя."
+    ]
+   ]
+  },
+  {
+   "en": "Then the radar screens began to show small objects that seemed to be moving fast. The sonar operator on the Maddox, a sailor who listens for sounds under the water, reported torpedoes in the water. For several hours, the destroyers turned sharply, changed speed and fired hundreds of shells into the darkness. Messages were sent to Washington: the ships were under attack, many torpedoes had been fired, and perhaps two enemy boats had been sunk.",
+   "ru": "Затем на экранах радаров начали появляться небольшие объекты, которые, казалось, быстро двигались. Гидроакустик на «Мэддоксе» — моряк, который прослушивает звуки под водой, — доложил о торпедах в воде. Несколько часов эсминцы резко поворачивали, меняли скорость и выпустили в темноту сотни снарядов. В Вашингтон отправляли сообщения: корабли атакованы, выпущено много торпед, и, возможно, два вражеских катера потоплены.",
+   "s": [
+    [
+     "Then the radar screens began to show small objects that seemed to be moving fast.",
+     "Затем на экранах радаров начали появляться небольшие объекты, которые, казалось, быстро двигались."
+    ],
+    [
+     "The sonar operator on the Maddox, a sailor who listens for sounds under the water, reported torpedoes in the water.",
+     "Гидроакустик на «Мэддоксе» — моряк, который прослушивает звуки под водой, — доложил о торпедах в воде."
+    ],
+    [
+     "For several hours, the destroyers turned sharply, changed speed and fired hundreds of shells into the darkness.",
+     "Несколько часов эсминцы резко поворачивали, меняли скорость и выпустили в темноту сотни снарядов."
+    ],
+    [
+     "Messages were sent to Washington: the ships were under attack, many torpedoes had been fired, and perhaps two enemy boats had been sunk.",
+     "В Вашингтон отправляли сообщения: корабли атакованы, выпущено много торпед, и, возможно, два вражеских катера потоплены."
+    ]
+   ]
+  },
+  {
+   "en": "But there were strange things about this battle. Nobody on the ships clearly saw an enemy boat with their own eyes. No torpedo hit either ship. James Stockdale, an experienced Navy pilot who flew above the destroyers that night, later wrote that he had looked carefully and had seen no enemy boats at all, only black water and American ships firing at nothing.",
+   "ru": "Но в этом бою было много странного. Никто на кораблях так и не увидел вражеский катер отчётливо своими глазами. Ни одна торпеда не попала ни в один из кораблей. Джеймс Стокдейл, опытный морской лётчик, который той ночью летал над эсминцами, позже писал, что внимательно смотрел и не увидел вообще никаких вражеских катеров — только чёрную воду и американские корабли, стрелявшие в пустоту.",
+   "s": [
+    [
+     "But there were strange things about this battle.",
+     "Но в этом бою было много странного."
+    ],
+    [
+     "Nobody on the ships clearly saw an enemy boat with their own eyes.",
+     "Никто на кораблях так и не увидел вражеский катер отчётливо своими глазами."
+    ],
+    [
+     "No torpedo hit either ship.",
+     "Ни одна торпеда не попала ни в один из кораблей."
+    ],
+    [
+     "James Stockdale, an experienced Navy pilot who flew above the destroyers that night, later wrote that he had looked carefully and had seen no enemy boats at all, only black water and American ships firing at nothing.",
+     "Джеймс Стокдейл, опытный морской лётчик, который той ночью летал над эсминцами, позже писал, что внимательно смотрел и не увидел вообще никаких вражеских катеров — только чёрную воду и американские корабли, стрелявшие в пустоту."
+    ]
+   ]
+  },
+  {
+   "en": "The commander of the two ships, Captain John Herrick, soon began to have doubts himself. A few hours after the \"battle\", he sent a message to his superiors. He wrote that many of the reported contacts and torpedoes now appeared doubtful, and that \"freak weather effects on radar and overeager sonarmen may have accounted for much\". In simple words, the unusual weather could have created false signals on the radar, and nervous young sailors could have heard torpedoes that were not there. He suggested a complete evaluation before any further action was taken.",
+   "ru": "Командир обоих кораблей, капитан Джон Херрик, вскоре и сам начал сомневаться. Через несколько часов после «боя» он отправил сообщение своему начальству. Он написал, что многие из обнаруженных целей и торпед теперь кажутся сомнительными и что «многое могли объяснить необычные погодные эффекты на радаре и слишком усердные акустики». Проще говоря, необычная погода могла создать на радаре ложные сигналы, а нервные молодые моряки могли услышать торпеды, которых не было. Он предложил провести полную проверку, прежде чем предпринимать какие-либо дальнейшие действия.",
+   "s": [
+    [
+     "The commander of the two ships, Captain John Herrick, soon began to have doubts himself.",
+     "Командир обоих кораблей, капитан Джон Херрик, вскоре и сам начал сомневаться."
+    ],
+    [
+     "A few hours after the \"battle\", he sent a message to his superiors.",
+     "Через несколько часов после «боя» он отправил сообщение своему начальству."
+    ],
+    [
+     "He wrote that many of the reported contacts and torpedoes now appeared doubtful, and that \"freak weather effects on radar and overeager sonarmen may have accounted for much\".",
+     "Он написал, что многие из обнаруженных целей и торпед теперь кажутся сомнительными и что «многое могли объяснить необычные погодные эффекты на радаре и слишком усердные акустики»."
+    ],
+    [
+     "In simple words, the unusual weather could have created false signals on the radar, and nervous young sailors could have heard torpedoes that were not there.",
+     "Проще говоря, необычная погода могла создать на радаре ложные сигналы, а нервные молодые моряки могли услышать торпеды, которых не было."
+    ],
+    [
+     "He suggested a complete evaluation before any further action was taken.",
+     "Он предложил провести полную проверку, прежде чем предпринимать какие-либо дальнейшие действия."
+    ]
+   ]
+  },
+  {
+   "en": "Herrick's message reached Washington, but the government did not wait. Defense Secretary Robert McNamara asked the military for proof, and he was told that intercepted North Vietnamese radio messages confirmed the attack. Johnson ordered air strikes. On 5 August, American planes bombed North Vietnamese torpedo boat bases and a large oil storage site. Two planes were shot down. One pilot was killed, and another, Lieutenant Everett Alvarez, was captured. He spent more than eight years as a prisoner of war.",
+   "ru": "Сообщение Херрика дошло до Вашингтона, но правительство не стало ждать. Министр обороны Роберт Макнамара запросил у военных доказательства, и ему сообщили, что перехваченные северовьетнамские радиосообщения подтверждают нападение. Джонсон приказал нанести авиаудары. 5 августа американские самолёты разбомбили северовьетнамские базы торпедных катеров и большое нефтехранилище. Два самолёта были сбиты. Один лётчик погиб, а другой, лейтенант Эверетт Альварес, попал в плен. Он провёл более восьми лет в плену.",
+   "s": [
+    [
+     "Herrick's message reached Washington, but the government did not wait.",
+     "Сообщение Херрика дошло до Вашингтона, но правительство не стало ждать."
+    ],
+    [
+     "Defense Secretary Robert McNamara asked the military for proof, and he was told that intercepted North Vietnamese radio messages confirmed the attack.",
+     "Министр обороны Роберт Макнамара запросил у военных доказательства, и ему сообщили, что перехваченные северовьетнамские радиосообщения подтверждают нападение."
+    ],
+    [
+     "Johnson ordered air strikes.",
+     "Джонсон приказал нанести авиаудары."
+    ],
+    [
+     "On 5 August, American planes bombed North Vietnamese torpedo boat bases and a large oil storage site.",
+     "5 августа американские самолёты разбомбили северовьетнамские базы торпедных катеров и большое нефтехранилище."
+    ],
+    [
+     "Two planes were shot down.",
+     "Два самолёта были сбиты."
+    ],
+    [
+     "One pilot was killed, and another, Lieutenant Everett Alvarez, was captured.",
+     "Один лётчик погиб, а другой, лейтенант Эверетт Альварес, попал в плен."
+    ],
+    [
+     "He spent more than eight years as a prisoner of war.",
+     "Он провёл более восьми лет в плену."
+    ]
+   ]
+  },
+  {
+   "en": "The President also asked Congress for support. On 7 August, Congress passed the Gulf of Tonkin Resolution. It allowed the President to \"take all necessary measures\" to stop attacks against American forces and to prevent further aggression. The vote in the House of Representatives was 416 to 0. In the Senate, only two senators, Wayne Morse and Ernest Gruening, voted against it. Morse warned that the resolution gave the President the power to make war without a declaration of war, which, according to the Constitution, only Congress can make.",
+   "ru": "Президент также попросил поддержки у Конгресса. 7 августа Конгресс принял Тонкинскую резолюцию. Она разрешала президенту «принимать все необходимые меры», чтобы отражать нападения на американские войска и предотвращать дальнейшую агрессию. В Палате представителей голосование закончилось со счётом 416 к 0. В Сенате против проголосовали лишь двое сенаторов — Уэйн Морс и Эрнест Грюнинг. Морс предупреждал, что резолюция даёт президенту право вести войну без объявления войны, которое по Конституции может сделать только Конгресс.",
+   "s": [
+    [
+     "The President also asked Congress for support.",
+     "Президент также попросил поддержки у Конгресса."
+    ],
+    [
+     "On 7 August, Congress passed the Gulf of Tonkin Resolution.",
+     "7 августа Конгресс принял Тонкинскую резолюцию."
+    ],
+    [
+     "It allowed the President to \"take all necessary measures\" to stop attacks against American forces and to prevent further aggression.",
+     "Она разрешала президенту «принимать все необходимые меры», чтобы отражать нападения на американские войска и предотвращать дальнейшую агрессию."
+    ],
+    [
+     "The vote in the House of Representatives was 416 to 0.",
+     "В Палате представителей голосование закончилось со счётом 416 к 0."
+    ],
+    [
+     "In the Senate, only two senators, Wayne Morse and Ernest Gruening, voted against it.",
+     "В Сенате против проголосовали лишь двое сенаторов — Уэйн Морс и Эрнест Грюнинг."
+    ],
+    [
+     "Morse warned that the resolution gave the President the power to make war without a declaration of war, which, according to the Constitution, only Congress can make.",
+     "Морс предупреждал, что резолюция даёт президенту право вести войну без объявления войны, которое по Конституции может сделать только Конгресс."
+    ]
+   ]
+  },
+  {
+   "en": "Most members of Congress did not know the full story. They were told that the Maddox had been on a routine patrol, and they did not hear about Herrick's doubts. They also did not know that a draft of a similar resolution had been written months earlier, while the White House waited for the right moment to ask for it.",
+   "ru": "Большинство членов Конгресса не знали всей истории. Им сказали, что «Мэддокс» находился в обычном патрулировании, и они ничего не услышали о сомнениях Херрика. Они также не знали, что проект похожей резолюции был написан за несколько месяцев до этого, пока Белый дом ждал подходящего момента, чтобы её запросить.",
+   "s": [
+    [
+     "Most members of Congress did not know the full story.",
+     "Большинство членов Конгресса не знали всей истории."
+    ],
+    [
+     "They were told that the Maddox had been on a routine patrol, and they did not hear about Herrick's doubts.",
+     "Им сказали, что «Мэддокс» находился в обычном патрулировании, и они ничего не услышали о сомнениях Херрика."
+    ],
+    [
+     "They also did not know that a draft of a similar resolution had been written months earlier, while the White House waited for the right moment to ask for it.",
+     "Они также не знали, что проект похожей резолюции был написан за несколько месяцев до этого, пока Белый дом ждал подходящего момента, чтобы её запросить."
+    ]
+   ]
+  },
+  {
+   "en": "Why did Johnson act so quickly? The presidential election was only three months away, and his opponent, Barry Goldwater, said that he was too weak against communism. Historians still disagree about how much Johnson understood about the doubts on the night of 4 August. Some believe that he honestly accepted what his advisers told him, while others see a cunning politician who used an opportunity. What is clear is that he did not wait until the events were properly investigated. Later, in private, he is reported to have joked: \"For all I know, our Navy was shooting at whales out there.\"",
+   "ru": "Почему Джонсон действовал так быстро? До президентских выборов оставалось всего три месяца, и его соперник Барри Голдуотер говорил, что он слишком слаб в борьбе с коммунизмом. Историки до сих пор спорят о том, насколько Джонсон понимал существующие сомнения в ночь на 4 августа. Одни считают, что он честно принял то, что говорили ему советники, а другие видят в нём хитрого политика, который воспользовался удобным случаем. Ясно одно: он не стал ждать, пока события будут как следует расследованы. Позже, в частном разговоре, он, по свидетельствам, пошутил: «Насколько я знаю, наш флот там стрелял по китам».",
+   "s": [
+    [
+     "Why did Johnson act so quickly?",
+     "Почему Джонсон действовал так быстро?"
+    ],
+    [
+     "The presidential election was only three months away, and his opponent, Barry Goldwater, said that he was too weak against communism.",
+     "До президентских выборов оставалось всего три месяца, и его соперник Барри Голдуотер говорил, что он слишком слаб в борьбе с коммунизмом."
+    ],
+    [
+     "Historians still disagree about how much Johnson understood about the doubts on the night of 4 August.",
+     "Историки до сих пор спорят о том, насколько Джонсон понимал существующие сомнения в ночь на 4 августа."
+    ],
+    [
+     "Some believe that he honestly accepted what his advisers told him, while others see a cunning politician who used an opportunity.",
+     "Одни считают, что он честно принял то, что говорили ему советники, а другие видят в нём хитрого политика, который воспользовался удобным случаем."
+    ],
+    [
+     "What is clear is that he did not wait until the events were properly investigated.",
+     "Ясно одно: он не стал ждать, пока события будут как следует расследованы."
+    ],
+    [
+     "Later, in private, he is reported to have joked: \"For all I know, our Navy was shooting at whales out there.\"",
+     "Позже, в частном разговоре, он, по свидетельствам, пошутил: «Насколько я знаю, наш флот там стрелял по китам»."
+    ]
+   ]
+  },
+  {
+   "en": "The resolution became the legal path to a much larger war. In early 1965, Johnson started a long bombing campaign against North Vietnam, and in March the first American combat troops landed at Da Nang. By 1968, more than half a million American soldiers were in Vietnam. The long and expensive war continued until 1973 for the United States and until 1975 for the Vietnamese. About 58,000 Americans died, and the number of Vietnamese deaths, according to different estimates, was well over a million.",
+   "ru": "Резолюция стала законным путём к гораздо более масштабной войне. В начале 1965 года Джонсон начал долгую кампанию бомбардировок Северного Вьетнама, а в марте в Дананге высадились первые американские боевые части. К 1968 году во Вьетнаме находилось более полумиллиона американских солдат. Долгая и дорогостоящая война продолжалась до 1973 года для Соединённых Штатов и до 1975 года для вьетнамцев. Погибли около 58 000 американцев, а число погибших вьетнамцев, по разным оценкам, намного превысило миллион.",
+   "s": [
+    [
+     "The resolution became the legal path to a much larger war.",
+     "Резолюция стала законным путём к гораздо более масштабной войне."
+    ],
+    [
+     "In early 1965, Johnson started a long bombing campaign against North Vietnam, and in March the first American combat troops landed at Da Nang.",
+     "В начале 1965 года Джонсон начал долгую кампанию бомбардировок Северного Вьетнама, а в марте в Дананге высадились первые американские боевые части."
+    ],
+    [
+     "By 1968, more than half a million American soldiers were in Vietnam.",
+     "К 1968 году во Вьетнаме находилось более полумиллиона американских солдат."
+    ],
+    [
+     "The long and expensive war continued until 1973 for the United States and until 1975 for the Vietnamese.",
+     "Долгая и дорогостоящая война продолжалась до 1973 года для Соединённых Штатов и до 1975 года для вьетнамцев."
+    ],
+    [
+     "About 58,000 Americans died, and the number of Vietnamese deaths, according to different estimates, was well over a million.",
+     "Погибли около 58 000 американцев, а число погибших вьетнамцев, по разным оценкам, намного превысило миллион."
+    ]
+   ]
+  },
+  {
+   "en": "Questions about the incident appeared quite early. In 1968, the Senate Foreign Relations Committee, led by Senator J. William Fulbright, held hearings on what had happened in the gulf. Fulbright had helped to pass the resolution in 1964, and he later deeply regretted it. Some senators said that they felt they had been misled.",
+   "ru": "Вопросы об инциденте появились довольно рано. В 1968 году сенатский комитет по международным отношениям во главе с сенатором Дж. Уильямом Фулбрайтом провёл слушания о том, что произошло в заливе. Фулбрайт в 1964 году помог принять резолюцию и позже глубоко об этом сожалел. Некоторые сенаторы говорили, что чувствуют себя обманутыми.",
+   "s": [
+    [
+     "Questions about the incident appeared quite early.",
+     "Вопросы об инциденте появились довольно рано."
+    ],
+    [
+     "In 1968, the Senate Foreign Relations Committee, led by Senator J. William Fulbright, held hearings on what had happened in the gulf.",
+     "В 1968 году сенатский комитет по международным отношениям во главе с сенатором Дж. Уильямом Фулбрайтом провёл слушания о том, что произошло в заливе."
+    ],
+    [
+     "Fulbright had helped to pass the resolution in 1964, and he later deeply regretted it.",
+     "Фулбрайт в 1964 году помог принять резолюцию и позже глубоко об этом сожалел."
+    ],
+    [
+     "Some senators said that they felt they had been misled.",
+     "Некоторые сенаторы говорили, что чувствуют себя обманутыми."
+    ]
+   ]
+  },
+  {
+   "en": "In 1971, the Pentagon Papers, a secret Defense Department history of the war, were leaked to newspapers by the analyst Daniel Ellsberg. They showed the public how closely the United States had been involved in the raids against North Vietnam. By then, Congress had already cancelled the Gulf of Tonkin Resolution, and in 1973 it passed the War Powers Resolution, a law that tried to limit the President's power to send troops into battle without the approval of Congress.",
+   "ru": "В 1971 году аналитик Дэниел Эллсберг передал в газеты «Документы Пентагона» — секретную историю войны, составленную министерством обороны. Они показали обществу, насколько тесно Соединённые Штаты были связаны с налётами на Северный Вьетнам. К тому времени Конгресс уже отменил Тонкинскую резолюцию, а в 1973 году принял Резолюцию о военных полномочиях — закон, который пытался ограничить право президента отправлять войска в бой без одобрения Конгресса.",
+   "s": [
+    [
+     "In 1971, the Pentagon Papers, a secret Defense Department history of the war, were leaked to newspapers by the analyst Daniel Ellsberg.",
+     "В 1971 году аналитик Дэниел Эллсберг передал в газеты «Документы Пентагона» — секретную историю войны, составленную министерством обороны."
+    ],
+    [
+     "They showed the public how closely the United States had been involved in the raids against North Vietnam.",
+     "Они показали обществу, насколько тесно Соединённые Штаты были связаны с налётами на Северный Вьетнам."
+    ],
+    [
+     "By then, Congress had already cancelled the Gulf of Tonkin Resolution, and in 1973 it passed the War Powers Resolution, a law that tried to limit the President's power to send troops into battle without the approval of Congress.",
+     "К тому времени Конгресс уже отменил Тонкинскую резолюцию, а в 1973 году принял Резолюцию о военных полномочиях — закон, который пытался ограничить право президента отправлять войска в бой без одобрения Конгресса."
+    ]
+   ]
+  },
+  {
+   "en": "Many years later, the people who had been in charge began to speak. In 1995, Robert McNamara, by then an old man who had publicly admitted serious mistakes in Vietnam, travelled to Hanoi and met General Vo Nguyen Giap, who had been North Vietnam's defence minister. Giap told him that North Vietnamese boats had attacked on 2 August, but that there had been no attack on 4 August.",
+   "ru": "Много лет спустя люди, которые тогда руководили, начали говорить. В 1995 году Роберт Макнамара, к тому времени уже пожилой человек, публично признавший серьёзные ошибки во Вьетнаме, поехал в Ханой и встретился с генералом Во Нгуен Зиапом, бывшим министром обороны Северного Вьетнама. Зиап сказал ему, что северовьетнамские катера атаковали 2 августа, но 4 августа никакого нападения не было.",
+   "s": [
+    [
+     "Many years later, the people who had been in charge began to speak.",
+     "Много лет спустя люди, которые тогда руководили, начали говорить."
+    ],
+    [
+     "In 1995, Robert McNamara, by then an old man who had publicly admitted serious mistakes in Vietnam, travelled to Hanoi and met General Vo Nguyen Giap, who had been North Vietnam's defence minister.",
+     "В 1995 году Роберт Макнамара, к тому времени уже пожилой человек, публично признавший серьёзные ошибки во Вьетнаме, поехал в Ханой и встретился с генералом Во Нгуен Зиапом, бывшим министром обороны Северного Вьетнама."
+    ],
+    [
+     "Giap told him that North Vietnamese boats had attacked on 2 August, but that there had been no attack on 4 August.",
+     "Зиап сказал ему, что северовьетнамские катера атаковали 2 августа, но 4 августа никакого нападения не было."
+    ]
+   ]
+  },
+  {
+   "en": "The most important evidence came in 2005. The National Security Agency (NSA), the American agency that listens to and decodes foreign communications, released a long study written by its own historian, Robert Hanyok, together with a large set of original documents. Hanyok had studied the original North Vietnamese messages from August 1964, the same \"proof\" that had convinced McNamara and the President. His study had been finished several years earlier, but it was kept secret until 2005.",
+   "ru": "Самые важные доказательства появились в 2005 году. Агентство национальной безопасности (АНБ) — американское ведомство, которое прослушивает и расшифровывает иностранные переговоры, — опубликовало большое исследование своего собственного историка Роберта Ханьока вместе с большим набором подлинных документов. Ханьок изучил подлинные северовьетнамские сообщения за август 1964 года — те самые «доказательства», которые убедили Макнамару и президента. Его исследование было закончено на несколько лет раньше, но до 2005 года оставалось секретным.",
+   "s": [
+    [
+     "The most important evidence came in 2005.",
+     "Самые важные доказательства появились в 2005 году."
+    ],
+    [
+     "The National Security Agency (NSA), the American agency that listens to and decodes foreign communications, released a long study written by its own historian, Robert Hanyok, together with a large set of original documents.",
+     "Агентство национальной безопасности (АНБ) — американское ведомство, которое прослушивает и расшифровывает иностранные переговоры, — опубликовало большое исследование своего собственного историка Роберта Ханьока вместе с большим набором подлинных документов."
+    ],
+    [
+     "Hanyok had studied the original North Vietnamese messages from August 1964, the same \"proof\" that had convinced McNamara and the President.",
+     "Ханьок изучил подлинные северовьетнамские сообщения за август 1964 года — те самые «доказательства», которые убедили Макнамару и президента."
+    ],
+    [
+     "His study had been finished several years earlier, but it was kept secret until 2005.",
+     "Его исследование было закончено на несколько лет раньше, но до 2005 года оставалось секретным."
+    ]
+   ]
+  },
+  {
+   "en": "His conclusion was clear: no attack took place on the night of 4 August. Hanyok found that the messages which seemed to show an attack were in fact about other things, such as the fight on 2 August or North Vietnamese efforts to rescue their damaged boats. Some had been translated badly, and others had been given the wrong times. Meanwhile, most of the intercepts, including those which showed that the North Vietnamese boats were not preparing to attack that night, had never been included in the reports sent to the country's leaders.",
+   "ru": "Его вывод был однозначным: в ночь на 4 августа никакого нападения не было. Ханьок обнаружил, что сообщения, которые, казалось, указывали на нападение, на самом деле касались другого — например, боя 2 августа или попыток северных вьетнамцев спасти свои повреждённые катера. Некоторые из них были плохо переведены, а другим было приписано неправильное время. Тем временем большая часть перехватов, в том числе тех, что показывали, что северовьетнамские катера той ночью не готовились к нападению, так и не попала в доклады, отправленные руководителям страны.",
+   "s": [
+    [
+     "His conclusion was clear: no attack took place on the night of 4 August.",
+     "Его вывод был однозначным: в ночь на 4 августа никакого нападения не было."
+    ],
+    [
+     "Hanyok found that the messages which seemed to show an attack were in fact about other things, such as the fight on 2 August or North Vietnamese efforts to rescue their damaged boats.",
+     "Ханьок обнаружил, что сообщения, которые, казалось, указывали на нападение, на самом деле касались другого — например, боя 2 августа или попыток северных вьетнамцев спасти свои повреждённые катера."
+    ],
+    [
+     "Some had been translated badly, and others had been given the wrong times.",
+     "Некоторые из них были плохо переведены, а другим было приписано неправильное время."
+    ],
+    [
+     "Meanwhile, most of the intercepts, including those which showed that the North Vietnamese boats were not preparing to attack that night, had never been included in the reports sent to the country's leaders.",
+     "Тем временем большая часть перехватов, в том числе тех, что показывали, что северовьетнамские катера той ночью не готовились к нападению, так и не попала в доклады, отправленные руководителям страны."
+    ]
+   ]
+  },
+  {
+   "en": "Hanyok did not find evidence that the President had ordered anyone to lie. In his view, mistakes were made first, in a hurry and under pressure, and then some officials chose the evidence in a way that supported the first reports instead of admitting the error. But the result was the same: the leaders of the United States took the country into war partly because of an event that most likely did not happen.",
+   "ru": "Ханьок не нашёл доказательств того, что президент приказывал кому-либо лгать. По его мнению, сначала были допущены ошибки — в спешке и под давлением, — а затем некоторые сотрудники подобрали доказательства так, чтобы они подтверждали первые доклады, вместо того чтобы признать ошибку. Но результат был тем же: руководители Соединённых Штатов втянули страну в войну отчасти из-за события, которого, скорее всего, не было.",
+   "s": [
+    [
+     "Hanyok did not find evidence that the President had ordered anyone to lie.",
+     "Ханьок не нашёл доказательств того, что президент приказывал кому-либо лгать."
+    ],
+    [
+     "In his view, mistakes were made first, in a hurry and under pressure, and then some officials chose the evidence in a way that supported the first reports instead of admitting the error.",
+     "По его мнению, сначала были допущены ошибки — в спешке и под давлением, — а затем некоторые сотрудники подобрали доказательства так, чтобы они подтверждали первые доклады, вместо того чтобы признать ошибку."
+    ],
+    [
+     "But the result was the same: the leaders of the United States took the country into war partly because of an event that most likely did not happen.",
+     "Но результат был тем же: руководители Соединённых Штатов втянули страну в войну отчасти из-за события, которого, скорее всего, не было."
+    ]
+   ]
+  },
+  {
+   "en": "Today, many of these documents are accessible to anyone on the internet. The Gulf of Tonkin is often used as an example of how a war can begin with false or badly checked information, and it remains an important topic in history classes and military schools. When people discussed the wrong claims about weapons in Iraq in 2003, many of them remembered the summer of 1964.",
+   "ru": "Сегодня многие из этих документов доступны любому человеку в интернете. Тонкинский залив часто приводят как пример того, как война может начаться с ложной или плохо проверенной информации, и он остаётся важной темой на уроках истории и в военных училищах. Когда в 2003 году люди обсуждали ошибочные утверждения об оружии в Ираке, многие из них вспоминали лето 1964 года.",
+   "s": [
+    [
+     "Today, many of these documents are accessible to anyone on the internet.",
+     "Сегодня многие из этих документов доступны любому человеку в интернете."
+    ],
+    [
+     "The Gulf of Tonkin is often used as an example of how a war can begin with false or badly checked information, and it remains an important topic in history classes and military schools.",
+     "Тонкинский залив часто приводят как пример того, как война может начаться с ложной или плохо проверенной информации, и он остаётся важной темой на уроках истории и в военных училищах."
+    ],
+    [
+     "When people discussed the wrong claims about weapons in Iraq in 2003, many of them remembered the summer of 1964.",
+     "Когда в 2003 году люди обсуждали ошибочные утверждения об оружии в Ираке, многие из них вспоминали лето 1964 года."
+    ]
+   ]
+  },
+  {
+   "en": "One night at sea does not define the whole Vietnam War, which had many causes and might have started anyway. But the story shows how dangerous it is when leaders hear only what they hope to hear, and when doubts are not passed forward to the people who make the decisions. Captain Herrick asked for a complete evaluation before any further action. Sixty years later, that short message still sounds like very good advice.",
+   "ru": "Одна ночь в море не определяет всю Вьетнамскую войну, у которой было много причин и которая, возможно, началась бы в любом случае. Но эта история показывает, как опасно, когда руководители слышат только то, что надеются услышать, и когда сомнения не передаются дальше тем, кто принимает решения. Капитан Херрик просил провести полную проверку перед любыми дальнейшими действиями. Шестьдесят лет спустя это короткое сообщение по-прежнему звучит как очень хороший совет.",
+   "s": [
+    [
+     "One night at sea does not define the whole Vietnam War, which had many causes and might have started anyway.",
+     "Одна ночь в море не определяет всю Вьетнамскую войну, у которой было много причин и которая, возможно, началась бы в любом случае."
+    ],
+    [
+     "But the story shows how dangerous it is when leaders hear only what they hope to hear, and when doubts are not passed forward to the people who make the decisions.",
+     "Но эта история показывает, как опасно, когда руководители слышат только то, что надеются услышать, и когда сомнения не передаются дальше тем, кто принимает решения."
+    ],
+    [
+     "Captain Herrick asked for a complete evaluation before any further action.",
+     "Капитан Херрик просил провести полную проверку перед любыми дальнейшими действиями."
+    ],
+    [
+     "Sixty years later, that short message still sounds like very good advice.",
+     "Шестьдесят лет спустя это короткое сообщение по-прежнему звучит как очень хороший совет."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, об",
+  "above": "над",
+  "accepted": "принял",
+  "accessible": "доступный",
+  "according": "согласно",
+  "accounted": "(accounted for) объяснили",
+  "act": "действовать",
+  "action": "действие",
+  "admitted": "признавший",
+  "admitting": "признать",
+  "advice": "совет",
+  "advisers": "советники",
+  "afraid": "(were afraid) боялись",
+  "after": "после",
+  "afternoon": "день, вторая половина дня",
+  "against": "против",
+  "agency": "агентство",
+  "aggression": "агрессия",
+  "air": "воздух",
+  "aircraft": "(aircraft carrier) авианосец",
+  "all": "весь, все",
+  "allowed": "разрешала",
+  "almost": "почти",
+  "along": "вдоль",
+  "already": "уже",
+  "also": "также",
+  "alvarez": "Альварес (фамилия)",
+  "america": "Америка",
+  "american": "американский",
+  "americans": "американцы",
+  "an": "(неопр. артикль)",
+  "analyst": "аналитик",
+  "and": "и",
+  "announced": "объявил(о)",
+  "another": "ещё один",
+  "anxious": "тревожный, взволнованный",
+  "any": "какой-либо; больше",
+  "anyone": "кого-либо",
+  "anyway": "всё равно",
+  "appeared": "появились; казались",
+  "approval": "одобрение",
+  "are": "(есть) — вы/они",
+  "arrived": "прилетели",
+  "as": "как, так как",
+  "asia": "Азия",
+  "ask": "спросить",
+  "asked": "попросил, запросил",
+  "at": "в, у, на",
+  "attack": "нападение, атака",
+  "attacked": "атаковали, напали",
+  "attacks": "нападения",
+  "august": "август",
+  "away": "(a short distance away) на небольшом расстоянии; (months away) оставалось",
+  "b": "Б. (инициал)",
+  "back": "назад",
+  "bad": "плохой",
+  "badly": "плохо",
+  "barry": "Барри (имя)",
+  "bases": "базы",
+  "battle": "бой",
+  "bay": "залив",
+  "be": "быть",
+  "became": "стал(а)",
+  "because": "потому что",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "began": "начали",
+  "begin": "начать",
+  "being": "(was being prepared) готовилось",
+  "believe": "верить",
+  "believed": "считали",
+  "between": "между",
+  "black": "чёрный",
+  "boat": "катер",
+  "boats": "катера",
+  "bombed": "разбомбили",
+  "bombing": "бомбардировки",
+  "both": "и ... и; оба",
+  "bullet": "пуля",
+  "but": "но",
+  "by": "к; (пассив) кем-либо",
+  "called": "под названием, называли",
+  "came": "пришёл, пришли",
+  "campaign": "кампания",
+  "can": "может",
+  "cancelled": "отменил",
+  "captain": "капитан",
+  "captured": "взят в плен",
+  "carefully": "внимательно",
+  "carrier": "(aircraft carrier) авианосец",
+  "causes": "причины",
+  "century": "век",
+  "changed": "меняли",
+  "charge": "(in charge) ответственный, руководящий",
+  "checked": "проверил",
+  "china": "Китай",
+  "chinese": "китайский",
+  "chose": "подобрали, выбрали",
+  "claims": "утверждения",
+  "clash": "столкновение",
+  "classes": "уроки, занятия",
+  "clear": "ясный, однозначный",
+  "clearly": "отчётливо",
+  "closely": "тесно",
+  "coast": "побережье",
+  "collect": "собирать",
+  "combat": "боевой",
+  "commander": "командир",
+  "committee": "комитет",
+  "communications": "переговоры, связь",
+  "communism": "коммунизм",
+  "communist": "коммунистический",
+  "complete": "полный",
+  "conclusion": "вывод",
+  "confirmed": "подтвердили, подтверждали",
+  "confused": "растерянный",
+  "cong": "(Viet Cong) Вьетконг",
+  "congress": "Конгресс",
+  "constitution": "конституция",
+  "contacts": "цели (на радаре), контакты",
+  "continue": "продолжить",
+  "continued": "продолжалась",
+  "convinced": "убедили",
+  "could": "мог(ла)",
+  "countries": "страны",
+  "country": "страна",
+  "country's": "страны",
+  "created": "создать",
+  "crews": "экипажи",
+  "cunning": "хитрый",
+  "da": "(Da Nang) Дананг",
+  "damaged": "повреждённый",
+  "dangerous": "опасный",
+  "daniel": "Дэниел (имя)",
+  "dark": "тёмный",
+  "darkness": "темнота",
+  "day": "день",
+  "days": "дней",
+  "deaths": "смерти, погибшие",
+  "decided": "решил",
+  "decisions": "решения",
+  "declaration": "объявление",
+  "decodes": "расшифровывает",
+  "deeply": "глубоко",
+  "defence": "оборона",
+  "defense": "оборона (Defense Secretary — министр обороны)",
+  "define": "определить",
+  "department": "министерство",
+  "desoto": "DESOTO (название патруля)",
+  "destroyer": "эсминец",
+  "destroyers": "эсминцы",
+  "did": "(вспом. гл.)",
+  "died": "умер(ла)",
+  "different": "разный",
+  "directly": "прямо",
+  "disagree": "расходиться во мнениях, спорить",
+  "discussed": "обсуждали",
+  "distance": "расстояние",
+  "divided": "разделён",
+  "do": "(вспом. гл.)",
+  "documents": "документы",
+  "does": "(вспом. гл.)",
+  "domino": "домино",
+  "dominoes": "костяшки домино",
+  "doubtful": "сомнительный",
+  "doubts": "сомнения",
+  "down": "вниз",
+  "draft": "проект (документа)",
+  "earlier": "раньше, ранее",
+  "early": "рано",
+  "easy": "легко",
+  "effects": "эффекты",
+  "efforts": "попытки, усилия",
+  "eight": "восемь",
+  "either": "ни один из двух; (не) ... ни",
+  "election": "выборы",
+  "electronic": "электронный",
+  "ellsberg": "Эллсберг (фамилия)",
+  "enemy": "враг",
+  "energy": "силы, энергия",
+  "ernest": "Эрнест (имя)",
+  "error": "ошибка",
+  "estimates": "оценки",
+  "evaluation": "оценка, проверка",
+  "evening": "вечер",
+  "event": "событие",
+  "events": "события",
+  "everett": "Эверетт (имя)",
+  "evidence": "доказательства",
+  "example": "пример",
+  "expected": "ждали, ожидали",
+  "expensive": "дорогой",
+  "experienced": "опытный",
+  "eyes": "глаза",
+  "fact": "(in fact) на самом деле",
+  "falling": "падающий",
+  "false": "ложный",
+  "far": "далеко",
+  "fast": "быстро; быстрый",
+  "felt": "чувствовали",
+  "few": "несколько",
+  "fight": "бой",
+  "fighters": "бойцы",
+  "fighting": "воевали, вели (войну)",
+  "find": "найти",
+  "finished": "закончено",
+  "fired": "стреляли, открыл огонь, выпущены",
+  "firing": "стреляющий",
+  "first": "первый; сначала",
+  "flew": "летал",
+  "follow": "следовать",
+  "for": "для, в течение",
+  "force": "сила",
+  "forces": "силы",
+  "foreign": "иностранный",
+  "forward": "вперёд",
+  "found": "обнаружил",
+  "freak": "необычный, аномальный",
+  "from": "из, от",
+  "front": "перед (in front of)",
+  "fulbright": "Фулбрайт (фамилия)",
+  "full": "полный",
+  "further": "дальше",
+  "gave": "дал",
+  "general": "генерал",
+  "giap": "Зиап (фамилия)",
+  "given": "(given the wrong times) приписано",
+  "go": "идти",
+  "goldwater": "Голдуотер (фамилия)",
+  "good": "хороший",
+  "government": "правительство",
+  "gruening": "Грюнинг (фамилия)",
+  "gulf": "залив",
+  "had": "(вспом. гл.); имела",
+  "hainan": "Хайнань (остров)",
+  "half": "половина",
+  "hanoi": "Ханой",
+  "hanyok": "Ханьок (фамилия)",
+  "happen": "случиться",
+  "happened": "случилось",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "hear": "слышать",
+  "heard": "услышать",
+  "hearings": "слушания",
+  "held": "провёл",
+  "help": "помощь; помочь",
+  "helped": "помог",
+  "helping": "помогать",
+  "herrick": "Херрик (фамилия)",
+  "herrick's": "Херрика",
+  "him": "его, ему",
+  "himself": "сам, себе",
+  "his": "его",
+  "historian": "историк",
+  "historians": "историки",
+  "history": "история",
+  "hit": "попала (в)",
+  "honestly": "честно",
+  "hope": "надеются",
+  "hours": "часы",
+  "house": "палата (House of Representatives)",
+  "how": "как",
+  "humiliate": "унижать",
+  "hundreds": "сотни",
+  "hurry": "(in a hurry) в спешке",
+  "hurt": "пострадали",
+  "i": "я",
+  "idea": "идея",
+  "if": "если, ли",
+  "important": "важный",
+  "in": "в",
+  "incident": "инцидент, происшествие",
+  "included": "включены",
+  "including": "включая",
+  "information": "информация",
+  "instead": "вместо этого",
+  "intelligence": "разведка",
+  "intercepted": "перехватила; перехваченный",
+  "intercepts": "перехваты",
+  "international": "международный",
+  "internet": "интернет",
+  "into": "в",
+  "invested": "вложили",
+  "investigated": "расследованы",
+  "involved": "причастны, связаны",
+  "iraq": "Ирак",
+  "is": "есть, является",
+  "island": "остров",
+  "islands": "острова",
+  "it": "он, оно, это",
+  "its": "его, её",
+  "j": "Дж. (инициал)",
+  "james": "Джеймс (имя)",
+  "job": "задача",
+  "john": "Джон (имя)",
+  "johnson": "Джонсон (фамилия)",
+  "joked": "пошутил",
+  "joy": "Джой (часть названия корабля)",
+  "july": "июль",
+  "just": "всего лишь",
+  "kept": "держали (kept secret — держали в секрете)",
+  "killed": "убиты, погибли",
+  "know": "знать",
+  "known": "известные",
+  "landed": "высадились",
+  "large": "большой",
+  "larger": "более крупный, масштабный",
+  "late": "поздно",
+  "later": "позже",
+  "launched": "выпустили",
+  "law": "закон",
+  "leaders": "руководители",
+  "leaked": "передал (утечка в прессу)",
+  "led": "во главе с",
+  "legal": "законный",
+  "lie": "лгать",
+  "lieutenant": "лейтенант",
+  "like": "как, вроде",
+  "likely": "(most likely) скорее всего",
+  "limit": "ограничить",
+  "limits": "ограничения",
+  "line": "ряд",
+  "listen": "слушать",
+  "listens": "слушает, прослушивает",
+  "little": "немного",
+  "long": "долгий",
+  "looked": "выглядел; смотрел",
+  "losing": "потеря, потерять",
+  "lot": "(a lot of) много",
+  "lyndon": "Линдон (имя)",
+  "maddox": "«Мэддокс» (эсминец)",
+  "made": "допущены; (make war) вести войну",
+  "make": "делать",
+  "man": "мужчина",
+  "many": "много",
+  "march": "март",
+  "may": "может, мог",
+  "mcnamara": "Макнамара (фамилия)",
+  "meanwhile": "тем временем",
+  "measures": "меры",
+  "members": "члены",
+  "message": "сообщение",
+  "messages": "сообщения",
+  "met": "встретился",
+  "might": "могли бы",
+  "military": "военный",
+  "million": "миллион",
+  "millions": "миллионы",
+  "minister": "министр",
+  "misled": "введены в заблуждение",
+  "missed": "промахнулись",
+  "mission": "миссия",
+  "mistakes": "ошибки",
+  "moment": "момент",
+  "money": "деньги",
+  "months": "месяцы",
+  "more": "больше",
+  "morse": "Морс (фамилия)",
+  "most": "большинство; самый; (most likely) скорее всего",
+  "moving": "движущийся",
+  "much": "гораздо; многое",
+  "nang": "(Da Nang) Дананг",
+  "nation": "народ, нация",
+  "national": "национальный",
+  "navy": "военно-морской флот",
+  "near": "возле, у",
+  "necessary": "необходимо",
+  "need": "нужно",
+  "nervous": "нервный",
+  "never": "никогда",
+  "newspapers": "газеты",
+  "nguyen": "Нгуен (часть имени)",
+  "night": "ночь",
+  "no": "нет",
+  "nobody": "никто",
+  "north": "север",
+  "not": "не",
+  "nothing": "ничего",
+  "now": "теперь",
+  "nsa": "АНБ (Агентство национальной безопасности)",
+  "number": "число",
+  "objects": "объекты",
+  "of": "из, о, (род. падеж)",
+  "officially": "официально",
+  "officials": "официальные лица, сотрудники",
+  "often": "часто",
+  "oil": "нефть",
+  "old": "пожилой",
+  "on": "на",
+  "one": "один, одна",
+  "only": "только",
+  "operator": "оператор (sonar operator — гидроакустик)",
+  "oplan": "OPLAN (оперативный план)",
+  "opponent": "соперник",
+  "opportunity": "возможность",
+  "or": "или",
+  "ordered": "приказал",
+  "original": "подлинный, исходный",
+  "other": "другой",
+  "others": "другие",
+  "our": "наш",
+  "out": "(out there) там",
+  "over": "закончен; (well over) намного больше",
+  "overeager": "слишком усердный",
+  "own": "собственный",
+  "papers": "документы (Pentagon Papers)",
+  "partly": "отчасти",
+  "pass": "принять (закон); (pass forward) передавать дальше",
+  "passed": "принял; передаются",
+  "path": "путь",
+  "patrol": "патруль, патрулирование",
+  "pentagon": "Пентагон",
+  "people": "люди",
+  "perhaps": "возможно",
+  "pilot": "лётчик",
+  "place": "место",
+  "planes": "самолёты",
+  "planned": "планировались",
+  "political": "политический",
+  "politician": "политик",
+  "positions": "расположение",
+  "power": "право, власть",
+  "powers": "полномочия",
+  "prepared": "готовилось",
+  "preparing": "готовились",
+  "president": "президент",
+  "president's": "президента",
+  "presidential": "президентский",
+  "pressure": "давление",
+  "prevent": "предотвращать",
+  "prisoner": "пленный (prisoner of war — военнопленный)",
+  "private": "(in private) в частном разговоре",
+  "problem": "проблема",
+  "programme": "программа",
+  "proof": "доказательство",
+  "properly": "как следует",
+  "provided": "предоставлен",
+  "public": "общество, публика",
+  "publicly": "публично",
+  "questions": "вопросы",
+  "quickly": "быстро",
+  "quite": "совсем",
+  "raced": "устремились, помчались",
+  "radar": "радар",
+  "radio": "радио",
+  "raided": "совершали налёты",
+  "raiders": "налётчики",
+  "raids": "налёты",
+  "reached": "дошло",
+  "real": "настоящий",
+  "really": "действительно",
+  "received": "получали",
+  "region": "регион",
+  "regretted": "сожалел",
+  "relations": "отношения",
+  "released": "опубликовало",
+  "remains": "остаётся",
+  "remembered": "вспоминали",
+  "reported": "(reported to have) по свидетельствам; доложил; (reported contacts) обнаруженные",
+  "reports": "доклады",
+  "representatives": "представители",
+  "rescue": "спасти",
+  "resolution": "резолюция",
+  "result": "результат",
+  "right": "подходящий",
+  "robert": "Роберт (имя)",
+  "rough": "бурный",
+  "routine": "обычный, плановый",
+  "said": "сказал(а)",
+  "saigon": "Сайгон",
+  "sailing": "шёл, шли (о корабле)",
+  "sailor": "моряк",
+  "sailors": "моряки",
+  "same": "тот же",
+  "saw": "увидел; видели",
+  "schools": "училища, школы",
+  "screens": "экраны",
+  "sea": "море",
+  "second": "второй",
+  "secret": "тайный",
+  "secretary": "министр (Secretary of Defense)",
+  "secretly": "тайно",
+  "security": "безопасность",
+  "see": "видеть",
+  "seemed": "казалось",
+  "seen": "увидел",
+  "senate": "сенат",
+  "senator": "сенатор",
+  "senators": "сенаторы",
+  "send": "отправлять",
+  "sent": "отправил",
+  "serious": "серьёзный",
+  "seriously": "серьёзно",
+  "set": "набор",
+  "several": "несколько",
+  "sharply": "круто, резко",
+  "shells": "снаряды",
+  "ship": "корабль",
+  "ships": "корабли",
+  "shooting": "стрелял",
+  "short": "короткий; небольшой",
+  "shot": "(shot down) сбиты",
+  "shots": "выстрелы",
+  "show": "показывать",
+  "showed": "показали",
+  "shows": "показывает",
+  "signals": "сигналы",
+  "similar": "похожий",
+  "simple": "простой",
+  "site": "объект, площадка",
+  "sixty": "шестьдесят",
+  "small": "маленький",
+  "so": "поэтому; так",
+  "soldiers": "солдаты",
+  "some": "некоторые",
+  "sonar": "гидролокатор, сонар",
+  "sonarmen": "акустики",
+  "soon": "вскоре",
+  "sounds": "звучит",
+  "south": "юг",
+  "southeast": "юго-восточный",
+  "soviet": "советский",
+  "speak": "говорить",
+  "special": "особый",
+  "speed": "скорость",
+  "spent": "провёл",
+  "started": "начал(ась)",
+  "states": "государства; (United States) Штаты",
+  "stations": "станции",
+  "still": "всё ещё",
+  "stockdale": "Стокдейл (фамилия)",
+  "stop": "перестать",
+  "storage": "хранение (oil storage site — нефтехранилище)",
+  "story": "история",
+  "strange": "странный",
+  "strike": "(strike back) нанести ответный удар",
+  "strikes": "удары",
+  "studied": "изучил",
+  "study": "исследование",
+  "such": "такой",
+  "suddenly": "вдруг",
+  "suggest": "указывать на",
+  "suggested": "предложил",
+  "summer": "лето",
+  "sunk": "потоплены",
+  "superiors": "начальство",
+  "support": "поддержка",
+  "supported": "поддерживали",
+  "take": "(take measures) принимать",
+  "taken": "(action was taken) предпринято",
+  "targets": "цели",
+  "television": "телевизор",
+  "tense": "напряжённый",
+  "than": "чем",
+  "that": "что; тот, это",
+  "the": "(опр. артикль)",
+  "their": "их, свои",
+  "them": "их",
+  "themselves": "сами",
+  "then": "потом, тогда",
+  "theory": "теория",
+  "there": "там",
+  "these": "эти",
+  "they": "они",
+  "things": "вещи; (strange things) странное",
+  "this": "этот",
+  "those": "те",
+  "thousands": "тысячи",
+  "three": "три",
+  "ticonderoga": "«Тикондерога» (авианосец)",
+  "time": "раз; (by then) к тому времени",
+  "times": "время (wrong times)",
+  "to": "к, в; (частица)",
+  "today": "сегодня",
+  "together": "вместе",
+  "told": "сказал, сообщили",
+  "tonkin": "Тонкин (Тонкинский)",
+  "too": "слишком",
+  "took": "(took place) произошло; (took into war) втянули",
+  "topic": "тема",
+  "torpedo": "торпеда; торпедный",
+  "torpedoes": "торпеды",
+  "towards": "к, по направлению к",
+  "translated": "переведены",
+  "travelled": "поехал",
+  "tried": "пыталась",
+  "troops": "войска",
+  "turned": "поворачивали",
+  "turner": "Тёрнер (фамилия)",
+  "twentieth": "двадцатый",
+  "two": "два",
+  "under": "под",
+  "understand": "понимать",
+  "understood": "поняла",
+  "union": "Союз",
+  "united": "(United States) Соединённые",
+  "until": "до; пока (не)",
+  "unusual": "необычный",
+  "use": "применять",
+  "used": "используется",
+  "uss": "USS (корабль ВМС США)",
+  "very": "очень",
+  "viet": "(Viet Cong) Вьет-",
+  "vietnam": "Вьетнам",
+  "vietnam's": "Вьетнама",
+  "vietnamese": "вьетнамский; вьетнамцы",
+  "view": "мнение (in his view — по его мнению)",
+  "vo": "Во (часть имени)",
+  "vote": "голосование",
+  "voted": "проголосовали",
+  "wait": "ждать",
+  "waited": "ждал",
+  "war": "война",
+  "warned": "предупреждал",
+  "warning": "предупреждение",
+  "warship": "военный корабль",
+  "warships": "военные корабли",
+  "was": "был(а)",
+  "washington": "Вашингтон",
+  "watching": "смотрели",
+  "water": "вода",
+  "waters": "воды",
+  "way": "путь; (in a way) так",
+  "wayne": "Уэйн (имя)",
+  "we": "мы",
+  "weak": "слабый",
+  "weapons": "оружие",
+  "weather": "погода",
+  "well": "(well over) намного",
+  "were": "были",
+  "whales": "киты",
+  "what": "что",
+  "when": "когда",
+  "which": "который, что",
+  "while": "пока",
+  "white": "белый",
+  "who": "кто, который",
+  "whole": "весь",
+  "why": "почему",
+  "william": "Уильям (имя)",
+  "with": "с",
+  "within": "через, в течение",
+  "without": "без",
+  "words": "слова",
+  "working": "действуют, работают",
+  "world": "мир",
+  "would": "бы",
+  "written": "написан",
+  "wrong": "неправильный, ошибочный",
+  "wrote": "написал",
+  "year": "год",
+  "years": "лет, годы",
+  "young": "молодой"
+ },
+ "vocab": {
+  "experienced": 326,
+  "regretted": 365,
+  "expensive": 301,
+  "set": 549,
+  "afternoon": 230,
+  "distance": 449,
+  "invested": 415,
+  "cunning": 268,
+  "humiliate": 538,
+  "often": 81,
+  "accessible": 132,
+  "define": 540,
+  "hope": 451,
+  "properly": 507,
+  "forward": 242,
+  "topic": 136,
+  "anxious": 495,
+  "path": 554
+ }
+}

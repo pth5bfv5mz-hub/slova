@@ -1,0 +1,1483 @@
+{
+ "id": 21,
+ "level": "B1",
+ "title_en": "The Fourth Time",
+ "title_ru": "Четвёртый раз",
+ "genre": "Киберпанк",
+ "summary_ru": "Хакерша получает странное уведомление от компании, которая редактирует воспоминания, и начинает подозревать, что её прошлое — не совсем её.",
+ "paragraphs": [
+  {
+   "en": "The rain in Low Harrow never really stopped; it only changed its noise. On good nights it whispered against the window of Vera Kost's tiny flat, and on bad nights it hammered on the metal roof like a crowd of angry customers. Tonight it was whispering. Vera sat in the blue light of three screens, with a cold noodle box on the desk and a plastic fork still in her hand, and she was almost happy.",
+   "ru": "Дождь в Лоу-Харроу никогда по-настоящему не прекращался — он лишь менял свой шум. В хорошие ночи он шептал в окно крошечной квартиры Веры Кост, а в плохие колотил по металлической крыше, как толпа разгневанных клиентов. Сегодня он шептал. Вера сидела в синем свете трёх экранов, с остывшей коробкой лапши на столе и пластиковой вилкой всё ещё в руке, и была почти счастлива.",
+   "s": [
+    [
+     "The rain in Low Harrow never really stopped; it only changed its noise.",
+     "Дождь в Лоу-Харроу никогда по-настоящему не прекращался — он лишь менял свой шум."
+    ],
+    [
+     "On good nights it whispered against the window of Vera Kost's tiny flat, and on bad nights it hammered on the metal roof like a crowd of angry customers.",
+     "В хорошие ночи он шептал в окно крошечной квартиры Веры Кост, а в плохие колотил по металлической крыше, как толпа разгневанных клиентов."
+    ],
+    [
+     "Tonight it was whispering.",
+     "Сегодня он шептал."
+    ],
+    [
+     "Vera sat in the blue light of three screens, with a cold noodle box on the desk and a plastic fork still in her hand, and she was almost happy.",
+     "Вера сидела в синем свете трёх экранов, с остывшей коробкой лапши на столе и пластиковой вилкой всё ещё в руке, и была почти счастлива."
+    ]
+   ]
+  },
+  {
+   "en": "She had just finished a task for a client she had never met. It was an easy job: open a door in the security system of a cheap hotel, take one file, close the door again and leave no shadow behind. She was good at leaving no shadow. Above all, she was good at not being seen.",
+   "ru": "Она только что закончила задачу для клиента, которого никогда не видела. Работа была лёгкой: открыть дверь в системе безопасности дешёвой гостиницы, забрать один файл, снова закрыть дверь и не оставить за собой ни тени. Она умела не оставлять тени. А прежде всего она умела оставаться незамеченной.",
+   "s": [
+    [
+     "She had just finished a task for a client she had never met.",
+     "Она только что закончила задачу для клиента, которого никогда не видела."
+    ],
+    [
+     "It was an easy job: open a door in the security system of a cheap hotel, take one file, close the door again and leave no shadow behind.",
+     "Работа была лёгкой: открыть дверь в системе безопасности дешёвой гостиницы, забрать один файл, снова закрыть дверь и не оставить за собой ни тени."
+    ],
+    [
+     "She was good at leaving no shadow.",
+     "Она умела не оставлять тени."
+    ],
+    [
+     "Above all, she was good at not being seen.",
+     "А прежде всего она умела оставаться незамеченной."
+    ]
+   ]
+  },
+  {
+   "en": "Then a small notice appeared in the corner of her vision, sent straight to the implant behind her left ear. “Memory review complete,” it said. “No errors were found. Thank you for being a valued customer of Lumen Care.” Vera put down the fork and stared at it. She had never been a customer of Lumen Care. She had never accepted any review of her memories, and she never would. Memory editing was legal, cheap and popular, but she had always thought that only frightened people used it.",
+   "ru": "И тут в углу её поля зрения появилось маленькое уведомление, отправленное прямо на имплант за её левым ухом. «Обзор памяти завершён», — говорилось в нём. «Ошибок не обнаружено. Спасибо, что вы являетесь ценным клиентом Lumen Care». Вера положила вилку и уставилась на сообщение. Она никогда не была клиентом Lumen Care. Она никогда не соглашалась ни на какой обзор своих воспоминаний и никогда бы не согласилась. Редактирование памяти было законным, дешёвым и популярным, но она всегда считала, что им пользуются только напуганные люди.",
+   "s": [
+    [
+     "Then a small notice appeared in the corner of her vision, sent straight to the implant behind her left ear.",
+     "И тут в углу её поля зрения появилось маленькое уведомление, отправленное прямо на имплант за её левым ухом."
+    ],
+    [
+     "“Memory review complete,” it said.",
+     "«Обзор памяти завершён», — говорилось в нём."
+    ],
+    [
+     "“No errors were found.",
+     "«Ошибок не обнаружено."
+    ],
+    [
+     "Thank you for being a valued customer of Lumen Care.”",
+     "Спасибо, что вы являетесь ценным клиентом Lumen Care»."
+    ],
+    [
+     "Vera put down the fork and stared at it.",
+     "Вера положила вилку и уставилась на сообщение."
+    ],
+    [
+     "She had never been a customer of Lumen Care.",
+     "Она никогда не была клиентом Lumen Care."
+    ],
+    [
+     "She had never accepted any review of her memories, and she never would.",
+     "Она никогда не соглашалась ни на какой обзор своих воспоминаний и никогда бы не согласилась."
+    ],
+    [
+     "Memory editing was legal, cheap and popular, but she had always thought that only frightened people used it.",
+     "Редактирование памяти было законным, дешёвым и популярным, но она всегда считала, что им пользуются только напуганные люди."
+    ]
+   ]
+  },
+  {
+   "en": "“Repeat last notice,” she said quietly. The implant repeated it, word for word. Then, before she could save it, the message disappeared, as if someone on the other side had realised their mistake.",
+   "ru": "«Повторить последнее уведомление», — тихо сказала она. Имплант повторил его слово в слово. А потом, прежде чем она успела его сохранить, сообщение исчезло, словно кто-то на другой стороне понял свою ошибку.",
+   "s": [
+    [
+     "“Repeat last notice,” she said quietly.",
+     "«Повторить последнее уведомление», — тихо сказала она."
+    ],
+    [
+     "The implant repeated it, word for word.",
+     "Имплант повторил его слово в слово."
+    ],
+    [
+     "Then, before she could save it, the message disappeared, as if someone on the other side had realised their mistake.",
+     "А потом, прежде чем она успела его сохранить, сообщение исчезло, словно кто-то на другой стороне понял свою ошибку."
+    ]
+   ]
+  },
+  {
+   "en": "Vera felt the familiar cold weight of anxiety settle on her shoulders. For most people, a strange message from a big company was just noise in the background of a busy life. For a hacker, it was a warning. If someone had been inside her head, they could have taken anything. They could have added anything too.",
+   "ru": "Вера почувствовала, как на её плечи опускается знакомая холодная тяжесть беспокойства. Для большинства людей странное сообщение от большой компании было просто шумом на фоне занятой жизни. Для хакера это было предупреждение. Если кто-то побывал у неё в голове, он мог забрать что угодно. И мог что угодно добавить.",
+   "s": [
+    [
+     "Vera felt the familiar cold weight of anxiety settle on her shoulders.",
+     "Вера почувствовала, как на её плечи опускается знакомая холодная тяжесть беспокойства."
+    ],
+    [
+     "For most people, a strange message from a big company was just noise in the background of a busy life.",
+     "Для большинства людей странное сообщение от большой компании было просто шумом на фоне занятой жизни."
+    ],
+    [
+     "For a hacker, it was a warning.",
+     "Для хакера это было предупреждение."
+    ],
+    [
+     "If someone had been inside her head, they could have taken anything.",
+     "Если кто-то побывал у неё в голове, он мог забрать что угодно."
+    ],
+    [
+     "They could have added anything too.",
+     "И мог что угодно добавить."
+    ]
+   ]
+  },
+  {
+   "en": "She did what she often did when she was scared: she worked. She connected her implant to the oldest, most silent computer in the room, a machine that had never touched the network, and she started to explore her own records. Every implant kept a log of each change. Usually nobody looked at it, because nobody expected to find anything there.",
+   "ru": "Она сделала то, что часто делала, когда ей было страшно: стала работать. Она подключила имплант к самому старому и самому тихому компьютеру в комнате — машине, которая никогда не касалась сети, — и начала исследовать собственные записи. Каждый имплант вёл журнал всех изменений. Обычно никто в него не заглядывал, потому что никто не ожидал там что-то найти.",
+   "s": [
+    [
+     "She did what she often did when she was scared: she worked.",
+     "Она сделала то, что часто делала, когда ей было страшно: стала работать."
+    ],
+    [
+     "She connected her implant to the oldest, most silent computer in the room, a machine that had never touched the network, and she started to explore her own records.",
+     "Она подключила имплант к самому старому и самому тихому компьютеру в комнате — машине, которая никогда не касалась сети, — и начала исследовать собственные записи."
+    ],
+    [
+     "Every implant kept a log of each change.",
+     "Каждый имплант вёл журнал всех изменений."
+    ],
+    [
+     "Usually nobody looked at it, because nobody expected to find anything there.",
+     "Обычно никто в него не заглядывал, потому что никто не ожидал там что-то найти."
+    ]
+   ]
+  },
+  {
+   "en": "The log was clean. It was too clean. There were no entries at all for the night of the fourteenth of March, three years before — the night when the Meridian Tower collapsed. Vera remembered that night exactly. She remembered the announcement on every screen in the city, the sirens, the smoke above the river. She remembered standing in the street with her neck bent back, watching the tower fall, and knowing that her brother Tomas was inside.",
+   "ru": "Журнал был чистым. Слишком чистым. В нём не было ни одной записи за ночь четырнадцатого марта три года назад — ночь, когда рухнула башня «Меридиан». Вера точно помнила ту ночь. Она помнила объявление на каждом экране города, сирены, дым над рекой. Она помнила, как стояла на улице, запрокинув голову, смотрела, как падает башня, и знала, что внутри её брат Томас.",
+   "s": [
+    [
+     "The log was clean.",
+     "Журнал был чистым."
+    ],
+    [
+     "It was too clean.",
+     "Слишком чистым."
+    ],
+    [
+     "There were no entries at all for the night of the fourteenth of March, three years before — the night when the Meridian Tower collapsed.",
+     "В нём не было ни одной записи за ночь четырнадцатого марта три года назад — ночь, когда рухнула башня «Меридиан»."
+    ],
+    [
+     "Vera remembered that night exactly.",
+     "Вера точно помнила ту ночь."
+    ],
+    [
+     "She remembered the announcement on every screen in the city, the sirens, the smoke above the river.",
+     "Она помнила объявление на каждом экране города, сирены, дым над рекой."
+    ],
+    [
+     "She remembered standing in the street with her neck bent back, watching the tower fall, and knowing that her brother Tomas was inside.",
+     "Она помнила, как стояла на улице, запрокинув голову, смотрела, как падает башня, и знала, что внутри её брат Томас."
+    ]
+   ]
+  },
+  {
+   "en": "She had missed Tomas every single day since his death. He had been the wise one, the patient one, the one who used to hug her when she was upset and tell her that luck always changed. He had worked as a guide in the tower, taking visitors on the famous night tour to the peak, where you could see the whole city shining below you like a broken necklace. Two hundred and twelve people had died there. The government had called it an accident.",
+   "ru": "Она скучала по Томасу каждый день после его смерти. Он был мудрым, терпеливым — тем, кто обнимал её, когда она была расстроена, и говорил, что удача всегда переменчива. Он работал гидом в башне и водил гостей на знаменитую ночную экскурсию к вершине, откуда весь город сиял внизу, как порванное ожерелье. Там погибли двести двенадцать человек. Правительство назвало это несчастным случаем.",
+   "s": [
+    [
+     "She had missed Tomas every single day since his death.",
+     "Она скучала по Томасу каждый день после его смерти."
+    ],
+    [
+     "He had been the wise one, the patient one, the one who used to hug her when she was upset and tell her that luck always changed.",
+     "Он был мудрым, терпеливым — тем, кто обнимал её, когда она была расстроена, и говорил, что удача всегда переменчива."
+    ],
+    [
+     "He had worked as a guide in the tower, taking visitors on the famous night tour to the peak, where you could see the whole city shining below you like a broken necklace.",
+     "Он работал гидом в башне и водил гостей на знаменитую ночную экскурсию к вершине, откуда весь город сиял внизу, как порванное ожерелье."
+    ],
+    [
+     "Two hundred and twelve people had died there.",
+     "Там погибли двести двенадцать человек."
+    ],
+    [
+     "The government had called it an accident.",
+     "Правительство назвало это несчастным случаем."
+    ]
+   ]
+  },
+  {
+   "en": "But now, looking at the empty log, Vera had a terrible thought. What if the memory was not hers? What if someone had built it for her?",
+   "ru": "Но теперь, глядя на пустой журнал, Вера подумала об ужасном. Что, если это воспоминание — не её? Что, если кто-то построил его для неё?",
+   "s": [
+    [
+     "But now, looking at the empty log, Vera had a terrible thought.",
+     "Но теперь, глядя на пустой журнал, Вера подумала об ужасном."
+    ],
+    [
+     "What if the memory was not hers?",
+     "Что, если это воспоминание — не её?"
+    ],
+    [
+     "What if someone had built it for her?",
+     "Что, если кто-то построил его для неё?"
+    ]
+   ]
+  },
+  {
+   "en": "However, she could not trust her own head any more, so she decided to trust the machine instead. She wrote a small program that compared the times in her memories with the city's public records. It took four hours. When the result appeared, she read it three times before she accepted that it was correct.",
+   "ru": "Однако она больше не могла доверять собственной голове, поэтому решила довериться машине. Она написала небольшую программу, которая сравнивала время в её воспоминаниях с городскими открытыми записями. Это заняло четыре часа. Когда появился результат, она прочитала его трижды, прежде чем признала, что он правильный.",
+   "s": [
+    [
+     "However, she could not trust her own head any more, so she decided to trust the machine instead.",
+     "Однако она больше не могла доверять собственной голове, поэтому решила довериться машине."
+    ],
+    [
+     "She wrote a small program that compared the times in her memories with the city's public records.",
+     "Она написала небольшую программу, которая сравнивала время в её воспоминаниях с городскими открытыми записями."
+    ],
+    [
+     "It took four hours.",
+     "Это заняло четыре часа."
+    ],
+    [
+     "When the result appeared, she read it three times before she accepted that it was correct.",
+     "Когда появился результат, она прочитала его трижды, прежде чем признала, что он правильный."
+    ]
+   ]
+  },
+  {
+   "en": "Her memory of the collapse included details that did not exist. In her memory, the announcement was read by a woman with a calm voice; in the real recordings, it was a man. In her memory, it rained that night; the weather records said the sky had been completely clear. Somebody had made her memory of that night, and they had made it badly, the way cheap editors always did — with pure emotion and very few facts.",
+   "ru": "Её воспоминание о крахе башни включало подробности, которых не существовало. В её памяти объявление читала женщина спокойным голосом; на настоящих записях это был мужчина. В её памяти в ту ночь шёл дождь; по данным метеослужбы, небо было совершенно ясным. Кто-то создал её воспоминание о той ночи, и создал плохо, как всегда делают дешёвые редакторы, — из чистых эмоций и очень немногих фактов.",
+   "s": [
+    [
+     "Her memory of the collapse included details that did not exist.",
+     "Её воспоминание о крахе башни включало подробности, которых не существовало."
+    ],
+    [
+     "In her memory, the announcement was read by a woman with a calm voice; in the real recordings, it was a man.",
+     "В её памяти объявление читала женщина спокойным голосом; на настоящих записях это был мужчина."
+    ],
+    [
+     "In her memory, it rained that night; the weather records said the sky had been completely clear.",
+     "В её памяти в ту ночь шёл дождь; по данным метеослужбы, небо было совершенно ясным."
+    ],
+    [
+     "Somebody had made her memory of that night, and they had made it badly, the way cheap editors always did — with pure emotion and very few facts.",
+     "Кто-то создал её воспоминание о той ночи, и создал плохо, как всегда делают дешёвые редакторы, — из чистых эмоций и очень немногих фактов."
+    ]
+   ]
+  },
+  {
+   "en": "There was one more thing. Hidden deep in her implant, below the false memories, she found a small file attached to an old, deleted message. The file had her own digital signature. She had made it herself. She just did not remember making it.",
+   "ru": "Было и ещё кое-что. Глубоко в импланте, под ложными воспоминаниями, она нашла маленький файл, прикреплённый к старому удалённому сообщению. На файле стояла её собственная цифровая подпись. Она сама его создала. Просто не помнила этого.",
+   "s": [
+    [
+     "There was one more thing.",
+     "Было и ещё кое-что."
+    ],
+    [
+     "Hidden deep in her implant, below the false memories, she found a small file attached to an old, deleted message.",
+     "Глубоко в импланте, под ложными воспоминаниями, она нашла маленький файл, прикреплённый к старому удалённому сообщению."
+    ],
+    [
+     "The file had her own digital signature.",
+     "На файле стояла её собственная цифровая подпись."
+    ],
+    [
+     "She had made it herself.",
+     "Она сама его создала."
+    ],
+    [
+     "She just did not remember making it.",
+     "Просто не помнила этого."
+    ]
+   ]
+  },
+  {
+   "en": "Her hands were shaking when she opened it. A video started. It showed her — the same room, the same three screens, the same broken lamp — but her hair was shorter, and there was a fresh scar on her arm that she did not have now. The other Vera looked tired and very calm.",
+   "ru": "Когда она его открыла, у неё дрожали руки. Началось видео. На нём была она — та же комната, те же три экрана, та же сломанная лампа, — но волосы были короче, а на руке виднелся свежий шрам, которого сейчас у неё не было. Другая Вера выглядела усталой и очень спокойной.",
+   "s": [
+    [
+     "Her hands were shaking when she opened it.",
+     "Когда она его открыла, у неё дрожали руки."
+    ],
+    [
+     "A video started.",
+     "Началось видео."
+    ],
+    [
+     "It showed her — the same room, the same three screens, the same broken lamp — but her hair was shorter, and there was a fresh scar on her arm that she did not have now.",
+     "На нём была она — та же комната, те же три экрана, та же сломанная лампа, — но волосы были короче, а на руке виднелся свежий шрам, которого сейчас у неё не было."
+    ],
+    [
+     "The other Vera looked tired and very calm.",
+     "Другая Вера выглядела усталой и очень спокойной."
+    ]
+   ]
+  },
+  {
+   "en": "“Hello,” the woman in the video said. “If you're watching this, you've found it again. This is the fourth time, I think. Each time, we find the gap in the log, and each time, we make this same face.” She smiled a little. “Listen to me, because I'll only say this once. Tomas isn't dead.”",
+   "ru": "«Привет», — сказала женщина на видео. «Если ты это смотришь, значит, ты снова это нашла. По-моему, это уже четвёртый раз. Каждый раз мы находим дыру в журнале, и каждый раз у нас вот такое же лицо». Она слегка улыбнулась. «Послушай меня, потому что я скажу это только один раз. Томас не умер».",
+   "s": [
+    [
+     "“Hello,” the woman in the video said.",
+     "«Привет», — сказала женщина на видео."
+    ],
+    [
+     "“If you're watching this, you've found it again.",
+     "«Если ты это смотришь, значит, ты снова это нашла."
+    ],
+    [
+     "This is the fourth time, I think.",
+     "По-моему, это уже четвёртый раз."
+    ],
+    [
+     "Each time, we find the gap in the log, and each time, we make this same face.”",
+     "Каждый раз мы находим дыру в журнале, и каждый раз у нас вот такое же лицо»."
+    ],
+    [
+     "She smiled a little.",
+     "Она слегка улыбнулась."
+    ],
+    [
+     "“Listen to me, because I'll only say this once.",
+     "«Послушай меня, потому что я скажу это только один раз."
+    ],
+    [
+     "Tomas isn't dead.”",
+     "Томас не умер»."
+    ]
+   ]
+  },
+  {
+   "en": "Vera felt the room move around her. She held the edge of the desk.",
+   "ru": "Вере показалось, что комната вокруг неё сдвинулась. Она вцепилась в край стола.",
+   "s": [
+    [
+     "Vera felt the room move around her.",
+     "Вере показалось, что комната вокруг неё сдвинулась."
+    ],
+    [
+     "She held the edge of the desk.",
+     "Она вцепилась в край стола."
+    ]
+   ]
+  },
+  {
+   "en": "“The tower didn't collapse by accident,” the other Vera went on. “We did it. Well — we didn't want to, but we did. A customer paid us to open the tower's building system for one hour. They said it was for a simple robbery. It wasn't. They used our door to destroy the tower, and they made sure that every record pointed to us. Tomas found out first. He came here that night, after he'd got out of the building, and he found us on the floor. We wanted to go to the police. He said the government would never believe us. He said the people who did it were predators, and predators always look for the weakest animal.”",
+   "ru": "«Башня рухнула не случайно, — продолжала другая Вера. — Это сделали мы. Ну, мы этого не хотели, но сделали. Клиент заплатил нам, чтобы мы открыли систему управления башней на один час. Нам сказали, что это для простого ограбления. Это было не так. Через нашу дверь они разрушили башню и позаботились о том, чтобы каждая запись указывала на нас. Томас узнал первым. Той ночью, выбравшись из здания, он пришёл сюда и нашёл нас на полу. Мы хотели пойти в полицию. Он сказал, что правительство нам никогда не поверит. Он сказал, что люди, которые это сделали, — хищники, а хищники всегда ищут самое слабое животное».",
+   "s": [
+    [
+     "“The tower didn't collapse by accident,” the other Vera went on.",
+     "«Башня рухнула не случайно, — продолжала другая Вера."
+    ],
+    [
+     "“We did it.",
+     "— Это сделали мы."
+    ],
+    [
+     "Well — we didn't want to, but we did.",
+     "Ну, мы этого не хотели, но сделали."
+    ],
+    [
+     "A customer paid us to open the tower's building system for one hour.",
+     "Клиент заплатил нам, чтобы мы открыли систему управления башней на один час."
+    ],
+    [
+     "They said it was for a simple robbery.",
+     "Нам сказали, что это для простого ограбления."
+    ],
+    [
+     "It wasn't.",
+     "Это было не так."
+    ],
+    [
+     "They used our door to destroy the tower, and they made sure that every record pointed to us.",
+     "Через нашу дверь они разрушили башню и позаботились о том, чтобы каждая запись указывала на нас."
+    ],
+    [
+     "Tomas found out first.",
+     "Томас узнал первым."
+    ],
+    [
+     "He came here that night, after he'd got out of the building, and he found us on the floor.",
+     "Той ночью, выбравшись из здания, он пришёл сюда и нашёл нас на полу."
+    ],
+    [
+     "We wanted to go to the police.",
+     "Мы хотели пойти в полицию."
+    ],
+    [
+     "He said the government would never believe us.",
+     "Он сказал, что правительство нам никогда не поверит."
+    ],
+    [
+     "He said the people who did it were predators, and predators always look for the weakest animal.”",
+     "Он сказал, что люди, которые это сделали, — хищники, а хищники всегда ищут самое слабое животное»."
+    ]
+   ]
+  },
+  {
+   "en": "“So he suggested a deal,” the recording continued. “He found a Lumen editor who would change our memories. We would forget what we had done. We would believe he was dead, so we'd never try to find him, and so nobody watching us would find him either. He disappeared. And we've lived with the lie ever since. It's an amazing lie, isn't it? It almost makes sense.”",
+   "ru": "«И тогда он предложил сделку, — продолжала запись. — Он нашёл редактора из Lumen, который согласился изменить нашу память. Мы забудем, что сделали. Мы будем верить, что он погиб, чтобы никогда не пытаться его найти, — и чтобы его не нашёл никто из тех, кто следит за нами. Он исчез. И с тех пор мы живём с этой ложью. Удивительная ложь, правда? В ней почти есть смысл».",
+   "s": [
+    [
+     "“So he suggested a deal,” the recording continued.",
+     "«И тогда он предложил сделку, — продолжала запись."
+    ],
+    [
+     "“He found a Lumen editor who would change our memories.",
+     "— Он нашёл редактора из Lumen, который согласился изменить нашу память."
+    ],
+    [
+     "We would forget what we had done.",
+     "Мы забудем, что сделали."
+    ],
+    [
+     "We would believe he was dead, so we'd never try to find him, and so nobody watching us would find him either.",
+     "Мы будем верить, что он погиб, чтобы никогда не пытаться его найти, — и чтобы его не нашёл никто из тех, кто следит за нами."
+    ],
+    [
+     "He disappeared.",
+     "Он исчез."
+    ],
+    [
+     "And we've lived with the lie ever since.",
+     "И с тех пор мы живём с этой ложью."
+    ],
+    [
+     "It's an amazing lie, isn't it?",
+     "Удивительная ложь, правда?"
+    ],
+    [
+     "It almost makes sense.”",
+     "В ней почти есть смысл»."
+    ]
+   ]
+  },
+  {
+   "en": "The woman in the video looked down for a moment. “The edit has to be repeated every few months, or the true memories start to come back. That's why you got the notice. Tomas pays for the reviews. He uses his own name on the account — I don't think he knows how to hide very well. If you want to stop now, just delete this file and go to sleep. The next review will correct everything, and tomorrow you'll be happy again. I've done it three times. I'm not going to tell you which choice is wise.”",
+   "ru": "Женщина на видео на мгновение опустила глаза. «Правку нужно повторять каждые несколько месяцев, иначе настоящие воспоминания начинают возвращаться. Поэтому ты и получила уведомление. За обзоры платит Томас. Он записал аккаунт на своё имя — по-моему, прятаться он не очень умеет. Если хочешь остановиться, просто удали этот файл и ложись спать. Следующий обзор всё исправит, и завтра ты снова будешь счастлива. Я делала так три раза. Я не стану говорить тебе, какой выбор мудрый».",
+   "s": [
+    [
+     "The woman in the video looked down for a moment.",
+     "Женщина на видео на мгновение опустила глаза."
+    ],
+    [
+     "“The edit has to be repeated every few months, or the true memories start to come back.",
+     "«Правку нужно повторять каждые несколько месяцев, иначе настоящие воспоминания начинают возвращаться."
+    ],
+    [
+     "That's why you got the notice.",
+     "Поэтому ты и получила уведомление."
+    ],
+    [
+     "Tomas pays for the reviews.",
+     "За обзоры платит Томас."
+    ],
+    [
+     "He uses his own name on the account — I don't think he knows how to hide very well.",
+     "Он записал аккаунт на своё имя — по-моему, прятаться он не очень умеет."
+    ],
+    [
+     "If you want to stop now, just delete this file and go to sleep.",
+     "Если хочешь остановиться, просто удали этот файл и ложись спать."
+    ],
+    [
+     "The next review will correct everything, and tomorrow you'll be happy again.",
+     "Следующий обзор всё исправит, и завтра ты снова будешь счастлива."
+    ],
+    [
+     "I've done it three times.",
+     "Я делала так три раза."
+    ],
+    [
+     "I'm not going to tell you which choice is wise.”",
+     "Я не стану говорить тебе, какой выбор мудрый»."
+    ]
+   ]
+  },
+  {
+   "en": "The video ended. The room was silent except for the rain.",
+   "ru": "Видео закончилось. В комнате было тихо, если не считать дождя.",
+   "s": [
+    [
+     "The video ended.",
+     "Видео закончилось."
+    ],
+    [
+     "The room was silent except for the rain.",
+     "В комнате было тихо, если не считать дождя."
+    ]
+   ]
+  },
+  {
+   "en": "For a long time Vera did not move. Her whole life, the life she had built after the collapse, was made of two feelings: the pain of losing Tomas and the cold satisfaction of being alone, of needing nobody. Both were false. Underneath them was something much worse than grief. It was shame. Two hundred and twelve people. The night tour. The peak. Did she remember their faces? No. Somebody had been kind enough to take that knowledge away.",
+   "ru": "Долгое время Вера не двигалась. Вся её жизнь — жизнь, которую она построила после катастрофы, — состояла из двух чувств: боли от потери Томаса и холодного удовлетворения от одиночества, от того, что ей никто не нужен. Оба были ложными. Под ними лежало нечто гораздо худшее, чем горе. Стыд. Двести двенадцать человек. Ночная экскурсия. Вершина. Помнила ли она их лица? Нет. Кто-то был так добр, что забрал у неё это знание.",
+   "s": [
+    [
+     "For a long time Vera did not move.",
+     "Долгое время Вера не двигалась."
+    ],
+    [
+     "Her whole life, the life she had built after the collapse, was made of two feelings: the pain of losing Tomas and the cold satisfaction of being alone, of needing nobody.",
+     "Вся её жизнь — жизнь, которую она построила после катастрофы, — состояла из двух чувств: боли от потери Томаса и холодного удовлетворения от одиночества, от того, что ей никто не нужен."
+    ],
+    [
+     "Both were false.",
+     "Оба были ложными."
+    ],
+    [
+     "Underneath them was something much worse than grief.",
+     "Под ними лежало нечто гораздо худшее, чем горе."
+    ],
+    [
+     "It was shame.",
+     "Стыд."
+    ],
+    [
+     "Two hundred and twelve people.",
+     "Двести двенадцать человек."
+    ],
+    [
+     "The night tour.",
+     "Ночная экскурсия."
+    ],
+    [
+     "The peak.",
+     "Вершина."
+    ],
+    [
+     "Did she remember their faces?",
+     "Помнила ли она их лица?"
+    ],
+    [
+     "No.",
+     "Нет."
+    ],
+    [
+     "Somebody had been kind enough to take that knowledge away.",
+     "Кто-то был так добр, что забрал у неё это знание."
+    ]
+   ]
+  },
+  {
+   "en": "And yet some part of her wanted to keep it. The edits were a kind of abuse — of her mind, of her right to know who she was. Every review prolonged the lie a little longer, and every time she accepted it, she gave the real criminals another advantage. They were still out there. Their names were still clean.",
+   "ru": "И всё же какая-то часть её хотела его сохранить. Эти правки были своего рода злоупотреблением — её разумом, её правом знать, кто она такая. Каждый обзор ещё немного продлевал ложь, и каждый раз, когда она принимала его, она давала настоящим преступникам ещё одно преимущество. Они всё ещё были на свободе. Их имена всё ещё были чисты.",
+   "s": [
+    [
+     "And yet some part of her wanted to keep it.",
+     "И всё же какая-то часть её хотела его сохранить."
+    ],
+    [
+     "The edits were a kind of abuse — of her mind, of her right to know who she was.",
+     "Эти правки были своего рода злоупотреблением — её разумом, её правом знать, кто она такая."
+    ],
+    [
+     "Every review prolonged the lie a little longer, and every time she accepted it, she gave the real criminals another advantage.",
+     "Каждый обзор ещё немного продлевал ложь, и каждый раз, когда она принимала его, она давала настоящим преступникам ещё одно преимущество."
+    ],
+    [
+     "They were still out there.",
+     "Они всё ещё были на свободе."
+    ],
+    [
+     "Their names were still clean.",
+     "Их имена всё ещё были чисты."
+    ]
+   ]
+  },
+  {
+   "en": "She looked at the account details in the Lumen log. Tomas Kost was not hiding at all. His address was on the other side of the river, in a building directly opposite the old Meridian site.",
+   "ru": "Она посмотрела на данные аккаунта в журнале Lumen. Томас Кост вовсе не прятался. Его адрес был на другом берегу реки, в доме прямо напротив того места, где стоял «Меридиан».",
+   "s": [
+    [
+     "She looked at the account details in the Lumen log.",
+     "Она посмотрела на данные аккаунта в журнале Lumen."
+    ],
+    [
+     "Tomas Kost was not hiding at all.",
+     "Томас Кост вовсе не прятался."
+    ],
+    [
+     "His address was on the other side of the river, in a building directly opposite the old Meridian site.",
+     "Его адрес был на другом берегу реки, в доме прямо напротив того места, где стоял «Меридиан»."
+    ]
+   ]
+  },
+  {
+   "en": "She went there the next morning. She put on her old grey coat, pulled the hood over her head and walked across the bridge in the shadow of the new towers. She did not let herself stop or look back; she only moved forward, step after step. It took her twenty minutes to find the door. She knocked twice and waited, her heart beating so hard that it hurt.",
+   "ru": "Она отправилась туда на следующее утро. Она надела старое серое пальто, натянула капюшон и пошла по мосту в тени новых башен. Она не позволяла себе остановиться или оглянуться — только шла вперёд, шаг за шагом. Чтобы найти дверь, ей понадобилось двадцать минут. Она постучала дважды и ждала, а сердце билось так сильно, что было больно.",
+   "s": [
+    [
+     "She went there the next morning.",
+     "Она отправилась туда на следующее утро."
+    ],
+    [
+     "She put on her old grey coat, pulled the hood over her head and walked across the bridge in the shadow of the new towers.",
+     "Она надела старое серое пальто, натянула капюшон и пошла по мосту в тени новых башен."
+    ],
+    [
+     "She did not let herself stop or look back; she only moved forward, step after step.",
+     "Она не позволяла себе остановиться или оглянуться — только шла вперёд, шаг за шагом."
+    ],
+    [
+     "It took her twenty minutes to find the door.",
+     "Чтобы найти дверь, ей понадобилось двадцать минут."
+    ],
+    [
+     "She knocked twice and waited, her heart beating so hard that it hurt.",
+     "Она постучала дважды и ждала, а сердце билось так сильно, что было больно."
+    ]
+   ]
+  },
+  {
+   "en": "“Come in,” said a voice she had not heard for three years. “It's open.”",
+   "ru": "«Входите», — сказал голос, которого она не слышала три года. «Открыто».",
+   "s": [
+    [
+     "“Come in,” said a voice she had not heard for three years.",
+     "«Входите», — сказал голос, которого она не слышала три года."
+    ],
+    [
+     "“It's open.”",
+     "«Открыто»."
+    ]
+   ]
+  },
+  {
+   "en": "He was sitting at a small table by the window, older and thinner, with grey in his beard. When he saw her face, the cup fell out of his hand. “Vera,” he said. “You're not supposed to be here. The review —”",
+   "ru": "Он сидел за маленьким столом у окна, постаревший и похудевший, с сединой в бороде. Когда он увидел её лицо, чашка выпала у него из руки. «Вера, — сказал он. — Тебя не должно здесь быть. Обзор…»",
+   "s": [
+    [
+     "He was sitting at a small table by the window, older and thinner, with grey in his beard.",
+     "Он сидел за маленьким столом у окна, постаревший и похудевший, с сединой в бороде."
+    ],
+    [
+     "When he saw her face, the cup fell out of his hand.",
+     "Когда он увидел её лицо, чашка выпала у него из руки."
+    ],
+    [
+     "“Vera,” he said.",
+     "«Вера, — сказал он."
+    ],
+    [
+     "“You're not supposed to be here.",
+     "— Тебя не должно здесь быть."
+    ],
+    [
+     "The review —”",
+     "Обзор…»"
+    ]
+   ]
+  },
+  {
+   "en": "“Was cancelled,” she said. “I did it this morning. I'm sorry if I disturb your peaceful life.”",
+   "ru": "«Отменён, — сказала она. — Я сделала это сегодня утром. Прости, если я беспокою твою мирную жизнь».",
+   "s": [
+    [
+     "“Was cancelled,” she said.",
+     "«Отменён, — сказала она."
+    ],
+    [
+     "“I did it this morning.",
+     "— Я сделала это сегодня утром."
+    ],
+    [
+     "I'm sorry if I disturb your peaceful life.”",
+     "Прости, если я беспокою твою мирную жизнь»."
+    ]
+   ]
+  },
+  {
+   "en": "Tomas stood up slowly. For a second they only looked at each other. Then he crossed the room and put his arms around her shoulders, and she let him hug her, the way he used to when they were children. He smelled of coffee and rain. “I wish you hadn't found it,” he whispered. “And I'm so glad you did.”",
+   "ru": "Томас медленно встал. Секунду они просто смотрели друг на друга. Потом он пересёк комнату и обнял её за плечи, и она позволила ему обнять себя — так, как он обнимал её, когда они были детьми. От него пахло кофе и дождём. «Лучше бы ты этого не находила, — прошептал он. — И я так рад, что ты нашла».",
+   "s": [
+    [
+     "Tomas stood up slowly.",
+     "Томас медленно встал."
+    ],
+    [
+     "For a second they only looked at each other.",
+     "Секунду они просто смотрели друг на друга."
+    ],
+    [
+     "Then he crossed the room and put his arms around her shoulders, and she let him hug her, the way he used to when they were children.",
+     "Потом он пересёк комнату и обнял её за плечи, и она позволила ему обнять себя — так, как он обнимал её, когда они были детьми."
+    ],
+    [
+     "He smelled of coffee and rain.",
+     "От него пахло кофе и дождём."
+    ],
+    [
+     "“I wish you hadn't found it,” he whispered.",
+     "«Лучше бы ты этого не находила, — прошептал он."
+    ],
+    [
+     "“And I'm so glad you did.”",
+     "— И я так рад, что ты нашла»."
+    ]
+   ]
+  },
+  {
+   "en": "“Four times,” she said into his coat. “You let me find it four times, and you made me forget it four times.” “It was the only way I could manage to keep you safe,” he said. “Each time you found the truth, you wanted to go after them. They would have killed you.”",
+   "ru": "«Четыре раза, — сказала она, уткнувшись в его пальто. — Ты четыре раза позволял мне найти это и четыре раза заставлял меня забыть». «Только так я мог тебя защитить, — сказал он. — Каждый раз, узнав правду, ты хотела пойти за ними. Они бы тебя убили».",
+   "s": [
+    [
+     "“Four times,” she said into his coat.",
+     "«Четыре раза, — сказала она, уткнувшись в его пальто."
+    ],
+    [
+     "“You let me find it four times, and you made me forget it four times.”",
+     "— Ты четыре раза позволял мне найти это и четыре раза заставлял меня забыть»."
+    ],
+    [
+     "“It was the only way I could manage to keep you safe,” he said.",
+     "«Только так я мог тебя защитить, — сказал он."
+    ],
+    [
+     "“Each time you found the truth, you wanted to go after them.",
+     "— Каждый раз, узнав правду, ты хотела пойти за ними."
+    ],
+    [
+     "They would have killed you.”",
+     "Они бы тебя убили»."
+    ]
+   ]
+  },
+  {
+   "en": "Vera stepped back and wiped her eyes. “They might still try,” she said. “But this time I'm not going to forget. I've copied the whole record — the logs, the false memories, the video, the payment from the customer who used us. I've sent it to five journalists and to a lawyer who hates the government more than I do. By tonight it'll be news.”",
+   "ru": "Вера отступила на шаг и вытерла глаза. «Они ещё могут попытаться, — сказала она. — Но на этот раз я не забуду. Я скопировала всю запись — журналы, ложные воспоминания, видео, платёж от клиента, который нас использовал. Я отправила это пяти журналистам и адвокату, который ненавидит правительство сильнее, чем я. К вечеру это будет в новостях».",
+   "s": [
+    [
+     "Vera stepped back and wiped her eyes.",
+     "Вера отступила на шаг и вытерла глаза."
+    ],
+    [
+     "“They might still try,” she said.",
+     "«Они ещё могут попытаться, — сказала она."
+    ],
+    [
+     "“But this time I'm not going to forget.",
+     "— Но на этот раз я не забуду."
+    ],
+    [
+     "I've copied the whole record — the logs, the false memories, the video, the payment from the customer who used us.",
+     "Я скопировала всю запись — журналы, ложные воспоминания, видео, платёж от клиента, который нас использовал."
+    ],
+    [
+     "I've sent it to five journalists and to a lawyer who hates the government more than I do.",
+     "Я отправила это пяти журналистам и адвокату, который ненавидит правительство сильнее, чем я."
+    ],
+    [
+     "By tonight it'll be news.”",
+     "К вечеру это будет в новостях»."
+    ]
+   ]
+  },
+  {
+   "en": "Tomas stared at her. Then, for the first time, he laughed — a tired, surprised laugh. “You were always faster than me,” he said.",
+   "ru": "Томас уставился на неё. А потом впервые засмеялся — устало и удивлённо. «Ты всегда была быстрее меня», — сказал он.",
+   "s": [
+    [
+     "Tomas stared at her.",
+     "Томас уставился на неё."
+    ],
+    [
+     "Then, for the first time, he laughed — a tired, surprised laugh.",
+     "А потом впервые засмеялся — устало и удивлённо."
+    ],
+    [
+     "“You were always faster than me,” he said.",
+     "«Ты всегда была быстрее меня», — сказал он."
+    ]
+   ]
+  },
+  {
+   "en": "“I wasn't faster,” Vera said. “I just had the advantage of knowing how it ends when I run away.” She looked out of the window at the empty place where the tower had once stood. The rain had stopped. It was a strange pleasure, she thought, to feel her own pain, real and heavy and completely hers. “Now,” she said, “make me some coffee. And then tell me everything I've forgotten.”",
+   "ru": "«Я не была быстрее, — сказала Вера. — Просто у меня было преимущество: я знала, чем кончается, когда я убегаю». Она посмотрела в окно на пустое место, где когда-то стояла башня. Дождь прекратился. Странное это удовольствие, подумала она, — чувствовать собственную боль, настоящую, тяжёлую и целиком свою. «А теперь, — сказала она, — свари мне кофе. А потом расскажи мне всё, что я забыла».",
+   "s": [
+    [
+     "“I wasn't faster,” Vera said.",
+     "«Я не была быстрее, — сказала Вера."
+    ],
+    [
+     "“I just had the advantage of knowing how it ends when I run away.”",
+     "— Просто у меня было преимущество: я знала, чем кончается, когда я убегаю»."
+    ],
+    [
+     "She looked out of the window at the empty place where the tower had once stood.",
+     "Она посмотрела в окно на пустое место, где когда-то стояла башня."
+    ],
+    [
+     "The rain had stopped.",
+     "Дождь прекратился."
+    ],
+    [
+     "It was a strange pleasure, she thought, to feel her own pain, real and heavy and completely hers.",
+     "Странное это удовольствие, подумала она, — чувствовать собственную боль, настоящую, тяжёлую и целиком свою."
+    ],
+    [
+     "“Now,” she said, “make me some coffee.",
+     "«А теперь, — сказала она, — свари мне кофе."
+    ],
+    [
+     "And then tell me everything I've forgotten.”",
+     "А потом расскажи мне всё, что я забыла»."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "above": "над",
+  "abuse": "злоупотребление",
+  "accepted": "приняла",
+  "accident": "несчастный случай",
+  "account": "аккаунт, учётная запись",
+  "across": "через, по",
+  "added": "добавил",
+  "address": "адрес",
+  "advantage": "преимущество",
+  "after": "после",
+  "again": "снова",
+  "against": "у, к (стене)",
+  "all": "совсем (at all)",
+  "almost": "почти",
+  "alone": "один, одна",
+  "always": "всегда",
+  "amazing": "удивительный",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "angry": "злой, сердитый",
+  "animal": "животное",
+  "announcement": "объявление",
+  "another": "ещё один",
+  "anxiety": "беспокойство",
+  "any": "какой-либо; больше (не)",
+  "anything": "что-нибудь",
+  "appeared": "появился",
+  "arm": "рука",
+  "arms": "руки",
+  "around": "вокруг, по",
+  "as": "как, так как",
+  "at": "в, у, на",
+  "attached": "прикреплённый",
+  "away": "прочь",
+  "back": "назад",
+  "background": "задний план",
+  "bad": "плохой",
+  "badly": "плохо",
+  "be": "быть",
+  "beard": "борода",
+  "beating": "биться",
+  "because": "потому что",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "behind": "за, позади",
+  "being": "быть",
+  "believe": "верить",
+  "below": "внизу",
+  "bent": "запрокинув",
+  "big": "большой",
+  "blue": "синий",
+  "both": "оба",
+  "box": "коробка",
+  "bridge": "мост",
+  "broken": "разбитый",
+  "brother": "брат",
+  "building": "здание",
+  "built": "построил(и)",
+  "busy": "занятой",
+  "but": "но",
+  "by": "у, к, от",
+  "called": "назвали",
+  "calm": "спокойный",
+  "came": "пришёл, пришли",
+  "cancelled": "отменён",
+  "care": "забота",
+  "change": "изменить",
+  "changed": "изменились",
+  "cheap": "дешёвый",
+  "children": "дети",
+  "choice": "выбор",
+  "city": "город",
+  "city's": "города",
+  "clean": "чистый",
+  "clear": "ясный",
+  "client": "клиент",
+  "close": "близко",
+  "coat": "пальто",
+  "coffee": "кофе",
+  "cold": "холодный",
+  "collapse": "крах, обрушение",
+  "collapsed": "рухнула",
+  "come": "прийти; come in — входить",
+  "company": "компания",
+  "compared": "сравнила",
+  "complete": "полный",
+  "completely": "полностью",
+  "computer": "компьютер",
+  "connected": "подключила",
+  "continued": "продолжала",
+  "copied": "скопировала",
+  "corner": "угол",
+  "correct": "правильный",
+  "could": "мог(ла)",
+  "criminals": "преступники",
+  "crossed": "пересёк",
+  "crowd": "толпа",
+  "cup": "чашка",
+  "customer": "клиент",
+  "customers": "клиенты",
+  "day": "день",
+  "dead": "мёртв",
+  "deal": "сделка",
+  "death": "смерть",
+  "decided": "решили",
+  "deep": "глубокий",
+  "delete": "удалить",
+  "deleted": "удалённый",
+  "desk": "стол",
+  "destroy": "разрушить",
+  "details": "подробности",
+  "did": "сделала; (вспом. гл.)",
+  "didn't": "не (прош. вр.)",
+  "died": "умер(ла)",
+  "digital": "цифровой",
+  "directly": "прямо",
+  "disappeared": "исчез(ло)",
+  "disturb": "беспокоить",
+  "do": "(вспом. гл.)",
+  "don't": "не (вспом. гл.)",
+  "done": "сделали",
+  "door": "дверь",
+  "down": "вниз",
+  "each": "каждый; друг (each other)",
+  "ear": "ухо",
+  "easy": "лёгкий",
+  "edge": "край",
+  "edit": "правка",
+  "editing": "редактирование",
+  "editor": "редактор",
+  "editors": "редакторы",
+  "edits": "правки",
+  "either": "тоже (не)",
+  "emotion": "эмоция",
+  "empty": "пустой",
+  "ended": "закончилась",
+  "ends": "кончается",
+  "enough": "достаточно",
+  "entries": "записи",
+  "errors": "ошибки",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "everything": "всё",
+  "exactly": "точно",
+  "except": "кроме",
+  "exist": "существовать",
+  "expected": "ожидала",
+  "explore": "исследовать",
+  "eyes": "глаза",
+  "face": "лицо",
+  "faces": "лица",
+  "facts": "факты",
+  "fall": "падать",
+  "false": "ложный",
+  "familiar": "привычный",
+  "famous": "знаменитый",
+  "faster": "быстрее",
+  "feel": "чувствовать",
+  "feelings": "чувства",
+  "fell": "упала",
+  "felt": "чувствовала",
+  "few": "несколько",
+  "file": "файл",
+  "find": "найти",
+  "finished": "закончила",
+  "first": "первый; сначала",
+  "five": "пять",
+  "flat": "квартира",
+  "floor": "пол",
+  "for": "для, в течение",
+  "forget": "забыть",
+  "forgotten": "забыла",
+  "fork": "вилка",
+  "forward": "вперёд",
+  "found": "нашли",
+  "four": "четыре",
+  "fourteenth": "четырнадцатое",
+  "fourth": "четвёртый",
+  "fresh": "свежий",
+  "frightened": "испуганная",
+  "from": "из, от",
+  "gap": "пробел, дыра",
+  "gave": "давала",
+  "glad": "рад",
+  "go": "ехать, идти",
+  "going": "собираюсь",
+  "good": "хороший",
+  "got": "получила; выбрался (got out)",
+  "government": "правительство",
+  "grey": "серый",
+  "grief": "горе",
+  "guide": "гид, экскурсовод",
+  "hacker": "хакер",
+  "had": "(вспом. гл.); имела",
+  "hadn't": "не (бы) (had not)",
+  "hair": "волосы",
+  "hammered": "колотил",
+  "hand": "рука",
+  "hands": "руки",
+  "happy": "счастливый",
+  "hard": "сильно",
+  "harrow": "Харроу (название)",
+  "has": "(вспом. гл.)",
+  "hates": "ненавидит",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "he'd": "он (he had)",
+  "head": "голова",
+  "heard": "слышала",
+  "heart": "сердце",
+  "heavy": "тяжёлый",
+  "held": "держала",
+  "hello": "привет",
+  "her": "её, ей",
+  "here": "здесь",
+  "hers": "её",
+  "herself": "сама",
+  "hidden": "скрытый",
+  "hide": "прятать",
+  "hiding": "прятался",
+  "him": "его, ему",
+  "his": "его",
+  "hood": "капюшон",
+  "hotel": "гостиница",
+  "hour": "час",
+  "hours": "часы",
+  "how": "как",
+  "however": "однако; сколько бы",
+  "hug": "обнимать",
+  "hundred": "сто",
+  "hurt": "было больно",
+  "i": "я",
+  "i'll": "я (буду)",
+  "i'm": "я (есть)",
+  "i've": "я (уже)",
+  "if": "если, ли",
+  "implant": "имплант",
+  "in": "в",
+  "included": "включала",
+  "inside": "внутри",
+  "instead": "вместо этого",
+  "into": "в",
+  "is": "есть, является",
+  "isn't": "не (есть)",
+  "it": "он, оно, это",
+  "it'll": "это будет (it will)",
+  "it's": "это",
+  "its": "его, её",
+  "job": "работа",
+  "journalists": "журналисты",
+  "just": "просто",
+  "keep": "сохранить; keep safe — защищать",
+  "kept": "хранила",
+  "killed": "убили бы",
+  "kind": "вид; a kind of — что-то вроде",
+  "knocked": "постучали",
+  "know": "знаю",
+  "knowing": "знать (знание)",
+  "knowledge": "знание",
+  "knows": "знает",
+  "kost": "Кост (фамилия)",
+  "kost's": "Кост (фамилии)",
+  "lamp": "лампа",
+  "last": "прошлый",
+  "laugh": "смех; смеяться",
+  "laughed": "засмеялся",
+  "lawyer": "юрист",
+  "leave": "оставить",
+  "leaving": "оставлять",
+  "left": "левый",
+  "legal": "законный",
+  "let": "позволять",
+  "lie": "ложь",
+  "life": "жизнь",
+  "light": "свет",
+  "like": "как",
+  "listen": "слушать",
+  "little": "маленький, немного",
+  "lived": "жили",
+  "log": "журнал (событий)",
+  "logs": "журналы",
+  "long": "долго, долгий",
+  "longer": "дольше",
+  "look": "смотреть",
+  "looked": "посмотрела; выглядела",
+  "looking": "глядя",
+  "losing": "потеря, потерять",
+  "low": "низкий",
+  "luck": "удача",
+  "lumen": "Lumen (название компании)",
+  "machine": "машина",
+  "made": "сделала, создала",
+  "make": "делать",
+  "makes": "делает; makes sense — имеет смысл",
+  "making": "создание, создать",
+  "man": "мужчина",
+  "manage": "суметь, справиться",
+  "march": "март",
+  "me": "меня, мне",
+  "memories": "воспоминания",
+  "memory": "память",
+  "meridian": "«Меридиан» (название)",
+  "message": "сообщение",
+  "met": "встретила",
+  "metal": "металлический",
+  "might": "мог бы",
+  "mind": "разум",
+  "minutes": "минуты",
+  "missed": "скучал",
+  "mistake": "ошибка",
+  "moment": "мгновение",
+  "months": "месяцы",
+  "more": "больше",
+  "morning": "утро",
+  "most": "большая часть",
+  "move": "двигаться",
+  "moved": "двигалась, шла",
+  "much": "гораздо",
+  "name": "имя",
+  "names": "имена",
+  "neck": "шея",
+  "necklace": "ожерелье",
+  "needing": "нуждаться",
+  "network": "сеть",
+  "never": "никогда",
+  "new": "новый",
+  "news": "новость",
+  "next": "следующий; рядом",
+  "night": "ночь",
+  "nights": "ночи",
+  "no": "нет",
+  "nobody": "никто",
+  "noise": "шум",
+  "noodle": "лапша",
+  "not": "не",
+  "notice": "уведомление",
+  "now": "теперь",
+  "of": "из, о, (род. падеж)",
+  "often": "часто",
+  "old": "старый",
+  "older": "старше",
+  "oldest": "самый старый",
+  "on": "на",
+  "once": "однажды",
+  "one": "один, одна",
+  "only": "только",
+  "open": "открытый",
+  "opened": "открыл",
+  "opposite": "напротив",
+  "or": "или",
+  "other": "другой",
+  "our": "наш",
+  "out": "наружу",
+  "over": "через, над",
+  "own": "собственный",
+  "paid": "заплатил",
+  "pain": "боль",
+  "part": "часть",
+  "patient": "терпеливый; пациент",
+  "payment": "платёж",
+  "pays": "платит",
+  "peaceful": "мирный, спокойный",
+  "peak": "пик, вершина",
+  "people": "люди",
+  "place": "место",
+  "plastic": "пластиковый",
+  "pleasure": "удовольствие",
+  "pointed": "указывал",
+  "police": "полиция, полицейский",
+  "popular": "популярный",
+  "predators": "хищники",
+  "program": "программа",
+  "prolonged": "продлевал",
+  "public": "открытый, общедоступный",
+  "pulled": "натянула",
+  "pure": "чистый",
+  "put": "положила; put on — надела",
+  "quietly": "тихо",
+  "rain": "дождь",
+  "rained": "шёл дождь",
+  "read": "читать, прочитала",
+  "real": "настоящий",
+  "realised": "понял",
+  "really": "действительно",
+  "record": "запись",
+  "recording": "запись",
+  "recordings": "записи",
+  "records": "записи",
+  "remember": "помню",
+  "remembered": "помнила",
+  "repeat": "повторить",
+  "repeated": "повторила",
+  "result": "результат",
+  "review": "обзор",
+  "reviews": "обзоры",
+  "right": "правильный",
+  "river": "река",
+  "robbery": "ограбление",
+  "roof": "крыша",
+  "room": "комната",
+  "run": "бежать",
+  "safe": "в безопасности",
+  "said": "сказал(а)",
+  "same": "тот же",
+  "sat": "сидела",
+  "satisfaction": "удовлетворение",
+  "save": "сохранить",
+  "saw": "увидела",
+  "say": "говорить",
+  "scar": "шрам",
+  "scared": "испуганный",
+  "screen": "экран",
+  "screens": "экраны",
+  "second": "секунда",
+  "security": "безопасность",
+  "see": "видеть",
+  "seen": "замеченной (being seen)",
+  "sense": "смысл",
+  "sent": "отправленный",
+  "settle": "опуститься",
+  "shadow": "тень",
+  "shaking": "дрожали",
+  "shame": "стыд",
+  "she": "она",
+  "shining": "сияющий",
+  "shorter": "короче",
+  "shoulders": "плечи",
+  "showed": "показала",
+  "side": "сторона",
+  "signature": "подпись",
+  "silent": "тихий, молчаливый",
+  "simple": "простой",
+  "since": "с (тех пор)",
+  "single": "единственный",
+  "sirens": "сирены",
+  "site": "место, площадка",
+  "sitting": "сидел",
+  "sky": "небо",
+  "sleep": "спать",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smelled": "пах",
+  "smiled": "улыбнулась",
+  "smoke": "дым",
+  "so": "поэтому; так",
+  "some": "некоторые",
+  "somebody": "кто-то",
+  "someone": "кто-то",
+  "something": "что-то",
+  "sorry": "простите",
+  "standing": "стоя",
+  "stared": "уставилась",
+  "start": "начать",
+  "started": "начали",
+  "step": "шаг",
+  "stepped": "шагнула",
+  "still": "всё ещё; неподвижный",
+  "stood": "встал; стояла",
+  "stop": "перестать",
+  "stopped": "прекратился",
+  "straight": "прямо",
+  "strange": "странный",
+  "street": "улица",
+  "suggested": "предложил",
+  "supposed": "должен был",
+  "sure": "уверенный",
+  "surprised": "удивлённый",
+  "system": "система",
+  "table": "стол",
+  "take": "забрать",
+  "taken": "забрать",
+  "taking": "водя",
+  "task": "задача",
+  "tell": "сказать",
+  "terrible": "ужасный",
+  "than": "чем",
+  "thank": "спасибо",
+  "that": "что; тот, это",
+  "that's": "это (есть)",
+  "the": "(опр. артикль)",
+  "their": "их, свои",
+  "them": "их",
+  "then": "потом, тогда",
+  "there": "там",
+  "they": "они",
+  "thing": "вещь",
+  "think": "думаю",
+  "thinner": "худее",
+  "this": "этот",
+  "thought": "подумала",
+  "three": "три",
+  "time": "время, раз",
+  "times": "раз",
+  "tiny": "крошечный",
+  "tired": "усталый",
+  "to": "к, в; (частица)",
+  "tomas": "Томас (имя)",
+  "tomorrow": "завтра",
+  "tonight": "сегодня вечером",
+  "too": "слишком",
+  "took": "заняло",
+  "touched": "коснулась",
+  "tour": "экскурсия",
+  "tower": "башня",
+  "tower's": "башни",
+  "towers": "башни",
+  "true": "настоящий",
+  "trust": "доверять",
+  "truth": "правда",
+  "try": "попробовать",
+  "twelve": "двенадцать",
+  "twenty": "двадцать",
+  "twice": "дважды",
+  "two": "два",
+  "underneath": "под, внизу",
+  "up": "вверх",
+  "upset": "расстроенный",
+  "us": "нам",
+  "used": "использовала; used to — раньше (бывало)",
+  "uses": "использует",
+  "usually": "обычно",
+  "valued": "ценный",
+  "vera": "Вера (имя)",
+  "very": "очень",
+  "video": "видео",
+  "vision": "зрение, поле зрения",
+  "visitors": "посетители",
+  "voice": "голос",
+  "waited": "ждала",
+  "walked": "пошла",
+  "want": "хотеть",
+  "wanted": "хотел",
+  "warning": "предупреждение",
+  "was": "был(а)",
+  "wasn't": "не был",
+  "watching": "смотреть, следить",
+  "way": "способ, так",
+  "we": "мы",
+  "we'd": "мы бы (we would)",
+  "we've": "мы (вспом.)",
+  "weakest": "самый слабый",
+  "weather": "погода",
+  "weight": "вес, тяжесть",
+  "well": "ну",
+  "went": "продолжала (went on)",
+  "were": "были",
+  "what": "что",
+  "when": "когда",
+  "where": "где",
+  "which": "который, что",
+  "whispered": "прошептала",
+  "whispering": "шептал",
+  "who": "кто, который",
+  "whole": "весь",
+  "why": "почему",
+  "will": "будет",
+  "window": "окно",
+  "wiped": "вытерла",
+  "wise": "мудрый",
+  "wish": "желать; I wish — жаль, что",
+  "with": "с",
+  "woman": "женщина",
+  "word": "слово",
+  "worked": "работала",
+  "worse": "хуже",
+  "would": "бы",
+  "wrote": "написал(а)",
+  "years": "лет, годы",
+  "yet": "ещё, пока",
+  "you": "вы, ты",
+  "you'll": "ты будешь (you will)",
+  "you're": "ты (есть)",
+  "you've": "ты (уже)",
+  "your": "твой, ваш"
+ },
+ "vocab": {
+  "here": 1,
+  "luck": 11,
+  "their": 21,
+  "noise": 31,
+  "put": 41,
+  "hug": 51,
+  "shadow": 61,
+  "shoulders": 71,
+  "often": 81,
+  "arm": 91,
+  "knowledge": 101,
+  "come": 111,
+  "notice": 121,
+  "trust": 131,
+  "before": 141,
+  "still": 151,
+  "wish": 161,
+  "amazing": 171,
+  "repeat": 181,
+  "repeated": 181,
+  "exactly": 191,
+  "silent": 201,
+  "neck": 212,
+  "correct": 222,
+  "whole": 232,
+  "forward": 242,
+  "upset": 252,
+  "advantage": 262,
+  "accepted": 272,
+  "missed": 282,
+  "tour": 293,
+  "explore": 303,
+  "each": 313,
+  "customer": 323,
+  "customers": 323,
+  "weight": 333,
+  "death": 343,
+  "above": 353,
+  "suggested": 363,
+  "review": 373,
+  "reviews": 373,
+  "government": 383,
+  "sense": 401,
+  "however": 411,
+  "opposite": 421,
+  "pleasure": 431,
+  "disturb": 444,
+  "wise": 458,
+  "anxiety": 471,
+  "satisfaction": 482,
+  "shame": 493,
+  "included": 503,
+  "collapse": 514,
+  "collapsed": 514,
+  "announcement": 525,
+  "attached": 535,
+  "background": 546,
+  "pure": 556,
+  "record": 567,
+  "records": 567,
+  "prolonged": 577,
+  "abuse": 587,
+  "fork": 598,
+  "manage": 609,
+  "task": 619,
+  "peak": 630,
+  "predators": 641,
+  "cheap": 652
+ }
+}

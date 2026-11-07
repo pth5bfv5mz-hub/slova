@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why was this day very important for Kevin?",
+  "q_ru": "Почему этот день был очень важен для Кевина?",
+  "options": [
+   "It was his birthday",
+   "He had to show his plan to the owner and investors",
+   "He was starting a new job",
+   "He was going to a marathon"
+  ],
+  "options_ru": [
+   "Это был его день рождения",
+   "Он должен был показать свой план владельцу и инвесторам",
+   "Он выходил на новую работу",
+   "Он собирался на марафон"
+  ],
+  "answer": 1,
+  "explain_ru": "В десять он должен был показать новую структуру компании мистеру Хармону и двум инвесторам — «a rare opportunity»."
+ },
+ {
+  "q": "How did Kevin's bag end up in the lake?",
+  "q_ru": "Как сумка Кевина оказалась в озере?",
+  "options": [
+   "He threw it at the dog",
+   "A woman pushed it into the water",
+   "The dog's lead caught it and pulled it away",
+   "It fell when he jumped over the fence"
+  ],
+  "options_ru": [
+   "Он бросил её в собаку",
+   "Женщина столкнула её в воду",
+   "Поводок собаки зацепил её и утащил",
+   "Она упала, когда он перелезал через забор"
+  ],
+  "answer": 2,
+  "explain_ru": "«The dog's lead was caught on the strap of Kevin's bag. The bag... landed with a loud splash in the lake.»"
+ },
+ {
+  "q": "Why didn't Bob let Kevin into the building?",
+  "q_ru": "Почему Боб не пустил Кевина в здание?",
+  "options": [
+   "Kevin had no access card",
+   "Bob didn't recognise Kevin",
+   "Kevin was covered in chocolate",
+   "Bob was angry about the cake"
+  ],
+  "options_ru": [
+   "У Кевина не было пропуска",
+   "Боб не узнал Кевина",
+   "Кевин был весь в шоколаде",
+   "Боб злился из-за торта"
+  ],
+  "answer": 0,
+  "explain_ru": "«No card, no access. Mr. Harmon made that rule himself.» Пропуск Кевина утонул в озере."
+ },
+ {
+  "q": "After he lands on the cake, Kevin feels \"a terrible wave of guilt\". What does he feel?",
+  "q_ru": "Упав на торт, Кевин чувствует «a terrible wave of guilt». Что он чувствует?",
+  "options": [
+   "Strong fear of the dog",
+   "Great joy and relief",
+   "Hunger and tiredness",
+   "That he did something bad to Bob"
+  ],
+  "options_ru": [
+   "Сильный страх перед собакой",
+   "Огромную радость и облегчение",
+   "Голод и усталость",
+   "Что он поступил плохо по отношению к Бобу"
+  ],
+  "answer": 3,
+  "explain_ru": "«Guilt» — чувство вины: он испортил торт Боба, а «Bob did not deserve this»."
+ },
+ {
+  "q": "Why was the meeting room empty at ten o'clock?",
+  "q_ru": "Почему в десять часов переговорная была пуста?",
+  "options": [
+   "The meeting had moved to another building",
+   "Everyone was at Bob's birthday party",
+   "It was a public holiday, and the meeting was on Monday",
+   "The investors had cancelled the deal"
+  ],
+  "options_ru": [
+   "Встречу перенесли в другое здание",
+   "Все были на дне рождения Боба",
+   "Был праздничный день, а встреча была в понедельник",
+   "Инвесторы отменили сделку"
+  ],
+  "answer": 2,
+  "explain_ru": "Письмо Линды: «Friday is Founders' Day, a public holiday... The meeting is on MONDAY.»"
+ },
+ {
+  "q": "What happens to Kevin at the end of the story?",
+  "q_ru": "Что происходит с Кевином в конце истории?",
+  "options": [
+   "He loses his job",
+   "He becomes head of the department",
+   "He leaves the company",
+   "He becomes a security guard"
+  ],
+  "options_ru": [
+   "Он теряет работу",
+   "Он становится начальником отдела",
+   "Он уходит из компании",
+   "Он становится охранником"
+  ],
+  "answer": 1,
+  "explain_ru": "Инвесторам понравился план, и в понедельник письмо от Хармона: «Kevin was now head of the department, with a pay rise»."
+ }
+]

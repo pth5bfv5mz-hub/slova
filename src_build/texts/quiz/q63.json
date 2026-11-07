@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Who made the hoax theory popular in the mid-1970s?",
+  "q_ru": "Кто сделал теорию мистификации популярной в середине 1970-х?",
+  "options": [
+   "Stanley Kubrick",
+   "Bill Kaysing",
+   "Buzz Aldrin",
+   "James Van Allen"
+  ],
+  "options_ru": [
+   "Стэнли Кубрик",
+   "Билл Кейсинг",
+   "Базз Олдрин",
+   "Джеймс Ван Аллен"
+  ],
+  "answer": 1,
+  "explain_ru": "Билл Кейсинг, бывший сотрудник компании по производству ракетных двигателей, опубликовал книгу «Мы никогда не летали на Луну»."
+ },
+ {
+  "q": "Why does the flag seem to wave in the Apollo films?",
+  "q_ru": "Почему флаг на съёмках «Аполлонов» словно развевается?",
+  "options": [
+   "There was a fan in the studio",
+   "The Moon has a thin wind",
+   "The astronauts moved it while the camera was off",
+   "It moves when the pole is touched, and without air it keeps swinging"
+  ],
+  "options_ru": [
+   "В студии был вентилятор",
+   "На Луне дует слабый ветер",
+   "Астронавты двигали его при выключенной камере",
+   "Он движется, когда трогают древко, а без воздуха продолжает качаться"
+  ],
+  "answer": 3,
+  "explain_ru": "Флаг движется только когда астронавт касается древка; в вакууме воздух его не тормозит, поэтому он качается дольше. Перекладина держала его расправленным."
+ },
+ {
+  "q": "Why are there no stars in the Apollo photographs?",
+  "q_ru": "Почему на фотографиях «Аполлонов» нет звёзд?",
+  "options": [
+   "The cameras were set for very bright objects, so faint stars did not appear",
+   "Stars cannot be seen from the Moon",
+   "NASA removed them from the pictures",
+   "The photos were all taken at night"
+  ],
+  "options_ru": [
+   "Камеры были настроены на очень яркие объекты, и слабые звёзды не проявились",
+   "Звёзды не видны с Луны",
+   "НАСА удалило их со снимков",
+   "Все фото были сделаны ночью"
+  ],
+  "answer": 0,
+  "explain_ru": "Камеры пропускали свет очень короткое время из-за яркого грунта и скафандров, и слабый свет звёзд не успевал проявиться."
+ },
+ {
+  "q": "Why do the retroreflectors alone NOT prove that humans were on the Moon?",
+  "q_ru": "Почему одни лишь уголковые отражатели НЕ доказывают, что на Луне были люди?",
+  "options": [
+   "They stopped working in 1972",
+   "Nobody has ever hit them with a laser",
+   "Soviet robots also placed reflectors on the Moon",
+   "They were placed by the Lunar Reconnaissance Orbiter"
+  ],
+  "options_ru": [
+   "Они перестали работать в 1972 году",
+   "Никто никогда не попадал в них лазером",
+   "Советские автоматы тоже установили на Луне отражатели",
+   "Их установил Lunar Reconnaissance Orbiter"
+  ],
+  "answer": 2,
+  "explain_ru": "Советский Союз установил отражатели с помощью «Луноходов», поэтому сами по себе зеркала — лишь часть общей картины доказательств."
+ },
+ {
+  "q": "What do the Lunar Reconnaissance Orbiter photographs show?",
+  "q_ru": "Что показывают снимки Lunar Reconnaissance Orbiter?",
+  "options": [
+   "Nothing at the landing sites",
+   "Equipment, parts of landing craft and astronauts' tracks",
+   "A secret Soviet base",
+   "Only the Apollo 11 flag"
+  ],
+  "options_ru": [
+   "Ничего на местах посадки",
+   "Оборудование, части посадочных модулей и следы астронавтов",
+   "Секретную советскую базу",
+   "Только флаг «Аполлона-11»"
+  ],
+  "answer": 1,
+  "explain_ru": "На снимках всех шести мест посадки видны нижние части модулей, оборудование, тёмные линии следов и тени флагов; флага «Аполлона-11» нет — его опрокинуло при взлёте."
+ },
+ {
+  "q": "What is the article's final conclusion?",
+  "q_ru": "Каков итоговый вывод статьи?",
+  "options": [
+   "The question is still completely open",
+   "Only the first landing was real",
+   "The landings were faked in a studio",
+   "The evidence from many sources shows that people really walked on the Moon"
+  ],
+  "options_ru": [
+   "Вопрос всё ещё полностью открыт",
+   "Настоящей была только первая высадка",
+   "Высадки сняли в студии",
+   "Доказательства из множества источников показывают, что люди действительно ходили по Луне"
+  ],
+  "answer": 3,
+  "explain_ru": "У каждого утверждения теории есть научное объяснение, а доказательства поступают из многих источников, включая бывшего противника — СССР."
+ }
+]

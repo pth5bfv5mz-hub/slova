@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did Mark take the job at the old hospital?",
+  "q_ru": "Почему Марк согласился на работу в старой больнице?",
+  "options": [
+   "He wanted to see a ghost",
+   "He used to work there as a doctor",
+   "The pay was good and he needed money",
+   "His sister asked him to"
+  ],
+  "options_ru": [
+   "Он хотел увидеть призрака",
+   "Раньше он работал там врачом",
+   "Платили хорошо, а ему нужны были деньги",
+   "Его попросила сестра"
+  ],
+  "answer": 2,
+  "explain_ru": "«The pay was good, and Mark needed money.»"
+ },
+ {
+  "q": "Which of these was one of Henry's three rules?",
+  "q_ru": "Какое из этих правил было одним из трёх правил Генри?",
+  "options": [
+   "Never go down to the basement",
+   "Always keep the lamp off",
+   "Call Henry every hour",
+   "Lock the front door at midnight"
+  ],
+  "options_ru": [
+   "Никогда не спускаться в подвал",
+   "Всегда держать лампу выключенной",
+   "Звонить Генри каждый час",
+   "Запирать входную дверь в полночь"
+  ],
+  "answer": 0,
+  "explain_ru": "Правила: не спать, не отвечать на звонок колокольчика и «never go to the floor below this one. The basement is closed.»"
+ },
+ {
+  "q": "Why did Mark go down to the basement?",
+  "q_ru": "Почему Марк спустился в подвал?",
+  "options": [
+   "He wanted to find the electricity box",
+   "Henry told him to check it",
+   "He heard a car outside",
+   "A woman's voice called his name for help"
+  ],
+  "options_ru": [
+   "Он хотел найти электрощиток",
+   "Генри велел ему проверить подвал",
+   "Он услышал машину снаружи",
+   "Женский голос звал его по имени на помощь"
+  ],
+  "answer": 3,
+  "explain_ru": "«Mark... Mark, please, help me...» — голос был похож на голос его матери, и он не смог остаться на месте."
+ },
+ {
+  "q": "Mark says he \"could not rely on his legs any more\". What does this mean?",
+  "q_ru": "Марк «could not rely on his legs any more». Что это значит?",
+  "options": [
+   "His legs were too cold to feel",
+   "He could not trust his legs to hold him",
+   "He wanted to sit down and rest",
+   "His legs were broken after the fall"
+  ],
+  "options_ru": [
+   "Ноги так замёрзли, что он их не чувствовал",
+   "Он не мог надеяться, что ноги его удержат",
+   "Он хотел сесть и отдохнуть",
+   "Ноги были сломаны после падения"
+  ],
+  "answer": 1,
+  "explain_ru": "«Rely on» — полагаться, рассчитывать на. Ноги дрожали: «they were shaking»."
+ },
+ {
+  "q": "Why was Mr. Collins surprised in the morning?",
+  "q_ru": "Почему мистер Коллинз удивился утром?",
+  "options": [
+   "Mark had broken the basement door",
+   "Mark had slept all night at the desk",
+   "Mark had got in without Collins and his keys",
+   "The museum was already finished"
+  ],
+  "options_ru": [
+   "Марк сломал дверь в подвал",
+   "Марк проспал всю ночь за столом",
+   "Марк попал внутрь без Коллинза и его ключей",
+   "Музей уже был готов"
+  ],
+  "answer": 2,
+  "explain_ru": "Коллинз должен был встретить Марка с ключами, но машина сломалась: «And how did you get in?»"
+ },
+ {
+  "q": "What do we learn about Henry at the end?",
+  "q_ru": "Что мы узнаём о Генри в конце?",
+  "options": [
+   "He is the director's father",
+   "He still works at the museum",
+   "He stole the hammer from Mark",
+   "He died in a fire twenty years ago"
+  ],
+  "options_ru": [
+   "Он отец директора",
+   "Он до сих пор работает в музее",
+   "Он украл у Марка молоток",
+   "Он погиб при пожаре двадцать лет назад"
+  ],
+  "answer": 3,
+  "explain_ru": "Коллинз: «Henry Walsh... died in the fire in the basement... That was twenty years ago.» На молотке было имя H. WALSH."
+ }
+]

@@ -1,0 +1,1604 @@
+{
+ "id": 43,
+ "level": "B1",
+ "title_en": "The Village Below the Bend",
+ "title_ru": "Деревня за поворотом реки",
+ "genre": "Приключения",
+ "summary_ru": "Два старых друга сплавляются на плоту по северной реке и за крутым поворотом находят деревню, которой нет на карте, — и вскоре понимают, что в ней кто-то есть.",
+ "paragraphs": [
+  {
+   "en": "Gavin had not seen Ruben for almost four years when his old friend called him one Tuesday night. “Let's go down the Vesna,” Ruben said. “Just the two of us, like we always planned.” Gavin was overwhelmed at work, and he had not had a real rest since the summer before. He said yes before he had time to think.",
+   "ru": "Гэвин не видел Рубена почти четыре года, когда однажды во вторник вечером ему позвонил старый друг. «Давай сплавимся по Весне», — сказал Рубен. «Только мы вдвоём, как всегда и собирались». Гэвин был завален работой, и он не отдыхал по-настоящему с прошлого лета. Он согласился раньше, чем успел подумать.",
+   "s": [
+    [
+     "Gavin had not seen Ruben for almost four years when his old friend called him one Tuesday night.",
+     "Гэвин не видел Рубена почти четыре года, когда однажды во вторник вечером ему позвонил старый друг."
+    ],
+    [
+     "“Let's go down the Vesna,” Ruben said.",
+     "«Давай сплавимся по Весне», — сказал Рубен."
+    ],
+    [
+     "“Just the two of us, like we always planned.”",
+     "«Только мы вдвоём, как всегда и собирались»."
+    ],
+    [
+     "Gavin was overwhelmed at work, and he had not had a real rest since the summer before.",
+     "Гэвин был завален работой, и он не отдыхал по-настоящему с прошлого лета."
+    ],
+    [
+     "He said yes before he had time to think.",
+     "Он согласился раньше, чем успел подумать."
+    ]
+   ]
+  },
+  {
+   "en": "Ruben had changed. At school he had been the loud one, always at the centre of a crowd, always ready with a joke. Now he was thinner and quieter. His clothes shop in the big mall outside the city had closed in the spring, and he spoke about it only once, on the train to the north. “It was a failure,” he said, looking out of the window. “My failure. Nobody else's.”",
+   "ru": "Рубен изменился. В школе он был самым шумным, всегда в центре толпы, всегда с шуткой наготове. Теперь он стал худее и тише. Его магазин одежды в большом торговом центре за городом закрылся весной, и он заговорил об этом только один раз — в поезде, который шёл на север. «Это был провал», — сказал он, глядя в окно. «Мой провал. Ничей больше».",
+   "s": [
+    [
+     "Ruben had changed.",
+     "Рубен изменился."
+    ],
+    [
+     "At school he had been the loud one, always at the centre of a crowd, always ready with a joke.",
+     "В школе он был самым шумным, всегда в центре толпы, всегда с шуткой наготове."
+    ],
+    [
+     "Now he was thinner and quieter.",
+     "Теперь он стал худее и тише."
+    ],
+    [
+     "His clothes shop in the big mall outside the city had closed in the spring, and he spoke about it only once, on the train to the north.",
+     "Его магазин одежды в большом торговом центре за городом закрылся весной, и он заговорил об этом только один раз — в поезде, который шёл на север."
+    ],
+    [
+     "“It was a failure,” he said, looking out of the window.",
+     "«Это был провал», — сказал он, глядя в окно."
+    ],
+    [
+     "“My failure. Nobody else's.”",
+     "«Мой провал. Ничей больше»."
+    ]
+   ]
+  },
+  {
+   "en": "They had rented a small raft in a village at the top of the river. The plan was to paddle for five days, sleep on the shore and get out at the bridge near Halden, where a bus could take them home. The man who rented them the raft gave them an old paper map and a warning. “After the second day there are no roads,” he said. “No phones, no people. If something goes wrong, you are on your own.”",
+   "ru": "Они взяли напрокат маленький плот в деревне в верховьях реки. План был такой: грести пять дней, ночевать на берегу и выйти у моста возле Холдена, откуда автобус мог отвезти их домой. Человек, который дал им плот, вручил им старую бумажную карту и предупреждение. «После второго дня дорог нет», — сказал он. «Ни связи, ни людей. Если что-то пойдёт не так, вы сами по себе».",
+   "s": [
+    [
+     "They had rented a small raft in a village at the top of the river.",
+     "Они взяли напрокат маленький плот в деревне в верховьях реки."
+    ],
+    [
+     "The plan was to paddle for five days, sleep on the shore and get out at the bridge near Halden, where a bus could take them home.",
+     "План был такой: грести пять дней, ночевать на берегу и выйти у моста возле Холдена, откуда автобус мог отвезти их домой."
+    ],
+    [
+     "The man who rented them the raft gave them an old paper map and a warning.",
+     "Человек, который дал им плот, вручил им старую бумажную карту и предупреждение."
+    ],
+    [
+     "“After the second day there are no roads,” he said.",
+     "«После второго дня дорог нет», — сказал он."
+    ],
+    [
+     "“No phones, no people. If something goes wrong, you are on your own.”",
+     "«Ни связи, ни людей. Если что-то пойдёт не так, вы сами по себе»."
+    ]
+   ]
+  },
+  {
+   "en": "The first two days were wonderful. The river was wide and slow, the forest on both sides was green and silent, and the only sounds were the birds and the soft noise of the water against the raft. Gavin felt his shoulders relax for the first time in months. In the evenings they made fires, cooked pasta in a small pot and washed the dishes in the river. Gradually, Ruben began to laugh again.",
+   "ru": "Первые два дня были чудесными. Река была широкой и медленной, лес по обоим берегам был зелёным и тихим, и слышались только птицы и мягкий плеск воды о плот. Гэвин впервые за много месяцев почувствовал, как расслабляются его плечи. По вечерам они разводили костры, варили макароны в маленькой кастрюле и мыли посуду в реке. Постепенно Рубен снова начал смеяться.",
+   "s": [
+    [
+     "The first two days were wonderful.",
+     "Первые два дня были чудесными."
+    ],
+    [
+     "The river was wide and slow, the forest on both sides was green and silent, and the only sounds were the birds and the soft noise of the water against the raft.",
+     "Река была широкой и медленной, лес по обоим берегам был зелёным и тихим, и слышались только птицы и мягкий плеск воды о плот."
+    ],
+    [
+     "Gavin felt his shoulders relax for the first time in months.",
+     "Гэвин впервые за много месяцев почувствовал, как расслабляются его плечи."
+    ],
+    [
+     "In the evenings they made fires, cooked pasta in a small pot and washed the dishes in the river.",
+     "По вечерам они разводили костры, варили макароны в маленькой кастрюле и мыли посуду в реке."
+    ],
+    [
+     "Gradually, Ruben began to laugh again.",
+     "Постепенно Рубен снова начал смеяться."
+    ]
+   ]
+  },
+  {
+   "en": "But they argued too. Ruben wanted to paddle faster and further each day; Gavin wanted to stop early and enjoy the evening. Their approach to everything had always been different. “You haven't changed,” Ruben said on the second night, half smiling. “You still check everything twice.” “And you still jump before you look,” Gavin answered. Despite the words, it felt almost like the old days.",
+   "ru": "Но они и спорили. Рубен хотел каждый день грести быстрее и дальше; Гэвин хотел остановиться пораньше и насладиться вечером. Их подход ко всему всегда был разным. «Ты не изменился», — сказал Рубен на вторую ночь, слегка улыбаясь. «Ты всё так же проверяешь всё дважды». «А ты всё так же прыгаешь, не посмотрев», — ответил Гэвин. Несмотря на эти слова, всё было почти как в старые времена.",
+   "s": [
+    [
+     "But they argued too.",
+     "Но они и спорили."
+    ],
+    [
+     "Ruben wanted to paddle faster and further each day; Gavin wanted to stop early and enjoy the evening.",
+     "Рубен хотел каждый день грести быстрее и дальше; Гэвин хотел остановиться пораньше и насладиться вечером."
+    ],
+    [
+     "Their approach to everything had always been different.",
+     "Их подход ко всему всегда был разным."
+    ],
+    [
+     "“You haven't changed,” Ruben said on the second night, half smiling.",
+     "«Ты не изменился», — сказал Рубен на вторую ночь, слегка улыбаясь."
+    ],
+    [
+     "“You still check everything twice.”",
+     "«Ты всё так же проверяешь всё дважды»."
+    ],
+    [
+     "“And you still jump before you look,” Gavin answered.",
+     "«А ты всё так же прыгаешь, не посмотрев», — ответил Гэвин."
+    ],
+    [
+     "Despite the words, it felt almost like the old days.",
+     "Несмотря на эти слова, всё было почти как в старые времена."
+    ]
+   ]
+  },
+  {
+   "en": "On the third afternoon, the river turned sharply to the left around a high rock, and something appeared that was not on the map. On the right shore, behind a line of tall trees, there were roofs. Grey wooden houses, perhaps thirty of them, climbed up the hill towards a small white church. There was no smoke from the chimneys, no dog barking, no boat on the beach.",
+   "ru": "На третий день после обеда река круто повернула влево вокруг высокой скалы, и появилось то, чего не было на карте. На правом берегу, за рядом высоких деревьев, виднелись крыши. Серые деревянные дома, наверное, штук тридцать, поднимались по холму к маленькой белой церкви. Из труб не шёл дым, не лаяла собака, на берегу не было ни одной лодки.",
+   "s": [
+    [
+     "On the third afternoon, the river turned sharply to the left around a high rock, and something appeared that was not on the map.",
+     "На третий день после обеда река круто повернула влево вокруг высокой скалы, и появилось то, чего не было на карте."
+    ],
+    [
+     "On the right shore, behind a line of tall trees, there were roofs.",
+     "На правом берегу, за рядом высоких деревьев, виднелись крыши."
+    ],
+    [
+     "Grey wooden houses, perhaps thirty of them, climbed up the hill towards a small white church.",
+     "Серые деревянные дома, наверное, штук тридцать, поднимались по холму к маленькой белой церкви."
+    ],
+    [
+     "There was no smoke from the chimneys, no dog barking, no boat on the beach.",
+     "Из труб не шёл дым, не лаяла собака, на берегу не было ни одной лодки."
+    ]
+   ]
+  },
+  {
+   "en": "“That's strange,” Gavin said, looking at the map. “There's nothing here. The nearest village should be forty kilometres away.” Ruben did not answer. He had stopped paddling and was staring at the church. Then he pushed the raft towards the shore so hard that Gavin nearly fell into the water. “Let's have a look,” he said. “Just for an hour.”",
+   "ru": "«Странно», — сказал Гэвин, глядя на карту. «Здесь ничего нет. Ближайшая деревня должна быть в сорока километрах отсюда». Рубен не ответил. Он перестал грести и смотрел на церковь. Потом он так резко направил плот к берегу, что Гэвин чуть не упал в воду. «Давай посмотрим», — сказал он. «Всего на час».",
+   "s": [
+    [
+     "“That's strange,” Gavin said, looking at the map.",
+     "«Странно», — сказал Гэвин, глядя на карту."
+    ],
+    [
+     "“There's nothing here. The nearest village should be forty kilometres away.”",
+     "«Здесь ничего нет. Ближайшая деревня должна быть в сорока километрах отсюда»."
+    ],
+    [
+     "Ruben did not answer.",
+     "Рубен не ответил."
+    ],
+    [
+     "He had stopped paddling and was staring at the church.",
+     "Он перестал грести и смотрел на церковь."
+    ],
+    [
+     "Then he pushed the raft towards the shore so hard that Gavin nearly fell into the water.",
+     "Потом он так резко направил плот к берегу, что Гэвин чуть не упал в воду."
+    ],
+    [
+     "“Let's have a look,” he said.",
+     "«Давай посмотрим», — сказал он."
+    ],
+    [
+     "“Just for an hour.”",
+     "«Всего на час»."
+    ]
+   ]
+  },
+  {
+   "en": "They pulled the raft up onto the stones and tied it to an old wooden post. The grass had grown so high that it reached their knees, and young birch trees were growing in the middle of the road. Above one door, a painted sign could still be read: KALLMORA SCHOOL.",
+   "ru": "Они вытащили плот на камни и привязали его к старому деревянному столбу. Трава выросла так высоко, что доходила им до колен, а посреди дороги росли молодые берёзы. Над одной из дверей ещё можно было прочитать нарисованную вывеску: «ШКОЛА КАЛЛЬМОРЫ».",
+   "s": [
+    [
+     "They pulled the raft up onto the stones and tied it to an old wooden post.",
+     "Они вытащили плот на камни и привязали его к старому деревянному столбу."
+    ],
+    [
+     "The grass had grown so high that it reached their knees, and young birch trees were growing in the middle of the road.",
+     "Трава выросла так высоко, что доходила им до колен, а посреди дороги росли молодые берёзы."
+    ],
+    [
+     "Above one door, a painted sign could still be read: KALLMORA SCHOOL.",
+     "Над одной из дверей ещё можно было прочитать нарисованную вывеску: «ШКОЛА КАЛЛЬМОРЫ»."
+    ]
+   ]
+  },
+  {
+   "en": "The doors of most houses were not locked. Inside the first one, Gavin stopped and held his breath. The table was laid for four people. The plates and cups were covered with thick grey dust. Clothes were still hanging on a line near the stove. On the wall, a calendar showed the month of May, 1983. It looked as if the family had stood up from dinner and walked away forever.",
+   "ru": "Двери большинства домов не были заперты. В первом же доме Гэвин остановился и затаил дыхание. Стол был накрыт на четверых. Тарелки и чашки были покрыты толстым слоем серой пыли. Возле печи на верёвке всё ещё висела одежда. На стене календарь показывал май 1983 года. Казалось, что семья встала из-за ужина и ушла навсегда.",
+   "s": [
+    [
+     "The doors of most houses were not locked.",
+     "Двери большинства домов не были заперты."
+    ],
+    [
+     "Inside the first one, Gavin stopped and held his breath.",
+     "В первом же доме Гэвин остановился и затаил дыхание."
+    ],
+    [
+     "The table was laid for four people.",
+     "Стол был накрыт на четверых."
+    ],
+    [
+     "The plates and cups were covered with thick grey dust.",
+     "Тарелки и чашки были покрыты толстым слоем серой пыли."
+    ],
+    [
+     "Clothes were still hanging on a line near the stove.",
+     "Возле печи на верёвке всё ещё висела одежда."
+    ],
+    [
+     "On the wall, a calendar showed the month of May, 1983.",
+     "На стене календарь показывал май 1983 года."
+    ],
+    [
+     "It looked as if the family had stood up from dinner and walked away forever.",
+     "Казалось, что семья встала из-за ужина и ушла навсегда."
+    ]
+   ]
+  },
+  {
+   "en": "“Why would anyone leave like this?” Gavin whispered. In the school they found the answer. A notice had been fixed to the board by the entrance, and although the paper had turned yellow, the words were still clear. “By order of the government, all residents must leave the village within forty-eight hours. After the explosion at the Rask mine, the water of the river is not considered safe. Transport will be provided.”",
+   "ru": "«Зачем кому-то уходить вот так?» — прошептал Гэвин. В школе они нашли ответ. На доске у входа было прикреплено объявление, и хотя бумага пожелтела, слова всё ещё можно было разобрать. «По распоряжению правительства все жители должны покинуть деревню в течение сорока восьми часов. После взрыва на руднике Раск вода в реке не считается безопасной. Транспорт будет предоставлен».",
+   "s": [
+    [
+     "“Why would anyone leave like this?” Gavin whispered.",
+     "«Зачем кому-то уходить вот так?» — прошептал Гэвин."
+    ],
+    [
+     "In the school they found the answer.",
+     "В школе они нашли ответ."
+    ],
+    [
+     "A notice had been fixed to the board by the entrance, and although the paper had turned yellow, the words were still clear.",
+     "На доске у входа было прикреплено объявление, и хотя бумага пожелтела, слова всё ещё можно было разобрать."
+    ],
+    [
+     "“By order of the government, all residents must leave the village within forty-eight hours.",
+     "«По распоряжению правительства все жители должны покинуть деревню в течение сорока восьми часов."
+    ],
+    [
+     "After the explosion at the Rask mine, the water of the river is not considered safe.",
+     "После взрыва на руднике Раск вода в реке не считается безопасной."
+    ],
+    [
+     "Transport will be provided.”",
+     "Транспорт будет предоставлен»."
+    ]
+   ]
+  },
+  {
+   "en": "“An explosion,” Gavin said. “That's why it isn't on the new maps. They took everyone out and never let them come back.” He turned to Ruben, expecting a joke, but his friend was standing by the window with his fist pressed against his mouth. His face was white. “Ruben? Are you all right?” “I'm fine, just tired,” Ruben said. But his voice did not sound natural, and he would not look at Gavin.",
+   "ru": "«Взрыв», — сказал Гэвин. «Вот почему её нет на новых картах. Всех вывезли и так и не разрешили вернуться». Он повернулся к Рубену, ожидая шутки, но друг стоял у окна, прижав кулак ко рту. Его лицо было белым. «Рубен? Ты в порядке?» «Всё нормально, просто устал», — сказал Рубен. Но голос его звучал неестественно, и он не смотрел на Гэвина.",
+   "s": [
+    [
+     "“An explosion,” Gavin said.",
+     "«Взрыв», — сказал Гэвин."
+    ],
+    [
+     "“That's why it isn't on the new maps. They took everyone out and never let them come back.”",
+     "«Вот почему её нет на новых картах. Всех вывезли и так и не разрешили вернуться»."
+    ],
+    [
+     "He turned to Ruben, expecting a joke, but his friend was standing by the window with his fist pressed against his mouth.",
+     "Он повернулся к Рубену, ожидая шутки, но друг стоял у окна, прижав кулак ко рту."
+    ],
+    [
+     "His face was white.",
+     "Его лицо было белым."
+    ],
+    [
+     "“Ruben? Are you all right?”",
+     "«Рубен? Ты в порядке?»"
+    ],
+    [
+     "“I'm fine, just tired,” Ruben said.",
+     "«Всё нормально, просто устал», — сказал Рубен."
+    ],
+    [
+     "But his voice did not sound natural, and he would not look at Gavin.",
+     "Но голос его звучал неестественно, и он не смотрел на Гэвина."
+    ]
+   ]
+  },
+  {
+   "en": "It was getting dark. Ruben suggested that they should sleep in one of the houses instead of the tent. Gavin did not like the idea, but he was exhausted, and the first heavy drops of rain were already falling. It was Ruben who chose the house: a small yellow one near the church. He said it was the only one with glass in every window.",
+   "ru": "Темнело. Рубен предложил переночевать в одном из домов, а не в палатке. Гэвину эта мысль не понравилась, но он был измучен, а первые тяжёлые капли дождя уже падали. Дом выбрал Рубен: маленький жёлтый домик возле церкви. Он сказал, что только в нём во всех окнах уцелели стёкла.",
+   "s": [
+    [
+     "It was getting dark.",
+     "Темнело."
+    ],
+    [
+     "Ruben suggested that they should sleep in one of the houses instead of the tent.",
+     "Рубен предложил переночевать в одном из домов, а не в палатке."
+    ],
+    [
+     "Gavin did not like the idea, but he was exhausted, and the first heavy drops of rain were already falling.",
+     "Гэвину эта мысль не понравилась, но он был измучен, а первые тяжёлые капли дождя уже падали."
+    ],
+    [
+     "It was Ruben who chose the house: a small yellow one near the church.",
+     "Дом выбрал Рубен: маленький жёлтый домик возле церкви."
+    ],
+    [
+     "He said it was the only one with glass in every window.",
+     "Он сказал, что только в нём во всех окнах уцелели стёкла."
+    ]
+   ]
+  },
+  {
+   "en": "Gavin woke in the middle of the night. Somewhere outside, very close, he heard footsteps on wet wood, slow and careful. He lay without moving and listened. The steps went past the window and disappeared in the direction of the river. When he finally looked out, he saw only darkness and, for one second, a small yellow light moving between the trees far below.",
+   "ru": "Гэвин проснулся посреди ночи. Где-то снаружи, совсем близко, он услышал шаги по мокрому дереву — медленные и осторожные. Он лежал не двигаясь и слушал. Шаги прошли мимо окна и затихли в стороне реки. Когда он наконец выглянул, то увидел только темноту и — на одну секунду — маленький жёлтый огонёк, двигавшийся между деревьями далеко внизу.",
+   "s": [
+    [
+     "Gavin woke in the middle of the night.",
+     "Гэвин проснулся посреди ночи."
+    ],
+    [
+     "Somewhere outside, very close, he heard footsteps on wet wood, slow and careful.",
+     "Где-то снаружи, совсем близко, он услышал шаги по мокрому дереву — медленные и осторожные."
+    ],
+    [
+     "He lay without moving and listened.",
+     "Он лежал не двигаясь и слушал."
+    ],
+    [
+     "The steps went past the window and disappeared in the direction of the river.",
+     "Шаги прошли мимо окна и затихли в стороне реки."
+    ],
+    [
+     "When he finally looked out, he saw only darkness and, for one second, a small yellow light moving between the trees far below.",
+     "Когда он наконец выглянул, то увидел только темноту и — на одну секунду — маленький жёлтый огонёк, двигавшийся между деревьями далеко внизу."
+    ]
+   ]
+  },
+  {
+   "en": "In the morning, the raft was gone. The post was still there, and the rope was still tied to it, but the end had been cut cleanly, as if with a sharp knife. Their bags, which they had left in the raft, had disappeared with it. All they had were the clothes they were wearing, the map and a bottle of water.",
+   "ru": "Утром плота не было. Столб стоял на месте, и верёвка всё ещё была к нему привязана, но конец был аккуратно срезан, будто острым ножом. Их рюкзаки, которые они оставили в плоту, исчезли вместе с ним. У них остались только одежда, которая была на них, карта и бутылка воды.",
+   "s": [
+    [
+     "In the morning, the raft was gone.",
+     "Утром плота не было."
+    ],
+    [
+     "The post was still there, and the rope was still tied to it, but the end had been cut cleanly, as if with a sharp knife.",
+     "Столб стоял на месте, и верёвка всё ещё была к нему привязана, но конец был аккуратно срезан, будто острым ножом."
+    ],
+    [
+     "Their bags, which they had left in the raft, had disappeared with it.",
+     "Их рюкзаки, которые они оставили в плоту, исчезли вместе с ним."
+    ],
+    [
+     "All they had were the clothes they were wearing, the map and a bottle of water.",
+     "У них остались только одежда, которая была на них, карта и бутылка воды."
+    ]
+   ]
+  },
+  {
+   "en": "“You tied it!” Ruben shouted. “You always check everything twice, so how did this happen?” “Look at the rope!” Gavin shouted back. “Somebody cut it! There's someone here, Ruben. I heard them last night.” “Nobody has lived here for forty years!” “Then who cut the rope?” They stood on the shore, red-faced, like two angry schoolboys. It was the worst argument they had ever had.",
+   "ru": "«Это ты его привязывал!» — закричал Рубен. «Ты же всегда всё проверяешь дважды, как же так вышло?» «Посмотри на верёвку!» — крикнул в ответ Гэвин. «Кто-то её перерезал! Здесь кто-то есть, Рубен. Я слышал его ночью». «Здесь сорок лет никто не живёт!» «Тогда кто перерезал верёвку?» Они стояли на берегу, красные от злости, как два рассерженных школьника. Это была самая сильная ссора в их жизни.",
+   "s": [
+    [
+     "“You tied it!” Ruben shouted.",
+     "«Это ты его привязывал!» — закричал Рубен."
+    ],
+    [
+     "“You always check everything twice, so how did this happen?”",
+     "«Ты же всегда всё проверяешь дважды, как же так вышло?»"
+    ],
+    [
+     "“Look at the rope!” Gavin shouted back.",
+     "«Посмотри на верёвку!» — крикнул в ответ Гэвин."
+    ],
+    [
+     "“Somebody cut it! There's someone here, Ruben. I heard them last night.”",
+     "«Кто-то её перерезал! Здесь кто-то есть, Рубен. Я слышал его ночью»."
+    ],
+    [
+     "“Nobody has lived here for forty years!”",
+     "«Здесь сорок лет никто не живёт!»"
+    ],
+    [
+     "“Then who cut the rope?”",
+     "«Тогда кто перерезал верёвку?»"
+    ],
+    [
+     "They stood on the shore, red-faced, like two angry schoolboys.",
+     "Они стояли на берегу, красные от злости, как два рассерженных школьника."
+    ],
+    [
+     "It was the worst argument they had ever had.",
+     "Это была самая сильная ссора в их жизни."
+    ]
+   ]
+  },
+  {
+   "en": "Ruben was the one who stopped first. He sat down on a stone and covered his face with his hands. “I have to tell you something,” he said quietly. “I knew this village was here. I didn't choose the Vesna by accident. My mother was born in Kallmora. She was fourteen when they took everyone away. All her life she said that she would come back one day. She never did. She died in March.”",
+   "ru": "Первым остановился Рубен. Он сел на камень и закрыл лицо руками. «Мне нужно тебе кое-что сказать», — тихо произнёс он. «Я знал, что эта деревня здесь. Я не случайно выбрал Весну. Моя мама родилась в Калльморе. Ей было четырнадцать, когда всех вывезли. Всю жизнь она говорила, что однажды вернётся. Так и не вернулась. Она умерла в марте».",
+   "s": [
+    [
+     "Ruben was the one who stopped first.",
+     "Первым остановился Рубен."
+    ],
+    [
+     "He sat down on a stone and covered his face with his hands.",
+     "Он сел на камень и закрыл лицо руками."
+    ],
+    [
+     "“I have to tell you something,” he said quietly.",
+     "«Мне нужно тебе кое-что сказать», — тихо произнёс он."
+    ],
+    [
+     "“I knew this village was here. I didn't choose the Vesna by accident.",
+     "«Я знал, что эта деревня здесь. Я не случайно выбрал Весну."
+    ],
+    [
+     "My mother was born in Kallmora. She was fourteen when they took everyone away.",
+     "Моя мама родилась в Калльморе. Ей было четырнадцать, когда всех вывезли."
+    ],
+    [
+     "All her life she said that she would come back one day.",
+     "Всю жизнь она говорила, что однажды вернётся."
+    ],
+    [
+     "She never did. She died in March.”",
+     "Так и не вернулась. Она умерла в марте»."
+    ]
+   ]
+  },
+  {
+   "en": "Gavin sat down next to him. Suddenly many small things made sense: the way Ruben had insisted on this river, the way he had known where the school was before they saw the sign. And the yellow house. “The house where we slept,” he said slowly. “It was hers, wasn't it?” “Why didn't you tell me?” “Because I thought you would call it a stupid idea,” Ruben answered. “And because I wasn't sure I was strong enough to come here alone.”",
+   "ru": "Гэвин сел рядом с ним. Вдруг многие мелочи стали понятны: как Рубен настаивал на этой реке, как он знал, где школа, ещё до того, как они увидели вывеску. И жёлтый дом. «Дом, где мы ночевали», — медленно сказал он. «Это был её дом, да?» «Почему ты мне не сказал?» «Потому что думал, что ты назовёшь это глупой затеей», — ответил Рубен. «И потому что не был уверен, что мне хватит сил приехать сюда одному».",
+   "s": [
+    [
+     "Gavin sat down next to him.",
+     "Гэвин сел рядом с ним."
+    ],
+    [
+     "Suddenly many small things made sense: the way Ruben had insisted on this river, the way he had known where the school was before they saw the sign.",
+     "Вдруг многие мелочи стали понятны: как Рубен настаивал на этой реке, как он знал, где школа, ещё до того, как они увидели вывеску."
+    ],
+    [
+     "And the yellow house.",
+     "И жёлтый дом."
+    ],
+    [
+     "“The house where we slept,” he said slowly.",
+     "«Дом, где мы ночевали», — медленно сказал он."
+    ],
+    [
+     "“It was hers, wasn't it?”",
+     "«Это был её дом, да?»"
+    ],
+    [
+     "“Why didn't you tell me?”",
+     "«Почему ты мне не сказал?»"
+    ],
+    [
+     "“Because I thought you would call it a stupid idea,” Ruben answered.",
+     "«Потому что думал, что ты назовёшь это глупой затеей», — ответил Рубен."
+    ],
+    [
+     "“And because I wasn't sure I was strong enough to come here alone.”",
+     "«И потому что не был уверен, что мне хватит сил приехать сюда одному»."
+    ]
+   ]
+  },
+  {
+   "en": "Before Gavin could reply, they both noticed it at the same time: a thin line of smoke rising from the top of the hill, behind the church. Someone had just lit a fire. They looked at each other and, without a word, began to climb.",
+   "ru": "Не успел Гэвин ответить, как оба одновременно это заметили: тонкую струйку дыма, поднимавшуюся с вершины холма за церковью. Кто-то только что развёл огонь. Они переглянулись и, не говоря ни слова, начали подниматься.",
+   "s": [
+    [
+     "Before Gavin could reply, they both noticed it at the same time: a thin line of smoke rising from the top of the hill, behind the church.",
+     "Не успел Гэвин ответить, как оба одновременно это заметили: тонкую струйку дыма, поднимавшуюся с вершины холма за церковью."
+    ],
+    [
+     "Someone had just lit a fire.",
+     "Кто-то только что развёл огонь."
+    ],
+    [
+     "They looked at each other and, without a word, began to climb.",
+     "Они переглянулись и, не говоря ни слова, начали подниматься."
+    ]
+   ]
+  },
+  {
+   "en": "Behind the church, hidden by tall bushes, stood a house unlike all the others. Its roof had been repaired with new planks, and there was a small garden with potatoes and onions. Their raft lay upside down on the grass beside it, and their bags stood by the door.",
+   "ru": "За церковью, скрытый высокими кустами, стоял дом, не похожий на все остальные. Его крыша была починена новыми досками, а рядом был маленький огород с картошкой и луком. Их плот лежал вверх дном на траве рядом, а рюкзаки стояли у двери.",
+   "s": [
+    [
+     "Behind the church, hidden by tall bushes, stood a house unlike all the others.",
+     "За церковью, скрытый высокими кустами, стоял дом, не похожий на все остальные."
+    ],
+    [
+     "Its roof had been repaired with new planks, and there was a small garden with potatoes and onions.",
+     "Его крыша была починена новыми досками, а рядом был маленький огород с картошкой и луком."
+    ],
+    [
+     "Their raft lay upside down on the grass beside it, and their bags stood by the door.",
+     "Их плот лежал вверх дном на траве рядом, а рюкзаки стояли у двери."
+    ]
+   ]
+  },
+  {
+   "en": "The door opened before they could knock. An old man came out, tall and thin, with a white beard and very calm grey eyes. “Good morning,” he said in slow, careful English. “Your things are safe. I am sorry about the rope. I had no time to untie it, and I did not want to wake you.”",
+   "ru": "Дверь открылась прежде, чем они успели постучать. Вышел старик — высокий и худой, с белой бородой и очень спокойными серыми глазами. «Доброе утро», — сказал он на медленном, аккуратном английском. «Ваши вещи в безопасности. Простите за верёвку. У меня не было времени её развязывать, и я не хотел вас будить».",
+   "s": [
+    [
+     "The door opened before they could knock.",
+     "Дверь открылась прежде, чем они успели постучать."
+    ],
+    [
+     "An old man came out, tall and thin, with a white beard and very calm grey eyes.",
+     "Вышел старик — высокий и худой, с белой бородой и очень спокойными серыми глазами."
+    ],
+    [
+     "“Good morning,” he said in slow, careful English.",
+     "«Доброе утро», — сказал он на медленном, аккуратном английском."
+    ],
+    [
+     "“Your things are safe. I am sorry about the rope.",
+     "«Ваши вещи в безопасности. Простите за верёвку."
+    ],
+    [
+     "I had no time to untie it, and I did not want to wake you.”",
+     "У меня не было времени её развязывать, и я не хотел вас будить»."
+    ]
+   ]
+  },
+  {
+   "en": "His name was Isak, and he had lived in Kallmora alone for nearly thirty years. He explained everything over breakfast. The night before, he had gone down to the river, as he did every evening, to check the water. It had rained heavily in the mountains. “Two kilometres below the village, the river goes through a narrow place we call the Throat,” he said. “When the water is high, nobody can pass. If you had continued this morning, the river would have carried you there before you understood the danger.”",
+   "ru": "Его звали Исак, и он жил в Калльморе один почти тридцать лет. Он всё объяснил за завтраком. Накануне вечером он, как и каждый вечер, спустился к реке, чтобы проверить воду. В горах прошли сильные дожди. «В двух километрах ниже деревни река проходит через узкое место, которое мы называем Горлом», — сказал он. «Когда вода высокая, там никто не пройдёт. Если бы вы поплыли дальше сегодня утром, река унесла бы вас туда прежде, чем вы поняли бы опасность».",
+   "s": [
+    [
+     "His name was Isak, and he had lived in Kallmora alone for nearly thirty years.",
+     "Его звали Исак, и он жил в Калльморе один почти тридцать лет."
+    ],
+    [
+     "He explained everything over breakfast.",
+     "Он всё объяснил за завтраком."
+    ],
+    [
+     "The night before, he had gone down to the river, as he did every evening, to check the water.",
+     "Накануне вечером он, как и каждый вечер, спустился к реке, чтобы проверить воду."
+    ],
+    [
+     "It had rained heavily in the mountains.",
+     "В горах прошли сильные дожди."
+    ],
+    [
+     "“Two kilometres below the village, the river goes through a narrow place we call the Throat,” he said.",
+     "«В двух километрах ниже деревни река проходит через узкое место, которое мы называем Горлом», — сказал он."
+    ],
+    [
+     "“When the water is high, nobody can pass.",
+     "«Когда вода высокая, там никто не пройдёт."
+    ],
+    [
+     "If you had continued this morning, the river would have carried you there before you understood the danger.”",
+     "Если бы вы поплыли дальше сегодня утром, река унесла бы вас туда прежде, чем вы поняли бы опасность»."
+    ]
+   ]
+  },
+  {
+   "en": "“But it isn't on the map,” Gavin said. “Your map is older than the Throat,” Isak answered. “After the explosion, part of the mountain fell into the river and changed everything.” He had cut the rope, pulled the raft up the hill with an old cart and waited for them to wake up. “I could have left a note,” he admitted with a small smile, “but I am not used to visitors.”",
+   "ru": "«Но его нет на карте», — сказал Гэвин. «Ваша карта старше, чем Горло», — ответил Исак. «После взрыва часть горы обрушилась в реку и всё изменила». Он перерезал верёвку, затащил плот на холм на старой тележке и ждал, когда они проснутся. «Я мог бы оставить записку, — признался он с лёгкой улыбкой, — но я не привык к гостям».",
+   "s": [
+    [
+     "“But it isn't on the map,” Gavin said.",
+     "«Но его нет на карте», — сказал Гэвин."
+    ],
+    [
+     "“Your map is older than the Throat,” Isak answered.",
+     "«Ваша карта старше, чем Горло», — ответил Исак."
+    ],
+    [
+     "“After the explosion, part of the mountain fell into the river and changed everything.”",
+     "«После взрыва часть горы обрушилась в реку и всё изменила»."
+    ],
+    [
+     "He had cut the rope, pulled the raft up the hill with an old cart and waited for them to wake up.",
+     "Он перерезал верёвку, затащил плот на холм на старой тележке и ждал, когда они проснутся."
+    ],
+    [
+     "“I could have left a note,” he admitted with a small smile, “but I am not used to visitors.”",
+     "«Я мог бы оставить записку, — признался он с лёгкой улыбкой, — но я не привык к гостям»."
+    ]
+   ]
+  },
+  {
+   "en": "All this time, Ruben had been watching the old man's face. Finally he asked, in a voice that shook a little, “Did you know a family called Lind? There was a girl, Elin. She lived in the yellow house by the church.” Isak put down his cup very slowly. For a long moment he was silent. “Elin Lind,” he said at last. “She was in my class. I was the teacher here, and she argued with me about everything.” He looked at Ruben more carefully. “You have her eyes. I should have seen it at once.”",
+   "ru": "Всё это время Рубен смотрел на лицо старика. Наконец он спросил слегка дрожащим голосом: «Вы знали семью Линд? Там была девочка, Элин. Она жила в жёлтом доме у церкви». Исак очень медленно поставил чашку. Долгое мгновение он молчал. «Элин Линд», — сказал он наконец. «Она была в моём классе. Я был здесь учителем, и она спорила со мной обо всём». Он внимательнее посмотрел на Рубена. «У вас её глаза. Мне следовало сразу это увидеть».",
+   "s": [
+    [
+     "All this time, Ruben had been watching the old man's face.",
+     "Всё это время Рубен смотрел на лицо старика."
+    ],
+    [
+     "Finally he asked, in a voice that shook a little, “Did you know a family called Lind? There was a girl, Elin. She lived in the yellow house by the church.”",
+     "Наконец он спросил слегка дрожащим голосом: «Вы знали семью Линд? Там была девочка, Элин. Она жила в жёлтом доме у церкви»."
+    ],
+    [
+     "Isak put down his cup very slowly.",
+     "Исак очень медленно поставил чашку."
+    ],
+    [
+     "For a long moment he was silent.",
+     "Долгое мгновение он молчал."
+    ],
+    [
+     "“Elin Lind,” he said at last.",
+     "«Элин Линд», — сказал он наконец."
+    ],
+    [
+     "“She was in my class. I was the teacher here, and she argued with me about everything.”",
+     "«Она была в моём классе. Я был здесь учителем, и она спорила со мной обо всём»."
+    ],
+    [
+     "He looked at Ruben more carefully.",
+     "Он внимательнее посмотрел на Рубена."
+    ],
+    [
+     "“You have her eyes. I should have seen it at once.”",
+     "«У вас её глаза. Мне следовало сразу это увидеть»."
+    ]
+   ]
+  },
+  {
+   "en": "Ruben could not speak. Isak stood up, went into the next room and came back with a small metal box. “Elin left this in her desk at school,” he said. “I found it when I came back. I always hoped that somebody would return for it.” Inside there was a photograph of a laughing girl in front of the yellow house and a letter in a child's handwriting. On the envelope she had written: To me, in twenty years.",
+   "ru": "Рубен не мог говорить. Исак встал, ушёл в соседнюю комнату и вернулся с маленькой металлической коробкой. «Элин оставила это в своей парте в школе», — сказал он. «Я нашёл её, когда вернулся. Я всегда надеялся, что кто-нибудь за ней вернётся». Внутри лежали фотография смеющейся девочки перед жёлтым домом и письмо, написанное детским почерком. На конверте она написала: «Мне, через двадцать лет».",
+   "s": [
+    [
+     "Ruben could not speak.",
+     "Рубен не мог говорить."
+    ],
+    [
+     "Isak stood up, went into the next room and came back with a small metal box.",
+     "Исак встал, ушёл в соседнюю комнату и вернулся с маленькой металлической коробкой."
+    ],
+    [
+     "“Elin left this in her desk at school,” he said.",
+     "«Элин оставила это в своей парте в школе», — сказал он."
+    ],
+    [
+     "“I found it when I came back.",
+     "«Я нашёл её, когда вернулся."
+    ],
+    [
+     "I always hoped that somebody would return for it.”",
+     "Я всегда надеялся, что кто-нибудь за ней вернётся»."
+    ],
+    [
+     "Inside there was a photograph of a laughing girl in front of the yellow house and a letter in a child's handwriting.",
+     "Внутри лежали фотография смеющейся девочки перед жёлтым домом и письмо, написанное детским почерком."
+    ],
+    [
+     "On the envelope she had written: To me, in twenty years.",
+     "На конверте она написала: «Мне, через двадцать лет»."
+    ]
+   ]
+  },
+  {
+   "en": "Ruben opened it with shaking hands and read it aloud. “Dear Elin, I hope you are brave. I hope you are not afraid of failure, because everybody fails sometimes. And I hope you have a friend who will go with you when the road is difficult.” Ruben stopped and laughed, and then he was crying and laughing at the same time. “She said that to me all my life,” he said. “Every time I was afraid of something. I never knew where it came from.”",
+   "ru": "Рубен открыл его дрожащими руками и прочитал вслух. «Дорогая Элин, надеюсь, ты смелая. Надеюсь, ты не боишься неудач, потому что все иногда ошибаются. И надеюсь, у тебя есть друг, который пойдёт с тобой, когда дорога будет трудной». Рубен остановился и засмеялся, а потом уже плакал и смеялся одновременно. «Она говорила мне это всю жизнь», — сказал он. «Каждый раз, когда я чего-то боялся. Я никогда не знал, откуда это».",
+   "s": [
+    [
+     "Ruben opened it with shaking hands and read it aloud.",
+     "Рубен открыл его дрожащими руками и прочитал вслух."
+    ],
+    [
+     "“Dear Elin, I hope you are brave. I hope you are not afraid of failure, because everybody fails sometimes.",
+     "«Дорогая Элин, надеюсь, ты смелая. Надеюсь, ты не боишься неудач, потому что все иногда ошибаются."
+    ],
+    [
+     "And I hope you have a friend who will go with you when the road is difficult.”",
+     "И надеюсь, у тебя есть друг, который пойдёт с тобой, когда дорога будет трудной»."
+    ],
+    [
+     "Ruben stopped and laughed, and then he was crying and laughing at the same time.",
+     "Рубен остановился и засмеялся, а потом уже плакал и смеялся одновременно."
+    ],
+    [
+     "“She said that to me all my life,” he said.",
+     "«Она говорила мне это всю жизнь», — сказал он."
+    ],
+    [
+     "“Every time I was afraid of something. I never knew where it came from.”",
+     "«Каждый раз, когда я чего-то боялся. Я никогда не знал, откуда это»."
+    ]
+   ]
+  },
+  {
+   "en": "Later, while Ruben was walking around his mother's house, Gavin sat with Isak on the step. “Why did you come back here?” he asked. “Isn't it lonely?” “The water was clean again after a few years, but by then everyone had new lives,” he said. “I did not. Somebody had to protect this place and remind the river that people once lived here. Yes, sometimes it is lonely. But a teacher learns patience.”",
+   "ru": "Позже, пока Рубен ходил по маминому дому, Гэвин сидел с Исаком на крыльце. «Почему вы вернулись сюда?» — спросил он. «Разве здесь не одиноко?» «Через несколько лет вода снова стала чистой, но к тому времени у всех была новая жизнь», — сказал он. «А у меня нет. Кто-то должен был беречь это место и напоминать реке, что здесь когда-то жили люди. Да, иногда бывает одиноко. Но учитель учится терпению».",
+   "s": [
+    [
+     "Later, while Ruben was walking around his mother's house, Gavin sat with Isak on the step.",
+     "Позже, пока Рубен ходил по маминому дому, Гэвин сидел с Исаком на крыльце."
+    ],
+    [
+     "“Why did you come back here?” he asked.",
+     "«Почему вы вернулись сюда?» — спросил он."
+    ],
+    [
+     "“Isn't it lonely?”",
+     "«Разве здесь не одиноко?»"
+    ],
+    [
+     "“The water was clean again after a few years, but by then everyone had new lives,” he said.",
+     "«Через несколько лет вода снова стала чистой, но к тому времени у всех была новая жизнь», — сказал он."
+    ],
+    [
+     "“I did not. Somebody had to protect this place and remind the river that people once lived here.",
+     "«А у меня нет. Кто-то должен был беречь это место и напоминать реке, что здесь когда-то жили люди."
+    ],
+    [
+     "Yes, sometimes it is lonely. But a teacher learns patience.”",
+     "Да, иногда бывает одиноко. Но учитель учится терпению»."
+    ]
+   ]
+  },
+  {
+   "en": "They stayed for two more days, while the water slowly went down. They helped Isak repair the roof of the school, and in the evenings he told them stories about a stubborn girl who had once refused to leave the classroom until the teacher admitted she was right. Gavin had not seen his friend so calm for years.",
+   "ru": "Они остались ещё на два дня, пока вода медленно спадала. Они помогли Исаку починить крышу школы, а по вечерам он рассказывал им истории об упрямой девочке, которая однажды отказалась уходить из класса, пока учитель не признал, что она права. Гэвин уже много лет не видел друга таким спокойным.",
+   "s": [
+    [
+     "They stayed for two more days, while the water slowly went down.",
+     "Они остались ещё на два дня, пока вода медленно спадала."
+    ],
+    [
+     "They helped Isak repair the roof of the school, and in the evenings he told them stories about a stubborn girl who had once refused to leave the classroom until the teacher admitted she was right.",
+     "Они помогли Исаку починить крышу школы, а по вечерам он рассказывал им истории об упрямой девочке, которая однажды отказалась уходить из класса, пока учитель не признал, что она права."
+    ],
+    [
+     "Gavin had not seen his friend so calm for years.",
+     "Гэвин уже много лет не видел друга таким спокойным."
+    ]
+   ]
+  },
+  {
+   "en": "On the third morning, Isak helped them carry the raft along an old forest path around the Throat. Ruben asked him to come with them, but the old man shook his head. “Come back next summer instead,” he said. “A village is not dead while somebody remembers it.” Then he put his hand on the raft and pushed them gently away from the shore.",
+   "ru": "На третье утро Исак помог им перенести плот по старой лесной тропе в обход Горла. Рубен позвал его с собой, но старик покачал головой. «Лучше возвращайтесь следующим летом», — сказал он. «Деревня не умерла, пока кто-то её помнит». Потом он положил руку на плот и мягко оттолкнул их от берега.",
+   "s": [
+    [
+     "On the third morning, Isak helped them carry the raft along an old forest path around the Throat.",
+     "На третье утро Исак помог им перенести плот по старой лесной тропе в обход Горла."
+    ],
+    [
+     "Ruben asked him to come with them, but the old man shook his head.",
+     "Рубен позвал его с собой, но старик покачал головой."
+    ],
+    [
+     "“Come back next summer instead,” he said.",
+     "«Лучше возвращайтесь следующим летом», — сказал он."
+    ],
+    [
+     "“A village is not dead while somebody remembers it.”",
+     "«Деревня не умерла, пока кто-то её помнит»."
+    ],
+    [
+     "Then he put his hand on the raft and pushed them gently away from the shore.",
+     "Потом он положил руку на плот и мягко оттолкнул их от берега."
+    ]
+   ]
+  },
+  {
+   "en": "As the river carried them around the next bend, Gavin looked back. The old man was still standing on the stones, one hand raised. Ruben was smiling, really smiling. “Next summer?” Gavin asked. “Next summer,” Ruben said. “And this time, I'll be the one who checks the rope twice.”",
+   "ru": "Когда река понесла их за следующий поворот, Гэвин оглянулся. Старик всё ещё стоял на камнях, подняв руку. Рубен улыбался — по-настоящему улыбался. «Следующим летом?» — спросил Гэвин. «Следующим летом», — ответил Рубен. «И на этот раз верёвку дважды проверять буду я».",
+   "s": [
+    [
+     "As the river carried them around the next bend, Gavin looked back.",
+     "Когда река понесла их за следующий поворот, Гэвин оглянулся."
+    ],
+    [
+     "The old man was still standing on the stones, one hand raised.",
+     "Старик всё ещё стоял на камнях, подняв руку."
+    ],
+    [
+     "Ruben was smiling, really smiling.",
+     "Рубен улыбался — по-настоящему улыбался."
+    ],
+    [
+     "“Next summer?” Gavin asked.",
+     "«Следующим летом?» — спросил Гэвин."
+    ],
+    [
+     "“Next summer,” Ruben said.",
+     "«Следующим летом», — ответил Рубен."
+    ],
+    [
+     "“And this time, I'll be the one who checks the rope twice.”",
+     "«И на этот раз верёвку дважды проверять буду я»."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, об",
+  "above": "над",
+  "accident": "(by accident) случайно",
+  "admitted": "признался; признал",
+  "afraid": "боящийся (afraid of)",
+  "after": "после",
+  "afternoon": "день, после полудня",
+  "again": "снова",
+  "against": "у, к (стене)",
+  "all": "все, весь, всё",
+  "almost": "почти",
+  "alone": "один",
+  "along": "вдоль",
+  "aloud": "вслух",
+  "already": "уже",
+  "although": "хотя",
+  "always": "всегда",
+  "am": "(есть) — я",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "angry": "рассерженный",
+  "answer": "ответ",
+  "answered": "ответил(а)",
+  "anyone": "кого-либо",
+  "appeared": "появился",
+  "approach": "подход",
+  "are": "(есть) — вы/они",
+  "argued": "спорили; спорила",
+  "argument": "спор",
+  "around": "вокруг; в обход",
+  "as": "как, так как",
+  "asked": "спросил(а)",
+  "at": "в, у, на",
+  "away": "прочь",
+  "back": "назад",
+  "bags": "рюкзаки, сумки",
+  "barking": "лающий",
+  "be": "быть",
+  "beach": "берег, пляж",
+  "beard": "борода",
+  "because": "потому что",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "began": "начал(а)",
+  "behind": "за, позади",
+  "below": "ниже; внизу",
+  "bend": "поворот (реки)",
+  "beside": "рядом с",
+  "between": "между",
+  "big": "большой",
+  "birch": "берёза, берёзовый",
+  "birds": "птицы",
+  "board": "доска",
+  "boat": "лодка",
+  "born": "родилась (was born)",
+  "both": "оба, обоим",
+  "bottle": "бутылка",
+  "box": "коробка",
+  "brave": "смелый",
+  "breakfast": "завтрак",
+  "breath": "вдох, дыхание",
+  "bridge": "мост",
+  "bus": "автобус",
+  "bushes": "кусты",
+  "but": "но",
+  "by": "у, к, от",
+  "calendar": "календарь",
+  "call": "назвать",
+  "called": "позвонил; по имени (called Lind)",
+  "calm": "спокойный",
+  "came": "вышел; пришли; вернулся",
+  "can": "может",
+  "careful": "осторожный, тщательный",
+  "carefully": "внимательно",
+  "carried": "унесла бы; понесла",
+  "carry": "перенести",
+  "cart": "тележка",
+  "centre": "центр",
+  "changed": "изменился",
+  "check": "проверять",
+  "checks": "проверяет",
+  "child's": "детский",
+  "chimneys": "трубы (дымовые)",
+  "choose": "выбирать",
+  "chose": "выбрал",
+  "church": "церковь",
+  "city": "город",
+  "class": "класс",
+  "classroom": "класс (комната)",
+  "clean": "чистый",
+  "cleanly": "ровно, аккуратно",
+  "clear": "ясный, разборчивый",
+  "climb": "подниматься",
+  "climbed": "поднимались",
+  "close": "близко",
+  "closed": "закрылся",
+  "clothes": "одежда",
+  "come": "приходить, вернуться",
+  "considered": "считается",
+  "continued": "поплыли дальше",
+  "cooked": "варили",
+  "could": "мог(ла)",
+  "covered": "покрыты; закрыл",
+  "crowd": "толпа",
+  "crying": "плакал",
+  "cup": "чашка",
+  "cups": "чашки",
+  "cut": "перерезал; срезан",
+  "danger": "опасность",
+  "dark": "темно (getting dark)",
+  "darkness": "темнота",
+  "day": "день",
+  "days": "дни",
+  "dead": "мёртвый",
+  "dear": "дорогая",
+  "desk": "парта",
+  "despite": "несмотря на",
+  "did": "(вспом. гл.); сделал",
+  "didn't": "не (прош. вр.)",
+  "died": "умер(ла)",
+  "different": "другой, не такой",
+  "difficult": "трудный",
+  "dinner": "ужин",
+  "direction": "направление",
+  "disappeared": "исчез(ли), затихли",
+  "dishes": "посуда",
+  "dog": "собака",
+  "door": "дверь",
+  "doors": "двери",
+  "down": "вниз",
+  "drops": "капли",
+  "dust": "пыль",
+  "each": "каждый; (each other) друг друга",
+  "early": "рано",
+  "eight": "восемь",
+  "elin": "Элин (имя)",
+  "else's": "(nobody else's) ничей больше",
+  "end": "конец",
+  "english": "английский (язык)",
+  "enjoy": "получать удовольствие",
+  "enough": "достаточно",
+  "entrance": "вход",
+  "envelope": "конверт",
+  "evening": "вечер",
+  "evenings": "вечера",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "everybody": "все",
+  "everyone": "все",
+  "everything": "всё",
+  "exhausted": "измученный",
+  "expecting": "ожидая",
+  "explained": "объяснил",
+  "explosion": "взрыв",
+  "eyes": "глаза",
+  "face": "лицо",
+  "faced": "(red-faced) покрасневший",
+  "fails": "ошибается, терпит неудачу",
+  "failure": "провал, неудача",
+  "falling": "падали",
+  "family": "семья",
+  "far": "далеко",
+  "faster": "быстрее",
+  "fell": "упал; обрушилась",
+  "felt": "почувствовал; было (felt like)",
+  "few": "несколько",
+  "finally": "наконец",
+  "fine": "в порядке",
+  "fire": "огонь",
+  "fires": "костры",
+  "first": "первый; сначала",
+  "fist": "кулак",
+  "five": "пять",
+  "fixed": "закреплён",
+  "footsteps": "шаги",
+  "for": "для, в течение",
+  "forest": "лес",
+  "forever": "навсегда",
+  "forty": "сорок",
+  "found": "нашли; нашёл",
+  "four": "четыре",
+  "fourteen": "четырнадцать",
+  "friend": "друг",
+  "from": "из, от",
+  "front": "перед (in front of)",
+  "further": "дальше",
+  "garden": "огород",
+  "gave": "дал, вручил",
+  "gavin": "Гэвин (имя)",
+  "gently": "мягко",
+  "get": "выйти (get out)",
+  "getting": "становилось (getting dark)",
+  "girl": "девочка",
+  "glass": "стекло, стеклянный",
+  "go": "плыть, идти; (go down) сплавиться",
+  "goes": "проходит; (goes wrong) идёт не так",
+  "gone": "пропал (was gone)",
+  "good": "хороший",
+  "government": "правительство",
+  "gradually": "постепенно",
+  "grass": "трава",
+  "green": "зелёный",
+  "grey": "серый",
+  "growing": "росли",
+  "grown": "выросла",
+  "had": "(вспом. гл.); имел",
+  "halden": "Холден (город)",
+  "half": "наполовину, слегка",
+  "hand": "рука",
+  "hands": "руки",
+  "handwriting": "почерк, рукопись",
+  "hanging": "висела",
+  "happen": "случиться",
+  "hard": "сильно, резко",
+  "has": "(вспом. гл.)",
+  "have": "иметь; (вспом.)",
+  "haven't": "не (вспом.)",
+  "he": "он",
+  "head": "голова",
+  "heard": "услышал",
+  "heavily": "сильно",
+  "heavy": "тяжёлый",
+  "held": "задержал (held his breath)",
+  "helped": "помогли; помог",
+  "her": "её, ей",
+  "here": "здесь",
+  "hers": "её",
+  "hidden": "скрытый",
+  "high": "высокий, высоко",
+  "hill": "холм",
+  "him": "его, ему",
+  "his": "его",
+  "home": "домой",
+  "hope": "надеюсь",
+  "hoped": "надеялся",
+  "hour": "час",
+  "hours": "часы",
+  "house": "дом",
+  "houses": "дома",
+  "how": "как",
+  "i": "я",
+  "i'll": "я (буду)",
+  "i'm": "я (есть)",
+  "idea": "идея",
+  "if": "если, ли",
+  "in": "в",
+  "inside": "внутри",
+  "insisted": "настаивал",
+  "instead": "вместо этого",
+  "into": "в",
+  "is": "есть, является",
+  "isak": "Исак (имя)",
+  "isn't": "не (есть)",
+  "it": "он, оно, это",
+  "its": "его, её",
+  "joke": "шутка",
+  "jump": "прыгать",
+  "just": "просто; только что",
+  "kallmora": "Калльмора (деревня)",
+  "kilometres": "километров",
+  "knees": "колени",
+  "knew": "знал(и)",
+  "knife": "нож",
+  "knock": "постучать",
+  "know": "знать",
+  "known": "знал (had known)",
+  "laid": "положила, настелила",
+  "last": "прошлый; (at last) наконец",
+  "later": "позже",
+  "laugh": "смех; смеяться",
+  "laughed": "засмеялся",
+  "laughing": "смеялся; смеющийся",
+  "lay": "лежал",
+  "learns": "учится",
+  "leave": "покинуть, уйти",
+  "left": "оставили; оставила",
+  "let": "позволять",
+  "let's": "давайте",
+  "letter": "письмо",
+  "life": "жизнь",
+  "light": "огонёк, свет",
+  "like": "как",
+  "lind": "Линд (фамилия)",
+  "line": "ряд; верёвка; струйка",
+  "listened": "слушал",
+  "lit": "развёл, зажёг",
+  "little": "маленький, немного",
+  "lived": "жил(и)",
+  "lives": "жизни",
+  "locked": "заперты",
+  "lonely": "одинокий",
+  "long": "долго, долгий",
+  "look": "смотреть",
+  "looked": "выглядело; посмотрел",
+  "looking": "глядя",
+  "loud": "шумный, громкий",
+  "made": "развели (made fires); составили",
+  "mall": "торговый центр",
+  "man": "мужчина, человек",
+  "man's": "старика (the old man's)",
+  "many": "много",
+  "map": "карта",
+  "maps": "карты",
+  "march": "март",
+  "may": "май",
+  "me": "меня, мне",
+  "metal": "металлический",
+  "middle": "середина",
+  "mine": "мой",
+  "moment": "мгновение",
+  "month": "месяц",
+  "months": "месяцы",
+  "more": "больше",
+  "morning": "утро",
+  "most": "большинство",
+  "mother": "мама",
+  "mother's": "мамин",
+  "mountain": "гора",
+  "mountains": "горы",
+  "mouth": "рот",
+  "moving": "двигавшийся",
+  "must": "должны",
+  "my": "мой",
+  "name": "имя",
+  "narrow": "узкий",
+  "natural": "естественный",
+  "near": "возле, у",
+  "nearest": "ближайший",
+  "nearly": "почти",
+  "never": "никогда",
+  "new": "новый",
+  "next": "следующий; соседний; (next to) рядом с",
+  "night": "ночь",
+  "no": "нет",
+  "nobody": "никто",
+  "noise": "плеск, шум",
+  "north": "север",
+  "not": "не",
+  "note": "записка",
+  "nothing": "ничего",
+  "notice": "объявление",
+  "noticed": "заметили",
+  "now": "теперь",
+  "of": "из, о, (род. падеж)",
+  "old": "старый",
+  "older": "старше",
+  "on": "на",
+  "once": "когда-то; (at once) сразу",
+  "one": "один, одна",
+  "onions": "лук",
+  "only": "только",
+  "onto": "на",
+  "opened": "открыл; открылась",
+  "order": "распоряжение",
+  "other": "другой",
+  "others": "другие",
+  "out": "наружу",
+  "outside": "за (городом)",
+  "over": "за (over breakfast)",
+  "overwhelmed": "перегруженный, измотанный",
+  "own": "(on your own) сами по себе",
+  "paddle": "грести",
+  "paddling": "грести",
+  "painted": "нарисованный",
+  "paper": "бумага, бумажный",
+  "part": "часть",
+  "pass": "пройти",
+  "past": "мимо",
+  "pasta": "макароны",
+  "path": "тропа",
+  "patience": "терпение",
+  "people": "люди",
+  "perhaps": "может быть",
+  "phones": "телефоны",
+  "photograph": "фотография",
+  "place": "место",
+  "plan": "план",
+  "planks": "доски",
+  "planned": "планировали",
+  "plates": "тарелки",
+  "post": "столб",
+  "pot": "кастрюля",
+  "potatoes": "картофель",
+  "pressed": "прижатый",
+  "protect": "беречь, защищать",
+  "provided": "предоставлен",
+  "pulled": "вытащили; затащил",
+  "pushed": "толкнул, направил; оттолкнул",
+  "put": "положил; поставил (put down)",
+  "quieter": "тише",
+  "quietly": "тихо",
+  "raft": "плот",
+  "rain": "дождь",
+  "rained": "шли дожди",
+  "raised": "поднятый",
+  "rask": "Раск (название рудника)",
+  "reached": "доходила",
+  "read": "прочитать; прочитал",
+  "ready": "готовый",
+  "real": "настоящий",
+  "really": "действительно",
+  "red": "красный",
+  "refused": "отказалась",
+  "relax": "расслабиться",
+  "remembers": "помнит",
+  "remind": "напомнить",
+  "rented": "взяли напрокат; дал напрокат",
+  "repair": "починить",
+  "repaired": "починена",
+  "reply": "отвечать",
+  "residents": "жители",
+  "rest": "отдых",
+  "return": "вернуться",
+  "right": "правый; права",
+  "rising": "поднимавшийся",
+  "river": "река",
+  "road": "дорога",
+  "roads": "дороги",
+  "rock": "скала",
+  "roof": "крыша",
+  "roofs": "крыши",
+  "room": "комната",
+  "rope": "верёвка",
+  "ruben": "Рубен (имя)",
+  "safe": "в безопасности",
+  "said": "сказал(а)",
+  "same": "тот же",
+  "sat": "сел",
+  "saw": "увидели",
+  "school": "школа",
+  "schoolboys": "школьники",
+  "second": "секунда; второй",
+  "seen": "видел, увидеть",
+  "sense": "смысл",
+  "shaking": "дрожащий",
+  "sharp": "острый",
+  "sharply": "круто, резко",
+  "she": "она",
+  "shook": "дрожал; покачал",
+  "shop": "магазин",
+  "shore": "берег",
+  "should": "должен",
+  "shoulders": "плечи",
+  "shouted": "закричал, крикнул",
+  "showed": "показывал",
+  "sides": "стороны",
+  "sign": "вывеска",
+  "silent": "тихий, молчаливый",
+  "since": "с, с тех пор",
+  "sleep": "спать",
+  "slept": "спали",
+  "slow": "медленный",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smile": "улыбка",
+  "smiling": "улыбаясь",
+  "smoke": "дым",
+  "so": "поэтому; так",
+  "soft": "мягкий",
+  "somebody": "кто-то",
+  "someone": "кто-то",
+  "something": "что-то",
+  "sometimes": "иногда",
+  "somewhere": "где-то",
+  "sorry": "простите",
+  "sound": "звучать",
+  "sounds": "звуки",
+  "speak": "говорить",
+  "spoke": "говорил",
+  "spring": "весна",
+  "standing": "стоял",
+  "staring": "смотрел (was staring)",
+  "stayed": "остались",
+  "step": "крыльцо, ступенька",
+  "steps": "шаги",
+  "still": "всё ещё",
+  "stone": "камень",
+  "stones": "камни",
+  "stood": "стояли; стоял",
+  "stop": "перестать",
+  "stopped": "перестал; остановился; прекратился",
+  "stories": "истории",
+  "stove": "печь",
+  "strange": "странный",
+  "strong": "сильный",
+  "stubborn": "упрямый",
+  "stupid": "глупый",
+  "suddenly": "вдруг",
+  "suggested": "предложил",
+  "summer": "лето",
+  "sure": "уверен",
+  "table": "стол",
+  "take": "отвезти; взять",
+  "tall": "высокий",
+  "teacher": "учитель",
+  "tell": "сказать",
+  "tent": "палатка",
+  "than": "чем",
+  "that": "что; тот, это",
+  "that's": "это (есть)",
+  "the": "(опр. артикль)",
+  "their": "их, свои",
+  "them": "их",
+  "then": "потом, тогда",
+  "there": "там",
+  "there's": "есть, имеется",
+  "they": "они",
+  "thick": "толстый",
+  "thin": "худой",
+  "things": "вещи; мелочи",
+  "think": "думать",
+  "thinner": "худее",
+  "third": "третий",
+  "thirty": "тридцать",
+  "this": "этот",
+  "thought": "думал",
+  "throat": "горло (здесь: название ущелья)",
+  "through": "через, сквозь",
+  "tied": "привязали; привязана",
+  "time": "время, раз",
+  "tired": "усталый",
+  "to": "к, в; (частица)",
+  "told": "рассказывал",
+  "too": "слишком",
+  "took": "вывезли",
+  "top": "верх; (at the top of the river) в верховьях",
+  "towards": "к, по направлению к",
+  "train": "поезд",
+  "transport": "транспорт",
+  "trees": "деревья",
+  "tuesday": "вторник",
+  "turned": "повернулся; повернула; стала (turned yellow)",
+  "twenty": "двадцать",
+  "twice": "дважды",
+  "two": "два",
+  "understood": "поняли",
+  "unlike": "не похожий на",
+  "untie": "развязать",
+  "until": "до",
+  "up": "вверх",
+  "upside": "(upside down) вверх дном",
+  "us": "нам",
+  "used": "(be used to) привык",
+  "very": "очень",
+  "vesna": "Весна (река)",
+  "village": "деревня",
+  "visitors": "гости",
+  "voice": "голос",
+  "waited": "ждал",
+  "wake": "будить",
+  "walked": "ушла (walked away)",
+  "walking": "ходил",
+  "wall": "стена",
+  "want": "хотеть",
+  "wanted": "хотел",
+  "warning": "предупреждение",
+  "was": "был(а)",
+  "washed": "мыли",
+  "wasn't": "не был",
+  "watching": "смотрел",
+  "water": "вода",
+  "way": "то, как (the way)",
+  "we": "мы",
+  "wearing": "были на них (одеты)",
+  "went": "прошли; спустился; спадала (went down)",
+  "were": "были",
+  "wet": "влажный, мокрый",
+  "when": "когда",
+  "where": "где",
+  "which": "который, что",
+  "while": "пока",
+  "whispered": "прошептал",
+  "white": "белый",
+  "who": "кто, который",
+  "why": "почему",
+  "wide": "широкий",
+  "will": "будет",
+  "window": "окно",
+  "with": "с",
+  "within": "в течение",
+  "without": "без",
+  "woke": "проснулся",
+  "wonderful": "чудесный",
+  "wood": "дерево (материал)",
+  "wooden": "деревянный",
+  "word": "слово",
+  "words": "слова",
+  "work": "работа",
+  "worst": "худший",
+  "would": "бы",
+  "written": "написала",
+  "wrong": "не так (goes wrong)",
+  "years": "лет, годы",
+  "yellow": "жёлтый",
+  "yes": "да",
+  "you": "вы, ты",
+  "young": "молодой",
+  "your": "ваш"
+ },
+ "vocab": {
+  "argued": 297,
+  "natural": 225,
+  "clothes": 330,
+  "explosion": 526,
+  "shore": 149,
+  "lonely": 337,
+  "pushed": 196,
+  "mall": 295,
+  "dishes": 74,
+  "overwhelmed": 496,
+  "forever": 224,
+  "grown": 246,
+  "growing": 246,
+  "fist": 532,
+  "there": 2,
+  "failure": 518,
+  "rest": 521,
+  "despite": 623,
+  "planks": 189,
+  "silent": 201,
+  "away": 40,
+  "soft": 47,
+  "gradually": 440,
+  "protect": 157,
+  "remind": 165,
+  "approach": 611,
+  "crowd": 367,
+  "exhausted": 484,
+  "ready": 180,
+  "disappeared": 164,
+  "inside": 33,
+  "patience": 408,
+  "accident": 319,
+  "afraid": 478,
+  "afternoon": 230,
+  "almost": 324,
+  "appeared": 195,
+  "around": 644,
+  "beard": 90,
+  "before": 141,
+  "began": 148,
+  "behind": 109,
+  "below": 126,
+  "board": 190,
+  "boat": 110,
+  "box": 105,
+  "breath": 460,
+  "bus": 106,
+  "call": 286,
+  "called": 286,
+  "carefully": 338,
+  "carried": 150,
+  "carry": 150,
+  "check": 25,
+  "checks": 25,
+  "climb": 204,
+  "climbed": 204,
+  "continued": 9,
+  "crying": 113,
+  "cut": 92,
+  "dead": 336,
+  "different": 342,
+  "dinner": 78,
+  "direction": 489,
+  "each": 313,
+  "entrance": 306,
+  "everything": 215,
+  "expecting": 328,
+  "fails": 505,
+  "felt": 120,
+  "glass": 115,
+  "government": 383,
+  "heard": 68,
+  "heavy": 389,
+  "held": 175,
+  "here": 1,
+  "high": 118,
+  "hope": 451,
+  "hoped": 451,
+  "instead": 362,
+  "knees": 637,
+  "laugh": 76,
+  "laughed": 76,
+  "laughing": 76,
+  "lay": 146,
+  "learns": 15,
+  "leave": 169,
+  "left": 169,
+  "listened": 83,
+  "loud": 194,
+  "map": 314,
+  "maps": 314,
+  "middle": 529,
+  "more": 6,
+  "mouth": 198,
+  "moving": 152,
+  "near": 144,
+  "night": 188,
+  "noise": 31,
+  "notice": 121,
+  "noticed": 121,
+  "onions": 221,
+  "order": 269,
+  "outside": 32,
+  "pass": 223,
+  "path": 554,
+  "perhaps": 154,
+  "place": 427,
+  "plates": 375,
+  "pressed": 522,
+  "quieter": 75,
+  "quietly": 75,
+  "reached": 241,
+  "reply": 257,
+  "return": 95,
+  "rising": 436,
+  "road": 409,
+  "roads": 409,
+  "rock": 166,
+  "safe": 292,
+  "same": 298,
+  "sense": 401,
+  "should": 162,
+  "shoulders": 71,
+  "sides": 168,
+  "sign": 441,
+  "sleep": 80,
+  "slept": 80,
+  "something": 202,
+  "spring": 216,
+  "standing": 193,
+  "stayed": 243,
+  "step": 138,
+  "steps": 138,
+  "still": 151,
+  "stood": 193,
+  "strange": 278,
+  "suddenly": 30,
+  "suggested": 363,
+  "tall": 119,
+  "that": 177,
+  "their": 21,
+  "then": 28,
+  "thin": 296,
+  "things": 8,
+  "think": 65,
+  "thought": 65,
+  "through": 238,
+  "tied": 147,
+  "tired": 53,
+  "towards": 210,
+  "trees": 69,
+  "tuesday": 220,
+  "turned": 23,
+  "until": 606,
+  "village": 104,
+  "voice": 84,
+  "washed": 77,
+  "watching": 14,
+  "wearing": 300,
+  "which": 582,
+  "whispered": 356,
+  "wide": 304,
+  "wood": 124,
+  "worst": 377
+ }
+}

@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What did Mr. Grant want Clara to do with the Halden case?",
+  "q_ru": "Что мистер Грант хотел, чтобы Клара сделала с делом Halden?",
+  "options": [
+   "Find new witnesses before Monday.",
+   "Ask the judge to delay the trial.",
+   "Tell Daniel to accept a guilty deal.",
+   "Give the case to a more experienced lawyer."
+  ],
+  "options_ru": [
+   "Найти новых свидетелей до понедельника.",
+   "Попросить судью отложить суд.",
+   "Уговорить Дэниела признать вину по сделке.",
+   "Передать дело более опытному юристу."
+  ],
+  "answer": 2,
+  "explain_ru": "Грант был уверен, что дело проиграно: «Tell him to accept the deal: he says he's guilty, and he gets two years instead of eight»."
+ },
+ {
+  "q": "Grant brags a lot. What does 'brag' mean in the story?",
+  "q_ru": "Грант часто «brags». Что значит «brag» в рассказе?",
+  "options": [
+   "To complain about other people.",
+   "To lie in order to win a case.",
+   "To feel nervous before a trial.",
+   "To talk proudly about your own success."
+  ],
+  "options_ru": [
+   "Жаловаться на других людей.",
+   "Лгать, чтобы выиграть дело.",
+   "Нервничать перед судом.",
+   "Гордо рассказывать о своих успехах."
+  ],
+  "answer": 3,
+  "explain_ru": "Грант снова и снова рассказывает: «I won my first case in nine days… Without any help» — это хвастовство."
+ },
+ {
+  "q": "Why was the cigarette strange evidence against Daniel?",
+  "q_ru": "Почему сигарета была странной уликой против Дэниела?",
+  "options": [
+   "It was found far away from the gas pipe.",
+   "Daniel doesn't smoke because he has asthma.",
+   "It was a brand that nobody in the city sold.",
+   "The police lost it before the trial."
+  ],
+  "options_ru": [
+   "Её нашли далеко от газовой трубы.",
+   "Дэниел не курит, потому что у него астма.",
+   "Это была марка, которую в городе никто не продавал.",
+   "Полиция потеряла её до суда."
+  ],
+  "answer": 1,
+  "explain_ru": "Дэниел говорит: «I don't even smoke. I've had asthma since I was a boy»."
+ },
+ {
+  "q": "Why did Daniel leave his post that night?",
+  "q_ru": "Почему Дэниел покинул свой пост в ту ночь?",
+  "options": [
+   "He went out to smoke a cigarette.",
+   "Victor Halden asked him to check the river gate.",
+   "He heard the explosion and ran for help.",
+   "A woman called and said his daughter couldn't breathe."
+  ],
+  "options_ru": [
+   "Вышел покурить.",
+   "Виктор Халден попросил его проверить ворота у реки.",
+   "Услышал взрыв и побежал за помощью.",
+   "Женщина позвонила и сказала, что его дочь не может дышать."
+  ],
+  "answer": 3,
+  "explain_ru": "В 1:50 позвонила якобы няня: «my daughter Mia couldn't breathe and… I should come home immediately». Позже выяснилось, что няня не звонила."
+ },
+ {
+  "q": "Clara thinks the camera wire was 'clean and straight'. What does this detail mean?",
+  "q_ru": "Клара видит, что провод камеры «ровный и прямой». Что значит эта деталь?",
+  "options": [
+   "Someone cut the wire with a knife on purpose.",
+   "The camera was new and had never worked.",
+   "The explosion was smaller than people said.",
+   "The security company had repaired the camera."
+  ],
+  "options_ru": [
+   "Кто-то специально перерезал провод ножом.",
+   "Камера была новой и никогда не работала.",
+   "Взрыв был меньше, чем говорили.",
+   "Охранная компания отремонтировала камеру."
+  ],
+  "answer": 0,
+  "explain_ru": "Клара думает: «Fire doesn't cut that neatly… A knife does» — значит, камеру отключили нарочно."
+ },
+ {
+  "q": "How did Clara show that Victor was guilty?",
+  "q_ru": "Как Клара показала, что Виктор виновен?",
+  "options": [
+   "He knew details of the call that only the caller could know.",
+   "His key card was found next to the gas pipe.",
+   "Anna told the jury that he left home that night.",
+   "A camera recorded him at the river gate."
+  ],
+  "options_ru": [
+   "Он знал подробности звонка, которые мог знать только звонивший.",
+   "Его ключ-карту нашли у газовой трубы.",
+   "Анна сказала присяжным, что он ушёл из дома в ту ночь.",
+   "Камера сняла его у ворот у реки."
+  ],
+  "answer": 0,
+  "explain_ru": "Виктор упомянул няню и дочь, хотя «Those details have never been mentioned… So how do you know them?» Позже нашли запись: его карта открыла ворота в 1:56."
+ }
+]

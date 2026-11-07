@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What did Dr Asher discover about the compass?",
+  "q_ru": "Что доктор Ашер обнаружил насчёт компаса?",
+  "options": [
+   "It had been broken for years",
+   "It was a brass copy, not real gold",
+   "It was worth more than people thought",
+   "It had been made in 1871 in Fennick"
+  ],
+  "options_ru": [
+   "Он был сломан много лет",
+   "Это латунная копия, а не настоящее золото",
+   "Он стоит дороже, чем думали",
+   "Его сделали в Феннике в 1871 году"
+  ],
+  "answer": 1,
+  "explain_ru": "«It isn't gold. It's brass with a thin gold surface... But it's a copy»."
+ },
+ {
+  "q": "Why was it so important to know when the compass was stolen?",
+  "q_ru": "Почему было так важно узнать, когда украли компас?",
+  "options": [
+   "The police can only look for recent thieves",
+   "The museum wanted to know which director was guilty",
+   "Dr Asher needed the date for his report",
+   "The insurance would only pay for the last five years"
+  ],
+  "options_ru": [
+   "Полиция ищет только недавних воров",
+   "Музей хотел знать, какой директор виноват",
+   "Доктору Ашеру нужна была дата для отчёта",
+   "Страховка платит только за последние пять лет"
+  ],
+  "answer": 3,
+  "explain_ru": "Старая страховка платила, только если компас пропал «during the last five years». Без этих денег музей пришлось бы закрыть."
+ },
+ {
+  "q": "\"If he was cunning enough to plan something like that...\" What does \"cunning\" mean?",
+  "q_ru": "«If he was cunning enough to plan something like that...». Что значит «cunning»?",
+  "options": [
+   "clever in a secret, dishonest way",
+   "very rich",
+   "kind and honest",
+   "famous in his job"
+  ],
+  "options_ru": [
+   "хитрый, ловкий",
+   "очень богатый",
+   "добрый и честный",
+   "известный в своей профессии"
+  ],
+  "answer": 0,
+  "explain_ru": "Cunning — хитрый. Джози рассуждает: такой хитрый человек не стал бы ждать полицию, значит, Ашер вряд ли вор."
+ },
+ {
+  "q": "What did the children's drawings show?",
+  "q_ru": "Что показали детские рисунки?",
+  "options": [
+   "The compass had been gold until 1960",
+   "Jamie had moved the needle every Monday",
+   "Before 1987 the needle pointed almost at E, later at N",
+   "Children always draw compasses wrongly"
+  ],
+  "options_ru": [
+   "Компас был золотым до 1960 года",
+   "Джейми каждый понедельник двигал стрелку",
+   "До 1987 года стрелка смотрела почти на E, потом — на N",
+   "Дети всегда рисуют компасы неправильно"
+  ],
+  "answer": 2,
+  "explain_ru": "На всех рисунках до 1987 года стрелка показывала «almost at the E» (туда, где настоящий север), а после — на N: копия с неподвижной стрелкой. Маленькая Джози даже спросила: «Why has the needle moved?»"
+ },
+ {
+  "q": "Why did Hugh Penhale and Tobias sell the real compass?",
+  "q_ru": "Почему Хью Пенхейл и Тобиас продали настоящий компас?",
+  "options": [
+   "They wanted to become rich",
+   "They wanted to save the dying village",
+   "The compass had stopped working",
+   "A collector threatened them"
+  ],
+  "options_ru": [
+   "Они хотели разбогатеть",
+   "Они хотели спасти умирающую деревню",
+   "Компас перестал работать",
+   "Им угрожал коллекционер"
+  ],
+  "answer": 1,
+  "explain_ru": "В 1986 году деревня умирала: погибли лодки, школу собирались закрыть. Деньги тайно отдали деревне: «a new school roof, two new boats, help for the families»."
+ },
+ {
+  "q": "What happened after the story appeared in the newspapers?",
+  "q_ru": "Что произошло после того, как история попала в газеты?",
+  "options": [
+   "The insurance company paid the museum",
+   "The museum had to close",
+   "The real compass was returned",
+   "Many visitors came and the museum earned a lot"
+  ],
+  "options_ru": [
+   "Страховая компания заплатила музею",
+   "Музею пришлось закрыться",
+   "Настоящий компас вернули",
+   "Пришло много посетителей, и музей много заработал"
+  ],
+  "answer": 3,
+  "explain_ru": "Страховка не заплатила, но люди приезжали посмотреть на копию и рисунки: «In one winter the museum earned more than it had earned in the previous ten years»."
+ }
+]

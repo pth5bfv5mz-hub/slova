@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Who wrote the 1968 book Chariots of the Gods?",
+  "q_ru": "Кто написал книгу «Колесницы богов?» 1968 года?",
+  "options": [
+   "Erich von Daniken",
+   "Zahi Hawass",
+   "Mark Lehner",
+   "Pierre Tallet"
+  ],
+  "options_ru": [
+   "Эрих фон Дэникен",
+   "Захи Хавасс",
+   "Марк Лехнер",
+   "Пьер Талле"
+  ],
+  "answer": 0,
+  "explain_ru": "Швейцарский писатель Эрих фон Дэникен опубликовал эту книгу в 1968 году; она разошлась миллионами экземпляров."
+ },
+ {
+  "q": "What does the Bent Pyramid show?",
+  "q_ru": "Что показывает Ломаная пирамида?",
+  "options": [
+   "That the Egyptians used iron tools",
+   "That pyramids were built in only one year",
+   "That builders learned by trial and error",
+   "That aliens visited Dahshur"
+  ],
+  "options_ru": [
+   "Что египтяне пользовались железными инструментами",
+   "Что пирамиды строили всего за год",
+   "Что строители учились методом проб и ошибок",
+   "Что пришельцы посещали Дахшур"
+  ],
+  "answer": 2,
+  "explain_ru": "Угол её граней меняется на полпути, вероятно из-за ошибки в проекте, — это следы обучения, а не сверхтехнологий."
+ },
+ {
+  "q": "How were the workers' tombs at Giza discovered?",
+  "q_ru": "Как были обнаружены гробницы рабочих в Гизе?",
+  "options": [
+   "By a satellite photo",
+   "A tourist's horse tripped over a wall",
+   "Musk paid for a search",
+   "Herodotus described where they were"
+  ],
+  "options_ru": [
+   "По спутниковому снимку",
+   "Лошадь туриста споткнулась о стену",
+   "Маск оплатил поиски",
+   "Геродот описал, где они находятся"
+  ],
+  "answer": 1,
+  "explain_ru": "В 1990 году лошадь туриста споткнулась о низкую кирпичную стену, и археологи нашли кладбище строителей."
+ },
+ {
+  "q": "What does the Diary of Merer describe?",
+  "q_ru": "Что описывает «Дневник Мерера»?",
+  "options": [
+   "Merer's feelings about the king",
+   "A visit by strangers from the sky",
+   "How slaves were punished",
+   "Carrying limestone by boat from Tura to Giza"
+  ],
+  "options_ru": [
+   "Чувства Мерера по отношению к царю",
+   "Визит странных гостей с неба",
+   "Как наказывали рабов",
+   "Перевозку известняка на лодках из Туры в Гизу"
+  ],
+  "answer": 3,
+  "explain_ru": "Это рабочий журнал: команда Мерера забирала белый известняк в Туре и везла его по Нилу и каналам к пирамиде Ахет-Хуфу."
+ },
+ {
+  "q": "What did the 2014 Amsterdam study show?",
+  "q_ru": "Что показало исследование 2014 года в Амстердаме?",
+  "options": [
+   "Wet sand makes pulling a sledge much easier",
+   "Granite cannot be cut with copper",
+   "The pyramid points exactly to the stars",
+   "The blocks were made of concrete"
+  ],
+  "options_ru": [
+   "Мокрый песок намного облегчает перемещение саней",
+   "Гранит нельзя резать медью",
+   "Пирамида направлена точно на звёзды",
+   "Блоки были сделаны из бетона"
+  ],
+  "answer": 0,
+  "explain_ru": "Песок с правильным количеством воды примерно вдвое уменьшает силу, нужную, чтобы тянуть сани."
+ },
+ {
+  "q": "Which statement best matches the article's conclusion?",
+  "q_ru": "Какое утверждение лучше всего соответствует выводу статьи?",
+  "options": [
+   "Every detail of the building is now known",
+   "Aliens probably helped with the ramps",
+   "Egyptians built the pyramids, though some methods are still debated",
+   "Nobody knows who built the pyramids"
+  ],
+  "options_ru": [
+   "Каждая деталь строительства теперь известна",
+   "Пришельцы, вероятно, помогли с пандусами",
+   "Пирамиды построили египтяне, хотя некоторые методы ещё обсуждаются",
+   "Никто не знает, кто построил пирамиды"
+  ],
+  "answer": 2,
+  "explain_ru": "Все находки указывают на египтян; не до конца ясно лишь, например, как именно были устроены пандусы."
+ }
+]

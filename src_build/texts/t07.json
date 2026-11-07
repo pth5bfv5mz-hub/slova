@@ -1,0 +1,1148 @@
+{
+ "id": 7,
+ "title_en": "The Lost Package",
+ "title_ru": "Потерянная посылка",
+ "genre": "Любовная история",
+ "summary_ru": "Каждый четверг в бюро находок на вокзале приходит странный мужчина с апельсином и ищет посылку, которую никто никогда не видел.",
+ "paragraphs": [
+  {
+   "en": "Lena Morris worked in the lost property office at Northgate Station. It was a small room with no windows, between the ticket office and a cafe that sold bad coffee. All day people came to her with questions and complaints. Someone had left an umbrella on the 8:15 train. Someone had lost a heavy suitcase full of books. Someone wanted to know why the trains were always late, as if Lena could change that.",
+   "ru": "Лена Моррис работала в бюро находок на вокзале Нортгейт. Это была маленькая комната без окон, между билетной кассой и кафе, где продавали плохой кофе. Весь день люди приходили к ней с вопросами и жалобами. Кто-то оставил зонт в поезде в 8:15. Кто-то потерял тяжёлый чемодан, полный книг. Кто-то хотел знать, почему поезда всегда опаздывают, как будто Лена могла это изменить.",
+   "s": [
+    [
+     "Lena Morris worked in the lost property office at Northgate Station.",
+     "Лена Моррис работала в бюро находок на вокзале Нортгейт."
+    ],
+    [
+     "It was a small room with no windows, between the ticket office and a cafe that sold bad coffee.",
+     "Это была маленькая комната без окон, между билетной кассой и кафе, где продавали плохой кофе."
+    ],
+    [
+     "All day people came to her with questions and complaints.",
+     "Весь день люди приходили к ней с вопросами и жалобами."
+    ],
+    [
+     "Someone had left an umbrella on the 8:15 train.",
+     "Кто-то оставил зонт в поезде в 8:15."
+    ],
+    [
+     "Someone had lost a heavy suitcase full of books.",
+     "Кто-то потерял тяжёлый чемодан, полный книг."
+    ],
+    [
+     "Someone wanted to know why the trains were always late, as if Lena could change that.",
+     "Кто-то хотел знать, почему поезда всегда опаздывают, как будто Лена могла это изменить."
+    ]
+   ]
+  },
+  {
+   "en": "She was twenty-eight, and she was tired. Her salary was small, her boss, Mr Hall, never said thank you, and the only window she could see was the one in the cafe door. Sometimes, when the wind blew through the station, she closed her eyes and imagined the sea.",
+   "ru": "Ей было двадцать восемь, и она устала. Зарплата у неё была маленькая, её начальник, мистер Холл, никогда не говорил спасибо, а единственное окно, которое она могла видеть, было в двери кафе. Иногда, когда ветер проносился по вокзалу, она закрывала глаза и представляла море.",
+   "s": [
+    [
+     "She was twenty-eight, and she was tired.",
+     "Ей было двадцать восемь, и она устала."
+    ],
+    [
+     "Her salary was small, her boss, Mr Hall, never said thank you, and the only window she could see was the one in the cafe door.",
+     "Зарплата у неё была маленькая, её начальник, мистер Холл, никогда не говорил спасибо, а единственное окно, которое она могла видеть, было в двери кафе."
+    ],
+    [
+     "Sometimes, when the wind blew through the station, she closed her eyes and imagined the sea.",
+     "Иногда, когда ветер проносился по вокзалу, она закрывала глаза и представляла море."
+    ]
+   ]
+  },
+  {
+   "en": "Then, one Thursday in October, the man in the blue shirt came for the first time.",
+   "ru": "А потом, в один из четвергов октября, впервые пришёл мужчина в синей рубашке.",
+   "s": [
+    [
+     "Then, one Thursday in October, the man in the blue shirt came for the first time.",
+     "А потом, в один из четвергов октября, впервые пришёл мужчина в синей рубашке."
+    ]
+   ]
+  },
+  {
+   "en": "He was tall and thin, with dark hair and ears that turned red when he was nervous. He was holding an orange in his hand, and he did not eat it. He just kept it, like a small sun.",
+   "ru": "Он был высокий и худой, с тёмными волосами и ушами, которые краснели, когда он нервничал. В руке он держал апельсин и не ел его. Он просто держал его, как маленькое солнце.",
+   "s": [
+    [
+     "He was tall and thin, with dark hair and ears that turned red when he was nervous.",
+     "Он был высокий и худой, с тёмными волосами и ушами, которые краснели, когда он нервничал."
+    ],
+    [
+     "He was holding an orange in his hand, and he did not eat it.",
+     "В руке он держал апельсин и не ел его."
+    ],
+    [
+     "He just kept it, like a small sun.",
+     "Он просто держал его, как маленькое солнце."
+    ]
+   ]
+  },
+  {
+   "en": "“Good afternoon,” he said in a soft voice. “I think I lost a package here. On a train from the coast.”",
+   "ru": "«Добрый день, — сказал он мягким голосом. — Кажется, я потерял здесь посылку. В поезде с побережья».",
+   "s": [
+    [
+     "“Good afternoon,” he said in a soft voice.",
+     "«Добрый день», — сказал он мягким голосом."
+    ],
+    [
+     "“I think I lost a package here.",
+     "«Кажется, я потерял здесь посылку."
+    ],
+    [
+     "On a train from the coast.”",
+     "В поезде с побережья»."
+    ]
+   ]
+  },
+  {
+   "en": "“Can you give me a description?” Lena asked, and she took out the big blue book. “We keep everything for three months. But first I have to establish that it really belongs to you.”",
+   "ru": "«Можете дать описание?» — спросила Лена и достала большую синюю книгу. «Мы храним всё три месяца. Но сначала я должна установить, что вещь действительно принадлежит вам».",
+   "s": [
+    [
+     "“Can you give me a description?” Lena asked, and she took out the big blue book.",
+     "«Можете дать описание?» — спросила Лена и достала большую синюю книгу."
+    ],
+    [
+     "“We keep everything for three months.",
+     "«Мы храним всё три месяца."
+    ],
+    [
+     "But first I have to establish that it really belongs to you.”",
+     "Но сначала я должна установить, что вещь действительно принадлежит вам»."
+    ]
+   ]
+  },
+  {
+   "en": "“Of course. It is a small box in brown paper. It is tied with red string. There is something special inside.”",
+   "ru": "«Конечно. Это маленькая коробка в коричневой бумаге. Она перевязана красной верёвочкой. Внутри кое-что особенное».",
+   "s": [
+    [
+     "“Of course.",
+     "«Конечно."
+    ],
+    [
+     "It is a small box in brown paper.",
+     "Это маленькая коробка в коричневой бумаге."
+    ],
+    [
+     "It is tied with red string.",
+     "Она перевязана красной верёвочкой."
+    ],
+    [
+     "There is something special inside.”",
+     "Внутри кое-что особенное»."
+    ]
+   ]
+  },
+  {
+   "en": "Lena looked through the book and then through the shelves. There were three boxes in brown paper, but none of them fit his description. One was too big, one had blue string, and one was full of old letters to someone called Margaret.",
+   "ru": "Лена просмотрела книгу, а потом полки. Там было три коробки в коричневой бумаге, но ни одна не соответствовала его описанию. Одна была слишком большой, на другой была синяя верёвочка, а третья была полна старых писем кому-то по имени Маргарет.",
+   "s": [
+    [
+     "Lena looked through the book and then through the shelves.",
+     "Лена просмотрела книгу, а потом полки."
+    ],
+    [
+     "There were three boxes in brown paper, but none of them fit his description.",
+     "Там было три коробки в коричневой бумаге, но ни одна не соответствовала его описанию."
+    ],
+    [
+     "One was too big, one had blue string, and one was full of old letters to someone called Margaret.",
+     "Одна была слишком большой, на другой была синяя верёвочка, а третья была полна старых писем кому-то по имени Маргарет."
+    ]
+   ]
+  },
+  {
+   "en": "“I am sorry,” she said. “It is not here. Try again next week.”",
+   "ru": "«Мне жаль, — сказала она. — Её здесь нет. Попробуйте ещё раз на следующей неделе».",
+   "s": [
+    [
+     "“I am sorry,” she said.",
+     "«Мне жаль», — сказала она."
+    ],
+    [
+     "“It is not here.",
+     "«Её здесь нет."
+    ],
+    [
+     "Try again next week.”",
+     "Попробуйте ещё раз на следующей неделе»."
+    ]
+   ]
+  },
+  {
+   "en": "He smiled as if this was good news. “Thank you. I will.” And he left the orange on her desk.",
+   "ru": "Он улыбнулся так, будто это была хорошая новость. «Спасибо. Обязательно». И он оставил апельсин у неё на столе.",
+   "s": [
+    [
+     "He smiled as if this was good news.",
+     "Он улыбнулся так, будто это была хорошая новость."
+    ],
+    [
+     "“Thank you.",
+     "«Спасибо."
+    ],
+    [
+     "I will.”",
+     "Обязательно»."
+    ],
+    [
+     "And he left the orange on her desk.",
+     "И он оставил апельсин у неё на столе."
+    ]
+   ]
+  },
+  {
+   "en": "He came back the next Thursday, and the Thursday after that. Every week he wore a different shirt, but he always had an orange, and he always asked about the same package. And every week his description was a little different. Once the string was red, once it was green. Once the box was “about the size of a book”, once it was “small enough to hold in one hand”.",
+   "ru": "Он вернулся в следующий четверг, и в четверг после него. Каждую неделю на нём была другая рубашка, но у него всегда был апельсин, и он всегда спрашивал об одной и той же посылке. И каждую неделю его описание было немного другим. Однажды верёвочка была красной, однажды — зелёной. Однажды коробка была «размером примерно с книгу», а в другой раз — «достаточно маленькой, чтобы держать в одной руке».",
+   "s": [
+    [
+     "He came back the next Thursday, and the Thursday after that.",
+     "Он вернулся в следующий четверг, и в четверг после него."
+    ],
+    [
+     "Every week he wore a different shirt, but he always had an orange, and he always asked about the same package.",
+     "Каждую неделю на нём была другая рубашка, но у него всегда был апельсин, и он всегда спрашивал об одной и той же посылке."
+    ],
+    [
+     "And every week his description was a little different.",
+     "И каждую неделю его описание было немного другим."
+    ],
+    [
+     "Once the string was red, once it was green.",
+     "Однажды верёвочка была красной, однажды — зелёной."
+    ],
+    [
+     "Once the box was “about the size of a book”, once it was “small enough to hold in one hand”.",
+     "Однажды коробка была «размером примерно с книгу», а в другой раз — «достаточно маленькой, чтобы держать в одной руке»."
+    ]
+   ]
+  },
+  {
+   "en": "On the fourth Thursday it was raining, and nobody else came into the office. He stayed longer than usual. He asked her if she liked her job, and she surprised herself by telling him the truth: that she hated the room without windows, that she had grown up in a city far from the coast, and that she had always dreamed about living by the sea. “One day,” she said, “I want to wake up and hear the waves.” He listened carefully and did not laugh. Then he looked at his watch, said “Same package next week?” and was gone.",
+   "ru": "В четвёртый четверг шёл дождь, и больше никто в бюро не приходил. Он остался дольше обычного. Он спросил, нравится ли ей её работа, и она, к собственному удивлению, сказала ему правду: что ненавидит комнату без окон, что выросла в городе далеко от побережья и что всегда мечтала жить у моря. «Однажды, — сказала она, — я хочу проснуться и услышать волны». Он внимательно слушал и не смеялся. Потом посмотрел на часы, сказал: «Та же посылка на следующей неделе?» — и ушёл.",
+   "s": [
+    [
+     "On the fourth Thursday it was raining, and nobody else came into the office.",
+     "В четвёртый четверг шёл дождь, и больше никто в бюро не приходил."
+    ],
+    [
+     "He stayed longer than usual.",
+     "Он остался дольше обычного."
+    ],
+    [
+     "He asked her if she liked her job, and she surprised herself by telling him the truth: that she hated the room without windows, that she had grown up in a city far from the coast, and that she had always dreamed about living by the sea.",
+     "Он спросил, нравится ли ей её работа, и она, к собственному удивлению, сказала ему правду: что ненавидит комнату без окон, что выросла в городе далеко от побережья и что всегда мечтала жить у моря."
+    ],
+    [
+     "“One day,” she said, “I want to wake up and hear the waves.”",
+     "«Однажды, — сказала она, — я хочу проснуться и услышать волны»."
+    ],
+    [
+     "He listened carefully and did not laugh.",
+     "Он внимательно слушал и не смеялся."
+    ],
+    [
+     "Then he looked at his watch, said “Same package next week?” and was gone.",
+     "Потом посмотрел на часы, сказал: «Та же посылка на следующей неделе?» — и ушёл."
+    ]
+   ]
+  },
+  {
+   "en": "Lena started to feel frustrated. “Your description changes every time,” she told him firmly on the fifth Thursday. Her voice was firm, but she could not stop looking at his red ears.",
+   "ru": "Лена начала расстраиваться. «Ваше описание каждый раз меняется», — твёрдо сказала она ему в пятый четверг. Голос её был твёрдым, но она не могла перестать смотреть на его красные уши.",
+   "s": [
+    [
+     "Lena started to feel frustrated.",
+     "Лена начала расстраиваться."
+    ],
+    [
+     "“Your description changes every time,” she told him firmly on the fifth Thursday.",
+     "«Ваше описание каждый раз меняется», — твёрдо сказала она ему в пятый четверг."
+    ],
+    [
+     "Her voice was firm, but she could not stop looking at his red ears.",
+     "Голос её был твёрдым, но она не могла перестать смотреть на его красные уши."
+    ]
+   ]
+  },
+  {
+   "en": "“I have a bad memory,” he said simply. “I am sorry.”",
+   "ru": "«У меня плохая память», — просто сказал он. — «Простите».",
+   "s": [
+    [
+     "“I have a bad memory,” he said simply.",
+     "«У меня плохая память», — просто сказал он."
+    ],
+    [
+     "“I am sorry.”",
+     "«Простите»."
+    ]
+   ]
+  },
+  {
+   "en": "Mr Hall was less patient. “That man is obsessed,” he said after the sixth visit. “Or he is cunning. Maybe he is trying to steal something. People like that make false complaints and want money. You deal with him, Morris. I don’t want to see him.”",
+   "ru": "Мистер Холл был менее терпелив. «Этот человек одержим, — сказал он после шестого визита. — Или он хитрый. Может быть, он пытается что-то украсть. Такие люди пишут ложные жалобы и хотят денег. Разбирайтесь с ним сами, Моррис. Я не хочу его видеть».",
+   "s": [
+    [
+     "Mr Hall was less patient.",
+     "Мистер Холл был менее терпелив."
+    ],
+    [
+     "“That man is obsessed,” he said after the sixth visit.",
+     "«Этот человек одержим», — сказал он после шестого визита."
+    ],
+    [
+     "“Or he is cunning.",
+     "«Или он хитрый."
+    ],
+    [
+     "Maybe he is trying to steal something.",
+     "Может быть, он пытается что-то украсть."
+    ],
+    [
+     "People like that make false complaints and want money.",
+     "Такие люди пишут ложные жалобы и хотят денег."
+    ],
+    [
+     "You deal with him, Morris.",
+     "Разбирайтесь с ним сами, Моррис."
+    ],
+    [
+     "I don’t want to see him.”",
+     "Я не хочу его видеть»."
+    ]
+   ]
+  },
+  {
+   "en": "But Lena did not think he was cunning. A cunning man would tell a better story. This man simply came, asked his question, put an orange on her desk and left. Slowly, Thursday became the best day of her week. She started to wear her nicest sweater on Thursdays. She was glad when she heard his steps in the hall, and she felt strangely empty when he walked away in the direction of the platforms.",
+   "ru": "Но Лена не думала, что он хитрый. Хитрый человек придумал бы историю получше. Этот человек просто приходил, задавал свой вопрос, клал апельсин ей на стол и уходил. Постепенно четверг стал лучшим днём её недели. По четвергам она стала надевать свой самый красивый свитер. Она радовалась, когда слышала его шаги в коридоре, и чувствовала странную пустоту, когда он уходил в направлении платформ.",
+   "s": [
+    [
+     "But Lena did not think he was cunning.",
+     "Но Лена не думала, что он хитрый."
+    ],
+    [
+     "A cunning man would tell a better story.",
+     "Хитрый человек придумал бы историю получше."
+    ],
+    [
+     "This man simply came, asked his question, put an orange on her desk and left.",
+     "Этот человек просто приходил, задавал свой вопрос, клал апельсин ей на стол и уходил."
+    ],
+    [
+     "Slowly, Thursday became the best day of her week.",
+     "Постепенно четверг стал лучшим днём её недели."
+    ],
+    [
+     "She started to wear her nicest sweater on Thursdays.",
+     "По четвергам она стала надевать свой самый красивый свитер."
+    ],
+    [
+     "She was glad when she heard his steps in the hall, and she felt strangely empty when he walked away in the direction of the platforms.",
+     "Она радовалась, когда слышала его шаги в коридоре, и чувствовала странную пустоту, когда он уходил в направлении платформ."
+    ]
+   ]
+  },
+  {
+   "en": "Her only friend at work was Danny, a young porter who carried heavy bags for tourists and knew everything that happened in the station. One evening, after work, he sat on her desk and ate one of the oranges.",
+   "ru": "Её единственным другом на работе был Дэнни, молодой носильщик, который носил тяжёлые сумки туристов и знал всё, что происходило на вокзале. Однажды вечером, после работы, он сел к ней на стол и съел один из апельсинов.",
+   "s": [
+    [
+     "Her only friend at work was Danny, a young porter who carried heavy bags for tourists and knew everything that happened in the station.",
+     "Её единственным другом на работе был Дэнни, молодой носильщик, который носил тяжёлые сумки туристов и знал всё, что происходило на вокзале."
+    ],
+    [
+     "One evening, after work, he sat on her desk and ate one of the oranges.",
+     "Однажды вечером, после работы, он сел к ней на стол и съел один из апельсинов."
+    ]
+   ]
+  },
+  {
+   "en": "“Your orange man was here again today,” he said. “He asked me what time you finish on Fridays.”",
+   "ru": "«Твой апельсиновый мужчина сегодня опять был здесь, — сказал он. — Спросил меня, во сколько ты заканчиваешь по пятницам».",
+   "s": [
+    [
+     "“Your orange man was here again today,” he said.",
+     "«Твой апельсиновый мужчина сегодня опять был здесь», — сказал он."
+    ],
+    [
+     "“He asked me what time you finish on Fridays.”",
+     "«Спросил меня, во сколько ты заканчиваешь по пятницам»."
+    ]
+   ]
+  },
+  {
+   "en": "“And what did you tell him?” Danny looked at the ceiling. “Six o’clock.”",
+   "ru": "«И что ты ему сказал?» Дэнни посмотрел в потолок. «В шесть».",
+   "s": [
+    [
+     "“And what did you tell him?”",
+     "«И что ты ему сказал?»"
+    ],
+    [
+     "Danny looked at the ceiling.",
+     "Дэнни посмотрел в потолок."
+    ],
+    [
+     "“Six o’clock.”",
+     "«В шесть»."
+    ]
+   ]
+  },
+  {
+   "en": "“Danny! You traitor!” But she was laughing, and her cheeks were warm.",
+   "ru": "«Дэнни! Предатель!» Но она смеялась, и щёки у неё горели.",
+   "s": [
+    [
+     "“Danny!",
+     "«Дэнни!"
+    ],
+    [
+     "You traitor!”",
+     "Предатель!»"
+    ],
+    [
+     "But she was laughing, and her cheeks were warm.",
+     "Но она смеялась, и щёки у неё горели."
+    ]
+   ]
+  },
+  {
+   "en": "On Friday, at six o’clock, Lena walked out of the station. The sky was grey and the wind was cold, and nobody was waiting for her. She told herself that she did not care. She told herself that Mr Hall was right: the man was obsessed with a box that did not exist, not with her. She went home and did not eat dinner.",
+   "ru": "В пятницу в шесть часов Лена вышла из вокзала. Небо было серым, ветер был холодным, и никто её не ждал. Она сказала себе, что ей всё равно. Она сказала себе, что мистер Холл прав: этот человек одержим коробкой, которой не существует, а не ею. Она пошла домой и не стала ужинать.",
+   "s": [
+    [
+     "On Friday, at six o’clock, Lena walked out of the station.",
+     "В пятницу в шесть часов Лена вышла из вокзала."
+    ],
+    [
+     "The sky was grey and the wind was cold, and nobody was waiting for her.",
+     "Небо было серым, ветер был холодным, и никто её не ждал."
+    ],
+    [
+     "She told herself that she did not care.",
+     "Она сказала себе, что ей всё равно."
+    ],
+    [
+     "She told herself that Mr Hall was right: the man was obsessed with a box that did not exist, not with her.",
+     "Она сказала себе, что мистер Холл прав: этот человек одержим коробкой, которой не существует, а не ею."
+    ],
+    [
+     "She went home and did not eat dinner.",
+     "Она пошла домой и не стала ужинать."
+    ]
+   ]
+  },
+  {
+   "en": "The next Thursday he did not come. Nor the Thursday after that. Lena looked at the door every five minutes. Maybe he had found his box. Maybe he had found another office, with another woman behind the desk. She gave wrong answers to simple questions. A woman made a complaint because Lena sent her to the wrong platform.",
+   "ru": "В следующий четверг он не пришёл. И в четверг после этого тоже. Лена смотрела на дверь каждые пять минут. Может быть, он нашёл свою коробку. Может быть, он нашёл другое бюро, с другой женщиной за столом. Она давала неправильные ответы на простые вопросы. Одна женщина подала жалобу, потому что Лена отправила её не на ту платформу.",
+   "s": [
+    [
+     "The next Thursday he did not come.",
+     "В следующий четверг он не пришёл."
+    ],
+    [
+     "Nor the Thursday after that.",
+     "И в четверг после этого тоже."
+    ],
+    [
+     "Lena looked at the door every five minutes.",
+     "Лена смотрела на дверь каждые пять минут."
+    ],
+    [
+     "Maybe he had found his box.",
+     "Может быть, он нашёл свою коробку."
+    ],
+    [
+     "Maybe he had found another office, with another woman behind the desk.",
+     "Может быть, он нашёл другое бюро, с другой женщиной за столом."
+    ],
+    [
+     "She gave wrong answers to simple questions.",
+     "Она давала неправильные ответы на простые вопросы."
+    ],
+    [
+     "A woman made a complaint because Lena sent her to the wrong platform.",
+     "Одна женщина подала жалобу, потому что Лена отправила её не на ту платформу."
+    ]
+   ]
+  },
+  {
+   "en": "Then, on Monday morning, a cleaner brought a package to the office. “Found it on bench number four,” she said. “Under an old newspaper.”",
+   "ru": "А потом, в понедельник утром, уборщица принесла в бюро посылку. «Нашла на скамейке номер четыре, — сказала она. — Под старой газетой».",
+   "s": [
+    [
+     "Then, on Monday morning, a cleaner brought a package to the office.",
+     "А потом, в понедельник утром, уборщица принесла в бюро посылку."
+    ],
+    [
+     "“Found it on bench number four,” she said.",
+     "«Нашла на скамейке номер четыре», — сказала она."
+    ],
+    [
+     "“Under an old newspaper.”",
+     "«Под старой газетой»."
+    ]
+   ]
+  },
+  {
+   "en": "It was a small box in brown paper, small enough to hold in one hand. It was tied with red string, and the string had a green knot. It fit every description he had ever given. On the paper someone had written, in careful letters: “For the woman in the lost property office. Please open. It belongs to you.”",
+   "ru": "Это была маленькая коробка в коричневой бумаге, достаточно маленькая, чтобы держать в одной руке. Она была перевязана красной верёвочкой, а на верёвочке был зелёный узел. Она соответствовала каждому описанию, которое он когда-либо давал. На бумаге кто-то написал аккуратными буквами: «Для женщины из бюро находок. Пожалуйста, откройте. Это принадлежит вам».",
+   "s": [
+    [
+     "It was a small box in brown paper, small enough to hold in one hand.",
+     "Это была маленькая коробка в коричневой бумаге, достаточно маленькая, чтобы держать в одной руке."
+    ],
+    [
+     "It was tied with red string, and the string had a green knot.",
+     "Она была перевязана красной верёвочкой, а на верёвочке был зелёный узел."
+    ],
+    [
+     "It fit every description he had ever given.",
+     "Она соответствовала каждому описанию, которое он когда-либо давал."
+    ],
+    [
+     "On the paper someone had written, in careful letters: “For the woman in the lost property office.",
+     "На бумаге кто-то написал аккуратными буквами: «Для женщины из бюро находок."
+    ],
+    [
+     "Please open.",
+     "Пожалуйста, откройте."
+    ],
+    [
+     "It belongs to you.”",
+     "Это принадлежит вам»."
+    ]
+   ]
+  },
+  {
+   "en": "Her hands were shaking. Inside the package, on a bed of soft paper, there was a small wooden ship with white sails. Under the ship there was a train ticket to Saltwick, a little town on the coast, and a letter.",
+   "ru": "Руки у неё дрожали. Внутри упаковки, на подстилке из мягкой бумаги, лежал маленький деревянный корабль с белыми парусами. Под кораблём был билет на поезд до Солтуика, маленького городка на побережье, и письмо.",
+   "s": [
+    [
+     "Her hands were shaking.",
+     "Руки у неё дрожали."
+    ],
+    [
+     "Inside the package, on a bed of soft paper, there was a small wooden ship with white sails.",
+     "Внутри упаковки, на подстилке из мягкой бумаги, лежал маленький деревянный корабль с белыми парусами."
+    ],
+    [
+     "Under the ship there was a train ticket to Saltwick, a little town on the coast, and a letter.",
+     "Под кораблём был билет на поезд до Солтуика, маленького городка на побережье, и письмо."
+    ]
+   ]
+  },
+  {
+   "en": "“My name is Tom,” the letter said. “I build model ships in a small shop by the sea. Four months ago I came to your office to ask about a real lost bag, and you smiled at me, and I forgot what I wanted to say. I went home without my bag. After that I needed a reason to see you again, so I invented a package. Every Thursday was practice: practice talking to you without my ears turning red. I never got better. I am sorry I lied. On Friday I waited at six, but I was waiting at the wrong door, and then I lost my courage. This ship is for you, because you once told me you dream about the sea. If you want to see it, there is a train on Saturday at ten. If you don’t come, I will understand.”",
+   "ru": "«Меня зовут Том, — говорилось в письме. — Я делаю модели кораблей в маленькой мастерской у моря. Четыре месяца назад я пришёл в ваше бюро спросить о настоящей потерянной сумке, вы мне улыбнулись, и я забыл, что хотел сказать. Я ушёл домой без своей сумки. После этого мне нужен был повод увидеть вас снова, поэтому я придумал посылку. Каждый четверг был практикой: практикой разговора с вами без того, чтобы мои уши краснели. Лучше у меня так и не стало. Простите, что я лгал. В пятницу я ждал в шесть, но ждал не у той двери, а потом потерял смелость. Этот корабль для вас, потому что однажды вы сказали мне, что мечтаете о море. Если хотите его увидеть, в субботу в десять есть поезд. Если вы не приедете, я пойму».",
+   "s": [
+    [
+     "“My name is Tom,” the letter said.",
+     "«Меня зовут Том», — говорилось в письме."
+    ],
+    [
+     "“I build model ships in a small shop by the sea.",
+     "«Я делаю модели кораблей в маленькой мастерской у моря."
+    ],
+    [
+     "Four months ago I came to your office to ask about a real lost bag, and you smiled at me, and I forgot what I wanted to say.",
+     "Четыре месяца назад я пришёл в ваше бюро спросить о настоящей потерянной сумке, вы мне улыбнулись, и я забыл, что хотел сказать."
+    ],
+    [
+     "I went home without my bag.",
+     "Я ушёл домой без своей сумки."
+    ],
+    [
+     "After that I needed a reason to see you again, so I invented a package.",
+     "После этого мне нужен был повод увидеть вас снова, поэтому я придумал посылку."
+    ],
+    [
+     "Every Thursday was practice: practice talking to you without my ears turning red.",
+     "Каждый четверг был практикой: практикой разговора с вами без того, чтобы мои уши краснели."
+    ],
+    [
+     "I never got better.",
+     "Лучше у меня так и не стало."
+    ],
+    [
+     "I am sorry I lied.",
+     "Простите, что я лгал."
+    ],
+    [
+     "On Friday I waited at six, but I was waiting at the wrong door, and then I lost my courage.",
+     "В пятницу я ждал в шесть, но ждал не у той двери, а потом потерял смелость."
+    ],
+    [
+     "This ship is for you, because you once told me you dream about the sea.",
+     "Этот корабль для вас, потому что однажды вы сказали мне, что мечтаете о море."
+    ],
+    [
+     "If you want to see it, there is a train on Saturday at ten.",
+     "Если хотите его увидеть, в субботу в десять есть поезд."
+    ],
+    [
+     "If you don’t come, I will understand.”",
+     "Если вы не приедете, я пойму»."
+    ]
+   ]
+  },
+  {
+   "en": "Lena read the letter three times. Then she looked at the blue book, where she had to write every lost thing and its owner. She opened it and wrote: “One wooden ship. Owner: Lena Morris.” For the first time, Mr Hall’s rules made her smile.",
+   "ru": "Лена прочитала письмо три раза. Потом она посмотрела на синюю книгу, куда должна была записывать каждую потерянную вещь и её владельца. Она открыла её и написала: «Один деревянный корабль. Владелец: Лена Моррис». Впервые правила мистера Холла заставили её улыбнуться.",
+   "s": [
+    [
+     "Lena read the letter three times.",
+     "Лена прочитала письмо три раза."
+    ],
+    [
+     "Then she looked at the blue book, where she had to write every lost thing and its owner.",
+     "Потом она посмотрела на синюю книгу, куда должна была записывать каждую потерянную вещь и её владельца."
+    ],
+    [
+     "She opened it and wrote: “One wooden ship.",
+     "Она открыла её и написала: «Один деревянный корабль."
+    ],
+    [
+     "Owner: Lena Morris.”",
+     "Владелец: Лена Моррис»."
+    ],
+    [
+     "For the first time, Mr Hall’s rules made her smile.",
+     "Впервые правила мистера Холла заставили её улыбнуться."
+    ]
+   ]
+  },
+  {
+   "en": "On Saturday the sky over Saltwick was blue and the wind smelled of salt. Tom was standing on the platform in a white shirt, with a bag of oranges in his hands and his ears as red as ever. When he saw her, he almost dropped the bag. The oranges rolled in every direction, and he went down on one knee to catch them.",
+   "ru": "В субботу небо над Солтуиком было голубым, а ветер пах солью. Том стоял на платформе в белой рубашке, с пакетом апельсинов в руках, и уши у него были красными как всегда. Увидев её, он чуть не уронил пакет. Апельсины покатились во все стороны, и он опустился на одно колено, чтобы их поймать.",
+   "s": [
+    [
+     "On Saturday the sky over Saltwick was blue and the wind smelled of salt.",
+     "В субботу небо над Солтуиком было голубым, а ветер пах солью."
+    ],
+    [
+     "Tom was standing on the platform in a white shirt, with a bag of oranges in his hands and his ears as red as ever.",
+     "Том стоял на платформе в белой рубашке, с пакетом апельсинов в руках, и уши у него были красными как всегда."
+    ],
+    [
+     "When he saw her, he almost dropped the bag.",
+     "Увидев её, он чуть не уронил пакет."
+    ],
+    [
+     "The oranges rolled in every direction, and he went down on one knee to catch them.",
+     "Апельсины покатились во все стороны, и он опустился на одно колено, чтобы их поймать."
+    ]
+   ]
+  },
+  {
+   "en": "Lena knelt beside him, and their knees almost touched. She picked up one orange and put it in his hand. “I think you lost this,” she said. “Can you give me a description?”",
+   "ru": "Лена опустилась на колени рядом с ним, и их колени почти соприкоснулись. Она подняла один апельсин и вложила его ему в руку. «Кажется, вы это потеряли, — сказала она. — Можете дать описание?»",
+   "s": [
+    [
+     "Lena knelt beside him, and their knees almost touched.",
+     "Лена опустилась на колени рядом с ним, и их колени почти соприкоснулись."
+    ],
+    [
+     "She picked up one orange and put it in his hand.",
+     "Она подняла один апельсин и вложила его ему в руку."
+    ],
+    [
+     "“I think you lost this,” she said.",
+     "«Кажется, вы это потеряли», — сказала она."
+    ],
+    [
+     "“Can you give me a description?”",
+     "«Можете дать описание?»"
+    ]
+   ]
+  },
+  {
+   "en": "Tom laughed, and then, very carefully, he kissed her on the cheek. “Ten points out of ten,” Lena said softly. “Danny was right about you.” Behind them, the train left in the direction of the city, but neither of them looked at it.",
+   "ru": "Том засмеялся, а потом очень осторожно поцеловал её в щёку. «Десять баллов из десяти, — тихо сказала Лена. — Дэнни был прав насчёт тебя». Позади них поезд ушёл в направлении города, но ни один из них на него не посмотрел.",
+   "s": [
+    [
+     "Tom laughed, and then, very carefully, he kissed her on the cheek.",
+     "Том засмеялся, а потом очень осторожно поцеловал её в щёку."
+    ],
+    [
+     "“Ten points out of ten,” Lena said softly.",
+     "«Десять баллов из десяти», — тихо сказала Лена."
+    ],
+    [
+     "“Danny was right about you.”",
+     "«Дэнни был прав насчёт тебя»."
+    ],
+    [
+     "Behind them, the train left in the direction of the city, but neither of them looked at it.",
+     "Позади них поезд ушёл в направлении города, но ни один из них на него не посмотрел."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, примерно",
+  "after": "после",
+  "afternoon": "день (после полудня)",
+  "again": "снова",
+  "ago": "назад",
+  "all": "весь, все",
+  "almost": "почти",
+  "always": "всегда",
+  "am": "есть (я)",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "another": "другой",
+  "answers": "ответы",
+  "as": "как",
+  "ask": "спросить",
+  "asked": "спросил(а)",
+  "at": "в, у, на",
+  "ate": "съел",
+  "away": "прочь",
+  "back": "назад, обратно",
+  "bad": "плохой",
+  "bag": "сумка, пакет",
+  "bags": "сумки",
+  "became": "стал",
+  "because": "потому что",
+  "bed": "подстилка, ложе",
+  "behind": "позади, за",
+  "belongs": "принадлежит",
+  "bench": "скамейка",
+  "beside": "рядом с",
+  "best": "лучший",
+  "better": "лучше",
+  "between": "между",
+  "big": "большой",
+  "blew": "дул",
+  "blue": "синий, голубой",
+  "book": "книга",
+  "books": "книги",
+  "boss": "начальник",
+  "box": "коробка",
+  "boxes": "коробки",
+  "brought": "принесла",
+  "brown": "коричневый",
+  "build": "строю, делаю",
+  "but": "но",
+  "by": "у, к, (кем)",
+  "cafe": "кафе",
+  "called": "по имени",
+  "came": "пришёл",
+  "can": "могу, может",
+  "care": "волноваться",
+  "careful": "аккуратный",
+  "carefully": "внимательно, осторожно",
+  "carried": "носил",
+  "catch": "поймать",
+  "ceiling": "потолок",
+  "change": "изменить",
+  "changes": "меняется",
+  "cheek": "щека",
+  "cheeks": "щёки",
+  "city": "город",
+  "cleaner": "уборщица",
+  "closed": "закрывала",
+  "coast": "побережье",
+  "coffee": "кофе",
+  "cold": "холодный",
+  "come": "прийти",
+  "complaint": "жалоба",
+  "complaints": "жалобы",
+  "could": "могла",
+  "courage": "смелость",
+  "course": "курс (of course - конечно)",
+  "cunning": "хитрый",
+  "danny": "Дэнни (имя)",
+  "dark": "тёмный",
+  "day": "день",
+  "deal": "иметь дело",
+  "description": "описание",
+  "desk": "стол",
+  "did": "(вспом. глагол)",
+  "different": "другой, разный",
+  "dinner": "ужин",
+  "direction": "направление",
+  "don't": "не (вспом.)",
+  "door": "дверь",
+  "down": "вниз",
+  "dream": "мечтаю",
+  "dreamed": "мечтала",
+  "dropped": "уронил",
+  "ears": "уши",
+  "eat": "есть",
+  "eight": "восемь",
+  "else": "ещё, другой",
+  "empty": "пустой",
+  "enough": "достаточно",
+  "establish": "установить",
+  "evening": "вечер",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "everything": "всё",
+  "exist": "существовать",
+  "eyes": "глаза",
+  "false": "ложный",
+  "far": "далеко",
+  "feel": "чувствовать",
+  "felt": "чувствовала",
+  "fifth": "пятый",
+  "finish": "заканчиваешь",
+  "firm": "твёрдый",
+  "firmly": "твёрдо",
+  "first": "первый",
+  "fit": "соответствовала",
+  "five": "пять",
+  "for": "для, на",
+  "forgot": "забыл",
+  "found": "нашла, нашёл",
+  "four": "четыре",
+  "fourth": "четвёртый",
+  "friday": "пятница",
+  "fridays": "пятницы",
+  "friend": "друг",
+  "from": "из, с",
+  "frustrated": "расстроенный",
+  "full": "полный",
+  "gave": "дала, давал",
+  "give": "дать",
+  "given": "дал",
+  "glad": "рад",
+  "gone": "ушёл",
+  "good": "хороший",
+  "got": "стал",
+  "green": "зелёный",
+  "grey": "серый",
+  "grown": "выросла",
+  "had": "имел, (вспом.)",
+  "hair": "волосы",
+  "hall": "Холл (фамилия); коридор",
+  "hall's": "Холла",
+  "hand": "рука",
+  "hands": "руки",
+  "happened": "происходило",
+  "hated": "ненавидела",
+  "have": "иметь, должна",
+  "he": "он",
+  "hear": "слышать",
+  "heard": "слышала",
+  "heavy": "тяжёлый",
+  "her": "её, ей",
+  "here": "здесь",
+  "herself": "себя, сама",
+  "him": "его, ему",
+  "his": "его",
+  "hold": "держать",
+  "holding": "держал",
+  "home": "домой",
+  "i": "я",
+  "if": "если, ли",
+  "imagined": "представляла",
+  "in": "в",
+  "inside": "внутри",
+  "into": "в",
+  "invented": "придумал",
+  "is": "есть, является",
+  "it": "это, оно",
+  "its": "его, её",
+  "job": "работа",
+  "just": "просто",
+  "keep": "храним",
+  "kept": "держал",
+  "kissed": "поцеловал",
+  "knee": "колено",
+  "knees": "колени",
+  "knelt": "опустилась на колени",
+  "knew": "знал",
+  "knot": "узел",
+  "know": "знать",
+  "late": "опоздавший",
+  "laugh": "смеяться",
+  "laughed": "засмеялся",
+  "laughing": "смеялась",
+  "left": "оставил, ушёл",
+  "lena": "Лена (имя)",
+  "less": "менее",
+  "letter": "письмо",
+  "letters": "письма",
+  "lied": "лгал",
+  "like": "как, вроде",
+  "liked": "нравилась",
+  "listened": "слушал",
+  "little": "маленький, немного",
+  "living": "жить",
+  "longer": "дольше",
+  "looked": "посмотрел(а)",
+  "looking": "смотреть",
+  "lost": "потерянный, потерял",
+  "made": "сделала, заставили",
+  "make": "делают",
+  "man": "мужчина",
+  "margaret": "Маргарет (имя)",
+  "maybe": "может быть",
+  "me": "меня, мне",
+  "memory": "память",
+  "minutes": "минуты",
+  "model": "модель",
+  "monday": "понедельник",
+  "money": "деньги",
+  "months": "месяцы",
+  "morning": "утро",
+  "morris": "Моррис (фамилия)",
+  "mr": "мистер",
+  "my": "мой",
+  "name": "имя",
+  "needed": "нужен был",
+  "neither": "ни один",
+  "nervous": "нервный",
+  "never": "никогда",
+  "news": "новость",
+  "newspaper": "газета",
+  "next": "следующий",
+  "nicest": "самый красивый",
+  "no": "нет, без",
+  "nobody": "никто",
+  "none": "ни один",
+  "nor": "и не",
+  "northgate": "Нортгейт (название)",
+  "not": "не",
+  "number": "номер",
+  "o'clock": "часов",
+  "obsessed": "одержимый",
+  "october": "октябрь",
+  "of": "из, (род. падеж)",
+  "office": "бюро, офис",
+  "old": "старый",
+  "on": "на, в",
+  "once": "однажды",
+  "one": "один",
+  "only": "единственный",
+  "open": "откройте",
+  "opened": "открыла",
+  "or": "или",
+  "orange": "апельсин",
+  "oranges": "апельсины",
+  "out": "наружу, из",
+  "over": "над",
+  "owner": "владелец",
+  "package": "посылка, упаковка",
+  "paper": "бумага",
+  "patient": "терпеливый",
+  "people": "люди",
+  "picked": "подняла",
+  "platform": "платформа",
+  "platforms": "платформы",
+  "please": "пожалуйста",
+  "points": "баллы",
+  "porter": "носильщик",
+  "practice": "практика",
+  "property": "имущество, вещи",
+  "put": "клал, вложила",
+  "question": "вопрос",
+  "questions": "вопросы",
+  "raining": "шёл дождь",
+  "read": "прочитала",
+  "real": "настоящий",
+  "really": "действительно",
+  "reason": "причина, повод",
+  "red": "красный",
+  "right": "прав",
+  "rolled": "покатились",
+  "room": "комната",
+  "rules": "правила",
+  "said": "сказал(а)",
+  "sails": "паруса",
+  "salary": "зарплата",
+  "salt": "соль",
+  "saltwick": "Солтуик (город)",
+  "same": "тот же",
+  "sat": "сел",
+  "saturday": "суббота",
+  "saw": "увидел",
+  "say": "сказать",
+  "sea": "море",
+  "see": "видеть",
+  "sent": "отправила",
+  "shaking": "дрожали",
+  "she": "она",
+  "shelves": "полки",
+  "ship": "корабль",
+  "ships": "корабли",
+  "shirt": "рубашка",
+  "shop": "мастерская",
+  "simple": "простой",
+  "simply": "просто",
+  "six": "шесть",
+  "sixth": "шестой",
+  "size": "размер",
+  "sky": "небо",
+  "slowly": "постепенно",
+  "small": "маленький",
+  "smelled": "пах",
+  "smile": "улыбаться",
+  "smiled": "улыбнулся",
+  "so": "поэтому, так",
+  "soft": "мягкий",
+  "softly": "тихо",
+  "sold": "продавали",
+  "someone": "кто-то",
+  "something": "что-то",
+  "sometimes": "иногда",
+  "sorry": "жаль, простите",
+  "special": "особенный",
+  "standing": "стоял",
+  "started": "начала",
+  "station": "вокзал",
+  "stayed": "остался",
+  "steal": "украсть",
+  "steps": "шаги",
+  "stop": "перестать",
+  "story": "история",
+  "strangely": "странно",
+  "string": "верёвочка",
+  "suitcase": "чемодан",
+  "sun": "солнце",
+  "surprised": "удивила",
+  "sweater": "свитер",
+  "talking": "разговаривать",
+  "tall": "высокий",
+  "tell": "рассказать",
+  "telling": "рассказав",
+  "ten": "десять",
+  "than": "чем",
+  "thank": "спасибо",
+  "that": "что, тот",
+  "the": "(артикль)",
+  "their": "их",
+  "them": "их, им",
+  "then": "потом",
+  "there": "там",
+  "thin": "худой",
+  "thing": "вещь",
+  "think": "думаю",
+  "this": "это, этот",
+  "three": "три",
+  "through": "через, по",
+  "thursday": "четверг",
+  "thursdays": "четверги",
+  "ticket": "билет",
+  "tied": "перевязана",
+  "time": "раз, время",
+  "times": "раз",
+  "tired": "уставший",
+  "to": "к, в, (инфинитив)",
+  "today": "сегодня",
+  "told": "сказала",
+  "tom": "Том (имя)",
+  "too": "слишком",
+  "took": "достала",
+  "touched": "соприкоснулись",
+  "tourists": "туристы",
+  "town": "городок",
+  "train": "поезд",
+  "trains": "поезда",
+  "traitor": "предатель",
+  "truth": "правда",
+  "try": "попробуйте",
+  "trying": "пытается",
+  "turned": "становились",
+  "turning": "становились",
+  "twenty": "двадцать",
+  "umbrella": "зонт",
+  "under": "под",
+  "understand": "пойму",
+  "up": "вверх",
+  "usual": "обычный",
+  "very": "очень",
+  "visit": "визит",
+  "voice": "голос",
+  "waited": "ждал",
+  "waiting": "ждал",
+  "wake": "проснуться",
+  "walked": "ушёл",
+  "want": "хочу",
+  "wanted": "хотел",
+  "warm": "тёплый",
+  "was": "был(а)",
+  "watch": "часы",
+  "waves": "волны",
+  "we": "мы",
+  "wear": "надевать",
+  "week": "неделя",
+  "went": "пошла",
+  "were": "были",
+  "what": "что",
+  "when": "когда",
+  "where": "где, куда",
+  "white": "белый",
+  "who": "кто, который",
+  "why": "почему",
+  "will": "(буд. время)",
+  "wind": "ветер",
+  "window": "окно",
+  "windows": "окна",
+  "with": "с",
+  "without": "без",
+  "woman": "женщина",
+  "wooden": "деревянный",
+  "wore": "носил",
+  "work": "работа",
+  "worked": "работала",
+  "would": "бы",
+  "write": "записывать",
+  "written": "написал",
+  "wrong": "неправильный",
+  "wrote": "написала",
+  "you": "вы, ты",
+  "young": "молодой",
+  "your": "ваш, твой"
+ },
+ "vocab": {
+  "practice": 7,
+  "firm": 27,
+  "soft": 47,
+  "cheek": 67,
+  "cheeks": 67,
+  "ship": 87,
+  "ships": 87,
+  "orange": 107,
+  "oranges": 107,
+  "wind": 127,
+  "tied": 147,
+  "try": 167,
+  "trying": 167,
+  "sky": 187,
+  "keep": 208,
+  "kept": 208,
+  "points": 228,
+  "ears": 248,
+  "cunning": 268,
+  "shirt": 288,
+  "glad": 309,
+  "deal": 329,
+  "traitor": 349,
+  "special": 369,
+  "heavy": 389,
+  "description": 417,
+  "simply": 439,
+  "complaint": 467,
+  "complaints": 467,
+  "direction": 489,
+  "fit": 510,
+  "package": 531,
+  "frustrated": 552,
+  "establish": 573,
+  "salary": 594,
+  "obsessed": 615,
+  "knee": 637,
+  "knees": 637
+ }
+}

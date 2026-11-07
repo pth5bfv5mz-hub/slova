@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What were the men in the study told about their illness?",
+  "q_ru": "Что говорили мужчинам в исследовании об их болезни?",
+  "options": [
+   "That they had syphilis and needed penicillin",
+   "That they were being treated for \"bad blood\"",
+   "That they were healthy and needed no care",
+   "That they had a disease from the war"
+  ],
+  "options_ru": [
+   "Что у них сифилис и им нужен пенициллин",
+   "Что их лечат от «плохой крови»",
+   "Что они здоровы и в помощи не нуждаются",
+   "Что у них болезнь, полученная на войне"
+  ],
+  "answer": 1,
+  "explain_ru": "В тексте: «the men were told that they were being treated for \"bad blood\"» — им никогда не говорили, что у них сифилис."
+ },
+ {
+  "q": "Why is the 1940s described as the moment that should have ended the study?",
+  "q_ru": "Почему 1940-е годы названы моментом, который должен был положить конец исследованию?",
+  "options": [
+   "The men all moved to other states",
+   "The war stopped all medical research",
+   "Tuskegee Institute refused to help any longer",
+   "Penicillin became a safe and quick cure for syphilis"
+  ],
+  "options_ru": [
+   "Все мужчины переехали в другие штаты",
+   "Война остановила все медицинские исследования",
+   "Институт Таскиги отказался дальше помогать",
+   "Пенициллин стал безопасным и быстрым лекарством от сифилиса"
+  ],
+  "answer": 3,
+  "explain_ru": "Учёные выяснили, что пенициллин быстро и безопасно излечивает сифилис, но мужчинам его так и не предложили."
+ },
+ {
+  "q": "What happened after Peter Buxtun's letters to officials?",
+  "q_ru": "Что произошло после писем Питера Бакстана руководителям?",
+  "options": [
+   "A panel of experts decided the study should continue",
+   "The study was stopped the next month",
+   "Buxtun was sent to Alabama to treat the men",
+   "Congress immediately passed a new law"
+  ],
+  "options_ru": [
+   "Группа экспертов решила, что исследование следует продолжить",
+   "Исследование остановили через месяц",
+   "Бакстана отправили в Алабаму лечить мужчин",
+   "Конгресс сразу принял новый закон"
+  ],
+  "answer": 0,
+  "explain_ru": "В 1969 году собрали группу экспертов, но она решила продолжать исследование. Поэтому Бакстан в итоге обратился к журналистам."
+ },
+ {
+  "q": "How did the public finally learn about the study?",
+  "q_ru": "Как общественность в конце концов узнала об исследовании?",
+  "options": [
+   "A survivor wrote a book about it",
+   "Nurse Eunice Rivers spoke on television",
+   "Buxtun gave documents to reporters, and Jean Heller wrote a story",
+   "President Clinton revealed it in 1997"
+  ],
+  "options_ru": [
+   "Один из выживших написал о нём книгу",
+   "Медсестра Юнис Риверс выступила по телевидению",
+   "Бакстан передал документы журналистам, и Джин Хеллер написала статью",
+   "Президент Клинтон раскрыл его в 1997 году"
+  ],
+  "answer": 2,
+  "explain_ru": "Бакстан передал документы Эдит Ледерер, та — коллеге Джин Хеллер; статья вышла 25 июля 1972 года."
+ },
+ {
+  "q": "According to the article, which popular claim is NOT supported by evidence?",
+  "q_ru": "Какое распространённое утверждение, согласно статье, НЕ подтверждается доказательствами?",
+  "options": [
+   "The men were not offered penicillin",
+   "Government doctors deliberately infected the Tuskegee men with syphilis",
+   "Families received money for funerals",
+   "Articles about the study appeared in medical journals"
+  ],
+  "options_ru": [
+   "Мужчинам не предложили пенициллин",
+   "Государственные врачи намеренно заразили мужчин в Таскиги сифилисом",
+   "Семьи получали деньги на похороны",
+   "Статьи об исследовании выходили в медицинских журналах"
+  ],
+  "answer": 1,
+  "explain_ru": "«There is no evidence of this»: у мужчин болезнь уже была, когда они попали в исследование. Намеренное заражение было в другом проекте — в Гватемале."
+ },
+ {
+  "q": "What was one important result of the scandal?",
+  "q_ru": "Каким был один из важных результатов скандала?",
+  "options": [
+   "Penicillin was banned in the United States",
+   "Medical journals stopped publishing research",
+   "All research on humans was stopped for ten years",
+   "New rules required informed consent from people in studies"
+  ],
+  "options_ru": [
+   "Пенициллин запретили в США",
+   "Медицинские журналы перестали публиковать исследования",
+   "Все исследования на людях остановили на десять лет",
+   "Новые правила потребовали информированного согласия участников исследований"
+  ],
+  "answer": 3,
+  "explain_ru": "Закон 1974 года и Белмонтский доклад 1979 года закрепили принцип информированного согласия: людям должны говорить правду, и они должны свободно соглашаться."
+ }
+]

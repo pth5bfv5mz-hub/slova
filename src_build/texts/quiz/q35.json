@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What happened when Felix tried to go home?",
+  "q_ru": "Что случилось, когда Феликс попытался вернуться домой?",
+  "options": [
+   "Iris had changed the lock",
+   "The flat was empty and dark",
+   "Alfie didn't want to open the door",
+   "A stranger lived there and didn't know him"
+  ],
+  "options_ru": [
+   "Айрис сменила замок",
+   "Квартира была пустой и тёмной",
+   "Алфи не хотел открывать дверь",
+   "Там жил незнакомец, который его не знал"
+  ],
+  "answer": 3,
+  "explain_ru": "Дверь открыл молодой человек: «I've lived here for four years». Даже мебель была чужой."
+ },
+ {
+  "q": "Who wrote the note in Felix's pocket?",
+  "q_ru": "Кто написал записку в кармане Феликса?",
+  "options": [
+   "Felix himself, the night before",
+   "Mrs Quill",
+   "Iris",
+   "His friend Gus"
+  ],
+  "options_ru": [
+   "Сам Феликс, накануне ночью",
+   "Миссис Квилл",
+   "Айрис",
+   "Его друг Гас"
+  ],
+  "answer": 0,
+  "explain_ru": "Это его собственный почерк: «trust me, because I am you». Миссис Квилл посоветовала ему написать записку самому себе."
+ },
+ {
+  "q": "Why did the whole world forget Felix?",
+  "q_ru": "Почему весь мир забыл Феликса?",
+  "options": [
+   "He hit his head and lost his memory",
+   "He was punished for being rude to Iris",
+   "He accepted a deal to save his son from the river",
+   "He drank too much at Gus's birthday"
+  ],
+  "options_ru": [
+   "Он ударился головой и потерял память",
+   "Его наказали за грубость к Айрис",
+   "Он согласился на сделку, чтобы спасти сына из реки",
+   "Он слишком много выпил на дне рождения Гаса"
+  ],
+  "answer": 2,
+  "explain_ru": "Алфи упал в реку. Что-то предложило сделку: мальчик будет жить, а мир забудет Феликса. «You said yes before it had even finished speaking»."
+ },
+ {
+  "q": "Why does Mrs Quill remember Felix?",
+  "q_ru": "Почему миссис Квилл помнит Феликса?",
+  "options": [
+   "She is Iris's mother",
+   "The same thing happened to her years ago",
+   "She saw him in the pharmacy many times",
+   "She is the doctor who treated him"
+  ],
+  "options_ru": [
+   "Она мать Айрис",
+   "С ней когда-то случилось то же самое",
+   "Она много раз видела его в аптеке",
+   "Она врач, который его лечил"
+  ],
+  "answer": 1,
+  "explain_ru": "41 год назад она спасла дочь из пожара. Люди вне памяти мира помнят друг друга: «it cannot make us forget each other»."
+ },
+ {
+  "q": "Felix felt \"vulnerable, like a man without skin\". What does \"vulnerable\" mean?",
+  "q_ru": "Феликс чувствовал себя «vulnerable, like a man without skin». Что значит «vulnerable»?",
+  "options": [
+   "Very angry",
+   "Bored and lazy",
+   "Rich and free",
+   "Easy to hurt"
+  ],
+  "options_ru": [
+   "Очень злым",
+   "Скучающим и ленивым",
+   "Богатым и свободным",
+   "Легко ранимым, беззащитным"
+  ],
+  "answer": 3,
+  "explain_ru": "Vulnerable — уязвимый. Сравнение «like a man without skin» показывает, что ему больно от всего."
+ },
+ {
+  "q": "At the end, how is Felix's relationship with Iris changing?",
+  "q_ru": "Как в конце меняются отношения Феликса и Айрис?",
+  "options": [
+   "Iris suddenly remembers that he is her husband",
+   "Iris invites him to dinner, not just for a lesson",
+   "Felix tells Iris the whole truth about the river",
+   "Felix decides to leave the town for ever"
+  ],
+  "options_ru": [
+   "Айрис вдруг вспоминает, что он её муж",
+   "Айрис приглашает его на ужин, а не только на урок",
+   "Феликс рассказывает Айрис всю правду о реке",
+   "Феликс решает навсегда уехать из города"
+  ],
+  "answer": 1,
+  "explain_ru": "Айрис его не помнит, но говорит: «Come for dinner on Sunday. Not for a lesson. Just for dinner». А в записке: «P.S. It will be worth it»."
+ }
+]

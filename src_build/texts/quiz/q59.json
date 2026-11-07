@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What did the Roswell base announce on 8 July 1947?",
+  "q_ru": "Что объявила база Розуэлл 8 июля 1947 года?",
+  "options": [
+   "That the army had found a \"flying disc\"",
+   "That a Soviet plane had crashed",
+   "That a secret balloon project had failed",
+   "That alien bodies had been found"
+  ],
+  "options_ru": [
+   "Что армия нашла «летающий диск»",
+   "Что разбился советский самолёт",
+   "Что секретный проект с шарами провалился",
+   "Что найдены тела пришельцев"
+  ],
+  "answer": 0,
+  "explain_ru": "В тексте: база передала прессе заявление, что армия нашла «flying disc» на ранчо возле Розуэлла."
+ },
+ {
+  "q": "What explanation did the army give the same day in Fort Worth?",
+  "q_ru": "Какое объяснение армия дала в тот же день в Форт-Уэрте?",
+  "options": [
+   "It was part of a crashed spaceship",
+   "It was a weather balloon with a radar reflector",
+   "It was a piece of an atomic bomb",
+   "It was rubbish from a farm"
+  ],
+  "options_ru": [
+   "Это часть разбившегося космического корабля",
+   "Это метеозонд с радарным отражателем",
+   "Это кусок атомной бомбы",
+   "Это мусор с фермы"
+  ],
+  "answer": 1,
+  "explain_ru": "Генерал Рэйми и армия заявили, что это лишь остатки метеозонда с радарным отражателем."
+ },
+ {
+  "q": "What brought the Roswell story back to life in 1978?",
+  "q_ru": "Что вернуло историю Розуэлла к жизни в 1978 году?",
+  "options": [
+   "A new crash in New Mexico",
+   "A government report",
+   "An interview with Jesse Marcel",
+   "The alien autopsy film"
+  ],
+  "options_ru": [
+   "Новое крушение в Нью-Мексико",
+   "Правительственный доклад",
+   "Интервью с Джесси Марселом",
+   "Фильм о вскрытии пришельца"
+  ],
+  "answer": 2,
+  "explain_ru": "В 1978 году исследователь Стэнтон Фридман взял интервью у Марсела, который сказал, что материал, по его мнению, был не с Земли."
+ },
+ {
+  "q": "According to the 1994 Air Force report, where did the debris most likely come from?",
+  "q_ru": "Откуда, согласно докладу ВВС 1994 года, скорее всего, взялись обломки?",
+  "options": [
+   "A normal weather station",
+   "A crashed military plane",
+   "An alien spacecraft",
+   "Project Mogul, a secret spy balloon programme"
+  ],
+  "options_ru": [
+   "Обычная метеостанция",
+   "Разбившийся военный самолёт",
+   "Инопланетный корабль",
+   "Проект «Могул» — секретная программа шпионских шаров"
+  ],
+  "answer": 3,
+  "explain_ru": "Доклад 1994 года связал обломки с проектом «Могул», который должен был улавливать звук советских ядерных испытаний."
+ },
+ {
+  "q": "What did the GAO discover in 1995?",
+  "q_ru": "Что обнаружило Главное контрольно-финансовое управление в 1995 году?",
+  "options": [
+   "Photos of alien bodies",
+   "That some Roswell base records had been destroyed",
+   "A letter from General Ramey about aliens",
+   "The original autopsy film"
+  ],
+  "options_ru": [
+   "Фотографии тел пришельцев",
+   "Что часть документов базы Розуэлл была уничтожена",
+   "Письмо генерала Рэйми о пришельцах",
+   "Оригинал фильма о вскрытии"
+  ],
+  "answer": 1,
+  "explain_ru": "Следователи узнали, что часть документов базы за 1945–1949 годы была уничтожена, и никто не мог сказать когда и кем."
+ },
+ {
+  "q": "What did Ray Santilli admit in 2006?",
+  "q_ru": "В чём признался Рэй Сантилли в 2006 году?",
+  "options": [
+   "The film was made in London with a dummy",
+   "He had found the film at Roswell",
+   "The film showed a real alien",
+   "The US army had paid him"
+  ],
+  "options_ru": [
+   "Фильм сняли в Лондоне с манекеном",
+   "Он нашёл фильм в Розуэлле",
+   "В фильме был настоящий пришелец",
+   "Армия США заплатила ему"
+  ],
+  "answer": 0,
+  "explain_ru": "Сантилли признал, что фильм сняли в лондонской квартире с манекеном скульптора Джона Хамфриса; «оригинал» никто не видел."
+ }
+]

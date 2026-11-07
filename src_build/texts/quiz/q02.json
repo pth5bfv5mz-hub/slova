@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What happened at nine o'clock that evening?",
+  "q_ru": "Что произошло в девять часов вечера?",
+  "options": [
+   "Someone broke the library window",
+   "There was an explosion near the old mill",
+   "Mrs. Rowe lost the key to the case",
+   "Lily woke up and started crying"
+  ],
+  "options_ru": [
+   "Кто-то разбил окно в библиотеке",
+   "Возле старой мельницы произошёл взрыв",
+   "Миссис Роу потеряла ключ от витрины",
+   "Лили проснулась и заплакала"
+  ],
+  "answer": 1,
+  "explain_ru": "«At nine o'clock we heard an explosion... from the direction of the old mill» — все побежали к окнам, и в это время ожерелье пропало."
+ },
+ {
+  "q": "Why does Victor think Anna is the thief?",
+  "q_ru": "Почему Виктор думает, что воровка — Анна?",
+  "options": [
+   "Someone saw her in the library",
+   "She had the key on a chain",
+   "She is new, and nothing was stolen before she came",
+   "She tried to leave the town at night"
+  ],
+  "options_ru": [
+   "Кто-то видел её в библиотеке",
+   "У неё был ключ на цепочке",
+   "Она новенькая, а до её приезда ничего не пропадало",
+   "Она пыталась уехать ночью"
+  ],
+  "answer": 2,
+  "explain_ru": "Виктор говорит: «We have lived in this house for years and nothing has disappeared. Then a stranger comes...»"
+ },
+ {
+  "q": "Anna says, \"You have offended me.\" What does she mean?",
+  "q_ru": "Анна говорит: «You have offended me». Что она имеет в виду?",
+  "options": [
+   "You have hurt my feelings and my good name",
+   "You have helped me a lot",
+   "You have stolen my money",
+   "You have made me very tired"
+  ],
+  "options_ru": [
+   "Вы задели мои чувства и моё доброе имя",
+   "Вы мне очень помогли",
+   "Вы украли мои деньги",
+   "Вы меня очень утомили"
+  ],
+  "answer": 0,
+  "explain_ru": "«Offend» — обидеть, оскорбить. Анну обидело, что её назвали воровкой."
+ },
+ {
+  "q": "How did the earth on the library carpet help Ellen?",
+  "q_ru": "Как земля на ковре в библиотеке помогла Эллен?",
+  "options": [
+   "It matched the earth near the gate",
+   "It had the thief's fingerprint in it",
+   "Mr. Holt said it came from the forest",
+   "It came from Mrs. Rowe's flower pots in the winter garden"
+  ],
+  "options_ru": [
+   "Она совпала с землёй у ворот",
+   "На ней был отпечаток пальца вора",
+   "Мистер Холт сказал, что она из леса",
+   "Она была из цветочных горшков миссис Роу в зимнем саду"
+  ],
+  "answer": 3,
+  "explain_ru": "Садовник узнал чёрную землю и лепесток белой фиалки: это из горшков в зимнем саду, куда «nobody goes in there except her»."
+ },
+ {
+  "q": "Why did Mrs. Rowe hide the necklace?",
+  "q_ru": "Почему миссис Роу спрятала ожерелье?",
+  "options": [
+   "She wanted to give it to Anna",
+   "The stones were glass, and a jeweller would see it",
+   "She wanted the insurance money",
+   "Victor wanted to sell it"
+  ],
+  "options_ru": [
+   "Она хотела подарить его Анне",
+   "Камни были стеклянными, и ювелир бы это заметил",
+   "Она хотела получить страховку",
+   "Виктор хотел его продать"
+  ],
+  "answer": 1,
+  "explain_ru": "Настоящие изумруды она продала 20 лет назад, а отец невесты — ювелир: «He would see the truth in one second»."
+ },
+ {
+  "q": "How does the story end?",
+  "q_ru": "Чем заканчивается история?",
+  "options": [
+   "Anna leaves Fernley forever",
+   "Ellen arrests Mrs. Rowe",
+   "Victor cancels his wedding",
+   "Mrs. Rowe tells the town the truth, and Anna stays"
+  ],
+  "options_ru": [
+   "Анна навсегда уезжает из Ферли",
+   "Эллен арестовывает миссис Роу",
+   "Виктор отменяет свадьбу",
+   "Миссис Роу рассказывает городу правду, а Анна остаётся"
+  ],
+  "answer": 3,
+  "explain_ru": "Миссис Роу обещает рассказать всем в Ферли, что она сделала, а Анна говорит: «I will stay. For Lily.»"
+ }
+]

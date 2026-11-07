@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did everyone suspect the young man near the entrance?",
+  "q_ru": "Почему все заподозрили молодого человека у входа?",
+  "options": [
+   "He had taken Mrs Bell's box",
+   "He was sending messages all evening",
+   "He matched the description and hid his left hand",
+   "Dawson said he was the thief"
+  ],
+  "options_ru": [
+   "Он взял коробку миссис Белл",
+   "Он весь вечер отправлял сообщения",
+   "Он подходил под описание и прятал левую руку",
+   "Доусон сказал, что он вор"
+  ],
+  "answer": 2,
+  "explain_ru": "Худой, около тридцати, тёмные волосы, «And his left hand was in his pocket» — а у вора шрам на левой руке."
+ },
+ {
+  "q": "Greta knew that \"people perceive what they expect to see\". What does \"perceive\" mean?",
+  "q_ru": "Грета знала, что «people perceive what they expect to see». Что значит «perceive»?",
+  "options": [
+   "Forget quickly",
+   "Notice and understand",
+   "Be afraid of",
+   "Tell other people"
+  ],
+  "options_ru": [
+   "Быстро забывать",
+   "Замечать и понимать",
+   "Бояться",
+   "Рассказывать другим"
+  ],
+  "answer": 1,
+  "explain_ru": "Perceive — воспринимать. Всем дали простое описание преступника, и люди «увидели» его в первом похожем человеке."
+ },
+ {
+  "q": "What made Greta suspicious of Mrs Bell?",
+  "q_ru": "Что заставило Грету подозревать миссис Белл?",
+  "options": [
+   "She refused to share her sandwiches",
+   "She talked about her dead husband",
+   "She went to the bathroom too often",
+   "Her \"old\" plant had been bought on Monday"
+  ],
+  "options_ru": [
+   "Она не захотела делиться бутербродами",
+   "Она говорила о покойном муже",
+   "Она слишком часто ходила в туалет",
+   "Её «старое» растение купили в понедельник"
+  ],
+  "answer": 3,
+  "explain_ru": "Миссис Белл сказала, что Барни у неё 22 года, но земля была свежей, а на горшке наклейка «HALDEN GARDEN CENTRE» с датой понедельника."
+ },
+ {
+  "q": "Who was Felix Rowan really?",
+  "q_ru": "Кем на самом деле был Феликс Роуэн?",
+  "options": [
+   "An officer from the government security service",
+   "The thief's partner",
+   "Just a cook visiting his mother",
+   "A journalist like Greta"
+  ],
+  "options_ru": [
+   "Сотрудником государственной службы безопасности",
+   "Сообщником вора",
+   "Просто поваром, который ехал к маме",
+   "Журналистом, как Грета"
+  ],
+  "answer": 0,
+  "explain_ru": "Он показал удостоверение: работает в службе безопасности и следил за файлами. Он позволил всем подозревать себя, чтобы настоящий преступник расслабился."
+ },
+ {
+  "q": "Why did Mrs Bell steal the files?",
+  "q_ru": "Почему миссис Белл украла файлы?",
+  "options": [
+   "She needed money for her plant shop",
+   "Revenge: the government ignored her husband's warning",
+   "Felix paid her to do it",
+   "She wanted to become famous"
+  ],
+  "options_ru": [
+   "Ей нужны были деньги на цветочный магазин",
+   "Месть: правительство не послушало предупреждение её мужа",
+   "Феликс заплатил ей за это",
+   "Она хотела стать знаменитой"
+  ],
+  "answer": 1,
+  "explain_ru": "Её муж-инженер предупреждал, что тоннель небезопасен, но ремонт пожалели денег. Он погиб, а она «wanted them to pay»."
+ },
+ {
+  "q": "What did Felix ask Greta to do at the end?",
+  "q_ru": "О чём Феликс попросил Грету в конце?",
+  "options": [
+   "Give the plant to the police",
+   "Forget everything about that night",
+   "Wait before writing about the story",
+   "Work for the security service"
+  ],
+  "options_ru": [
+   "Отдать растение полиции",
+   "Забыть всё о той ночи",
+   "Подождать, прежде чем писать об этой истории",
+   "Работать в службе безопасности"
+  ],
+  "answer": 2,
+  "explain_ru": "Он просит не писать «yet» — статья сейчас помешала бы расследованию. Грета согласна ждать: «But when I write it, I'll start with the plant»."
+ }
+]

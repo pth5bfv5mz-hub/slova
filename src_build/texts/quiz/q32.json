@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why was Fenna sent to Gullhaven?",
+  "q_ru": "Почему Фенну отправили в Галлхейвен?",
+  "options": [
+   "The keeper had asked the Office for help",
+   "A closed lighthouse was still shining every night",
+   "A ship had hit the rocks near the village",
+   "The village wanted a new, modern lighthouse"
+  ],
+  "options_ru": [
+   "Смотритель попросил Управление о помощи",
+   "Закрытый маяк всё ещё светил каждую ночь",
+   "Корабль разбился о скалы рядом с деревней",
+   "Деревня хотела новый современный маяк"
+  ],
+  "answer": 1,
+  "explain_ru": "Жители пожаловались, что маяк светит каждую ночь, хотя его закрыли, электричество отключили, а смотритель Абел Крейн умер в марте."
+ },
+ {
+  "q": "What did Fenna find strange in the keeper's cottage?",
+  "q_ru": "Что показалось Фенне странным в доме смотрителя?",
+  "options": [
+   "It was full of dust and broken furniture",
+   "Rory was sleeping in the armchair",
+   "The lamp in the kitchen window was on",
+   "It was clean, and the blanket was still warm"
+  ],
+  "options_ru": [
+   "Он был полон пыли и сломанной мебели",
+   "Рори спал в кресле",
+   "Лампа на кухонном окне горела",
+   "Там было чисто, а плед был ещё тёплым"
+  ],
+  "answer": 3,
+  "explain_ru": "Она ждала пыли и темноты, но «the kitchen was clean», а плед был тёплым, «as if somebody had just stood up»."
+ },
+ {
+  "q": "Why did Fenna first suspect Rory?",
+  "q_ru": "Почему Фенна сначала заподозрила Рори?",
+  "options": [
+   "He had a key and felt guilty about Abel's death",
+   "Brigid said he climbed the tower every night",
+   "He wanted to buy the lighthouse",
+   "He used to work for the Lights Office"
+  ],
+  "options_ru": [
+   "У него был ключ, и он чувствовал вину за смерть Абела",
+   "Бриджит сказала, что он каждую ночь поднимается на башню",
+   "Он хотел купить маяк",
+   "Раньше он работал в Управлении маяков"
+  ],
+  "answer": 0,
+  "explain_ru": "У Рори был второй ключ, и Абел погиб, спасая его. Фенна думает: человек, который чувствует вину, «might want to keep the dead man's light burning»."
+ },
+ {
+  "q": "Rory says: \"guilt doesn't listen to what everyone says.\" What is \"guilt\"?",
+  "q_ru": "Рори говорит: «guilt doesn't listen to what everyone says». Что такое «guilt»?",
+  "options": [
+   "A strong fear of the sea",
+   "Anger at other people",
+   "A bad feeling that you did something wrong",
+   "A feeling of being very tired"
+  ],
+  "options_ru": [
+   "Сильный страх перед морем",
+   "Злость на других людей",
+   "Тяжёлое чувство, что ты сделал что-то плохое",
+   "Чувство сильной усталости"
+  ],
+  "answer": 2,
+  "explain_ru": "Guilt — чувство вины. Все говорят Рори, что он не виноват, но он всё равно винит себя: «Abel died because of me»."
+ },
+ {
+  "q": "Who wrote the letters marked \"For Fenna\"?",
+  "q_ru": "Кто написал письма с надписью «For Fenna»?",
+  "options": [
+   "Her mother, from the city",
+   "Abel Crane, who was her father",
+   "Rory, who wanted her to stay",
+   "A sailor who knew her family"
+  ],
+  "options_ru": [
+   "Её мать, из города",
+   "Абел Крейн, который был её отцом",
+   "Рори, который хотел, чтобы она осталась",
+   "Моряк, который знал её семью"
+  ],
+  "answer": 1,
+  "explain_ru": "Письма написаны рукой старика: мать увезла Фенну в город, а отец писал ей каждый год и держал свет, «so that if you ever come back, you will find your way home»."
+ },
+ {
+  "q": "What did Fenna do after her trip to Gullhaven?",
+  "q_ru": "Что сделала Фенна после поездки в Галлхейвен?",
+  "options": [
+   "She wrote in her report that ghosts are real",
+   "She returned to her job in the city",
+   "She left the Office and became the lighthouse keeper",
+   "She opened a café with Brigid"
+  ],
+  "options_ru": [
+   "Написала в отчёте, что призраки существуют",
+   "Вернулась на свою работу в городе",
+   "Ушла из Управления и стала смотрителем маяка",
+   "Открыла кафе вместе с Бриджит"
+  ],
+  "answer": 2,
+  "explain_ru": "В отчёте она написала «Electrical fault» и подала заявление об уходе. Маяк стал музеем, а новым смотрителем стала она — теперь живёт в белом домике."
+ }
+]

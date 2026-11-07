@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What problem did Hazel have at the start of the story?",
+  "q_ru": "Какая проблема была у Хейзел в начале рассказа?",
+  "options": [
+   "She had to pay three months of rent or leave",
+   "Her grandfather was very ill",
+   "Nobody brought clocks to her shop anymore",
+   "She had broken her best tools"
+  ],
+  "options_ru": [
+   "Ей нужно было заплатить за три месяца аренды или съехать",
+   "Её дедушка тяжело болел",
+   "Ей больше никто не приносил часы",
+   "Она сломала свои лучшие инструменты"
+  ],
+  "answer": 0,
+  "explain_ru": "Хозяин помещения написал, что если она не заплатит «three months of rent by the end of November», ей придётся уйти."
+ },
+ {
+  "q": "What did Declan Farrow ask Hazel to do with the clock?",
+  "q_ru": "Что Деклан Фарроу попросил Хейзел сделать с часами?",
+  "options": [
+   "Repair it and paint it again",
+   "Sell it to a rich collector",
+   "Stop it so that it never works again",
+   "Make it tick more quietly"
+  ],
+  "options_ru": [
+   "Починить и перекрасить их",
+   "Продать их богатому коллекционеру",
+   "Остановить их, чтобы они больше не работали",
+   "Сделать так, чтобы они тикали тише"
+  ],
+  "answer": 2,
+  "explain_ru": "Он сказал: «I don't want it repaired. I want it stopped» — и заплатил за это пятьсот фунтов."
+ },
+ {
+  "q": "\"She resides at Larchwood House.\" What does \"resides\" mean here?",
+  "q_ru": "«She resides at Larchwood House». Что здесь значит «resides»?",
+  "options": [
+   "works",
+   "lives",
+   "is visiting",
+   "was born"
+  ],
+  "options_ru": [
+   "работает",
+   "живёт",
+   "гостит",
+   "родилась"
+  ],
+  "answer": 1,
+  "explain_ru": "Reside — проживать. Ларчвуд-Хаус — дом престарелых («the care home by the river»), там живёт тётя Айви."
+ },
+ {
+  "q": "What did the clock really show?",
+  "q_ru": "Что на самом деле показывали эти часы?",
+  "options": [
+   "The time in another country",
+   "The dates of Ivy's doctor visits",
+   "The weather for the next week",
+   "How much of Ivy's life was left"
+  ],
+  "options_ru": [
+   "Время в другой стране",
+   "Даты визитов Айви к врачу",
+   "Погоду на неделю вперёд",
+   "Сколько ещё осталось жить Айви"
+  ],
+  "answer": 3,
+  "explain_ru": "«It showed the time of a life — Ivy's life». Картинка поздней осени значила, что жизнь Айви подходит к концу; часы должны остановиться сами, когда придёт её время."
+ },
+ {
+  "q": "Why did Hazel decide to help Ivy and refuse Declan's money?",
+  "q_ru": "Почему Хейзел решила помочь Айви и отказалась от денег Деклана?",
+  "options": [
+   "Ivy had helped her when she was a lost child",
+   "Ivy promised to pay her more than Declan",
+   "Hazel's grandfather had built the clock",
+   "Hazel was afraid of the police"
+  ],
+  "options_ru": [
+   "Айви помогла ей, когда она потерялась в детстве",
+   "Айви пообещала заплатить больше Деклана",
+   "Эти часы сделал дедушка Хейзел",
+   "Хейзел боялась полиции"
+  ],
+  "answer": 0,
+  "explain_ru": "В воспоминаниях часов Хейзел увидела себя на вокзале Carrow: добрая женщина, которая три часа была с ней, — это Айви. Айви же честно сказала: «I can't pay you what he can»."
+ },
+ {
+  "q": "What did Declan receive in the end?",
+  "q_ru": "Что в итоге получил Деклан?",
+  "options": [
+   "Ivy's house and all her money",
+   "The real clock that kept honest time",
+   "The blue case with a dead kitchen-clock mechanism",
+   "Nothing at all, not even a letter"
+  ],
+  "options_ru": [
+   "Дом Айви и все её деньги",
+   "Настоящие часы, которые шли честно",
+   "Синий корпус с мёртвым механизмом от кухонных часов",
+   "Совсем ничего, даже письма"
+  ],
+  "answer": 2,
+  "explain_ru": "Хейзел подменила механизм. По завещанию Деклану достались часы, «which he has already paid for», — синий корпус с механизмом от сломанных кухонных часов. Дом отошёл детской больнице."
+ }
+]

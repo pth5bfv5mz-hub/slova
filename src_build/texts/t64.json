@@ -1,0 +1,1359 @@
+{
+ "id": 64,
+ "level": "B1",
+ "cat": "cons",
+ "title_en": "Who Killed Kennedy? Sixty Years of Questions",
+ "title_ru": "Кто убил Кеннеди? Шестьдесят лет вопросов",
+ "genre": "Конспирология: миф",
+ "summary_ru": "«Волшебная пуля», второй стрелок на травянистом холме и звукозапись, из-за которой Конгресс заговорил о «вероятном заговоре», — что на самом деле показывают доказательства и рассекреченные документы об убийстве Кеннеди?",
+ "paragraphs": [
+  {
+   "en": "It was a warm, sunny Friday in Dallas, Texas. At about 12:30 on 22 November 1963, the open car carrying President John F. Kennedy turned slowly from Houston Street onto Elm Street. Crowds were waving at the young, handsome President. The First Lady, Jacqueline Kennedy, sat next to her husband, wearing a pink suit. In front of them sat the Governor of Texas, John Connally, and his wife, Nellie. Seconds later, shots rang out across Dealey Plaza. The President was hit in the neck and then in the head. He was rushed away to Parkland Hospital, where he was declared dead about half an hour later.",
+   "ru": "Была тёплая солнечная пятница в Далласе, штат Техас. Примерно в 12:30 22 ноября 1963 года открытый автомобиль, в котором ехал президент Джон Ф. Кеннеди, медленно повернул с Хьюстон-стрит на Элм-стрит. Толпы людей махали молодому красивому президенту. Первая леди, Жаклин Кеннеди, в розовом костюме, сидела рядом с мужем. Перед ними сидели губернатор Техаса Джон Коннелли и его жена Нелли. Через несколько секунд над площадью Дили прогремели выстрелы. Президент был ранен в шею, а затем в голову. Его срочно увезли в больницу Паркленд, где примерно через полчаса объявили о его смерти.",
+   "s": [
+    [
+     "It was a warm, sunny Friday in Dallas, Texas.",
+     "Была тёплая солнечная пятница в Далласе, штат Техас."
+    ],
+    [
+     "At about 12:30 on 22 November 1963, the open car carrying President John F. Kennedy turned slowly from Houston Street onto Elm Street.",
+     "Примерно в 12:30 22 ноября 1963 года открытый автомобиль, в котором ехал президент Джон Ф. Кеннеди, медленно повернул с Хьюстон-стрит на Элм-стрит."
+    ],
+    [
+     "Crowds were waving at the young, handsome President.",
+     "Толпы людей махали молодому красивому президенту."
+    ],
+    [
+     "The First Lady, Jacqueline Kennedy, sat next to her husband, wearing a pink suit.",
+     "Первая леди, Жаклин Кеннеди, в розовом костюме, сидела рядом с мужем."
+    ],
+    [
+     "In front of them sat the Governor of Texas, John Connally, and his wife, Nellie.",
+     "Перед ними сидели губернатор Техаса Джон Коннелли и его жена Нелли."
+    ],
+    [
+     "Seconds later, shots rang out across Dealey Plaza.",
+     "Через несколько секунд над площадью Дили прогремели выстрелы."
+    ],
+    [
+     "The President was hit in the neck and then in the head.",
+     "Президент был ранен в шею, а затем в голову."
+    ],
+    [
+     "He was rushed away to Parkland Hospital, where he was declared dead about half an hour later.",
+     "Его срочно увезли в больницу Паркленд, где примерно через полчаса объявили о его смерти."
+    ]
+   ]
+  },
+  {
+   "en": "Within hours, the police arrested a 24-year-old man named Lee Harvey Oswald. He worked at the Texas School Book Depository, a building which looked over the street, and a rifle was found on its sixth floor. Oswald was also accused of killing a Dallas police officer, J. D. Tippit, soon after the President was shot. He denied everything. In front of reporters, he famously said, \"I'm just a patsy\", using an American word for a person who is blamed for a crime that other people committed.",
+   "ru": "В течение нескольких часов полиция арестовала 24-летнего мужчину по имени Ли Харви Освальд. Он работал в Техасском школьном книжном складе — здании, которое выходило окнами на улицу, и на его шестом этаже была найдена винтовка. Освальда также обвинили в убийстве далласского полицейского Дж. Д. Типпита вскоре после того, как застрелили президента. Он всё отрицал. Перед репортёрами он произнёс знаменитые слова: «Я просто козёл отпущения», использовав американское слово \"patsy\" для человека, которого обвиняют в преступлении, совершённом другими.",
+   "s": [
+    [
+     "Within hours, the police arrested a 24-year-old man named Lee Harvey Oswald.",
+     "В течение нескольких часов полиция арестовала 24-летнего мужчину по имени Ли Харви Освальд."
+    ],
+    [
+     "He worked at the Texas School Book Depository, a building which looked over the street, and a rifle was found on its sixth floor.",
+     "Он работал в Техасском школьном книжном складе — здании, которое выходило окнами на улицу, и на его шестом этаже была найдена винтовка."
+    ],
+    [
+     "Oswald was also accused of killing a Dallas police officer, J. D. Tippit, soon after the President was shot.",
+     "Освальда также обвинили в убийстве далласского полицейского Дж. Д. Типпита вскоре после того, как застрелили президента."
+    ],
+    [
+     "He denied everything.",
+     "Он всё отрицал."
+    ],
+    [
+     "In front of reporters, he famously said, \"I'm just a patsy\", using an American word for a person who is blamed for a crime that other people committed.",
+     "Перед репортёрами он произнёс знаменитые слова: «Я просто козёл отпущения», использовав американское слово \"patsy\" для человека, которого обвиняют в преступлении, совершённом другими."
+    ]
+   ]
+  },
+  {
+   "en": "Two days later, the story took an even stranger turn. On Sunday morning, as Oswald was being moved through the basement of the Dallas police headquarters, a local nightclub owner named Jack Ruby stepped out of the crowd and shot him. Millions of Americans watched it happen on live television. He never had a trial, and the questions that a trial might have answered were never asked in court.",
+   "ru": "Через два дня история приняла ещё более странный оборот. В воскресенье утром, когда Освальда переводили через подвал управления полиции Далласа, владелец местного ночного клуба по имени Джек Руби вышел из толпы и выстрелил в него. Миллионы американцев видели это в прямом эфире. Суда над ним так и не было, и вопросы, на которые мог бы ответить суд, так и не прозвучали в зале суда.",
+   "s": [
+    [
+     "Two days later, the story took an even stranger turn.",
+     "Через два дня история приняла ещё более странный оборот."
+    ],
+    [
+     "On Sunday morning, as Oswald was being moved through the basement of the Dallas police headquarters, a local nightclub owner named Jack Ruby stepped out of the crowd and shot him.",
+     "В воскресенье утром, когда Освальда переводили через подвал управления полиции Далласа, владелец местного ночного клуба по имени Джек Руби вышел из толпы и выстрелил в него."
+    ],
+    [
+     "Millions of Americans watched it happen on live television.",
+     "Миллионы американцев видели это в прямом эфире."
+    ],
+    [
+     "He never had a trial, and the questions that a trial might have answered were never asked in court.",
+     "Суда над ним так и не было, и вопросы, на которые мог бы ответить суд, так и не прозвучали в зале суда."
+    ]
+   ]
+  },
+  {
+   "en": "A week after the assassination, the new President, Lyndon B. Johnson, created a commission to find out the truth. It was led by Earl Warren, the Chief Justice of the United States, and it became known as the Warren Commission. Johnson wanted a quick and clear answer. He was worried that wild rumours about a Soviet or Cuban plot could make the Cold War even more dangerous.",
+   "ru": "Через неделю после убийства новый президент, Линдон Б. Джонсон, создал комиссию, чтобы установить истину. Её возглавил Эрл Уоррен, председатель Верховного суда США, и она стала известна как комиссия Уоррена. Джонсон хотел быстрого и ясного ответа. Он опасался, что безумные слухи о советском или кубинском заговоре могут сделать холодную войну ещё опаснее.",
+   "s": [
+    [
+     "A week after the assassination, the new President, Lyndon B. Johnson, created a commission to find out the truth.",
+     "Через неделю после убийства новый президент, Линдон Б. Джонсон, создал комиссию, чтобы установить истину."
+    ],
+    [
+     "It was led by Earl Warren, the Chief Justice of the United States, and it became known as the Warren Commission.",
+     "Её возглавил Эрл Уоррен, председатель Верховного суда США, и она стала известна как комиссия Уоррена."
+    ],
+    [
+     "Johnson wanted a quick and clear answer.",
+     "Джонсон хотел быстрого и ясного ответа."
+    ],
+    [
+     "He was worried that wild rumours about a Soviet or Cuban plot could make the Cold War even more dangerous.",
+     "Он опасался, что безумные слухи о советском или кубинском заговоре могут сделать холодную войну ещё опаснее."
+    ]
+   ]
+  },
+  {
+   "en": "In September 1964, the commission delivered its report, which was more than 800 pages long. Its main conclusions were clear. Oswald had fired three shots from a sixth-floor window of the Book Depository, using an Italian rifle that he had ordered by mail under a false name. He had acted alone. Jack Ruby had also acted alone, and the commission found no evidence that either man had been part of a conspiracy.",
+   "ru": "В сентябре 1964 года комиссия представила свой доклад объёмом более 800 страниц. Его главные выводы были ясны. Освальд сделал три выстрела из окна шестого этажа книжного склада из итальянской винтовки, которую он заказал по почте под вымышленным именем. Он действовал в одиночку. Джек Руби тоже действовал в одиночку, и комиссия не нашла доказательств того, что кто-либо из них участвовал в заговоре.",
+   "s": [
+    [
+     "In September 1964, the commission delivered its report, which was more than 800 pages long.",
+     "В сентябре 1964 года комиссия представила свой доклад объёмом более 800 страниц."
+    ],
+    [
+     "Its main conclusions were clear.",
+     "Его главные выводы были ясны."
+    ],
+    [
+     "Oswald had fired three shots from a sixth-floor window of the Book Depository, using an Italian rifle that he had ordered by mail under a false name.",
+     "Освальд сделал три выстрела из окна шестого этажа книжного склада из итальянской винтовки, которую он заказал по почте под вымышленным именем."
+    ],
+    [
+     "He had acted alone.",
+     "Он действовал в одиночку."
+    ],
+    [
+     "Jack Ruby had also acted alone, and the commission found no evidence that either man had been part of a conspiracy.",
+     "Джек Руби тоже действовал в одиночку, и комиссия не нашла доказательств того, что кто-либо из них участвовал в заговоре."
+    ]
+   ]
+  },
+  {
+   "en": "The background of the accused man made many people suspicious. Oswald was a former US Marine who had moved to the Soviet Union in 1959. He lived and worked in Minsk, married a young Soviet woman, Marina, and returned to the United States with her in 1962. In the summer of 1963, in New Orleans, he handed out leaflets supporting Fidel Castro's Cuba and got into a street fight with an anti-Castro Cuban activist. A few weeks before the assassination, he visited the Cuban and Soviet embassies in Mexico City.",
+   "ru": "Прошлое обвиняемого вызывало у многих подозрения. Освальд был бывшим морским пехотинцем США, который в 1959 году переехал в Советский Союз. Он жил и работал в Минске, женился на молодой советской девушке Марине и в 1962 году вернулся вместе с ней в Соединённые Штаты. Летом 1963 года в Новом Орлеане он раздавал листовки в поддержку Кубы Фиделя Кастро и ввязался в уличную драку с кубинским активистом, противником Кастро. За несколько недель до убийства он посетил кубинское и советское посольства в Мехико.",
+   "s": [
+    [
+     "The background of the accused man made many people suspicious.",
+     "Прошлое обвиняемого вызывало у многих подозрения."
+    ],
+    [
+     "Oswald was a former US Marine who had moved to the Soviet Union in 1959.",
+     "Освальд был бывшим морским пехотинцем США, который в 1959 году переехал в Советский Союз."
+    ],
+    [
+     "He lived and worked in Minsk, married a young Soviet woman, Marina, and returned to the United States with her in 1962.",
+     "Он жил и работал в Минске, женился на молодой советской девушке Марине и в 1962 году вернулся вместе с ней в Соединённые Штаты."
+    ],
+    [
+     "In the summer of 1963, in New Orleans, he handed out leaflets supporting Fidel Castro's Cuba and got into a street fight with an anti-Castro Cuban activist.",
+     "Летом 1963 года в Новом Орлеане он раздавал листовки в поддержку Кубы Фиделя Кастро и ввязался в уличную драку с кубинским активистом, противником Кастро."
+    ],
+    [
+     "A few weeks before the assassination, he visited the Cuban and Soviet embassies in Mexico City.",
+     "За несколько недель до убийства он посетил кубинское и советское посольства в Мехико."
+    ]
+   ]
+  },
+  {
+   "en": "The most famous argument against the Warren Report concerns a single bullet. The commission's investigators faced a problem of timing. The Zapruder film, a 26-second home movie made by a local businessman, Abraham Zapruder, showed that Kennedy and Connally were hit very close together. Tests suggested that Oswald's old rifle could not be fired twice in such a short time. So a young lawyer on the commission's staff, Arlen Specter, proposed an answer: one bullet had passed through both men.",
+   "ru": "Самый известный довод против доклада Уоррена касается одной-единственной пули. Следователи комиссии столкнулись с проблемой времени. Фильм Запрудера — 26-секундная любительская съёмка местного бизнесмена Абрахама Запрудера — показал, что Кеннеди и Коннелли были ранены почти одновременно. Испытания показали, что из старой винтовки Освальда нельзя было выстрелить дважды за такое короткое время. Поэтому молодой юрист из штата комиссии, Арлен Спектер, предложил ответ: одна пуля прошла через обоих мужчин.",
+   "s": [
+    [
+     "The most famous argument against the Warren Report concerns a single bullet.",
+     "Самый известный довод против доклада Уоррена касается одной-единственной пули."
+    ],
+    [
+     "The commission's investigators faced a problem of timing.",
+     "Следователи комиссии столкнулись с проблемой времени."
+    ],
+    [
+     "The Zapruder film, a 26-second home movie made by a local businessman, Abraham Zapruder, showed that Kennedy and Connally were hit very close together.",
+     "Фильм Запрудера — 26-секундная любительская съёмка местного бизнесмена Абрахама Запрудера — показал, что Кеннеди и Коннелли были ранены почти одновременно."
+    ],
+    [
+     "Tests suggested that Oswald's old rifle could not be fired twice in such a short time.",
+     "Испытания показали, что из старой винтовки Освальда нельзя было выстрелить дважды за такое короткое время."
+    ],
+    [
+     "So a young lawyer on the commission's staff, Arlen Specter, proposed an answer: one bullet had passed through both men.",
+     "Поэтому молодой юрист из штата комиссии, Арлен Спектер, предложил ответ: одна пуля прошла через обоих мужчин."
+    ]
+   ]
+  },
+  {
+   "en": "According to this \"single-bullet theory\", the bullet entered Kennedy's upper back and came out through his throat. Then it hit Connally, going through his chest and his right wrist and finally into his left thigh. The bullet, known as Commission Exhibit 399, was later found on a stretcher at Parkland Hospital, and it was not badly damaged. Critics found this hard to believe. They called it the \"magic bullet\", because it seemed to have changed direction in the air and caused seven wounds in two men while remaining almost whole.",
+   "ru": "Согласно этой «теории одной пули», пуля вошла Кеннеди в верхнюю часть спины и вышла через горло. Затем она попала в Коннелли, пройдя через его грудь и правое запястье и в конце концов войдя в левое бедро. Эту пулю, известную как вещественное доказательство комиссии № 399, позже нашли на носилках в больнице Паркленд, и она была не сильно повреждена. Критикам в это было трудно поверить. Они назвали её «волшебной пулей», потому что казалось, будто она меняла направление в воздухе и нанесла семь ран двум мужчинам, оставшись почти целой.",
+   "s": [
+    [
+     "According to this \"single-bullet theory\", the bullet entered Kennedy's upper back and came out through his throat.",
+     "Согласно этой «теории одной пули», пуля вошла Кеннеди в верхнюю часть спины и вышла через горло."
+    ],
+    [
+     "Then it hit Connally, going through his chest and his right wrist and finally into his left thigh.",
+     "Затем она попала в Коннелли, пройдя через его грудь и правое запястье и в конце концов войдя в левое бедро."
+    ],
+    [
+     "The bullet, known as Commission Exhibit 399, was later found on a stretcher at Parkland Hospital, and it was not badly damaged.",
+     "Эту пулю, известную как вещественное доказательство комиссии № 399, позже нашли на носилках в больнице Паркленд, и она была не сильно повреждена."
+    ],
+    [
+     "Critics found this hard to believe.",
+     "Критикам в это было трудно поверить."
+    ],
+    [
+     "They called it the \"magic bullet\", because it seemed to have changed direction in the air and caused seven wounds in two men while remaining almost whole.",
+     "Они назвали её «волшебной пулей», потому что казалось, будто она меняла направление в воздухе и нанесла семь ран двум мужчинам, оставшись почти целой."
+    ]
+   ]
+  },
+  {
+   "en": "Supporters of the theory reply that the bullet's path looks strange only if you imagine the two men sitting one exactly behind the other. In fact, Connally sat in a lower seat, a little to the left of Kennedy, and he had turned to his right. Later studies using photographs, films and computer models found that a straight line through both men was possible. Supporters also point out that the bullet was not perfect: it was flattened, and small pieces of metal were missing. Many experts today accept the single-bullet theory, but others still find it difficult to believe.",
+   "ru": "Сторонники теории отвечают, что траектория пули кажется странной, только если представить, что двое мужчин сидели точно друг за другом. На самом деле Коннелли сидел на более низком сиденье, немного левее Кеннеди, и он повернулся вправо. Более поздние исследования с использованием фотографий, плёнок и компьютерных моделей показали, что прямая линия через обоих мужчин была возможна. Сторонники также указывают, что пуля не была идеальной: она была сплющена, и в ней не хватало маленьких кусочков металла. Многие эксперты сегодня принимают теорию одной пули, но другим до сих пор трудно в неё поверить.",
+   "s": [
+    [
+     "Supporters of the theory reply that the bullet's path looks strange only if you imagine the two men sitting one exactly behind the other.",
+     "Сторонники теории отвечают, что траектория пули кажется странной, только если представить, что двое мужчин сидели точно друг за другом."
+    ],
+    [
+     "In fact, Connally sat in a lower seat, a little to the left of Kennedy, and he had turned to his right.",
+     "На самом деле Коннелли сидел на более низком сиденье, немного левее Кеннеди, и он повернулся вправо."
+    ],
+    [
+     "Later studies using photographs, films and computer models found that a straight line through both men was possible.",
+     "Более поздние исследования с использованием фотографий, плёнок и компьютерных моделей показали, что прямая линия через обоих мужчин была возможна."
+    ],
+    [
+     "Supporters also point out that the bullet was not perfect: it was flattened, and small pieces of metal were missing.",
+     "Сторонники также указывают, что пуля не была идеальной: она была сплющена, и в ней не хватало маленьких кусочков металла."
+    ],
+    [
+     "Many experts today accept the single-bullet theory, but others still find it difficult to believe.",
+     "Многие эксперты сегодня принимают теорию одной пули, но другим до сих пор трудно в неё поверить."
+    ]
+   ]
+  },
+  {
+   "en": "Another argument comes from the Zapruder film itself. In its most terrible frames, Kennedy's head moves sharply backwards and to the left. To many viewers, this looks like the effect of a shot from the front, from a small hill with trees and a wooden fence known as the \"grassy knoll\". Some witnesses said that they had heard shots from that direction, and some ran towards the fence. However, medical experts who later examined the photographs and X-rays from Kennedy's autopsy concluded that both bullets had hit him from behind. Some scientists explain the backward movement as a sudden reaction of the nerves and muscles, but the debate continues.",
+   "ru": "Другой довод основан на самом фильме Запрудера. В самых страшных его кадрах голова Кеннеди резко дёргается назад и влево. Многим зрителям это кажется результатом выстрела спереди — с небольшого холма с деревьями и деревянным забором, известного как «травянистый холм». Некоторые свидетели говорили, что слышали выстрелы с той стороны, а некоторые побежали к забору. Однако медицинские эксперты, которые позже изучили фотографии и рентгеновские снимки со вскрытия Кеннеди, пришли к выводу, что обе пули попали в него сзади. Некоторые учёные объясняют движение назад внезапной реакцией нервов и мышц, но споры продолжаются.",
+   "s": [
+    [
+     "Another argument comes from the Zapruder film itself.",
+     "Другой довод основан на самом фильме Запрудера."
+    ],
+    [
+     "In its most terrible frames, Kennedy's head moves sharply backwards and to the left.",
+     "В самых страшных его кадрах голова Кеннеди резко дёргается назад и влево."
+    ],
+    [
+     "To many viewers, this looks like the effect of a shot from the front, from a small hill with trees and a wooden fence known as the \"grassy knoll\".",
+     "Многим зрителям это кажется результатом выстрела спереди — с небольшого холма с деревьями и деревянным забором, известного как «травянистый холм»."
+    ],
+    [
+     "Some witnesses said that they had heard shots from that direction, and some ran towards the fence.",
+     "Некоторые свидетели говорили, что слышали выстрелы с той стороны, а некоторые побежали к забору."
+    ],
+    [
+     "However, medical experts who later examined the photographs and X-rays from Kennedy's autopsy concluded that both bullets had hit him from behind.",
+     "Однако медицинские эксперты, которые позже изучили фотографии и рентгеновские снимки со вскрытия Кеннеди, пришли к выводу, что обе пули попали в него сзади."
+    ],
+    [
+     "Some scientists explain the backward movement as a sudden reaction of the nerves and muscles, but the debate continues.",
+     "Некоторые учёные объясняют движение назад внезапной реакцией нервов и мышц, но споры продолжаются."
+    ]
+   ]
+  },
+  {
+   "en": "Even so, doubts grew quickly. In 1967, Jim Garrison, the District Attorney of New Orleans, announced that he had uncovered a plot. He charged a businessman, Clay Shaw, with conspiracy to kill the President. When the case came to trial in 1969, the jury found Shaw not guilty in less than an hour. Garrison's case collapsed, but the idea of a hidden plot survived.",
+   "ru": "И всё же сомнения быстро росли. В 1967 году Джим Гаррисон, окружной прокурор Нового Орлеана, объявил, что раскрыл заговор. Он обвинил бизнесмена Клэя Шоу в заговоре с целью убийства президента. Когда в 1969 году дело дошло до суда, присяжные меньше чем за час признали Шоу невиновным. Обвинение Гаррисона рухнуло, но идея тайного заговора выжила.",
+   "s": [
+    [
+     "Even so, doubts grew quickly.",
+     "И всё же сомнения быстро росли."
+    ],
+    [
+     "In 1967, Jim Garrison, the District Attorney of New Orleans, announced that he had uncovered a plot.",
+     "В 1967 году Джим Гаррисон, окружной прокурор Нового Орлеана, объявил, что раскрыл заговор."
+    ],
+    [
+     "He charged a businessman, Clay Shaw, with conspiracy to kill the President.",
+     "Он обвинил бизнесмена Клэя Шоу в заговоре с целью убийства президента."
+    ],
+    [
+     "When the case came to trial in 1969, the jury found Shaw not guilty in less than an hour.",
+     "Когда в 1969 году дело дошло до суда, присяжные меньше чем за час признали Шоу невиновным."
+    ],
+    [
+     "Garrison's case collapsed, but the idea of a hidden plot survived.",
+     "Обвинение Гаррисона рухнуло, но идея тайного заговора выжила."
+    ]
+   ]
+  },
+  {
+   "en": "In the 1970s, the public learned things that made the doubts stronger. In 1975, the Zapruder film was shown on national television for the first time, and millions of viewers saw the head shot with their own eyes. In the same period, the Senate's Church Committee revealed that the CIA had secretly tried to kill Fidel Castro, and that both the CIA and the FBI had not told the Warren Commission everything they knew. If the agencies had hidden these facts, people asked, what else might they be hiding?",
+   "ru": "В 1970-е годы общество узнало вещи, которые усилили сомнения. В 1975 году фильм Запрудера впервые показали по общенациональному телевидению, и миллионы зрителей своими глазами увидели выстрел в голову. В тот же период сенатский комитет Чёрча сообщил, что ЦРУ тайно пыталось убить Фиделя Кастро и что и ЦРУ, и ФБР рассказали комиссии Уоррена не всё, что знали. Если ведомства скрыли эти факты, спрашивали люди, что ещё они могут скрывать?",
+   "s": [
+    [
+     "In the 1970s, the public learned things that made the doubts stronger.",
+     "В 1970-е годы общество узнало вещи, которые усилили сомнения."
+    ],
+    [
+     "In 1975, the Zapruder film was shown on national television for the first time, and millions of viewers saw the head shot with their own eyes.",
+     "В 1975 году фильм Запрудера впервые показали по общенациональному телевидению, и миллионы зрителей своими глазами увидели выстрел в голову."
+    ],
+    [
+     "In the same period, the Senate's Church Committee revealed that the CIA had secretly tried to kill Fidel Castro, and that both the CIA and the FBI had not told the Warren Commission everything they knew.",
+     "В тот же период сенатский комитет Чёрча сообщил, что ЦРУ тайно пыталось убить Фиделя Кастро и что и ЦРУ, и ФБР рассказали комиссии Уоррена не всё, что знали."
+    ],
+    [
+     "If the agencies had hidden these facts, people asked, what else might they be hiding?",
+     "Если ведомства скрыли эти факты, спрашивали люди, что ещё они могут скрывать?"
+    ]
+   ]
+  },
+  {
+   "en": "In 1976, the House of Representatives created a new investigation, the House Select Committee on Assassinations. For more than two years, its experts re-examined the medical evidence, the photographs and the bullet fragments. On most points they agreed with the Warren Commission: Oswald had fired the shots that killed the President and wounded the Governor, and the single-bullet theory was correct.",
+   "ru": "В 1976 году Палата представителей начала новое расследование — создала Специальный комитет Палаты представителей по убийствам. Больше двух лет его эксперты заново изучали медицинские данные, фотографии и фрагменты пуль. По большинству пунктов они согласились с комиссией Уоррена: Освальд произвёл выстрелы, которые убили президента и ранили губернатора, а теория одной пули была верной.",
+   "s": [
+    [
+     "In 1976, the House of Representatives created a new investigation, the House Select Committee on Assassinations.",
+     "В 1976 году Палата представителей начала новое расследование — создала Специальный комитет Палаты представителей по убийствам."
+    ],
+    [
+     "For more than two years, its experts re-examined the medical evidence, the photographs and the bullet fragments.",
+     "Больше двух лет его эксперты заново изучали медицинские данные, фотографии и фрагменты пуль."
+    ],
+    [
+     "On most points they agreed with the Warren Commission: Oswald had fired the shots that killed the President and wounded the Governor, and the single-bullet theory was correct.",
+     "По большинству пунктов они согласились с комиссией Уоррена: Освальд произвёл выстрелы, которые убили президента и ранили губернатора, а теория одной пули была верной."
+    ]
+   ]
+  },
+  {
+   "en": "Then, near the end of its work, the committee was given a new piece of evidence. It was a recording from the Dallas police radio system. The microphone on a police motorcycle had become stuck in the \"on\" position, so sounds from it were recorded on a plastic belt called a Dictabelt. Acoustic experts, who are specialists in the science of sound, studied the noises on the recording. They concluded that it contained four shots, not three, and that one of them had come from the grassy knoll.",
+   "ru": "Затем, ближе к концу работы, комитет получил новое доказательство. Это была запись из системы полицейской радиосвязи Далласа. Микрофон на полицейском мотоцикле застрял во включённом положении, поэтому звуки с него записывались на пластиковую ленту под названием «диктабелт». Специалисты по акустике, то есть по науке о звуке, изучили шумы на записи. Они пришли к выводу, что на ней четыре выстрела, а не три, и что один из них был сделан с травянистого холма.",
+   "s": [
+    [
+     "Then, near the end of its work, the committee was given a new piece of evidence.",
+     "Затем, ближе к концу работы, комитет получил новое доказательство."
+    ],
+    [
+     "It was a recording from the Dallas police radio system.",
+     "Это была запись из системы полицейской радиосвязи Далласа."
+    ],
+    [
+     "The microphone on a police motorcycle had become stuck in the \"on\" position, so sounds from it were recorded on a plastic belt called a Dictabelt.",
+     "Микрофон на полицейском мотоцикле застрял во включённом положении, поэтому звуки с него записывались на пластиковую ленту под названием «диктабелт»."
+    ],
+    [
+     "Acoustic experts, who are specialists in the science of sound, studied the noises on the recording.",
+     "Специалисты по акустике, то есть по науке о звуке, изучили шумы на записи."
+    ],
+    [
+     "They concluded that it contained four shots, not three, and that one of them had come from the grassy knoll.",
+     "Они пришли к выводу, что на ней четыре выстрела, а не три, и что один из них был сделан с травянистого холма."
+    ]
+   ]
+  },
+  {
+   "en": "This new evidence changed everything. In its final report, published in 1979, the committee concluded that Kennedy \"was probably assassinated as a result of a conspiracy\". It said that a second gunman had probably fired from the knoll but had missed. The committee could not identify this second gunman or say who else might have been involved. It said that the Soviet and Cuban governments had not been involved, but it could not rule out the possibility that individual members of organised crime or anti-Castro groups had taken part.",
+   "ru": "Это новое доказательство изменило всё. В своём итоговом докладе, опубликованном в 1979 году, комитет заключил, что Кеннеди «вероятно, был убит в результате заговора». В нём говорилось, что второй стрелок, вероятно, стрелял с холма, но промахнулся. Комитет не смог установить личность этого второго стрелка или сказать, кто ещё мог быть причастен. В нём говорилось, что советское и кубинское правительства не были причастны, но комитет не мог исключить возможность того, что в этом участвовали отдельные члены организованной преступности или антикастровских групп.",
+   "s": [
+    [
+     "This new evidence changed everything.",
+     "Это новое доказательство изменило всё."
+    ],
+    [
+     "In its final report, published in 1979, the committee concluded that Kennedy \"was probably assassinated as a result of a conspiracy\".",
+     "В своём итоговом докладе, опубликованном в 1979 году, комитет заключил, что Кеннеди «вероятно, был убит в результате заговора»."
+    ],
+    [
+     "It said that a second gunman had probably fired from the knoll but had missed.",
+     "В нём говорилось, что второй стрелок, вероятно, стрелял с холма, но промахнулся."
+    ],
+    [
+     "The committee could not identify this second gunman or say who else might have been involved.",
+     "Комитет не смог установить личность этого второго стрелка или сказать, кто ещё мог быть причастен."
+    ],
+    [
+     "It said that the Soviet and Cuban governments had not been involved, but it could not rule out the possibility that individual members of organised crime or anti-Castro groups had taken part.",
+     "В нём говорилось, что советское и кубинское правительства не были причастны, но комитет не мог исключить возможность того, что в этом участвовали отдельные члены организованной преступности или антикастровских групп."
+    ]
+   ]
+  },
+  {
+   "en": "The acoustic evidence soon came under attack. A rock drummer from Ohio named Steve Barber, listened carefully to the recording and noticed quiet words from another police radio channel in the background at the moment when the \"shots\" were supposed to happen. In 1982, a panel of the National Academy of Sciences studied the recording and concluded that these sounds had been recorded about a minute after the shooting, when the President's car was already on its way to the hospital. In other words, the noises were probably not gunshots at all.",
+   "ru": "Акустические доказательства вскоре подверглись критике. Рок-барабанщик из Огайо по имени Стив Барбер, внимательно прослушал запись и заметил тихие слова с другого полицейского радиоканала на заднем плане как раз в тот момент, когда должны были звучать «выстрелы». В 1982 году группа экспертов Национальной академии наук изучила запись и пришла к выводу, что эти звуки были записаны примерно через минуту после стрельбы, когда машина президента уже ехала в больницу. Иными словами, эти шумы, скорее всего, вообще не были выстрелами.",
+   "s": [
+    [
+     "The acoustic evidence soon came under attack.",
+     "Акустические доказательства вскоре подверглись критике."
+    ],
+    [
+     "A rock drummer from Ohio named Steve Barber, listened carefully to the recording and noticed quiet words from another police radio channel in the background at the moment when the \"shots\" were supposed to happen.",
+     "Рок-барабанщик из Огайо по имени Стив Барбер, внимательно прослушал запись и заметил тихие слова с другого полицейского радиоканала на заднем плане как раз в тот момент, когда должны были звучать «выстрелы»."
+    ],
+    [
+     "In 1982, a panel of the National Academy of Sciences studied the recording and concluded that these sounds had been recorded about a minute after the shooting, when the President's car was already on its way to the hospital.",
+     "В 1982 году группа экспертов Национальной академии наук изучила запись и пришла к выводу, что эти звуки были записаны примерно через минуту после стрельбы, когда машина президента уже ехала в больницу."
+    ],
+    [
+     "In other words, the noises were probably not gunshots at all.",
+     "Иными словами, эти шумы, скорее всего, вообще не были выстрелами."
+    ]
+   ]
+  },
+  {
+   "en": "Since then, a few scientists have defended the original analysis, while others have published new studies supporting the National Academy panel. In 1988, the US Department of Justice concluded that there was no persuasive evidence of a conspiracy. Today, most experts believe that the \"probable conspiracy\" conclusion rested on evidence that is no longer valid.",
+   "ru": "С тех пор несколько учёных защищали первоначальный анализ, а другие публиковали новые исследования в поддержку группы Национальной академии. В 1988 году Министерство юстиции США пришло к выводу, что убедительных доказательств заговора нет. Сегодня большинство экспертов считают, что вывод о «вероятном заговоре» опирался на доказательства, которые больше нельзя считать действительными.",
+   "s": [
+    [
+     "Since then, a few scientists have defended the original analysis, while others have published new studies supporting the National Academy panel.",
+     "С тех пор несколько учёных защищали первоначальный анализ, а другие публиковали новые исследования в поддержку группы Национальной академии."
+    ],
+    [
+     "In 1988, the US Department of Justice concluded that there was no persuasive evidence of a conspiracy.",
+     "В 1988 году Министерство юстиции США пришло к выводу, что убедительных доказательств заговора нет."
+    ],
+    [
+     "Today, most experts believe that the \"probable conspiracy\" conclusion rested on evidence that is no longer valid.",
+     "Сегодня большинство экспертов считают, что вывод о «вероятном заговоре» опирался на доказательства, которые больше нельзя считать действительными."
+    ]
+   ]
+  },
+  {
+   "en": "But the public did not lose interest. In 1991, Oliver Stone's film JFK, which presented Jim Garrison as a hero and suggested a huge plot inside the government, became a hit. At the end, the film told viewers that many government files about the case were still secret. The anger that followed helped to persuade Congress to pass the President John F. Kennedy Assassination Records Collection Act in 1992. The law ordered the government to collect all records about the assassination, send them to the National Archives, and make them public by 2017, unless the President decided that some had to stay secret.",
+   "ru": "Но общество не потеряло интереса. В 1991 году фильм Оливера Стоуна «Джон Ф. Кеннеди: Выстрелы в Далласе», в котором Джим Гаррисон был показан героем и намекалось на огромный заговор внутри правительства, стал хитом. В конце фильм сообщал зрителям, что многие правительственные документы по этому делу всё ещё секретны. Возмущение, которое за этим последовало, помогло убедить Конгресс принять в 1992 году Закон о сборе документов об убийстве президента Джона Ф. Кеннеди. Закон обязал правительство собрать все документы об убийстве, передать их в Национальный архив и обнародовать их к 2017 году, если только президент не решит, что часть из них должна остаться секретной.",
+   "s": [
+    [
+     "But the public did not lose interest.",
+     "Но общество не потеряло интереса."
+    ],
+    [
+     "In 1991, Oliver Stone's film JFK, which presented Jim Garrison as a hero and suggested a huge plot inside the government, became a hit.",
+     "В 1991 году фильм Оливера Стоуна «Джон Ф. Кеннеди: Выстрелы в Далласе», в котором Джим Гаррисон был показан героем и намекалось на огромный заговор внутри правительства, стал хитом."
+    ],
+    [
+     "At the end, the film told viewers that many government files about the case were still secret.",
+     "В конце фильм сообщал зрителям, что многие правительственные документы по этому делу всё ещё секретны."
+    ],
+    [
+     "The anger that followed helped to persuade Congress to pass the President John F. Kennedy Assassination Records Collection Act in 1992.",
+     "Возмущение, которое за этим последовало, помогло убедить Конгресс принять в 1992 году Закон о сборе документов об убийстве президента Джона Ф. Кеннеди."
+    ],
+    [
+     "The law ordered the government to collect all records about the assassination, send them to the National Archives, and make them public by 2017, unless the President decided that some had to stay secret.",
+     "Закон обязал правительство собрать все документы об убийстве, передать их в Национальный архив и обнародовать их к 2017 году, если только президент не решит, что часть из них должна остаться секретной."
+    ]
+   ]
+  },
+  {
+   "en": "Over the following years, millions of pages were released. Presidents Donald Trump and Joe Biden released more documents between 2017 and 2023, and in 2025 tens of thousands of further pages were published, many of them without black lines hiding names and details.",
+   "ru": "В последующие годы были опубликованы миллионы страниц. Президенты Дональд Трамп и Джо Байден рассекретили новые документы в 2017–2023 годах, а в 2025 году были опубликованы ещё десятки тысяч страниц, многие из них без чёрных полос, скрывающих имена и подробности.",
+   "s": [
+    [
+     "Over the following years, millions of pages were released.",
+     "В последующие годы были опубликованы миллионы страниц."
+    ],
+    [
+     "Presidents Donald Trump and Joe Biden released more documents between 2017 and 2023, and in 2025 tens of thousands of further pages were published, many of them without black lines hiding names and details.",
+     "Президенты Дональд Трамп и Джо Байден рассекретили новые документы в 2017–2023 годах, а в 2025 году были опубликованы ещё десятки тысяч страниц, многие из них без чёрных полос, скрывающих имена и подробности."
+    ]
+   ]
+  },
+  {
+   "en": "What did the files reveal? They show that the CIA had listened to Oswald's telephone calls to the Soviet embassy in Mexico City, and that it knew more about him before the assassination than it told the public. They also show how the CIA and the FBI tried to reduce the damage to their own reputations. In one well-known example, the CIA officer who worked with the House committee in 1978, George Joannides, had earlier supervised the CIA's contacts with the anti-Castro student group whose member had fought with Oswald in New Orleans. The committee was not told about this.",
+   "ru": "Что же показали эти документы? Они показывают, что ЦРУ прослушивало телефонные звонки Освальда в советское посольство в Мехико и что до убийства оно знало о нём больше, чем рассказало обществу. Они также показывают, как ЦРУ и ФБР пытались уменьшить ущерб для собственной репутации. Один известный пример: сотрудник ЦРУ Джордж Джоаннидес, который в 1978 году работал с комитетом Палаты представителей, раньше курировал связи ЦРУ с антикастровской студенческой группой, член которой подрался с Освальдом в Новом Орлеане. Комитету об этом не сообщили.",
+   "s": [
+    [
+     "What did the files reveal?",
+     "Что же показали эти документы?"
+    ],
+    [
+     "They show that the CIA had listened to Oswald's telephone calls to the Soviet embassy in Mexico City, and that it knew more about him before the assassination than it told the public.",
+     "Они показывают, что ЦРУ прослушивало телефонные звонки Освальда в советское посольство в Мехико и что до убийства оно знало о нём больше, чем рассказало обществу."
+    ],
+    [
+     "They also show how the CIA and the FBI tried to reduce the damage to their own reputations.",
+     "Они также показывают, как ЦРУ и ФБР пытались уменьшить ущерб для собственной репутации."
+    ],
+    [
+     "In one well-known example, the CIA officer who worked with the House committee in 1978, George Joannides, had earlier supervised the CIA's contacts with the anti-Castro student group whose member had fought with Oswald in New Orleans.",
+     "Один известный пример: сотрудник ЦРУ Джордж Джоаннидес, который в 1978 году работал с комитетом Палаты представителей, раньше курировал связи ЦРУ с антикастровской студенческой группой, член которой подрался с Освальдом в Новом Орлеане."
+    ],
+    [
+     "The committee was not told about this.",
+     "Комитету об этом не сообщили."
+    ]
+   ]
+  },
+  {
+   "en": "But hiding embarrassing information is not the same as murder. After decades of releases, no document has shown that the CIA, the Mafia, Cuba, the Soviet Union or anyone else organised the assassination. Many historians who have studied the files say that they add useful details but do not change the basic picture. Supporters of conspiracy theories reply that the most important evidence may have been destroyed long ago, but such a claim is almost impossible to prove or disprove.",
+   "ru": "Но сокрытие неудобной информации — это не то же самое, что убийство. После десятилетий рассекречивания ни один документ не показал, что убийство организовали ЦРУ, мафия, Куба, Советский Союз или кто-либо ещё. Многие историки, изучавшие эти документы, говорят, что они добавляют полезные подробности, но не меняют общей картины. Сторонники теорий заговора отвечают, что самые важные доказательства, возможно, были уничтожены давным-давно, но такое утверждение почти невозможно доказать или опровергнуть.",
+   "s": [
+    [
+     "But hiding embarrassing information is not the same as murder.",
+     "Но сокрытие неудобной информации — это не то же самое, что убийство."
+    ],
+    [
+     "After decades of releases, no document has shown that the CIA, the Mafia, Cuba, the Soviet Union or anyone else organised the assassination.",
+     "После десятилетий рассекречивания ни один документ не показал, что убийство организовали ЦРУ, мафия, Куба, Советский Союз или кто-либо ещё."
+    ],
+    [
+     "Many historians who have studied the files say that they add useful details but do not change the basic picture.",
+     "Многие историки, изучавшие эти документы, говорят, что они добавляют полезные подробности, но не меняют общей картины."
+    ],
+    [
+     "Supporters of conspiracy theories reply that the most important evidence may have been destroyed long ago, but such a claim is almost impossible to prove or disprove.",
+     "Сторонники теорий заговора отвечают, что самые важные доказательства, возможно, были уничтожены давным-давно, но такое утверждение почти невозможно доказать или опровергнуть."
+    ]
+   ]
+  },
+  {
+   "en": "Why do so many people still believe in a plot? For decades, polls have shown that most Americans think Oswald did not act alone. Psychologists suggest one reason: when something huge happens, people expect a huge cause. It feels wrong that a lonely, upset young man with a cheap rifle could change history in a few seconds. A conspiracy can strangely feel more comforting, because it means that someone is in control of the world, even if that someone is evil.",
+   "ru": "Почему так много людей до сих пор верят в заговор? Уже несколько десятилетий опросы показывают, что большинство американцев считают, что Освальд действовал не в одиночку. Психологи называют одну из причин: когда случается что-то огромное, люди ожидают огромной причины. Кажется неправильным, что одинокий, озлобленный молодой человек с дешёвой винтовкой мог за несколько секунд изменить историю. Как ни странно, заговор может казаться более утешительным, потому что он означает, что кто-то управляет миром, даже если этот кто-то — злодей.",
+   "s": [
+    [
+     "Why do so many people still believe in a plot?",
+     "Почему так много людей до сих пор верят в заговор?"
+    ],
+    [
+     "For decades, polls have shown that most Americans think Oswald did not act alone.",
+     "Уже несколько десятилетий опросы показывают, что большинство американцев считают, что Освальд действовал не в одиночку."
+    ],
+    [
+     "Psychologists suggest one reason: when something huge happens, people expect a huge cause.",
+     "Психологи называют одну из причин: когда случается что-то огромное, люди ожидают огромной причины."
+    ],
+    [
+     "It feels wrong that a lonely, upset young man with a cheap rifle could change history in a few seconds.",
+     "Кажется неправильным, что одинокий, озлобленный молодой человек с дешёвой винтовкой мог за несколько секунд изменить историю."
+    ],
+    [
+     "A conspiracy can strangely feel more comforting, because it means that someone is in control of the world, even if that someone is evil.",
+     "Как ни странно, заговор может казаться более утешительным, потому что он означает, что кто-то управляет миром, даже если этот кто-то — злодей."
+    ]
+   ]
+  },
+  {
+   "en": "For some researchers, the case has become a lifelong obsession. They study every frame of the Zapruder film, every shadow in every photograph and every tree in Dealey Plaza. This careful work has sometimes been useful, because amateurs have found real mistakes in the official investigations. But with thousands of witnesses and millions of pages, it is easy to feel overwhelmed, and small strange details can become a distraction from the main evidence.",
+   "ru": "Для некоторых исследователей это дело стало одержимостью на всю жизнь. Они изучают каждый кадр фильма Запрудера, каждую тень на каждой фотографии и каждое дерево на площади Дили. Эта кропотливая работа иногда была полезной, потому что любители находили настоящие ошибки в официальных расследованиях. Но когда есть тысячи свидетелей и миллионы страниц, легко растеряться, а мелкие странные детали могут отвлекать от главных доказательств.",
+   "s": [
+    [
+     "For some researchers, the case has become a lifelong obsession.",
+     "Для некоторых исследователей это дело стало одержимостью на всю жизнь."
+    ],
+    [
+     "They study every frame of the Zapruder film, every shadow in every photograph and every tree in Dealey Plaza.",
+     "Они изучают каждый кадр фильма Запрудера, каждую тень на каждой фотографии и каждое дерево на площади Дили."
+    ],
+    [
+     "This careful work has sometimes been useful, because amateurs have found real mistakes in the official investigations.",
+     "Эта кропотливая работа иногда была полезной, потому что любители находили настоящие ошибки в официальных расследованиях."
+    ],
+    [
+     "But with thousands of witnesses and millions of pages, it is easy to feel overwhelmed, and small strange details can become a distraction from the main evidence.",
+     "Но когда есть тысячи свидетелей и миллионы страниц, легко растеряться, а мелкие странные детали могут отвлекать от главных доказательств."
+    ]
+   ]
+  },
+  {
+   "en": "So what can we say today, more than sixty years later? The documented facts are these: Oswald owned the rifle found in the Book Depository, bullets from that rifle were linked to the shooting, and two major official investigations concluded that he fired the shots that killed the President. The only official finding of a conspiracy rested mainly on acoustic evidence that later studies seriously challenged. Government agencies did hide information, and that secrecy damaged public trust for generations. But secrecy is not proof of a plot, and until real evidence appears, the simplest answer remains the most reasonable one, even if for many people it will never feel like enough.",
+   "ru": "Так что же можно сказать сегодня, более шестидесяти лет спустя? Документально подтверждённые факты таковы: Освальду принадлежала винтовка, найденная в книжном складе, пули из этой винтовки были связаны со стрельбой, а два крупных официальных расследования пришли к выводу, что именно он произвёл выстрелы, убившие президента. Единственный официальный вывод о заговоре опирался в основном на акустические доказательства, которые более поздние исследования серьёзно поставили под сомнение. Государственные ведомства действительно скрывали информацию, и эта секретность на поколения вперёд подорвала доверие общества. Но секретность — не доказательство заговора, и пока не появятся настоящие доказательства, самый простой ответ остаётся самым разумным, даже если многим людям он никогда не будет казаться достаточным.",
+   "s": [
+    [
+     "So what can we say today, more than sixty years later?",
+     "Так что же можно сказать сегодня, более шестидесяти лет спустя?"
+    ],
+    [
+     "The documented facts are these: Oswald owned the rifle found in the Book Depository, bullets from that rifle were linked to the shooting, and two major official investigations concluded that he fired the shots that killed the President.",
+     "Документально подтверждённые факты таковы: Освальду принадлежала винтовка, найденная в книжном складе, пули из этой винтовки были связаны со стрельбой, а два крупных официальных расследования пришли к выводу, что именно он произвёл выстрелы, убившие президента."
+    ],
+    [
+     "The only official finding of a conspiracy rested mainly on acoustic evidence that later studies seriously challenged.",
+     "Единственный официальный вывод о заговоре опирался в основном на акустические доказательства, которые более поздние исследования серьёзно поставили под сомнение."
+    ],
+    [
+     "Government agencies did hide information, and that secrecy damaged public trust for generations.",
+     "Государственные ведомства действительно скрывали информацию, и эта секретность на поколения вперёд подорвала доверие общества."
+    ],
+    [
+     "But secrecy is not proof of a plot, and until real evidence appears, the simplest answer remains the most reasonable one, even if for many people it will never feel like enough.",
+     "Но секретность — не доказательство заговора, и пока не появятся настоящие доказательства, самый простой ответ остаётся самым разумным, даже если многим людям он никогда не будет казаться достаточным."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "примерно, около; о",
+  "abraham": "Абрахам (имя)",
+  "academy": "академия",
+  "accept": "принимают",
+  "according": "(according to) согласно",
+  "accused": "обвиняемый; (was accused of) обвинили в",
+  "acoustic": "акустический",
+  "across": "над, по",
+  "act": "закон; (act alone) действовать в одиночку",
+  "acted": "действовал",
+  "activist": "активист",
+  "add": "добавляют",
+  "after": "после",
+  "against": "против",
+  "agencies": "ведомства, службы",
+  "ago": "(long ago) давно",
+  "agreed": "согласились",
+  "air": "воздух",
+  "all": "все; (at all) вообще",
+  "almost": "почти",
+  "alone": "в одиночку",
+  "already": "уже",
+  "also": "также",
+  "amateurs": "любители",
+  "american": "американский",
+  "americans": "американцы",
+  "an": "(неопр. артикль)",
+  "analysis": "анализ",
+  "and": "и",
+  "anger": "возмущение, гнев",
+  "announced": "объявил",
+  "another": "другой",
+  "answer": "ответ",
+  "answered": "ответил бы",
+  "anti": "анти- (против)",
+  "anyone": "кто-либо",
+  "appears": "появится",
+  "archives": "архив",
+  "are": "(есть), являются",
+  "argument": "довод, аргумент",
+  "arlen": "Арлен (имя)",
+  "arrested": "арестовала",
+  "as": "как; когда; (as a hero) в качестве",
+  "asked": "спрашивали; (were asked) прозвучали",
+  "assassinated": "убит (о политике)",
+  "assassination": "убийство (политическое)",
+  "assassinations": "убийства (политические)",
+  "at": "в, на",
+  "attack": "(came under attack) подверглись критике",
+  "attorney": "прокурор",
+  "autopsy": "вскрытие",
+  "away": "(rushed away) срочно увезли",
+  "b": "Б. (инициал)",
+  "back": "спина",
+  "background": "задний план, фон; прошлое",
+  "backward": "назад (направленный)",
+  "backwards": "назад",
+  "badly": "сильно, серьёзно",
+  "barber": "Барбер (фамилия)",
+  "basement": "подвал",
+  "basic": "основной, общий",
+  "be": "быть",
+  "became": "стал(а)",
+  "because": "потому что",
+  "become": "стать",
+  "been": "был(о)",
+  "before": "до, перед",
+  "behind": "сзади; (one behind the other) друг за другом",
+  "being": "(was being moved) переводили",
+  "believe": "верить, считать",
+  "belt": "лента",
+  "between": "между",
+  "biden": "Байден (фамилия)",
+  "black": "чёрный",
+  "blamed": "обвиняют",
+  "book": "книга; (Book Depository) книжный склад",
+  "both": "оба; (both… and) и… и",
+  "building": "здание",
+  "bullet": "пуля",
+  "bullet's": "пули",
+  "bullets": "пули",
+  "businessman": "бизнесмен",
+  "but": "но",
+  "by": "по; к (сроку); (кем-то)",
+  "called": "назвали; под названием",
+  "calls": "звонки",
+  "came": "(came out) вышла; (came to trial) дошло до суда; (came under) подверглись",
+  "can": "может, можно",
+  "car": "машина, автомобиль",
+  "careful": "тщательный",
+  "carefully": "внимательно",
+  "carrying": "везущий",
+  "case": "дело (судебное)",
+  "castro": "Кастро (фамилия)",
+  "castro's": "Кастро (принадлежащий)",
+  "cause": "причина",
+  "caused": "нанесла, вызвала",
+  "challenged": "поставили под сомнение",
+  "change": "изменить",
+  "changed": "изменило; меняла",
+  "channel": "канал",
+  "charged": "(charged with) обвинил в",
+  "cheap": "дешёвый",
+  "chest": "грудь",
+  "chief": "(Chief Justice) председатель Верховного суда",
+  "church": "Чёрч (фамилия)",
+  "cia": "ЦРУ",
+  "cia's": "ЦРУ (принадлежащий)",
+  "city": "(Mexico City) Мехико",
+  "claim": "утверждение",
+  "clay": "Клэй (имя)",
+  "clear": "ясный",
+  "close": "(close together) почти одновременно, близко",
+  "cold": "холодный",
+  "collapsed": "рухнуло",
+  "collect": "собрать",
+  "collection": "сбор",
+  "come": "(had come from) был сделан с",
+  "comes": "(comes from) основан на, исходит из",
+  "comforting": "утешительный",
+  "commission": "комиссия",
+  "commission's": "комиссии",
+  "committed": "совершили",
+  "committee": "комитет",
+  "computer": "компьютерный",
+  "concerns": "касается",
+  "concluded": "пришли к выводу, заключил",
+  "conclusion": "вывод",
+  "conclusions": "выводы",
+  "congress": "Конгресс",
+  "connally": "Коннелли (фамилия)",
+  "conspiracy": "заговор",
+  "contacts": "связи, контакты",
+  "contained": "содержала",
+  "continues": "продолжается",
+  "control": "(in control of) управляет",
+  "correct": "верный, правильный",
+  "could": "мог(ла); можно было",
+  "court": "суд",
+  "created": "создал",
+  "crime": "преступление; (organised crime) организованная преступность",
+  "critics": "критики",
+  "crowd": "толпа",
+  "crowds": "толпы",
+  "cuba": "Куба",
+  "cuban": "кубинский",
+  "d": "Д. (инициал)",
+  "dallas": "Даллас (город)",
+  "damage": "ущерб",
+  "damaged": "повреждён(а); подорвала",
+  "dangerous": "опасный",
+  "days": "дни",
+  "dead": "мёртвый (declared dead — объявили о смерти)",
+  "dealey": "Дили (Dealey Plaza — площадь Дили)",
+  "debate": "спор",
+  "decades": "десятилетия",
+  "decided": "решит",
+  "declared": "объявили",
+  "defended": "защищали",
+  "delivered": "представила",
+  "denied": "отрицал",
+  "department": "министерство",
+  "depository": "склад, хранилище",
+  "destroyed": "уничтожены",
+  "details": "подробности, детали",
+  "dictabelt": "диктабелт (лента для записи)",
+  "did": "(вспом.); действительно (did hide)",
+  "difficult": "трудный",
+  "direction": "направление; сторона",
+  "disprove": "опровергнуть",
+  "distraction": "отвлечение",
+  "district": "окружной",
+  "do": "(вспом.)",
+  "document": "документ",
+  "documented": "документально подтверждённый",
+  "documents": "документы",
+  "donald": "Дональд (имя)",
+  "doubts": "сомнения",
+  "drummer": "барабанщик",
+  "earl": "Эрл (имя)",
+  "earlier": "раньше",
+  "easy": "легко",
+  "effect": "результат, эффект",
+  "either": "(either man) кто-либо из двух",
+  "elm": "Элм (название улицы)",
+  "else": "ещё",
+  "embarrassing": "неудобный, постыдный",
+  "embassies": "посольства",
+  "embassy": "посольство",
+  "end": "конец",
+  "enough": "достаточно",
+  "entered": "вошла",
+  "even": "даже; ещё (более); (even so) и всё же",
+  "every": "каждый",
+  "everything": "всё",
+  "evidence": "доказательства, улики",
+  "evil": "злой, злодей",
+  "exactly": "точно",
+  "examined": "изучили",
+  "example": "пример",
+  "exhibit": "вещественное доказательство",
+  "expect": "ожидают",
+  "experts": "эксперты",
+  "explain": "объясняют",
+  "eyes": "глаза",
+  "f": "Ф. (инициал)",
+  "faced": "столкнулись",
+  "fact": "(in fact) на самом деле",
+  "facts": "факты",
+  "false": "вымышленный, ложный",
+  "famous": "знаменитый",
+  "famously": "знаменито (произнёс знаменитые слова)",
+  "fbi": "ФБР",
+  "feel": "казаться; (feel overwhelmed) растеряться",
+  "feels": "кажется",
+  "fence": "забор",
+  "few": "(a few) несколько",
+  "fidel": "Фидель (имя)",
+  "fight": "драка",
+  "files": "документы, дела",
+  "film": "фильм",
+  "films": "плёнки, фильмы",
+  "final": "итоговый",
+  "finally": "в конце концов",
+  "find": "(find out) установить; (find it difficult) трудно",
+  "finding": "вывод",
+  "fired": "сделал (выстрелы), выстрелил",
+  "first": "первый; (for the first time) впервые",
+  "flattened": "сплющена",
+  "floor": "этаж",
+  "followed": "последовало",
+  "following": "последующий",
+  "for": "для, на; в течение",
+  "former": "бывший",
+  "fought": "подрался",
+  "found": "нашли, найден; (found not guilty) признали невиновным",
+  "four": "четыре",
+  "fragments": "фрагменты",
+  "frame": "кадр",
+  "frames": "кадры",
+  "friday": "пятница",
+  "from": "с, из, от",
+  "front": "(in front of) перед; (from the front) спереди",
+  "further": "дополнительный, ещё",
+  "garrison": "Гаррисон (фамилия)",
+  "garrison's": "Гаррисона",
+  "generations": "поколения",
+  "george": "Джордж (имя)",
+  "given": "(was given) получил",
+  "going": "проходя",
+  "got": "(got into) ввязался",
+  "government": "правительство",
+  "governments": "правительства",
+  "governor": "губернатор",
+  "grassy": "травянистый",
+  "grew": "росли",
+  "group": "группа",
+  "groups": "группы",
+  "guilty": "виновный (not guilty — невиновный)",
+  "gunman": "стрелок",
+  "gunshots": "выстрелы",
+  "had": "(вспом.); было",
+  "half": "половина (half an hour — полчаса)",
+  "handed": "(handed out) раздавал",
+  "handsome": "красивый",
+  "happen": "происходить, звучать",
+  "happens": "случается",
+  "hard": "трудно",
+  "harvey": "Харви (имя)",
+  "has": "(вспом.)",
+  "have": "(вспом.); (had to) должна",
+  "he": "он",
+  "head": "голова",
+  "headquarters": "управление, штаб",
+  "heard": "слышали",
+  "helped": "помогло",
+  "her": "её, ней",
+  "hero": "герой",
+  "hidden": "тайный, скрытый; скрыли",
+  "hide": "скрывать",
+  "hiding": "скрывая, сокрытие",
+  "hill": "холм",
+  "him": "его, него",
+  "his": "его",
+  "historians": "историки",
+  "history": "история",
+  "hit": "ранен, попала; хит",
+  "home": "(home movie) любительская съёмка",
+  "hospital": "больница",
+  "hour": "час",
+  "hours": "часы",
+  "house": "(House of Representatives) Палата представителей",
+  "houston": "Хьюстон (название улицы)",
+  "how": "как",
+  "however": "однако",
+  "huge": "огромный",
+  "husband": "муж",
+  "i'm": "я (есть)",
+  "idea": "идея",
+  "identify": "установить личность",
+  "if": "если",
+  "imagine": "представить",
+  "important": "важный",
+  "impossible": "невозможный",
+  "in": "в",
+  "individual": "отдельный",
+  "information": "информация",
+  "inside": "внутри",
+  "interest": "интерес",
+  "into": "в; (got into) ввязался в",
+  "investigation": "расследование",
+  "investigations": "расследования",
+  "investigators": "следователи",
+  "involved": "причастный",
+  "is": "есть, является",
+  "it": "он, она, оно, это",
+  "italian": "итальянский",
+  "its": "его, её, свой",
+  "itself": "сам",
+  "j": "Дж. (инициал)",
+  "jack": "Джек (имя)",
+  "jacqueline": "Жаклин (имя)",
+  "jfk": "JFK (Джон Ф. Кеннеди; название фильма)",
+  "jim": "Джим (имя)",
+  "joannides": "Джоаннидес (фамилия)",
+  "joe": "Джо (имя)",
+  "john": "Джон (имя)",
+  "johnson": "Джонсон (фамилия)",
+  "jury": "присяжные",
+  "just": "просто",
+  "justice": "юстиция; (Chief Justice) председатель Верховного суда",
+  "kennedy": "Кеннеди (фамилия)",
+  "kennedy's": "Кеннеди (принадлежащий)",
+  "kill": "убить",
+  "killed": "убили",
+  "killing": "убийство",
+  "knew": "знали",
+  "knoll": "холм, пригорок",
+  "known": "известный",
+  "lady": "(First Lady) первая леди",
+  "later": "позже, спустя; более поздний",
+  "law": "закон",
+  "lawyer": "юрист",
+  "leaflets": "листовки",
+  "learned": "узнало",
+  "led": "возглавил",
+  "lee": "Ли (имя)",
+  "left": "левый; влево",
+  "less": "меньше",
+  "lifelong": "на всю жизнь",
+  "like": "(looks like) похоже на; (feel like) казаться",
+  "line": "линия",
+  "lines": "полосы, линии",
+  "linked": "связаны",
+  "listened": "прослушивало; прослушал",
+  "little": "(a little) немного",
+  "live": "прямой (эфир)",
+  "lived": "жил",
+  "local": "местный",
+  "lonely": "одинокий",
+  "long": "длинный (800 pages long — объёмом); (long ago) давно",
+  "longer": "(no longer) больше не",
+  "looked": "(looked over) выходило на",
+  "looks": "выглядит, кажется",
+  "lose": "терять",
+  "lower": "более низкий",
+  "lyndon": "Линдон (имя)",
+  "made": "сделанный, снятый; вызывало",
+  "mafia": "мафия",
+  "magic": "волшебный",
+  "mail": "почта",
+  "main": "главный",
+  "mainly": "в основном",
+  "major": "крупный",
+  "make": "сделать; обнародовать (make public)",
+  "man": "мужчина, человек",
+  "many": "многие, много",
+  "marina": "Марина (имя)",
+  "marine": "морской пехотинец",
+  "married": "женился",
+  "may": "(may have been) возможно, были",
+  "means": "означает",
+  "medical": "медицинский",
+  "member": "член",
+  "members": "члены",
+  "men": "мужчины",
+  "metal": "металл",
+  "mexico": "(Mexico City) Мехико",
+  "microphone": "микрофон",
+  "might": "мог бы; могут",
+  "millions": "миллионы",
+  "minsk": "Минск",
+  "minute": "минута",
+  "missed": "промахнулся",
+  "missing": "(were missing) не хватало",
+  "mistakes": "ошибки",
+  "models": "модели",
+  "moment": "момент",
+  "more": "больше; более",
+  "morning": "утро",
+  "most": "самый; большинство",
+  "motorcycle": "мотоцикл",
+  "moved": "переехал; (was being moved) переводили",
+  "movement": "движение",
+  "moves": "движется, дёргается",
+  "movie": "фильм, съёмка",
+  "murder": "убийство",
+  "muscles": "мышцы",
+  "name": "имя",
+  "named": "по имени",
+  "names": "имена",
+  "national": "национальный, общенациональный",
+  "near": "(near the end) ближе к концу",
+  "neck": "шея",
+  "nellie": "Нелли (имя)",
+  "nerves": "нервы",
+  "never": "никогда; так и не",
+  "new": "новый; (New Orleans) Новый Орлеан",
+  "next": "(next to) рядом с",
+  "nightclub": "ночной клуб",
+  "no": "никакой, нет",
+  "noises": "шумы",
+  "not": "не",
+  "noticed": "заметил",
+  "november": "ноябрь",
+  "obsession": "одержимость",
+  "of": "(род. падеж); из",
+  "officer": "полицейский; сотрудник",
+  "official": "официальный",
+  "ohio": "Огайо (штат)",
+  "old": "старый; (24-year-old) 24-летний",
+  "oliver": "Оливер (имя)",
+  "on": "на, в; «включено»",
+  "one": "один",
+  "only": "только; единственный",
+  "onto": "на",
+  "open": "открытый",
+  "or": "или",
+  "ordered": "заказал; обязал",
+  "organised": "организовали; организованный",
+  "original": "первоначальный",
+  "orleans": "Орлеан (New Orleans — Новый Орлеан)",
+  "oswald": "Освальд (фамилия)",
+  "oswald's": "Освальда",
+  "other": "другой; (one behind the other) друг за другом",
+  "others": "другие",
+  "out": "(rang out) прогремели; (find out) установить; (handed out) раздавал; (came out) вышла",
+  "over": "(looked over) выходило на; (over the years) в течение",
+  "overwhelmed": "перегруженный, растерянный",
+  "own": "собственный",
+  "owned": "владел",
+  "owner": "владелец",
+  "pages": "страницы",
+  "panel": "группа экспертов",
+  "parkland": "Паркленд (название больницы)",
+  "part": "(part of) участник; (taken part) участвовали",
+  "pass": "принять (закон)",
+  "passed": "прошла",
+  "path": "траектория, путь",
+  "patsy": "козёл отпущения",
+  "people": "люди",
+  "perfect": "идеальный",
+  "period": "период",
+  "person": "человек",
+  "persuade": "убедить",
+  "persuasive": "убедительный",
+  "photograph": "фотография",
+  "photographs": "фотографии",
+  "picture": "картина",
+  "piece": "(piece of evidence) доказательство",
+  "pieces": "кусочки",
+  "pink": "розовый",
+  "plastic": "пластиковый",
+  "plaza": "площадь",
+  "plot": "заговор",
+  "point": "(point out) указывают",
+  "points": "пункты",
+  "police": "полиция, полицейский",
+  "polls": "опросы",
+  "position": "положение",
+  "possibility": "возможность",
+  "possible": "возможный",
+  "presented": "показал, представил",
+  "president": "президент",
+  "president's": "президента",
+  "presidents": "президенты",
+  "probable": "вероятный",
+  "probably": "вероятно, скорее всего",
+  "problem": "проблема",
+  "proof": "доказательство",
+  "proposed": "предложил",
+  "prove": "доказать",
+  "psychologists": "психологи",
+  "public": "общество; публичный (make public — обнародовать)",
+  "published": "опубликован; публиковали",
+  "questions": "вопросы",
+  "quick": "быстрый",
+  "quickly": "быстро",
+  "quiet": "тихий",
+  "radio": "радио",
+  "ran": "побежали",
+  "rang": "(rang out) прогремели",
+  "rays": "(X-rays) рентгеновские снимки",
+  "re": "заново, пере-",
+  "reaction": "реакция",
+  "real": "настоящий",
+  "reason": "причина",
+  "reasonable": "разумный",
+  "recorded": "записаны",
+  "recording": "запись",
+  "records": "документы",
+  "reduce": "уменьшить",
+  "released": "опубликованы, рассекретили",
+  "releases": "публикации, рассекречивание",
+  "remaining": "оставаясь",
+  "remains": "остаётся",
+  "reply": "отвечают",
+  "report": "доклад",
+  "reporters": "репортёры",
+  "representatives": "представители",
+  "reputations": "репутации",
+  "researchers": "исследователи",
+  "rested": "опирался",
+  "result": "(as a result of) в результате",
+  "returned": "вернулся",
+  "reveal": "показать, раскрыть",
+  "revealed": "сообщил, раскрыл",
+  "rifle": "винтовка",
+  "right": "правый; вправо",
+  "rock": "рок (музыка)",
+  "ruby": "Руби (фамилия)",
+  "rule": "(rule out) исключить",
+  "rumours": "слухи",
+  "rushed": "(rushed away) срочно увезли",
+  "s": "(часть имени)",
+  "said": "сказал; говорилось",
+  "same": "тот же самый",
+  "sat": "сидел(а)",
+  "saw": "увидели",
+  "say": "сказать",
+  "school": "школьный",
+  "science": "наука",
+  "sciences": "науки",
+  "scientists": "учёные",
+  "seat": "сиденье",
+  "second": "второй; (26-second) 26-секундный",
+  "seconds": "секунды",
+  "secrecy": "секретность",
+  "secret": "секретный",
+  "secretly": "тайно",
+  "seemed": "казалось",
+  "select": "специальный (комитет)",
+  "senate's": "сенатский",
+  "send": "передать, отправить",
+  "september": "сентябрь",
+  "seriously": "серьёзно",
+  "seven": "семь",
+  "shadow": "тень",
+  "sharply": "резко",
+  "shaw": "Шоу (фамилия)",
+  "shooting": "стрельба",
+  "short": "короткий",
+  "shot": "выстрел; застрелили; выстрелил",
+  "shots": "выстрелы",
+  "show": "показывают",
+  "showed": "показал",
+  "shown": "показан; показали",
+  "simplest": "самый простой",
+  "since": "(since then) с тех пор",
+  "single": "единственный; (single-bullet) одной пули",
+  "sitting": "сидящий",
+  "sixth": "шестой",
+  "sixty": "шестьдесят",
+  "slowly": "медленно",
+  "small": "небольшой, маленький; мелкий",
+  "so": "поэтому; (so many) так много; (even so) и всё же",
+  "some": "некоторые; часть",
+  "someone": "кто-то",
+  "something": "что-то",
+  "sometimes": "иногда",
+  "soon": "вскоре",
+  "sound": "звук",
+  "sounds": "звуки",
+  "soviet": "советский",
+  "specialists": "специалисты",
+  "specter": "Спектер (фамилия)",
+  "staff": "штат, сотрудники",
+  "states": "штаты",
+  "stay": "оставаться",
+  "stepped": "(stepped out) вышел",
+  "steve": "Стив (имя)",
+  "still": "всё ещё, до сих пор",
+  "stone's": "Стоуна",
+  "story": "история",
+  "straight": "прямой",
+  "strange": "странный",
+  "strangely": "как ни странно",
+  "stranger": "более странный",
+  "street": "улица; уличный",
+  "stretcher": "носилки",
+  "stronger": "сильнее",
+  "stuck": "застрял",
+  "student": "студенческий",
+  "studied": "изучили; изучавшие",
+  "studies": "исследования",
+  "study": "изучают",
+  "such": "такой",
+  "sudden": "внезапный",
+  "suggest": "предлагают, называют",
+  "suggested": "показали; намекал",
+  "suit": "костюм",
+  "summer": "лето",
+  "sunday": "воскресенье",
+  "sunny": "солнечный",
+  "supervised": "курировал",
+  "supporters": "сторонники",
+  "supporting": "в поддержку",
+  "supposed": "(were supposed to) должны были",
+  "survived": "выжила",
+  "suspicious": "подозрительный (made suspicious — вызывало подозрения)",
+  "system": "система",
+  "taken": "(taken part) участвовали",
+  "telephone": "телефонный",
+  "television": "телевидение",
+  "tens": "десятки",
+  "terrible": "страшный",
+  "tests": "испытания",
+  "texas": "Техас",
+  "than": "чем",
+  "that": "что; тот; который",
+  "the": "(артикль)",
+  "their": "их, свои",
+  "them": "них, их",
+  "then": "затем; (since then) с тех пор",
+  "theories": "теории",
+  "theory": "теория",
+  "there": "(there was) было",
+  "these": "эти",
+  "they": "они",
+  "thigh": "бедро",
+  "things": "вещи",
+  "think": "думают, считают",
+  "this": "этот, это",
+  "thousands": "тысячи",
+  "three": "три",
+  "throat": "горло",
+  "through": "через",
+  "time": "время; (for the first time) впервые",
+  "timing": "время, расчёт времени",
+  "tippit": "Типпит (фамилия)",
+  "to": "к, в; (инфинитив)",
+  "today": "сегодня",
+  "together": "(close together) почти одновременно",
+  "told": "рассказали, сообщил",
+  "took": "(took a turn) приняла оборот",
+  "towards": "к, в сторону",
+  "tree": "дерево",
+  "trees": "деревья",
+  "trial": "суд",
+  "tried": "пыталось",
+  "trump": "Трамп (фамилия)",
+  "trust": "доверие",
+  "truth": "истина, правда",
+  "turn": "оборот",
+  "turned": "повернул; повернулся",
+  "twice": "дважды",
+  "two": "два",
+  "uncovered": "раскрыл",
+  "under": "под; (came under attack) подверглись",
+  "union": "союз",
+  "united": "соединённый",
+  "unless": "если только не",
+  "until": "пока не",
+  "upper": "верхний",
+  "upset": "расстроенный, озлобленный",
+  "us": "США",
+  "useful": "полезный",
+  "using": "используя; с использованием",
+  "valid": "действительный",
+  "very": "очень",
+  "viewers": "зрители",
+  "visited": "посетил",
+  "wanted": "хотел",
+  "war": "война",
+  "warm": "тёплый",
+  "warren": "Уоррен (фамилия)",
+  "was": "был(а)",
+  "watched": "видели, смотрели",
+  "waving": "махали",
+  "way": "(on its way) по пути",
+  "we": "мы",
+  "wearing": "одетая в",
+  "week": "неделя",
+  "weeks": "недели",
+  "well": "(well-known) известный",
+  "were": "были",
+  "what": "что",
+  "when": "когда",
+  "where": "где",
+  "which": "который",
+  "while": "а, тогда как; (while remaining) оставаясь",
+  "who": "который, кто",
+  "whole": "целый",
+  "whose": "чей, которого",
+  "why": "почему",
+  "wife": "жена",
+  "wild": "безумный, дикий",
+  "will": "(буд. время)",
+  "window": "окно",
+  "with": "с",
+  "within": "в течение",
+  "without": "без",
+  "witnesses": "свидетели",
+  "woman": "девушка, женщина",
+  "wooden": "деревянный",
+  "word": "слово",
+  "words": "слова",
+  "work": "работа",
+  "worked": "работал",
+  "world": "мир",
+  "worried": "обеспокоенный (was worried — опасался)",
+  "wounded": "ранили",
+  "wounds": "раны",
+  "wrist": "запястье",
+  "wrong": "неправильный",
+  "x": "(X-rays) рентген",
+  "year": "год",
+  "years": "годы, лет",
+  "you": "вы (обобщённо)",
+  "young": "молодой",
+  "zapruder": "Запрудер (фамилия)"
+ },
+ "vocab": {
+  "which": 582,
+  "useful": 264,
+  "away": 40,
+  "send": 261,
+  "moved": 152,
+  "moves": 152,
+  "shadow": 61,
+  "distraction": 472,
+  "valid": 560,
+  "possibility": 418,
+  "collapsed": 514,
+  "overwhelmed": 496,
+  "upset": 252,
+  "everything": 215,
+  "obsession": 651,
+  "handsome": 277,
+  "ordered": 269,
+  "background": 546,
+  "tree": 69,
+  "trees": 69,
+  "expect": 328,
+  "reduce": 508,
+  "wearing": 300,
+  "quiet": 75
+ }
+}

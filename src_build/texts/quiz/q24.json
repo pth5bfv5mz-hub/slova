@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did Mrs Price think the envelope was strange?",
+  "q_ru": "Почему миссис Прайс решила, что конверт странный?",
+  "options": [
+   "It had no name or address on it.",
+   "Its stamp showed a king and the date 2025.",
+   "It was badly torn and very dirty.",
+   "It came from Australia without a stamp."
+  ],
+  "options_ru": [
+   "На нём не было ни имени, ни адреса.",
+   "На марке был король и дата 2025.",
+   "Он был сильно порван и очень грязный.",
+   "Он пришёл из Австралии без марки."
+  ],
+  "answer": 1,
+  "explain_ru": "Марка была необычной: «It showed the face of a king, not a queen… a date: 2025»."
+ },
+ {
+  "q": "Sam writes: 'Don't let anybody humiliate you like that.' What does 'humiliate' mean?",
+  "q_ru": "Сэм пишет: «Don't let anybody humiliate you like that». Что значит «humiliate»?",
+  "options": [
+   "To make someone feel ashamed in front of others.",
+   "To help someone in a difficult situation.",
+   "To forget someone for many years.",
+   "To pay someone a lot of money."
+  ],
+  "options_ru": [
+   "Заставить кого-то почувствовать стыд перед другими.",
+   "Помочь кому-то в трудной ситуации.",
+   "Забыть кого-то на много лет.",
+   "Заплатить кому-то много денег."
+  ],
+  "answer": 0,
+  "explain_ru": "По письму, все считали Дэниела поджигателем: «People judged you for the rest of your life». «Humiliate» — унизить, опозорить."
+ },
+ {
+  "q": "Why did Daniel suspect Martin Cole?",
+  "q_ru": "Почему Дэниел заподозрил Мартина Коула?",
+  "options": [
+   "Martin had started a fire at the school before.",
+   "Martin owed money to the pharmacy.",
+   "Martin was jealous because he wanted to marry Anna.",
+   "Martin had sent him the strange letter."
+  ],
+  "options_ru": [
+   "Мартин уже однажды устроил пожар в школе.",
+   "Мартин был должен деньги аптеке.",
+   "Мартин ревновал, потому что хотел жениться на Анне.",
+   "Мартин прислал ему странное письмо."
+  ],
+  "answer": 2,
+  "explain_ru": "Мартин давно хотел жениться на Анне и «was jealous of anybody she smiled at»."
+ },
+ {
+  "q": "What happened after Martin visited the pharmacy on Friday?",
+  "q_ru": "Что произошло после того, как Мартин зашёл в аптеку в пятницу?",
+  "options": [
+   "Daniel found a can of petrol behind the counter.",
+   "Martin told Daniel he would marry Anna.",
+   "Daniel decided to go to the police at once.",
+   "Daniel's silver lighter was missing."
+  ],
+  "options_ru": [
+   "Дэниел нашёл канистру с бензином за прилавком.",
+   "Мартин сказал Дэниелу, что женится на Анне.",
+   "Дэниел решил сразу пойти в полицию.",
+   "Серебряная зажигалка Дэниела пропала."
+  ],
+  "answer": 3,
+  "explain_ru": "Пока Дэниел доставал таблетки, Мартин стоял у кассы, а потом зажигалка «had disappeared». Позже её нашли у Мартина в кармане."
+ },
+ {
+  "q": "Why did the words of the letter disappear after the fire?",
+  "q_ru": "Почему слова письма исчезли после пожара?",
+  "options": [
+   "Daniel left it too close to the fire.",
+   "The future Sam described no longer existed.",
+   "Martin had used special ink to trick Daniel.",
+   "The police took the real letter as evidence."
+  ],
+  "options_ru": [
+   "Дэниел оставил его слишком близко к огню.",
+   "Будущего, которое описал Сэм, больше не существовало.",
+   "Мартин использовал особые чернила, чтобы обмануть Дэниела.",
+   "Полиция забрала настоящее письмо как улику."
+  ],
+  "answer": 1,
+  "explain_ru": "«The future that Sam had described no longer existed. There would be no prison» — поэтому письмо стало пустым."
+ },
+ {
+  "q": "At the end, why does Daniel ask Sam to send the letter?",
+  "q_ru": "Почему в конце Дэниел просит Сэма отправить письмо?",
+  "options": [
+   "So that Sam can win a prize for his writing.",
+   "So that Martin will finally say sorry.",
+   "So that Lily learns the truth about the fire.",
+   "So that young Daniel in 1985 receives it and is saved."
+  ],
+  "options_ru": [
+   "Чтобы Сэм получил приз за своё письмо.",
+   "Чтобы Мартин наконец извинился.",
+   "Чтобы Лили узнала правду о пожаре.",
+   "Чтобы молодой Дэниел в 1985 году получил его и был спасён."
+  ],
+  "answer": 3,
+  "explain_ru": "Письмо должно попасть в прошлое через красный почтовый ящик: «For a lonely young man who is about to make the biggest mistake of his life… Somebody has to stop him»."
+ }
+]

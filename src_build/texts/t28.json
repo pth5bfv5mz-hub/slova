@@ -1,0 +1,1487 @@
+{
+ "id": 28,
+ "level": "B1",
+ "title_en": "The Room Upstairs",
+ "title_ru": "Комната наверху",
+ "genre": "Выживание, триллер",
+ "summary_ru": "После схода лавины шестеро туристов оказываются запертыми в старом горном доме, и по ночам кто-то начинает красть их последние запасы еды.",
+ "paragraphs": [
+  {
+   "en": "The avalanche came down the mountain at four o'clock on a Saturday afternoon. Nora Lind heard it before she saw it: a deep sound, like thunder under the ground. Then the whole white side of the valley began to move. “Run!” shouted Anton, their guide. “To the trees, at once!”",
+   "ru": "Лавина сошла с горы в четыре часа дня в субботу. Нора Линд услышала её раньше, чем увидела: глубокий звук, похожий на гром под землёй. Затем вся белая сторона долины начала двигаться. «Бегите!» — крикнул Антон, их проводник. «К деревьям, сразу же!»",
+   "s": [
+    [
+     "The avalanche came down the mountain at four o'clock on a Saturday afternoon.",
+     "Лавина сошла с горы в четыре часа дня в субботу."
+    ],
+    [
+     "Nora Lind heard it before she saw it: a deep sound, like thunder under the ground.",
+     "Нора Линд услышала её раньше, чем увидела: глубокий звук, похожий на гром под землёй."
+    ],
+    [
+     "Then the whole white side of the valley began to move.",
+     "Затем вся белая сторона долины начала двигаться."
+    ],
+    [
+     "“Run!” shouted Anton, their guide.",
+     "«Бегите!» — крикнул Антон, их проводник."
+    ],
+    [
+     "“To the trees, at once!”",
+     "«К деревьям, сразу же!»"
+    ]
+   ]
+  },
+  {
+   "en": "They ran. When the noise finally stopped, the six of them were standing in the snow among the trees, breathing hard and staring at the place where the path had been. Now there was only a high wall of snow and broken ice. The road back to the village was gone.",
+   "ru": "Они побежали. Когда шум наконец стих, все шестеро стояли в снегу среди деревьев, тяжело дыша и глядя на место, где только что была тропа. Теперь там была лишь высокая стена из снега и битого льда. Дороги назад в деревню больше не было.",
+   "s": [
+    [
+     "They ran.",
+     "Они побежали."
+    ],
+    [
+     "When the noise finally stopped, the six of them were standing in the snow among the trees, breathing hard and staring at the place where the path had been.",
+     "Когда шум наконец стих, все шестеро стояли в снегу среди деревьев, тяжело дыша и глядя на место, где только что была тропа."
+    ],
+    [
+     "Now there was only a high wall of snow and broken ice.",
+     "Теперь там была лишь высокая стена из снега и битого льда."
+    ],
+    [
+     "The road back to the village was gone.",
+     "Дороги назад в деревню больше не было."
+    ]
+   ]
+  },
+  {
+   "en": "Anton had not been fast enough. A block of ice had hit his leg, and when Nora, who was a nurse, looked at it, she knew at once that it was broken. She tied it to a stick with strips of her scarf. “Is there anywhere we can go?” she asked.",
+   "ru": "Антон бежал недостаточно быстро. Глыба льда ударила его по ноге, и когда Нора, медсестра, осмотрела её, она сразу поняла, что нога сломана. Она привязала её к палке полосками своего шарфа. «Нам есть куда пойти?» — спросила она.",
+   "s": [
+    [
+     "Anton had not been fast enough.",
+     "Антон бежал недостаточно быстро."
+    ],
+    [
+     "A block of ice had hit his leg, and when Nora, who was a nurse, looked at it, she knew at once that it was broken.",
+     "Глыба льда ударила его по ноге, и когда Нора, медсестра, осмотрела её, она сразу поняла, что нога сломана."
+    ],
+    [
+     "She tied it to a stick with strips of her scarf.",
+     "Она привязала её к палке полосками своего шарфа."
+    ],
+    [
+     "“Is there anywhere we can go?” she asked.",
+     "«Нам есть куда пойти?» — спросила она."
+    ]
+   ]
+  },
+  {
+   "en": "“There's an old house above us,” Anton said through his teeth. “A family resided there a hundred years ago. Now it's used as an emergency shelter. We can reach it if we hurry. It will be dark soon.”",
+   "ru": "«Над нами есть старый дом», — сквозь зубы сказал Антон. «Сто лет назад там жила одна семья. Сейчас его используют как убежище на случай беды. Мы доберёмся до него, если поторопимся. Скоро стемнеет».",
+   "s": [
+    [
+     "“There's an old house above us,” Anton said through his teeth.",
+     "«Над нами есть старый дом», — сквозь зубы сказал Антон."
+    ],
+    [
+     "“A family resided there a hundred years ago.",
+     "«Сто лет назад там жила одна семья."
+    ],
+    [
+     "Now it's used as an emergency shelter.",
+     "Сейчас его используют как убежище на случай беды."
+    ],
+    [
+     "We can reach it if we hurry.",
+     "Мы доберёмся до него, если поторопимся."
+    ],
+    [
+     "It will be dark soon.”",
+     "Скоро стемнеет»."
+    ]
+   ]
+  },
+  {
+   "en": "The house was made of grey stone and stood alone on the mountain side. Inside there was a big sitting room with a fireplace, a kitchen, and two rooms upstairs. One of them had once been a nursery; there were still small painted birds and insects on the walls. The old furniture was covered with dust, and above the fireplace hung a long, rusty sword.",
+   "ru": "Дом был сложен из серого камня и одиноко стоял на склоне горы. Внутри была большая гостиная с камином, кухня и две комнаты наверху. Одна из них когда-то была детской: на стенах ещё сохранились маленькие нарисованные птички и насекомые. Старая мебель была покрыта пылью, а над камином висел длинный ржавый меч.",
+   "s": [
+    [
+     "The house was made of grey stone and stood alone on the mountain side.",
+     "Дом был сложен из серого камня и одиноко стоял на склоне горы."
+    ],
+    [
+     "Inside there was a big sitting room with a fireplace, a kitchen, and two rooms upstairs.",
+     "Внутри была большая гостиная с камином, кухня и две комнаты наверху."
+    ],
+    [
+     "One of them had once been a nursery; there were still small painted birds and insects on the walls.",
+     "Одна из них когда-то была детской: на стенах ещё сохранились маленькие нарисованные птички и насекомые."
+    ],
+    [
+     "The old furniture was covered with dust, and above the fireplace hung a long, rusty sword.",
+     "Старая мебель была покрыта пылью, а над камином висел длинный ржавый меч."
+    ]
+   ]
+  },
+  {
+   "en": "Nora looked at the group and tried to imagine how they would survive. There was Viktor, a businessman in an expensive jacket, who had not stopped talking since the avalanche. There was Paula and her nine-year-old son Theo, who never let go of a small green toy turtle. And there was Mr. Feld, a quiet retired teacher with thick glasses, who wrote everything down in a notebook with a black pen.",
+   "ru": "Нора посмотрела на группу и попыталась представить, как они выживут. Был Виктор, бизнесмен в дорогой куртке, который не переставал говорить с самой лавины. Была Паула и её девятилетний сын Тео, который никогда не выпускал из рук маленькую зелёную игрушечную черепаху. И был господин Фельд, тихий учитель на пенсии в толстых очках, который записывал всё в блокнот чёрной ручкой.",
+   "s": [
+    [
+     "Nora looked at the group and tried to imagine how they would survive.",
+     "Нора посмотрела на группу и попыталась представить, как они выживут."
+    ],
+    [
+     "There was Viktor, a businessman in an expensive jacket, who had not stopped talking since the avalanche.",
+     "Был Виктор, бизнесмен в дорогой куртке, который не переставал говорить с самой лавины."
+    ],
+    [
+     "There was Paula and her nine-year-old son Theo, who never let go of a small green toy turtle.",
+     "Была Паула и её девятилетний сын Тео, который никогда не выпускал из рук маленькую зелёную игрушечную черепаху."
+    ],
+    [
+     "And there was Mr. Feld, a quiet retired teacher with thick glasses, who wrote everything down in a notebook with a black pen.",
+     "И был господин Фельд, тихий учитель на пенсии в толстых очках, который записывал всё в блокнот чёрной ручкой."
+    ]
+   ]
+  },
+  {
+   "en": "Anton's radio had been broken in the fall. Nobody's phone had a signal. Viktor walked from window to window holding his phone high above his head, but the screen always showed the same empty line. “The village knows we were on this path,” Anton said from the sofa, where they had put him. “They'll send help when the weather is better. Until then, we need patience.” He ordered everyone to get some rest and to save their strength.",
+   "ru": "Рация Антона разбилась при падении. Ни у кого в телефоне не было сигнала. Виктор ходил от окна к окну, подняв телефон высоко над головой, но экран всё время показывал одну и ту же пустую полоску. «В деревне знают, что мы были на этой тропе», — сказал Антон с дивана, куда его положили. «Они пришлют помощь, когда погода улучшится. А до тех пор нам нужно терпение». Он приказал всем отдохнуть и беречь силы.",
+   "s": [
+    [
+     "Anton's radio had been broken in the fall.",
+     "Рация Антона разбилась при падении."
+    ],
+    [
+     "Nobody's phone had a signal.",
+     "Ни у кого в телефоне не было сигнала."
+    ],
+    [
+     "Viktor walked from window to window holding his phone high above his head, but the screen always showed the same empty line.",
+     "Виктор ходил от окна к окну, подняв телефон высоко над головой, но экран всё время показывал одну и ту же пустую полоску."
+    ],
+    [
+     "“The village knows we were on this path,” Anton said from the sofa, where they had put him.",
+     "«В деревне знают, что мы были на этой тропе», — сказал Антон с дивана, куда его положили."
+    ],
+    [
+     "“They'll send help when the weather is better.",
+     "«Они пришлют помощь, когда погода улучшится."
+    ],
+    [
+     "Until then, we need patience.”",
+     "А до тех пор нам нужно терпение»."
+    ],
+    [
+     "He ordered everyone to get some rest and to save their strength.",
+     "Он приказал всем отдохнуть и беречь силы."
+    ]
+   ]
+  },
+  {
+   "en": "Mr. Feld counted the food they had in their bags and the tins in the kitchen. “If we are careful, we have enough for four days,” he said, and wrote the number down.",
+   "ru": "Господин Фельд пересчитал еду в их рюкзаках и консервы на кухне. «Если будем экономить, нам хватит на четыре дня», — сказал он и записал цифру.",
+   "s": [
+    [
+     "Mr. Feld counted the food they had in their bags and the tins in the kitchen.",
+     "Господин Фельд пересчитал еду в их рюкзаках и консервы на кухне."
+    ],
+    [
+     "“If we are careful, we have enough for four days,” he said, and wrote the number down.",
+     "«Если будем экономить, нам хватит на четыре дня», — сказал он и записал цифру."
+    ]
+   ]
+  },
+  {
+   "en": "That first evening they made dinner over the fire: a hot, spicy bean soup from two tins and Paula's chilli powder. Theo said it burned his mouth, but he ate it all. They decided to wear every piece of clothes they had and to sleep on the floor of the sitting room, close to the fire. Outside, the wind screamed all night.",
+   "ru": "В тот первый вечер они приготовили ужин на огне: горячий острый суп из фасоли из двух банок и молотого перца чили Паулы. Тео сказал, что суп обжигает рот, но съел всё. Они решили надеть всю одежду, какая у них была, и спать на полу гостиной поближе к огню. Снаружи всю ночь выл ветер.",
+   "s": [
+    [
+     "That first evening they made dinner over the fire: a hot, spicy bean soup from two tins and Paula's chilli powder.",
+     "В тот первый вечер они приготовили ужин на огне: горячий острый суп из фасоли из двух банок и молотого перца чили Паулы."
+    ],
+    [
+     "Theo said it burned his mouth, but he ate it all.",
+     "Тео сказал, что суп обжигает рот, но съел всё."
+    ],
+    [
+     "They decided to wear every piece of clothes they had and to sleep on the floor of the sitting room, close to the fire.",
+     "Они решили надеть всю одежду, какая у них была, и спать на полу гостиной поближе к огню."
+    ],
+    [
+     "Outside, the wind screamed all night.",
+     "Снаружи всю ночь выл ветер."
+    ]
+   ]
+  },
+  {
+   "en": "The next morning, half of the bread was gone. At first nobody wanted to believe it. Then Paula said what everyone was thinking. “There is a thief among us.” Mr. Feld checked his list twice and shook his head. “Now we have food for two days, not four,” he said.",
+   "ru": "На следующее утро половина хлеба пропала. Сначала никто не хотел в это верить. Потом Паула сказала то, о чём думали все. «Среди нас есть вор». Господин Фельд дважды проверил свой список и покачал головой. «Теперь еды у нас на два дня, а не на четыре», — сказал он.",
+   "s": [
+    [
+     "The next morning, half of the bread was gone.",
+     "На следующее утро половина хлеба пропала."
+    ],
+    [
+     "At first nobody wanted to believe it.",
+     "Сначала никто не хотел в это верить."
+    ],
+    [
+     "Then Paula said what everyone was thinking.",
+     "Потом Паула сказала то, о чём думали все."
+    ],
+    [
+     "“There is a thief among us.”",
+     "«Среди нас есть вор»."
+    ],
+    [
+     "Mr. Feld checked his list twice and shook his head.",
+     "Господин Фельд дважды проверил свой список и покачал головой."
+    ],
+    [
+     "“Now we have food for two days, not four,” he said.",
+     "«Теперь еды у нас на два дня, а не на четыре», — сказал он."
+    ]
+   ]
+  },
+  {
+   "en": "Everyone looked at Viktor. He had been the last to fall asleep, and he had spent most of the night walking around the room. His face went red. “You suspect me?” He hit the table with his fist. “I didn't take anything!”",
+   "ru": "Все посмотрели на Виктора. Он заснул последним и бо́льшую часть ночи ходил по комнате. Он покраснел. «Вы подозреваете меня?» Он ударил кулаком по столу. «Я ничего не брал!»",
+   "s": [
+    [
+     "Everyone looked at Viktor.",
+     "Все посмотрели на Виктора."
+    ],
+    [
+     "He had been the last to fall asleep, and he had spent most of the night walking around the room.",
+     "Он заснул последним и бо́льшую часть ночи ходил по комнате."
+    ],
+    [
+     "His face went red.",
+     "Он покраснел."
+    ],
+    [
+     "“You suspect me?”",
+     "«Вы подозреваете меня?»"
+    ],
+    [
+     "He hit the table with his fist.",
+     "Он ударил кулаком по столу."
+    ],
+    [
+     "“I didn't take anything!”",
+     "«Я ничего не брал!»"
+    ]
+   ]
+  },
+  {
+   "en": "“You haven't been able to sit still since yesterday,” Paula said coldly. “People who behave like that usually have something to hide.”",
+   "ru": "«Вы со вчерашнего дня не можете усидеть на месте», — холодно сказала Паула. «Люди, которые так себя ведут, обычно что-то скрывают».",
+   "s": [
+    [
+     "“You haven't been able to sit still since yesterday,” Paula said coldly.",
+     "«Вы со вчерашнего дня не можете усидеть на месте», — холодно сказала Паула."
+    ],
+    [
+     "“People who behave like that usually have something to hide.”",
+     "«Люди, которые так себя ведут, обычно что-то скрывают»."
+    ]
+   ]
+  },
+  {
+   "en": "Viktor looked embarrassed. After a long moment he said quietly, “I'm nervous because I recently finished treatment for a gambling addiction. Sitting here and doing nothing is the hardest thing for me. But I am not a thief.”",
+   "ru": "Виктор смутился. После долгой паузы он тихо сказал: «Я нервничаю, потому что недавно закончил лечение от игровой зависимости. Сидеть здесь и ничего не делать — для меня самое трудное. Но я не вор».",
+   "s": [
+    [
+     "Viktor looked embarrassed.",
+     "Виктор смутился."
+    ],
+    [
+     "After a long moment he said quietly, “I'm nervous because I recently finished treatment for a gambling addiction.",
+     "После долгой паузы он тихо сказал: «Я нервничаю, потому что недавно закончил лечение от игровой зависимости."
+    ],
+    [
+     "Sitting here and doing nothing is the hardest thing for me.",
+     "Сидеть здесь и ничего не делать — для меня самое трудное."
+    ],
+    [
+     "But I am not a thief.”",
+     "Но я не вор»."
+    ]
+   ]
+  },
+  {
+   "en": "Nora believed him, but she understood that fear has a strong influence on people. In a situation of such uncertainty, even good people can be cruel. Over the next hours the group slowly split into two sides: those who trusted Viktor and those who did not. Paula moved her son's sleeping bag to the far corner of the room, as far from Viktor as possible. She decided that she would find the real thief herself.",
+   "ru": "Нора поверила ему, но понимала, что страх сильно влияет на людей. В такой неопределённости даже хорошие люди могут быть жестокими. В следующие часы группа постепенно разделилась на две стороны: тех, кто доверял Виктору, и тех, кто нет. Паула перенесла спальный мешок сына в дальний угол комнаты, как можно дальше от Виктора. Она решила, что сама найдёт настоящего вора.",
+   "s": [
+    [
+     "Nora believed him, but she understood that fear has a strong influence on people.",
+     "Нора поверила ему, но понимала, что страх сильно влияет на людей."
+    ],
+    [
+     "In a situation of such uncertainty, even good people can be cruel.",
+     "В такой неопределённости даже хорошие люди могут быть жестокими."
+    ],
+    [
+     "Over the next hours the group slowly split into two sides: those who trusted Viktor and those who did not.",
+     "В следующие часы группа постепенно разделилась на две стороны: тех, кто доверял Виктору, и тех, кто нет."
+    ],
+    [
+     "Paula moved her son's sleeping bag to the far corner of the room, as far from Viktor as possible.",
+     "Паула перенесла спальный мешок сына в дальний угол комнаты, как можно дальше от Виктора."
+    ],
+    [
+     "She decided that she would find the real thief herself.",
+     "Она решила, что сама найдёт настоящего вора."
+    ]
+   ]
+  },
+  {
+   "en": "On the third day they heard the sound of a plane. They ran outside, waving jackets and shouting, but it was flying too high, and the clouds were too thick. Gradually the sound died away. Theo began to cry, and Paula held him against her side.",
+   "ru": "На третий день они услышали звук самолёта. Они выбежали наружу, размахивая куртками и крича, но он летел слишком высоко, а облака были слишком густыми. Постепенно звук затих. Тео заплакал, и Паула прижала его к себе.",
+   "s": [
+    [
+     "On the third day they heard the sound of a plane.",
+     "На третий день они услышали звук самолёта."
+    ],
+    [
+     "They ran outside, waving jackets and shouting, but it was flying too high, and the clouds were too thick.",
+     "Они выбежали наружу, размахивая куртками и крича, но он летел слишком высоко, а облака были слишком густыми."
+    ],
+    [
+     "Gradually the sound died away.",
+     "Постепенно звук затих."
+    ],
+    [
+     "Theo began to cry, and Paula held him against her side.",
+     "Тео заплакал, и Паула прижала его к себе."
+    ]
+   ]
+  },
+  {
+   "en": "When they went back inside, more food had disappeared: two tins of fish and a bar of chocolate. And there was something else. The old sword was no longer above the fireplace. “That's it,” Viktor said. “Search my bags. Search everything.”",
+   "ru": "Когда они вернулись в дом, пропало ещё немного еды: две банки рыбы и плитка шоколада. И было кое-что ещё. Старого меча над камином больше не было. «Ну всё», — сказал Виктор. «Обыщите мои сумки. Обыщите всё».",
+   "s": [
+    [
+     "When they went back inside, more food had disappeared: two tins of fish and a bar of chocolate.",
+     "Когда они вернулись в дом, пропало ещё немного еды: две банки рыбы и плитка шоколада."
+    ],
+    [
+     "And there was something else.",
+     "И было кое-что ещё."
+    ],
+    [
+     "The old sword was no longer above the fireplace.",
+     "Старого меча над камином больше не было."
+    ],
+    [
+     "“That's it,” Viktor said.",
+     "«Ну всё», — сказал Виктор."
+    ],
+    [
+     "“Search my bags.",
+     "«Обыщите мои сумки."
+    ],
+    [
+     "Search everything.”",
+     "Обыщите всё»."
+    ]
+   ]
+  },
+  {
+   "en": "They searched. They found nothing. That evening Nora decided to set a trap. When the others were asleep, she poured a thin line of flour on the floor at the kitchen door. Anyone who walked through it would leave marks.",
+   "ru": "Они обыскали. Ничего не нашли. Тем вечером Нора решила устроить ловушку. Когда остальные уснули, она насыпала тонкую полоску муки на пол у двери кухни. Любой, кто пройдёт по ней, оставит следы.",
+   "s": [
+    [
+     "They searched.",
+     "Они обыскали."
+    ],
+    [
+     "They found nothing.",
+     "Ничего не нашли."
+    ],
+    [
+     "That evening Nora decided to set a trap.",
+     "Тем вечером Нора решила устроить ловушку."
+    ],
+    [
+     "When the others were asleep, she poured a thin line of flour on the floor at the kitchen door.",
+     "Когда остальные уснули, она насыпала тонкую полоску муки на пол у двери кухни."
+    ],
+    [
+     "Anyone who walked through it would leave marks.",
+     "Любой, кто пройдёт по ней, оставит следы."
+    ]
+   ]
+  },
+  {
+   "en": "In the morning there were footprints in the flour. They were small, much too small for an adult, and they had no shape of a boot; whoever had made them had been walking in socks. Nora compared them with the shoes by the door, and her heart beat faster. Only one person in the house had feet that size.",
+   "ru": "Утром на муке были следы. Они были маленькими, слишком маленькими для взрослого, и в них не было формы ботинка: кто бы их ни оставил, он ходил в носках. Нора сравнила их с обувью у двери, и её сердце забилось быстрее. Только у одного человека в доме были ноги такого размера.",
+   "s": [
+    [
+     "In the morning there were footprints in the flour.",
+     "Утром на муке были следы."
+    ],
+    [
+     "They were small, much too small for an adult, and they had no shape of a boot; whoever had made them had been walking in socks.",
+     "Они были маленькими, слишком маленькими для взрослого, и в них не было формы ботинка: кто бы их ни оставил, он ходил в носках."
+    ],
+    [
+     "Nora compared them with the shoes by the door, and her heart beat faster.",
+     "Нора сравнила их с обувью у двери, и её сердце забилось быстрее."
+    ],
+    [
+     "Only one person in the house had feet that size.",
+     "Только у одного человека в доме были ноги такого размера."
+    ]
+   ]
+  },
+  {
+   "en": "She did not say anything to the others. Instead, she followed the white marks across the sitting room to the stairs. They went up, step by step, to the door of the nursery. On the floor in front of it lay a small green turtle.",
+   "ru": "Она ничего не сказала остальным. Вместо этого она пошла по белым следам через гостиную к лестнице. Они вели вверх, ступенька за ступенькой, к двери детской. На полу перед ней лежала маленькая зелёная черепаха.",
+   "s": [
+    [
+     "She did not say anything to the others.",
+     "Она ничего не сказала остальным."
+    ],
+    [
+     "Instead, she followed the white marks across the sitting room to the stairs.",
+     "Вместо этого она пошла по белым следам через гостиную к лестнице."
+    ],
+    [
+     "They went up, step by step, to the door of the nursery.",
+     "Они вели вверх, ступенька за ступенькой, к двери детской."
+    ],
+    [
+     "On the floor in front of it lay a small green turtle.",
+     "На полу перед ней лежала маленькая зелёная черепаха."
+    ]
+   ]
+  },
+  {
+   "en": "Nora opened the door. The room was freezing. Snow had come in through a broken window, and in the corner, under a pile of old blankets, lay a young man. His face was grey, his lips were blue, and he was holding the rusty sword in both hands. Next to him lay the empty fish tins, the chocolate paper and the last piece of bread.",
+   "ru": "Нора открыла дверь. В комнате было ледяно. Через разбитое окно намело снега, а в углу, под кучей старых одеял, лежал молодой человек. Лицо у него было серым, губы синими, а в обеих руках он держал ржавый меч. Рядом с ним лежали пустые банки из-под рыбы, обёртка от шоколада и последний кусок хлеба.",
+   "s": [
+    [
+     "Nora opened the door.",
+     "Нора открыла дверь."
+    ],
+    [
+     "The room was freezing.",
+     "В комнате было ледяно."
+    ],
+    [
+     "Snow had come in through a broken window, and in the corner, under a pile of old blankets, lay a young man.",
+     "Через разбитое окно намело снега, а в углу, под кучей старых одеял, лежал молодой человек."
+    ],
+    [
+     "His face was grey, his lips were blue, and he was holding the rusty sword in both hands.",
+     "Лицо у него было серым, губы синими, а в обеих руках он держал ржавый меч."
+    ],
+    [
+     "Next to him lay the empty fish tins, the chocolate paper and the last piece of bread.",
+     "Рядом с ним лежали пустые банки из-под рыбы, обёртка от шоколада и последний кусок хлеба."
+    ]
+   ]
+  },
+  {
+   "en": "“Don't come closer,” he whispered. But he was too weak to lift the sword, and Nora saw that he was not capable of hurting anybody.",
+   "ru": "«Не подходите ближе», — прошептал он. Но он был слишком слаб, чтобы поднять меч, и Нора увидела, что он никому не способен причинить вред.",
+   "s": [
+    [
+     "“Don't come closer,” he whispered.",
+     "«Не подходите ближе», — прошептал он."
+    ],
+    [
+     "But he was too weak to lift the sword, and Nora saw that he was not capable of hurting anybody.",
+     "Но он был слишком слаб, чтобы поднять меч, и Нора увидела, что он никому не способен причинить вред."
+    ]
+   ]
+  },
+  {
+   "en": "A small voice behind her said, “Please don't be angry with him.” Theo was standing in the doorway. “I found him on the first night, when I went to look for the toilet. He was so cold. He said that bad men were looking for him and that I mustn't tell anybody. So I brought him food. I gave him my dinner too.”",
+   "ru": "Тоненький голос за её спиной сказал: «Пожалуйста, не сердитесь на него». В дверях стоял Тео. «Я нашёл его в первую ночь, когда пошёл искать туалет. Ему было так холодно. Он сказал, что его ищут плохие люди и что я никому не должен рассказывать. Поэтому я носил ему еду. Я ещё и свой ужин ему отдавал».",
+   "s": [
+    [
+     "A small voice behind her said, “Please don't be angry with him.”",
+     "Тоненький голос за её спиной сказал: «Пожалуйста, не сердитесь на него»."
+    ],
+    [
+     "Theo was standing in the doorway.",
+     "В дверях стоял Тео."
+    ],
+    [
+     "“I found him on the first night, when I went to look for the toilet.",
+     "«Я нашёл его в первую ночь, когда пошёл искать туалет."
+    ],
+    [
+     "He was so cold.",
+     "Ему было так холодно."
+    ],
+    [
+     "He said that bad men were looking for him and that I mustn't tell anybody.",
+     "Он сказал, что его ищут плохие люди и что я никому не должен рассказывать."
+    ],
+    [
+     "So I brought him food.",
+     "Поэтому я носил ему еду."
+    ],
+    [
+     "I gave him my dinner too.”",
+     "Я ещё и свой ужин ему отдавал»."
+    ]
+   ]
+  },
+  {
+   "en": "Nora knelt beside the young man and checked his pulse. It was slow and weak. “What is your name?” she asked. “And who is looking for you?”",
+   "ru": "Нора опустилась на колени рядом с молодым человеком и проверила его пульс. Он был медленным и слабым. «Как вас зовут?» — спросила она. «И кто вас ищет?»",
+   "s": [
+    [
+     "Nora knelt beside the young man and checked his pulse.",
+     "Нора опустилась на колени рядом с молодым человеком и проверила его пульс."
+    ],
+    [
+     "It was slow and weak.",
+     "Он был медленным и слабым."
+    ],
+    [
+     "“What is your name?” she asked.",
+     "«Как вас зовут?» — спросила она."
+    ],
+    [
+     "“And who is looking for you?”",
+     "«И кто вас ищет?»"
+    ]
+   ]
+  },
+  {
+   "en": "His name was Daniel. He told her the story in pieces, between long breaths. He had been working at a ski hotel on the other side of the mountain. A week ago someone had stolen money from the hotel safe, and the manager had told the police that Daniel was the thief. “I knew they wouldn't believe me,” he said. “So I ran. I tried to cross the pass, and then the avalanche came. I saw the house and climbed in through the window. When I heard voices downstairs, I was afraid you would hand me over to the police.”",
+   "ru": "Его звали Даниэль. Он рассказал ей свою историю урывками, между долгими вдохами. Он работал в лыжном отеле по ту сторону горы. Неделю назад кто-то украл деньги из гостиничного сейфа, и управляющий сказал полиции, что вор — Даниэль. «Я знал, что мне не поверят», — сказал он. «Поэтому я сбежал. Я попытался перейти через перевал, и тут сошла лавина. Я увидел дом и залез внутрь через окно. Когда я услышал голоса внизу, я испугался, что вы выдадите меня полиции».",
+   "s": [
+    [
+     "His name was Daniel.",
+     "Его звали Даниэль."
+    ],
+    [
+     "He told her the story in pieces, between long breaths.",
+     "Он рассказал ей свою историю урывками, между долгими вдохами."
+    ],
+    [
+     "He had been working at a ski hotel on the other side of the mountain.",
+     "Он работал в лыжном отеле по ту сторону горы."
+    ],
+    [
+     "A week ago someone had stolen money from the hotel safe, and the manager had told the police that Daniel was the thief.",
+     "Неделю назад кто-то украл деньги из гостиничного сейфа, и управляющий сказал полиции, что вор — Даниэль."
+    ],
+    [
+     "“I knew they wouldn't believe me,” he said.",
+     "«Я знал, что мне не поверят», — сказал он."
+    ],
+    [
+     "“So I ran.",
+     "«Поэтому я сбежал."
+    ],
+    [
+     "I tried to cross the pass, and then the avalanche came.",
+     "Я попытался перейти через перевал, и тут сошла лавина."
+    ],
+    [
+     "I saw the house and climbed in through the window.",
+     "Я увидел дом и залез внутрь через окно."
+    ],
+    [
+     "When I heard voices downstairs, I was afraid you would hand me over to the police.”",
+     "Когда я услышал голоса внизу, я испугался, что вы выдадите меня полиции»."
+    ]
+   ]
+  },
+  {
+   "en": "“You took the sword to protect yourself,” Nora said. He nodded. Then, with great effort, he reached into his jacket and pulled out a small orange device. “This is an emergency beacon,” he said. “If you press the button, it sends your position by satellite. I didn't use it, because it means they will find me. But I can't let a child go hungry for me.”",
+   "ru": "«Вы взяли меч, чтобы защититься», — сказала Нора. Он кивнул. Затем с огромным усилием он сунул руку под куртку и вытащил маленькое оранжевое устройство. «Это аварийный радиомаяк», — сказал он. «Если нажать на кнопку, он передаёт ваши координаты через спутник. Я им не воспользовался, потому что это означает, что меня найдут. Но я не могу допустить, чтобы ребёнок голодал из-за меня».",
+   "s": [
+    [
+     "“You took the sword to protect yourself,” Nora said.",
+     "«Вы взяли меч, чтобы защититься», — сказала Нора."
+    ],
+    [
+     "He nodded.",
+     "Он кивнул."
+    ],
+    [
+     "Then, with great effort, he reached into his jacket and pulled out a small orange device.",
+     "Затем с огромным усилием он сунул руку под куртку и вытащил маленькое оранжевое устройство."
+    ],
+    [
+     "“This is an emergency beacon,” he said.",
+     "«Это аварийный радиомаяк», — сказал он."
+    ],
+    [
+     "“If you press the button, it sends your position by satellite.",
+     "«Если нажать на кнопку, он передаёт ваши координаты через спутник."
+    ],
+    [
+     "I didn't use it, because it means they will find me.",
+     "Я им не воспользовался, потому что это означает, что меня найдут."
+    ],
+    [
+     "But I can't let a child go hungry for me.”",
+     "Но я не могу допустить, чтобы ребёнок голодал из-за меня»."
+    ]
+   ]
+  },
+  {
+   "en": "For a moment Nora could not speak. For three days they had been sitting downstairs, burning the furniture to keep warm and wondering who among them was the thief, while the tool that could save them all had been lying a few metres above their heads. She did not hesitate this time. She pressed the button. A small green light began to flash.",
+   "ru": "Мгновение Нора не могла вымолвить ни слова. Три дня они сидели внизу, сжигая мебель, чтобы согреться, и гадая, кто из них вор, а инструмент, который мог спасти их всех, лежал в нескольких метрах над их головами. На этот раз она не колебалась. Она нажала на кнопку. Начал мигать маленький зелёный огонёк.",
+   "s": [
+    [
+     "For a moment Nora could not speak.",
+     "Мгновение Нора не могла вымолвить ни слова."
+    ],
+    [
+     "For three days they had been sitting downstairs, burning the furniture to keep warm and wondering who among them was the thief, while the tool that could save them all had been lying a few metres above their heads.",
+     "Три дня они сидели внизу, сжигая мебель, чтобы согреться, и гадая, кто из них вор, а инструмент, который мог спасти их всех, лежал в нескольких метрах над их головами."
+    ],
+    [
+     "She did not hesitate this time.",
+     "На этот раз она не колебалась."
+    ],
+    [
+     "She pressed the button.",
+     "Она нажала на кнопку."
+    ],
+    [
+     "A small green light began to flash.",
+     "Начал мигать маленький зелёный огонёк."
+    ]
+   ]
+  },
+  {
+   "en": "When she carried Daniel downstairs with Viktor's help, the others did not know how to react. Paula covered her mouth with her hand. Mr. Feld took off his glasses and cleaned them slowly, as if he could not believe what he was seeing. Then Paula turned to Viktor. “I'm sorry,” she said. “I was wrong about you. I was afraid, and I wanted someone to blame.”",
+   "ru": "Когда она с помощью Виктора отнесла Даниэля вниз, остальные не знали, как реагировать. Паула прикрыла рот рукой. Господин Фельд снял очки и медленно протёр их, словно не мог поверить своим глазам. Потом Паула повернулась к Виктору. «Простите меня», — сказала она. «Я была неправа насчёт вас. Мне было страшно, и мне хотелось кого-то обвинить».",
+   "s": [
+    [
+     "When she carried Daniel downstairs with Viktor's help, the others did not know how to react.",
+     "Когда она с помощью Виктора отнесла Даниэля вниз, остальные не знали, как реагировать."
+    ],
+    [
+     "Paula covered her mouth with her hand.",
+     "Паула прикрыла рот рукой."
+    ],
+    [
+     "Mr. Feld took off his glasses and cleaned them slowly, as if he could not believe what he was seeing.",
+     "Господин Фельд снял очки и медленно протёр их, словно не мог поверить своим глазам."
+    ],
+    [
+     "Then Paula turned to Viktor.",
+     "Потом Паула повернулась к Виктору."
+    ],
+    [
+     "“I'm sorry,” she said.",
+     "«Простите меня», — сказала она."
+    ],
+    [
+     "“I was wrong about you.",
+     "«Я была неправа насчёт вас."
+    ],
+    [
+     "I was afraid, and I wanted someone to blame.”",
+     "Мне было страшно, и мне хотелось кого-то обвинить»."
+    ]
+   ]
+  },
+  {
+   "en": "Viktor only shrugged and smiled. “Fear does strange things to people,” he said. “Your son showed more courage than any of us.”",
+   "ru": "Виктор лишь пожал плечами и улыбнулся. «Страх делает с людьми странные вещи», — сказал он. «Ваш сын проявил больше храбрости, чем любой из нас».",
+   "s": [
+    [
+     "Viktor only shrugged and smiled.",
+     "Виктор лишь пожал плечами и улыбнулся."
+    ],
+    [
+     "“Fear does strange things to people,” he said.",
+     "«Страх делает с людьми странные вещи», — сказал он."
+    ],
+    [
+     "“Your son showed more courage than any of us.”",
+     "«Ваш сын проявил больше храбрости, чем любой из нас»."
+    ]
+   ]
+  },
+  {
+   "en": "The helicopter arrived the next morning, just after sunrise. The rescue team took Anton and Daniel first. Then it came back for the others. Before the door closed, Nora told the pilot everything Daniel had said, and she gave him a letter Mr. Feld had written with his black pen, signed by all of them, explaining that this young man had saved their lives.",
+   "ru": "Вертолёт прилетел на следующее утро, сразу после рассвета. Спасатели первыми забрали Антона и Даниэля. Потом он вернулся за остальными. Прежде чем дверь закрылась, Нора рассказала пилоту всё, что говорил Даниэль, и отдала ему письмо, которое господин Фельд написал своей чёрной ручкой и которое подписали они все: в нём объяснялось, что этот молодой человек спас им жизнь.",
+   "s": [
+    [
+     "The helicopter arrived the next morning, just after sunrise.",
+     "Вертолёт прилетел на следующее утро, сразу после рассвета."
+    ],
+    [
+     "The rescue team took Anton and Daniel first.",
+     "Спасатели первыми забрали Антона и Даниэля."
+    ],
+    [
+     "Then it came back for the others.",
+     "Потом он вернулся за остальными."
+    ],
+    [
+     "Before the door closed, Nora told the pilot everything Daniel had said, and she gave him a letter Mr. Feld had written with his black pen, signed by all of them, explaining that this young man had saved their lives.",
+     "Прежде чем дверь закрылась, Нора рассказала пилоту всё, что говорил Даниэль, и отдала ему письмо, которое господин Фельд написал своей чёрной ручкой и которое подписали они все: в нём объяснялось, что этот молодой человек спас им жизнь."
+    ]
+   ]
+  },
+  {
+   "en": "Two weeks later, during her slow healing from frostbite in her fingers, Nora received a phone call. It was Daniel. The police had investigated the hotel again, and the real thief had been found: the manager himself. He had stolen the money to pay his debts and had blamed the new boy because nobody would defend him.",
+   "ru": "Две недели спустя, пока у неё медленно заживали обмороженные пальцы, Норе позвонили. Это был Даниэль. Полиция снова провела расследование в отеле, и настоящий вор был найден: им оказался сам управляющий. Он украл деньги, чтобы расплатиться с долгами, и обвинил новичка, потому что за того никто бы не заступился.",
+   "s": [
+    [
+     "Two weeks later, during her slow healing from frostbite in her fingers, Nora received a phone call.",
+     "Две недели спустя, пока у неё медленно заживали обмороженные пальцы, Норе позвонили."
+    ],
+    [
+     "It was Daniel.",
+     "Это был Даниэль."
+    ],
+    [
+     "The police had investigated the hotel again, and the real thief had been found: the manager himself.",
+     "Полиция снова провела расследование в отеле, и настоящий вор был найден: им оказался сам управляющий."
+    ],
+    [
+     "He had stolen the money to pay his debts and had blamed the new boy because nobody would defend him.",
+     "Он украл деньги, чтобы расплатиться с долгами, и обвинил новичка, потому что за того никто бы не заступился."
+    ]
+   ]
+  },
+  {
+   "en": "“There is one more thing,” Daniel said. “Theo sent me a present. It's his green turtle. He says I need it more than he does, because I'm still learning to be brave.”",
+   "ru": "«Есть ещё одна вещь», — сказал Даниэль. «Тео прислал мне подарок. Это его зелёная черепаха. Он говорит, что она мне нужнее, чем ему, потому что я ещё только учусь быть храбрым».",
+   "s": [
+    [
+     "“There is one more thing,” Daniel said.",
+     "«Есть ещё одна вещь», — сказал Даниэль."
+    ],
+    [
+     "“Theo sent me a present.",
+     "«Тео прислал мне подарок."
+    ],
+    [
+     "It's his green turtle.",
+     "Это его зелёная черепаха."
+    ],
+    [
+     "He says I need it more than he does, because I'm still learning to be brave.”",
+     "Он говорит, что она мне нужнее, чем ему, потому что я ещё только учусь быть храбрым»."
+    ]
+   ]
+  },
+  {
+   "en": "Nora smiled. Outside her window the city was busy and noisy, and the mountains seemed very far away. She thought of the cold nursery, the spicy soup, the footprints in the flour, and the mystery that had nearly destroyed them. Then she thought of something Mr. Feld had written on the last page of his notebook, upon which they had all signed their names. Perhaps that was the true meaning of those five days in the snow: “Never close the door on a possibility. Help sometimes waits in the room you are most afraid to open.”",
+   "ru": "Нора улыбнулась. За её окном шумел и спешил город, и горы казались очень далёкими. Она вспомнила холодную детскую, острый суп, следы на муке и тайну, которая чуть не погубила их. Затем она вспомнила то, что господин Фельд написал на последней странице своего блокнота, на которой они все поставили свои подписи. Возможно, в этом и был истинный смысл тех пяти дней в снегу: «Никогда не закрывай дверь перед возможностью. Помощь иногда ждёт в той комнате, которую ты больше всего боишься открыть».",
+   "s": [
+    [
+     "Nora smiled.",
+     "Нора улыбнулась."
+    ],
+    [
+     "Outside her window the city was busy and noisy, and the mountains seemed very far away.",
+     "За её окном шумел и спешил город, и горы казались очень далёкими."
+    ],
+    [
+     "She thought of the cold nursery, the spicy soup, the footprints in the flour, and the mystery that had nearly destroyed them.",
+     "Она вспомнила холодную детскую, острый суп, следы на муке и тайну, которая чуть не погубила их."
+    ],
+    [
+     "Then she thought of something Mr. Feld had written on the last page of his notebook, upon which they had all signed their names.",
+     "Затем она вспомнила то, что господин Фельд написал на последней странице своего блокнота, на которой они все поставили свои подписи."
+    ],
+    [
+     "Perhaps that was the true meaning of those five days in the snow:",
+     "Возможно, в этом и был истинный смысл тех пяти дней в снегу:"
+    ],
+    [
+     "“Never close the door on a possibility.",
+     "«Никогда не закрывай дверь перед возможностью."
+    ],
+    [
+     "Help sometimes waits in the room you are most afraid to open.”",
+     "Помощь иногда ждёт в той комнате, которую ты больше всего боишься открыть»."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "the": "(опр. артикль)",
+  "avalanche": "лавина",
+  "came": "пришёл, пришла",
+  "down": "вниз; write down — записать",
+  "mountain": "гора",
+  "at": "в, у, на",
+  "four": "четыре",
+  "o'clock": "час(ов)",
+  "on": "на",
+  "a": "(неопр. артикль)",
+  "saturday": "суббота",
+  "afternoon": "день, после полудня",
+  "nora": "Нора (имя)",
+  "lind": "Линд (фамилия)",
+  "heard": "услышала",
+  "it": "он, она, оно, это",
+  "before": "прежде чем, раньше",
+  "she": "она",
+  "saw": "увидела",
+  "deep": "глубокий",
+  "sound": "звук",
+  "like": "как; нравиться",
+  "thunder": "гром",
+  "under": "под",
+  "ground": "земля",
+  "then": "потом, затем",
+  "whole": "весь, целый",
+  "white": "белый",
+  "side": "сторона, склон; бок",
+  "of": "(род. падеж)",
+  "valley": "долина",
+  "began": "начала, начал",
+  "to": "к, в; (частица инфинитива)",
+  "move": "двигаться",
+  "run": "бегите",
+  "shouted": "крикнул",
+  "anton": "Антон (имя)",
+  "their": "их",
+  "guide": "проводник",
+  "trees": "деревья",
+  "once": "когда-то; at once — сразу",
+  "they": "они",
+  "ran": "побежал, вбежал",
+  "when": "когда",
+  "noise": "шум",
+  "finally": "наконец",
+  "stopped": "стих; перестал",
+  "six": "шесть",
+  "them": "их, им",
+  "were": "были",
+  "standing": "стоящая",
+  "in": "в, на",
+  "snow": "снег",
+  "among": "среди",
+  "breathing": "дыша",
+  "hard": "тяжело",
+  "and": "и",
+  "staring": "глядя",
+  "place": "место",
+  "where": "где",
+  "path": "тропа",
+  "had": "(вспом. глагол); имел",
+  "been": "был(о)",
+  "now": "теперь",
+  "there": "там",
+  "was": "был(а)",
+  "only": "только; единственный",
+  "high": "высокий; высоко",
+  "wall": "стена",
+  "broken": "сломанный, разбитый, битый",
+  "ice": "лёд",
+  "road": "дорога",
+  "back": "назад, обратно",
+  "village": "деревня",
+  "gone": "исчезла, пропала",
+  "not": "не",
+  "fast": "быстро",
+  "enough": "достаточно",
+  "block": "глыба",
+  "hit": "ударила; ударил",
+  "his": "его",
+  "leg": "нога",
+  "who": "кто; который",
+  "nurse": "медсестра",
+  "looked": "выглядели; посмотрела",
+  "knew": "знал(а)",
+  "that": "что; тот; который",
+  "tied": "привязала",
+  "stick": "палка",
+  "with": "с",
+  "strips": "полоски",
+  "her": "её, ей, неё",
+  "scarf": "платок",
+  "is": "есть, является",
+  "anywhere": "куда-нибудь, никуда",
+  "we": "мы",
+  "can": "может",
+  "go": "идти, ехать",
+  "asked": "спросила",
+  "there's": "есть, имеется",
+  "an": "(неопр. артикль)",
+  "old": "старый, древний",
+  "house": "дом",
+  "above": "над",
+  "us": "нас, нам",
+  "said": "сказал(а)",
+  "through": "через, сквозь; through his teeth — сквозь зубы",
+  "teeth": "зубы",
+  "family": "семья",
+  "resided": "проживала",
+  "hundred": "сто",
+  "years": "годы, лет",
+  "ago": "назад",
+  "it's": "это",
+  "used": "используется",
+  "as": "как, когда; as if — будто",
+  "emergency": "аварийный; убежище на случай беды",
+  "shelter": "убежище",
+  "reach": "добраться до",
+  "if": "если; ли; as if — будто",
+  "hurry": "торопиться",
+  "will": "(вспом. буд. вр.)",
+  "be": "быть",
+  "dark": "тёмный; темнота",
+  "soon": "скоро",
+  "made": "сделан, сложен; приготовили; оставил",
+  "grey": "серый",
+  "stone": "камень; каменный",
+  "stood": "стоял",
+  "alone": "одиноко",
+  "inside": "внутри",
+  "big": "большой",
+  "sitting": "сидеть; sitting room — гостиная",
+  "room": "комната; sitting room — гостиная",
+  "fireplace": "камин",
+  "kitchen": "кухня",
+  "two": "два",
+  "rooms": "комнаты",
+  "upstairs": "наверху, наверх",
+  "one": "один; одна",
+  "nursery": "детская",
+  "still": "ещё, всё ещё; sit still — сидеть спокойно",
+  "small": "маленький",
+  "painted": "нарисованный",
+  "birds": "птицы",
+  "insects": "насекомые",
+  "walls": "стены",
+  "furniture": "мебель",
+  "covered": "покрыт",
+  "dust": "пыль",
+  "hung": "висел",
+  "long": "длинный; долго",
+  "rusty": "ржавый",
+  "sword": "меч",
+  "group": "группа",
+  "tried": "попыталась",
+  "imagine": "представлять",
+  "how": "как, откуда",
+  "would": "(вспом.) бы",
+  "survive": "выжить",
+  "viktor": "Виктор (имя)",
+  "businessman": "бизнесмен",
+  "expensive": "дорогой",
+  "jacket": "куртка",
+  "talking": "говорить",
+  "since": "с тех пор как",
+  "paula": "Паула (имя)",
+  "nine": "девять",
+  "year": "год",
+  "son": "сын",
+  "theo": "Тео (имя)",
+  "never": "никогда",
+  "let": "let go — выпускать из рук; let — допустить",
+  "green": "зелёный",
+  "toy": "игрушечный",
+  "turtle": "черепаха",
+  "mr": "господин",
+  "feld": "Фельд (фамилия)",
+  "quiet": "тихий; was quiet — молчала",
+  "retired": "на пенсии",
+  "teacher": "учитель",
+  "thick": "толстый; густой",
+  "glasses": "очки",
+  "wrote": "записывал",
+  "everything": "всё",
+  "notebook": "блокнот",
+  "black": "чёрный",
+  "pen": "ручка",
+  "anton's": "Антона",
+  "radio": "рация",
+  "fall": "падение; fall asleep — заснуть",
+  "nobody's": "ничей; nobody's phone — ни у кого телефон",
+  "phone": "телефон",
+  "signal": "сигнал",
+  "walked": "ходил; пройдёт",
+  "from": "из, от",
+  "window": "окно",
+  "holding": "держа",
+  "head": "голова",
+  "but": "но",
+  "screen": "экран",
+  "always": "всегда",
+  "showed": "показала",
+  "same": "тот же",
+  "empty": "пустой",
+  "line": "полоска",
+  "knows": "знает",
+  "this": "это, этот",
+  "sofa": "диван",
+  "put": "положили; put on — надеть",
+  "him": "его, ему, нём",
+  "they'll": "они (буд. вр.)",
+  "send": "прислать",
+  "help": "помочь",
+  "weather": "погода",
+  "better": "лучше",
+  "until": "пока не; not until — не раньше чем",
+  "need": "нуждаться",
+  "patience": "терпение",
+  "he": "он",
+  "ordered": "приказал",
+  "everyone": "все",
+  "get": "получить; get some rest — отдохнуть",
+  "some": "некоторые",
+  "rest": "отдых",
+  "save": "спасти; беречь",
+  "strength": "силы",
+  "counted": "пересчитал",
+  "food": "еда",
+  "bags": "сумки, рюкзаки",
+  "tins": "консервные банки",
+  "are": "(есть), являются",
+  "careful": "осторожный, экономный",
+  "have": "(вспом.); иметь",
+  "for": "для, в течение, за",
+  "days": "дни",
+  "number": "цифра, число",
+  "first": "первый; впервые; сначала",
+  "evening": "вечер; вечерний",
+  "dinner": "ужин",
+  "over": "над; через; закончилась",
+  "fire": "костёр, огонь",
+  "hot": "горячий",
+  "spicy": "острый",
+  "bean": "фасолевый",
+  "soup": "суп",
+  "paula's": "Паулы",
+  "chilli": "перец чили",
+  "powder": "порошок; chilli powder — молотый перец",
+  "burned": "обжигал",
+  "mouth": "рот",
+  "ate": "съел",
+  "all": "весь, все",
+  "decided": "решили, решила",
+  "wear": "носить, надеть",
+  "every": "каждый",
+  "piece": "кусок; piece of clothes — вещь одежды",
+  "clothes": "одежда",
+  "sleep": "спать",
+  "floor": "пол",
+  "close": "закрывать; близко",
+  "outside": "снаружи; наружу",
+  "wind": "ветер",
+  "screamed": "выл",
+  "night": "ночь",
+  "next": "следующий",
+  "morning": "утро",
+  "half": "половина",
+  "bread": "хлеб",
+  "nobody": "никто",
+  "wanted": "хотел(а)",
+  "believe": "поверить",
+  "what": "что",
+  "thinking": "думали",
+  "thief": "вор",
+  "checked": "проверила, проверил",
+  "list": "список",
+  "twice": "дважды",
+  "shook": "покачал (головой)",
+  "last": "последний; at last — наконец",
+  "asleep": "спящий; fall asleep — заснуть",
+  "spent": "провёл",
+  "most": "самый; большинство",
+  "walking": "ходить",
+  "around": "по (комнате), вокруг",
+  "face": "лицо",
+  "went": "вели; went red — покраснел; went back — вернулись; went — пошёл",
+  "red": "красный",
+  "you": "вы, ты",
+  "suspect": "подозревать",
+  "me": "меня, мне",
+  "table": "стол",
+  "fist": "кулак",
+  "i": "я",
+  "didn't": "не (вспом.)",
+  "take": "брать",
+  "anything": "что-либо, ничего",
+  "haven't": "не (вспом.)",
+  "able": "способный; be able to — мочь",
+  "sit": "сидеть",
+  "yesterday": "вчера",
+  "coldly": "холодно",
+  "people": "люди",
+  "behave": "вести себя",
+  "usually": "обычно",
+  "something": "что-то",
+  "hide": "прятать",
+  "embarrassed": "смущённый",
+  "after": "через, после",
+  "moment": "момент, минута",
+  "quietly": "тихо",
+  "i'm": "я (есть)",
+  "nervous": "нервный",
+  "because": "потому что",
+  "recently": "недавно",
+  "finished": "закончил",
+  "treatment": "лечение",
+  "gambling": "азартные игры",
+  "addiction": "зависимость",
+  "here": "здесь",
+  "doing": "делать",
+  "nothing": "ничего",
+  "hardest": "самый трудный",
+  "thing": "вещь",
+  "am": "(есть), являюсь",
+  "believed": "думала, верила",
+  "understood": "поняла",
+  "fear": "страх",
+  "has": "(вспом.); имеет",
+  "strong": "сильный",
+  "influence": "влияние",
+  "situation": "ситуация",
+  "such": "такой",
+  "uncertainty": "неопределённость",
+  "even": "даже",
+  "good": "хороший",
+  "cruel": "жестокий",
+  "hours": "часы",
+  "slowly": "медленно",
+  "split": "разделилась",
+  "into": "в",
+  "sides": "стороны",
+  "those": "те",
+  "trusted": "доверяли",
+  "did": "(вспом. глагол прош. вр.); сделал",
+  "moved": "перенесла",
+  "son's": "сына",
+  "sleeping": "спальный",
+  "bag": "мешок; sleeping bag — спальный мешок",
+  "far": "далёкий, далеко",
+  "corner": "угол",
+  "possible": "возможный; as far as possible — как можно дальше",
+  "find": "находить; находка",
+  "real": "настоящий, реальный",
+  "herself": "сама",
+  "third": "третий",
+  "day": "день",
+  "plane": "самолёт",
+  "waving": "размахивая",
+  "jackets": "куртки",
+  "shouting": "крича",
+  "flying": "летел",
+  "too": "слишком",
+  "clouds": "облака",
+  "gradually": "постепенно",
+  "died": "умер(ли)",
+  "away": "прочь",
+  "cry": "плакать",
+  "held": "прижала",
+  "against": "к, против",
+  "more": "более",
+  "disappeared": "пропало, исчезло",
+  "fish": "рыба",
+  "bar": "плитка",
+  "chocolate": "шоколад",
+  "else": "ещё",
+  "no": "нет, никакой",
+  "longer": "дольше; no longer — больше не",
+  "that's": "это",
+  "search": "обыщите",
+  "my": "мой",
+  "searched": "искали",
+  "found": "нашёл, нашли; был найден",
+  "set": "устроить; set a trap — устроить ловушку",
+  "trap": "ловушка",
+  "others": "остальные",
+  "poured": "насыпала",
+  "thin": "тонкий",
+  "flour": "мука",
+  "door": "дверь",
+  "anyone": "кто-нибудь",
+  "leave": "оставлять",
+  "marks": "следы",
+  "footprints": "следы",
+  "much": "гораздо",
+  "adult": "взрослый",
+  "shape": "форма",
+  "boot": "ботинок",
+  "whoever": "кто бы ни",
+  "socks": "носки",
+  "compared": "сравнила",
+  "shoes": "обувь",
+  "by": "у; к (сроку); by the time — к тому времени, когда",
+  "heart": "сердце",
+  "beat": "биться",
+  "faster": "быстрее",
+  "person": "человек",
+  "feet": "ноги (ступни)",
+  "size": "размер",
+  "say": "сказать",
+  "instead": "вместо этого",
+  "followed": "пошла по",
+  "across": "через",
+  "stairs": "лестница",
+  "up": "вверх; наверх",
+  "step": "шаг, ступенька",
+  "front": "перед; in front of — перед",
+  "lay": "лежал(а), лежали",
+  "opened": "открыл",
+  "freezing": "ледяной",
+  "come": "приходить; подойти",
+  "pile": "куча",
+  "blankets": "одеяла",
+  "young": "молодой",
+  "man": "человек, мужчина",
+  "lips": "губы",
+  "blue": "синий",
+  "both": "оба, и то и другое",
+  "hands": "руки",
+  "paper": "обёртка",
+  "don't": "не (вспом.)",
+  "closer": "ближе",
+  "whispered": "прошептал",
+  "weak": "слабый",
+  "lift": "поднять",
+  "capable": "способный",
+  "hurting": "причинять вред",
+  "anybody": "кто-нибудь, никто",
+  "voice": "голос",
+  "behind": "за, позади",
+  "please": "пожалуйста",
+  "angry": "сердитый",
+  "doorway": "дверной проём",
+  "look": "смотреть; look after — ухаживать",
+  "toilet": "туалет",
+  "so": "так; поэтому; чтобы",
+  "cold": "холодный; холодно",
+  "bad": "плохой",
+  "men": "люди, мужчины",
+  "looking": "искать; looking for — искать",
+  "mustn't": "не должен",
+  "tell": "сказать",
+  "brought": "приносил",
+  "gave": "отдал, отдала",
+  "knelt": "опустилась на колени",
+  "beside": "рядом с",
+  "pulse": "пульс",
+  "slow": "медленный",
+  "your": "ваш",
+  "name": "имя",
+  "daniel": "Даниэль (имя)",
+  "told": "рассказала, сказал",
+  "story": "история",
+  "pieces": "куски; in pieces — урывками",
+  "between": "между",
+  "breaths": "вдохи",
+  "working": "работал",
+  "ski": "лыжный",
+  "hotel": "отель",
+  "other": "другой",
+  "week": "неделя",
+  "someone": "кто-нибудь",
+  "stolen": "украл",
+  "money": "деньги",
+  "safe": "сейф",
+  "manager": "управляющий",
+  "police": "полиция",
+  "wouldn't": "не стали бы",
+  "cross": "перейти",
+  "pass": "перевал",
+  "climbed": "залез",
+  "voices": "голоса",
+  "downstairs": "внизу, вниз",
+  "afraid": "испуганный; be afraid — бояться",
+  "hand": "рука",
+  "took": "взял; забрали; took off — снял",
+  "protect": "защитить",
+  "yourself": "себя",
+  "nodded": "кивнул",
+  "great": "огромный",
+  "effort": "усилие",
+  "reached": "сунул руку",
+  "pulled": "вытащил",
+  "out": "наружу; take out — достать",
+  "orange": "оранжевый",
+  "device": "устройство",
+  "beacon": "радиомаяк",
+  "press": "нажать",
+  "button": "кнопка",
+  "sends": "передаёт",
+  "position": "местоположение, координаты",
+  "satellite": "спутник",
+  "use": "употреблять",
+  "means": "означает",
+  "can't": "не могу",
+  "child": "ребёнок",
+  "hungry": "голодный",
+  "could": "могла, мог",
+  "speak": "говорить",
+  "three": "три",
+  "burning": "сжигая",
+  "keep": "keep warm — согреться",
+  "warm": "тёплый; keep warm — согреться",
+  "wondering": "гадая",
+  "while": "в то время как, а",
+  "tool": "инструмент",
+  "lying": "лежал",
+  "few": "несколько",
+  "metres": "метры",
+  "heads": "головы",
+  "hesitate": "колебаться",
+  "time": "время; for the first time — впервые; by the time — к тому времени",
+  "pressed": "нажала",
+  "light": "огонёк",
+  "flash": "мигать",
+  "carried": "отнесла",
+  "viktor's": "Виктора",
+  "know": "знать",
+  "react": "реагировать",
+  "off": "took off — снял",
+  "cleaned": "протёр",
+  "seeing": "видеть",
+  "turned": "повернулась",
+  "sorry": "простите",
+  "wrong": "неправый",
+  "about": "о, про",
+  "blame": "обвинить",
+  "shrugged": "пожал плечами",
+  "smiled": "улыбнулся, улыбнулась",
+  "does": "(вспом.); what does it say — что написано",
+  "strange": "странный",
+  "things": "вещи",
+  "courage": "храбрость",
+  "than": "чем",
+  "any": "любой",
+  "helicopter": "вертолёт",
+  "arrived": "прилетел",
+  "just": "только что, просто",
+  "sunrise": "рассвет",
+  "rescue": "спасательный; rescue team — спасатели",
+  "team": "команда",
+  "closed": "закрыла",
+  "pilot": "пилот",
+  "letter": "письмо",
+  "written": "написал",
+  "signed": "подписали; подписанный",
+  "explaining": "объясняя",
+  "saved": "спас",
+  "lives": "жизни",
+  "weeks": "недели",
+  "later": "позже",
+  "during": "во время",
+  "healing": "выздоровление, заживление",
+  "frostbite": "обморожение",
+  "fingers": "пальцы",
+  "received": "получила",
+  "call": "звонок",
+  "investigated": "провела расследование",
+  "again": "снова",
+  "himself": "себя",
+  "pay": "платить; pay debts — расплатиться с долгами",
+  "debts": "долги",
+  "blamed": "обвинил",
+  "new": "новый",
+  "boy": "мальчик",
+  "defend": "защищать",
+  "sent": "прислал",
+  "present": "подарок",
+  "says": "говорит; сказано",
+  "learning": "учусь",
+  "brave": "храбрый",
+  "city": "город",
+  "busy": "оживлённый",
+  "noisy": "шумный",
+  "mountains": "горы",
+  "seemed": "казались",
+  "very": "очень",
+  "thought": "думала",
+  "mystery": "тайна",
+  "nearly": "чуть не, почти",
+  "destroyed": "погубила, разрушила",
+  "page": "страница",
+  "upon": "на",
+  "which": "который; что",
+  "names": "имена",
+  "perhaps": "может быть",
+  "true": "истинный",
+  "meaning": "смысл",
+  "five": "пять",
+  "possibility": "возможность",
+  "sometimes": "иногда",
+  "waits": "ждёт",
+  "open": "открытый"
+ },
+ "vocab": {
+  "thing": 8,
+  "things": 8,
+  "nursery": 18,
+  "then": 28,
+  "sitting": 38,
+  "room": 38,
+  "turtle": 48,
+  "spicy": 58,
+  "heard": 68,
+  "dinner": 78,
+  "cruel": 88,
+  "sword": 98,
+  "under": 108,
+  "high": 118,
+  "spent": 128,
+  "step": 138,
+  "began": 148,
+  "stick": 158,
+  "side": 168,
+  "pen": 178,
+  "night": 188,
+  "mouth": 198,
+  "such": 209,
+  "saturday": 219,
+  "able": 229,
+  "once": 239,
+  "this": 249,
+  "time": 249,
+  "compared": 259,
+  "ordered": 269,
+  "meaning": 279,
+  "plane": 290,
+  "wear": 300,
+  "insects": 310,
+  "pay": 320,
+  "clothes": 330,
+  "mystery": 340,
+  "thief": 350,
+  "suspect": 360,
+  "means": 370,
+  "imagine": 380,
+  "glasses": 390,
+  "patience": 408,
+  "possibility": 418,
+  "upon": 428,
+  "gradually": 440,
+  "socks": 452,
+  "addiction": 468,
+  "nervous": 479,
+  "embarrassed": 490,
+  "react": 500,
+  "healing": 511,
+  "rest": 521,
+  "fist": 532,
+  "uncertainty": 542,
+  "capable": 553,
+  "influence": 564,
+  "resided": 574,
+  "recently": 584,
+  "jacket": 595,
+  "jackets": 595,
+  "furniture": 605,
+  "courage": 616,
+  "hurry": 627,
+  "trap": 638,
+  "tool": 649
+ }
+}

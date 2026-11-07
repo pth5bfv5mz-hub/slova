@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What did the younger men in the village think about Elias?",
+  "q_ru": "Что молодые рыбаки думали об Элиасе?",
+  "options": [
+   "He and his boat were old and slow.",
+   "He was the best fisherman in Greyhaven.",
+   "He was too rich to go fishing.",
+   "He knew a lot about computers."
+  ],
+  "options_ru": [
+   "Что он и его лодка старые и медленные.",
+   "Что он лучший рыбак в Грейхейвене.",
+   "Что он слишком богат, чтобы рыбачить.",
+   "Что он много знает о компьютерах."
+  ],
+  "answer": 0,
+  "explain_ru": "«His boat, the Margaret, was old and slow, and so was he. At least that was the opinion of the younger men in the village»."
+ },
+ {
+  "q": "Why was Danny excited when they saw the white ship?",
+  "q_ru": "Почему Дэнни обрадовался, когда они увидели белый корабль?",
+  "options": [
+   "He knew the captain of the ship.",
+   "He wanted to work on a big ship.",
+   "He thought it was full of fish.",
+   "He thought they could keep a ship with no crew and get rich."
+  ],
+  "options_ru": [
+   "Он знал капитана корабля.",
+   "Он хотел работать на большом корабле.",
+   "Он думал, что корабль полон рыбы.",
+   "Он думал, что корабль без экипажа можно забрать себе и разбогатеть."
+  ],
+  "answer": 3,
+  "explain_ru": "Дэнни сказал: «If a ship has no crew, the people who find it can keep it... It's a fortune»."
+ },
+ {
+  "q": "What did Elias understand inside the ship?",
+  "q_ru": "Что Элиас понял внутри корабля?",
+  "options": [
+   "The crew was hiding from them.",
+   "The ship probably never had a crew.",
+   "The ship belonged to the army.",
+   "The ship was very old and broken."
+  ],
+  "options_ru": [
+   "Что экипаж от них прячется.",
+   "Что у корабля, вероятно, никогда не было экипажа.",
+   "Что корабль принадлежит армии.",
+   "Что корабль очень старый и сломанный."
+  ],
+  "answer": 1,
+  "explain_ru": "Там не было ни кухни, ни кроватей, «no place for people to live at all», поэтому Элиас сказал: «I don't think this ship ever had a crew»."
+ },
+ {
+  "q": "Whose name did Elias see on the screen after \"OWNER\"?",
+  "q_ru": "Чьё имя Элиас увидел на экране после слова «OWNER»?",
+  "options": [
+   "Danny's father.",
+   "The captain of the coast station.",
+   "His son, Michael, whom he had not spoken to for years.",
+   "His wife's brother."
+  ],
+  "options_ru": [
+   "Отца Дэнни.",
+   "Начальника береговой станции.",
+   "Своего сына Майкла, с которым он не разговаривал много лет.",
+   "Брата своей жены."
+  ],
+  "answer": 2,
+  "explain_ru": "На экране было имя «Michael Brand» — сын Элиаса. После ссоры двенадцать лет назад они не разговаривали."
+ },
+ {
+  "q": "Michael says: \"Fate is a delusion.\" What does \"delusion\" mean?",
+  "q_ru": "Майкл говорит: «Fate is a delusion». Что значит «delusion»?",
+  "options": [
+   "A false belief, something that is not real.",
+   "A very old law of the sea.",
+   "A strong feeling of happiness.",
+   "A part of a computer program."
+  ],
+  "options_ru": [
+   "Ложное убеждение, что-то нереальное.",
+   "Очень старый морской закон.",
+   "Сильное чувство счастья.",
+   "Часть компьютерной программы."
+  ],
+  "answer": 0,
+  "explain_ru": "«Delusion» — заблуждение. Майкл-инженер считает, что судьбы нет: корабль просто был запрограммирован искать ближайшую лодку."
+ },
+ {
+  "q": "How did life change for Elias at the end?",
+  "q_ru": "Как изменилась жизнь Элиаса в конце?",
+  "options": [
+   "He sold the Margaret and moved to the city.",
+   "Michael came every Sunday and went to sea with him.",
+   "He started to work for Michael's company.",
+   "He gave all the reward to Danny."
+  ],
+  "options_ru": [
+   "Он продал «Маргарет» и переехал в город.",
+   "Майкл стал приезжать каждое воскресенье и выходить с ним в море.",
+   "Он начал работать в компании Майкла.",
+   "Он отдал всю награду Дэнни."
+  ],
+  "answer": 1,
+  "explain_ru": "Главное в конце — не деньги: «every Sunday, Michael drove four hours... and went out to sea with his father». Дэнни получил только половину награды."
+ }
+]

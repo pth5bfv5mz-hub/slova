@@ -1,0 +1,938 @@
+{
+ "315": {
+  "en": "Is there a good café nearby?",
+  "ru": "Есть ли поблизости хорошее кафе?",
+  "ek": "nearby",
+  "rk": "поблизости"
+ },
+ "316": {
+  "en": "I need to go to the pharmacy today.",
+  "ru": "Мне нужно сегодня сходить в аптеку.",
+  "ek": "pharmacy",
+  "rk": "аптеку"
+ },
+ "317": {
+  "en": "Look, there is a bus stop ahead.",
+  "ru": "Смотри, впереди автобусная остановка.",
+  "ek": "ahead",
+  "rk": "впереди"
+ },
+ "318": {
+  "en": "I speak English a little.",
+  "ru": "Я немного говорю по-английски.",
+  "ek": "a little",
+  "rk": "немного"
+ },
+ "319": {
+  "en": "There was an accident on our street yesterday.",
+  "ru": "Вчера на нашей улице была авария.",
+  "ek": "accident",
+  "rk": "авария"
+ },
+ "320": {
+  "en": "I will pay for dinner tonight.",
+  "ru": "Сегодня вечером я заплачу за ужин.",
+  "ek": "pay",
+  "rk": "заплачу"
+ },
+ "321": {
+  "en": "He passed the exam on his first attempt.",
+  "ru": "Он сдал экзамен с первой попытки.",
+  "ek": "attempt",
+  "rk": "попытки"
+ },
+ "322": {
+  "en": "We have a meeting at ten o'clock.",
+  "ru": "У нас встреча в десять часов.",
+  "ek": "meeting",
+  "rk": "встреча"
+ },
+ "323": {
+  "en": "The customer wants to talk to the manager.",
+  "ru": "Клиент хочет поговорить с менеджером.",
+  "ek": "customer",
+  "rk": "Клиент"
+ },
+ "324": {
+  "en": "I am almost ready to go.",
+  "ru": "Я почти готов идти.",
+  "ek": "almost",
+  "rk": "почти"
+ },
+ "325": {
+  "en": "I need to prepare for the exam.",
+  "ru": "Мне нужно готовиться к экзамену.",
+  "ek": "prepare",
+  "rk": "готовиться"
+ },
+ "326": {
+  "en": "She has a lot of experience with children.",
+  "ru": "У неё большой опыт работы с детьми.",
+  "ek": "experience",
+  "rk": "опыт"
+ },
+ "327": {
+  "en": "I was able to fix my bike.",
+  "ru": "Я смог починить свой велосипед.",
+  "ek": "able",
+  "rk": "смог"
+ },
+ "328": {
+  "en": "I expect a letter from my friend.",
+  "ru": "Я ожидаю письмо от своего друга.",
+  "ek": "expect",
+  "rk": "ожидаю"
+ },
+ "329": {
+  "en": "I deal with angry customers every day.",
+  "ru": "Я каждый день имею дело с сердитыми клиентами.",
+  "ek": "deal",
+  "rk": "имею дело"
+ },
+ "330": {
+  "en": "I need to wash my clothes.",
+  "ru": "Мне нужно постирать свою одежду.",
+  "ek": "clothes",
+  "rk": "одежду"
+ },
+ "331": {
+  "en": "My brother is an honest man.",
+  "ru": "Мой брат честный человек.",
+  "ek": "honest",
+  "rk": "честный"
+ },
+ "332": {
+  "en": "Their wedding is next summer.",
+  "ru": "Их свадьба будет следующим летом.",
+  "ek": "wedding",
+  "rk": "свадьба"
+ },
+ "333": {
+  "en": "The doctor checked my weight today.",
+  "ru": "Сегодня врач проверил мой вес.",
+  "ek": "weight",
+  "rk": "вес"
+ },
+ "334": {
+  "en": "Fortunately, I found my keys.",
+  "ru": "К счастью, я нашёл свои ключи.",
+  "ek": "Fortunately",
+  "rk": "К счастью"
+ },
+ "335": {
+  "en": "Unfortunately, the shop is closed today.",
+  "ru": "К сожалению, магазин сегодня закрыт.",
+  "ek": "Unfortunately",
+  "rk": "К сожалению"
+ },
+ "336": {
+  "en": "I found a dead bird in the garden.",
+  "ru": "Я нашёл мёртвую птицу в саду.",
+  "ek": "dead",
+  "rk": "мёртвую"
+ },
+ "337": {
+  "en": "My old neighbour feels lonely.",
+  "ru": "Мой старый сосед чувствует себя одиноким.",
+  "ek": "lonely",
+  "rk": "одиноким"
+ },
+ "338": {
+  "en": "Please read the instructions carefully.",
+  "ru": "Пожалуйста, внимательно прочитай инструкцию.",
+  "ek": "carefully",
+  "rk": "внимательно"
+ },
+ "339": {
+  "en": "Parents should not punish children too often.",
+  "ru": "Родителям не следует слишком часто наказывать детей.",
+  "ek": "punish",
+  "rk": "наказывать"
+ },
+ "340": {
+  "en": "Where he went is still a mystery.",
+  "ru": "Куда он ушёл, до сих пор тайна.",
+  "ek": "mystery",
+  "rk": "тайна"
+ },
+ "341": {
+  "en": "There is too much violence in this film.",
+  "ru": "В этом фильме слишком много насилия.",
+  "ek": "violence",
+  "rk": "насилия"
+ },
+ "342": {
+  "en": "My sisters have very different hobbies.",
+  "ru": "У моих сестёр очень разные хобби.",
+  "ek": "different",
+  "rk": "разные"
+ },
+ "343": {
+  "en": "The death of his dog made him sad.",
+  "ru": "Смерть его собаки его опечалила.",
+  "ek": "death",
+  "rk": "Смерть"
+ },
+ "344": {
+  "en": "Good dogs obey their owners.",
+  "ru": "Хорошие собаки подчиняются своим хозяевам.",
+  "ek": "obey",
+  "rk": "подчиняются"
+ },
+ "345": {
+  "en": "It is an honour to meet you.",
+  "ru": "Для меня честь познакомиться с вами.",
+  "ek": "honour",
+  "rk": "честь"
+ },
+ "346": {
+  "en": "The thief spent two years in prison.",
+  "ru": "Вор провёл два года в тюрьме.",
+  "ek": "prison",
+  "rk": "тюрьме"
+ },
+ "347": {
+  "en": "This job is a great opportunity for me.",
+  "ru": "Эта работа для меня отличная возможность.",
+  "ek": "opportunity",
+  "rk": "возможность"
+ },
+ "348": {
+  "en": "I feel weak after my illness.",
+  "ru": "После болезни я чувствую себя слабым.",
+  "ek": "weak",
+  "rk": "слабым"
+ },
+ "349": {
+  "en": "Everyone called him a traitor.",
+  "ru": "Все называли его предателем.",
+  "ek": "traitor",
+  "rk": "предателем"
+ },
+ "350": {
+  "en": "The police caught the thief at night.",
+  "ru": "Полиция поймала вора ночью.",
+  "ek": "thief",
+  "rk": "вора"
+ },
+ "351": {
+  "en": "The cat is sleeping on the sofa.",
+  "ru": "Кот спит на диване.",
+  "ek": "sofa",
+  "rk": "диване"
+ },
+ "352": {
+  "en": "I like to observe birds in the park.",
+  "ru": "Я люблю наблюдать за птицами в парке.",
+  "ek": "observe",
+  "rk": "наблюдать"
+ },
+ "353": {
+  "en": "Above all, I want my family to be happy.",
+  "ru": "Прежде всего я хочу, чтобы моя семья была счастлива.",
+  "ek": "Above all",
+  "rk": "Прежде всего"
+ },
+ "354": {
+  "en": "It is hard to breathe in this room.",
+  "ru": "В этой комнате трудно дышать.",
+  "ek": "breathe",
+  "rk": "дышать"
+ },
+ "355": {
+  "en": "My phone is in my pocket.",
+  "ru": "Мой телефон у меня в кармане.",
+  "ek": "pocket",
+  "rk": "кармане"
+ },
+ "356": {
+  "en": "Please whisper, the baby is sleeping.",
+  "ru": "Пожалуйста, шепчи, ребёнок спит.",
+  "ek": "whisper",
+  "rk": "шепчи"
+ },
+ "357": {
+  "en": "He is a complete stranger to me.",
+  "ru": "Он для меня совершенно незнакомый человек.",
+  "ek": "complete",
+  "rk": "совершенно"
+ },
+ "358": {
+  "en": "I can't get used to the cold weather.",
+  "ru": "Я не могу привыкнуть к холодной погоде.",
+  "ek": "get used to",
+  "rk": "привыкнуть"
+ },
+ "359": {
+  "en": "Add some salt to the soup.",
+  "ru": "Добавь немного соли в суп.",
+  "ek": "Add",
+  "rk": "Добавь"
+ },
+ "360": {
+  "en": "I suspect that he is lying.",
+  "ru": "Я подозреваю, что он врёт.",
+  "ek": "suspect",
+  "rk": "подозреваю"
+ },
+ "361": {
+  "en": "I had no intention of hurting you.",
+  "ru": "У меня не было намерения тебя обидеть.",
+  "ek": "intention",
+  "rk": "намерения"
+ },
+ "362": {
+  "en": "Let's drink tea instead of coffee.",
+  "ru": "Давай выпьем чай вместо кофе.",
+  "ek": "instead",
+  "rk": "вместо"
+ },
+ "363": {
+  "en": "I suggest we go to the cinema.",
+  "ru": "Я предлагаю пойти в кино.",
+  "ek": "suggest",
+  "rk": "предлагаю"
+ },
+ "364": {
+  "en": "Learning a new language is a real challenge.",
+  "ru": "Изучать новый язык — настоящее испытание.",
+  "ek": "challenge",
+  "rk": "испытание"
+ },
+ "365": {
+  "en": "I regret saying that to her.",
+  "ru": "Я сожалею, что сказал ей это.",
+  "ek": "regret",
+  "rk": "сожалею"
+ },
+ "366": {
+  "en": "Please forgive me for being late.",
+  "ru": "Пожалуйста, прости меня за опоздание.",
+  "ek": "forgive",
+  "rk": "прости"
+ },
+ "367": {
+  "en": "There was a big crowd at the station.",
+  "ru": "На вокзале была большая толпа.",
+  "ek": "crowd",
+  "rk": "толпа"
+ },
+ "368": {
+  "en": "It was love at first sight.",
+  "ru": "Это была любовь с первого взгляда.",
+  "ek": "sight",
+  "rk": "взгляда"
+ },
+ "369": {
+  "en": "Today is a special day for us.",
+  "ru": "Сегодня для нас особенный день.",
+  "ek": "special",
+  "rk": "особенный"
+ },
+ "370": {
+  "en": "What does this word mean? It means 'happy'.",
+  "ru": "Что значит это слово? Оно означает «счастливый».",
+  "ek": "means",
+  "rk": "означает"
+ },
+ "371": {
+  "en": "She feels confident before the interview.",
+  "ru": "Перед собеседованием она чувствует себя уверенной.",
+  "ek": "confident",
+  "rk": "уверенной"
+ },
+ "372": {
+  "en": "Children need some freedom to play.",
+  "ru": "Детям нужна свобода, чтобы играть.",
+  "ek": "freedom",
+  "rk": "свобода"
+ },
+ "373": {
+  "en": "I read a review of this new phone.",
+  "ru": "Я прочитал обзор этого нового телефона.",
+  "ek": "review",
+  "rk": "обзор"
+ },
+ "374": {
+  "en": "We discovered a small café near the river.",
+  "ru": "Мы обнаружили маленькое кафе у реки.",
+  "ek": "discovered",
+  "rk": "обнаружили"
+ },
+ "375": {
+  "en": "Put the plate on the table, please.",
+  "ru": "Поставь тарелку на стол, пожалуйста.",
+  "ek": "plate",
+  "rk": "тарелку"
+ },
+ "376": {
+  "en": "Don't hit your little brother!",
+  "ru": "Не бей своего младшего брата!",
+  "ek": "hit",
+  "rk": "бей"
+ },
+ "377": {
+  "en": "This is the worst day of my life.",
+  "ru": "Это худший день в моей жизни.",
+  "ek": "worst",
+  "rk": "худший"
+ },
+ "378": {
+  "en": "Can you fix this mistake in my text?",
+  "ru": "Можешь исправить эту ошибку в моём тексте?",
+  "ek": "fix",
+  "rk": "исправить"
+ },
+ "379": {
+  "en": "Don't rush, we have enough time.",
+  "ru": "Не торопись, у нас достаточно времени.",
+  "ek": "rush",
+  "rk": "торопись"
+ },
+ "380": {
+  "en": "Imagine a house by the sea.",
+  "ru": "Представь себе дом у моря.",
+  "ek": "Imagine",
+  "rk": "Представь"
+ },
+ "381": {
+  "en": "Let me check my schedule for tomorrow.",
+  "ru": "Дай я проверю своё расписание на завтра.",
+  "ek": "schedule",
+  "rk": "расписание"
+ },
+ "382": {
+  "en": "We have an issue with the internet.",
+  "ru": "У нас проблема с интернетом.",
+  "ek": "issue",
+  "rk": "проблема"
+ },
+ "383": {
+  "en": "The government wants to build new schools.",
+  "ru": "Правительство хочет построить новые школы.",
+  "ek": "government",
+  "rk": "Правительство"
+ },
+ "384": {
+  "en": "This little room is very cozy.",
+  "ru": "Эта маленькая комната очень уютная.",
+  "ek": "cozy",
+  "rk": "уютная"
+ },
+ "385": {
+  "en": "I am on vacation next week.",
+  "ru": "На следующей неделе я в отпуске.",
+  "ek": "vacation",
+  "rk": "отпуске"
+ },
+ "386": {
+  "en": "Don't judge people by their clothes.",
+  "ru": "Не суди людей по одежде.",
+  "ek": "judge",
+  "rk": "суди"
+ },
+ "387": {
+  "en": "I try to avoid sweet food.",
+  "ru": "Я стараюсь избегать сладкой еды.",
+  "ek": "avoid",
+  "rk": "избегать"
+ },
+ "388": {
+  "en": "Everyone came except my brother.",
+  "ru": "Пришли все, кроме моего брата.",
+  "ek": "except",
+  "rk": "кроме"
+ },
+ "389": {
+  "en": "This bag is too heavy for me.",
+  "ru": "Эта сумка слишком тяжёлая для меня.",
+  "ek": "heavy",
+  "rk": "тяжёлая"
+ },
+ "390": {
+  "en": "I can't read without my glasses.",
+  "ru": "Я не могу читать без очков.",
+  "ek": "glasses",
+  "rk": "очков"
+ },
+ "392": {
+  "en": "Thank you for your good advice.",
+  "ru": "Спасибо за твой хороший совет.",
+  "ek": "advice",
+  "rk": "совет"
+ },
+ "393": {
+  "en": "He treats his workers very well.",
+  "ru": "Он очень хорошо относится к своим работникам.",
+  "ek": "treats",
+  "rk": "относится"
+ },
+ "401": {
+  "en": "There is no sense in waiting.",
+  "ru": "Нет смысла ждать.",
+  "ek": "sense",
+  "rk": "смысла"
+ },
+ "402": {
+  "en": "I can't lift this box alone.",
+  "ru": "Я не могу поднять эту коробку один.",
+  "ek": "lift",
+  "rk": "поднять"
+ },
+ "403": {
+  "en": "I love fruit, especially apples.",
+  "ru": "Я люблю фрукты, особенно яблоки.",
+  "ek": "especially",
+  "rk": "особенно"
+ },
+ "404": {
+  "en": "She looked at her son with pride.",
+  "ru": "Она смотрела на сына с гордостью.",
+  "ek": "pride",
+  "rk": "гордостью"
+ },
+ "405": {
+  "en": "The quality of this coffee is very good.",
+  "ru": "Качество этого кофе очень хорошее.",
+  "ek": "quality",
+  "rk": "Качество"
+ },
+ "406": {
+  "en": "Good fortune helped us find the house.",
+  "ru": "Удача помогла нам найти этот дом.",
+  "ek": "fortune",
+  "rk": "Удача"
+ },
+ "407": {
+  "en": "Many families in this town live in poverty.",
+  "ru": "Многие семьи в этом городе живут в бедности.",
+  "ek": "poverty",
+  "rk": "бедности"
+ },
+ "408": {
+  "en": "You need a lot of patience with children.",
+  "ru": "С детьми нужно много терпения.",
+  "ek": "patience",
+  "rk": "терпения"
+ },
+ "409": {
+  "en": "This road goes to the village.",
+  "ru": "Эта дорога ведёт в деревню.",
+  "ek": "road",
+  "rk": "дорога"
+ },
+ "410": {
+  "en": "He wrote a letter to his beloved wife.",
+  "ru": "Он написал письмо своей любимой жене.",
+  "ek": "beloved",
+  "rk": "любимой"
+ },
+ "411": {
+  "en": "It was cold. However, we went for a walk.",
+  "ru": "Было холодно. Однако мы пошли гулять.",
+  "ek": "However",
+  "rk": "Однако"
+ },
+ "412": {
+  "en": "I am a bit tired today.",
+  "ru": "Сегодня я немного устал.",
+  "ek": "bit",
+  "rk": "немного"
+ },
+ "413": {
+  "en": "In the morning there was mist over the lake.",
+  "ru": "Утром над озером был туман.",
+  "ek": "mist",
+  "rk": "туман"
+ },
+ "414": {
+  "en": "We walked across the bridge.",
+  "ru": "Мы прошли через мост.",
+  "ek": "across",
+  "rk": "через"
+ },
+ "415": {
+  "en": "I want to invest money in my education.",
+  "ru": "Я хочу вкладывать деньги в своё образование.",
+  "ek": "invest",
+  "rk": "вкладывать"
+ },
+ "416": {
+  "en": "The baby cried endlessly all night.",
+  "ru": "Ребёнок бесконечно плакал всю ночь.",
+  "ek": "endlessly",
+  "rk": "бесконечно"
+ },
+ "417": {
+  "en": "Read the description of the room first.",
+  "ru": "Сначала прочитай описание комнаты.",
+  "ek": "description",
+  "rk": "описание"
+ },
+ "418": {
+  "en": "Is there any possibility to change the date?",
+  "ru": "Есть ли возможность изменить дату?",
+  "ek": "possibility",
+  "rk": "возможность"
+ },
+ "419": {
+  "en": "What is the area of your flat?",
+  "ru": "Какая площадь у твоей квартиры?",
+  "ek": "area",
+  "rk": "площадь"
+ },
+ "420": {
+  "en": "It was a hard decision for me.",
+  "ru": "Для меня это было трудное решение.",
+  "ek": "decision",
+  "rk": "решение"
+ },
+ "421": {
+  "en": "The bank is opposite the post office.",
+  "ru": "Банк находится напротив почты.",
+  "ek": "opposite",
+  "rk": "напротив"
+ },
+ "422": {
+  "en": "He will probably come later.",
+  "ru": "Он, вероятно, придёт позже.",
+  "ek": "probably",
+  "rk": "вероятно"
+ },
+ "423": {
+  "en": "Can you give me an example?",
+  "ru": "Можешь привести мне пример?",
+  "ek": "example",
+  "rk": "пример"
+ },
+ "424": {
+  "en": "I read books to fight boredom.",
+  "ru": "Я читаю книги, чтобы бороться со скукой.",
+  "ek": "boredom",
+  "rk": "скукой"
+ },
+ "425": {
+  "en": "Our flight leaves at six in the morning.",
+  "ru": "Наш рейс вылетает в шесть утра.",
+  "ek": "flight",
+  "rk": "рейс"
+ },
+ "426": {
+  "en": "Write your name on a blank page.",
+  "ru": "Напиши своё имя на пустой странице.",
+  "ek": "blank",
+  "rk": "пустой"
+ },
+ "427": {
+  "en": "This is my favourite place in the city.",
+  "ru": "Это моё любимое место в городе.",
+  "ek": "place",
+  "rk": "место"
+ },
+ "428": {
+  "en": "The cat sat upon the old chair.",
+  "ru": "Кот сидел на старом стуле.",
+  "ek": "upon",
+  "rk": "на"
+ },
+ "429": {
+  "en": "I guess he is at home now.",
+  "ru": "Я предполагаю, что он сейчас дома.",
+  "ek": "guess",
+  "rk": "предполагаю"
+ },
+ "430": {
+  "en": "You did an excellent job today.",
+  "ru": "Сегодня ты сделал отличную работу.",
+  "ek": "excellent",
+  "rk": "отличную"
+ },
+ "431": {
+  "en": "I read this book with great pleasure.",
+  "ru": "Я прочитал эту книгу с большим удовольствием.",
+  "ek": "pleasure",
+  "rk": "удовольствием"
+ },
+ "433": {
+  "en": "Please call me immediately when you arrive.",
+  "ru": "Пожалуйста, немедленно позвони мне, когда приедешь.",
+  "ek": "immediately",
+  "rk": "немедленно"
+ },
+ "434": {
+  "en": "He believes that meeting her was destiny.",
+  "ru": "Он верит, что встреча с ней была судьбой.",
+  "ek": "destiny",
+  "rk": "судьбой"
+ },
+ "435": {
+  "en": "The trip was better than my expectations.",
+  "ru": "Поездка была лучше моих ожиданий.",
+  "ek": "expectation",
+  "rk": "ожиданий"
+ },
+ "436": {
+  "en": "There was a rise in food prices.",
+  "ru": "Произошёл рост цен на продукты.",
+  "ek": "rise",
+  "rk": "рост"
+ },
+ "437": {
+  "en": "We put flowers on my grandfather's grave.",
+  "ru": "Мы положили цветы на могилу моего дедушки.",
+  "ek": "grave",
+  "rk": "могилу"
+ },
+ "439": {
+  "en": "Just simply press this button.",
+  "ru": "Просто нажми на эту кнопку.",
+  "ek": "simply",
+  "rk": "Просто"
+ },
+ "440": {
+  "en": "The weather is gradually getting warmer.",
+  "ru": "Погода постепенно становится теплее.",
+  "ek": "gradually",
+  "rk": "постепенно"
+ },
+ "441": {
+  "en": "That road sign says stop.",
+  "ru": "Этот дорожный знак говорит остановиться.",
+  "ek": "sign",
+  "rk": "знак"
+ },
+ "442": {
+  "en": "I suppose she is busy today.",
+  "ru": "Я предполагаю, что она сегодня занята.",
+  "ek": "suppose",
+  "rk": "предполагаю"
+ },
+ "444": {
+  "en": "Sorry to disturb you, but I have a question.",
+  "ru": "Извините, что беспокою, но у меня вопрос.",
+  "ek": "disturb",
+  "rk": "беспокою"
+ },
+ "445": {
+  "en": "Don't blame me for your mistakes.",
+  "ru": "Не обвиняй меня в своих ошибках.",
+  "ek": "blame",
+  "rk": "обвиняй"
+ },
+ "446": {
+  "en": "The teacher praised his good behaviour.",
+  "ru": "Учитель похвалил его хорошее поведение.",
+  "ek": "behaviour",
+  "rk": "поведение"
+ },
+ "447": {
+  "en": "Do you have a lighter?",
+  "ru": "У тебя есть зажигалка?",
+  "ek": "lighter",
+  "rk": "зажигалка"
+ },
+ "449": {
+  "en": "The distance to the station is two kilometres.",
+  "ru": "Расстояние до вокзала — два километра.",
+  "ek": "distance",
+  "rk": "Расстояние"
+ },
+ "450": {
+  "en": "It was fate that we met again.",
+  "ru": "Это была судьба, что мы снова встретились.",
+  "ek": "fate",
+  "rk": "судьба"
+ },
+ "451": {
+  "en": "There is still hope that he will come.",
+  "ru": "Ещё есть надежда, что он придёт.",
+  "ek": "hope",
+  "rk": "надежда"
+ },
+ "452": {
+  "en": "I can't find my warm socks.",
+  "ru": "Я не могу найти свои тёплые носки.",
+  "ek": "socks",
+  "rk": "носки"
+ },
+ "454": {
+  "en": "The child looked curiously at the dog.",
+  "ru": "Ребёнок с любопытством смотрел на собаку.",
+  "ek": "curiously",
+  "rk": "с любопытством"
+ },
+ "457": {
+  "en": "It's cold, give me another blanket.",
+  "ru": "Холодно, дай мне ещё одно одеяло.",
+  "ek": "blanket",
+  "rk": "одеяло"
+ },
+ "458": {
+  "en": "My grandmother is a very wise woman.",
+  "ru": "Моя бабушка очень мудрая женщина.",
+  "ek": "wise",
+  "rk": "мудрая"
+ },
+ "460": {
+  "en": "Take a deep breath and relax.",
+  "ru": "Сделай глубокий вдох и расслабься.",
+  "ek": "breath",
+  "rk": "вдох"
+ },
+ "461": {
+  "en": "The wind hit the house with great force.",
+  "ru": "Ветер ударил по дому с огромной силой.",
+  "ek": "force",
+  "rk": "силой"
+ },
+ "462": {
+  "en": "Her husband is very jealous.",
+  "ru": "Её муж очень ревнивый.",
+  "ek": "jealous",
+  "rk": "ревнивый"
+ },
+ "464": {
+  "en": "He felt guilt after the argument.",
+  "ru": "После ссоры он почувствовал вину.",
+  "ek": "guilt",
+  "rk": "вину"
+ },
+ "466": {
+  "en": "Don't be rude to your teacher.",
+  "ru": "Не будь грубым со своим учителем.",
+  "ek": "rude",
+  "rk": "грубым"
+ },
+ "467": {
+  "en": "I want to make a complaint about the room.",
+  "ru": "Я хочу подать жалобу на номер.",
+  "ek": "complaint",
+  "rk": "жалобу"
+ },
+ "468": {
+  "en": "Phone addiction is a big problem today.",
+  "ru": "Зависимость от телефона — большая проблема сегодня.",
+  "ek": "addiction",
+  "rk": "Зависимость"
+ },
+ "469": {
+  "en": "Someone tried to steal my bike.",
+  "ru": "Кто-то пытался украсть мой велосипед.",
+  "ek": "steal",
+  "rk": "украсть"
+ },
+ "470": {
+  "en": "I never skip breakfast.",
+  "ru": "Я никогда не пропускаю завтрак.",
+  "ek": "skip",
+  "rk": "пропускаю"
+ },
+ "471": {
+  "en": "She feels anxiety before every exam.",
+  "ru": "Она чувствует беспокойство перед каждым экзаменом.",
+  "ek": "anxiety",
+  "rk": "беспокойство"
+ },
+ "472": {
+  "en": "My phone is a big distraction at work.",
+  "ru": "Мой телефон — большое отвлечение на работе.",
+  "ek": "distraction",
+  "rk": "отвлечение"
+ },
+ "473": {
+  "en": "Running every morning is a good habit.",
+  "ru": "Бегать каждое утро — хорошая привычка.",
+  "ek": "habit",
+  "rk": "привычка"
+ },
+ "475": {
+  "en": "He threw the paper down in frustration.",
+  "ru": "Он бросил бумагу в разочаровании.",
+  "ek": "frustration",
+  "rk": "разочаровании"
+ },
+ "476": {
+  "en": "She could not hide her annoyance.",
+  "ru": "Она не могла скрыть своё раздражение.",
+  "ek": "annoyance",
+  "rk": "раздражение"
+ },
+ "477": {
+  "en": "The scared child hid behind his mother.",
+  "ru": "Испуганный ребёнок спрятался за маму.",
+  "ek": "scared",
+  "rk": "Испуганный"
+ },
+ "478": {
+  "en": "I am afraid of big dogs.",
+  "ru": "Я боюсь больших собак.",
+  "ek": "afraid",
+  "rk": "боюсь"
+ },
+ "479": {
+  "en": "I always feel nervous before an exam.",
+  "ru": "Перед экзаменом я всегда нервничаю.",
+  "ek": "nervous",
+  "rk": "нервничаю"
+ },
+ "480": {
+  "en": "Mum is worried because you are late.",
+  "ru": "Мама беспокоится, потому что ты опаздываешь.",
+  "ek": "worried",
+  "rk": "беспокоится"
+ },
+ "481": {
+  "en": "What a relief that you are safe!",
+  "ru": "Какое облегчение, что ты в безопасности!",
+  "ek": "relief",
+  "rk": "облегчение"
+ },
+ "482": {
+  "en": "I get satisfaction from helping people.",
+  "ru": "Я получаю удовлетворение, помогая людям.",
+  "ek": "satisfaction",
+  "rk": "удовлетворение"
+ },
+ "483": {
+  "en": "We need action, not words.",
+  "ru": "Нам нужны действия, а не слова.",
+  "ek": "action",
+  "rk": "действия"
+ },
+ "484": {
+  "en": "I was exhausted after the long trip.",
+  "ru": "После долгой поездки я был измучен.",
+  "ek": "exhausted",
+  "rk": "измучен"
+ },
+ "485": {
+  "en": "I am confused by these instructions.",
+  "ru": "Я растерян из-за этих инструкций.",
+  "ek": "confused",
+  "rk": "растерян"
+ },
+ "487": {
+  "en": "We are hopeful about the future.",
+  "ru": "Мы с надеждой смотрим в будущее.",
+  "ek": "hopeful",
+  "rk": "с надеждой"
+ },
+ "488": {
+  "en": "The city made a good impression on me.",
+  "ru": "Город произвёл на меня хорошее впечатление.",
+  "ek": "impression",
+  "rk": "впечатление"
+ },
+ "489": {
+  "en": "We are going in the wrong direction.",
+  "ru": "Мы идём не в том направлении.",
+  "ek": "direction",
+  "rk": "направлении"
+ },
+ "490": {
+  "en": "I felt embarrassed when I fell.",
+  "ru": "Я почувствовал себя смущённым, когда упал.",
+  "ek": "embarrassed",
+  "rk": "смущённым"
+ }
+}

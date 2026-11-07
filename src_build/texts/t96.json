@@ -1,0 +1,1330 @@
+{
+ "id": 96,
+ "level": "B1",
+ "title_en": "The Wrong Suitcase",
+ "title_ru": "Не тот чемодан",
+ "genre": "Комедия",
+ "summary_ru": "Осторожный инженер прилетает в Порту на самую важную встречу в жизни и обнаруживает в своём чемодане вместо костюма и образцов розовый костюм принцессы, рыжий парик и резиновую курицу — а его вещи тем временем увозит в другой конец города весёлая аниматорша.",
+ "paragraphs": [
+  {
+   "en": "Gilbert Pym had three rules for travelling. Arrive at the airport two hours early. Always carry a sandwich. And never put anything important in a suitcase that goes into the hold of the plane. On the Sunday evening when this story begins, he broke the third rule, and he would remember it for the rest of his life.",
+   "ru": "У Гилберта Пима было три правила для путешествий. Приезжать в аэропорт за два часа. Всегда брать с собой бутерброд. И никогда не класть ничего важного в чемодан, который едет в багажном отделении самолёта. В то воскресенье вечером, с которого начинается эта история, он нарушил третье правило — и запомнил это на всю жизнь.",
+   "s": [
+    [
+     "Gilbert Pym had three rules for travelling.",
+     "У Гилберта Пима было три правила для путешествий."
+    ],
+    [
+     "Arrive at the airport two hours early.",
+     "Приезжать в аэропорт за два часа."
+    ],
+    [
+     "Always carry a sandwich.",
+     "Всегда брать с собой бутерброд."
+    ],
+    [
+     "And never put anything important in a suitcase that goes into the hold of the plane.",
+     "И никогда не класть ничего важного в чемодан, который едет в багажном отделении самолёта."
+    ],
+    [
+     "On the Sunday evening when this story begins, he broke the third rule, and he would remember it for the rest of his life.",
+     "В то воскресенье вечером, с которого начинается эта история, он нарушил третье правило — и запомнил это на всю жизнь."
+    ]
+   ]
+  },
+  {
+   "en": "If you had to define Gilbert in one word, the word would be \"careful\". He was forty-one, very tall and very polite, and he worked as an engineer for a small company in Leeds called Everglass. For six years he and his team had been working on one idea: a wine glass that looked completely normal but did not break. Now the glass was ready, and the company had almost no money left.",
+   "ru": "Если бы нужно было определить Гилберта одним словом, этим словом было бы «осторожный». Ему был сорок один год, он был очень высоким и очень вежливым и работал инженером в небольшой компании в Лидсе под названием «Эверглас». Шесть лет он и его команда работали над одной идеей: бокалом для вина, который выглядел совершенно обычным, но не бился. Теперь бокал был готов, а денег у компании почти не осталось.",
+   "s": [
+    [
+     "If you had to define Gilbert in one word, the word would be \"careful\".",
+     "Если бы нужно было определить Гилберта одним словом, этим словом было бы «осторожный»."
+    ],
+    [
+     "He was forty-one, very tall and very polite, and he worked as an engineer for a small company in Leeds called Everglass.",
+     "Ему был сорок один год, он был очень высоким и очень вежливым и работал инженером в небольшой компании в Лидсе под названием «Эверглас»."
+    ],
+    [
+     "For six years he and his team had been working on one idea: a wine glass that looked completely normal but did not break.",
+     "Шесть лет он и его команда работали над одной идеей: бокалом для вина, который выглядел совершенно обычным, но не бился."
+    ],
+    [
+     "Now the glass was ready, and the company had almost no money left.",
+     "Теперь бокал был готов, а денег у компании почти не осталось."
+    ]
+   ]
+  },
+  {
+   "en": "That was why Gilbert was flying to Porto. At nine o'clock the next morning he had a meeting with Imelda Ferreira, who owned more than eighty restaurants and hotels in Portugal and Spain. If she decided to invest, Everglass would survive. If she did not, the company would probably close before the summer.",
+   "ru": "Именно поэтому Гилберт летел в Порту. В девять часов следующего утра у него была встреча с Имельдой Феррейрой, которой принадлежало больше восьмидесяти ресторанов и отелей в Португалии и Испании. Если бы она решила вложить деньги, «Эверглас» бы выжил. Если нет, компания, скорее всего, закрылась бы до лета.",
+   "s": [
+    [
+     "That was why Gilbert was flying to Porto.",
+     "Именно поэтому Гилберт летел в Порту."
+    ],
+    [
+     "At nine o'clock the next morning he had a meeting with Imelda Ferreira, who owned more than eighty restaurants and hotels in Portugal and Spain.",
+     "В девять часов следующего утра у него была встреча с Имельдой Феррейрой, которой принадлежало больше восьмидесяти ресторанов и отелей в Португалии и Испании."
+    ],
+    [
+     "If she decided to invest, Everglass would survive.",
+     "Если бы она решила вложить деньги, «Эверглас» бы выжил."
+    ],
+    [
+     "If she did not, the company would probably close before the summer.",
+     "Если нет, компания, скорее всего, закрылась бы до лета."
+    ]
+   ]
+  },
+  {
+   "en": "His laptop was in his hand luggage, but his suitcase held everything else: his best grey suit, three white shirts, his lucky blue tie and ten sample glasses, each one carefully wrapped in a sock. In his defence, the glasses were too many for his small bag, and the airline did not allow liquids, sharp objects or, as far as he knew, common sense.",
+   "ru": "Ноутбук лежал у него в ручной клади, но в чемодане было всё остальное: лучший серый костюм, три белые рубашки, счастливый синий галстук и десять образцов бокалов, каждый аккуратно завёрнутый в носок. В его оправдание стоит сказать, что бокалов было слишком много для маленькой сумки, а авиакомпания не разрешала проносить жидкости, острые предметы и, насколько он знал, здравый смысл.",
+   "s": [
+    [
+     "His laptop was in his hand luggage, but his suitcase held everything else: his best grey suit, three white shirts, his lucky blue tie and ten sample glasses, each one carefully wrapped in a sock.",
+     "Ноутбук лежал у него в ручной клади, но в чемодане было всё остальное: лучший серый костюм, три белые рубашки, счастливый синий галстук и десять образцов бокалов, каждый аккуратно завёрнутый в носок."
+    ],
+    [
+     "In his defence, the glasses were too many for his small bag, and the airline did not allow liquids, sharp objects or, as far as he knew, common sense.",
+     "В его оправдание стоит сказать, что бокалов было слишком много для маленькой сумки, а авиакомпания не разрешала проносить жидкости, острые предметы и, насколько он знал, здравый смысл."
+    ]
+   ]
+  },
+  {
+   "en": "The plane landed late. It was nearly eleven when the bags finally began to appear on the belt, and the tired passengers pushed forward like a crowd at a football match. Gilbert saw a black suitcase with a red ribbon on the handle, exactly like his, and pulled it off the belt. Next to him a short woman with bright green hair was singing to herself and pulling off another black suitcase. He noticed that it also had a red ribbon. He did not think about it again until much later.",
+   "ru": "Самолёт приземлился поздно. Было почти одиннадцать, когда на ленте наконец начали появляться сумки, и уставшие пассажиры подались вперёд, как толпа на футбольном матче. Гилберт увидел чёрный чемодан с красной ленточкой на ручке — точно такой же, как у него, — и снял его с ленты. Рядом с ним невысокая женщина с ярко-зелёными волосами напевала что-то себе под нос и снимала с ленты другой чёрный чемодан. Он заметил, что на нём тоже была красная ленточка. Он вспомнил об этом лишь намного позже.",
+   "s": [
+    [
+     "The plane landed late.",
+     "Самолёт приземлился поздно."
+    ],
+    [
+     "It was nearly eleven when the bags finally began to appear on the belt, and the tired passengers pushed forward like a crowd at a football match.",
+     "Было почти одиннадцать, когда на ленте наконец начали появляться сумки, и уставшие пассажиры подались вперёд, как толпа на футбольном матче."
+    ],
+    [
+     "Gilbert saw a black suitcase with a red ribbon on the handle, exactly like his, and pulled it off the belt.",
+     "Гилберт увидел чёрный чемодан с красной ленточкой на ручке — точно такой же, как у него, — и снял его с ленты."
+    ],
+    [
+     "Next to him a short woman with bright green hair was singing to herself and pulling off another black suitcase.",
+     "Рядом с ним невысокая женщина с ярко-зелёными волосами напевала что-то себе под нос и снимала с ленты другой чёрный чемодан."
+    ],
+    [
+     "He noticed that it also had a red ribbon.",
+     "Он заметил, что на нём тоже была красная ленточка."
+    ],
+    [
+     "He did not think about it again until much later.",
+     "Он вспомнил об этом лишь намного позже."
+    ]
+   ]
+  },
+  {
+   "en": "In his hotel room, Gilbert opened the suitcase to hang up his suit. Instead of a suit, he found a pink princess dress covered in silver stars. Under the dress there was a curly orange wig, six juggling balls, a bag of balloons, a plastic crown and a rubber chicken. When he picked up the chicken, it made a loud noise, like a duck with a bad cold. Someone in the next room hit the wall.",
+   "ru": "В номере отеля Гилберт открыл чемодан, чтобы повесить костюм. Вместо костюма он обнаружил розовое платье принцессы, усыпанное серебряными звёздами. Под платьем лежали кудрявый рыжий парик, шесть мячиков для жонглирования, пакет воздушных шариков, пластмассовая корона и резиновая курица. Когда он взял курицу в руки, она издала громкий звук, как утка с сильной простудой. Кто-то в соседнем номере стукнул в стену.",
+   "s": [
+    [
+     "In his hotel room, Gilbert opened the suitcase to hang up his suit.",
+     "В номере отеля Гилберт открыл чемодан, чтобы повесить костюм."
+    ],
+    [
+     "Instead of a suit, he found a pink princess dress covered in silver stars.",
+     "Вместо костюма он обнаружил розовое платье принцессы, усыпанное серебряными звёздами."
+    ],
+    [
+     "Under the dress there was a curly orange wig, six juggling balls, a bag of balloons, a plastic crown and a rubber chicken.",
+     "Под платьем лежали кудрявый рыжий парик, шесть мячиков для жонглирования, пакет воздушных шариков, пластмассовая корона и резиновая курица."
+    ],
+    [
+     "When he picked up the chicken, it made a loud noise, like a duck with a bad cold.",
+     "Когда он взял курицу в руки, она издала громкий звук, как утка с сильной простудой."
+    ],
+    [
+     "Someone in the next room hit the wall.",
+     "Кто-то в соседнем номере стукнул в стену."
+    ]
+   ]
+  },
+  {
+   "en": "There was a label on the handle with a name, P. Lark, and a phone number. Gilbert called it eleven times. Each time, the phone was switched off. The airline's lost luggage office was closed until eight in the morning, and every clothes shop in the city was closed until ten. He looked down at what he was wearing: old jeans and a T-shirt with a large coffee stain from the plane. Then he sat on the bed and stared at the rubber chicken for a long time.",
+   "ru": "На ручке была бирка с именем «П. Ларк» и номером телефона. Гилберт позвонил по нему одиннадцать раз. Каждый раз телефон был выключен. Бюро розыска багажа авиакомпании было закрыто до восьми утра, а все магазины одежды в городе — до десяти. Он посмотрел на то, во что был одет: старые джинсы и футболка с большим пятном от кофе, пролитого в самолёте. Потом он сел на кровать и долго смотрел на резиновую курицу.",
+   "s": [
+    [
+     "There was a label on the handle with a name, P. Lark, and a phone number.",
+     "На ручке была бирка с именем «П. Ларк» и номером телефона."
+    ],
+    [
+     "Gilbert called it eleven times.",
+     "Гилберт позвонил по нему одиннадцать раз."
+    ],
+    [
+     "Each time, the phone was switched off.",
+     "Каждый раз телефон был выключен."
+    ],
+    [
+     "The airline's lost luggage office was closed until eight in the morning, and every clothes shop in the city was closed until ten.",
+     "Бюро розыска багажа авиакомпании было закрыто до восьми утра, а все магазины одежды в городе — до десяти."
+    ],
+    [
+     "He looked down at what he was wearing: old jeans and a T-shirt with a large coffee stain from the plane.",
+     "Он посмотрел на то, во что был одет: старые джинсы и футболка с большим пятном от кофе, пролитого в самолёте."
+    ],
+    [
+     "Then he sat on the bed and stared at the rubber chicken for a long time.",
+     "Потом он сел на кровать и долго смотрел на резиновую курицу."
+    ]
+   ]
+  },
+  {
+   "en": "On the other side of the city, in a small flat above a bakery, Poppy Lark was staring at a grey suit. She was a children's entertainer, and the next day, at eleven o'clock, she was supposed to be Princess Poppy at a seventh birthday party for a very rich family. Her costume, her wig and her chicken were somewhere in Porto with a stranger. Even worse, her phone charger was in the same suitcase, and her phone had died on the plane.",
+   "ru": "На другом конце города, в маленькой квартире над пекарней, Поппи Ларк смотрела на серый костюм. Она работала аниматором на детских праздниках, и на следующий день в одиннадцать часов ей предстояло быть принцессой Поппи на дне рождения семилетнего ребёнка в очень богатой семье. Её костюм, парик и курица находились где-то в Порту у незнакомца. Хуже того, зарядка от телефона лежала в том же чемодане, а телефон разрядился ещё в самолёте.",
+   "s": [
+    [
+     "On the other side of the city, in a small flat above a bakery, Poppy Lark was staring at a grey suit.",
+     "На другом конце города, в маленькой квартире над пекарней, Поппи Ларк смотрела на серый костюм."
+    ],
+    [
+     "She was a children's entertainer, and the next day, at eleven o'clock, she was supposed to be Princess Poppy at a seventh birthday party for a very rich family.",
+     "Она работала аниматором на детских праздниках, и на следующий день в одиннадцать часов ей предстояло быть принцессой Поппи на дне рождения семилетнего ребёнка в очень богатой семье."
+    ],
+    [
+     "Her costume, her wig and her chicken were somewhere in Porto with a stranger.",
+     "Её костюм, парик и курица находились где-то в Порту у незнакомца."
+    ],
+    [
+     "Even worse, her phone charger was in the same suitcase, and her phone had died on the plane.",
+     "Хуже того, зарядка от телефона лежала в том же чемодане, а телефон разрядился ещё в самолёте."
+    ]
+   ]
+  },
+  {
+   "en": "\"Who travels with wine glasses in their socks?\" she asked her cat, Biscuit. Biscuit did not reply. She jumped onto the kitchen table, where a pile of dirty dishes was waiting for Poppy to find the courage to wash them, and knocked one of the glasses onto the stone floor.",
+   "ru": "— Кто возит бокалы в носках? — спросила она свою кошку Бисквит. Бисквит не ответила. Она запрыгнула на кухонный стол, где груда грязной посуды ждала, когда у Поппи хватит храбрости её помыть, и сбросила один из бокалов на каменный пол.",
+   "s": [
+    [
+     "\"Who travels with wine glasses in their socks?\" she asked her cat, Biscuit.",
+     "— Кто возит бокалы в носках? — спросила она свою кошку Бисквит."
+    ],
+    [
+     "Biscuit did not reply.",
+     "Бисквит не ответила."
+    ],
+    [
+     "She jumped onto the kitchen table, where a pile of dirty dishes was waiting for Poppy to find the courage to wash them, and knocked one of the glasses onto the stone floor.",
+     "Она запрыгнула на кухонный стол, где груда грязной посуды ждала, когда у Поппи хватит храбрости её помыть, и сбросила один из бокалов на каменный пол."
+    ]
+   ]
+  },
+  {
+   "en": "Poppy closed her eyes and waited for the crash. Instead, she heard a small \"tok\". The glass bounced twice and rolled under the fridge without a single crack. Poppy looked at it, then at the cat, and then, because she was Poppy, she picked up three more glasses and began to juggle them. She dropped one on purpose. It bounced. She threw one at the wall. It bounced again. \"These are not glasses,\" she said. \"These are magic.\"",
+   "ru": "Поппи закрыла глаза и приготовилась услышать звон. Вместо этого она услышала тихое «ток». Бокал дважды подпрыгнул и закатился под холодильник без единой трещинки. Поппи посмотрела на него, потом на кошку, а потом, поскольку она была Поппи, взяла ещё три бокала и начала ими жонглировать. Один она уронила нарочно. Он отскочил. Другой она бросила в стену. Он снова отскочил. — Это не бокалы, — сказала она. — Это волшебство.",
+   "s": [
+    [
+     "Poppy closed her eyes and waited for the crash.",
+     "Поппи закрыла глаза и приготовилась услышать звон."
+    ],
+    [
+     "Instead, she heard a small \"tok\".",
+     "Вместо этого она услышала тихое «ток»."
+    ],
+    [
+     "The glass bounced twice and rolled under the fridge without a single crack.",
+     "Бокал дважды подпрыгнул и закатился под холодильник без единой трещинки."
+    ],
+    [
+     "Poppy looked at it, then at the cat, and then, because she was Poppy, she picked up three more glasses and began to juggle them.",
+     "Поппи посмотрела на него, потом на кошку, а потом, поскольку она была Поппи, взяла ещё три бокала и начала ими жонглировать."
+    ],
+    [
+     "She dropped one on purpose.",
+     "Один она уронила нарочно."
+    ],
+    [
+     "It bounced.",
+     "Он отскочил."
+    ],
+    [
+     "She threw one at the wall.",
+     "Другой она бросила в стену."
+    ],
+    [
+     "It bounced again.",
+     "Он снова отскочил."
+    ],
+    [
+     "\"These are not glasses,\" she said.",
+     "— Это не бокалы, — сказала она."
+    ],
+    [
+     "\"These are magic.\"",
+     "— Это волшебство."
+    ]
+   ]
+  },
+  {
+   "en": "In the pocket of the suit jacket she discovered a business card, Gilbert Pym, Chief Engineer, Everglass, and a piece of paper with his plans for the next day. At the top it said: \"9:00. Meeting with Ferreira Group. Fourteenth floor. DO NOT BE LATE.\" Poppy read it twice. Ferreira. The name sounded familiar, but at midnight her memory was not at its best, and she went to bed.",
+   "ru": "В кармане пиджака она обнаружила визитку — «Гилберт Пим, главный инженер, „Эверглас“» — и листок бумаги с его планами на следующий день. Вверху было написано: «9:00. Встреча с группой „Феррейра“. Четырнадцатый этаж. НЕ ОПАЗДЫВАТЬ». Поппи прочитала это дважды. Феррейра. Фамилия показалась ей знакомой, но в полночь память у неё работала не лучшим образом, и она легла спать.",
+   "s": [
+    [
+     "In the pocket of the suit jacket she discovered a business card, Gilbert Pym, Chief Engineer, Everglass, and a piece of paper with his plans for the next day.",
+     "В кармане пиджака она обнаружила визитку — «Гилберт Пим, главный инженер, „Эверглас“» — и листок бумаги с его планами на следующий день."
+    ],
+    [
+     "At the top it said: \"9:00. Meeting with Ferreira Group. Fourteenth floor. DO NOT BE LATE.\"",
+     "Вверху было написано: «9:00. Встреча с группой „Феррейра“. Четырнадцатый этаж. НЕ ОПАЗДЫВАТЬ»."
+    ],
+    [
+     "Poppy read it twice.",
+     "Поппи прочитала это дважды."
+    ],
+    [
+     "Ferreira.",
+     "Феррейра."
+    ],
+    [
+     "The name sounded familiar, but at midnight her memory was not at its best, and she went to bed.",
+     "Фамилия показалась ей знакомой, но в полночь память у неё работала не лучшим образом, и она легла спать."
+    ]
+   ]
+  },
+  {
+   "en": "At half past eight the next morning, Gilbert stood outside a tall glass building in the centre of Porto. At eight o'clock he had phoned the airline, and a friendly woman had told him that his suitcase was somewhere in the system and that the system would probably find it in two or three days. He had also phoned his boss in Leeds, who had first shouted, then thought, and then given him some advice. \"Go anyway. Tell them the truth. Actually, no, wait. Don't tell them about the chicken.\"",
+   "ru": "В половине девятого следующего утра Гилберт стоял у высокого стеклянного здания в центре Порту. В восемь часов он позвонил в авиакомпанию, и приветливая женщина сказала ему, что его чемодан находится где-то в системе и что система, вероятно, найдёт его через два-три дня. Ещё он позвонил своему начальнику в Лидс, который сначала накричал на него, потом подумал, а потом дал совет. — Всё равно иди. Скажи им правду. Хотя нет, подожди. Про курицу им не рассказывай.",
+   "s": [
+    [
+     "At half past eight the next morning, Gilbert stood outside a tall glass building in the centre of Porto.",
+     "В половине девятого следующего утра Гилберт стоял у высокого стеклянного здания в центре Порту."
+    ],
+    [
+     "At eight o'clock he had phoned the airline, and a friendly woman had told him that his suitcase was somewhere in the system and that the system would probably find it in two or three days.",
+     "В восемь часов он позвонил в авиакомпанию, и приветливая женщина сказала ему, что его чемодан находится где-то в системе и что система, вероятно, найдёт его через два-три дня."
+    ],
+    [
+     "He had also phoned his boss in Leeds, who had first shouted, then thought, and then given him some advice.",
+     "Ещё он позвонил своему начальнику в Лидс, который сначала накричал на него, потом подумал, а потом дал совет."
+    ],
+    [
+     "\"Go anyway.",
+     "— Всё равно иди."
+    ],
+    [
+     "Tell them the truth.",
+     "Скажи им правду."
+    ],
+    [
+     "Actually, no, wait.",
+     "Хотя нет, подожди."
+    ],
+    [
+     "Don't tell them about the chicken.\"",
+     "Про курицу им не рассказывай."
+    ]
+   ]
+  },
+  {
+   "en": "Imelda Ferreira was a small woman of about seventy with silver hair and very sharp eyes. Two serious young men in dark suits sat on each side of her. All three of them looked at Gilbert's T-shirt for what felt like a whole minute. \"I'm very sorry about my clothes,\" Gilbert began. \"There was a problem with my luggage.\" \"So I see,\" Mrs Ferreira said. \"I have been to many meetings, Mr Pym. People have shown me unbreakable plates, unbreakable phones, unbreakable promises. Most of them broke. Show me your glass.\"",
+   "ru": "Имельда Феррейра оказалась невысокой женщиной лет семидесяти с серебристыми волосами и очень острым взглядом. По обе стороны от неё сидели двое серьёзных молодых людей в тёмных костюмах. Все трое разглядывали футболку Гилберта, казалось, целую минуту. — Прошу прощения за мою одежду, — начал Гилберт. — Возникла проблема с моим багажом. — Я вижу, — сказала миссис Феррейра. — Я была на многих встречах, мистер Пим. Мне показывали небьющиеся тарелки, неубиваемые телефоны, нерушимые обещания. Большинство из них разбились. Покажите мне ваш бокал.",
+   "s": [
+    [
+     "Imelda Ferreira was a small woman of about seventy with silver hair and very sharp eyes.",
+     "Имельда Феррейра оказалась невысокой женщиной лет семидесяти с серебристыми волосами и очень острым взглядом."
+    ],
+    [
+     "Two serious young men in dark suits sat on each side of her.",
+     "По обе стороны от неё сидели двое серьёзных молодых людей в тёмных костюмах."
+    ],
+    [
+     "All three of them looked at Gilbert's T-shirt for what felt like a whole minute.",
+     "Все трое разглядывали футболку Гилберта, казалось, целую минуту."
+    ],
+    [
+     "\"I'm very sorry about my clothes,\" Gilbert began.",
+     "— Прошу прощения за мою одежду, — начал Гилберт."
+    ],
+    [
+     "\"There was a problem with my luggage.\"",
+     "— Возникла проблема с моим багажом."
+    ],
+    [
+     "\"So I see,\" Mrs Ferreira said.",
+     "— Я вижу, — сказала миссис Феррейра."
+    ],
+    [
+     "\"I have been to many meetings, Mr Pym.",
+     "— Я была на многих встречах, мистер Пим."
+    ],
+    [
+     "People have shown me unbreakable plates, unbreakable phones, unbreakable promises.",
+     "Мне показывали небьющиеся тарелки, неубиваемые телефоны, нерушимые обещания."
+    ],
+    [
+     "Most of them broke.",
+     "Большинство из них разбились."
+    ],
+    [
+     "Show me your glass.\"",
+     "Покажите мне ваш бокал."
+    ]
+   ]
+  },
+  {
+   "en": "Gilbert's hands were empty. He opened his laptop instead and explained the science: the special layers, the heat treatment, the tests in the laboratory, the increase in strength of almost four hundred per cent. He knew the numbers perfectly; he had practised the talk thirty times in front of his bathroom mirror. But without a glass to show, his words sounded thin, even to him. One of the young men looked at his watch. The other wrote nothing at all.",
+   "ru": "Руки у Гилберта были пусты. Вместо этого он открыл ноутбук и объяснил научную сторону: особые слои, термическую обработку, испытания в лаборатории, увеличение прочности почти на четыреста процентов. Цифры он знал отлично: он тридцать раз репетировал выступление перед зеркалом в ванной. Но без бокала, который можно показать, его слова звучали неубедительно — даже для него самого. Один из молодых людей посмотрел на часы. Другой вообще ничего не записывал.",
+   "s": [
+    [
+     "Gilbert's hands were empty.",
+     "Руки у Гилберта были пусты."
+    ],
+    [
+     "He opened his laptop instead and explained the science: the special layers, the heat treatment, the tests in the laboratory, the increase in strength of almost four hundred per cent.",
+     "Вместо этого он открыл ноутбук и объяснил научную сторону: особые слои, термическую обработку, испытания в лаборатории, увеличение прочности почти на четыреста процентов."
+    ],
+    [
+     "He knew the numbers perfectly; he had practised the talk thirty times in front of his bathroom mirror.",
+     "Цифры он знал отлично: он тридцать раз репетировал выступление перед зеркалом в ванной."
+    ],
+    [
+     "But without a glass to show, his words sounded thin, even to him.",
+     "Но без бокала, который можно показать, его слова звучали неубедительно — даже для него самого."
+    ],
+    [
+     "One of the young men looked at his watch.",
+     "Один из молодых людей посмотрел на часы."
+    ],
+    [
+     "The other wrote nothing at all.",
+     "Другой вообще ничего не записывал."
+    ]
+   ]
+  },
+  {
+   "en": "Then there was a noise in the corridor: a raised voice, the receptionist saying \"Madam, you can't...\", and quick footsteps. The door opened. A woman with bright green hair came in, pulling a black suitcase with a red ribbon. She was wearing a grey suit that was much too long for her; the sleeves were rolled up three times, and the trousers had been fixed with safety pins.",
+   "ru": "Потом в коридоре раздался шум: громкий голос, слова секретаря «Мадам, вам нельзя…» и быстрые шаги. Дверь открылась. Вошла женщина с ярко-зелёными волосами, катя за собой чёрный чемодан с красной ленточкой. На ней был серый костюм, который был ей слишком длинным: рукава были подвёрнуты три раза, а брюки сколоты английскими булавками.",
+   "s": [
+    [
+     "Then there was a noise in the corridor: a raised voice, the receptionist saying \"Madam, you can't...\", and quick footsteps.",
+     "Потом в коридоре раздался шум: громкий голос, слова секретаря «Мадам, вам нельзя…» и быстрые шаги."
+    ],
+    [
+     "The door opened.",
+     "Дверь открылась."
+    ],
+    [
+     "A woman with bright green hair came in, pulling a black suitcase with a red ribbon.",
+     "Вошла женщина с ярко-зелёными волосами, катя за собой чёрный чемодан с красной ленточкой."
+    ],
+    [
+     "She was wearing a grey suit that was much too long for her; the sleeves were rolled up three times, and the trousers had been fixed with safety pins.",
+     "На ней был серый костюм, который был ей слишком длинным: рукава были подвёрнуты три раза, а брюки сколоты английскими булавками."
+    ]
+   ]
+  },
+  {
+   "en": "\"Is there a Gilbert Pym here?\" she asked. \"I've got your glasses. And I think you've got my chicken.\"",
+   "ru": "— Здесь есть Гилберт Пим? — спросила она. — У меня ваши бокалы. А у вас, по-моему, моя курица.",
+   "s": [
+    [
+     "\"Is there a Gilbert Pym here?\" she asked.",
+     "— Здесь есть Гилберт Пим? — спросила она."
+    ],
+    [
+     "\"I've got your glasses.",
+     "— У меня ваши бокалы."
+    ],
+    [
+     "And I think you've got my chicken.\"",
+     "А у вас, по-моему, моя курица."
+    ]
+   ]
+  },
+  {
+   "en": "For a moment nobody spoke. Then Poppy noticed the expression on Gilbert's face and the empty table in front of him, and she understood everything. She opened the suitcase, took out three glasses and, before Gilbert could stop her, began to juggle them. The two young men jumped up from their chairs. Poppy threw the first glass high into the air and let it fall onto the stone floor. It bounced. The second one hit the wall and bounced back into her hand. The third one she simply put on the table in front of Mrs Ferreira, perfectly whole.",
+   "ru": "Мгновение никто не говорил. Потом Поппи заметила выражение лица Гилберта и пустой стол перед ним и всё поняла. Она открыла чемодан, достала три бокала и, прежде чем Гилберт успел её остановить, начала ими жонглировать. Двое молодых людей вскочили со своих стульев. Первый бокал Поппи подбросила высоко в воздух и дала ему упасть на каменный пол. Он отскочил. Второй ударился о стену и отскочил обратно ей в руку. Третий она просто поставила на стол перед миссис Феррейрой — совершенно целый.",
+   "s": [
+    [
+     "For a moment nobody spoke.",
+     "Мгновение никто не говорил."
+    ],
+    [
+     "Then Poppy noticed the expression on Gilbert's face and the empty table in front of him, and she understood everything.",
+     "Потом Поппи заметила выражение лица Гилберта и пустой стол перед ним и всё поняла."
+    ],
+    [
+     "She opened the suitcase, took out three glasses and, before Gilbert could stop her, began to juggle them.",
+     "Она открыла чемодан, достала три бокала и, прежде чем Гилберт успел её остановить, начала ими жонглировать."
+    ],
+    [
+     "The two young men jumped up from their chairs.",
+     "Двое молодых людей вскочили со своих стульев."
+    ],
+    [
+     "Poppy threw the first glass high into the air and let it fall onto the stone floor.",
+     "Первый бокал Поппи подбросила высоко в воздух и дала ему упасть на каменный пол."
+    ],
+    [
+     "It bounced.",
+     "Он отскочил."
+    ],
+    [
+     "The second one hit the wall and bounced back into her hand.",
+     "Второй ударился о стену и отскочил обратно ей в руку."
+    ],
+    [
+     "The third one she simply put on the table in front of Mrs Ferreira, perfectly whole.",
+     "Третий она просто поставила на стол перед миссис Феррейрой — совершенно целый."
+    ]
+   ]
+  },
+  {
+   "en": "There was a short silence, and then an explosion of laughter. It came from Mrs Ferreira. \"In forty years of business,\" she said, wiping her eyes, \"nobody has ever juggled in my office.\" She picked up the glass and turned it slowly in the light. Then she looked more closely at Poppy. \"Wait. Aren't you Princess Poppy? You're coming to my grandson's party at eleven.\"",
+   "ru": "Наступила короткая тишина, а затем раздался взрыв смеха. Смеялась миссис Феррейра. — За сорок лет в бизнесе, — сказала она, вытирая глаза, — никто никогда не жонглировал у меня в кабинете. Она взяла бокал и медленно повернула его на свету. Потом она пристальнее посмотрела на Поппи. — Подождите. Вы ведь принцесса Поппи? Вы же придёте на праздник к моему внуку в одиннадцать.",
+   "s": [
+    [
+     "There was a short silence, and then an explosion of laughter.",
+     "Наступила короткая тишина, а затем раздался взрыв смеха."
+    ],
+    [
+     "It came from Mrs Ferreira.",
+     "Смеялась миссис Феррейра."
+    ],
+    [
+     "\"In forty years of business,\" she said, wiping her eyes, \"nobody has ever juggled in my office.\"",
+     "— За сорок лет в бизнесе, — сказала она, вытирая глаза, — никто никогда не жонглировал у меня в кабинете."
+    ],
+    [
+     "She picked up the glass and turned it slowly in the light.",
+     "Она взяла бокал и медленно повернула его на свету."
+    ],
+    [
+     "Then she looked more closely at Poppy.",
+     "Потом она пристальнее посмотрела на Поппи."
+    ],
+    [
+     "\"Wait.",
+     "— Подождите."
+    ],
+    [
+     "Aren't you Princess Poppy?",
+     "Вы ведь принцесса Поппи?"
+    ],
+    [
+     "You're coming to my grandson's party at eleven.\"",
+     "Вы же придёте на праздник к моему внуку в одиннадцать."
+    ]
+   ]
+  },
+  {
+   "en": "Poppy's mouth fell open. It was true. A relative of the Ferreira family had seen her show at a school in the spring and had booked her for the birthday of little Duarte, who was turning seven. That was why the name had sounded familiar. \"That's me,\" she said. \"At least, it will be, if I get my dress back.\"",
+   "ru": "У Поппи открылся рот. Это была правда. Одна из родственниц семьи Феррейра видела её выступление в школе весной и пригласила её на день рождения маленького Дуарте, которому исполнялось семь лет. Вот почему фамилия показалась знакомой. — Это я, — сказала она. — По крайней мере, буду, если получу обратно своё платье.",
+   "s": [
+    [
+     "Poppy's mouth fell open.",
+     "У Поппи открылся рот."
+    ],
+    [
+     "It was true.",
+     "Это была правда."
+    ],
+    [
+     "A relative of the Ferreira family had seen her show at a school in the spring and had booked her for the birthday of little Duarte, who was turning seven.",
+     "Одна из родственниц семьи Феррейра видела её выступление в школе весной и пригласила её на день рождения маленького Дуарте, которому исполнялось семь лет."
+    ],
+    [
+     "That was why the name had sounded familiar.",
+     "Вот почему фамилия показалась знакомой."
+    ],
+    [
+     "\"That's me,\" she said.",
+     "— Это я, — сказала она."
+    ],
+    [
+     "\"At least, it will be, if I get my dress back.\"",
+     "— По крайней мере, буду, если получу обратно своё платье."
+    ]
+   ]
+  },
+  {
+   "en": "After that, the meeting was completely different. Mrs Ferreira asked hard, practical questions: how much the glasses cost, how quickly they could be made, how they behaved in a hot dishwasher. Gilbert, who no longer had to imagine a glass, answered every one of them. \"My restaurants break about forty thousand glasses a year,\" she said at the end. \"If yours are as good as they look, I would rather pay you than my glass supplier. Send me your figures, and I'll send my people to Leeds next month.\"",
+   "ru": "После этого встреча пошла совсем по-другому. Миссис Феррейра задавала трудные практические вопросы: сколько стоят бокалы, как быстро их можно изготовить, как они ведут себя в горячей посудомоечной машине. Гилберт, которому больше не нужно было представлять бокал в воображении, ответил на каждый из них. — Мои рестораны разбивают около сорока тысяч бокалов в год, — сказала она в конце. — Если ваши так же хороши, как выглядят, я лучше буду платить вам, чем своему поставщику стекла. Пришлите мне ваши цифры, и в следующем месяце я пришлю своих людей в Лидс.",
+   "s": [
+    [
+     "After that, the meeting was completely different.",
+     "После этого встреча пошла совсем по-другому."
+    ],
+    [
+     "Mrs Ferreira asked hard, practical questions: how much the glasses cost, how quickly they could be made, how they behaved in a hot dishwasher.",
+     "Миссис Феррейра задавала трудные практические вопросы: сколько стоят бокалы, как быстро их можно изготовить, как они ведут себя в горячей посудомоечной машине."
+    ],
+    [
+     "Gilbert, who no longer had to imagine a glass, answered every one of them.",
+     "Гилберт, которому больше не нужно было представлять бокал в воображении, ответил на каждый из них."
+    ],
+    [
+     "\"My restaurants break about forty thousand glasses a year,\" she said at the end.",
+     "— Мои рестораны разбивают около сорока тысяч бокалов в год, — сказала она в конце."
+    ],
+    [
+     "\"If yours are as good as they look, I would rather pay you than my glass supplier.",
+     "— Если ваши так же хороши, как выглядят, я лучше буду платить вам, чем своему поставщику стекла."
+    ],
+    [
+     "Send me your figures, and I'll send my people to Leeds next month.\"",
+     "Пришлите мне ваши цифры, и в следующем месяце я пришлю своих людей в Лидс."
+    ]
+   ]
+  },
+  {
+   "en": "Then she pointed at the suitcase. \"And bring the rest of those glasses to the party. Twenty seven-year-olds will be the best test you have ever had.\"",
+   "ru": "Потом она показала на чемодан. — А остальные бокалы принесите на праздник. Двадцать семилеток — это будет лучшее испытание из всех, что у вас были.",
+   "s": [
+    [
+     "Then she pointed at the suitcase.",
+     "Потом она показала на чемодан."
+    ],
+    [
+     "\"And bring the rest of those glasses to the party.",
+     "— А остальные бокалы принесите на праздник."
+    ],
+    [
+     "Twenty seven-year-olds will be the best test you have ever had.\"",
+     "Двадцать семилеток — это будет лучшее испытание из всех, что у вас были."
+    ]
+   ]
+  },
+  {
+   "en": "In the lobby downstairs, Gilbert and Poppy exchanged suitcases like spies in an old film. \"I don't know how to thank you,\" Gilbert said. \"You just did,\" Poppy replied. \"But you can help me at the party. I need a tall assistant to hold the balloons.\"",
+   "ru": "Внизу, в холле, Гилберт и Поппи обменялись чемоданами, как шпионы в старом фильме. — Не знаю, как вас благодарить, — сказал Гилберт. — Вы только что это сделали, — ответила Поппи. — Но вы можете помочь мне на празднике. Мне нужен высокий помощник, чтобы держать шарики.",
+   "s": [
+    [
+     "In the lobby downstairs, Gilbert and Poppy exchanged suitcases like spies in an old film.",
+     "Внизу, в холле, Гилберт и Поппи обменялись чемоданами, как шпионы в старом фильме."
+    ],
+    [
+     "\"I don't know how to thank you,\" Gilbert said.",
+     "— Не знаю, как вас благодарить, — сказал Гилберт."
+    ],
+    [
+     "\"You just did,\" Poppy replied.",
+     "— Вы только что это сделали, — ответила Поппи."
+    ],
+    [
+     "\"But you can help me at the party.",
+     "— Но вы можете помочь мне на празднике."
+    ],
+    [
+     "I need a tall assistant to hold the balloons.\"",
+     "Мне нужен высокий помощник, чтобы держать шарики."
+    ]
+   ]
+  },
+  {
+   "en": "And that is how a careful engineer and respectable citizen of Leeds spent a sunny Monday afternoon in a garden in Porto, wearing a curly orange wig and his lucky blue tie, while twenty screaming children threw his glasses at trees, at walls and at each other. Not a single one broke. At one point, little Duarte dropped a glass into the swimming pool, and Gilbert, who had never done anything silly in his whole life, jumped in after it with the wig still on his head. The children decided that he was the best clown they had ever seen. Mrs Ferreira watched from the terrace with a glass of lemonade in her hand and took photographs for her advisers.",
+   "ru": "Вот так осторожный инженер и почтенный житель Лидса провёл солнечный понедельник в саду в Порту в кудрявом рыжем парике и своём счастливом синем галстуке, пока двадцать визжащих детей бросали его бокалы в деревья, в стены и друг в друга. Ни один не разбился. В какой-то момент маленький Дуарте уронил бокал в бассейн, и Гилберт, который за всю жизнь ни разу не сделал ничего глупого, прыгнул за ним прямо в парике. Дети решили, что он лучший клоун, которого они когда-либо видели. Миссис Феррейра наблюдала с террасы со стаканом лимонада в руке и фотографировала для своих советников.",
+   "s": [
+    [
+     "And that is how a careful engineer and respectable citizen of Leeds spent a sunny Monday afternoon in a garden in Porto, wearing a curly orange wig and his lucky blue tie, while twenty screaming children threw his glasses at trees, at walls and at each other.",
+     "Вот так осторожный инженер и почтенный житель Лидса провёл солнечный понедельник в саду в Порту в кудрявом рыжем парике и своём счастливом синем галстуке, пока двадцать визжащих детей бросали его бокалы в деревья, в стены и друг в друга."
+    ],
+    [
+     "Not a single one broke.",
+     "Ни один не разбился."
+    ],
+    [
+     "At one point, little Duarte dropped a glass into the swimming pool, and Gilbert, who had never done anything silly in his whole life, jumped in after it with the wig still on his head.",
+     "В какой-то момент маленький Дуарте уронил бокал в бассейн, и Гилберт, который за всю жизнь ни разу не сделал ничего глупого, прыгнул за ним прямо в парике."
+    ],
+    [
+     "The children decided that he was the best clown they had ever seen.",
+     "Дети решили, что он лучший клоун, которого они когда-либо видели."
+    ],
+    [
+     "Mrs Ferreira watched from the terrace with a glass of lemonade in her hand and took photographs for her advisers.",
+     "Миссис Феррейра наблюдала с террасы со стаканом лимонада в руке и фотографировала для своих советников."
+    ]
+   ]
+  },
+  {
+   "en": "Six weeks later, Everglass signed its first big contract. Gilbert still arrives at airports two hours early, and he still carries a sandwich. But he has changed his third rule. It now says: \"Sometimes the wrong suitcase is the right one.\" He does not regret it at all. And on the handle of his black suitcase, next to the red ribbon, there is now a small rubber chicken, so that nobody, wise or foolish, will ever take it by mistake again. Poppy gave it to him. She says it is the second-best thing he has ever found in a suitcase.",
+   "ru": "Через шесть недель «Эверглас» подписал свой первый крупный контракт. Гилберт по-прежнему приезжает в аэропорт за два часа и по-прежнему берёт с собой бутерброд. Но своё третье правило он изменил. Теперь оно звучит так: «Иногда не тот чемодан — как раз тот, что нужно». Он об этом нисколько не жалеет. А на ручке его чёрного чемодана, рядом с красной ленточкой, теперь висит маленькая резиновая курица — чтобы никто, ни умный, ни глупый, больше никогда не взял его по ошибке. Её подарила ему Поппи. Она говорит, что это вторая по ценности вещь, которую он когда-либо находил в чемодане.",
+   "s": [
+    [
+     "Six weeks later, Everglass signed its first big contract.",
+     "Через шесть недель «Эверглас» подписал свой первый крупный контракт."
+    ],
+    [
+     "Gilbert still arrives at airports two hours early, and he still carries a sandwich.",
+     "Гилберт по-прежнему приезжает в аэропорт за два часа и по-прежнему берёт с собой бутерброд."
+    ],
+    [
+     "But he has changed his third rule.",
+     "Но своё третье правило он изменил."
+    ],
+    [
+     "It now says: \"Sometimes the wrong suitcase is the right one.\"",
+     "Теперь оно звучит так: «Иногда не тот чемодан — как раз тот, что нужно»."
+    ],
+    [
+     "He does not regret it at all.",
+     "Он об этом нисколько не жалеет."
+    ],
+    [
+     "And on the handle of his black suitcase, next to the red ribbon, there is now a small rubber chicken, so that nobody, wise or foolish, will ever take it by mistake again.",
+     "А на ручке его чёрного чемодана, рядом с красной ленточкой, теперь висит маленькая резиновая курица — чтобы никто, ни умный, ни глупый, больше никогда не взял его по ошибке."
+    ],
+    [
+     "Poppy gave it to him.",
+     "Её подарила ему Поппи."
+    ],
+    [
+     "She says it is the second-best thing he has ever found in a suitcase.",
+     "Она говорит, что это вторая по ценности вещь, которую он когда-либо находил в чемодане."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, об",
+  "above": "над",
+  "actually": "на самом деле",
+  "advice": "совет",
+  "advisers": "советники",
+  "after": "после",
+  "afternoon": "день, после полудня",
+  "again": "снова",
+  "air": "воздух",
+  "airline": "авиакомпания",
+  "airline's": "авиакомпании",
+  "airport": "аэропорт",
+  "airports": "аэропорты",
+  "all": "весь, все",
+  "allow": "позволять",
+  "almost": "почти",
+  "also": "также",
+  "always": "всегда",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "another": "ещё один",
+  "answered": "ответил",
+  "anything": "что-нибудь",
+  "anyway": "всё равно",
+  "appear": "появляться",
+  "are": "(есть); (are you) вы ведь",
+  "aren't": "(aren't you) разве вы не",
+  "arrive": "приезжать",
+  "arrives": "приезжает",
+  "as": "как, так как",
+  "asked": "спросил(а)",
+  "assistant": "помощник",
+  "at": "в, у, на",
+  "back": "обратно, назад",
+  "bad": "плохой; (bad cold) сильная простуда",
+  "bag": "сумка; пакет",
+  "bags": "сумки",
+  "bakery": "пекарня",
+  "balloons": "воздушные шарики",
+  "balls": "мячики",
+  "bathroom": "ванная комната",
+  "be": "быть",
+  "because": "потому что",
+  "bed": "кровать",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "began": "начал(а)",
+  "begins": "начинается",
+  "behaved": "ведут себя",
+  "belt": "(багажная) лента",
+  "best": "лучший; (at its best) в лучшей форме",
+  "big": "большой",
+  "birthday": "день рождения",
+  "biscuit": "Бисквит (кличка кошки)",
+  "black": "чёрный",
+  "blue": "синий",
+  "booked": "пригласила, заказала",
+  "boss": "начальник",
+  "bounced": "отскочил, подпрыгнул",
+  "break": "разбиваться, биться; разбивать",
+  "bright": "яркий",
+  "bring": "приносить",
+  "broke": "нарушил; разбились",
+  "building": "здание",
+  "business": "бизнес; (business card) визитка",
+  "but": "но",
+  "by": "(by mistake) по ошибке",
+  "called": "под названием",
+  "came": "(came in) вошла; (came from) исходил",
+  "can": "можете",
+  "can't": "нельзя",
+  "card": "(business card) визитка",
+  "careful": "осторожный",
+  "carefully": "аккуратно",
+  "carries": "носит с собой",
+  "carry": "носить с собой",
+  "cat": "кошка",
+  "cent": "(per cent) процент",
+  "centre": "центр",
+  "chairs": "стулья",
+  "changed": "изменил",
+  "charger": "зарядное устройство",
+  "chicken": "курица",
+  "chief": "главный",
+  "children": "дети",
+  "children's": "детский",
+  "citizen": "житель, гражданин",
+  "city": "город",
+  "close": "закрыться",
+  "closed": "закрыла; закрыт(о)",
+  "closely": "пристально",
+  "clothes": "одежда",
+  "clown": "клоун",
+  "coffee": "кофе",
+  "cold": "простуда",
+  "coming": "(you're coming) придёте",
+  "common": "(common sense) здравый смысл",
+  "company": "компания",
+  "completely": "полностью",
+  "contract": "контракт",
+  "corridor": "коридор",
+  "cost": "стоят",
+  "costume": "костюм (сценический)",
+  "could": "мог(ла)",
+  "courage": "храбрость",
+  "covered": "усыпанный",
+  "crack": "трещина",
+  "crash": "звон, грохот (при падении)",
+  "crowd": "толпа",
+  "crown": "корона",
+  "curly": "кудрявый",
+  "dark": "тёмный",
+  "day": "день",
+  "days": "дни",
+  "decided": "решила",
+  "defence": "(in his defence) в его оправдание",
+  "define": "определить",
+  "did": "(вспом. гл.); (you just did) сделали",
+  "died": "(phone had died) разрядился",
+  "different": "другой",
+  "dirty": "грязный",
+  "discovered": "обнаружила",
+  "dishes": "посуда",
+  "dishwasher": "посудомоечная машина",
+  "do": "(вспом. гл.)",
+  "does": "(вспом. гл.)",
+  "don't": "не (вспом.)",
+  "done": "сделал",
+  "door": "дверь",
+  "down": "вниз",
+  "downstairs": "внизу",
+  "dress": "платье",
+  "dropped": "уронила; уронил",
+  "duarte": "Дуарте (имя)",
+  "duck": "утка",
+  "each": "каждый",
+  "early": "(two hours early) за два часа",
+  "eight": "восемь",
+  "eighty": "восемьдесят",
+  "eleven": "одиннадцать",
+  "else": "ещё, другой",
+  "empty": "пустой",
+  "end": "конец",
+  "engineer": "инженер",
+  "entertainer": "аниматор, артист",
+  "even": "даже",
+  "evening": "вечер",
+  "ever": "когда-либо",
+  "everglass": "Эверглас (название компании)",
+  "every": "каждый",
+  "everything": "всё",
+  "exactly": "точно",
+  "exchanged": "обменялись",
+  "explained": "объяснил",
+  "explosion": "взрыв",
+  "expression": "выражение",
+  "eyes": "глаза",
+  "face": "лицо",
+  "fall": "упасть",
+  "familiar": "знакомый",
+  "family": "семья",
+  "far": "(as far as) насколько",
+  "fell": "(fell open) открылся",
+  "felt": "(felt like) казалось",
+  "ferreira": "Феррейра (фамилия)",
+  "figures": "цифры",
+  "film": "фильм",
+  "finally": "наконец",
+  "find": "найти",
+  "first": "первый; сначала",
+  "fixed": "сколоты",
+  "flat": "квартира",
+  "floor": "пол",
+  "flying": "(was flying) летел",
+  "foolish": "глупый",
+  "football": "футбольный",
+  "footsteps": "шаги",
+  "for": "для, в течение",
+  "forty": "сорок",
+  "forward": "вперёд",
+  "found": "обнаружил; находил",
+  "four": "четыре",
+  "fourteenth": "четырнадцатый",
+  "fridge": "холодильник",
+  "friendly": "приветливый",
+  "from": "из, от",
+  "front": "(in front of) перед",
+  "garden": "сад",
+  "gave": "дал",
+  "get": "(get back) получить обратно",
+  "gilbert": "Гилберт (имя)",
+  "gilbert's": "Гилберта",
+  "given": "дал",
+  "glass": "бокал; стекло; стеклянный; (glass of lemonade) стакан",
+  "glasses": "бокалы",
+  "go": "иди",
+  "goes": "едет",
+  "good": "хороший",
+  "got": "(I've got) у меня есть",
+  "grandson's": "внука",
+  "green": "зелёный",
+  "grey": "серый",
+  "group": "группа",
+  "had": "(вспом. гл.); было, была",
+  "hair": "волосы",
+  "half": "половина",
+  "hand": "рука; (hand luggage) ручная кладь",
+  "handle": "ручка",
+  "hands": "руки",
+  "hang": "(hang up) повесить",
+  "hard": "трудный",
+  "has": "(вспом. гл.)",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "head": "голова",
+  "heard": "слышала",
+  "heat": "(heat treatment) термическая обработка",
+  "held": "содержал",
+  "help": "помочь",
+  "her": "её, ей",
+  "here": "здесь",
+  "herself": "сама",
+  "high": "высоко",
+  "him": "его, ему",
+  "his": "его",
+  "hit": "стукнул; ударился",
+  "hold": "(the hold) багажное отделение; держать",
+  "hot": "горячий",
+  "hotel": "отель",
+  "hotels": "отели",
+  "hours": "часа",
+  "how": "как",
+  "hundred": "сто",
+  "i": "я",
+  "i'll": "я (буду)",
+  "i'm": "я",
+  "i've": "(I've got) у меня есть",
+  "idea": "идея",
+  "if": "если, ли",
+  "imagine": "представить",
+  "imelda": "Имельда (имя)",
+  "important": "важный",
+  "in": "в",
+  "increase": "увеличение",
+  "instead": "вместо этого",
+  "into": "в",
+  "invest": "вложить деньги, инвестировать",
+  "is": "есть, является",
+  "it": "он, оно, это",
+  "its": "его, её",
+  "jacket": "пиджак",
+  "jeans": "джинсы",
+  "juggle": "жонглировать",
+  "juggled": "жонглировал",
+  "juggling": "(juggling balls) мячики для жонглирования",
+  "jumped": "(jumped up) вскочили; запрыгнула; прыгнул",
+  "just": "просто",
+  "kitchen": "кухня",
+  "knew": "знал",
+  "knocked": "сбросила",
+  "know": "знать",
+  "label": "бирка",
+  "laboratory": "лаборатория",
+  "landed": "приземлился",
+  "laptop": "ноутбук",
+  "large": "большой",
+  "lark": "Ларк (фамилия)",
+  "late": "поздно",
+  "later": "позже",
+  "laughter": "смех",
+  "layers": "слои",
+  "least": "(at least) по крайней мере",
+  "leeds": "Лидс (город)",
+  "left": "(money left) осталось",
+  "lemonade": "лимонад",
+  "let": "позволить, дать",
+  "life": "жизнь",
+  "light": "свет",
+  "like": "как; похожий; (felt like) казалось",
+  "liquids": "жидкости",
+  "little": "маленький, немного",
+  "lobby": "вестибюль, холл",
+  "long": "долго, долгий",
+  "longer": "дольше",
+  "look": "выглядят",
+  "looked": "посмотрел(а); выглядел",
+  "lost": "(lost luggage office) бюро розыска багажа",
+  "loud": "громкий",
+  "lucky": "счастливый",
+  "luggage": "багаж; (hand luggage) ручная кладь",
+  "madam": "мадам",
+  "made": "издала; изготовлены",
+  "magic": "волшебство",
+  "many": "много",
+  "match": "матч",
+  "me": "меня, мне",
+  "meeting": "встреча",
+  "meetings": "встречи",
+  "memory": "память",
+  "men": "мужчины, люди",
+  "midnight": "полночь",
+  "minute": "минута",
+  "mirror": "зеркало",
+  "mistake": "ошибка",
+  "moment": "мгновение",
+  "monday": "понедельник",
+  "money": "деньги",
+  "month": "месяц",
+  "more": "больше",
+  "morning": "утро",
+  "most": "большинство",
+  "mouth": "рот",
+  "mr": "мистер",
+  "mrs": "миссис",
+  "much": "(much too) слишком; (much later) намного",
+  "my": "мой",
+  "name": "имя; фамилия",
+  "nearly": "почти",
+  "need": "нужно",
+  "never": "никогда",
+  "next": "следующий; соседний; (next to) рядом с",
+  "nine": "девять",
+  "no": "нет",
+  "nobody": "никто",
+  "noise": "шум",
+  "normal": "нормальный",
+  "not": "не",
+  "nothing": "ничего",
+  "noticed": "заметил(а)",
+  "now": "теперь",
+  "number": "номер",
+  "numbers": "цифры",
+  "o'clock": "(nine o'clock) девять часов",
+  "objects": "предметы",
+  "of": "из, о, (род. падеж)",
+  "off": "(pulled off) снял; (switched off) выключен",
+  "office": "кабинет; бюро",
+  "old": "старый",
+  "olds": "(seven-year-olds) семилетки",
+  "on": "на",
+  "one": "один; (at one point) в какой-то момент",
+  "onto": "на",
+  "open": "(fell open) открылся",
+  "opened": "открыл(а); открылась",
+  "or": "или",
+  "orange": "апельсин",
+  "other": "другой; (each other) друг друга",
+  "out": "(took out) достала",
+  "outside": "у, снаружи",
+  "owned": "владела",
+  "p": "П. (инициал)",
+  "paper": "бумага",
+  "party": "праздник",
+  "passengers": "пассажиры",
+  "past": "(half past eight) половина девятого",
+  "pay": "платить",
+  "people": "люди",
+  "per": "(per cent) процент",
+  "perfectly": "отлично; совершенно",
+  "phone": "телефон",
+  "phoned": "позвонил",
+  "phones": "телефоны",
+  "photographs": "фотографии",
+  "picked": "(picked up) взял(а)",
+  "piece": "(piece of paper) листок",
+  "pile": "груда",
+  "pink": "розовый",
+  "pins": "булавки",
+  "plane": "самолёт",
+  "plans": "планы",
+  "plastic": "пластмассовый",
+  "plates": "тарелки",
+  "pocket": "карман",
+  "point": "(at one point) в какой-то момент",
+  "pointed": "показала (пальцем)",
+  "polite": "вежливый",
+  "pool": "бассейн",
+  "poppy": "Поппи (имя)",
+  "poppy's": "Поппи (у Поппи)",
+  "porto": "Порту (город в Португалии)",
+  "portugal": "Португалия",
+  "practical": "практический",
+  "practised": "репетировал",
+  "princess": "принцесса",
+  "probably": "вероятно",
+  "problem": "проблема",
+  "promises": "обещания",
+  "pulled": "снял",
+  "pulling": "снимала; катя за собой",
+  "purpose": "цель (on purpose — нарочно)",
+  "pushed": "(pushed forward) подались вперёд",
+  "put": "класть; поставила",
+  "pym": "Пим (фамилия)",
+  "questions": "вопросы",
+  "quick": "быстрый",
+  "quickly": "быстро",
+  "raised": "(raised voice) громкий голос",
+  "rather": "(would rather) лучше, скорее",
+  "read": "прочитала",
+  "ready": "готовый",
+  "receptionist": "секретарь (в приёмной)",
+  "red": "красный",
+  "regret": "жалеть",
+  "relative": "родственник",
+  "remember": "помнить",
+  "replied": "ответила",
+  "reply": "ответить",
+  "respectable": "почтенный",
+  "rest": "остальное; (rest of his life) вся оставшаяся жизнь",
+  "restaurants": "рестораны",
+  "ribbon": "лента",
+  "rich": "богатый",
+  "right": "(the right one) тот, что нужно",
+  "rolled": "закатился; (rolled up) подвёрнуты",
+  "room": "комната",
+  "rubber": "резиновый",
+  "rule": "правило",
+  "rules": "правила",
+  "safety": "(safety pins) английские булавки",
+  "said": "сказал(а)",
+  "same": "тот же",
+  "sample": "образец",
+  "sandwich": "бутерброд",
+  "sat": "сел; сидели",
+  "saw": "увидел",
+  "saying": "говорящий",
+  "says": "говорит; гласит",
+  "school": "школа",
+  "science": "наука",
+  "screaming": "визжащие",
+  "second": "второй; (second-best) второй по ценности",
+  "see": "(I see) вижу",
+  "seen": "видела",
+  "send": "послать",
+  "sense": "(common sense) здравый смысл",
+  "serious": "серьёзный",
+  "seven": "семь",
+  "seventh": "седьмой",
+  "seventy": "семьдесят",
+  "sharp": "острый",
+  "she": "она",
+  "shirt": "(T-shirt) футболка",
+  "shirts": "рубашки",
+  "shop": "(clothes shop) магазин одежды",
+  "short": "невысокий; короткий",
+  "shouted": "накричал",
+  "show": "выступление; показать",
+  "shown": "показали",
+  "side": "сторона; (on each side) по обе стороны",
+  "signed": "подписал",
+  "silence": "тишина",
+  "silly": "глупый",
+  "silver": "серебряный",
+  "simply": "просто",
+  "singing": "напевала",
+  "single": "(not a single) ни один",
+  "six": "шесть",
+  "sleeves": "рукава",
+  "slowly": "медленно",
+  "small": "маленький",
+  "so": "(so I see) я вижу; (so that) чтобы",
+  "sock": "носок",
+  "socks": "носки",
+  "some": "(some advice) совет",
+  "someone": "кто-то",
+  "sometimes": "иногда",
+  "somewhere": "где-то",
+  "sorry": "(I'm sorry) прошу прощения",
+  "sounded": "звучали; показалась",
+  "spain": "Испания",
+  "special": "специальный",
+  "spent": "провёл",
+  "spies": "шпионы",
+  "spoke": "заговорил",
+  "spring": "весна",
+  "stain": "пятно",
+  "stared": "смотрел, уставился",
+  "staring": "смотрела",
+  "stars": "звёзды",
+  "still": "всё ещё",
+  "stone": "каменный",
+  "stood": "стоял",
+  "stop": "остановить",
+  "story": "история",
+  "stranger": "незнакомец",
+  "strength": "прочность",
+  "suit": "костюм",
+  "suitcase": "чемодан",
+  "suitcases": "чемоданы",
+  "suits": "костюмы",
+  "summer": "лето",
+  "sunday": "воскресенье",
+  "sunny": "солнечный",
+  "supplier": "поставщик",
+  "supposed": "должен был",
+  "survive": "выжить",
+  "swimming": "(swimming pool) бассейн",
+  "switched": "(switched off) выключен",
+  "system": "система",
+  "t": "(T-shirt) футболка",
+  "table": "стол",
+  "take": "взять",
+  "talk": "выступление, доклад",
+  "tall": "высокий",
+  "team": "команда",
+  "tell": "сказать",
+  "ten": "десять",
+  "terrace": "терраса",
+  "test": "испытание",
+  "tests": "испытания",
+  "than": "чем",
+  "thank": "благодарить",
+  "that": "что; тот, это",
+  "that's": "это",
+  "the": "(опр. артикль)",
+  "their": "их, свои",
+  "them": "их",
+  "then": "потом, тогда",
+  "there": "там",
+  "these": "эти",
+  "they": "они",
+  "thin": "неубедительный, слабый",
+  "thing": "вещь",
+  "think": "думать",
+  "third": "третий",
+  "thirty": "тридцать",
+  "this": "этот",
+  "those": "те",
+  "thought": "подумал",
+  "thousand": "тысяча",
+  "three": "три",
+  "threw": "бросила; бросали",
+  "tie": "галстук",
+  "time": "раз; (for a long time) долго",
+  "times": "раз",
+  "tired": "усталый",
+  "to": "к, в; (частица)",
+  "tok": "«ток» (звук)",
+  "told": "сказала",
+  "too": "слишком",
+  "took": "достала; (took photographs) фотографировала",
+  "top": "(at the top) вверху",
+  "travelling": "путешествия, поездки",
+  "travels": "путешествует, возит",
+  "treatment": "обработка",
+  "trees": "деревья",
+  "trousers": "брюки",
+  "true": "правда",
+  "truth": "правда",
+  "turned": "повернула",
+  "turning": "(was turning seven) исполнялось семь",
+  "twenty": "двадцать",
+  "twice": "дважды",
+  "two": "два",
+  "unbreakable": "небьющийся, неубиваемый",
+  "under": "под",
+  "understood": "поняла",
+  "until": "до; (until much later) лишь намного позже",
+  "up": "(hang up) повесить; (picked up) взял",
+  "very": "очень",
+  "voice": "голос",
+  "wait": "подождите",
+  "waited": "(waited for) приготовилась (к)",
+  "waiting": "ждала",
+  "wall": "стена",
+  "walls": "стены",
+  "was": "был(а)",
+  "wash": "помыть",
+  "watch": "часы (наручные); (watch) смотрите",
+  "watched": "наблюдала",
+  "wearing": "(was wearing) был одет; (she was wearing) на ней был; в",
+  "weeks": "недели",
+  "went": "(went to bed) легла спать",
+  "were": "были",
+  "what": "что",
+  "when": "когда",
+  "where": "где",
+  "while": "пока",
+  "white": "белый",
+  "who": "кто; который",
+  "whole": "целый; совершенно целый",
+  "why": "почему",
+  "wig": "парик",
+  "will": "(will be) будет",
+  "wine": "вино",
+  "wiping": "вытирая",
+  "wise": "умный, мудрый",
+  "with": "с",
+  "without": "без",
+  "woman": "женщина",
+  "word": "слово",
+  "words": "слова",
+  "worked": "работал",
+  "working": "(had been working) работали",
+  "worse": "хуже",
+  "would": "бы",
+  "wrapped": "завёрнутый",
+  "wrong": "не тот",
+  "wrote": "записывал",
+  "year": "год; (seven-year-olds) семилетки",
+  "years": "лет",
+  "you": "вы, ты",
+  "you're": "вы",
+  "you've": "(you've got) у вас есть",
+  "young": "молодой",
+  "your": "ваш",
+  "yours": "ваши"
+ },
+ "vocab": {
+  "point": 228,
+  "pointed": 228,
+  "wise": 458,
+  "increase": 509,
+  "relative": 568,
+  "meeting": 322,
+  "meetings": 322,
+  "more": 6,
+  "regret": 365,
+  "bright": 206,
+  "practised": 7,
+  "threw": 145,
+  "empty": 200,
+  "least": 604,
+  "invest": 415,
+  "defence": 156,
+  "noise": 31,
+  "courage": 616,
+  "discovered": 374,
+  "glass": 115,
+  "glasses": 115,
+  "hit": 376,
+  "piece": 213,
+  "reply": 257,
+  "replied": 257,
+  "citizen": 572,
+  "explosion": 526,
+  "dishes": 74,
+  "tall": 119,
+  "memory": 624,
+  "define": 540,
+  "rather": 533
+ }
+}

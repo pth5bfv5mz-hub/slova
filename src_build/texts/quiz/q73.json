@@ -1,0 +1,110 @@
+[
+ {
+  "q": "How many people sailed from New York on the Mary Celeste?",
+  "q_ru": "Сколько человек вышло из Нью-Йорка на «Мэри Селест»?",
+  "options": [
+   "Seven",
+   "Ten",
+   "Twelve",
+   "Four"
+  ],
+  "options_ru": [
+   "Семь",
+   "Десять",
+   "Двенадцать",
+   "Четыре"
+  ],
+  "answer": 1,
+  "explain_ru": "На борту были капитан Бриггс, его жена, двухлетняя дочь и семь членов команды — всего десять человек."
+ },
+ {
+  "q": "What did Deveau and Wright find on board?",
+  "q_ru": "Что Дево и Райт нашли на борту?",
+  "options": [
+   "Food and water for about six months",
+   "The lifeboat and all the instruments",
+   "A half-eaten breakfast and warm tea",
+   "Clear signs of a violent fight"
+  ],
+  "options_ru": [
+   "Еду и воду примерно на полгода",
+   "Шлюпку и все приборы",
+   "Недоеденный завтрак и тёплый чай",
+   "Явные следы жестокой борьбы"
+  ],
+  "answer": 0,
+  "explain_ru": "На судне было много еды и пресной воды, а шлюпка, секстант и хронометр пропали; завтрак и чай — позднейший вымысел."
+ },
+ {
+  "q": "What did the tests on the stains on the sword show?",
+  "q_ru": "Что показала проверка пятен на сабле?",
+  "options": [
+   "They were human blood",
+   "They were the captain's blood",
+   "They were never tested",
+   "They were not blood"
+  ],
+  "options_ru": [
+   "Это была человеческая кровь",
+   "Это была кровь капитана",
+   "Их так и не проверили",
+   "Это была не кровь"
+  ],
+  "answer": 3,
+  "explain_ru": "Солли-Флад подозревал, что это кровь, но исследование показало, что это не так."
+ },
+ {
+  "q": "Where do the name \"Marie Celeste\" and the story of warm tea come from?",
+  "q_ru": "Откуда взялись название «Мари Селест» и история о тёплом чае?",
+  "options": [
+   "The court in Gibraltar",
+   "Deveau's official report",
+   "Conan Doyle's story and later retellings",
+   "The ship's logbook"
+  ],
+  "options_ru": [
+   "Из суда в Гибралтаре",
+   "Из официального отчёта Дево",
+   "Из рассказа Конан Дойла и позднейших пересказов",
+   "Из судового журнала"
+  ],
+  "answer": 2,
+  "explain_ru": "Рассказ Конан Дойла 1884 года и более поздние пересказы добавили неверное название и выдуманные подробности."
+ },
+ {
+  "q": "Why do most researchers doubt the pirate theory?",
+  "q_ru": "Почему большинство исследователей сомневаются в версии о пиратах?",
+  "options": [
+   "The crew had many guns",
+   "Nothing valuable seems to have been taken",
+   "Pirates never sailed near the Azores",
+   "The ship was too small to attack"
+  ],
+  "options_ru": [
+   "У команды было много оружия",
+   "Похоже, ничего ценного не взяли",
+   "Пираты никогда не плавали у Азорских островов",
+   "Судно было слишком маленьким для нападения"
+  ],
+  "answer": 1,
+  "explain_ru": "Груз и личные вещи остались на месте, а само судно бросили — пиратам это не свойственно."
+ },
+ {
+  "q": "What did Andrea Sella's experiment in 2006 show?",
+  "q_ru": "Что показал эксперимент Андреа Селлы в 2006 году?",
+  "options": [
+   "That alcohol fumes cannot burn",
+   "That the crew started a mutiny",
+   "That a small explosion could scare the crew without leaving marks",
+   "That the alcohol theory is now proven"
+  ],
+  "options_ru": [
+   "Что пары спирта не горят",
+   "Что команда подняла бунт",
+   "Что небольшой взрыв мог напугать команду, не оставив следов",
+   "Что версия о спирте теперь доказана"
+  ],
+  "answer": 2,
+  "explain_ru": "Вспышка в модели трюма не оставила следов ожогов; это делает версию возможной, но не доказывает её — загадка остаётся нерешённой."
+ }
+]

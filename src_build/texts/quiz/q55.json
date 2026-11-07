@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What was the USS Maddox doing in the Gulf of Tonkin?",
+  "q_ru": "Что делал эсминец «Мэддокс» в Тонкинском заливе?",
+  "options": [
+   "Collecting electronic intelligence",
+   "Carrying soldiers to South Vietnam",
+   "Leading the raids on the islands",
+   "Rescuing damaged fishing boats"
+  ],
+  "options_ru": [
+   "Собирал радиоэлектронную разведку",
+   "Перевозил солдат в Южный Вьетнам",
+   "Руководил налётами на острова",
+   "Спасал повреждённые рыбацкие лодки"
+  ],
+  "answer": 0,
+  "explain_ru": "В тексте: «Its job was to collect electronic intelligence» — прослушивать радиосообщения и определять расположение радаров."
+ },
+ {
+  "q": "What happened on 2 August 1964?",
+  "q_ru": "Что произошло 2 августа 1964 года?",
+  "options": [
+   "Nothing; the attack was invented",
+   "North Vietnamese boats really attacked the Maddox",
+   "The Maddox was sunk by a torpedo",
+   "American planes bombed Hanoi"
+  ],
+  "options_ru": [
+   "Ничего, нападение выдумали",
+   "Северовьетнамские катера действительно атаковали «Мэддокс»",
+   "«Мэддокс» потопила торпеда",
+   "Американские самолёты бомбили Ханой"
+  ],
+  "answer": 1,
+  "explain_ru": "Первое столкновение действительно было: «This first clash really happened», в корабль попала лишь одна пуля."
+ },
+ {
+  "q": "What did Captain Herrick say in his message after the night of 4 August?",
+  "q_ru": "Что написал капитан Херрик в сообщении после ночи 4 августа?",
+  "options": [
+   "That two enemy boats had been sunk",
+   "That the Navy needed more ships",
+   "That many reports seemed doubtful",
+   "That the President should attack at once"
+  ],
+  "options_ru": [
+   "Что потоплены два вражеских катера",
+   "Что флоту нужно больше кораблей",
+   "Что многие донесения кажутся сомнительными",
+   "Что президенту нужно немедленно атаковать"
+  ],
+  "answer": 2,
+  "explain_ru": "Херрик сообщил, что многие цели и торпеды кажутся сомнительными, и предложил полную проверку до дальнейших действий."
+ },
+ {
+  "q": "What did the Gulf of Tonkin Resolution allow?",
+  "q_ru": "Что разрешала Тонкинская резолюция?",
+  "options": [
+   "A peace treaty with Hanoi",
+   "A new presidential election",
+   "Secret raids by South Vietnam",
+   "Military action without a declaration of war"
+  ],
+  "options_ru": [
+   "Мирный договор с Ханоем",
+   "Новые президентские выборы",
+   "Тайные налёты Южного Вьетнама",
+   "Военные действия без объявления войны"
+  ],
+  "answer": 3,
+  "explain_ru": "Резолюция позволяла президенту «принимать все необходимые меры»; Морс предупреждал, что это право вести войну без её объявления."
+ },
+ {
+  "q": "What did the NSA study by Robert Hanyok, released in 2005, show?",
+  "q_ru": "Что показало исследование историка АНБ Роберта Ханьока, опубликованное в 2005 году?",
+  "options": [
+   "No attack took place on 4 August",
+   "The President ordered officials to lie",
+   "China attacked the American ships",
+   "Herrick had invented the first clash"
+  ],
+  "options_ru": [
+   "4 августа нападения не было",
+   "Президент приказал сотрудникам лгать",
+   "Американские корабли атаковал Китай",
+   "Херрик выдумал первое столкновение"
+  ],
+  "answer": 0,
+  "explain_ru": "Вывод Ханьока: в ночь на 4 августа нападения не было; доказательств приказа президента лгать он не нашёл."
+ },
+ {
+  "q": "Which statement is still debated by historians?",
+  "q_ru": "Какой вопрос историки до сих пор обсуждают?",
+  "options": [
+   "Whether the 2 August clash happened",
+   "How much Johnson understood about the doubts",
+   "Whether Congress passed the resolution",
+   "Whether US troops went to Vietnam"
+  ],
+  "options_ru": [
+   "Было ли столкновение 2 августа",
+   "Насколько Джонсон понимал существующие сомнения",
+   "Принял ли Конгресс резолюцию",
+   "Отправлялись ли войска США во Вьетнам"
+  ],
+  "answer": 1,
+  "explain_ru": "В тексте: «Historians still disagree about how much Johnson understood about the doubts on the night of 4 August»."
+ }
+]

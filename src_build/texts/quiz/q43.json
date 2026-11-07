@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why was Ruben thinner and quieter than at school?",
+  "q_ru": "Почему Рубен стал худее и тише, чем в школе?",
+  "options": [
+   "He had been seriously ill",
+   "His clothes shop had closed and he felt he had failed",
+   "He had argued with Gavin",
+   "He was afraid of the river"
+  ],
+  "options_ru": [
+   "Он тяжело болел",
+   "Его магазин одежды закрылся, и он считал это своим провалом",
+   "Он поссорился с Гэвином",
+   "Он боялся реки"
+  ],
+  "answer": 1,
+  "explain_ru": "Его магазин в торговом центре закрылся весной: «It was a failure... My failure». Кроме того, позже выясняется, что в марте умерла его мать."
+ },
+ {
+  "q": "\"Their approach to everything had always been different.\" What does \"approach\" mean here?",
+  "q_ru": "«Their approach to everything had always been different». Что здесь значит «approach»?",
+  "options": [
+   "the road to a place",
+   "their speed on the river",
+   "their opinion about each other",
+   "their way of doing things"
+  ],
+  "options_ru": [
+   "дорога к какому-то месту",
+   "их скорость на реке",
+   "их мнение друг о друге",
+   "их манера действовать"
+  ],
+  "answer": 3,
+  "explain_ru": "Approach — подход. Рубен хотел грести быстрее, Гэвин — остановиться пораньше; один «checks everything twice», другой «jumps before he looks»."
+ },
+ {
+  "q": "Why had everybody left Kallmora?",
+  "q_ru": "Почему все жители покинули Калльмору?",
+  "options": [
+   "After a mine explosion, the river water was not safe",
+   "A big flood destroyed the houses",
+   "The school and the church were closed",
+   "People moved to the city for work"
+  ],
+  "options_ru": [
+   "После взрыва на шахте вода в реке стала опасной",
+   "Сильное наводнение разрушило дома",
+   "Закрыли школу и церковь",
+   "Люди переехали в город на работу"
+  ],
+  "answer": 0,
+  "explain_ru": "В школе висело объявление: «After the explosion at the Rask mine, the water of the river is not considered safe». Жителей вывезли за 48 часов."
+ },
+ {
+  "q": "Why had Ruben chosen the Vesna river for the trip?",
+  "q_ru": "Почему Рубен выбрал для похода именно реку Весну?",
+  "options": [
+   "It was the easiest river for beginners",
+   "Gavin had always wanted to go there",
+   "His mother was born in Kallmora",
+   "He wanted to find the Rask mine"
+  ],
+  "options_ru": [
+   "Это самая лёгкая река для новичков",
+   "Гэвин всегда хотел туда поехать",
+   "Его мать родилась в Калльморе",
+   "Он хотел найти шахту Раск"
+  ],
+  "answer": 2,
+  "explain_ru": "Рубен признаётся: «I didn't choose the Vesna by accident. My mother was born in Kallmora». Мать всю жизнь хотела вернуться, но умерла в марте."
+ },
+ {
+  "q": "Why did Isak cut the rope and take the raft?",
+  "q_ru": "Почему Исак перерезал верёвку и забрал плот?",
+  "options": [
+   "He wanted to steal their bags",
+   "He wanted the visitors to leave quickly",
+   "He needed the raft to go to town",
+   "He wanted to stop them from reaching a dangerous place"
+  ],
+  "options_ru": [
+   "Он хотел украсть их сумки",
+   "Он хотел, чтобы гости быстрее уехали",
+   "Ему был нужен плот, чтобы добраться до города",
+   "Он хотел не пустить их в опасное место"
+  ],
+  "answer": 3,
+  "explain_ru": "После дождя вода поднялась, а ниже по реке узкое место — «the Throat»: «When the water is high, nobody can pass». Сумки он сохранил: «Your things are safe»."
+ },
+ {
+  "q": "How does the story end?",
+  "q_ru": "Чем заканчивается рассказ?",
+  "options": [
+   "Isak leaves the village with them",
+   "The friends plan to come back next summer",
+   "Ruben decides to stay in Kallmora",
+   "The friends argue again and part"
+  ],
+  "options_ru": [
+   "Исак уезжает из деревни вместе с ними",
+   "Друзья собираются вернуться следующим летом",
+   "Рубен решает остаться в Калльморе",
+   "Друзья снова ссорятся и расстаются"
+  ],
+  "answer": 1,
+  "explain_ru": "Исак не поехал: «Come back next summer instead». Рубен улыбается: «Next summer... And this time, I'll be the one who checks the rope twice»."
+ }
+]

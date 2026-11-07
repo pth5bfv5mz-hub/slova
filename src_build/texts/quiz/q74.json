@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What was found in the tiny hidden pocket of the man's trousers?",
+  "q_ru": "Что нашли в крошечном потайном кармане брюк мужчины?",
+  "options": [
+   "A train ticket to Henley Beach",
+   "A piece of paper with the words \"Tamam Shud\"",
+   "A telephone number written in pencil",
+   "A label with the name \"T. Keane\""
+  ],
+  "options_ru": [
+   "Билет на поезд до Хенли-Бич",
+   "Клочок бумаги со словами «Tamam Shud»",
+   "Номер телефона, написанный карандашом",
+   "Ярлык с именем «T. Keane»"
+  ],
+  "answer": 1,
+  "explain_ru": "В тексте: в кармашке для часов следователи нашли туго свёрнутый клочок бумаги со словами «Tamam Shud», вырванный из книги."
+ },
+ {
+  "q": "What did the doctor discover about poison in the body?",
+  "q_ru": "Что врач обнаружил насчёт яда в теле?",
+  "options": [
+   "He found a rare Russian poison",
+   "He found poison in the stomach only",
+   "He thought it was poison, but no poison was found",
+   "He proved that there was no poison"
+  ],
+  "options_ru": [
+   "Он нашёл редкий русский яд",
+   "Он нашёл яд только в желудке",
+   "Он подозревал яд, но никакого яда не нашли",
+   "Он доказал, что яда не было"
+  ],
+  "answer": 2,
+  "explain_ru": "Врач считал, что мужчину, вероятно, отравили, но яда в теле не нашли; версия о редком, быстро разлагающемся яде так и не доказана."
+ },
+ {
+  "q": "Why did the police stop believing that Alfred Boxall was the dead man?",
+  "q_ru": "Почему полиция перестала считать, что умерший — Альфред Боксолл?",
+  "options": [
+   "Boxall was found alive with his copy of the book complete",
+   "Boxall had a different telephone number",
+   "Boxall had died during the war",
+   "The nurse said she had never met him"
+  ],
+  "options_ru": [
+   "Боксолла нашли живым, и его экземпляр книги был целым",
+   "У Боксолла был другой номер телефона",
+   "Боксолл погиб на войне",
+   "Медсестра сказала, что никогда его не встречала"
+  ],
+  "answer": 0,
+  "explain_ru": "Боксолла нашли живым в Сиднее, и в его книге последняя страница со словами «Tamam Shud» была на месте."
+ },
+ {
+  "q": "What did the University of Adelaide study suggest about the code?",
+  "q_ru": "Что показало исследование Аделаидского университета насчёт шифра?",
+  "options": [
+   "It was a Soviet military code",
+   "It was written in Persian",
+   "It was just random letters with no pattern",
+   "It looked like the first letters of English words"
+  ],
+  "options_ru": [
+   "Это был советский военный шифр",
+   "Он был написан по-персидски",
+   "Это были случайные буквы без закономерности",
+   "Он походил на первые буквы английских слов"
+  ],
+  "answer": 3,
+  "explain_ru": "Исследователи обнаружили, что буквы больше всего похожи на первые буквы слов английского текста, но сам текст так и не установлен."
+ },
+ {
+  "q": "How did researchers identify the man as Carl \"Charles\" Webb in 2022?",
+  "q_ru": "Как исследователи в 2022 году установили, что это Карл «Чарльз» Уэбб?",
+  "options": [
+   "By studying his fingerprints again",
+   "By using DNA from hairs in the plaster cast",
+   "By breaking the code in the book",
+   "By finding his name in the suitcase"
+  ],
+  "options_ru": [
+   "Заново изучив его отпечатки пальцев",
+   "С помощью ДНК из волос в гипсовом слепке",
+   "Разгадав шифр в книге",
+   "Найдя его имя в чемодане"
+  ],
+  "answer": 1,
+  "explain_ru": "Эбботт и Фицпатрик получили ДНК из волос, застрявших в гипсовом слепке 1949 года, и построили огромное генеалогическое древо."
+ },
+ {
+  "q": "Which statement about the case is true today?",
+  "q_ru": "Какое утверждение об этом деле верно сегодня?",
+  "options": [
+   "The police proved he was a spy",
+   "The nurse admitted she knew him",
+   "The cause of death and the code are still unknown",
+   "The code was broken in 2009"
+  ],
+  "options_ru": [
+   "Полиция доказала, что он был шпионом",
+   "Медсестра признала, что знала его",
+   "Причина смерти и смысл шифра до сих пор неизвестны",
+   "Шифр разгадали в 2009 году"
+  ],
+  "answer": 2,
+  "explain_ru": "Даже если имя верное, неизвестно, как и почему он умер; шифр не разгадан, а доказательств шпионской версии нет."
+ }
+]

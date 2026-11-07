@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why was this Christmas special for Joyce?",
+  "q_ru": "Почему это Рождество было особенным для Джойс?",
+  "options": [
+   "It was her first Christmas in a new house",
+   "Megan's fiancé and his parents were coming for the first time",
+   "Pearl was coming to live with them",
+   "Gavin had promised to cook the turkey"
+  ],
+  "options_ru": [
+   "Это было её первое Рождество в новом доме",
+   "Впервые приезжали жених Меган и его родители",
+   "Перл собиралась переехать к ним",
+   "Гэвин обещал сам приготовить индейку"
+  ],
+  "answer": 1,
+  "explain_ru": "Меган везла домой Кита, «the young man she was going to marry», а его родители Ashdown приезжали на обед. Джойс их никогда не видела."
+ },
+ {
+  "q": "\"Joyce hated uncertainty more than anything.\" What is \"uncertainty\"?",
+  "q_ru": "«Joyce hated uncertainty more than anything». Что такое «uncertainty»?",
+  "options": [
+   "Not knowing what will happen",
+   "Being late for something",
+   "Cooking for many people",
+   "Bad weather at Christmas"
+  ],
+  "options_ru": [
+   "Когда не знаешь, что будет",
+   "Опоздание куда-либо",
+   "Готовка на много людей",
+   "Плохая погода на Рождество"
+  ],
+  "answer": 0,
+  "explain_ru": "Uncertainty — неопределённость. Рейс задержали, «Nobody knew for how long», и Джойс написала на доске «???»."
+ },
+ {
+  "q": "Where did they cook the turkey after the oven broke?",
+  "q_ru": "Где они готовили индейку после того, как сломалась духовка?",
+  "options": [
+   "At Pearl's old flat",
+   "In a restaurant in town",
+   "On a fire in the garden",
+   "In their neighbour Mr Okoro's kitchen"
+  ],
+  "options_ru": [
+   "В старой квартире Перл",
+   "В ресторане в городе",
+   "На костре в саду",
+   "На кухне у соседа, мистера Окоро"
+  ],
+  "answer": 3,
+  "explain_ru": "Сосед уехал и оставил Джойс ключ, чтобы кормить кота, и Олли отнёс индейку «in the direction of Mr Okoro's back door»."
+ },
+ {
+  "q": "Why did a fire engine come?",
+  "q_ru": "Почему приехала пожарная машина?",
+  "options": [
+   "The Christmas tree lights caught fire",
+   "Duchess knocked over a candle",
+   "An oven glove was burning in Mr Okoro's house",
+   "Gavin set the car on fire again"
+  ],
+  "options_ru": [
+   "Загорелись гирлянды на ёлке",
+   "Собака Дачесс опрокинула свечу",
+   "В доме мистера Окоро горела кухонная рукавица",
+   "Гэвин снова поджёг машину"
+  ],
+  "answer": 2,
+  "explain_ru": "Сигнализация соседа сообщила о дыме. Индейка была цела, но «the oven glove that Ollie had left on top of the oven was not»."
+ },
+ {
+  "q": "Who were the early guests, and why had they come?",
+  "q_ru": "Кто были ранние гости и зачем они пришли?",
+  "options": [
+   "Pearl's lawyer and his wife, invited by Pearl",
+   "Kit's parents, who came by bus",
+   "Firefighters who wanted some tea",
+   "Friends of Mr Okoro looking for his cat"
+  ],
+  "options_ru": [
+   "Юрист Перл с женой, их пригласила Перл",
+   "Родители Кита, приехавшие на автобусе",
+   "Пожарные, которые хотели чаю",
+   "Друзья мистера Окоро, искавшие его кота"
+  ],
+  "answer": 0,
+  "explain_ru": "«I'm your mother-in-law's lawyer». Перл пригласила их, потому что у них нет семьи, а ещё она меняла завещание («will»)."
+ },
+ {
+  "q": "What did Celia write on the board at the end?",
+  "q_ru": "Что Силия написала на доске в конце?",
+  "options": [
+   "A thank-you for the perfect dinner",
+   "The recipe for the cherry trifle",
+   "An invitation to their house next year, with the dog",
+   "A new plan for every hour of Christmas"
+  ],
+  "options_ru": [
+   "Благодарность за идеальный ужин",
+   "Рецепт вишнёвого трайфла",
+   "Приглашение к ним в гости на следующий год, вместе с собакой",
+   "Новый план на каждый час Рождества"
+  ],
+  "answer": 2,
+  "explain_ru": "Под словами Джойс «NO PLAN» появилась строка: «Next year, at our house. Please bring the dog». Силия обрадовалась, что семья не «идеальная»."
+ }
+]

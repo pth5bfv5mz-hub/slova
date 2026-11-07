@@ -1,0 +1,1549 @@
+{
+ "id": 36,
+ "level": "B1",
+ "title_en": "The Fish Soup",
+ "title_ru": "Рыбный суп",
+ "genre": "Ресторанная драма",
+ "summary_ru": "Молодой шеф-повар узнаёт, что в его маленький ресторан у гавани едет знаменитый критик — та самая женщина, чья жестокая рецензия когда-то закрыла ресторан его отца.",
+ "paragraphs": [
+  {
+   "en": "The email arrived on a Tuesday morning, while Jonah Pell was cleaning fish behind the restaurant. A table for one, Friday at eight, in the name of M. Sorell. Jonah read it three times. Then he put down his knife, washed his hands very slowly and went inside to find Bea.",
+   "ru": "Письмо пришло во вторник утром, когда Джона Пелл чистил рыбу за рестораном. Столик на одного, пятница, восемь часов, на имя М. Сорелл. Джона прочитал его три раза. Потом он положил нож, очень медленно вымыл руки и пошёл внутрь искать Би.",
+   "s": [
+    [
+     "The email arrived on a Tuesday morning, while Jonah Pell was cleaning fish behind the restaurant.",
+     "Письмо пришло во вторник утром, когда Джона Пелл чистил рыбу за рестораном."
+    ],
+    [
+     "A table for one, Friday at eight, in the name of M. Sorell.",
+     "Столик на одного, пятница, восемь часов, на имя М. Сорелл."
+    ],
+    [
+     "Jonah read it three times.",
+     "Джона прочитал его три раза."
+    ],
+    [
+     "Then he put down his knife, washed his hands very slowly and went inside to find Bea.",
+     "Потом он положил нож, очень медленно вымыл руки и пошёл внутрь искать Би."
+    ]
+   ]
+  },
+  {
+   "en": "Everybody in the business knew that name. Margit Sorell had been writing about restaurants for forty years, and her reviews were read far beyond the borders of the country. Chefs called her “the Sword”, because one sentence from her could cut a restaurant in half. She gave every place a mark from one to ten. A nine could bring wealth and long queues for years. A two could close a kitchen in a month.",
+   "ru": "В этом деле все знали это имя. Маргит Сорелл писала о ресторанах сорок лет, и её рецензии читали далеко за границами страны. Повара называли её «Мечом», потому что одна её фраза могла разрубить ресторан пополам. Она ставила каждому заведению отметку от одного до десяти. Девятка могла принести богатство и длинные очереди на годы вперёд. Двойка могла закрыть кухню за месяц.",
+   "s": [
+    [
+     "Everybody in the business knew that name.",
+     "В этом деле все знали это имя."
+    ],
+    [
+     "Margit Sorell had been writing about restaurants for forty years, and her reviews were read far beyond the borders of the country.",
+     "Маргит Сорелл писала о ресторанах сорок лет, и её рецензии читали далеко за границами страны."
+    ],
+    [
+     "Chefs called her “the Sword”, because one sentence from her could cut a restaurant in half.",
+     "Повара называли её «Мечом», потому что одна её фраза могла разрубить ресторан пополам."
+    ],
+    [
+     "She gave every place a mark from one to ten.",
+     "Она ставила каждому заведению отметку от одного до десяти."
+    ],
+    [
+     "A nine could bring wealth and long queues for years.",
+     "Девятка могла принести богатство и длинные очереди на годы вперёд."
+    ],
+    [
+     "A two could close a kitchen in a month.",
+     "Двойка могла закрыть кухню за месяц."
+    ]
+   ]
+  },
+  {
+   "en": "Jonah knew this better than anyone. Seven years earlier, she had eaten at The Anchor, the little harbour restaurant that his father had run for thirty years in this same building. Her review had been only six lines long. “Samuel Pell has lost his skill,” she wrote. “The fish soup was cold, the bread was old, and in my bowl I found an insect. I do not expect to return.” She gave it a two.",
+   "ru": "Джона знал это лучше всех. Семь лет назад она ужинала в «Якоре» — маленьком ресторане у гавани, которым его отец тридцать лет управлял в этом самом здании. Её рецензия была длиной всего в шесть строк. «Сэмюэл Пелл утратил своё мастерство», — писала она. «Рыбный суп был холодным, хлеб — чёрствым, а в своей тарелке я нашла насекомое. Возвращаться я не собираюсь». Она поставила ему двойку.",
+   "s": [
+    [
+     "Jonah knew this better than anyone.",
+     "Джона знал это лучше всех."
+    ],
+    [
+     "Seven years earlier, she had eaten at The Anchor, the little harbour restaurant that his father had run for thirty years in this same building.",
+     "Семь лет назад она ужинала в «Якоре» — маленьком ресторане у гавани, которым его отец тридцать лет управлял в этом самом здании."
+    ],
+    [
+     "Her review had been only six lines long.",
+     "Её рецензия была длиной всего в шесть строк."
+    ],
+    [
+     "“Samuel Pell has lost his skill,” she wrote.",
+     "«Сэмюэл Пелл утратил своё мастерство», — писала она."
+    ],
+    [
+     "“The fish soup was cold, the bread was old, and in my bowl I found an insect.",
+     "«Рыбный суп был холодным, хлеб — чёрствым, а в своей тарелке я нашла насекомое."
+    ],
+    [
+     "I do not expect to return.”",
+     "Возвращаться я не собираюсь»."
+    ],
+    [
+     "She gave it a two.",
+     "Она поставила ему двойку."
+    ]
+   ]
+  },
+  {
+   "en": "After that, the dining area was empty almost every night. Three months later The Anchor closed. Two years later his father died of a heart attack, at sixty-one. Jonah had never accepted that review. There had never been an insect in his kitchen, and Jonah was sure that there had never been one in that soup.",
+   "ru": "После этого обеденный зал почти каждый вечер был пустым. Через три месяца «Якорь» закрылся. Ещё через два года его отец умер от сердечного приступа в шестьдесят один год. Джона так и не принял эту рецензию. На его кухне никогда не было насекомых, и Джона был уверен, что в том супе его тоже не было.",
+   "s": [
+    [
+     "After that, the dining area was empty almost every night.",
+     "После этого обеденный зал почти каждый вечер был пустым."
+    ],
+    [
+     "Three months later The Anchor closed.",
+     "Через три месяца «Якорь» закрылся."
+    ],
+    [
+     "Two years later his father died of a heart attack, at sixty-one.",
+     "Ещё через два года его отец умер от сердечного приступа в шестьдесят один год."
+    ],
+    [
+     "Jonah had never accepted that review.",
+     "Джона так и не принял эту рецензию."
+    ],
+    [
+     "There had never been an insect in his kitchen, and Jonah was sure that there had never been one in that soup.",
+     "На его кухне никогда не было насекомых, и Джона был уверен, что в том супе его тоже не было."
+    ]
+   ]
+  },
+  {
+   "en": "Curiously, his father had never seemed upset. Jonah still had a clear memory of the evening when the review came out. Samuel had read it on the old green sofa in the sitting room upstairs, and then he had laughed quietly, almost kindly. “She's a wise woman,” he had said. A week later he had given Jonah all the money that was left in the bank. “Go and train in the big kitchens,” he told him. “Paris, Copenhagen, anywhere. See the world. Don't spend your life behind my stove.”",
+   "ru": "Любопытно, что отец никогда не выглядел расстроенным. Джона до сих пор ясно помнил вечер, когда вышла рецензия. Сэмюэл прочитал её на старом зелёном диване в гостиной наверху, а потом тихо, почти ласково рассмеялся. «Она мудрая женщина», — сказал он. Через неделю он отдал Джоне все деньги, что ещё оставались в банке. «Поезжай учиться на больших кухнях», — сказал он ему. «Париж, Копенгаген, куда угодно. Посмотри мир. Не трать свою жизнь за моей плитой».",
+   "s": [
+    [
+     "Curiously, his father had never seemed upset.",
+     "Любопытно, что отец никогда не выглядел расстроенным."
+    ],
+    [
+     "Jonah still had a clear memory of the evening when the review came out.",
+     "Джона до сих пор ясно помнил вечер, когда вышла рецензия."
+    ],
+    [
+     "Samuel had read it on the old green sofa in the sitting room upstairs, and then he had laughed quietly, almost kindly.",
+     "Сэмюэл прочитал её на старом зелёном диване в гостиной наверху, а потом тихо, почти ласково рассмеялся."
+    ],
+    [
+     "“She's a wise woman,” he had said.",
+     "«Она мудрая женщина», — сказал он."
+    ],
+    [
+     "A week later he had given Jonah all the money that was left in the bank.",
+     "Через неделю он отдал Джоне все деньги, что ещё оставались в банке."
+    ],
+    [
+     "“Go and train in the big kitchens,” he told him.",
+     "«Поезжай учиться на больших кухнях», — сказал он ему."
+    ],
+    [
+     "“Paris, Copenhagen, anywhere.",
+     "«Париж, Копенгаген, куда угодно."
+    ],
+    [
+     "See the world.",
+     "Посмотри мир."
+    ],
+    [
+     "Don't spend your life behind my stove.”",
+     "Не трать свою жизнь за моей плитой»."
+    ]
+   ]
+  },
+  {
+   "en": "So Jonah had gone. For five years he had worked in famous kitchens, where chefs shouted and nobody slept, and he had learned more than he had ever imagined. He came home only when his father was in hospital, and he arrived one day too late. Afterwards he bought back the old building, painted the walls white and opened Pell's: thirty seats, a short menu and a view of the boats in the harbour. But Margit Sorell had never come. Until now.",
+   "ru": "И Джона уехал. Пять лет он работал на знаменитых кухнях, где шефы кричали, а спать было некогда, и научился большему, чем мог себе представить. Домой он вернулся, только когда отец попал в больницу, и опоздал на один день. После этого он выкупил старое здание, покрасил стены в белый цвет и открыл «Пеллс»: тридцать мест, короткое меню и вид на лодки в гавани. Но Маргит Сорелл так ни разу и не приехала. До сих пор.",
+   "s": [
+    [
+     "So Jonah had gone.",
+     "И Джона уехал."
+    ],
+    [
+     "For five years he had worked in famous kitchens, where chefs shouted and nobody slept, and he had learned more than he had ever imagined.",
+     "Пять лет он работал на знаменитых кухнях, где шефы кричали, а спать было некогда, и научился большему, чем мог себе представить."
+    ],
+    [
+     "He came home only when his father was in hospital, and he arrived one day too late.",
+     "Домой он вернулся, только когда отец попал в больницу, и опоздал на один день."
+    ],
+    [
+     "Afterwards he bought back the old building, painted the walls white and opened Pell's: thirty seats, a short menu and a view of the boats in the harbour.",
+     "После этого он выкупил старое здание, покрасил стены в белый цвет и открыл «Пеллс»: тридцать мест, короткое меню и вид на лодки в гавани."
+    ],
+    [
+     "But Margit Sorell had never come.",
+     "Но Маргит Сорелл так ни разу и не приехала."
+    ],
+    [
+     "Until now.",
+     "До сих пор."
+    ]
+   ]
+  },
+  {
+   "en": "Bea Lund was counting glasses at the bar. She had been his friend since school and his manager for two years, and she could read his face like a menu. “She's coming,” she said. “Friday,” said Jonah. “What are you going to cook?” “Everything,” he said. “The most expensive menu that this town has ever seen. I want her to see exactly what she destroyed.” Bea looked at him for a long moment. “Do you want to feed her,” she asked, “or fight her?”",
+   "ru": "Би Лунд пересчитывала бокалы у бара. Она дружила с ним со школы и уже два года была управляющей его ресторана, и она читала его лицо, как меню. «Она приезжает», — сказала она. «В пятницу», — сказал Джона. «Что ты будешь готовить?» «Всё», — ответил он. «Самое дорогое меню, какое когда-либо видел этот город. Я хочу, чтобы она увидела, что именно она уничтожила». Би долго смотрела на него. «Ты хочешь её накормить, — спросила она, — или сразиться с ней?»",
+   "s": [
+    [
+     "Bea Lund was counting glasses at the bar.",
+     "Би Лунд пересчитывала бокалы у бара."
+    ],
+    [
+     "She had been his friend since school and his manager for two years, and she could read his face like a menu.",
+     "Она дружила с ним со школы и уже два года была управляющей его ресторана, и она читала его лицо, как меню."
+    ],
+    [
+     "“She's coming,” she said.",
+     "«Она приезжает», — сказала она."
+    ],
+    [
+     "“Friday,” said Jonah.",
+     "«В пятницу», — сказал Джона."
+    ],
+    [
+     "“What are you going to cook?”",
+     "«Что ты будешь готовить?»"
+    ],
+    [
+     "“Everything,” he said.",
+     "«Всё», — ответил он."
+    ],
+    [
+     "“The most expensive menu that this town has ever seen.",
+     "«Самое дорогое меню, какое когда-либо видел этот город."
+    ],
+    [
+     "I want her to see exactly what she destroyed.”",
+     "Я хочу, чтобы она увидела, что именно она уничтожила»."
+    ],
+    [
+     "Bea looked at him for a long moment.",
+     "Би долго смотрела на него."
+    ],
+    [
+     "“Do you want to feed her,” she asked, “or fight her?”",
+     "«Ты хочешь её накормить, — спросила она, — или сразиться с ней?»"
+    ]
+   ]
+  },
+  {
+   "en": "He did not answer. For the next three days he prepared as if for a war. He trained his two young cooks, who were excited and terrified at the same time, until they could plate every dish in their sleep. He ordered a package of white truffles from Italy that cost more than his car. At night he lay awake in the flat above the restaurant, and when he finally slept, he would wake up at four with his heart racing and the same picture in his head: a tall woman putting down her fork.",
+   "ru": "Он не ответил. Следующие три дня он готовился как к войне. Он тренировал двух своих молодых поваров, взволнованных и перепуганных одновременно, пока они не научились выкладывать каждое блюдо хоть во сне. Он заказал из Италии упаковку белых трюфелей, которая стоила дороже его машины. По ночам он лежал без сна в квартире над рестораном, а когда наконец засыпал, то просыпался в четыре с колотящимся сердцем и одной и той же картиной в голове: высокая женщина кладёт вилку.",
+   "s": [
+    [
+     "He did not answer.",
+     "Он не ответил."
+    ],
+    [
+     "For the next three days he prepared as if for a war.",
+     "Следующие три дня он готовился как к войне."
+    ],
+    [
+     "He trained his two young cooks, who were excited and terrified at the same time, until they could plate every dish in their sleep.",
+     "Он тренировал двух своих молодых поваров, взволнованных и перепуганных одновременно, пока они не научились выкладывать каждое блюдо хоть во сне."
+    ],
+    [
+     "He ordered a package of white truffles from Italy that cost more than his car.",
+     "Он заказал из Италии упаковку белых трюфелей, которая стоила дороже его машины."
+    ],
+    [
+     "At night he lay awake in the flat above the restaurant, and when he finally slept, he would wake up at four with his heart racing and the same picture in his head: a tall woman putting down her fork.",
+     "По ночам он лежал без сна в квартире над рестораном, а когда наконец засыпал, то просыпался в четыре с колотящимся сердцем и одной и той же картиной в голове: высокая женщина кладёт вилку."
+    ]
+   ]
+  },
+  {
+   "en": "Bea tried to help. She taught him a breathing exercise that her yoga teacher used: in for four seconds, hold, out for six. “Fear is only energy,” she said. “Use it, or it will use you.” The worst thing was the uncertainty. Critics of her age did not travel three hundred kilometres to a small fishing town by accident.",
+   "ru": "Би пыталась помочь. Она научила его дыхательному упражнению, которым пользовалась её преподавательница йоги: вдох на четыре секунды, задержка, выдох на шесть. «Страх — это просто энергия», — сказала она. «Используй его, иначе он использует тебя». Хуже всего была неопределённость. Критики её возраста не едут за триста километров в маленький рыбацкий городок просто так.",
+   "s": [
+    [
+     "Bea tried to help.",
+     "Би пыталась помочь."
+    ],
+    [
+     "She taught him a breathing exercise that her yoga teacher used: in for four seconds, hold, out for six.",
+     "Она научила его дыхательному упражнению, которым пользовалась её преподавательница йоги: вдох на четыре секунды, задержка, выдох на шесть."
+    ],
+    [
+     "“Fear is only energy,” she said.",
+     "«Страх — это просто энергия», — сказала она."
+    ],
+    [
+     "“Use it, or it will use you.”",
+     "«Используй его, иначе он использует тебя»."
+    ],
+    [
+     "The worst thing was the uncertainty.",
+     "Хуже всего была неопределённость."
+    ],
+    [
+     "Critics of her age did not travel three hundred kilometres to a small fishing town by accident.",
+     "Критики её возраста не едут за триста километров в маленький рыбацкий городок просто так."
+    ]
+   ]
+  },
+  {
+   "en": "On Thursday night, unable to sleep again, he took the old review down from the wall. He read it again under the lamp, and for the first time one sentence stopped him. In my bowl I found an insect. He had heard those words before, long before any review. His father used to say them as a joke, standing over the soup pot: “The day someone finds an insect in my soup, son, you'll know I'm finished.”",
+   "ru": "В четверг вечером, снова не в силах уснуть, он снял со стены старую рецензию. Он перечитал её под лампой, и впервые одна фраза его остановила. «В своей тарелке я нашла насекомое». Он уже слышал эти слова — задолго до всякой рецензии. Отец часто повторял их в шутку, стоя над кастрюлей с супом: «В тот день, когда кто-нибудь найдёт в моём супе насекомое, сынок, знай: со мной покончено».",
+   "s": [
+    [
+     "On Thursday night, unable to sleep again, he took the old review down from the wall.",
+     "В четверг вечером, снова не в силах уснуть, он снял со стены старую рецензию."
+    ],
+    [
+     "He read it again under the lamp, and for the first time one sentence stopped him.",
+     "Он перечитал её под лампой, и впервые одна фраза его остановила."
+    ],
+    [
+     "In my bowl I found an insect.",
+     "«В своей тарелке я нашла насекомое»."
+    ],
+    [
+     "He had heard those words before, long before any review.",
+     "Он уже слышал эти слова — задолго до всякой рецензии."
+    ],
+    [
+     "His father used to say them as a joke, standing over the soup pot: “The day someone finds an insect in my soup, son, you'll know I'm finished.”",
+     "Отец часто повторял их в шутку, стоя над кастрюлей с супом: «В тот день, когда кто-нибудь найдёт в моём супе насекомое, сынок, знай: со мной покончено»."
+    ]
+   ]
+  },
+  {
+   "en": "How could a stranger from the capital use exactly his father's words? Jonah sat with the review in his hands until the sky over the harbour turned grey, and he did not find an answer.",
+   "ru": "Как могла незнакомка из столицы употребить в точности слова его отца? Джона сидел с рецензией в руках, пока небо над гаванью не посерело, но ответа так и не нашёл.",
+   "s": [
+    [
+     "How could a stranger from the capital use exactly his father's words?",
+     "Как могла незнакомка из столицы употребить в точности слова его отца?"
+    ],
+    [
+     "Jonah sat with the review in his hands until the sky over the harbour turned grey, and he did not find an answer.",
+     "Джона сидел с рецензией в руках, пока небо над гаванью не посерело, но ответа так и не нашёл."
+    ]
+   ]
+  },
+  {
+   "en": "She arrived on Friday at exactly eight. She was taller than he had expected and older than her photographs, with short silver hair and a black coat, and she walked with a stick. Bea showed her to the table by the window. Through the round window in the kitchen door, Jonah could observe her without being seen. She did not open the menu. “Please tell the chef,” she said, “to bring me whatever he wants to cook.”",
+   "ru": "Она приехала в пятницу ровно в восемь. Она оказалась выше, чем он ожидал, и старше, чем на фотографиях, — с короткими седыми волосами, в чёрном пальто, — и ходила с тростью. Би проводила её к столику у окна. Через круглое окошко в кухонной двери Джона мог наблюдать за ней, оставаясь незамеченным. Она не открыла меню. «Пожалуйста, передайте шефу, — сказала она, — чтобы он принёс мне то, что сам захочет приготовить».",
+   "s": [
+    [
+     "She arrived on Friday at exactly eight.",
+     "Она приехала в пятницу ровно в восемь."
+    ],
+    [
+     "She was taller than he had expected and older than her photographs, with short silver hair and a black coat, and she walked with a stick.",
+     "Она оказалась выше, чем он ожидал, и старше, чем на фотографиях, — с короткими седыми волосами, в чёрном пальто, — и ходила с тростью."
+    ],
+    [
+     "Bea showed her to the table by the window.",
+     "Би проводила её к столику у окна."
+    ],
+    [
+     "Through the round window in the kitchen door, Jonah could observe her without being seen.",
+     "Через круглое окошко в кухонной двери Джона мог наблюдать за ней, оставаясь незамеченным."
+    ],
+    [
+     "She did not open the menu.",
+     "Она не открыла меню."
+    ],
+    [
+     "“Please tell the chef,” she said, “to bring me whatever he wants to cook.”",
+     "«Пожалуйста, передайте шефу, — сказала она, — чтобы он принёс мне то, что сам захочет приготовить»."
+    ]
+   ]
+  },
+  {
+   "en": "The first plates went out. Oysters with green apple. Scallops with the famous truffles. Each time Bea came back through the door, Jonah looked up, and each time she shook her head. “She tastes everything,” Bea reported. “One bite. Then she puts down her fork and looks at the sea.” Jonah's jaw was so tight that his teeth hurt.",
+   "ru": "Первые тарелки ушли в зал. Устрицы с зелёным яблоком. Морские гребешки со знаменитыми трюфелями. Каждый раз, когда Би возвращалась через дверь, Джона поднимал глаза, и каждый раз она качала головой. «Она пробует всё», — докладывала Би. «Один кусочек. Потом кладёт вилку и смотрит на море». Челюсти Джоны были сжаты так крепко, что у него болели зубы.",
+   "s": [
+    [
+     "The first plates went out.",
+     "Первые тарелки ушли в зал."
+    ],
+    [
+     "Oysters with green apple.",
+     "Устрицы с зелёным яблоком."
+    ],
+    [
+     "Scallops with the famous truffles.",
+     "Морские гребешки со знаменитыми трюфелями."
+    ],
+    [
+     "Each time Bea came back through the door, Jonah looked up, and each time she shook her head.",
+     "Каждый раз, когда Би возвращалась через дверь, Джона поднимал глаза, и каждый раз она качала головой."
+    ],
+    [
+     "“She tastes everything,” Bea reported.",
+     "«Она пробует всё», — докладывала Би."
+    ],
+    [
+     "“One bite.",
+     "«Один кусочек."
+    ],
+    [
+     "Then she puts down her fork and looks at the sea.”",
+     "Потом кладёт вилку и смотрит на море»."
+    ],
+    [
+     "Jonah's jaw was so tight that his teeth hurt.",
+     "Челюсти Джоны были сжаты так крепко, что у него болели зубы."
+    ]
+   ]
+  },
+  {
+   "en": "The beef was next. He was putting it in the pan when he saw his own reflection in the steel door of the fridge: a tired man with angry eyes, cooking food for a restaurant that did not exist. Not a single dish tonight was really his. Every plate was a sword, made to show off, made to fight. His father had never cooked like that in his life.",
+   "ru": "Следующей была говядина. Он клал её на сковороду, когда увидел своё отражение в стальной дверце холодильника: усталый мужчина со злыми глазами, который готовит еду для ресторана, которого не существует. Ни одно блюдо сегодня не было по-настоящему его. Каждая тарелка была мечом — сделанным напоказ, сделанным для боя. Его отец никогда в жизни так не готовил.",
+   "s": [
+    [
+     "The beef was next.",
+     "Следующей была говядина."
+    ],
+    [
+     "He was putting it in the pan when he saw his own reflection in the steel door of the fridge: a tired man with angry eyes, cooking food for a restaurant that did not exist.",
+     "Он клал её на сковороду, когда увидел своё отражение в стальной дверце холодильника: усталый мужчина со злыми глазами, который готовит еду для ресторана, которого не существует."
+    ],
+    [
+     "Not a single dish tonight was really his.",
+     "Ни одно блюдо сегодня не было по-настоящему его."
+    ],
+    [
+     "Every plate was a sword, made to show off, made to fight.",
+     "Каждая тарелка была мечом — сделанным напоказ, сделанным для боя."
+    ],
+    [
+     "His father had never cooked like that in his life.",
+     "Его отец никогда в жизни так не готовил."
+    ]
+   ]
+  },
+  {
+   "en": "He turned off the gas. “What are you doing?” Bea asked. “Making a mistake, probably,” Jonah said. He took his father's old pot from the top shelf, the one that he never used, and began to cut onions. Instead of beef from Japan, he cooked fish from the morning boats: white fish, a little smoked fish, potatoes, cream, black pepper. Nothing expensive. It took forty minutes, and in all that time the critic waited without a single complaint.",
+   "ru": "Он выключил газ. «Что ты делаешь?» — спросила Би. «Наверное, совершаю ошибку», — ответил Джона. Он снял с верхней полки старую отцовскую кастрюлю — ту, которой никогда не пользовался, — и начал резать лук. Вместо японской говядины он приготовил рыбу с утренних лодок: белую рыбу, немного копчёной, картофель, сливки, чёрный перец. Ничего дорогого. Это заняло сорок минут, и всё это время критик ждала, ни разу не пожаловавшись.",
+   "s": [
+    [
+     "He turned off the gas.",
+     "Он выключил газ."
+    ],
+    [
+     "“What are you doing?” Bea asked.",
+     "«Что ты делаешь?» — спросила Би."
+    ],
+    [
+     "“Making a mistake, probably,” Jonah said.",
+     "«Наверное, совершаю ошибку», — ответил Джона."
+    ],
+    [
+     "He took his father's old pot from the top shelf, the one that he never used, and began to cut onions.",
+     "Он снял с верхней полки старую отцовскую кастрюлю — ту, которой никогда не пользовался, — и начал резать лук."
+    ],
+    [
+     "Instead of beef from Japan, he cooked fish from the morning boats: white fish, a little smoked fish, potatoes, cream, black pepper.",
+     "Вместо японской говядины он приготовил рыбу с утренних лодок: белую рыбу, немного копчёной, картофель, сливки, чёрный перец."
+    ],
+    [
+     "Nothing expensive.",
+     "Ничего дорогого."
+    ],
+    [
+     "It took forty minutes, and in all that time the critic waited without a single complaint.",
+     "Это заняло сорок минут, и всё это время критик ждала, ни разу не пожаловавшись."
+    ]
+   ]
+  },
+  {
+   "en": "He carried the bowl out himself and put it down in front of her with a piece of warm bread. “Fish soup,” he said. “The Anchor's recipe.” She looked up at him. Then she lifted the spoon, tasted and closed her eyes. When she opened them, they were full of tears. “This is Samuel's soup,” she said quietly. “Sit down, Jonah. Please. I have waited seven years to say this to you.”",
+   "ru": "Он сам вынес тарелку и поставил её перед ней вместе с куском тёплого хлеба. «Рыбный суп», — сказал он. «Рецепт „Якоря“». Она подняла на него глаза. Потом подняла ложку, попробовала и закрыла глаза. Когда она их открыла, они были полны слёз. «Это суп Сэмюэла», — тихо сказала она. «Садись, Джона. Пожалуйста. Я семь лет ждала, чтобы сказать тебе это».",
+   "s": [
+    [
+     "He carried the bowl out himself and put it down in front of her with a piece of warm bread.",
+     "Он сам вынес тарелку и поставил её перед ней вместе с куском тёплого хлеба."
+    ],
+    [
+     "“Fish soup,” he said.",
+     "«Рыбный суп», — сказал он."
+    ],
+    [
+     "“The Anchor's recipe.”",
+     "«Рецепт „Якоря“»."
+    ],
+    [
+     "She looked up at him.",
+     "Она подняла на него глаза."
+    ],
+    [
+     "Then she lifted the spoon, tasted and closed her eyes.",
+     "Потом подняла ложку, попробовала и закрыла глаза."
+    ],
+    [
+     "When she opened them, they were full of tears.",
+     "Когда она их открыла, они были полны слёз."
+    ],
+    [
+     "“This is Samuel's soup,” she said quietly.",
+     "«Это суп Сэмюэла», — тихо сказала она."
+    ],
+    [
+     "“Sit down, Jonah.",
+     "«Садись, Джона."
+    ],
+    [
+     "Please.",
+     "Пожалуйста."
+    ],
+    [
+     "I have waited seven years to say this to you.”",
+     "Я семь лет ждала, чтобы сказать тебе это»."
+    ]
+   ]
+  },
+  {
+   "en": "She told him that she had known his father since she was nineteen, when she had worked as a waitress at The Anchor for one summer. Samuel had taught her to taste. They had stayed friends for forty years, at a distance. Seven years ago he had come to see her in the capital. His heart was failing, and the doctors had told him that he must stop working. But he could not close the restaurant himself, because he was too proud. And his son was ready to give up his own dreams to stay and help him.",
+   "ru": "Она рассказала ему, что знала его отца с девятнадцати лет, когда одно лето работала официанткой в «Якоре». Это Сэмюэл научил её понимать вкус. Они оставались друзьями сорок лет — на расстоянии. Семь лет назад он приехал к ней в столицу. Сердце у него отказывало, и врачи сказали, что ему нужно перестать работать. Но закрыть ресторан сам он не мог, потому что был слишком гордым. А его сын был готов отказаться от собственной мечты, чтобы остаться и помогать ему.",
+   "s": [
+    [
+     "She told him that she had known his father since she was nineteen, when she had worked as a waitress at The Anchor for one summer.",
+     "Она рассказала ему, что знала его отца с девятнадцати лет, когда одно лето работала официанткой в «Якоре»."
+    ],
+    [
+     "Samuel had taught her to taste.",
+     "Это Сэмюэл научил её понимать вкус."
+    ],
+    [
+     "They had stayed friends for forty years, at a distance.",
+     "Они оставались друзьями сорок лет — на расстоянии."
+    ],
+    [
+     "Seven years ago he had come to see her in the capital.",
+     "Семь лет назад он приехал к ней в столицу."
+    ],
+    [
+     "His heart was failing, and the doctors had told him that he must stop working.",
+     "Сердце у него отказывало, и врачи сказали, что ему нужно перестать работать."
+    ],
+    [
+     "But he could not close the restaurant himself, because he was too proud.",
+     "Но закрыть ресторан сам он не мог, потому что был слишком гордым."
+    ],
+    [
+     "And his son was ready to give up his own dreams to stay and help him.",
+     "А его сын был готов отказаться от собственной мечты, чтобы остаться и помогать ему."
+    ]
+   ]
+  },
+  {
+   "en": "“He asked me to write the worst review of my life,” Margit said. “I refused. He asked again and again, until I accepted. The insect was his idea. He said that one day you would understand it. It was a mark that only you would recognise.” She looked down at her hands. “It was an abuse of everything that I believe about my work. I had never written a lie before, and I have never written one since. I have felt guilty every single day.”",
+   "ru": "«Он попросил меня написать худшую рецензию в моей жизни», — сказала Маргит. «Я отказалась. Он просил снова и снова, пока я не согласилась. Насекомое было его идеей. Он сказал, что однажды ты это поймёшь. Это была отметка, которую узнал бы только ты». Она опустила взгляд на свои руки. «Это было злоупотребление всем, во что я верю в своей работе. Я никогда раньше не писала неправды и с тех пор ни разу не писала. Я чувствовала себя виноватой каждый божий день».",
+   "s": [
+    [
+     "“He asked me to write the worst review of my life,” Margit said.",
+     "«Он попросил меня написать худшую рецензию в моей жизни», — сказала Маргит."
+    ],
+    [
+     "“I refused.",
+     "«Я отказалась."
+    ],
+    [
+     "He asked again and again, until I accepted.",
+     "Он просил снова и снова, пока я не согласилась."
+    ],
+    [
+     "The insect was his idea.",
+     "Насекомое было его идеей."
+    ],
+    [
+     "He said that one day you would understand it.",
+     "Он сказал, что однажды ты это поймёшь."
+    ],
+    [
+     "It was a mark that only you would recognise.”",
+     "Это была отметка, которую узнал бы только ты»."
+    ],
+    [
+     "She looked down at her hands.",
+     "Она опустила взгляд на свои руки."
+    ],
+    [
+     "“It was an abuse of everything that I believe about my work.",
+     "«Это было злоупотребление всем, во что я верю в своей работе."
+    ],
+    [
+     "I had never written a lie before, and I have never written one since.",
+     "Я никогда раньше не писала неправды и с тех пор ни разу не писала."
+    ],
+    [
+     "I have felt guilty every single day.”",
+     "Я чувствовала себя виноватой каждый божий день»."
+    ]
+   ]
+  },
+  {
+   "en": "Jonah stood up so fast that his chair fell over. “You let me hate you for seven years!” Bea took a step towards him, then stopped. Jonah breathed in for four seconds, as she had taught him, and sat down again. “I'm sorry,” he said. “I never raise my voice in my own restaurant.” “You have every right to,” Margit answered. “Unfortunately, being right doesn't make it easier.”",
+   "ru": "Джона вскочил так резко, что его стул упал. «Вы позволили мне ненавидеть вас семь лет!» Би сделала шаг к нему, но остановилась. Джона сделал вдох на четыре секунды, как она его учила, и снова сел. «Простите», — сказал он. «Я никогда не повышаю голос в своём ресторане». «Ты имеешь на это полное право», — ответила Маргит. «К сожалению, от того, что ты прав, легче не становится».",
+   "s": [
+    [
+     "Jonah stood up so fast that his chair fell over.",
+     "Джона вскочил так резко, что его стул упал."
+    ],
+    [
+     "“You let me hate you for seven years!”",
+     "«Вы позволили мне ненавидеть вас семь лет!»"
+    ],
+    [
+     "Bea took a step towards him, then stopped.",
+     "Би сделала шаг к нему, но остановилась."
+    ],
+    [
+     "Jonah breathed in for four seconds, as she had taught him, and sat down again.",
+     "Джона сделал вдох на четыре секунды, как она его учила, и снова сел."
+    ],
+    [
+     "“I'm sorry,” he said.",
+     "«Простите», — сказал он."
+    ],
+    [
+     "“I never raise my voice in my own restaurant.”",
+     "«Я никогда не повышаю голос в своём ресторане»."
+    ],
+    [
+     "“You have every right to,” Margit answered.",
+     "«Ты имеешь на это полное право», — ответила Маргит."
+    ],
+    [
+     "“Unfortunately, being right doesn't make it easier.”",
+     "«К сожалению, от того, что ты прав, легче не становится»."
+    ]
+   ]
+  },
+  {
+   "en": "“Why now?” he asked at last. “Because I am seventy-four, and my eyes are not what they were,” she said. “Next month I will write my last review. Your father made me promise two things. First, that I would never tell you while he was alive. Second, that I would give you this when you had your own kitchen.” She took a small package from her bag, wrapped in brown paper, and put it on the table next to the empty bowl.",
+   "ru": "«Почему сейчас?» — наконец спросил он. «Потому что мне семьдесят четыре, и глаза у меня уже не те», — сказала она. «В следующем месяце я напишу свою последнюю рецензию. Твой отец взял с меня два обещания. Во-первых, что я ничего тебе не скажу, пока он жив. Во-вторых, что я отдам тебе вот это, когда у тебя будет своя кухня». Она достала из сумки небольшую упаковку в коричневой бумаге и положила её на стол рядом с пустой тарелкой.",
+   "s": [
+    [
+     "“Why now?” he asked at last.",
+     "«Почему сейчас?» — наконец спросил он."
+    ],
+    [
+     "“Because I am seventy-four, and my eyes are not what they were,” she said.",
+     "«Потому что мне семьдесят четыре, и глаза у меня уже не те», — сказала она."
+    ],
+    [
+     "“Next month I will write my last review.",
+     "«В следующем месяце я напишу свою последнюю рецензию."
+    ],
+    [
+     "Your father made me promise two things.",
+     "Твой отец взял с меня два обещания."
+    ],
+    [
+     "First, that I would never tell you while he was alive.",
+     "Во-первых, что я ничего тебе не скажу, пока он жив."
+    ],
+    [
+     "Second, that I would give you this when you had your own kitchen.”",
+     "Во-вторых, что я отдам тебе вот это, когда у тебя будет своя кухня»."
+    ],
+    [
+     "She took a small package from her bag, wrapped in brown paper, and put it on the table next to the empty bowl.",
+     "Она достала из сумки небольшую упаковку в коричневой бумаге и положила её на стол рядом с пустой тарелкой."
+    ]
+   ]
+  },
+  {
+   "en": "Inside there was a letter in his father's careful handwriting and an old photograph. In the picture, a young Samuel sat in a small boat with a boy of six on his knees. Jonah remembered that day. It was the only trip that they had ever taken together, the summer when his father had promised him a real vacation and then had to go back after two days because the restaurant needed him.",
+   "ru": "Внутри было письмо, написанное аккуратным почерком отца, и старая фотография. На снимке молодой Сэмюэл сидел в маленькой лодке с шестилетним мальчиком на коленях. Джона помнил тот день. Это была их единственная совместная поездка — то лето, когда отец пообещал ему настоящий отпуск, а через два дня был вынужден вернуться, потому что он был нужен ресторану.",
+   "s": [
+    [
+     "Inside there was a letter in his father's careful handwriting and an old photograph.",
+     "Внутри было письмо, написанное аккуратным почерком отца, и старая фотография."
+    ],
+    [
+     "In the picture, a young Samuel sat in a small boat with a boy of six on his knees.",
+     "На снимке молодой Сэмюэл сидел в маленькой лодке с шестилетним мальчиком на коленях."
+    ],
+    [
+     "Jonah remembered that day.",
+     "Джона помнил тот день."
+    ],
+    [
+     "It was the only trip that they had ever taken together, the summer when his father had promised him a real vacation and then had to go back after two days because the restaurant needed him.",
+     "Это была их единственная совместная поездка — то лето, когда отец пообещал ему настоящий отпуск, а через два дня был вынужден вернуться, потому что он был нужен ресторану."
+    ]
+   ]
+  },
+  {
+   "en": "“My dear boy,” the letter began. “If you are reading this, Margit has kept her promise, and you have a kitchen of your own. Don't be angry with her. I could not let you spend your best years on a sinking boat. I wanted you to have the freedom that I never gave myself. I am glad, more glad than you can imagine, that you went. Once upon a time I was a young cook with big dreams too. Cook what you love, son. Everything else is just noise.”",
+   "ru": "«Мой дорогой мальчик», — начиналось письмо. «Если ты читаешь это, значит, Маргит сдержала обещание и у тебя есть своя кухня. Не сердись на неё. Я не мог позволить тебе потратить лучшие годы на тонущей лодке. Я хотел, чтобы у тебя была свобода, которой я сам себе так и не дал. Я рад, рад больше, чем ты можешь себе представить, что ты уехал. Когда-то давным-давно я тоже был молодым поваром с большими мечтами. Готовь то, что любишь, сынок. Всё остальное — просто шум».",
+   "s": [
+    [
+     "“My dear boy,” the letter began.",
+     "«Мой дорогой мальчик», — начиналось письмо."
+    ],
+    [
+     "“If you are reading this, Margit has kept her promise, and you have a kitchen of your own.",
+     "«Если ты читаешь это, значит, Маргит сдержала обещание и у тебя есть своя кухня."
+    ],
+    [
+     "Don't be angry with her.",
+     "Не сердись на неё."
+    ],
+    [
+     "I could not let you spend your best years on a sinking boat.",
+     "Я не мог позволить тебе потратить лучшие годы на тонущей лодке."
+    ],
+    [
+     "I wanted you to have the freedom that I never gave myself.",
+     "Я хотел, чтобы у тебя была свобода, которой я сам себе так и не дал."
+    ],
+    [
+     "I am glad, more glad than you can imagine, that you went.",
+     "Я рад, рад больше, чем ты можешь себе представить, что ты уехал."
+    ],
+    [
+     "Once upon a time I was a young cook with big dreams too.",
+     "Когда-то давным-давно я тоже был молодым поваром с большими мечтами."
+    ],
+    [
+     "Cook what you love, son.",
+     "Готовь то, что любишь, сынок."
+    ],
+    [
+     "Everything else is just noise.”",
+     "Всё остальное — просто шум»."
+    ]
+   ]
+  },
+  {
+   "en": "Jonah read it twice. Then he folded it carefully and put it in his shirt pocket, over his heart. It was the most touching thing he had ever read, and also the most annoying, because it was so completely like his father. He laughed through his tears.",
+   "ru": "Джона прочитал его дважды. Потом аккуратно сложил и убрал в нагрудный карман рубашки, поближе к сердцу. Это было самое трогательное, что он когда-либо читал, и одновременно самое досадное, потому что это было совершенно в духе его отца. Он рассмеялся сквозь слёзы.",
+   "s": [
+    [
+     "Jonah read it twice.",
+     "Джона прочитал его дважды."
+    ],
+    [
+     "Then he folded it carefully and put it in his shirt pocket, over his heart.",
+     "Потом аккуратно сложил и убрал в нагрудный карман рубашки, поближе к сердцу."
+    ],
+    [
+     "It was the most touching thing he had ever read, and also the most annoying, because it was so completely like his father.",
+     "Это было самое трогательное, что он когда-либо читал, и одновременно самое досадное, потому что это было совершенно в духе его отца."
+    ],
+    [
+     "He laughed through his tears.",
+     "Он рассмеялся сквозь слёзы."
+    ]
+   ]
+  },
+  {
+   "en": "Margit Sorell's last review appeared three weeks later. It was not about truffles or oysters. It told the whole story of The Anchor, of a proud, sick man and of a lie that a friend had written for love. It asked readers to help restore Samuel Pell's good name, and to forgive the critic who had taken it away. At the end, where readers expected a mark, there was only one line: “Some things cannot be measured. Go to Carrow and eat the fish soup.”",
+   "ru": "Последняя рецензия Маргит Сорелл вышла через три недели. Она была не о трюфелях и не об устрицах. В ней рассказывалась вся история «Якоря» — о гордом больном человеке и о лжи, которую друг написал из любви. Она просила читателей помочь восстановить доброе имя Сэмюэла Пелла и простить критика, который его отнял. В конце, там, где читатели ожидали увидеть отметку, была только одна строка: «Некоторые вещи невозможно измерить. Поезжайте в Карроу и съешьте рыбный суп».",
+   "s": [
+    [
+     "Margit Sorell's last review appeared three weeks later.",
+     "Последняя рецензия Маргит Сорелл вышла через три недели."
+    ],
+    [
+     "It was not about truffles or oysters.",
+     "Она была не о трюфелях и не об устрицах."
+    ],
+    [
+     "It told the whole story of The Anchor, of a proud, sick man and of a lie that a friend had written for love.",
+     "В ней рассказывалась вся история «Якоря» — о гордом больном человеке и о лжи, которую друг написал из любви."
+    ],
+    [
+     "It asked readers to help restore Samuel Pell's good name, and to forgive the critic who had taken it away.",
+     "Она просила читателей помочь восстановить доброе имя Сэмюэла Пелла и простить критика, который его отнял."
+    ],
+    [
+     "At the end, where readers expected a mark, there was only one line: “Some things cannot be measured.",
+     "В конце, там, где читатели ожидали увидеть отметку, была только одна строка: «Некоторые вещи невозможно измерить."
+    ],
+    [
+     "Go to Carrow and eat the fish soup.”",
+     "Поезжайте в Карроу и съешьте рыбный суп»."
+    ]
+   ]
+  },
+  {
+   "en": "After that, people came from everywhere: from the capital, from the other side of the border, even sheep farmers from the hills. Jonah did not change the menu much. He took the white truffles off it, and he put the fish soup on it for good. In the sitting room upstairs, where the green sofa still stood, he hung the old review and the new one side by side.",
+   "ru": "После этого люди стали приезжать отовсюду: из столицы, из-за границы, даже овцеводы с холмов. Джона почти не менял меню. Он убрал из него белые трюфели и навсегда добавил рыбный суп. В гостиной наверху, где по-прежнему стоял зелёный диван, он повесил старую рецензию и новую рядом.",
+   "s": [
+    [
+     "After that, people came from everywhere: from the capital, from the other side of the border, even sheep farmers from the hills.",
+     "После этого люди стали приезжать отовсюду: из столицы, из-за границы, даже овцеводы с холмов."
+    ],
+    [
+     "Jonah did not change the menu much.",
+     "Джона почти не менял меню."
+    ],
+    [
+     "He took the white truffles off it, and he put the fish soup on it for good.",
+     "Он убрал из него белые трюфели и навсегда добавил рыбный суп."
+    ],
+    [
+     "In the sitting room upstairs, where the green sofa still stood, he hung the old review and the new one side by side.",
+     "В гостиной наверху, где по-прежнему стоял зелёный диван, он повесил старую рецензию и новую рядом."
+    ]
+   ]
+  },
+  {
+   "en": "“Do you forgive her?” Bea asked one night, when the last guests had gone. Jonah thought about it. Healing, he had learned, did not happen in one evening. It was slower than that, like a good soup. “Not yet,” he said. “But I've invited her back in the spring. As a guest this time, not a critic.” He smiled. “I think my father would call that a gift.”",
+   "ru": "«Ты её простил?» — спросила Би однажды вечером, когда ушли последние гости. Джона задумался. Выздоровление, как он понял, не происходит за один вечер. Оно идёт медленнее — как хороший суп. «Пока нет», — сказал он. «Но я пригласил её снова весной. На этот раз как гостью, а не как критика». Он улыбнулся. «Думаю, отец назвал бы это подарком».",
+   "s": [
+    [
+     "“Do you forgive her?” Bea asked one night, when the last guests had gone.",
+     "«Ты её простил?» — спросила Би однажды вечером, когда ушли последние гости."
+    ],
+    [
+     "Jonah thought about it.",
+     "Джона задумался."
+    ],
+    [
+     "Healing, he had learned, did not happen in one evening.",
+     "Выздоровление, как он понял, не происходит за один вечер."
+    ],
+    [
+     "It was slower than that, like a good soup.",
+     "Оно идёт медленнее — как хороший суп."
+    ],
+    [
+     "“Not yet,” he said.",
+     "«Пока нет», — сказал он."
+    ],
+    [
+     "“But I've invited her back in the spring.",
+     "«Но я пригласил её снова весной."
+    ],
+    [
+     "As a guest this time, not a critic.”",
+     "На этот раз как гостью, а не как критика»."
+    ],
+    [
+     "He smiled.",
+     "Он улыбнулся."
+    ],
+    [
+     "“I think my father would call that a gift.”",
+     "«Думаю, отец назвал бы это подарком»."
+    ]
+   ]
+  },
+  {
+   "en": "On the first Monday of summer, when the restaurant was closed, he took a small boat out of the harbour and rowed until the town was only a white line in the distance. The sea was calm, and everything looked different from out there. He took out his father's letter and read it once more. Then, for the first time in many years, he did nothing at all. It was, he realised, the vacation that his father had always wanted for him.",
+   "ru": "В первый понедельник лета, когда ресторан был закрыт, он вывел маленькую лодку из гавани и грёб, пока город не превратился в белую полоску вдали. Море было спокойным, и оттуда всё казалось другим. Он достал письмо отца и прочитал его ещё раз. А потом, впервые за много лет, он совсем ничего не делал. Это, понял он, и был тот отпуск, которого отец всегда ему желал.",
+   "s": [
+    [
+     "On the first Monday of summer, when the restaurant was closed, he took a small boat out of the harbour and rowed until the town was only a white line in the distance.",
+     "В первый понедельник лета, когда ресторан был закрыт, он вывел маленькую лодку из гавани и грёб, пока город не превратился в белую полоску вдали."
+    ],
+    [
+     "The sea was calm, and everything looked different from out there.",
+     "Море было спокойным, и оттуда всё казалось другим."
+    ],
+    [
+     "He took out his father's letter and read it once more.",
+     "Он достал письмо отца и прочитал его ещё раз."
+    ],
+    [
+     "Then, for the first time in many years, he did nothing at all.",
+     "А потом, впервые за много лет, он совсем ничего не делал."
+    ],
+    [
+     "It was, he realised, the vacation that his father had always wanted for him.",
+     "Это, понял он, и был тот отпуск, которого отец всегда ему желал."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, об",
+  "above": "над",
+  "abuse": "злоупотребление",
+  "accepted": "принял(а); согласилась",
+  "accident": "несчастный случай",
+  "after": "после",
+  "afterwards": "после этого",
+  "again": "снова",
+  "age": "возраст",
+  "ago": "назад",
+  "alive": "живой",
+  "all": "совсем (at all)",
+  "almost": "почти",
+  "also": "также",
+  "always": "всегда",
+  "am": "(есть) — я",
+  "an": "(неопр. артикль)",
+  "anchor": "«Якорь» (название ресторана); якорь",
+  "anchor's": "«Якоря» (название)",
+  "and": "и",
+  "angry": "злой, сердитый",
+  "annoying": "досадный",
+  "answer": "отвечать",
+  "answered": "ответил(а)",
+  "any": "какой-либо; больше",
+  "anyone": "кого-либо",
+  "anywhere": "куда угодно",
+  "appeared": "появился",
+  "apple": "яблоко",
+  "are": "(есть) — вы/они",
+  "area": "зал, площадь (dining area — обеденный зал)",
+  "arrived": "приехала; приехал",
+  "as": "как, так как",
+  "asked": "спросил(а)",
+  "at": "в, у, на",
+  "attack": "приступ",
+  "awake": "без сна",
+  "away": "прочь",
+  "back": "назад",
+  "bag": "сумка",
+  "bank": "банк",
+  "bar": "бар, стойка",
+  "be": "быть",
+  "bea": "Би (имя)",
+  "because": "потому что",
+  "beef": "говядина",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "began": "начал(а)",
+  "behind": "за, позади",
+  "being": "(being right) то, что ты прав; (without being seen) оставаясь",
+  "believe": "верить",
+  "best": "лучший",
+  "better": "лучше",
+  "beyond": "за пределами",
+  "big": "большой",
+  "bite": "кусочек",
+  "black": "чёрный",
+  "boat": "лодка",
+  "boats": "лодки",
+  "border": "граница",
+  "borders": "границы",
+  "bought": "(bought back) выкупил",
+  "bowl": "тарелка, миска",
+  "boy": "мальчик",
+  "bread": "хлеб",
+  "breathed": "вдохнул (breathed in)",
+  "breathing": "дыхательный",
+  "bring": "приносить",
+  "brown": "коричневый",
+  "building": "здание",
+  "business": "бизнес",
+  "but": "но",
+  "by": "у, к, от",
+  "call": "назвать",
+  "called": "называли",
+  "calm": "спокойный",
+  "came": "пришёл, пришли",
+  "can": "могу, можем",
+  "cannot": "невозможно, не может",
+  "capital": "столица",
+  "car": "машина",
+  "careful": "осторожный, тщательный",
+  "carefully": "аккуратно",
+  "carried": "вынес",
+  "carrow": "Карроу (город)",
+  "chair": "стул, кресло",
+  "change": "изменить",
+  "chef": "шеф-повар",
+  "chefs": "шеф-повара",
+  "cleaning": "чистил",
+  "clear": "ясный",
+  "close": "закрыть",
+  "closed": "закрыл(а)",
+  "coat": "пальто",
+  "cold": "холодный",
+  "come": "приехать",
+  "coming": "приезжает",
+  "complaint": "жалоба",
+  "completely": "полностью",
+  "cook": "повар; готовить",
+  "cooked": "готовил, приготовил",
+  "cooking": "готовящий",
+  "cooks": "повара",
+  "copenhagen": "Копенгаген",
+  "cost": "стоил(а)",
+  "could": "мог(ла)",
+  "counting": "пересчитывала",
+  "country": "страна",
+  "cream": "сливки",
+  "critic": "критик",
+  "critics": "критики",
+  "curiously": "любопытно (что)",
+  "cut": "разрубить",
+  "day": "день",
+  "days": "дни",
+  "dear": "дорогой",
+  "destroyed": "уничтожила",
+  "did": "(вспом. гл.)",
+  "died": "умер(ла)",
+  "different": "другой, иначе",
+  "dining": "обеденный",
+  "dish": "блюдо",
+  "distance": "расстояние",
+  "do": "(вспом. гл.)",
+  "doctors": "врачи",
+  "doesn't": "не (вспом.)",
+  "doing": "делаешь",
+  "don't": "не (повел.)",
+  "door": "дверь",
+  "down": "вниз",
+  "dreams": "мечты",
+  "each": "каждый",
+  "earlier": "раньше (seven years earlier — семь лет назад)",
+  "easier": "легче",
+  "eat": "есть",
+  "eaten": "ужинала, ела",
+  "eight": "восемь",
+  "else": "ещё, другой",
+  "email": "электронная почта",
+  "empty": "пустой",
+  "end": "конец",
+  "energy": "энергия",
+  "even": "даже",
+  "evening": "вечер",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "everybody": "все",
+  "everything": "всё",
+  "everywhere": "повсюду",
+  "exactly": "точно",
+  "excited": "взволнованный",
+  "exercise": "упражнение",
+  "exist": "существовать",
+  "expect": "ожидать",
+  "expected": "ожидала",
+  "expensive": "дорогой",
+  "eyes": "глаза",
+  "face": "лицо",
+  "failing": "отказывающий, слабеющий",
+  "famous": "знаменитый",
+  "far": "далеко",
+  "farmers": "фермеры",
+  "fast": "быстрый",
+  "father": "отец",
+  "father's": "отца",
+  "fear": "страх",
+  "feed": "накормить",
+  "fell": "упал (fell over)",
+  "felt": "чувствовала (себя)",
+  "fight": "сразиться; бой",
+  "finally": "наконец",
+  "find": "найти",
+  "finds": "найдёт",
+  "finished": "(I'm finished) мне конец",
+  "first": "первый; сначала",
+  "fish": "рыба",
+  "fishing": "рыбацкий",
+  "five": "пять",
+  "flat": "квартира",
+  "folded": "сложил",
+  "food": "еда",
+  "for": "для, в течение",
+  "forgive": "простить",
+  "fork": "вилка",
+  "forty": "сорок",
+  "found": "нашли",
+  "four": "четыре",
+  "freedom": "свобода",
+  "friday": "пятница",
+  "fridge": "холодильник",
+  "friend": "друг",
+  "friends": "друзья",
+  "from": "из, от",
+  "front": "(in front of) перед",
+  "full": "полный",
+  "gas": "газ",
+  "gave": "поставила; отдал",
+  "gift": "подарок",
+  "give": "дать",
+  "given": "отдал",
+  "glad": "рад",
+  "glasses": "бокалы",
+  "go": "ехать, идти",
+  "going": "(going to) собираться",
+  "gone": "ушли; уехал",
+  "good": "хороший, добрый; (for good) навсегда",
+  "green": "зелёный",
+  "grey": "серый",
+  "guest": "гость; (guest book) книга гостей",
+  "guests": "гости",
+  "guilty": "виновный",
+  "had": "(вспом. гл.); имела",
+  "hair": "волосы",
+  "half": "половина (in half — пополам)",
+  "hands": "руки",
+  "handwriting": "почерк",
+  "happen": "случиться",
+  "harbour": "гавань",
+  "has": "(вспом. гл.)",
+  "hate": "ненавидеть",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "head": "голова",
+  "healing": "выздоровление",
+  "heard": "слышала",
+  "heart": "сердце",
+  "help": "помочь",
+  "her": "её, ей",
+  "hills": "холмы",
+  "him": "его, ему",
+  "himself": "сам, себе",
+  "his": "его",
+  "hold": "задержка (дыхания); держать",
+  "home": "домой",
+  "hospital": "больница",
+  "how": "как",
+  "hundred": "сто",
+  "hung": "повесил",
+  "hurt": "болели",
+  "i": "я",
+  "i'm": "я (есть)",
+  "i've": "я (уже)",
+  "idea": "идея",
+  "if": "если, ли",
+  "imagine": "представить",
+  "imagined": "представлял",
+  "in": "в",
+  "insect": "насекомое",
+  "inside": "внутри",
+  "instead": "вместо этого",
+  "invited": "пригласил",
+  "is": "есть, является",
+  "it": "он, оно, это",
+  "italy": "Италия",
+  "japan": "Япония",
+  "jaw": "челюсть",
+  "joke": "шутка",
+  "jonah": "Джона (имя)",
+  "jonah's": "Джоны (имя)",
+  "just": "просто",
+  "kept": "сдержала",
+  "kilometres": "километров",
+  "kindly": "ласково, по-доброму",
+  "kitchen": "кухня",
+  "kitchens": "кухни",
+  "knees": "колени",
+  "knew": "знал(и)",
+  "knife": "нож",
+  "know": "знаю",
+  "known": "знал",
+  "lamp": "лампа",
+  "last": "последний; (at last) наконец",
+  "late": "поздно",
+  "later": "позже",
+  "laughed": "засмеялся",
+  "lay": "лежал",
+  "learned": "научился; понял",
+  "left": "оставшийся (was left — оставались)",
+  "let": "позволить",
+  "letter": "письмо",
+  "lie": "ложь",
+  "life": "жизнь",
+  "lifted": "поднял",
+  "like": "как",
+  "line": "строка; полоса",
+  "lines": "строки",
+  "little": "маленький, немного",
+  "long": "долго, долгий",
+  "looked": "выглядел; посмотрела",
+  "looks": "смотрит",
+  "lost": "утратил",
+  "love": "любовь",
+  "lund": "Лунд (фамилия)",
+  "m": "М. (инициал)",
+  "made": "(made me promise) взял обещание; сделанный",
+  "make": "делать (make it easier — облегчать)",
+  "making": "совершаю",
+  "man": "мужчина",
+  "manager": "управляющий",
+  "many": "много",
+  "margit": "Маргит (имя)",
+  "mark": "отметка, оценка",
+  "me": "меня, мне",
+  "measured": "измерить",
+  "memory": "память",
+  "menu": "меню",
+  "minutes": "минуты",
+  "mistake": "ошибка",
+  "moment": "мгновение",
+  "monday": "понедельник",
+  "money": "деньги",
+  "month": "месяц",
+  "months": "месяцы",
+  "more": "больше",
+  "morning": "утро",
+  "most": "самый",
+  "much": "гораздо",
+  "must": "должен, нужно",
+  "my": "мой",
+  "myself": "сам",
+  "name": "имя",
+  "needed": "нуждался",
+  "never": "никогда",
+  "new": "новый",
+  "next": "следующий; (next to) рядом с",
+  "night": "ночь",
+  "nine": "девять",
+  "nineteen": "девятнадцать",
+  "nobody": "никто",
+  "noise": "шум",
+  "not": "не",
+  "nothing": "ничего",
+  "now": "теперь",
+  "observe": "наблюдать",
+  "of": "из, о, (род. падеж)",
+  "off": "(turned off) выключил; (show off) напоказ; (took off) убрал",
+  "old": "старый",
+  "older": "старше",
+  "on": "на",
+  "once": "однажды; (once more) ещё раз; (once upon a time) давным-давно",
+  "one": "один, одна",
+  "onions": "лук",
+  "only": "только",
+  "open": "открыть",
+  "opened": "открыл",
+  "or": "или",
+  "ordered": "заказал",
+  "other": "другой",
+  "out": "наружу",
+  "over": "над; (fell over) упал",
+  "own": "собственный",
+  "oysters": "устрицы",
+  "package": "упаковка",
+  "painted": "покрасил",
+  "pan": "сковорода",
+  "paper": "бумага; газета",
+  "paris": "Париж",
+  "pell": "Пелл (фамилия)",
+  "pell's": "«Пеллс» (название ресторана); Пелла",
+  "people": "люди",
+  "pepper": "перец",
+  "photograph": "фотография",
+  "photographs": "фотографии",
+  "picture": "картина; снимок",
+  "piece": "кусок",
+  "place": "место",
+  "plate": "выкладывать (на тарелку)",
+  "plates": "тарелки",
+  "please": "пожалуйста",
+  "pocket": "карман",
+  "pot": "кастрюля",
+  "potatoes": "картофель",
+  "prepared": "готовился",
+  "probably": "вероятно",
+  "promise": "обещать",
+  "promised": "пообещал",
+  "proud": "гордый",
+  "put": "надела; повесила",
+  "puts": "кладёт",
+  "putting": "надевая",
+  "queues": "очереди",
+  "quietly": "тихо",
+  "racing": "колотящийся",
+  "raise": "повышать",
+  "read": "читать; прочитал",
+  "readers": "читатели",
+  "reading": "читаешь",
+  "ready": "готовый",
+  "real": "настоящий",
+  "realised": "понял",
+  "really": "действительно",
+  "recipe": "рецепт",
+  "recognise": "узнать",
+  "reflection": "отражение",
+  "refused": "отказалась",
+  "remembered": "помнил",
+  "reported": "докладывала",
+  "restaurant": "ресторан",
+  "restaurants": "рестораны",
+  "restore": "восстановить",
+  "return": "вернуться",
+  "review": "рецензия",
+  "reviews": "рецензии",
+  "right": "право; прав",
+  "room": "(sitting room) гостиная",
+  "round": "круглый",
+  "rowed": "грёб (на вёслах)",
+  "run": "управлять (рестораном)",
+  "said": "сказал(а)",
+  "same": "тот же",
+  "samuel": "Сэмюэл (имя)",
+  "samuel's": "Сэмюэла (имя)",
+  "sat": "сидел; сел",
+  "saw": "увидел",
+  "say": "говорить",
+  "scallops": "морские гребешки",
+  "school": "школа",
+  "sea": "море",
+  "seats": "места",
+  "second": "секунда",
+  "seconds": "секунды",
+  "see": "видеть",
+  "seemed": "казался, выглядел",
+  "seen": "видел; (without being seen) незамеченным",
+  "sentence": "предложение",
+  "seven": "семь",
+  "seventy": "семьдесят",
+  "she": "она",
+  "she's": "она (есть)",
+  "sheep": "овца, овцы",
+  "shelf": "полка",
+  "shirt": "рубашка",
+  "shook": "качала",
+  "short": "короткий",
+  "shouted": "кричали",
+  "show": "показать (show off — напоказ)",
+  "showed": "проводила",
+  "sick": "больной",
+  "side": "сторона (side by side — рядом)",
+  "silver": "серебристый, седой",
+  "since": "с (тех пор)",
+  "single": "единственный (every single day — каждый божий день)",
+  "sinking": "тонущий",
+  "sit": "садиться",
+  "sitting": "(sitting room) гостиная",
+  "six": "шесть",
+  "sixty": "шестьдесят",
+  "skill": "умение",
+  "sky": "небо",
+  "sleep": "спать",
+  "slept": "спал(и)",
+  "slower": "медленнее",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smiled": "улыбнулся",
+  "smoked": "копчёный",
+  "so": "поэтому; так",
+  "sofa": "диван",
+  "some": "некоторые",
+  "someone": "кто-то",
+  "son": "сын, сынок",
+  "sorell": "Сорелл (фамилия)",
+  "sorell's": "Сорелл (фамилия)",
+  "sorry": "простите",
+  "soup": "суп",
+  "spend": "тратить, потратить",
+  "spoon": "ложка",
+  "spring": "весна",
+  "standing": "стоя",
+  "stay": "остаться",
+  "stayed": "оставались",
+  "steel": "стальной",
+  "step": "шаг",
+  "stick": "трость",
+  "still": "всё ещё; неподвижный",
+  "stood": "стоял",
+  "stop": "перестать",
+  "stopped": "остановила(сь)",
+  "story": "история",
+  "stove": "плита",
+  "stranger": "чужой человек",
+  "summer": "лето",
+  "sure": "уверенный",
+  "sword": "меч",
+  "table": "стол",
+  "taken": "отнял; (trip taken) совершили",
+  "tall": "высокий",
+  "taller": "выше",
+  "taste": "чувствовать вкус",
+  "tasted": "попробовала",
+  "tastes": "пробует",
+  "taught": "научил",
+  "teacher": "учительница",
+  "tears": "слёзы",
+  "teeth": "зубы",
+  "tell": "сказать",
+  "ten": "десять",
+  "terrified": "перепуганный",
+  "than": "чем",
+  "that": "что; тот, это",
+  "the": "(опр. артикль)",
+  "their": "их, свои",
+  "them": "их",
+  "then": "потом, тогда",
+  "there": "там",
+  "they": "они",
+  "thing": "вещь",
+  "things": "вещи",
+  "think": "думать",
+  "thirty": "тридцать",
+  "this": "этот",
+  "those": "те",
+  "thought": "задумался",
+  "three": "три",
+  "through": "через, сквозь",
+  "thursday": "четверг",
+  "tight": "крепко (сжатый)",
+  "time": "время, раз; (at the same time) одновременно",
+  "times": "раз",
+  "tired": "усталый",
+  "to": "к, в; (частица)",
+  "together": "вместе",
+  "told": "сказала",
+  "tonight": "сегодня вечером",
+  "too": "слишком",
+  "took": "взял; снял; (took out) достал; вывел",
+  "top": "верх",
+  "touching": "трогательный",
+  "towards": "к, по направлению к",
+  "town": "город",
+  "train": "учиться, тренироваться",
+  "trained": "тренировал",
+  "travel": "ехать",
+  "tried": "пыталась",
+  "trip": "поездка",
+  "truffles": "трюфели",
+  "tuesday": "вторник",
+  "turned": "(turned off) выключил; (turned grey) посерело",
+  "twice": "дважды",
+  "two": "два",
+  "unable": "не в силах",
+  "uncertainty": "неопределённость",
+  "under": "под",
+  "understand": "понимать",
+  "unfortunately": "к сожалению",
+  "until": "до",
+  "up": "вверх",
+  "upon": "(once upon a time) давным-давно",
+  "upset": "расстроенный",
+  "upstairs": "наверху",
+  "use": "использовать; употребить",
+  "used": "пользовалась; (used to) часто, бывало",
+  "vacation": "отпуск",
+  "very": "очень",
+  "view": "вид",
+  "voice": "голос",
+  "waited": "ждала",
+  "waitress": "официантка",
+  "wake": "проснуться",
+  "walked": "ходила",
+  "wall": "стена",
+  "walls": "стены",
+  "want": "хотеть",
+  "wanted": "хотел; желал",
+  "wants": "хочет",
+  "war": "война",
+  "warm": "тёплый",
+  "was": "был(а)",
+  "washed": "вымыл",
+  "wealth": "богатство",
+  "week": "неделя",
+  "weeks": "недели",
+  "went": "(went out) ушли; уехал",
+  "were": "были",
+  "what": "что",
+  "whatever": "что угодно",
+  "when": "когда",
+  "where": "где",
+  "while": "пока",
+  "white": "белый",
+  "who": "кто, который",
+  "whole": "вся, целый",
+  "why": "почему",
+  "will": "будет",
+  "window": "окно",
+  "wise": "мудрый",
+  "with": "с",
+  "without": "без",
+  "woman": "женщина",
+  "words": "слова",
+  "work": "работа",
+  "worked": "работал(а)",
+  "working": "работать",
+  "world": "мир",
+  "worst": "худший",
+  "would": "бы",
+  "wrapped": "завёрнутый",
+  "write": "записывать",
+  "writing": "писать",
+  "written": "написала",
+  "wrote": "писала",
+  "years": "лет, годы",
+  "yet": "ещё (not yet — пока нет)",
+  "yoga": "йога",
+  "you": "вы, ты",
+  "you'll": "ты (будешь)",
+  "young": "молодой",
+  "your": "ваш"
+ },
+ "vocab": {
+  "upset": 252,
+  "teeth": 311,
+  "skill": 231,
+  "package": 531,
+  "behind": 109,
+  "trip": 275,
+  "unfortunately": 335,
+  "lifted": 402,
+  "fear": 273,
+  "glad": 309,
+  "vacation": 385,
+  "insect": 310,
+  "sitting": 38,
+  "room": 38,
+  "sofa": 351,
+  "exercise": 5,
+  "tall": 119,
+  "taller": 119,
+  "mistake": 4,
+  "accepted": 272,
+  "different": 342,
+  "until": 606,
+  "voice": 84,
+  "wake": 66,
+  "upon": 428,
+  "exist": 260,
+  "borders": 550,
+  "border": 550,
+  "prepared": 325,
+  "freedom": 372,
+  "excited": 70,
+  "empty": 200,
+  "fight": 174,
+  "expect": 328,
+  "expected": 328,
+  "distance": 449,
+  "raise": 632,
+  "memory": 624,
+  "tears": 192,
+  "touching": 312,
+  "curiously": 454,
+  "everything": 215,
+  "spend": 128,
+  "boat": 110,
+  "boats": 110,
+  "instead": 362,
+  "picture": 20,
+  "uncertainty": 542,
+  "restore": 614,
+  "mark": 547,
+  "guilty": 492,
+  "wise": 458,
+  "sheep": 153,
+  "wealth": 539,
+  "expensive": 301,
+  "reflection": 534,
+  "healing": 511,
+  "gift": 50,
+  "area": 419,
+  "sword": 98,
+  "yet": 517,
+  "hair": 89,
+  "abuse": 587,
+  "observe": 352,
+  "through": 238,
+  "train": 45,
+  "trained": 45
+ }
+}

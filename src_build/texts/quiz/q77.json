@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Who was driving the Mercedes on the night of the crash?",
+  "q_ru": "Кто был за рулём «Мерседеса» в ночь аварии?",
+  "options": [
+   "Dodi Fayed",
+   "Trevor Rees-Jones, the bodyguard",
+   "Henri Paul, the deputy head of security at the Ritz",
+   "A regular chauffeur from a London company"
+  ],
+  "options_ru": [
+   "Доди аль-Файед",
+   "Телохранитель Тревор Рис-Джонс",
+   "Анри Поль, заместитель начальника службы безопасности «Ритца»",
+   "Штатный шофёр лондонской компании"
+  ],
+  "answer": 2,
+  "explain_ru": "В тексте: «The man chosen to drive them was Henri Paul, the deputy head of security at the Ritz». Он не был штатным шофёром."
+ },
+ {
+  "q": "What did tests on Henri Paul's blood show?",
+  "q_ru": "Что показали анализы крови Анри Поля?",
+  "options": [
+   "His alcohol level was about three times the legal limit",
+   "He had drunk nothing that evening",
+   "Someone had poisoned him",
+   "He had a serious heart illness"
+  ],
+  "options_ru": [
+   "Уровень алкоголя был примерно в три раза выше допустимого",
+   "Он ничего не пил в тот вечер",
+   "Кто-то его отравил",
+   "У него была серьёзная болезнь сердца"
+  ],
+  "answer": 0,
+  "explain_ru": "Анализы показали, что уровень алкоголя был «around three times the French legal limit»; также нашли следы двух лекарств."
+ },
+ {
+  "q": "Why did the white Fiat Uno become important for conspiracy theorists?",
+  "q_ru": "Почему белый «Фиат Уно» стал важен для сторонников теорий заговора?",
+  "options": [
+   "It was owned by MI6",
+   "It touched the Mercedes, but its driver was never found",
+   "It blocked the exit of the tunnel",
+   "It carried the photographers"
+  ],
+  "options_ru": [
+   "Он принадлежал МИ-6",
+   "Он задел «Мерседес», но его водителя так и не нашли",
+   "Он перекрыл выезд из тоннеля",
+   "На нём ехали фотографы"
+  ],
+  "answer": 1,
+  "explain_ru": "Следы краски и осколки фонаря показали, что «Мерседес» задел белый «Фиат Уно», но ни машину, ни водителя так и не нашли."
+ },
+ {
+  "q": "What did Operation Paget find about the blood samples?",
+  "q_ru": "Что операция «Пэджет» выяснила об образцах крови?",
+  "options": [
+   "They had been switched by French police",
+   "They were lost before testing",
+   "They belonged to a different man",
+   "DNA tests showed they really belonged to Henri Paul"
+  ],
+  "options_ru": [
+   "Их подменила французская полиция",
+   "Их потеряли до анализа",
+   "Они принадлежали другому человеку",
+   "Анализ ДНК показал, что они действительно принадлежали Анри Полю"
+  ],
+  "answer": 3,
+  "explain_ru": "В тексте: «DNA tests confirmed that the blood samples really belonged to Henri Paul, so they had not been switched»."
+ },
+ {
+  "q": "What was the verdict of the inquest in April 2008?",
+  "q_ru": "Каким был вердикт дознания в апреле 2008 года?",
+  "options": [
+   "Accidental death with nobody to blame",
+   "Murder organised by MI6",
+   "Unlawful killing by grossly negligent driving of the Mercedes and the following vehicles",
+   "An open verdict because nothing was clear"
+  ],
+  "options_ru": [
+   "Смерть в результате несчастного случая, без виновных",
+   "Убийство, организованное МИ-6",
+   "Незаконное убийство из-за преступно небрежного вождения «Мерседеса» и преследовавших машин",
+   "Открытый вердикт, потому что ничего не ясно"
+  ],
+  "answer": 2,
+  "explain_ru": "Присяжные большинством 9 против 2 решили, что смерть вызвана «grossly negligent driving» Анри Поля и преследовавших машин. Слово «unlawful» не означало убийства."
+ },
+ {
+  "q": "Which statement best describes what is still unknown today?",
+  "q_ru": "Какое утверждение лучше всего описывает то, что неизвестно до сих пор?",
+  "options": [
+   "The driver of the white Fiat Uno has never been identified",
+   "Whether Diana was in the car",
+   "Who owned the Ritz Hotel",
+   "Whether the crash happened in Paris or London"
+  ],
+  "options_ru": [
+   "Водителя белого «Фиата Уно» так и не установили",
+   "Была ли Диана в машине",
+   "Кому принадлежал отель «Ритц»",
+   "Произошла ли авария в Париже или в Лондоне"
+  ],
+  "answer": 0,
+  "explain_ru": "В тексте: «The driver of the white Fiat Uno was never identified». Однако доказательств убийства так и не нашли."
+ }
+]

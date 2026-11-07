@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did Barnaby accept the case so quickly?",
+  "q_ru": "Почему Барнаби так быстро согласился на дело?",
+  "options": [
+   "He loves cats very much",
+   "He needed money to pay his rent",
+   "The police asked him to help",
+   "Mrs Fenwick was an old friend"
+  ],
+  "options_ru": [
+   "Он очень любит кошек",
+   "Ему нужны были деньги, чтобы заплатить за аренду",
+   "Полиция попросила его помочь",
+   "Миссис Фенвик была его старой подругой"
+  ],
+  "answer": 1,
+  "explain_ru": "Он только что прочитал письмо от хозяина: если не заплатить до пятницы, придётся съехать. Он посмотрел на письмо и сказал: «I'm ready»."
+ },
+ {
+  "q": "Baron \"has an addiction to salted fish\". What does \"addiction\" mean?",
+  "q_ru": "У Барона «an addiction to salted fish». Что значит «addiction»?",
+  "options": [
+   "A fear of something",
+   "An allergy to something",
+   "A strong need you cannot stop",
+   "A dislike of something"
+  ],
+  "options_ru": [
+   "Страх перед чем-то",
+   "Аллергия на что-то",
+   "Сильная потребность, которую невозможно остановить",
+   "Нелюбовь к чему-то"
+  ],
+  "answer": 2,
+  "explain_ru": "Addiction — зависимость. Кот так любит солёную рыбу, что ходит за ней в деревню, к Эзре."
+ },
+ {
+  "q": "What did the cook say about Baron's behaviour lately?",
+  "q_ru": "Что повар сказал о поведении Барона в последнее время?",
+  "options": [
+   "He slept all day in the kitchen",
+   "He refused to eat any fish",
+   "He was afraid of the fox outside",
+   "He went out every afternoon and came back smelling of fish"
+  ],
+  "options_ru": [
+   "Он весь день спал на кухне",
+   "Он отказывался есть рыбу",
+   "Он боялся лисы на улице",
+   "Он уходил каждый день после обеда и возвращался с запахом рыбы"
+  ],
+  "answer": 3,
+  "explain_ru": "Повар: «he has gone out every afternoon and come back late in the evening, smelling of fish... Cheaper fish»."
+ },
+ {
+  "q": "What showed that the photo with the letter was old?",
+  "q_ru": "Что показало, что фото в письме было старым?",
+  "options": [
+   "The cat was fat, and the chess game was from the library",
+   "The cat had two black ears",
+   "The photo was taken in the boat house",
+   "The letter was printed on a computer"
+  ],
+  "options_ru": [
+   "Кот на фото был толстым, а шахматы — из библиотеки",
+   "У кота на фото было два чёрных уха",
+   "Фото было сделано в лодочном сарае",
+   "Письмо было напечатано на компьютере"
+  ],
+  "answer": 0,
+  "explain_ru": "Фигуры стояли как в партии Криспина в библиотеке, а кот был толстым, хотя Барон на всех новых фото худой."
+ },
+ {
+  "q": "Why did Crispin write the letter?",
+  "q_ru": "Почему Криспин написал письмо?",
+  "options": [
+   "He had stolen the cat to annoy his aunt",
+   "Ezra asked him to get money",
+   "He saw a chance to get money for his debts",
+   "He wanted to help Barnaby find Baron"
+  ],
+  "options_ru": [
+   "Он украл кота, чтобы досадить тёте",
+   "Эзра попросил его достать денег",
+   "Он увидел шанс получить деньги на свои долги",
+   "Он хотел помочь Барнаби найти Барона"
+  ],
+  "answer": 2,
+  "explain_ru": "Он не крал кота: «he had seen an opportunity. He needed money for his debts»."
+ },
+ {
+  "q": "Why didn't Baron come home on Tuesday?",
+  "q_ru": "Почему Барон не вернулся домой во вторник?",
+  "options": [
+   "A fox took him away",
+   "Crispin hid him in the boat house",
+   "Ezra locked him in the blue house",
+   "The new kitchen door had no cat flap"
+  ],
+  "options_ru": [
+   "Его утащила лиса",
+   "Криспин спрятал его в лодочном сарае",
+   "Эзра запер его в синем доме",
+   "В новой кухонной двери не было дверцы для кота"
+  ],
+  "answer": 3,
+  "explain_ru": "Во вторник поставили новую дверь: «The old door had a cat flap. The new door did not». Кот просто не смог войти."
+ }
+]

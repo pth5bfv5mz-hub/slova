@@ -1,0 +1,1607 @@
+{
+ "id": 22,
+ "level": "B1",
+ "title_en": "The Call at Ten to Two",
+ "title_ru": "Звонок без десяти два",
+ "genre": "Судебная драма",
+ "summary_ru": "Молодой адвокат получает дело ночного сторожа, которого обвиняют во взрыве на заводе, и все вокруг уверены, что процесс уже проигран.",
+ "paragraphs": [
+  {
+   "en": "When Mr. Grant dropped the file on Clara's desk, it landed so heavily that the small plant next to her lamp almost fell over. “Thanks,” she said, although she already knew that nobody at Grant & Hale ever gave a junior lawyer a present. “Don't thank me,” Grant said. “It's the Halden factory case. The trial starts on Monday, and we are going to lose it.”",
+   "ru": "Когда мистер Грант бросил папку на стол Клары, она упала так тяжело, что маленькое растение рядом с её лампой чуть не опрокинулось. «Спасибо», — сказала она, хотя уже знала, что в фирме «Грант и Хейл» никто никогда не делает младшим юристам подарков. «Не благодари меня», — сказал Грант. «Это дело завода Холдена. Суд начинается в понедельник, и мы его проиграем».",
+   "s": [
+    [
+     "When Mr. Grant dropped the file on Clara's desk, it landed so heavily that the small plant next to her lamp almost fell over.",
+     "Когда мистер Грант бросил папку на стол Клары, она упала так тяжело, что маленькое растение рядом с её лампой чуть не опрокинулось."
+    ],
+    [
+     "“Thanks,” she said, although she already knew that nobody at Grant & Hale ever gave a junior lawyer a present.",
+     "«Спасибо», — сказала она, хотя уже знала, что в фирме «Грант и Хейл» никто никогда не делает младшим юристам подарков."
+    ],
+    [
+     "“Don't thank me,” Grant said.",
+     "«Не благодари меня», — сказал Грант."
+    ],
+    [
+     "“It's the Halden factory case.",
+     "«Это дело завода Холдена."
+    ],
+    [
+     "The trial starts on Monday, and we are going to lose it.”",
+     "Суд начинается в понедельник, и мы его проиграем»."
+    ]
+   ]
+  },
+  {
+   "en": "Clara had passed her final exams only a year earlier, and she had never defended anyone in a real criminal trial. Three months ago, an explosion had destroyed the storage building of the Halden paint factory by the river. People who lived on the other side of the water said that the earth had shaken under their beds. Fortunately, it had happened at two o'clock in the morning, and nobody had been killed. But the damage was huge, and the police blamed the night guard, Daniel Ross.",
+   "ru": "Клара сдала выпускные экзамены всего год назад и ещё ни разу не защищала никого в настоящем уголовном процессе. Три месяца назад взрыв уничтожил склад лакокрасочного завода Холдена у реки. Люди, которые жили на другом берегу, говорили, что земля дрожала у них под кроватями. К счастью, это случилось в два часа ночи, и никто не погиб. Но ущерб был огромным, и полиция обвинила ночного сторожа, Дэниела Росса.",
+   "s": [
+    [
+     "Clara had passed her final exams only a year earlier, and she had never defended anyone in a real criminal trial.",
+     "Клара сдала выпускные экзамены всего год назад и ещё ни разу не защищала никого в настоящем уголовном процессе."
+    ],
+    [
+     "Three months ago, an explosion had destroyed the storage building of the Halden paint factory by the river.",
+     "Три месяца назад взрыв уничтожил склад лакокрасочного завода Холдена у реки."
+    ],
+    [
+     "People who lived on the other side of the water said that the earth had shaken under their beds.",
+     "Люди, которые жили на другом берегу, говорили, что земля дрожала у них под кроватями."
+    ],
+    [
+     "Fortunately, it had happened at two o'clock in the morning, and nobody had been killed.",
+     "К счастью, это случилось в два часа ночи, и никто не погиб."
+    ],
+    [
+     "But the damage was huge, and the police blamed the night guard, Daniel Ross.",
+     "Но ущерб был огромным, и полиция обвинила ночного сторожа, Дэниела Росса."
+    ]
+   ]
+  },
+  {
+   "en": "“The facts are simple,” Grant said, and began to move towards the door. “Ross left his post for twenty minutes. A cigarette was found next to the gas pipe. The prosecution will say that he smoked, dropped it and ran away. Tell him to accept the deal: he says he's guilty, and he gets two years instead of eight.” “I won my first case in nine days, you know,” he added. “Without any help.” Clara had heard that story at least ten times. Grant constantly found reasons to brag, and he liked it almost as much as he liked to win.",
+   "ru": "«Факты простые», — сказал Грант и двинулся к двери. «Росс покинул свой пост на двадцать минут. Рядом с газовой трубой нашли сигарету. Обвинение скажет, что он курил, бросил её и убежал. Скажи ему, чтобы он согласился на сделку: он признаёт вину и получает два года вместо восьми». «Я, знаешь ли, выиграл своё первое дело за девять дней», — добавил он. «Без всякой помощи». Клара слышала эту историю по меньшей мере десять раз. Грант постоянно находил поводы похвастаться, и это нравилось ему почти так же, как побеждать.",
+   "s": [
+    [
+     "“The facts are simple,” Grant said, and began to move towards the door.",
+     "«Факты простые», — сказал Грант и двинулся к двери."
+    ],
+    [
+     "“Ross left his post for twenty minutes.",
+     "«Росс покинул свой пост на двадцать минут."
+    ],
+    [
+     "A cigarette was found next to the gas pipe.",
+     "Рядом с газовой трубой нашли сигарету."
+    ],
+    [
+     "The prosecution will say that he smoked, dropped it and ran away.",
+     "Обвинение скажет, что он курил, бросил её и убежал."
+    ],
+    [
+     "Tell him to accept the deal: he says he's guilty, and he gets two years instead of eight.”",
+     "Скажи ему, чтобы он согласился на сделку: он признаёт вину и получает два года вместо восьми»."
+    ],
+    [
+     "“I won my first case in nine days, you know,” he added.",
+     "«Я, знаешь ли, выиграл своё первое дело за девять дней», — добавил он."
+    ],
+    [
+     "“Without any help.”",
+     "«Без всякой помощи»."
+    ],
+    [
+     "Clara had heard that story at least ten times.",
+     "Клара слышала эту историю по меньшей мере десять раз."
+    ],
+    [
+     "Grant constantly found reasons to brag, and he liked it almost as much as he liked to win.",
+     "Грант постоянно находил поводы похвастаться, и это нравилось ему почти так же, как побеждать."
+    ]
+   ]
+  },
+  {
+   "en": "Daniel Ross was waiting for her in a small grey room in the city prison. He was a tall man of about forty with tired eyes. When Clara told him about the deal, he shook his head immediately. “I'm not going to say I did something I didn't do,” he said in a low voice. “I don't even smoke. I've had asthma since I was a boy. Sometimes I can hardly breathe when someone smokes next to me.”",
+   "ru": "Дэниел Росс ждал её в маленькой серой комнате городской тюрьмы. Это был высокий мужчина лет сорока с усталыми глазами. Когда Клара рассказала ему о сделке, он сразу же покачал головой. «Я не стану говорить, что сделал то, чего не делал», — сказал он тихим голосом. «Я даже не курю. У меня астма с детства. Иногда я едва могу дышать, когда кто-то курит рядом со мной».",
+   "s": [
+    [
+     "Daniel Ross was waiting for her in a small grey room in the city prison.",
+     "Дэниел Росс ждал её в маленькой серой комнате городской тюрьмы."
+    ],
+    [
+     "He was a tall man of about forty with tired eyes.",
+     "Это был высокий мужчина лет сорока с усталыми глазами."
+    ],
+    [
+     "When Clara told him about the deal, he shook his head immediately.",
+     "Когда Клара рассказала ему о сделке, он сразу же покачал головой."
+    ],
+    [
+     "“I'm not going to say I did something I didn't do,” he said in a low voice.",
+     "«Я не стану говорить, что сделал то, чего не делал», — сказал он тихим голосом."
+    ],
+    [
+     "“I don't even smoke.",
+     "«Я даже не курю."
+    ],
+    [
+     "I've had asthma since I was a boy.",
+     "У меня астма с детства."
+    ],
+    [
+     "Sometimes I can hardly breathe when someone smokes next to me.”",
+     "Иногда я едва могу дышать, когда кто-то курит рядом со мной»."
+    ]
+   ]
+  },
+  {
+   "en": "“Then why did you leave your post?” Clara asked. “My phone rang at ten to two. It was Mrs. Alvarez, our nanny. She said that my daughter Mia couldn't breathe and that I should come home immediately. So I ran. I didn't think about the factory. I only thought about my girl.”",
+   "ru": "«Тогда почему вы покинули пост?» — спросила Клара. «Мой телефон зазвонил без десяти два. Это была миссис Альварес, наша няня. Она сказала, что моя дочь Миа не может дышать и что я должен немедленно ехать домой. И я побежал. Я не думал о заводе. Я думал только о своей девочке».",
+   "s": [
+    [
+     "“Then why did you leave your post?” Clara asked.",
+     "«Тогда почему вы покинули пост?» — спросила Клара."
+    ],
+    [
+     "“My phone rang at ten to two.",
+     "«Мой телефон зазвонил без десяти два."
+    ],
+    [
+     "It was Mrs. Alvarez, our nanny.",
+     "Это была миссис Альварес, наша няня."
+    ],
+    [
+     "She said that my daughter Mia couldn't breathe and that I should come home immediately.",
+     "Она сказала, что моя дочь Миа не может дышать и что я должен немедленно ехать домой."
+    ],
+    [
+     "So I ran.",
+     "И я побежал."
+    ],
+    [
+     "I didn't think about the factory.",
+     "Я не думал о заводе."
+    ],
+    [
+     "I only thought about my girl.”",
+     "Я думал только о своей девочке»."
+    ]
+   ]
+  },
+  {
+   "en": "“And when you got home?” “Mia was asleep in her bed, and Mrs. Alvarez was asleep on the sofa. She said she had never called me.” He lifted his eyes to Clara for the first time. “Everyone thinks I'm lying. My lawyer before you thought so too. Do you?” Then she said, “I think somebody wanted you outside that gate at two o'clock.”",
+   "ru": "«А когда вы пришли домой?» «Миа спала в своей кровати, а миссис Альварес спала на диване. Она сказала, что никогда мне не звонила». Он впервые поднял глаза на Клару. «Все думают, что я лгу. Мой прежний адвокат тоже так думал. А вы?» Потом она сказала: «Я думаю, кто-то хотел, чтобы в два часа вы были за этими воротами».",
+   "s": [
+    [
+     "“And when you got home?”",
+     "«А когда вы пришли домой?»"
+    ],
+    [
+     "“Mia was asleep in her bed, and Mrs. Alvarez was asleep on the sofa.",
+     "«Миа спала в своей кровати, а миссис Альварес спала на диване."
+    ],
+    [
+     "She said she had never called me.”",
+     "Она сказала, что никогда мне не звонила»."
+    ],
+    [
+     "He lifted his eyes to Clara for the first time.",
+     "Он впервые поднял глаза на Клару."
+    ],
+    [
+     "“Everyone thinks I'm lying.",
+     "«Все думают, что я лгу."
+    ],
+    [
+     "My lawyer before you thought so too.",
+     "Мой прежний адвокат тоже так думал."
+    ],
+    [
+     "Do you?”",
+     "А вы?»"
+    ],
+    [
+     "Then she said, “I think somebody wanted you outside that gate at two o'clock.”",
+     "Потом она сказала: «Я думаю, кто-то хотел, чтобы в два часа вы были за этими воротами»."
+    ]
+   ]
+  },
+  {
+   "en": "That evening she visited Mrs. Alvarez, a small, warm woman who lived two floors below the Ross family. Her flat was cozy and smelled of soup and cinnamon. She gave Clara a bowl and a big spoon and would not let her speak until she had tried the soup. “Good? You can taste the garlic, yes?” Then her smile vanished. “I did not call him. My phone was in my bag all night.”",
+   "ru": "В тот вечер она навестила миссис Альварес, маленькую, сердечную женщину, которая жила двумя этажами ниже семьи Росс. Её квартира была уютной и пахла супом и корицей. Она дала Кларе тарелку и большую ложку и не позволила ей говорить, пока та не попробовала суп. «Вкусно? Чувствуете вкус чеснока, да?» Потом её улыбка исчезла. «Я ему не звонила. Мой телефон всю ночь лежал в сумке».",
+   "s": [
+    [
+     "That evening she visited Mrs. Alvarez, a small, warm woman who lived two floors below the Ross family.",
+     "В тот вечер она навестила миссис Альварес, маленькую, сердечную женщину, которая жила двумя этажами ниже семьи Росс."
+    ],
+    [
+     "Her flat was cozy and smelled of soup and cinnamon.",
+     "Её квартира была уютной и пахла супом и корицей."
+    ],
+    [
+     "She gave Clara a bowl and a big spoon and would not let her speak until she had tried the soup.",
+     "Она дала Кларе тарелку и большую ложку и не позволила ей говорить, пока та не попробовала суп."
+    ],
+    [
+     "“Good?",
+     "«Вкусно?"
+    ],
+    [
+     "You can taste the garlic, yes?”",
+     "Чувствуете вкус чеснока, да?»"
+    ],
+    [
+     "Then her smile vanished.",
+     "Потом её улыбка исчезла."
+    ],
+    [
+     "“I did not call him.",
+     "«Я ему не звонила."
+    ],
+    [
+     "My phone was in my bag all night.”",
+     "Мой телефон всю ночь лежал в сумке»."
+    ]
+   ]
+  },
+  {
+   "en": "“Did anyone else know about Mia's asthma?” Clara asked. “Of course. The doctors, the school, the family.” Mrs. Alvarez wiped her hands on her apron. “His sister Anna knows. She is going to marry a rich man soon, the son of the factory owner, can you imagine? Victor Halden.",
+   "ru": "«Кто-нибудь ещё знал об астме Мии?» — спросила Клара. «Конечно. Врачи, школа, семья». Миссис Альварес вытерла руки о фартук. «Его сестра Анна знает. Она скоро выходит замуж за богатого человека, сына владельца завода, представляете? Виктор Холден.",
+   "s": [
+    [
+     "“Did anyone else know about Mia's asthma?” Clara asked.",
+     "«Кто-нибудь ещё знал об астме Мии?» — спросила Клара."
+    ],
+    [
+     "“Of course.",
+     "«Конечно."
+    ],
+    [
+     "The doctors, the school, the family.”",
+     "Врачи, школа, семья»."
+    ],
+    [
+     "Mrs. Alvarez wiped her hands on her apron.",
+     "Миссис Альварес вытерла руки о фартук."
+    ],
+    [
+     "“His sister Anna knows.",
+     "«Его сестра Анна знает."
+    ],
+    [
+     "She is going to marry a rich man soon, the son of the factory owner, can you imagine?",
+     "Она скоро выходит замуж за богатого человека, сына владельца завода, представляете?"
+    ],
+    [
+     "Victor Halden.",
+     "Виктор Холден."
+    ]
+   ]
+  },
+  {
+   "en": "Clara put down her spoon. A relative of the owner and a relative of the guard were about to become one family. It probably meant nothing. But on the bus home she couldn't stop thinking about it, and her fear of losing the case was slowly replaced by something else. She was curious.",
+   "ru": "Клара положила ложку. Родственник владельца и родственница сторожа вот-вот должны были стать одной семьёй. Вероятно, это ничего не значило. Но в автобусе по дороге домой она не могла перестать думать об этом, и её страх проиграть дело постепенно сменился чем-то другим. Ей стало любопытно.",
+   "s": [
+    [
+     "Clara put down her spoon.",
+     "Клара положила ложку."
+    ],
+    [
+     "A relative of the owner and a relative of the guard were about to become one family.",
+     "Родственник владельца и родственница сторожа вот-вот должны были стать одной семьёй."
+    ],
+    [
+     "It probably meant nothing.",
+     "Вероятно, это ничего не значило."
+    ],
+    [
+     "But on the bus home she couldn't stop thinking about it, and her fear of losing the case was slowly replaced by something else.",
+     "Но в автобусе по дороге домой она не могла перестать думать об этом, и её страх проиграть дело постепенно сменился чем-то другим."
+    ],
+    [
+     "She was curious.",
+     "Ей стало любопытно."
+    ]
+   ]
+  },
+  {
+   "en": "The next morning she went to the factory. What was left of the storage building stood behind a high fence, black and broken, like a burnt piece of bread. A security man in a blue cap refused to let her enter. “Nobody passes this gate without permission from Mr. Halden.” So Clara walked along the fence instead, all the way down to the river.",
+   "ru": "На следующее утро она поехала на завод. То, что осталось от склада, стояло за высоким забором, чёрное и разрушенное, как подгоревший кусок хлеба. Охранник в синей кепке отказался её впустить. «Никто не проходит через эти ворота без разрешения мистера Холдена». Поэтому Клара пошла вдоль забора, до самой реки.",
+   "s": [
+    [
+     "The next morning she went to the factory.",
+     "На следующее утро она поехала на завод."
+    ],
+    [
+     "What was left of the storage building stood behind a high fence, black and broken, like a burnt piece of bread.",
+     "То, что осталось от склада, стояло за высоким забором, чёрное и разрушенное, как подгоревший кусок хлеба."
+    ],
+    [
+     "A security man in a blue cap refused to let her enter.",
+     "Охранник в синей кепке отказался её впустить."
+    ],
+    [
+     "“Nobody passes this gate without permission from Mr. Halden.”",
+     "«Никто не проходит через эти ворота без разрешения мистера Холдена»."
+    ],
+    [
+     "So Clara walked along the fence instead, all the way down to the river.",
+     "Поэтому Клара пошла вдоль забора, до самой реки."
+    ]
+   ]
+  },
+  {
+   "en": "There, half hidden by bushes, she discovered a second gate. It was low and narrow, and a card reader was fixed to the post next to it. She took out the map of the factory from the police file. The gate was not on it. She checked again: the map showed the main gate, the guard's hut and the cameras, but here, by the water, there was nothing. Only a small pencil mark in the corner showed that somebody had once noticed this place.",
+   "ru": "Там, наполовину скрытые кустами, она обнаружила вторые ворота. Они были низкими и узкими, а на столбе рядом с ними был закреплён считыватель карт. Она достала из полицейской папки карту завода. Этих ворот на ней не было. Она проверила ещё раз: на карте были главные ворота, будка сторожа и камеры, но здесь, у воды, не было ничего. Лишь маленькая карандашная отметка в углу показывала, что кто-то когда-то заметил это место.",
+   "s": [
+    [
+     "There, half hidden by bushes, she discovered a second gate.",
+     "Там, наполовину скрытые кустами, она обнаружила вторые ворота."
+    ],
+    [
+     "It was low and narrow, and a card reader was fixed to the post next to it.",
+     "Они были низкими и узкими, а на столбе рядом с ними был закреплён считыватель карт."
+    ],
+    [
+     "She took out the map of the factory from the police file.",
+     "Она достала из полицейской папки карту завода."
+    ],
+    [
+     "The gate was not on it.",
+     "Этих ворот на ней не было."
+    ],
+    [
+     "She checked again: the map showed the main gate, the guard's hut and the cameras, but here, by the water, there was nothing.",
+     "Она проверила ещё раз: на карте были главные ворота, будка сторожа и камеры, но здесь, у воды, не было ничего."
+    ],
+    [
+     "Only a small pencil mark in the corner showed that somebody had once noticed this place.",
+     "Лишь маленькая карандашная отметка в углу показывала, что кто-то когда-то заметил это место."
+    ]
+   ]
+  },
+  {
+   "en": "The camera above the main gate had recorded Daniel running out at 1:52. After that, the police report said, the cameras had stopped working because their wires had been cut by the explosion. Clara looked up at the camera near the river gate. Its wire was hanging down, clean and straight. Fire doesn't cut that neatly, she thought. A knife does.",
+   "ru": "Камера над главными воротами записала, как Дэниел выбежал в 1:52. После этого, как говорилось в полицейском отчёте, камеры перестали работать, потому что их провода перебило взрывом. Клара посмотрела на камеру у речных ворот. Её провод свисал вниз, ровный и прямой. Огонь не режет так аккуратно, подумала она. А нож режет.",
+   "s": [
+    [
+     "The camera above the main gate had recorded Daniel running out at 1:52.",
+     "Камера над главными воротами записала, как Дэниел выбежал в 1:52."
+    ],
+    [
+     "After that, the police report said, the cameras had stopped working because their wires had been cut by the explosion.",
+     "После этого, как говорилось в полицейском отчёте, камеры перестали работать, потому что их провода перебило взрывом."
+    ],
+    [
+     "Clara looked up at the camera near the river gate.",
+     "Клара посмотрела на камеру у речных ворот."
+    ],
+    [
+     "Its wire was hanging down, clean and straight.",
+     "Её провод свисал вниз, ровный и прямой."
+    ],
+    [
+     "Fire doesn't cut that neatly, she thought.",
+     "Огонь не режет так аккуратно, подумала она."
+    ],
+    [
+     "A knife does.",
+     "А нож режет."
+    ]
+   ]
+  },
+  {
+   "en": "Back at the office, she asked the factory's security company for a list of the key cards that could open the river gate. The answer came two days later in a short, cold letter. The gate was accessible to only three people: the owner, Mr. Halden, his manager, and his son Victor. The records for the night of the explosion, the letter added, had been lost because of a computer problem.",
+   "ru": "Вернувшись в офис, она запросила у охранной компании завода список ключ-карт, которые могли открыть речные ворота. Ответ пришёл через два дня в коротком, холодном письме. Ворота были доступны только трём людям: владельцу, мистеру Холдену, его управляющему и его сыну Виктору. Записи за ночь взрыва, говорилось далее в письме, были потеряны из-за компьютерной неполадки.",
+   "s": [
+    [
+     "Back at the office, she asked the factory's security company for a list of the key cards that could open the river gate.",
+     "Вернувшись в офис, она запросила у охранной компании завода список ключ-карт, которые могли открыть речные ворота."
+    ],
+    [
+     "The answer came two days later in a short, cold letter.",
+     "Ответ пришёл через два дня в коротком, холодном письме."
+    ],
+    [
+     "The gate was accessible to only three people: the owner, Mr. Halden, his manager, and his son Victor.",
+     "Ворота были доступны только трём людям: владельцу, мистеру Холдену, его управляющему и его сыну Виктору."
+    ],
+    [
+     "The records for the night of the explosion, the letter added, had been lost because of a computer problem.",
+     "Записи за ночь взрыва, говорилось далее в письме, были потеряны из-за компьютерной неполадки."
+    ]
+   ]
+  },
+  {
+   "en": "“Lost,” Grant repeated when she showed him the letter. He laughed. “Clara, you're going crazy. You want to accuse the son of one of the richest men in the city because a wire looks too neat? Do you know what impact that would have on our firm? Halden could take legal action against us tomorrow.” “Your job is to obey, not to play detective. Stay away from the Haldens and take the deal.”",
+   "ru": "«Потеряны», — повторил Грант, когда она показала ему письмо. Он рассмеялся. «Клара, ты сходишь с ума. Ты хочешь обвинить сына одного из самых богатых людей в городе, потому что провод выглядит слишком аккуратно? Ты знаешь, какое влияние это окажет на нашу фирму? Холден завтра же может подать на нас в суд». «Твоя работа — подчиняться, а не играть в детектива. Держись подальше от Холденов и соглашайся на сделку».",
+   "s": [
+    [
+     "“Lost,” Grant repeated when she showed him the letter.",
+     "«Потеряны», — повторил Грант, когда она показала ему письмо."
+    ],
+    [
+     "He laughed.",
+     "Он рассмеялся."
+    ],
+    [
+     "“Clara, you're going crazy.",
+     "«Клара, ты сходишь с ума."
+    ],
+    [
+     "You want to accuse the son of one of the richest men in the city because a wire looks too neat?",
+     "Ты хочешь обвинить сына одного из самых богатых людей в городе, потому что провод выглядит слишком аккуратно?"
+    ],
+    [
+     "Do you know what impact that would have on our firm?",
+     "Ты знаешь, какое влияние это окажет на нашу фирму?"
+    ],
+    [
+     "Halden could take legal action against us tomorrow.”",
+     "Холден завтра же может подать на нас в суд»."
+    ],
+    [
+     "“Your job is to obey, not to play detective.",
+     "«Твоя работа — подчиняться, а не играть в детектива."
+    ],
+    [
+     "Stay away from the Haldens and take the deal.”",
+     "Держись подальше от Холденов и соглашайся на сделку»."
+    ]
+   ]
+  },
+  {
+   "en": "“I don't want to offend you,” Clara said carefully, “but my client is innocent, and I'm going to prove it.” Grant stared at her. “Then you'll lose alone,” he said, and left. She sat under her lamp until midnight, reading every page of the file again. Her real hope was not the gate or the wire. It was a single line in Daniel's statement to the police: “I received a phone call about a family emergency.” Nothing more. Later Daniel had told the whole story only to his lawyers, not even to his sister.",
+   "ru": "«Я не хочу вас обидеть, — осторожно сказала Клара, — но мой клиент невиновен, и я собираюсь это доказать». Грант уставился на неё. «Тогда проиграешь в одиночку», — сказал он и ушёл. Она сидела под лампой до полуночи, перечитывая каждую страницу дела. Её настоящей надеждой были не ворота и не провод. Это была одна-единственная строчка в показаниях Дэниела полиции: «Мне позвонили по поводу срочного семейного дела». И больше ничего. Позже Дэниел рассказал всю историю только своим адвокатам, даже не сестре.",
+   "s": [
+    [
+     "“I don't want to offend you,” Clara said carefully, “but my client is innocent, and I'm going to prove it.”",
+     "«Я не хочу вас обидеть, — осторожно сказала Клара, — но мой клиент невиновен, и я собираюсь это доказать»."
+    ],
+    [
+     "Grant stared at her.",
+     "Грант уставился на неё."
+    ],
+    [
+     "“Then you'll lose alone,” he said, and left.",
+     "«Тогда проиграешь в одиночку», — сказал он и ушёл."
+    ],
+    [
+     "She sat under her lamp until midnight, reading every page of the file again.",
+     "Она сидела под лампой до полуночи, перечитывая каждую страницу дела."
+    ],
+    [
+     "Her real hope was not the gate or the wire.",
+     "Её настоящей надеждой были не ворота и не провод."
+    ],
+    [
+     "It was a single line in Daniel's statement to the police: “I received a phone call about a family emergency.”",
+     "Это была одна-единственная строчка в показаниях Дэниела полиции: «Мне позвонили по поводу срочного семейного дела»."
+    ],
+    [
+     "Nothing more.",
+     "И больше ничего."
+    ],
+    [
+     "Later Daniel had told the whole story only to his lawyers, not even to his sister.",
+     "Позже Дэниел рассказал всю историю только своим адвокатам, даже не сестре."
+    ]
+   ]
+  },
+  {
+   "en": "The trial began on a grey Monday, with heavy clouds over the city. The prosecutor, Mr. Ford, was a calm, experienced man who spoke to the jury as if they were old friends. He showed them photos of the black cloud of smoke above the river and held up the small plastic bag with the cigarette in it. “The defendant left his post,” he said. “His carelessness caused harm worth eleven million dollars. These are the facts.”",
+   "ru": "Суд начался в серый понедельник, когда над городом висели тяжёлые тучи. Прокурор, мистер Форд, был спокойным, опытным человеком, который разговаривал с присяжными, словно со старыми друзьями. Он показал им фотографии чёрного облака дыма над рекой и поднял маленький пластиковый пакет с сигаретой. «Подсудимый покинул свой пост, — сказал он. Его небрежность причинила вред на одиннадцать миллионов долларов. Таковы факты».",
+   "s": [
+    [
+     "The trial began on a grey Monday, with heavy clouds over the city.",
+     "Суд начался в серый понедельник, когда над городом висели тяжёлые тучи."
+    ],
+    [
+     "The prosecutor, Mr. Ford, was a calm, experienced man who spoke to the jury as if they were old friends.",
+     "Прокурор, мистер Форд, был спокойным, опытным человеком, который разговаривал с присяжными, словно со старыми друзьями."
+    ],
+    [
+     "He showed them photos of the black cloud of smoke above the river and held up the small plastic bag with the cigarette in it.",
+     "Он показал им фотографии чёрного облака дыма над рекой и поднял маленький пластиковый пакет с сигаретой."
+    ],
+    [
+     "“The defendant left his post,” he said.",
+     "«Подсудимый покинул свой пост, — сказал он."
+    ],
+    [
+     "“His carelessness caused harm worth eleven million dollars.",
+     "Его небрежность причинила вред на одиннадцать миллионов долларов."
+    ],
+    [
+     "These are the facts.”",
+     "Таковы факты»."
+    ]
+   ]
+  },
+  {
+   "en": "For three days, everything moved in only one direction. A fire expert said the gas pipe had been opened by hand. The factory manager said that Daniel had often seemed tired at work and that anything could distract him. Every evening Clara went home with a headache, and every morning Daniel looked at her with the same quiet faith, as if he had never doubted her for a second.",
+   "ru": "Три дня всё двигалось только в одном направлении. Эксперт по пожарам сказал, что газовую трубу открыли вручную. Управляющий заводом сказал, что Дэниел часто казался усталым на работе и что его могло отвлечь что угодно. Каждый вечер Клара уходила домой с головной болью, а каждое утро Дэниел смотрел на неё с той же тихой верой, словно ни секунды в ней не сомневался.",
+   "s": [
+    [
+     "For three days, everything moved in only one direction.",
+     "Три дня всё двигалось только в одном направлении."
+    ],
+    [
+     "A fire expert said the gas pipe had been opened by hand.",
+     "Эксперт по пожарам сказал, что газовую трубу открыли вручную."
+    ],
+    [
+     "The factory manager said that Daniel had often seemed tired at work and that anything could distract him.",
+     "Управляющий заводом сказал, что Дэниел часто казался усталым на работе и что его могло отвлечь что угодно."
+    ],
+    [
+     "Every evening Clara went home with a headache, and every morning Daniel looked at her with the same quiet faith, as if he had never doubted her for a second.",
+     "Каждый вечер Клара уходила домой с головной болью, а каждое утро Дэниел смотрел на неё с той же тихой верой, словно ни секунды в ней не сомневался."
+    ]
+   ]
+  },
+  {
+   "en": "On the fourth day, Victor Halden was called as a witness. He was handsome, about thirty, in a dark suit and a wide silver tie, and he answered Mr. Ford's questions with polite sadness. Yes, he was going to marry Anna Ross in June. No, he had not been at the factory that night; he had been at home. “I have nothing against Daniel,” he said. “But a guard who leaves his post is a danger to everyone.”",
+   "ru": "На четвёртый день в качестве свидетеля вызвали Виктора Холдена. Он был красив, лет тридцати, в тёмном костюме и широком серебристом галстуке, и отвечал на вопросы мистера Форда с вежливой грустью. Да, в июне он собирался жениться на Анне Росс. Нет, в ту ночь его не было на заводе: он был дома. «Я ничего не имею против Дэниела, — сказал он. Но сторож, который покидает пост, опасен для всех».",
+   "s": [
+    [
+     "On the fourth day, Victor Halden was called as a witness.",
+     "На четвёртый день в качестве свидетеля вызвали Виктора Холдена."
+    ],
+    [
+     "He was handsome, about thirty, in a dark suit and a wide silver tie, and he answered Mr. Ford's questions with polite sadness.",
+     "Он был красив, лет тридцати, в тёмном костюме и широком серебристом галстуке, и отвечал на вопросы мистера Форда с вежливой грустью."
+    ],
+    [
+     "Yes, he was going to marry Anna Ross in June.",
+     "Да, в июне он собирался жениться на Анне Росс."
+    ],
+    [
+     "No, he had not been at the factory that night; he had been at home.",
+     "Нет, в ту ночь его не было на заводе: он был дома."
+    ],
+    [
+     "“I have nothing against Daniel,” he said.",
+     "«Я ничего не имею против Дэниела, — сказал он."
+    ],
+    [
+     "“But a guard who leaves his post is a danger to everyone.”",
+     "Но сторож, который покидает пост, опасен для всех»."
+    ]
+   ]
+  },
+  {
+   "en": "Then it was Clara's turn. Her hands were shaking, so she held them behind her back and took a long breath. “Mr. Halden, you have a key card for the river gate, don't you?” “Like my father, yes. But I never use it.” “The records for that night were lost. Isn't that strange?” “Computers break,” Victor said with a smile.",
+   "ru": "Потом настала очередь Клары. Руки у неё дрожали, поэтому она спрятала их за спину и сделала долгий вдох. «Мистер Холден, у вас ведь есть ключ-карта от речных ворот, не так ли?» «Как и у моего отца, да. Но я никогда ею не пользуюсь». «Записи за ту ночь пропали. Разве это не странно?» «Компьютеры ломаются», — с улыбкой сказал Виктор.",
+   "s": [
+    [
+     "Then it was Clara's turn.",
+     "Потом настала очередь Клары."
+    ],
+    [
+     "Her hands were shaking, so she held them behind her back and took a long breath.",
+     "Руки у неё дрожали, поэтому она спрятала их за спину и сделала долгий вдох."
+    ],
+    [
+     "“Mr. Halden, you have a key card for the river gate, don't you?”",
+     "«Мистер Холден, у вас ведь есть ключ-карта от речных ворот, не так ли?»"
+    ],
+    [
+     "“Like my father, yes.",
+     "«Как и у моего отца, да."
+    ],
+    [
+     "But I never use it.”",
+     "Но я никогда ею не пользуюсь»."
+    ],
+    [
+     "“The records for that night were lost.",
+     "«Записи за ту ночь пропали."
+    ],
+    [
+     "Isn't that strange?”",
+     "Разве это не странно?»"
+    ],
+    [
+     "“Computers break,” Victor said with a smile.",
+     "«Компьютеры ломаются», — с улыбкой сказал Виктор."
+    ]
+   ]
+  },
+  {
+   "en": "The gate and the wire were only a distraction, and she needed Victor to believe they were her main attack. So she asked about them again and again, until he began to look bored and a bit too relaxed. Then she suddenly changed direction. “You said you have nothing against my client. Do you know why he left his post that night?”",
+   "ru": "Ворота и провод были лишь отвлечением, и ей нужно было, чтобы Виктор поверил, что это её главная атака. Поэтому она снова и снова спрашивала о них, пока он не начал выглядеть скучающим и немного слишком расслабленным. Тогда она внезапно сменила направление. «Вы сказали, что ничего не имеете против моего клиента. Вы знаете, почему он покинул пост в ту ночь?»",
+   "s": [
+    [
+     "The gate and the wire were only a distraction, and she needed Victor to believe they were her main attack.",
+     "Ворота и провод были лишь отвлечением, и ей нужно было, чтобы Виктор поверил, что это её главная атака."
+    ],
+    [
+     "So she asked about them again and again, until he began to look bored and a bit too relaxed.",
+     "Поэтому она снова и снова спрашивала о них, пока он не начал выглядеть скучающим и немного слишком расслабленным."
+    ],
+    [
+     "Then she suddenly changed direction.",
+     "Тогда она внезапно сменила направление."
+    ],
+    [
+     "“You said you have nothing against my client.",
+     "«Вы сказали, что ничего не имеете против моего клиента."
+    ],
+    [
+     "Do you know why he left his post that night?”",
+     "Вы знаете, почему он покинул пост в ту ночь?»"
+    ]
+   ]
+  },
+  {
+   "en": "“Everybody knows,” Victor said, shaking his head. “His nanny phoned and told him his daughter couldn't breathe. Look, I understand that he loves the child. But that doesn't change the value of what was lost.”",
+   "ru": "«Все знают», — сказал Виктор, покачав головой. «Ему позвонила няня и сказала, что его дочь не может дышать. Послушайте, я понимаю, что он любит ребёнка. Но это не меняет ценности того, что было потеряно».",
+   "s": [
+    [
+     "“Everybody knows,” Victor said, shaking his head.",
+     "«Все знают», — сказал Виктор, покачав головой."
+    ],
+    [
+     "“His nanny phoned and told him his daughter couldn't breathe.",
+     "«Ему позвонила няня и сказала, что его дочь не может дышать."
+    ],
+    [
+     "Look, I understand that he loves the child.",
+     "Послушайте, я понимаю, что он любит ребёнка."
+    ],
+    [
+     "But that doesn't change the value of what was lost.”",
+     "Но это не меняет ценности того, что было потеряно»."
+    ]
+   ]
+  },
+  {
+   "en": "The room went silent. Clara let the silence continue for a few seconds; she wanted the jury to feel it. “Mr. Halden,” she said quietly, “the police statement says only that my client received a phone call about a family emergency. It doesn't mention a nanny. It doesn't mention his daughter or her breathing. Those details have never been mentioned in this courtroom, in any newspaper or in any document. So how do you know them?”",
+   "ru": "В зале стало тихо. Клара дала тишине продлиться несколько секунд: она хотела, чтобы присяжные её почувствовали. «Мистер Холден, — тихо сказала она, — в полицейском протоколе сказано только, что моему клиенту позвонили по срочному семейному делу. Там не упоминается няня. Там не упоминаются ни его дочь, ни её дыхание. Эти подробности ни разу не упоминались ни в этом зале суда, ни в одной газете, ни в одном документе. Так откуда вы их знаете?»",
+   "s": [
+    [
+     "The room went silent.",
+     "В зале стало тихо."
+    ],
+    [
+     "Clara let the silence continue for a few seconds; she wanted the jury to feel it.",
+     "Клара дала тишине продлиться несколько секунд: она хотела, чтобы присяжные её почувствовали."
+    ],
+    [
+     "“Mr. Halden,” she said quietly, “the police statement says only that my client received a phone call about a family emergency.",
+     "«Мистер Холден, — тихо сказала она, — в полицейском протоколе сказано только, что моему клиенту позвонили по срочному семейному делу."
+    ],
+    [
+     "It doesn't mention a nanny.",
+     "Там не упоминается няня."
+    ],
+    [
+     "It doesn't mention his daughter or her breathing.",
+     "Там не упоминаются ни его дочь, ни её дыхание."
+    ],
+    [
+     "Those details have never been mentioned in this courtroom, in any newspaper or in any document.",
+     "Эти подробности ни разу не упоминались ни в этом зале суда, ни в одной газете, ни в одном документе."
+    ],
+    [
+     "So how do you know them?”",
+     "Так откуда вы их знаете?»"
+    ]
+   ]
+  },
+  {
+   "en": "Victor opened his mouth, then closed it. “Anna told me,” he said at last. “Anna was in Spain that week,” Clara said. “She learned about the arrest from the news, and her brother hasn't spoken to her about the call. She is sitting behind you, if you'd like to ask her.” Anna Ross was sitting in the third row, and her face was white. Slowly, without a word, she shook her head.",
+   "ru": "Виктор открыл рот, потом закрыл его. «Мне сказала Анна», — произнёс он наконец. «Анна на той неделе была в Испании, — сказала Клара. Она узнала об аресте из новостей, а её брат не говорил с ней о звонке. Она сидит позади вас, если хотите её спросить». Анна Росс сидела в третьем ряду, и лицо у неё было белым. Медленно, без единого слова, она покачала головой.",
+   "s": [
+    [
+     "Victor opened his mouth, then closed it.",
+     "Виктор открыл рот, потом закрыл его."
+    ],
+    [
+     "“Anna told me,” he said at last.",
+     "«Мне сказала Анна», — произнёс он наконец."
+    ],
+    [
+     "“Anna was in Spain that week,” Clara said.",
+     "«Анна на той неделе была в Испании, — сказала Клара."
+    ],
+    [
+     "“She learned about the arrest from the news, and her brother hasn't spoken to her about the call.",
+     "Она узнала об аресте из новостей, а её брат не говорил с ней о звонке."
+    ],
+    [
+     "She is sitting behind you, if you'd like to ask her.”",
+     "Она сидит позади вас, если хотите её спросить»."
+    ],
+    [
+     "Anna Ross was sitting in the third row, and her face was white.",
+     "Анна Росс сидела в третьем ряду, и лицо у неё было белым."
+    ],
+    [
+     "Slowly, without a word, she shook her head.",
+     "Медленно, без единого слова, она покачала головой."
+    ]
+   ]
+  },
+  {
+   "en": "Mr. Ford objected, and the judge called both lawyers to her desk. But the impact on the jury could not be undone. Clara said it was necessary to stop the trial until the police had checked the number of the mysterious call and the missing records, and the judge agreed. Within two weeks, a technician discovered that the key-card data had not been lost at all. They had been deleted from a computer in Victor's office, but a copy still existed on the security company's server. At 1:56 that night, Victor's card had opened the river gate.",
+   "ru": "Мистер Форд заявил протест, и судья подозвала обоих юристов к своему столу. Но произведённое на присяжных впечатление уже нельзя было отменить. Клара сказала, что необходимо приостановить процесс, пока полиция не проверит номер таинственного звонка и пропавшие записи, и судья согласилась. Через две недели технический специалист обнаружил, что данные ключ-карт вовсе не пропадали. Их удалили с компьютера в кабинете Виктора, но копия всё ещё хранилась на сервере охранной компании. В 1:56 той ночью карта Виктора открыла речные ворота.",
+   "s": [
+    [
+     "Mr. Ford objected, and the judge called both lawyers to her desk.",
+     "Мистер Форд заявил протест, и судья подозвала обоих юристов к своему столу."
+    ],
+    [
+     "But the impact on the jury could not be undone.",
+     "Но произведённое на присяжных впечатление уже нельзя было отменить."
+    ],
+    [
+     "Clara said it was necessary to stop the trial until the police had checked the number of the mysterious call and the missing records, and the judge agreed.",
+     "Клара сказала, что необходимо приостановить процесс, пока полиция не проверит номер таинственного звонка и пропавшие записи, и судья согласилась."
+    ],
+    [
+     "Within two weeks, a technician discovered that the key-card data had not been lost at all.",
+     "Через две недели технический специалист обнаружил, что данные ключ-карт вовсе не пропадали."
+    ],
+    [
+     "They had been deleted from a computer in Victor's office, but a copy still existed on the security company's server.",
+     "Их удалили с компьютера в кабинете Виктора, но копия всё ещё хранилась на сервере охранной компании."
+    ],
+    [
+     "At 1:56 that night, Victor's card had opened the river gate.",
+     "В 1:56 той ночью карта Виктора открыла речные ворота."
+    ]
+   ]
+  },
+  {
+   "en": "The factory had been losing money for years, and Victor needed the insurance to hide his own bad investments. He had chosen a night when only one guard was on duty, and he had made sure that the guard would be far away. He had bought a cheap phone and paid a woman he knew to pretend to be the nanny.",
+   "ru": "Завод уже много лет терял деньги, а Виктору нужна была страховка, чтобы скрыть собственные неудачные вложения. Он выбрал ночь, когда дежурил только один сторож, и позаботился о том, чтобы этот сторож оказался далеко. Он купил дешёвый телефон и заплатил знакомой женщине, чтобы она притворилась няней.",
+   "s": [
+    [
+     "The factory had been losing money for years, and Victor needed the insurance to hide his own bad investments.",
+     "Завод уже много лет терял деньги, а Виктору нужна была страховка, чтобы скрыть собственные неудачные вложения."
+    ],
+    [
+     "He had chosen a night when only one guard was on duty, and he had made sure that the guard would be far away.",
+     "Он выбрал ночь, когда дежурил только один сторож, и позаботился о том, чтобы этот сторож оказался далеко."
+    ],
+    [
+     "He had bought a cheap phone and paid a woman he knew to pretend to be the nanny.",
+     "Он купил дешёвый телефон и заплатил знакомой женщине, чтобы она притворилась няней."
+    ]
+   ]
+  },
+  {
+   "en": "All charges against Daniel were dropped on a warm Friday afternoon. Outside the court, Mia ran down the steps and jumped into his arms, and Mrs. Alvarez stood behind them with tears on her cheeks. “You were the only one who believed me,” he said. “Thanks isn't enough. But thanks.”",
+   "ru": "Все обвинения с Дэниела сняли тёплым пятничным днём. Перед зданием суда Миа сбежала по ступенькам и прыгнула ему на руки, а миссис Альварес стояла позади них со слезами на щеках. «Вы были единственной, кто мне поверил, — сказал он. Спасибо — этого мало. Но спасибо».",
+   "s": [
+    [
+     "All charges against Daniel were dropped on a warm Friday afternoon.",
+     "Все обвинения с Дэниела сняли тёплым пятничным днём."
+    ],
+    [
+     "Outside the court, Mia ran down the steps and jumped into his arms, and Mrs. Alvarez stood behind them with tears on her cheeks.",
+     "Перед зданием суда Миа сбежала по ступенькам и прыгнула ему на руки, а миссис Альварес стояла позади них со слезами на щеках."
+    ],
+    [
+     "“You were the only one who believed me,” he said.",
+     "«Вы были единственной, кто мне поверил, — сказал он."
+    ],
+    [
+     "“Thanks isn't enough.",
+     "Спасибо — этого мало."
+    ],
+    [
+     "But thanks.”",
+     "Но спасибо»."
+    ]
+   ]
+  },
+  {
+   "en": "Anna came last. She had cut her hair short and wasn't wearing her ring. “I don't blame you,” she told Clara. “I'd rather know the truth now than discover it after the wedding.” “It will probably take me a long time to believe that.”",
+   "ru": "Анна подошла последней. Она коротко подстриглась и больше не носила кольцо. «Я вас не виню, — сказала она Кларе. Лучше узнать правду сейчас, чем обнаружить её после свадьбы». «Наверное, мне понадобится много времени, чтобы в это поверить».",
+   "s": [
+    [
+     "Anna came last.",
+     "Анна подошла последней."
+    ],
+    [
+     "She had cut her hair short and wasn't wearing her ring.",
+     "Она коротко подстриглась и больше не носила кольцо."
+    ],
+    [
+     "“I don't blame you,” she told Clara.",
+     "«Я вас не виню, — сказала она Кларе."
+    ],
+    [
+     "“I'd rather know the truth now than discover it after the wedding.”",
+     "Лучше узнать правду сейчас, чем обнаружить её после свадьбы»."
+    ],
+    [
+     "“It will probably take me a long time to believe that.”",
+     "«Наверное, мне понадобится много времени, чтобы в это поверить»."
+    ]
+   ]
+  },
+  {
+   "en": "The next Monday, Grant called Clara into his office. A newspaper with her photo on the front page lay on his desk. “Good work,” he said, not quite looking at her. “Of course, I knew from the start that the case had a chance. It was a challenge, and I wanted to see whether you had the ability to deal with it.” Clara smiled politely.",
+   "ru": "В следующий понедельник Грант вызвал Клару к себе в кабинет. На его столе лежала газета с её фотографией на первой полосе. «Хорошая работа», — сказал он, не совсем глядя на неё. «Конечно, я с самого начала знал, что у дела есть шанс. Это было испытание, и я хотел посмотреть, хватит ли у тебя способностей с ним справиться». Клара вежливо улыбнулась.",
+   "s": [
+    [
+     "The next Monday, Grant called Clara into his office.",
+     "В следующий понедельник Грант вызвал Клару к себе в кабинет."
+    ],
+    [
+     "A newspaper with her photo on the front page lay on his desk.",
+     "На его столе лежала газета с её фотографией на первой полосе."
+    ],
+    [
+     "“Good work,” he said, not quite looking at her.",
+     "«Хорошая работа», — сказал он, не совсем глядя на неё."
+    ],
+    [
+     "“Of course, I knew from the start that the case had a chance.",
+     "«Конечно, я с самого начала знал, что у дела есть шанс."
+    ],
+    [
+     "It was a challenge, and I wanted to see whether you had the ability to deal with it.”",
+     "Это было испытание, и я хотел посмотреть, хватит ли у тебя способностей с ним справиться»."
+    ],
+    [
+     "Clara smiled politely.",
+     "Клара вежливо улыбнулась."
+    ]
+   ]
+  },
+  {
+   "en": "She did not mind. The little plant on her desk had survived, and someone had already left a new file next to it, another case that everyone thought was lost. On her way out at nine o'clock, she passed the security guard at the front door. “See you tomorrow, Miss Hayes,” he said. “See you,” she answered, and for the first time in months she walked out into the evening without fear.",
+   "ru": "Она не возражала. Маленькое растение на её столе выжило, а рядом с ним кто-то уже оставил новую папку — ещё одно дело, которое все считали проигранным. Уходя в девять часов, она прошла мимо охранника у входной двери. «До завтра, мисс Хейс», — сказал он. «Увидимся», — ответила она и впервые за много месяцев вышла в вечер без страха.",
+   "s": [
+    [
+     "She did not mind.",
+     "Она не возражала."
+    ],
+    [
+     "The little plant on her desk had survived, and someone had already left a new file next to it, another case that everyone thought was lost.",
+     "Маленькое растение на её столе выжило, а рядом с ним кто-то уже оставил новую папку — ещё одно дело, которое все считали проигранным."
+    ],
+    [
+     "On her way out at nine o'clock, she passed the security guard at the front door.",
+     "Уходя в девять часов, она прошла мимо охранника у входной двери."
+    ],
+    [
+     "“See you tomorrow, Miss Hayes,” he said.",
+     "«До завтра, мисс Хейс», — сказал он."
+    ],
+    [
+     "“See you,” she answered, and for the first time in months she walked out into the evening without fear.",
+     "«Увидимся», — ответила она и впервые за много месяцев вышла в вечер без страха."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "ability": "способность",
+  "about": "о, про",
+  "above": "над",
+  "accept": "принять",
+  "accessible": "доступный",
+  "accuse": "обвинить",
+  "action": "поступок, действие",
+  "added": "добавил",
+  "after": "после",
+  "afternoon": "день, после полудня",
+  "again": "снова",
+  "against": "против",
+  "ago": "назад",
+  "agreed": "согласилась",
+  "all": "весь, все",
+  "almost": "почти",
+  "alone": "один, одна",
+  "along": "вдоль, по",
+  "already": "уже",
+  "although": "хотя",
+  "alvarez": "Альварес (фамилия)",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "anna": "Анна (имя)",
+  "another": "ещё один",
+  "answer": "ответ; отвечать",
+  "answered": "ответил",
+  "any": "любой",
+  "anyone": "кто-нибудь",
+  "anything": "что угодно",
+  "apron": "фартук",
+  "are": "есть, являются",
+  "arms": "руки",
+  "arrest": "арест",
+  "as": "как",
+  "ask": "спросить",
+  "asked": "спросил(а)",
+  "asleep": "спящий (was asleep — спала)",
+  "asthma": "астма",
+  "at": "в, у, на",
+  "attack": "атака",
+  "away": "прочь, далеко",
+  "back": "назад, обратно",
+  "bad": "плохой",
+  "bag": "сумка",
+  "be": "быть",
+  "because": "потому что",
+  "become": "стать",
+  "bed": "кровать",
+  "beds": "кровати",
+  "been": "был(о)",
+  "before": "перед, до",
+  "began": "начал",
+  "behind": "за, позади",
+  "believe": "верить",
+  "believed": "поверил(а)",
+  "below": "внизу",
+  "big": "большой",
+  "bit": "немного (a bit)",
+  "black": "чёрный",
+  "blame": "обвинить",
+  "blamed": "обвинил",
+  "blue": "синий",
+  "bored": "скучающий",
+  "both": "оба",
+  "bought": "купил",
+  "bowl": "тарелка, миска",
+  "boy": "мальчик",
+  "brag": "хвастаться",
+  "bread": "хлеб",
+  "break": "ломаться",
+  "breath": "вдох, дыхание",
+  "breathe": "дышать",
+  "breathing": "дыхание",
+  "broken": "разбитый",
+  "brother": "брат",
+  "building": "здание",
+  "burnt": "подгоревший",
+  "bus": "автобус",
+  "bushes": "кусты",
+  "but": "но",
+  "by": "у; через (by hand); из-за",
+  "call": "позвонить",
+  "called": "вызвал(и), подозвала",
+  "calm": "спокойный",
+  "came": "пришёл, пришли",
+  "camera": "камера",
+  "cameras": "камеры",
+  "can": "может, можете",
+  "cap": "кепка",
+  "card": "карта",
+  "cards": "карты",
+  "carefully": "осторожно",
+  "carelessness": "небрежность",
+  "case": "дело",
+  "caused": "причинила",
+  "challenge": "испытание",
+  "chance": "шанс",
+  "change": "изменить",
+  "changed": "изменилось; сменила",
+  "charges": "обвинения",
+  "cheap": "дешёвый",
+  "checked": "проверил",
+  "cheeks": "щёки",
+  "child": "ребёнок",
+  "chosen": "выбрал",
+  "cigarette": "сигарета",
+  "cinnamon": "корица",
+  "city": "город",
+  "clara": "Клара (имя)",
+  "clara's": "Клары",
+  "clean": "ровный, чистый",
+  "client": "клиент",
+  "closed": "закрыт",
+  "cloud": "облако",
+  "clouds": "облака",
+  "cold": "холодный",
+  "come": "приезжать, приходить",
+  "company": "компания",
+  "company's": "компании",
+  "computer": "компьютер",
+  "computers": "компьютеры",
+  "constantly": "постоянно",
+  "continue": "продолжаться",
+  "copy": "копия",
+  "corner": "угол",
+  "could": "мог(ла)",
+  "couldn't": "не мог",
+  "course": "of course — конечно",
+  "court": "суд",
+  "courtroom": "зал суда",
+  "cozy": "уютный",
+  "crazy": "сумасшедший (go crazy — сходить с ума)",
+  "criminal": "уголовный",
+  "curious": "любопытный",
+  "cut": "резать, перерезать; подстричь",
+  "damage": "ущерб",
+  "danger": "опасность",
+  "daniel": "Дэниел (имя)",
+  "daniel's": "Дэниела",
+  "dark": "тёмный",
+  "data": "данные",
+  "daughter": "дочь",
+  "day": "день",
+  "days": "дни",
+  "deal": "сделка; справиться (deal with)",
+  "defendant": "подсудимый",
+  "defended": "защищала",
+  "deleted": "удалены",
+  "desk": "стол",
+  "destroyed": "уничтожил",
+  "details": "подробности",
+  "detective": "детектив",
+  "did": "(вспом. глагол)",
+  "didn't": "не (прош. вр.)",
+  "direction": "направление",
+  "discover": "обнаружить",
+  "discovered": "обнаружил(а)",
+  "distract": "отвлекать",
+  "distraction": "отвлечение",
+  "do": "(вспом. гл.)",
+  "doctors": "врачи",
+  "document": "документ",
+  "does": "(вспом. гл.)",
+  "doesn't": "не (вспом.)",
+  "dollars": "долларов",
+  "don't": "не (вспом.)",
+  "door": "дверь",
+  "doubted": "сомневался",
+  "down": "вниз",
+  "dropped": "бросил; сняли (обвинения)",
+  "duty": "дежурство (on duty — на дежурстве)",
+  "earlier": "раньше (a year earlier — годом раньше)",
+  "earth": "земля",
+  "eight": "восемь",
+  "eleven": "одиннадцать",
+  "else": "ещё, другой",
+  "emergency": "чрезвычайная ситуация",
+  "enough": "достаточно",
+  "enter": "входить",
+  "even": "даже",
+  "evening": "вечер",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "everybody": "все",
+  "everyone": "все",
+  "everything": "всё",
+  "exams": "экзамены",
+  "existed": "существовала, хранилась",
+  "experienced": "опытный",
+  "expert": "эксперт",
+  "explosion": "взрыв",
+  "eyes": "глаза",
+  "face": "лицо",
+  "factory": "завод",
+  "factory's": "завода",
+  "facts": "факты",
+  "faith": "вера",
+  "family": "семья",
+  "far": "далеко",
+  "father": "отец",
+  "fear": "страх",
+  "feel": "чувствовать",
+  "fell": "упало (fell over — опрокинулось)",
+  "fence": "забор",
+  "few": "несколько",
+  "file": "папка, дело",
+  "final": "выпускной",
+  "fire": "огонь",
+  "firm": "твёрдый",
+  "first": "первый",
+  "fixed": "закреплён",
+  "flat": "квартира",
+  "floors": "этажи",
+  "for": "для, в течение",
+  "ford": "Форд (фамилия)",
+  "ford's": "Форда",
+  "fortunately": "к счастью",
+  "forty": "сорок",
+  "found": "найдена; находил",
+  "fourth": "четвёртый",
+  "friday": "пятница",
+  "friends": "друзья",
+  "from": "из, от",
+  "front": "передний (front page — первая полоса)",
+  "garlic": "чеснок",
+  "gas": "газовый",
+  "gate": "ворота",
+  "gave": "дала",
+  "gets": "получает",
+  "girl": "девочка",
+  "going": "собираться (be going to)",
+  "good": "хороший",
+  "got": "добрались (got home — пришли домой)",
+  "grant": "Грант (фамилия)",
+  "grey": "серый",
+  "guard": "сторож",
+  "guard's": "сторожа",
+  "guilty": "виновный",
+  "had": "имел, (вспом.)",
+  "hair": "волосы",
+  "halden": "Холден (фамилия)",
+  "haldens": "Холдены",
+  "hale": "Хейл (фамилия)",
+  "half": "половина",
+  "hand": "рука",
+  "hands": "руки",
+  "handsome": "красивый",
+  "hanging": "висящий",
+  "happened": "случилось",
+  "hardly": "едва",
+  "harm": "вред",
+  "hasn't": "не (вспом.)",
+  "have": "иметь; (вспом.)",
+  "hayes": "Хейс (фамилия)",
+  "he": "он",
+  "he's": "он (есть)",
+  "head": "голова",
+  "headache": "головная боль",
+  "heard": "слышала",
+  "heavily": "тяжело",
+  "heavy": "тяжёлый",
+  "held": "подняла; спрятала",
+  "help": "помощь",
+  "her": "её, ей",
+  "here": "здесь",
+  "hidden": "скрытый",
+  "hide": "прятать",
+  "high": "высокий",
+  "him": "его, ему",
+  "his": "его",
+  "home": "домой",
+  "hope": "надежда",
+  "how": "как",
+  "huge": "огромный",
+  "hut": "будка",
+  "i": "я",
+  "i'd": "я бы",
+  "i'm": "я (есть)",
+  "i've": "я (уже)",
+  "if": "если",
+  "imagine": "представить",
+  "immediately": "немедленно",
+  "impact": "влияние",
+  "in": "в",
+  "innocent": "невиновный",
+  "instead": "вместо этого",
+  "insurance": "страховка",
+  "into": "в",
+  "investments": "вложения",
+  "is": "есть, является",
+  "isn't": "не (есть)",
+  "it": "он, оно, это",
+  "it's": "это",
+  "its": "его, её",
+  "job": "работа",
+  "judge": "судья",
+  "jumped": "прыгнула",
+  "june": "июнь",
+  "junior": "младший",
+  "jury": "присяжные",
+  "key": "ключ",
+  "killed": "убит",
+  "knew": "знал",
+  "knife": "нож",
+  "know": "знать",
+  "knows": "знает",
+  "lamp": "лампа",
+  "landed": "упала",
+  "last": "последний",
+  "later": "позже",
+  "laughed": "рассмеялся",
+  "lawyer": "адвокат, юрист",
+  "lawyers": "адвокаты, юристы",
+  "lay": "лежала",
+  "learned": "узнала",
+  "least": "наименьший (at least — по крайней мере)",
+  "leave": "уйти, оставить",
+  "leaves": "покидает",
+  "left": "покинул; ушёл; осталось; оставил",
+  "legal": "судебный (legal action — иск)",
+  "let": "позволять",
+  "letter": "письмо",
+  "lifted": "подняла",
+  "like": "как",
+  "liked": "нравилось",
+  "line": "строчка",
+  "list": "список",
+  "little": "маленький, немного",
+  "lived": "жила, жили",
+  "long": "долго, долгий",
+  "look": "смотреть",
+  "looked": "посмотрел(а); выглядел",
+  "looking": "глядя",
+  "looks": "выглядит",
+  "lose": "проиграть",
+  "losing": "проигрывать; терять",
+  "lost": "проигранный; потерянный",
+  "loves": "любит",
+  "low": "низкий",
+  "lying": "лгать",
+  "made": "сделал; сделанный",
+  "main": "главный",
+  "man": "мужчина",
+  "manager": "управляющий",
+  "map": "карта",
+  "mark": "отметка",
+  "marry": "жениться",
+  "me": "меня, мне",
+  "meant": "значило",
+  "men": "мужчины",
+  "mention": "упоминать",
+  "mentioned": "упоминались",
+  "mia": "Миа (имя)",
+  "mia's": "Мии",
+  "midnight": "полночь",
+  "million": "миллион",
+  "mind": "возражать (did not mind)",
+  "minutes": "минуты",
+  "miss": "мисс (обращение)",
+  "missing": "пропавший",
+  "monday": "понедельник",
+  "money": "деньги",
+  "months": "месяцы",
+  "more": "больше",
+  "morning": "утро",
+  "mouth": "рот",
+  "move": "двигаться",
+  "moved": "двигалось",
+  "mr": "мистер",
+  "mrs": "миссис",
+  "much": "так же (as much as)",
+  "my": "мой",
+  "mysterious": "таинственный",
+  "nanny": "няня",
+  "narrow": "узкий",
+  "near": "около",
+  "neat": "аккуратный",
+  "neatly": "аккуратно",
+  "necessary": "необходимо",
+  "needed": "нуждался",
+  "never": "никогда",
+  "new": "новый",
+  "news": "новости",
+  "newspaper": "газета",
+  "next": "следующий",
+  "night": "ночь",
+  "nine": "девять",
+  "no": "нет, никакой",
+  "nobody": "никто",
+  "not": "не",
+  "nothing": "ничего",
+  "noticed": "заметила",
+  "now": "теперь",
+  "number": "номер",
+  "o'clock": "часов",
+  "obey": "подчиняться",
+  "objected": "заявил протест",
+  "of": "из, о, (род. падеж)",
+  "offend": "обидеть",
+  "office": "офис",
+  "often": "часто",
+  "old": "старый",
+  "on": "на",
+  "once": "однажды",
+  "one": "один",
+  "only": "только",
+  "open": "открытый",
+  "opened": "открыл",
+  "or": "или",
+  "other": "другой",
+  "our": "наш",
+  "out": "наружу",
+  "outside": "снаружи",
+  "over": "над; (fell over — опрокинуться)",
+  "own": "собственный",
+  "owner": "владелец",
+  "page": "страница",
+  "paid": "заплатил",
+  "paint": "краска",
+  "passed": "сдала; прошла мимо",
+  "passes": "проходит",
+  "pencil": "карандаш",
+  "people": "люди",
+  "permission": "разрешение",
+  "phone": "телефон",
+  "phoned": "позвонила",
+  "photo": "фотография",
+  "photos": "фотографии",
+  "piece": "кусок",
+  "pipe": "труба",
+  "place": "место",
+  "plant": "растение",
+  "plastic": "пластиковый",
+  "play": "играть",
+  "police": "полиция",
+  "polite": "вежливый",
+  "politely": "вежливо",
+  "post": "пост",
+  "present": "подарок",
+  "pretend": "притворяться",
+  "prison": "тюрьма",
+  "probably": "наверное",
+  "problem": "проблема",
+  "prosecution": "обвинение",
+  "prosecutor": "прокурор",
+  "prove": "доказать",
+  "put": "положил",
+  "questions": "вопросы",
+  "quiet": "тихий",
+  "quietly": "тихо",
+  "quite": "совсем",
+  "ran": "побежал",
+  "rang": "зазвонил",
+  "rather": "скорее, лучше (would rather — лучше бы)",
+  "reader": "считыватель",
+  "reading": "перечитывая",
+  "real": "настоящий",
+  "reasons": "поводы, причины",
+  "received": "получил",
+  "recorded": "записала",
+  "records": "записи",
+  "refused": "отказался",
+  "relative": "родственник",
+  "relaxed": "расслабленный",
+  "repeated": "повторил",
+  "replaced": "сменился, заменён",
+  "report": "отчёт",
+  "rich": "богатый",
+  "richest": "самый богатый",
+  "ring": "кольцо",
+  "river": "река",
+  "room": "комната",
+  "ross": "Росс (фамилия)",
+  "row": "ряд",
+  "running": "выбегающий",
+  "sadness": "грусть",
+  "said": "сказал(а)",
+  "same": "тот же",
+  "sat": "сидел(а)",
+  "say": "сказать",
+  "says": "говорит",
+  "school": "школа",
+  "second": "секунда; второй",
+  "seconds": "секунды",
+  "security": "охрана, охранный",
+  "see": "видеть",
+  "seemed": "казалось",
+  "server": "сервер",
+  "shaken": "дрожала",
+  "shaking": "дрожали; качая",
+  "she": "она",
+  "shook": "покачал(а)",
+  "short": "короткий",
+  "should": "должен",
+  "showed": "показала",
+  "side": "сторона",
+  "silence": "тишина",
+  "silent": "тихий",
+  "silver": "серебристый",
+  "simple": "простой",
+  "since": "с (тех пор как)",
+  "single": "единственный",
+  "sister": "сестра",
+  "sitting": "сидит, сидела",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smelled": "пах",
+  "smile": "улыбка",
+  "smiled": "улыбнулся, улыбнулась",
+  "smoke": "дым; курить",
+  "smoked": "курил",
+  "smokes": "курит",
+  "so": "так, поэтому",
+  "sofa": "диван",
+  "somebody": "кто-то",
+  "someone": "кто-то",
+  "something": "что-то",
+  "sometimes": "иногда",
+  "son": "сын",
+  "soon": "скоро",
+  "soup": "суп",
+  "spain": "Испания",
+  "speak": "говорить",
+  "spoke": "разговаривал",
+  "spoken": "говорил",
+  "spoon": "ложка",
+  "stared": "уставилась",
+  "start": "начало",
+  "starts": "начинается",
+  "statement": "показания, протокол",
+  "stay": "оставаться",
+  "steps": "ступеньки",
+  "still": "всё ещё",
+  "stood": "стоял(а)",
+  "stop": "перестать",
+  "stopped": "остановился; перестали",
+  "storage": "склад (storage building)",
+  "story": "история",
+  "straight": "прямой",
+  "strange": "странный",
+  "suddenly": "внезапно",
+  "suit": "костюм",
+  "sure": "уверенный (make sure — позаботиться)",
+  "survived": "выжило",
+  "take": "взять",
+  "tall": "высокий",
+  "taste": "чувствовать вкус",
+  "tears": "слёзы",
+  "technician": "технический специалист",
+  "tell": "сказать",
+  "ten": "десять",
+  "than": "чем",
+  "thank": "благодарить",
+  "thanks": "спасибо",
+  "that": "что; тот, это",
+  "the": "(артикль)",
+  "their": "их",
+  "them": "их, им",
+  "then": "потом, тогда",
+  "there": "там",
+  "these": "эти",
+  "they": "они",
+  "think": "думать",
+  "thinking": "думать",
+  "thinks": "думает",
+  "third": "третий",
+  "thirty": "тридцать",
+  "this": "этот",
+  "those": "те",
+  "thought": "подумала",
+  "three": "три",
+  "tie": "галстук",
+  "time": "время, раз",
+  "times": "раз",
+  "tired": "усталый",
+  "to": "к, в, (инфинитив)",
+  "told": "сказал",
+  "tomorrow": "завтра",
+  "too": "слишком",
+  "took": "взяла; достала; сделала (took a breath)",
+  "towards": "к, по направлению к",
+  "trial": "суд, судебный процесс",
+  "tried": "попробовала",
+  "truth": "правда",
+  "turn": "очередь",
+  "twenty": "двадцать",
+  "two": "два",
+  "under": "под",
+  "understand": "понимать",
+  "undone": "отменено, исправлено",
+  "until": "пока не, до",
+  "up": "вверх",
+  "us": "нам",
+  "use": "пользоваться",
+  "value": "ценность",
+  "vanished": "исчезла",
+  "victor": "Виктор (имя)",
+  "victor's": "Виктора",
+  "visited": "навестила",
+  "voice": "голос",
+  "waiting": "ждал",
+  "walked": "пошла, вышла",
+  "want": "хотеть",
+  "wanted": "хотел",
+  "warm": "тёплый",
+  "was": "был(а)",
+  "wasn't": "не был",
+  "water": "вода",
+  "way": "способ, так",
+  "we": "мы",
+  "wearing": "носила",
+  "wedding": "свадьба",
+  "week": "неделя",
+  "weeks": "недели",
+  "went": "пошла, уходила; стало (went silent)",
+  "were": "были",
+  "what": "что",
+  "when": "когда",
+  "whether": "ли",
+  "white": "белый",
+  "who": "кто, который",
+  "whole": "весь",
+  "why": "почему",
+  "wide": "широкий",
+  "will": "(буд. время)",
+  "win": "выиграть",
+  "wiped": "вытерла",
+  "wire": "провод",
+  "wires": "провода",
+  "with": "с",
+  "within": "в течение, через",
+  "without": "без",
+  "witness": "свидетель",
+  "woman": "женщина",
+  "won": "выиграл",
+  "word": "слово",
+  "work": "работа",
+  "working": "работать",
+  "worth": "стоимостью, на сумму",
+  "would": "бы; (буд. в прошедшем)",
+  "year": "год",
+  "years": "лет, годы",
+  "yes": "да",
+  "you": "ты, вы",
+  "you'd": "вы бы (you would)",
+  "you'll": "ты будешь (you will)",
+  "you're": "ты (есть)",
+  "your": "твой, ваш"
+ },
+ "vocab": {
+  "there": 2,
+  "thanks": 12,
+  "nanny": 22,
+  "outside": 32,
+  "see": 42,
+  "you": 42,
+  "taste": 52,
+  "enter": 62,
+  "cap": 72,
+  "earth": 82,
+  "cut": 92,
+  "lamp": 102,
+  "factory": 112,
+  "factory's": 112,
+  "cloud": 122,
+  "clouds": 122,
+  "accessible": 132,
+  "gate": 142,
+  "move": 152,
+  "moved": 152,
+  "should": 162,
+  "crazy": 172,
+  "warm": 182,
+  "tears": 192,
+  "something": 202,
+  "piece": 213,
+  "passed": 223,
+  "passes": 223,
+  "necessary": 233,
+  "stay": 243,
+  "ability": 253,
+  "prove": 263,
+  "fear": 273,
+  "marry": 283,
+  "low": 294,
+  "wide": 304,
+  "map": 314,
+  "almost": 324,
+  "fortunately": 334,
+  "obey": 344,
+  "breathe": 354,
+  "challenge": 364,
+  "discover": 374,
+  "discovered": 374,
+  "cozy": 384,
+  "lifted": 402,
+  "bit": 412,
+  "probably": 422,
+  "immediately": 433,
+  "blame": 445,
+  "blamed": 445,
+  "breath": 460,
+  "distraction": 472,
+  "action": 483,
+  "curious": 494,
+  "value": 504,
+  "vanished": 515,
+  "explosion": 526,
+  "faith": 536,
+  "mark": 547,
+  "plant": 557,
+  "relative": 568,
+  "constantly": 578,
+  "impact": 589,
+  "spoon": 599,
+  "harm": 610,
+  "distract": 620,
+  "offend": 631,
+  "brag": 642
+ }
+}

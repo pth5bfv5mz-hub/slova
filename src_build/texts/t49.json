@@ -1,0 +1,1411 @@
+{
+ "id": 49,
+ "level": "B1",
+ "title_en": "The Needle and the Drawings",
+ "title_ru": "Стрелка и рисунки",
+ "genre": "Детектив",
+ "summary_ru": "Эксперт страховой компании обнаруживает, что знаменитый золотой компас в деревенском морском музее — подделка, и инспектору нужно выяснить не только кто его подменил, но и когда.",
+ "paragraphs": [
+  {
+   "en": "The Fennick Maritime Museum was small, cold and almost always empty. It stood at the end of the harbour in the fishing village of Fennick, in an old stone building that smelled of salt and wet wood. It had ropes, maps, a few model ships and a lot of old photographs of men with beards. But people did not come for those. They came for the compass.",
+   "ru": "Морской музей Фенника был маленьким, холодным и почти всегда пустым. Он стоял в конце гавани в рыбацкой деревне Фенник, в старом каменном здании, которое пахло солью и мокрым деревом. Там были канаты, карты, несколько моделей кораблей и множество старых фотографий бородатых мужчин. Но люди приходили не ради них. Они приходили ради компаса.",
+   "s": [
+    [
+     "The Fennick Maritime Museum was small, cold and almost always empty.",
+     "Морской музей Фенника был маленьким, холодным и почти всегда пустым."
+    ],
+    [
+     "It stood at the end of the harbour in the fishing village of Fennick, in an old stone building that smelled of salt and wet wood.",
+     "Он стоял в конце гавани в рыбацкой деревне Фенник, в старом каменном здании, которое пахло солью и мокрым деревом."
+    ],
+    [
+     "It had ropes, maps, a few model ships and a lot of old photographs of men with beards.",
+     "Там были канаты, карты, несколько моделей кораблей и множество старых фотографий бородатых мужчин."
+    ],
+    [
+     "But people did not come for those.",
+     "Но люди приходили не ради них."
+    ],
+    [
+     "They came for the compass.",
+     "Они приходили ради компаса."
+    ]
+   ]
+  },
+  {
+   "en": "The Fennick Compass was made of gold, and it was the size of a large orange. In 1871 it had guided the ship Alba Rose home from a three-year journey to the other side of the world. The ship had brought back a fortune in silk and tea, and the captain, who had been born in the village, had given the compass to Fennick as a thank-you. For more than a hundred and fifty years it had sat in a glass case in the middle of the main room.",
+   "ru": "Компас Фенника был сделан из золота и размером с большой апельсин. В 1871 году он привёл корабль «Альба Роуз» домой из трёхлетнего путешествия на другой конец света. Корабль привёз целое состояние в шёлке и чае, и капитан, родившийся в этой деревне, подарил компас Феннику в знак благодарности. Больше ста пятидесяти лет он лежал в стеклянной витрине посреди главного зала.",
+   "s": [
+    [
+     "The Fennick Compass was made of gold, and it was the size of a large orange.",
+     "Компас Фенника был сделан из золота и размером с большой апельсин."
+    ],
+    [
+     "In 1871 it had guided the ship Alba Rose home from a three-year journey to the other side of the world.",
+     "В 1871 году он привёл корабль «Альба Роуз» домой из трёхлетнего путешествия на другой конец света."
+    ],
+    [
+     "The ship had brought back a fortune in silk and tea, and the captain, who had been born in the village, had given the compass to Fennick as a thank-you.",
+     "Корабль привёз целое состояние в шёлке и чае, и капитан, родившийся в этой деревне, подарил компас Феннику в знак благодарности."
+    ],
+    [
+     "For more than a hundred and fifty years it had sat in a glass case in the middle of the main room.",
+     "Больше ста пятидесяти лет он лежал в стеклянной витрине посреди главного зала."
+    ]
+   ]
+  },
+  {
+   "en": "On a wet Monday in November, Inspector Josie Talbot was sent from the town to look at it. The museum's director, Maureen Penhale, met her at the door. She was a thin woman of about sixty, and she looked as if she had barely slept. \"Thank you for coming,\" she said. \"I'm sorry. I don't know what else to do.\"",
+   "ru": "Дождливым понедельником в ноябре инспектора Джози Толбот прислали из города, чтобы взглянуть на него. Директор музея, Морин Пенхейл, встретила её у дверей. Это была худая женщина лет шестидесяти, и выглядела она так, будто почти не спала. «Спасибо, что приехали», — сказала она. «Простите. Я не знаю, что ещё делать».",
+   "s": [
+    [
+     "On a wet Monday in November, Inspector Josie Talbot was sent from the town to look at it.",
+     "Дождливым понедельником в ноябре инспектора Джози Толбот прислали из города, чтобы взглянуть на него."
+    ],
+    [
+     "The museum's director, Maureen Penhale, met her at the door.",
+     "Директор музея, Морин Пенхейл, встретила её у дверей."
+    ],
+    [
+     "She was a thin woman of about sixty, and she looked as if she had barely slept.",
+     "Это была худая женщина лет шестидесяти, и выглядела она так, будто почти не спала."
+    ],
+    [
+     "\"Thank you for coming,\" she said.",
+     "«Спасибо, что приехали», — сказала она."
+    ],
+    [
+     "\"I'm sorry. I don't know what else to do.\"",
+     "«Простите. Я не знаю, что ещё делать»."
+    ]
+   ]
+  },
+  {
+   "en": "Maureen explained quickly. The museum was changing its insurance company, and the new company had sent an expert to check the value of the compass. His name was Dr Lionel Asher, and he was still there, standing next to the glass case with his arms folded. \"It isn't gold,\" he told Josie. \"It's brass with a thin gold surface. It's a very good copy, made by someone who knew what they were doing. But it's a copy.\"",
+   "ru": "Морин быстро всё объяснила. Музей менял страховую компанию, и новая компания прислала эксперта, чтобы оценить стоимость компаса. Его звали доктор Лайонел Ашер, и он всё ещё был там — стоял рядом с витриной, скрестив руки на груди. «Это не золото», — сказал он Джози. «Это латунь с тонким слоем золота. Это очень хорошая копия, сделанная человеком, который знал своё дело. Но это копия».",
+   "s": [
+    [
+     "Maureen explained quickly.",
+     "Морин быстро всё объяснила."
+    ],
+    [
+     "The museum was changing its insurance company, and the new company had sent an expert to check the value of the compass.",
+     "Музей менял страховую компанию, и новая компания прислала эксперта, чтобы оценить стоимость компаса."
+    ],
+    [
+     "His name was Dr Lionel Asher, and he was still there, standing next to the glass case with his arms folded.",
+     "Его звали доктор Лайонел Ашер, и он всё ещё был там — стоял рядом с витриной, скрестив руки на груди."
+    ],
+    [
+     "\"It isn't gold,\" he told Josie.",
+     "«Это не золото», — сказал он Джози."
+    ],
+    [
+     "\"It's brass with a thin gold surface.",
+     "«Это латунь с тонким слоем золота."
+    ],
+    [
+     "It's a very good copy, made by someone who knew what they were doing.",
+     "Это очень хорошая копия, сделанная человеком, который знал своё дело."
+    ],
+    [
+     "But it's a copy.\"",
+     "Но это копия»."
+    ]
+   ]
+  },
+  {
+   "en": "\"So the real one was stolen,\" Josie said. \"Yes. The question is when,\" said Dr Asher. He explained that the old insurance would only pay if the compass had disappeared during the last five years. If it had happened earlier, the museum would get nothing. \"And without that money,\" Maureen said quietly, \"we will have to close.\"",
+   "ru": "«Значит, настоящий украли», — сказала Джози. «Да. Вопрос в том, когда», — сказал доктор Ашер. Он объяснил, что старая страховка заплатит, только если компас исчез за последние пять лет. Если это случилось раньше, музей не получит ничего. «А без этих денег, — тихо сказала Морин, — нам придётся закрыться».",
+   "s": [
+    [
+     "\"So the real one was stolen,\" Josie said.",
+     "«Значит, настоящий украли», — сказала Джози."
+    ],
+    [
+     "\"Yes. The question is when,\" said Dr Asher.",
+     "«Да. Вопрос в том, когда», — сказал доктор Ашер."
+    ],
+    [
+     "He explained that the old insurance would only pay if the compass had disappeared during the last five years.",
+     "Он объяснил, что старая страховка заплатит, только если компас исчез за последние пять лет."
+    ],
+    [
+     "If it had happened earlier, the museum would get nothing.",
+     "Если это случилось раньше, музей не получит ничего."
+    ],
+    [
+     "\"And without that money,\" Maureen said quietly, \"we will have to close.\"",
+     "«А без этих денег, — тихо сказала Морин, — нам придётся закрыться»."
+    ]
+   ]
+  },
+  {
+   "en": "Josie walked slowly around the glass case. The compass looked perfect to her: a heavy golden circle, a white face with the letters N, E, S and W, and a long thin needle pointing at the N. \"Who can open this case?\" she asked. \"Three people have keys,\" Maureen said. \"Me, our guard Tobias, and my assistant Jamie.\"",
+   "ru": "Джози медленно обошла витрину. Компас показался ей безупречным: тяжёлый золотой круг, белый циферблат с буквами N, E, S и W и длинная тонкая стрелка, указывающая на N. «Кто может открыть эту витрину?» — спросила она. «Ключи есть у трёх человек, — ответила Морин. — У меня, у нашего охранника Тобиаса и у моего помощника Джейми».",
+   "s": [
+    [
+     "Josie walked slowly around the glass case.",
+     "Джози медленно обошла витрину."
+    ],
+    [
+     "The compass looked perfect to her: a heavy golden circle, a white face with the letters N, E, S and W, and a long thin needle pointing at the N.",
+     "Компас показался ей безупречным: тяжёлый золотой круг, белый циферблат с буквами N, E, S и W и длинная тонкая стрелка, указывающая на N."
+    ],
+    [
+     "\"Who can open this case?\" she asked.",
+     "«Кто может открыть эту витрину?» — спросила она."
+    ],
+    [
+     "\"Three people have keys,\" Maureen said.",
+     "«Ключи есть у трёх человек, — ответила Морин."
+    ],
+    [
+     "\"Me, our guard Tobias, and my assistant Jamie.\"",
+     "— У меня, у нашего охранника Тобиаса и у моего помощника Джейми»."
+    ]
+   ]
+  },
+  {
+   "en": "Then Maureen lowered her voice. \"Jamie started working here two years ago. He's from the city. Every Monday he opens the case to wash the glass on the inside, so he's alone with the compass for half an hour every week. I don't want to accuse anybody, but...\" She did not finish the sentence. She did not need to.",
+   "ru": "Затем Морин понизила голос. «Джейми начал работать здесь два года назад. Он из города. Каждый понедельник он открывает витрину, чтобы вымыть стекло изнутри, так что каждую неделю он полчаса остаётся с компасом один на один. Я не хочу никого обвинять, но...» Она не закончила фразу. В этом не было необходимости.",
+   "s": [
+    [
+     "Then Maureen lowered her voice.",
+     "Затем Морин понизила голос."
+    ],
+    [
+     "\"Jamie started working here two years ago.",
+     "«Джейми начал работать здесь два года назад."
+    ],
+    [
+     "He's from the city.",
+     "Он из города."
+    ],
+    [
+     "Every Monday he opens the case to wash the glass on the inside, so he's alone with the compass for half an hour every week.",
+     "Каждый понедельник он открывает витрину, чтобы вымыть стекло изнутри, так что каждую неделю он полчаса остаётся с компасом один на один."
+    ],
+    [
+     "I don't want to accuse anybody, but...\"",
+     "Я не хочу никого обвинять, но...»"
+    ],
+    [
+     "She did not finish the sentence.",
+     "Она не закончила фразу."
+    ],
+    [
+     "She did not need to.",
+     "В этом не было необходимости."
+    ]
+   ]
+  },
+  {
+   "en": "Jamie Ord was twenty-four and very nervous. He was sitting in the little kitchen behind the gift shop with a glass of orange juice that he had not touched. Yes, he washed the glass every Monday. Yes, he was alone. No, he had never noticed anything strange. \"I'm not a thief,\" he said, and his hands were shaking. \"I know what she thinks. But I love this place. I've tried to improve everything here: the lights, the signs, the website. Why would I destroy it?\"",
+   "ru": "Джейми Орду было двадцать четыре года, и он очень нервничал. Он сидел на маленькой кухне за сувенирной лавкой со стаканом апельсинового сока, к которому так и не притронулся. Да, он мыл стекло каждый понедельник. Да, он был один. Нет, ничего странного он никогда не замечал. «Я не вор», — сказал он, и руки у него дрожали. «Я знаю, что она думает. Но я люблю это место. Я старался улучшить здесь всё: свет, таблички, сайт. Зачем мне его губить?»",
+   "s": [
+    [
+     "Jamie Ord was twenty-four and very nervous.",
+     "Джейми Орду было двадцать четыре года, и он очень нервничал."
+    ],
+    [
+     "He was sitting in the little kitchen behind the gift shop with a glass of orange juice that he had not touched.",
+     "Он сидел на маленькой кухне за сувенирной лавкой со стаканом апельсинового сока, к которому так и не притронулся."
+    ],
+    [
+     "Yes, he washed the glass every Monday.",
+     "Да, он мыл стекло каждый понедельник."
+    ],
+    [
+     "Yes, he was alone.",
+     "Да, он был один."
+    ],
+    [
+     "No, he had never noticed anything strange.",
+     "Нет, ничего странного он никогда не замечал."
+    ],
+    [
+     "\"I'm not a thief,\" he said, and his hands were shaking.",
+     "«Я не вор», — сказал он, и руки у него дрожали."
+    ],
+    [
+     "\"I know what she thinks.",
+     "«Я знаю, что она думает."
+    ],
+    [
+     "But I love this place.",
+     "Но я люблю это место."
+    ],
+    [
+     "I've tried to improve everything here: the lights, the signs, the website.",
+     "Я старался улучшить здесь всё: свет, таблички, сайт."
+    ],
+    [
+     "Why would I destroy it?\"",
+     "Зачем мне его губить?»"
+    ]
+   ]
+  },
+  {
+   "en": "Josie had interviewed a lot of guilty people, and Jamie's behaviour did not seem guilty to her. He looked scared, but it was the fear of an honest person who understood how bad things looked. Still, she wrote his name in her notebook.",
+   "ru": "Джози допросила немало виновных людей, и поведение Джейми не показалось ей поведением виновного. Он выглядел испуганным, но это был страх честного человека, который понимал, как плохо всё выглядит. И всё же она записала его имя в блокнот.",
+   "s": [
+    [
+     "Josie had interviewed a lot of guilty people, and Jamie's behaviour did not seem guilty to her.",
+     "Джози допросила немало виновных людей, и поведение Джейми не показалось ей поведением виновного."
+    ],
+    [
+     "He looked scared, but it was the fear of an honest person who understood how bad things looked.",
+     "Он выглядел испуганным, но это был страх честного человека, который понимал, как плохо всё выглядит."
+    ],
+    [
+     "Still, she wrote his name in her notebook.",
+     "И всё же она записала его имя в блокнот."
+    ]
+   ]
+  },
+  {
+   "en": "Tobias Rook was a different kind of witness. He was seventy-three, and he had been a guard at the museum for forty-five years. He rarely spoke, and when he did, he spoke slowly, as if every word cost money. He sat on his usual chair in the corner, from which he could see the compass, and answered her questions without looking at her. \"Nobody has stolen anything while I've been here,\" he said. \"I would have seen it.\"",
+   "ru": "Тобиас Рук был свидетелем другого рода. Ему было семьдесят три, и он работал охранником в музее сорок пять лет. Он редко говорил, а когда говорил, то медленно, словно каждое слово стоило денег. Он сидел на своём обычном стуле в углу, откуда был виден компас, и отвечал на её вопросы, не глядя на неё. «Пока я здесь, никто ничего не крал», — сказал он. «Я бы это увидел».",
+   "s": [
+    [
+     "Tobias Rook was a different kind of witness.",
+     "Тобиас Рук был свидетелем другого рода."
+    ],
+    [
+     "He was seventy-three, and he had been a guard at the museum for forty-five years.",
+     "Ему было семьдесят три, и он работал охранником в музее сорок пять лет."
+    ],
+    [
+     "He rarely spoke, and when he did, he spoke slowly, as if every word cost money.",
+     "Он редко говорил, а когда говорил, то медленно, словно каждое слово стоило денег."
+    ],
+    [
+     "He sat on his usual chair in the corner, from which he could see the compass, and answered her questions without looking at her.",
+     "Он сидел на своём обычном стуле в углу, откуда был виден компас, и отвечал на её вопросы, не глядя на неё."
+    ],
+    [
+     "\"Nobody has stolen anything while I've been here,\" he said.",
+     "«Пока я здесь, никто ничего не крал», — сказал он."
+    ],
+    [
+     "\"I would have seen it.\"",
+     "«Я бы это увидел»."
+    ]
+   ]
+  },
+  {
+   "en": "Josie also took a quiet look at Dr Asher. An expert who discovers a fake is also an expert who could make one. But he had an excellent reputation, and he had come to Fennick for the first time in his life on Friday morning. A copy as good as this one would take months to make. And if he was cunning enough to plan something like that, he was also too cunning to stay and wait for the police.",
+   "ru": "Джози также потихоньку присмотрелась к доктору Ашеру. Эксперт, который обнаруживает подделку, — это и эксперт, который мог бы её сделать. Но у него была прекрасная репутация, и в Фенник он впервые в жизни приехал в пятницу утром. На такую хорошую копию ушли бы месяцы. А если бы он был достаточно хитёр, чтобы спланировать нечто подобное, он был бы и слишком хитёр, чтобы остаться и ждать полицию.",
+   "s": [
+    [
+     "Josie also took a quiet look at Dr Asher.",
+     "Джози также потихоньку присмотрелась к доктору Ашеру."
+    ],
+    [
+     "An expert who discovers a fake is also an expert who could make one.",
+     "Эксперт, который обнаруживает подделку, — это и эксперт, который мог бы её сделать."
+    ],
+    [
+     "But he had an excellent reputation, and he had come to Fennick for the first time in his life on Friday morning.",
+     "Но у него была прекрасная репутация, и в Фенник он впервые в жизни приехал в пятницу утром."
+    ],
+    [
+     "A copy as good as this one would take months to make.",
+     "На такую хорошую копию ушли бы месяцы."
+    ],
+    [
+     "And if he was cunning enough to plan something like that, he was also too cunning to stay and wait for the police.",
+     "А если бы он был достаточно хитёр, чтобы спланировать нечто подобное, он был бы и слишком хитёр, чтобы остаться и ждать полицию."
+    ]
+   ]
+  },
+  {
+   "en": "In the afternoon, while she waited for some phone calls, Josie walked along the corridor that led to the toilets. There she stopped, because she remembered it. The whole wall was covered with children's drawings in cheap wooden frames.",
+   "ru": "Днём, пока она ждала нескольких звонков, Джози пошла по коридору, который вёл к туалетам. Там она остановилась, потому что вспомнила его. Вся стена была увешана детскими рисунками в дешёвых деревянных рамках.",
+   "s": [
+    [
+     "In the afternoon, while she waited for some phone calls, Josie walked along the corridor that led to the toilets.",
+     "Днём, пока она ждала нескольких звонков, Джози пошла по коридору, который вёл к туалетам."
+    ],
+    [
+     "There she stopped, because she remembered it.",
+     "Там она остановилась, потому что вспомнила его."
+    ],
+    [
+     "The whole wall was covered with children's drawings in cheap wooden frames.",
+     "Вся стена была увешана детскими рисунками в дешёвых деревянных рамках."
+    ]
+   ]
+  },
+  {
+   "en": "It was an old tradition. Every year since 1960, the village school had brought its nine-year-olds to the museum, and every child had drawn the famous compass. The museum kept the best drawing from each year and hung it on this wall, with the child's name and the date below it. There were more than sixty of them now.",
+   "ru": "Это была старая традиция. Каждый год с 1960-го деревенская школа приводила в музей своих девятилетних учеников, и каждый ребёнок рисовал знаменитый компас. Музей оставлял себе лучший рисунок каждого года и вешал его на эту стену, а под ним — имя ребёнка и дату. Теперь их было больше шестидесяти.",
+   "s": [
+    [
+     "It was an old tradition.",
+     "Это была старая традиция."
+    ],
+    [
+     "Every year since 1960, the village school had brought its nine-year-olds to the museum, and every child had drawn the famous compass.",
+     "Каждый год с 1960-го деревенская школа приводила в музей своих девятилетних учеников, и каждый ребёнок рисовал знаменитый компас."
+    ],
+    [
+     "The museum kept the best drawing from each year and hung it on this wall, with the child's name and the date below it.",
+     "Музей оставлял себе лучший рисунок каждого года и вешал его на эту стену, а под ним — имя ребёнка и дату."
+    ],
+    [
+     "There were more than sixty of them now.",
+     "Теперь их было больше шестидесяти."
+    ]
+   ]
+  },
+  {
+   "en": "Josie had grown up in Fennick. She had left at eighteen and rarely came back, but at nine she had stood in that main room with a pencil in her hand like everybody else. She walked along the wall until she found the year 1987. And there it was: \"Josephine Talbot, aged 9.\"",
+   "ru": "Джози выросла в Феннике. Она уехала в восемнадцать лет и редко возвращалась, но в девять она, как и все, стояла в том главном зале с карандашом в руке. Она прошла вдоль стены, пока не нашла 1987 год. И вот он: «Джозефина Толбот, 9 лет».",
+   "s": [
+    [
+     "Josie had grown up in Fennick.",
+     "Джози выросла в Феннике."
+    ],
+    [
+     "She had left at eighteen and rarely came back, but at nine she had stood in that main room with a pencil in her hand like everybody else.",
+     "Она уехала в восемнадцать лет и редко возвращалась, но в девять она, как и все, стояла в том главном зале с карандашом в руке."
+    ],
+    [
+     "She walked along the wall until she found the year 1987.",
+     "Она прошла вдоль стены, пока не нашла 1987 год."
+    ],
+    [
+     "And there it was: \"Josephine Talbot, aged 9.\"",
+     "И вот он: «Джозефина Толбот, 9 лет»."
+    ]
+   ]
+  },
+  {
+   "en": "It was a careful, serious drawing, the drawing of a child who wanted to get everything right. She had drawn the golden circle, the four letters and the needle, pointing straight up at the N. And in the corner, in small, worried handwriting, she had written a question: \"Why has the needle moved?\"",
+   "ru": "Это был аккуратный, серьёзный рисунок — рисунок ребёнка, который хотел всё изобразить правильно. Она нарисовала золотой круг, четыре буквы и стрелку, указывающую прямо вверх, на N. А в углу маленьким встревоженным почерком она написала вопрос: «Почему стрелка сдвинулась?»",
+   "s": [
+    [
+     "It was a careful, serious drawing, the drawing of a child who wanted to get everything right.",
+     "Это был аккуратный, серьёзный рисунок — рисунок ребёнка, который хотел всё изобразить правильно."
+    ],
+    [
+     "She had drawn the golden circle, the four letters and the needle, pointing straight up at the N.",
+     "Она нарисовала золотой круг, четыре буквы и стрелку, указывающую прямо вверх, на N."
+    ],
+    [
+     "And in the corner, in small, worried handwriting, she had written a question: \"Why has the needle moved?\"",
+     "А в углу маленьким встревоженным почерком она написала вопрос: «Почему стрелка сдвинулась?»"
+    ]
+   ]
+  },
+  {
+   "en": "Slowly, a memory came back to her. Her older brother had drawn the compass two years before her, and his drawing had hung on their kitchen wall for months. She had looked at it every morning at breakfast, so the compass had been familiar to her long before she saw it. When she finally saw the real thing, something had been wrong. She had asked her teacher about it, and the teacher had told her not to be silly.",
+   "ru": "Постепенно к ней вернулось воспоминание. Её старший брат рисовал компас за два года до неё, и его рисунок несколько месяцев висел у них на стене в кухне. Она смотрела на него каждое утро за завтраком, так что компас был ей знаком задолго до того, как она его увидела. Когда же она наконец увидела его вживую, что-то было не так. Она спросила об этом учительницу, и та велела ей не говорить глупостей.",
+   "s": [
+    [
+     "Slowly, a memory came back to her.",
+     "Постепенно к ней вернулось воспоминание."
+    ],
+    [
+     "Her older brother had drawn the compass two years before her, and his drawing had hung on their kitchen wall for months.",
+     "Её старший брат рисовал компас за два года до неё, и его рисунок несколько месяцев висел у них на стене в кухне."
+    ],
+    [
+     "She had looked at it every morning at breakfast, so the compass had been familiar to her long before she saw it.",
+     "Она смотрела на него каждое утро за завтраком, так что компас был ей знаком задолго до того, как она его увидела."
+    ],
+    [
+     "When she finally saw the real thing, something had been wrong.",
+     "Когда же она наконец увидела его вживую, что-то было не так."
+    ],
+    [
+     "She had asked her teacher about it, and the teacher had told her not to be silly.",
+     "Она спросила об этом учительницу, и та велела ей не говорить глупостей."
+    ]
+   ]
+  },
+  {
+   "en": "Josie took a deep breath and looked at the other drawings. In every drawing from 1987 to this year, the needle pointed at the N. But in every drawing before 1987, back to the faded pencil pictures of the sixties, the needle pointed to the side, almost at the E. Different children, different years, different pencils. They had all drawn the same thing.",
+   "ru": "Джози глубоко вздохнула и посмотрела на остальные рисунки. На каждом рисунке с 1987 года по нынешний стрелка указывала на N. Но на каждом рисунке до 1987 года, вплоть до выцветших карандашных рисунков шестидесятых, стрелка указывала в сторону, почти на E. Разные дети, разные годы, разные карандаши. Все они нарисовали одно и то же.",
+   "s": [
+    [
+     "Josie took a deep breath and looked at the other drawings.",
+     "Джози глубоко вздохнула и посмотрела на остальные рисунки."
+    ],
+    [
+     "In every drawing from 1987 to this year, the needle pointed at the N.",
+     "На каждом рисунке с 1987 года по нынешний стрелка указывала на N."
+    ],
+    [
+     "But in every drawing before 1987, back to the faded pencil pictures of the sixties, the needle pointed to the side, almost at the E.",
+     "Но на каждом рисунке до 1987 года, вплоть до выцветших карандашных рисунков шестидесятых, стрелка указывала в сторону, почти на E."
+    ],
+    [
+     "Different children, different years, different pencils.",
+     "Разные дети, разные годы, разные карандаши."
+    ],
+    [
+     "They had all drawn the same thing.",
+     "Все они нарисовали одно и то же."
+    ]
+   ]
+  },
+  {
+   "en": "She went back to the main room, took out her phone and opened the compass app. North was not where the needle pointed. North was to the right, towards the big window and the sea, almost exactly where the letter E was. A real compass needle always turns to the north, and for more than a hundred years the Fennick Compass had done exactly that. But the needle in this copy did not move at all. It had been fixed in place by someone who had made a small, very human mistake: they had pointed it at the N, because that is what compasses look like in pictures.",
+   "ru": "Она вернулась в главный зал, достала телефон и открыла приложение-компас. Север был не там, куда указывала стрелка. Север был справа, в сторону большого окна и моря, почти точно там, где стояла буква E. Стрелка настоящего компаса всегда поворачивается на север, и больше ста лет компас Фенника делал именно это. Но стрелка в этой копии вообще не двигалась. Её закрепил человек, совершивший маленькую, очень человеческую ошибку: он направил её на N, потому что именно так компасы выглядят на картинках.",
+   "s": [
+    [
+     "She went back to the main room, took out her phone and opened the compass app.",
+     "Она вернулась в главный зал, достала телефон и открыла приложение-компас."
+    ],
+    [
+     "North was not where the needle pointed.",
+     "Север был не там, куда указывала стрелка."
+    ],
+    [
+     "North was to the right, towards the big window and the sea, almost exactly where the letter E was.",
+     "Север был справа, в сторону большого окна и моря, почти точно там, где стояла буква E."
+    ],
+    [
+     "A real compass needle always turns to the north, and for more than a hundred years the Fennick Compass had done exactly that.",
+     "Стрелка настоящего компаса всегда поворачивается на север, и больше ста лет компас Фенника делал именно это."
+    ],
+    [
+     "But the needle in this copy did not move at all.",
+     "Но стрелка в этой копии вообще не двигалась."
+    ],
+    [
+     "It had been fixed in place by someone who had made a small, very human mistake: they had pointed it at the N, because that is what compasses look like in pictures.",
+     "Её закрепил человек, совершивший маленькую, очень человеческую ошибку: он направил её на N, потому что именно так компасы выглядят на картинках."
+    ]
+   ]
+  },
+  {
+   "en": "\"The compass wasn't stolen in the last five years,\" Josie told Maureen and Dr Asher. \"It was replaced between the school visit of 1986 and the school visit of 1987. Nearly forty years ago. And one child noticed.\" Dr Asher looked at the drawings for a long time, and then he nodded. Maureen's face went blank. \"Then the insurance will pay nothing,\" she said. \"And in 1987 there were only two keys. One belonged to the director, my father, Hugh Penhale. He died twelve years ago.\" Everybody turned to look at the old man in the corner.",
+   "ru": "«Компас украли не за последние пять лет», — сказала Джози Морин и доктору Ашеру. «Его подменили между школьной экскурсией 1986 года и школьной экскурсией 1987-го. Почти сорок лет назад. И один ребёнок это заметил». Доктор Ашер долго разглядывал рисунки, а потом кивнул. Лицо Морин стало пустым. «Тогда страховка ничего не заплатит», — сказала она. «А в 1987 году ключей было всего два. Один принадлежал директору — моему отцу, Хью Пенхейлу. Он умер двенадцать лет назад». Все повернулись и посмотрели на старика в углу.",
+   "s": [
+    [
+     "\"The compass wasn't stolen in the last five years,\" Josie told Maureen and Dr Asher.",
+     "«Компас украли не за последние пять лет», — сказала Джози Морин и доктору Ашеру."
+    ],
+    [
+     "\"It was replaced between the school visit of 1986 and the school visit of 1987.",
+     "«Его подменили между школьной экскурсией 1986 года и школьной экскурсией 1987-го."
+    ],
+    [
+     "Nearly forty years ago.",
+     "Почти сорок лет назад."
+    ],
+    [
+     "And one child noticed.\"",
+     "И один ребёнок это заметил»."
+    ],
+    [
+     "Dr Asher looked at the drawings for a long time, and then he nodded.",
+     "Доктор Ашер долго разглядывал рисунки, а потом кивнул."
+    ],
+    [
+     "Maureen's face went blank.",
+     "Лицо Морин стало пустым."
+    ],
+    [
+     "\"Then the insurance will pay nothing,\" she said.",
+     "«Тогда страховка ничего не заплатит», — сказала она."
+    ],
+    [
+     "\"And in 1987 there were only two keys.",
+     "«А в 1987 году ключей было всего два."
+    ],
+    [
+     "One belonged to the director, my father, Hugh Penhale.",
+     "Один принадлежал директору — моему отцу, Хью Пенхейлу."
+    ],
+    [
+     "He died twelve years ago.\"",
+     "Он умер двенадцать лет назад»."
+    ],
+    [
+     "Everybody turned to look at the old man in the corner.",
+     "Все повернулись и посмотрели на старика в углу."
+    ]
+   ]
+  },
+  {
+   "en": "Tobias did not try to deny it. He stood up slowly, as if he was very tired, and came to look at the drawing with the question in the corner. \"I remember you,\" he said to Josie. \"The little Talbot girl. You asked me about the needle that day, and I told you that you had made a mistake. I've been afraid of you for forty years.\"",
+   "ru": "Тобиас не стал ничего отрицать. Он медленно встал, словно очень устал, и подошёл посмотреть на рисунок с вопросом в углу. «Я тебя помню, — сказал он Джози. — Маленькая дочка Толботов. Ты спросила меня про стрелку в тот день, а я сказал тебе, что ты ошиблась. Я сорок лет тебя боялся».",
+   "s": [
+    [
+     "Tobias did not try to deny it.",
+     "Тобиас не стал ничего отрицать."
+    ],
+    [
+     "He stood up slowly, as if he was very tired, and came to look at the drawing with the question in the corner.",
+     "Он медленно встал, словно очень устал, и подошёл посмотреть на рисунок с вопросом в углу."
+    ],
+    [
+     "\"I remember you,\" he said to Josie.",
+     "«Я тебя помню, — сказал он Джози."
+    ],
+    [
+     "\"The little Talbot girl.",
+     "— Маленькая дочка Толботов."
+    ],
+    [
+     "You asked me about the needle that day, and I told you that you had made a mistake.",
+     "Ты спросила меня про стрелку в тот день, а я сказал тебе, что ты ошиблась."
+    ],
+    [
+     "I've been afraid of you for forty years.\"",
+     "Я сорок лет тебя боялся»."
+    ]
+   ]
+  },
+  {
+   "en": "Then he told them everything. In the winter of 1986 the village had been dying. Two boats had been lost in a storm, the fish had disappeared, and half the families could not pay their bills. The school was going to be closed, because there was no money to repair the roof, and without a school the young families would leave. \"Hugh couldn't accept that,\" Tobias said. \"He said the compass had brought this village a fortune once, and it could do it again.\"",
+   "ru": "Потом он рассказал им всё. Зимой 1986 года деревня умирала. Две лодки погибли в шторм, рыба исчезла, и половина семей не могла оплачивать счета. Школу собирались закрыть, потому что не было денег на ремонт крыши, а без школы молодые семьи уехали бы. «Хью не мог с этим смириться, — сказал Тобиас. — Он сказал, что однажды компас уже принёс этой деревне богатство и может сделать это снова».",
+   "s": [
+    [
+     "Then he told them everything.",
+     "Потом он рассказал им всё."
+    ],
+    [
+     "In the winter of 1986 the village had been dying.",
+     "Зимой 1986 года деревня умирала."
+    ],
+    [
+     "Two boats had been lost in a storm, the fish had disappeared, and half the families could not pay their bills.",
+     "Две лодки погибли в шторм, рыба исчезла, и половина семей не могла оплачивать счета."
+    ],
+    [
+     "The school was going to be closed, because there was no money to repair the roof, and without a school the young families would leave.",
+     "Школу собирались закрыть, потому что не было денег на ремонт крыши, а без школы молодые семьи уехали бы."
+    ],
+    [
+     "\"Hugh couldn't accept that,\" Tobias said.",
+     "«Хью не мог с этим смириться, — сказал Тобиас."
+    ],
+    [
+     "\"He said the compass had brought this village a fortune once, and it could do it again.\"",
+     "— Он сказал, что однажды компас уже принёс этой деревне богатство и может сделать это снова»."
+    ]
+   ]
+  },
+  {
+   "en": "Hugh Penhale had found a private collector abroad who agreed to buy the compass and keep the secret. He had paid an old clockmaker in the city to make the copy. One night in the spring of 1987, he and Tobias had opened the case and changed one for the other. After that, the money had been sent to the village in small amounts, without names: a new school roof, two new boats, help for the families who needed it most. \"People said it was some rich man who had once lived here,\" Tobias said. \"Nobody ever guessed.\"",
+   "ru": "Хью Пенхейл нашёл за границей частного коллекционера, который согласился купить компас и сохранить тайну. Он заплатил старому часовщику в городе, чтобы тот изготовил копию. Однажды ночью весной 1987 года они с Тобиасом открыли витрину и заменили один компас другим. После этого деньги небольшими суммами, без имён, отправлялись в деревню: новая крыша для школы, две новые лодки, помощь самым нуждающимся семьям. «Люди говорили, что это какой-то богач, который когда-то здесь жил, — сказал Тобиас. — Никто так и не догадался».",
+   "s": [
+    [
+     "Hugh Penhale had found a private collector abroad who agreed to buy the compass and keep the secret.",
+     "Хью Пенхейл нашёл за границей частного коллекционера, который согласился купить компас и сохранить тайну."
+    ],
+    [
+     "He had paid an old clockmaker in the city to make the copy.",
+     "Он заплатил старому часовщику в городе, чтобы тот изготовил копию."
+    ],
+    [
+     "One night in the spring of 1987, he and Tobias had opened the case and changed one for the other.",
+     "Однажды ночью весной 1987 года они с Тобиасом открыли витрину и заменили один компас другим."
+    ],
+    [
+     "After that, the money had been sent to the village in small amounts, without names: a new school roof, two new boats, help for the families who needed it most.",
+     "После этого деньги небольшими суммами, без имён, отправлялись в деревню: новая крыша для школы, две новые лодки, помощь самым нуждающимся семьям."
+    ],
+    [
+     "\"People said it was some rich man who had once lived here,\" Tobias said.",
+     "«Люди говорили, что это какой-то богач, который когда-то здесь жил, — сказал Тобиас."
+    ],
+    [
+     "\"Nobody ever guessed.\"",
+     "— Никто так и не догадался»."
+    ]
+   ]
+  },
+  {
+   "en": "Maureen had sat down. She could barely breathe. \"My father did that,\" she said, \"and he never told me.\" \"He wanted to,\" said Tobias. \"But he said it was safer if only two people knew. I promised him I would guard the compass every day, so that nobody would ever look too closely.\" He smiled sadly. \"I've spent forty-five years guarding a piece of brass.\"",
+   "ru": "Морин села. Она едва могла дышать. «Мой отец сделал это, — сказала она, — и ничего мне не сказал». «Он хотел, — сказал Тобиас. — Но он говорил, что безопаснее, если знают только двое. Я обещал ему, что буду охранять компас каждый день, чтобы никто никогда не присматривался слишком внимательно». Он грустно улыбнулся. «Я сорок пять лет охранял кусок латуни».",
+   "s": [
+    [
+     "Maureen had sat down.",
+     "Морин села."
+    ],
+    [
+     "She could barely breathe.",
+     "Она едва могла дышать."
+    ],
+    [
+     "\"My father did that,\" she said, \"and he never told me.\"",
+     "«Мой отец сделал это, — сказала она, — и ничего мне не сказал»."
+    ],
+    [
+     "\"He wanted to,\" said Tobias.",
+     "«Он хотел, — сказал Тобиас."
+    ],
+    [
+     "\"But he said it was safer if only two people knew.",
+     "— Но он говорил, что безопаснее, если знают только двое."
+    ],
+    [
+     "I promised him I would guard the compass every day, so that nobody would ever look too closely.\"",
+     "Я обещал ему, что буду охранять компас каждый день, чтобы никто никогда не присматривался слишком внимательно»."
+    ],
+    [
+     "He smiled sadly.",
+     "Он грустно улыбнулся."
+    ],
+    [
+     "\"I've spent forty-five years guarding a piece of brass.\"",
+     "«Я сорок пять лет охранял кусок латуни»."
+    ]
+   ]
+  },
+  {
+   "en": "Maureen turned to Jamie, who was standing at the door. Her face was red. \"Jamie, I'm so sorry,\" she said. \"I was scared, and I wanted it to be someone I didn't know very well. That was wrong of me.\" Jamie said nothing for a moment. Then he nodded. \"It's all right,\" he said. \"I would have suspected me too.\"",
+   "ru": "Морин повернулась к Джейми, который стоял у двери. Лицо у неё покраснело. «Джейми, мне так жаль, — сказала она. — Мне было страшно, и я хотела, чтобы это оказался кто-то, кого я плохо знаю. Это было нехорошо с моей стороны». Джейми мгновение молчал. Потом он кивнул. «Ничего страшного, — сказал он. — Я бы тоже себя заподозрил».",
+   "s": [
+    [
+     "Maureen turned to Jamie, who was standing at the door.",
+     "Морин повернулась к Джейми, который стоял у двери."
+    ],
+    [
+     "Her face was red.",
+     "Лицо у неё покраснело."
+    ],
+    [
+     "\"Jamie, I'm so sorry,\" she said.",
+     "«Джейми, мне так жаль, — сказала она."
+    ],
+    [
+     "\"I was scared, and I wanted it to be someone I didn't know very well.",
+     "— Мне было страшно, и я хотела, чтобы это оказался кто-то, кого я плохо знаю."
+    ],
+    [
+     "That was wrong of me.\"",
+     "Это было нехорошо с моей стороны»."
+    ],
+    [
+     "Jamie said nothing for a moment.",
+     "Джейми мгновение молчал."
+    ],
+    [
+     "Then he nodded.",
+     "Потом он кивнул."
+    ],
+    [
+     "\"It's all right,\" he said.",
+     "«Ничего страшного, — сказал он."
+    ],
+    [
+     "\"I would have suspected me too.\"",
+     "— Я бы тоже себя заподозрил»."
+    ]
+   ]
+  },
+  {
+   "en": "Josie closed her notebook. The man who had planned the crime was dead, and the museum had, in a way, sold its own property. It was not a topic for the police anymore. It was a topic for the village.",
+   "ru": "Джози закрыла блокнот. Человек, который спланировал преступление, был мёртв, а музей, в каком-то смысле, продал собственное имущество. Это больше не было делом для полиции. Это было делом для деревни.",
+   "s": [
+    [
+     "Josie closed her notebook.",
+     "Джози закрыла блокнот."
+    ],
+    [
+     "The man who had planned the crime was dead, and the museum had, in a way, sold its own property.",
+     "Человек, который спланировал преступление, был мёртв, а музей, в каком-то смысле, продал собственное имущество."
+    ],
+    [
+     "It was not a topic for the police anymore.",
+     "Это больше не было делом для полиции."
+    ],
+    [
+     "It was a topic for the village.",
+     "Это было делом для деревни."
+    ]
+   ]
+  },
+  {
+   "en": "The insurance company paid nothing, of course. But a month later the story was in every newspaper in the country, and something strange happened: people started coming to Fennick. They came by car and by train, and they all wanted to see the same thing: the famous fake compass and the children's drawings on the wall. In one winter the museum earned more than it had earned in the previous ten years.",
+   "ru": "Страховая компания, конечно, ничего не заплатила. Но через месяц эта история появилась во всех газетах страны, и случилось нечто странное: люди начали приезжать в Фенник. Они ехали на машинах и на поездах, и все хотели увидеть одно и то же: знаменитый поддельный компас и детские рисунки на стене. За одну зиму музей заработал больше, чем за предыдущие десять лет.",
+   "s": [
+    [
+     "The insurance company paid nothing, of course.",
+     "Страховая компания, конечно, ничего не заплатила."
+    ],
+    [
+     "But a month later the story was in every newspaper in the country, and something strange happened: people started coming to Fennick.",
+     "Но через месяц эта история появилась во всех газетах страны, и случилось нечто странное: люди начали приезжать в Фенник."
+    ],
+    [
+     "They came by car and by train, and they all wanted to see the same thing: the famous fake compass and the children's drawings on the wall.",
+     "Они ехали на машинах и на поездах, и все хотели увидеть одно и то же: знаменитый поддельный компас и детские рисунки на стене."
+    ],
+    [
+     "In one winter the museum earned more than it had earned in the previous ten years.",
+     "За одну зиму музей заработал больше, чем за предыдущие десять лет."
+    ]
+   ]
+  },
+  {
+   "en": "Maureen put the copy back in its glass case with a new sign below it. It said: \"This is not the Fennick Compass. The real compass was sold in 1987 to save this village. It was the best thing this museum ever did.\" Next to the case, in a new frame, she hung the drawing of a nine-year-old girl with a question in the corner.",
+   "ru": "Морин вернула копию в стеклянную витрину и повесила под ней новую табличку. На ней было написано: «Это не компас Фенника. Настоящий компас был продан в 1987 году, чтобы спасти эту деревню. Это лучшее, что этот музей когда-либо сделал». Рядом с витриной, в новой рамке, она повесила рисунок девятилетней девочки с вопросом в углу.",
+   "s": [
+    [
+     "Maureen put the copy back in its glass case with a new sign below it.",
+     "Морин вернула копию в стеклянную витрину и повесила под ней новую табличку."
+    ],
+    [
+     "It said: \"This is not the Fennick Compass.",
+     "На ней было написано: «Это не компас Фенника."
+    ],
+    [
+     "The real compass was sold in 1987 to save this village.",
+     "Настоящий компас был продан в 1987 году, чтобы спасти эту деревню."
+    ],
+    [
+     "It was the best thing this museum ever did.\"",
+     "Это лучшее, что этот музей когда-либо сделал»."
+    ],
+    [
+     "Next to the case, in a new frame, she hung the drawing of a nine-year-old girl with a question in the corner.",
+     "Рядом с витриной, в новой рамке, она повесила рисунок девятилетней девочки с вопросом в углу."
+    ]
+   ]
+  },
+  {
+   "en": "On her last day in Fennick, Josie went to say goodbye to Tobias. He was sitting on his usual chair, watching the compass as he always had. \"You can stop guarding it now,\" she said. \"I know,\" he said. \"But I'd miss it.\" He looked up at her, and for the first time she saw him smile properly. \"See you next year, Inspector. The children are coming in May. Somebody should check that they draw the needle correctly.\"",
+   "ru": "В свой последний день в Феннике Джози пошла попрощаться с Тобиасом. Он сидел на своём обычном стуле и смотрел на компас, как всегда. «Теперь можно его больше не охранять», — сказала она. «Знаю, — сказал он. — Но я буду по нему скучать». Он поднял на неё глаза, и впервые она увидела, как он по-настоящему улыбается. «Увидимся в следующем году, инспектор. Дети придут в мае. Кто-то же должен проверить, правильно ли они рисуют стрелку».",
+   "s": [
+    [
+     "On her last day in Fennick, Josie went to say goodbye to Tobias.",
+     "В свой последний день в Феннике Джози пошла попрощаться с Тобиасом."
+    ],
+    [
+     "He was sitting on his usual chair, watching the compass as he always had.",
+     "Он сидел на своём обычном стуле и смотрел на компас, как всегда."
+    ],
+    [
+     "\"You can stop guarding it now,\" she said.",
+     "«Теперь можно его больше не охранять», — сказала она."
+    ],
+    [
+     "\"I know,\" he said.",
+     "«Знаю, — сказал он."
+    ],
+    [
+     "\"But I'd miss it.\"",
+     "— Но я буду по нему скучать»."
+    ],
+    [
+     "He looked up at her, and for the first time she saw him smile properly.",
+     "Он поднял на неё глаза, и впервые она увидела, как он по-настоящему улыбается."
+    ],
+    [
+     "\"See you next year, Inspector.",
+     "«Увидимся в следующем году, инспектор."
+    ],
+    [
+     "The children are coming in May.",
+     "Дети придут в мае."
+    ],
+    [
+     "Somebody should check that they draw the needle correctly.\"",
+     "Кто-то же должен проверить, правильно ли они рисуют стрелку»."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, об",
+  "abroad": "за границей",
+  "accept": "принять",
+  "accuse": "обвинить",
+  "afraid": "боящийся (be afraid of — бояться)",
+  "after": "после",
+  "afternoon": "день, после полудня",
+  "again": "снова",
+  "aged": "в возрасте (aged 9 — 9 лет)",
+  "ago": "назад",
+  "agreed": "согласился",
+  "alba": "Альба (часть названия корабля)",
+  "all": "все; совсем (at all); (all right — в порядке)",
+  "almost": "почти",
+  "alone": "один, одна",
+  "along": "вдоль",
+  "also": "также",
+  "always": "всегда",
+  "amounts": "суммы",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "answered": "отвечал",
+  "anybody": "кто-нибудь",
+  "anymore": "больше (не)",
+  "anything": "что-нибудь",
+  "app": "приложение",
+  "are": "(есть) — вы/они",
+  "arms": "руки",
+  "around": "вокруг, по",
+  "as": "как, так как",
+  "asher": "Ашер (фамилия)",
+  "asked": "спросил(а)",
+  "assistant": "ассистент",
+  "at": "в, у, на",
+  "back": "назад",
+  "bad": "плохой",
+  "barely": "едва",
+  "be": "быть",
+  "beards": "бороды",
+  "because": "потому что",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "behaviour": "поведение",
+  "behind": "за, позади",
+  "belonged": "принадлежал",
+  "below": "под, ниже",
+  "best": "лучший",
+  "between": "между",
+  "big": "большой",
+  "bills": "счета",
+  "blank": "пустой",
+  "boats": "лодки",
+  "born": "родился (was born)",
+  "brass": "латунь",
+  "breakfast": "завтрак",
+  "breath": "вдох (take a breath — вздохнуть)",
+  "breathe": "дышать",
+  "brother": "брат",
+  "brought": "привёз; приводила; принёс",
+  "building": "здание",
+  "but": "но",
+  "buy": "купить",
+  "by": "на (by car); (made by — сделанный)",
+  "calls": "звонки",
+  "came": "приходили; вернулся (came back)",
+  "can": "могу, можно",
+  "captain": "капитан",
+  "car": "машина",
+  "careful": "осторожный, тщательный",
+  "case": "витрина",
+  "chair": "стул, кресло",
+  "changed": "заменили (changed one for the other)",
+  "changing": "менял",
+  "cheap": "дешёвый",
+  "check": "проверить",
+  "child": "ребёнок",
+  "child's": "детский",
+  "children": "дети",
+  "children's": "детский",
+  "circle": "круг",
+  "city": "город",
+  "clockmaker": "часовщик",
+  "close": "закрыться",
+  "closed": "закрыла",
+  "closely": "внимательно",
+  "cold": "холодный",
+  "collector": "коллекционер",
+  "come": "приходить; приехать",
+  "coming": "приезжать; придут",
+  "company": "компания",
+  "compass": "компас",
+  "compasses": "компасы",
+  "copy": "копия",
+  "corner": "угол",
+  "correctly": "правильно",
+  "corridor": "коридор",
+  "cost": "стоило",
+  "could": "мог(ла)",
+  "couldn't": "не мог",
+  "country": "страна",
+  "course": "курс (of course — конечно)",
+  "covered": "покрытый",
+  "crime": "преступление",
+  "cunning": "хитрый",
+  "date": "дата",
+  "day": "день",
+  "dead": "мёртвый",
+  "deep": "глубокий",
+  "deny": "отрицать",
+  "destroy": "разрушить",
+  "did": "сделал; (вспом. гл.)",
+  "didn't": "не (прош. вр.)",
+  "died": "умер(ла)",
+  "different": "другой, не такой",
+  "director": "директор",
+  "disappeared": "исчез(ла)",
+  "discovers": "обнаруживает",
+  "do": "(вспом. гл.)",
+  "doing": "делать",
+  "don't": "не (вспом.)",
+  "done": "сделал",
+  "door": "дверь",
+  "down": "вниз",
+  "dr": "доктор",
+  "draw": "рисовать",
+  "drawing": "рисунок",
+  "drawings": "рисунки",
+  "drawn": "нарисовал",
+  "during": "во время",
+  "dying": "умирала",
+  "e": "буква E",
+  "each": "каждый",
+  "earlier": "раньше",
+  "earned": "зарабатывал",
+  "eighteen": "восемнадцать",
+  "else": "ещё, другой",
+  "empty": "пустой",
+  "end": "конец",
+  "enough": "достаточно",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "everybody": "все",
+  "everything": "всё",
+  "exactly": "точно",
+  "excellent": "превосходный",
+  "expert": "эксперт",
+  "explained": "объяснил",
+  "face": "лицо",
+  "faded": "выцветший",
+  "fake": "подделка, поддельный",
+  "familiar": "привычный",
+  "families": "семьи",
+  "famous": "знаменитый",
+  "father": "отец",
+  "fear": "страх",
+  "fennick": "Фенник (название деревни)",
+  "few": "несколько",
+  "fifty": "пятьдесят",
+  "finally": "наконец",
+  "finish": "закончить",
+  "first": "первый (for the first time — впервые)",
+  "fish": "рыба",
+  "fishing": "рыболовный",
+  "five": "пять",
+  "fixed": "закреплён",
+  "folded": "скрещённые",
+  "for": "для, в течение",
+  "fortune": "богатство",
+  "forty": "сорок",
+  "found": "нашли",
+  "four": "четыре",
+  "frame": "рамка",
+  "frames": "рамки",
+  "friday": "пятница",
+  "from": "из, от",
+  "get": "попасть",
+  "gift": "сувенир (gift shop — сувенирная лавка)",
+  "girl": "девочка",
+  "given": "подарил",
+  "glass": "стекло, стеклянный",
+  "going": "(was going to — собирались)",
+  "gold": "золотой",
+  "golden": "золотой",
+  "good": "хороший",
+  "goodbye": "прощай (say goodbye — попрощаться)",
+  "grown": "вырос(ла) (had grown up)",
+  "guard": "охранник; охранять",
+  "guarding": "охранять, охранял",
+  "guessed": "догадался",
+  "guided": "привёл, указывал путь",
+  "guilty": "виновный",
+  "had": "(вспом. гл.); было",
+  "half": "половина",
+  "hand": "рука",
+  "hands": "руки",
+  "handwriting": "почерк",
+  "happened": "случилось",
+  "harbour": "гавань",
+  "has": "(вспом. гл.)",
+  "have": "иметь; (вспом.)",
+  "he": "он",
+  "he's": "он (есть)",
+  "heavy": "тяжёлый",
+  "help": "помощь",
+  "her": "её, ей",
+  "here": "здесь",
+  "him": "его, ему",
+  "his": "его",
+  "home": "домой",
+  "honest": "честный",
+  "hour": "час",
+  "how": "как",
+  "hugh": "Хью (имя)",
+  "human": "человеческий",
+  "hundred": "сто",
+  "hung": "висел; повесила",
+  "i": "я",
+  "i'd": "я бы",
+  "i'm": "я (есть)",
+  "i've": "я (+ перфект)",
+  "if": "если, ли",
+  "improve": "улучшать",
+  "in": "в",
+  "inside": "внутренняя сторона (on the inside — изнутри)",
+  "inspector": "инспектор",
+  "insurance": "страховка",
+  "interviewed": "допрашивала",
+  "is": "есть, является",
+  "isn't": "не (есть)",
+  "it": "он, оно, это",
+  "it's": "это",
+  "its": "его, её",
+  "jamie": "Джейми (имя)",
+  "jamie's": "Джейми (чей)",
+  "josephine": "Джозефина (имя)",
+  "josie": "Джози (имя)",
+  "journey": "путешествие",
+  "juice": "сок",
+  "keep": "сохранить",
+  "kept": "оставлял себе",
+  "keys": "ключи",
+  "kind": "род, вид",
+  "kitchen": "кухня",
+  "knew": "знал(и)",
+  "know": "знаю",
+  "large": "большой",
+  "last": "последний",
+  "later": "позже",
+  "leave": "уехать",
+  "led": "вёл",
+  "left": "уехала",
+  "letter": "буква",
+  "letters": "буквы",
+  "life": "жизнь",
+  "lights": "освещение, свет",
+  "like": "как; (look like — выглядеть)",
+  "lionel": "Лайонел (имя)",
+  "little": "маленький, немного",
+  "lived": "жил",
+  "long": "долго, долгий",
+  "look": "смотреть",
+  "looked": "выглядел; посмотрела",
+  "looking": "глядя",
+  "lost": "погибли, потеряны",
+  "lot": "много (a lot)",
+  "love": "любить",
+  "lowered": "понизила",
+  "made": "сделанный; (made a mistake — ошибся)",
+  "main": "главный",
+  "make": "сделать, изготовить",
+  "man": "мужчина",
+  "maps": "карты",
+  "maritime": "морской",
+  "maureen": "Морин (имя)",
+  "maureen's": "Морин (чей)",
+  "may": "май",
+  "me": "меня, мне",
+  "memory": "воспоминание",
+  "men": "мужчины",
+  "met": "встретила",
+  "middle": "середина",
+  "miss": "скучать",
+  "mistake": "ошибка",
+  "model": "модель",
+  "moment": "мгновение",
+  "monday": "понедельник",
+  "money": "деньги",
+  "month": "месяц",
+  "months": "месяцы",
+  "more": "больше",
+  "morning": "утро",
+  "most": "больше всего",
+  "move": "двигаться",
+  "moved": "сдвинулась",
+  "museum": "музей",
+  "museum's": "музея",
+  "my": "мой",
+  "n": "буква N",
+  "name": "имя",
+  "names": "имена",
+  "nearly": "почти",
+  "need": "нужно",
+  "needed": "нуждались",
+  "needle": "стрелка (компаса)",
+  "nervous": "нервный",
+  "never": "никогда",
+  "new": "новый",
+  "newspaper": "газета",
+  "next": "следующий; рядом (next to)",
+  "night": "ночь",
+  "nine": "девять",
+  "no": "нет",
+  "nobody": "никто",
+  "nodded": "кивнул",
+  "north": "север",
+  "not": "не",
+  "notebook": "блокнот",
+  "nothing": "ничего",
+  "noticed": "заметила",
+  "november": "ноябрь",
+  "now": "теперь",
+  "of": "из, о, (род. падеж)",
+  "old": "старый",
+  "older": "старше",
+  "olds": "(nine-year-olds — девятилетние)",
+  "on": "на",
+  "once": "однажды",
+  "one": "один, одна",
+  "only": "только",
+  "open": "открыть",
+  "opened": "открыли",
+  "opens": "открывает",
+  "orange": "апельсин; апельсиновый",
+  "ord": "Орд (фамилия)",
+  "other": "другой",
+  "our": "наш",
+  "out": "(took out — достала)",
+  "own": "собственный",
+  "paid": "заплатил",
+  "pay": "платить",
+  "pencil": "карандаш; карандашный",
+  "pencils": "карандаши",
+  "penhale": "Пенхейл (фамилия)",
+  "people": "люди",
+  "perfect": "идеальный",
+  "person": "человек",
+  "phone": "телефон",
+  "photographs": "фотографии",
+  "pictures": "картинки, рисунки",
+  "piece": "кусок",
+  "place": "место (in place — на месте)",
+  "plan": "спланировать",
+  "planned": "спланировал",
+  "pointed": "указывала; направил",
+  "pointing": "указывающая",
+  "police": "полиция",
+  "previous": "предыдущий",
+  "private": "частный",
+  "promised": "пообещала",
+  "properly": "по-настоящему",
+  "property": "имущество",
+  "put": "вернула (put back)",
+  "question": "вопрос",
+  "questions": "вопросы",
+  "quickly": "быстро",
+  "quiet": "тихий",
+  "quietly": "тихо",
+  "rarely": "редко",
+  "real": "настоящий",
+  "red": "красный",
+  "remember": "помню",
+  "remembered": "вспомнила",
+  "repair": "отремонтировать",
+  "replaced": "заменили, подменили",
+  "reputation": "репутация",
+  "rich": "богатый",
+  "right": "правильно; справа (to the right)",
+  "roof": "крыша",
+  "rook": "Рук (фамилия)",
+  "room": "комната",
+  "ropes": "канаты",
+  "rose": "Роуз (часть названия корабля)",
+  "s": "буква S; (1960-е годы)",
+  "sadly": "грустно",
+  "safer": "безопаснее",
+  "said": "сказал(а)",
+  "salt": "соль",
+  "same": "тот же",
+  "sat": "лежал; сел (had sat down)",
+  "save": "спасти",
+  "saw": "увидела",
+  "say": "сказать (say goodbye — попрощаться)",
+  "scared": "испуганный",
+  "school": "школа",
+  "sea": "море",
+  "secret": "тайна",
+  "see": "видеть; (see you — увидимся)",
+  "seem": "казаться",
+  "seen": "увидел",
+  "sent": "прислали; отправлены",
+  "sentence": "фраза, предложение",
+  "serious": "серьёзный",
+  "seventy": "семьдесят",
+  "shaking": "дрожали",
+  "she": "она",
+  "ship": "корабль",
+  "ships": "корабли",
+  "shop": "магазин",
+  "should": "должен",
+  "side": "сторона",
+  "sign": "табличка",
+  "signs": "таблички",
+  "silk": "шёлк",
+  "silly": "глупый",
+  "since": "с (тех пор)",
+  "sitting": "сидел",
+  "sixties": "шестидесятые",
+  "sixty": "шестьдесят",
+  "size": "размер",
+  "slept": "спала",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smelled": "пахло",
+  "smile": "улыбаться",
+  "smiled": "улыбнулся",
+  "so": "поэтому; так",
+  "sold": "продали; продал",
+  "some": "несколько; какой-то",
+  "somebody": "кто-то",
+  "someone": "кто-то",
+  "something": "что-то",
+  "sorry": "простите; жаль",
+  "spent": "провёл",
+  "spoke": "говорил",
+  "spring": "весна",
+  "standing": "стоял",
+  "started": "начал(и)",
+  "stay": "остаться",
+  "still": "всё ещё; и всё же",
+  "stolen": "украли",
+  "stone": "каменный",
+  "stood": "стоял",
+  "stop": "перестать",
+  "stopped": "остановилась",
+  "storm": "шторм",
+  "story": "история",
+  "straight": "прямо",
+  "strange": "странный",
+  "surface": "поверхность",
+  "suspected": "заподозрил",
+  "take": "занять (о времени); (take a look — взглянуть)",
+  "talbot": "Толбот (фамилия)",
+  "tea": "чай",
+  "teacher": "учительница",
+  "ten": "десять",
+  "than": "чем",
+  "thank": "спасибо",
+  "that": "что; тот, это",
+  "the": "(опр. артикль)",
+  "their": "их, свои",
+  "them": "их",
+  "then": "потом, тогда",
+  "there": "там",
+  "they": "они",
+  "thief": "вор",
+  "thin": "худой",
+  "thing": "вещь",
+  "things": "дела (how bad things looked)",
+  "thinks": "думает",
+  "this": "этот",
+  "those": "те, они",
+  "three": "три",
+  "time": "раз (for the first time — впервые)",
+  "tired": "усталый",
+  "to": "к, в; (частица)",
+  "tobias": "Тобиас (имя)",
+  "toilets": "туалеты",
+  "told": "сказала; рассказал",
+  "too": "слишком",
+  "took": "взяла; достала; (took a look — присмотрелась)",
+  "topic": "тема",
+  "touched": "притронулся",
+  "towards": "к, по направлению к",
+  "town": "город",
+  "tradition": "традиция",
+  "train": "поезд",
+  "tried": "пытались",
+  "try": "пытаться",
+  "turned": "повернулись",
+  "turns": "поворачивается",
+  "twelve": "двенадцать",
+  "twenty": "двадцать",
+  "two": "два",
+  "understood": "поняла",
+  "until": "до",
+  "up": "вверх; (stood up — встал; looked up — поднял глаза)",
+  "usual": "обычный",
+  "value": "стоимость",
+  "very": "очень",
+  "village": "деревня",
+  "visit": "экскурсия, посещение",
+  "voice": "голос",
+  "w": "буква W",
+  "wait": "ждать",
+  "waited": "ждала",
+  "walked": "пошла, прошла",
+  "wall": "стена",
+  "want": "хотеть",
+  "wanted": "хотел",
+  "was": "был(а)",
+  "wash": "мыть",
+  "washed": "мыл",
+  "wasn't": "не был",
+  "watching": "смотрел",
+  "way": "способ (in a way — в каком-то смысле)",
+  "we": "мы",
+  "website": "сайт",
+  "week": "неделя",
+  "well": "ну",
+  "went": "вернулась; пошла; стало (went blank)",
+  "were": "были",
+  "wet": "дождливый, мокрый",
+  "what": "что",
+  "when": "когда",
+  "where": "где",
+  "which": "который, что",
+  "while": "пока",
+  "white": "белый",
+  "who": "кто, который",
+  "whole": "весь",
+  "why": "почему",
+  "will": "будет",
+  "window": "окно",
+  "winter": "зима",
+  "with": "с",
+  "without": "без",
+  "witness": "свидетель",
+  "woman": "женщина",
+  "wood": "дерево (древесина)",
+  "wooden": "деревянный",
+  "word": "слово",
+  "working": "работать",
+  "world": "мир",
+  "worried": "встревоженный",
+  "would": "бы",
+  "written": "написала",
+  "wrong": "не так; нехорошо",
+  "wrote": "написал(а)",
+  "year": "год",
+  "years": "лет, годы",
+  "yes": "да",
+  "you": "вы, ты",
+  "young": "молодой"
+ },
+ "vocab": {
+  "scared": 477,
+  "accept": 272,
+  "sent": 261,
+  "mistake": 4,
+  "familiar": 512,
+  "breathe": 354,
+  "strange": 278,
+  "blank": 426,
+  "improve": 235,
+  "afraid": 478,
+  "try": 167,
+  "tried": 167,
+  "rarely": 60,
+  "more": 6,
+  "orange": 107,
+  "cunning": 268,
+  "behaviour": 446,
+  "barely": 617,
+  "see": 42,
+  "journey": 134,
+  "safer": 292,
+  "fortune": 406,
+  "pay": 320,
+  "paid": 320,
+  "village": 104,
+  "miss": 282,
+  "below": 126,
+  "ship": 87,
+  "ships": 87,
+  "juice": 100,
+  "topic": 136,
+  "their": 21,
+  "side": 168,
+  "wash": 77,
+  "washed": 77
+ }
+}

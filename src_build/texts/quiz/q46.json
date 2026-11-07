@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What seemed strange after Ivo's first visit?",
+  "q_ru": "Что показалось странным после первого визита Иво?",
+  "options": [
+   "He brought a cake but did not eat it",
+   "He asked to come into her flat",
+   "He knew the turtle's name, but she had not told him",
+   "He said the lift was working again"
+  ],
+  "options_ru": [
+   "Он принёс торт, но не стал его есть",
+   "Он попросил впустить его в квартиру",
+   "Он знал имя черепахи, хотя она ему его не говорила",
+   "Он сказал, что лифт снова работает"
+  ],
+  "answer": 2,
+  "explain_ru": "Он сказал «And this must be Boris», а позже Софья вспомнила: «She had not told him the turtle's name»."
+ },
+ {
+  "q": "Why could Ivo not find information about Sofia on the internet?",
+  "q_ru": "Почему Иво не мог найти информацию о Софье в интернете?",
+  "options": [
+   "She had deleted all her social media accounts",
+   "She did not have a computer",
+   "She used a different name online",
+   "Her publisher kept her name secret"
+  ],
+  "options_ru": [
+   "Она удалила все свои аккаунты в соцсетях",
+   "У неё не было компьютера",
+   "В интернете она пользовалась другим именем",
+   "Издательство держало её имя в секрете"
+  ],
+  "answer": 0,
+  "explain_ru": "После неудачных отношений «she had deleted all her social media accounts. She had no website, no public photos, nothing»."
+ },
+ {
+  "q": "\"For the first time in years she felt vulnerable in her own home.\" What does \"vulnerable\" mean?",
+  "q_ru": "«...she felt vulnerable in her own home». Что значит «vulnerable»?",
+  "options": [
+   "bored and lonely",
+   "tired after work",
+   "happy and relaxed",
+   "not safe, easy to hurt"
+  ],
+  "options_ru": [
+   "скучающей и одинокой",
+   "уставшей после работы",
+   "счастливой и спокойной",
+   "беззащитной, в опасности"
+  ],
+  "answer": 3,
+  "explain_ru": "Vulnerable — уязвимый. Ночью она не спала и «got up twice to check the lock» — она боялась."
+ },
+ {
+  "q": "How did Ivo know so much about Sofia's life?",
+  "q_ru": "Откуда Иво столько знал о жизни Софьи?",
+  "options": [
+   "He listened through the thin wall",
+   "He saw her phone photos on her old tablet",
+   "He read her emails to the publisher",
+   "Her friend Marika told him everything"
+  ],
+  "options_ru": [
+   "Он подслушивал через тонкую стену",
+   "Он видел фото с её телефона на её старом планшете",
+   "Он читал её письма в издательство",
+   "Её подруга Марика всё ему рассказывала"
+  ],
+  "answer": 1,
+  "explain_ru": "Старый планшет, отданный в благотворительный магазин, остался подключён к её аккаунту: «Every photo she took on her phone went straight to the tablet». Иво работал там волонтёром и получил этот планшет."
+ },
+ {
+  "q": "Why did Sofia photograph a note about a spare key and a trip?",
+  "q_ru": "Зачем Софья сфотографировала записку про запасной ключ и поездку?",
+  "options": [
+   "She really wanted to visit the mountains",
+   "She wanted Marika to feed Boris",
+   "She wanted Ivo to think the flat was empty and come in",
+   "She wanted to send it to the building manager"
+  ],
+  "options_ru": [
+   "Она правда хотела поехать в горы",
+   "Она хотела, чтобы Марика покормила Бориса",
+   "Она хотела, чтобы Иво решил, что квартира пуста, и пришёл",
+   "Она хотела отправить её управляющему домом"
+  ],
+  "answer": 2,
+  "explain_ru": "Полиции не хватало доказательств, и Софья решила «give him an opportunity»: «He believes everything my phone shows him». Ночью он вошёл, а полицейские уже ждали."
+ },
+ {
+  "q": "What does Sofia photograph now, at the end of the story?",
+  "q_ru": "Что Софья фотографирует теперь, в конце рассказа?",
+  "options": [
+   "Only Boris eating lettuce",
+   "Only the crow with the white feather",
+   "Only pages of her insect book",
+   "Nothing at all, she sold her phone"
+  ],
+  "options_ru": [
+   "Только Бориса, который ест салат",
+   "Только ворону с белым пером",
+   "Только страницы своей книги о насекомых",
+   "Ничего, она продала телефон"
+  ],
+  "answer": 0,
+  "explain_ru": "Ворону она теперь только рисует: «These days she takes photos of only one thing: Boris, eating lettuce, very slowly»."
+ }
+]

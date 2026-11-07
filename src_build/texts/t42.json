@@ -1,0 +1,1354 @@
+{
+ "id": 42,
+ "level": "B1",
+ "title_en": "The Nursery Clock",
+ "title_ru": "Часы из детской",
+ "genre": "Мистика",
+ "summary_ru": "Часовщице с долгами за аренду приносят старые часы из детской и щедро платят за странную работу — остановить их навсегда, но стрелки этих часов отсчитывают вовсе не часы.",
+ "paragraphs": [
+  {
+   "en": "Hazel Moss repaired clocks in a narrow shop on Quay Street, between a bakery and a shop that sold umbrellas nobody bought. She was thirty-four, good with her hands and bad with money. On the morning this story begins, a new announcement from her landlord was taped to the door. It said, in polite words, that if she did not pay three months of rent by the end of November, she would have to leave.",
+   "ru": "Хейзел Мосс чинила часы в узкой мастерской на Куэй-стрит, между пекарней и магазином, где продавали зонты, которые никто не покупал. Ей было тридцать четыре года, руки у неё были золотые, а с деньгами она обращаться не умела. В то утро, с которого начинается эта история, на двери было приклеено новое объявление от её арендодателя. В нём вежливыми словами говорилось, что если она не заплатит за три месяца аренды до конца ноября, ей придётся съехать.",
+   "s": [
+    [
+     "Hazel Moss repaired clocks in a narrow shop on Quay Street, between a bakery and a shop that sold umbrellas nobody bought.",
+     "Хейзел Мосс чинила часы в узкой мастерской на Куэй-стрит, между пекарней и магазином, где продавали зонты, которые никто не покупал."
+    ],
+    [
+     "She was thirty-four, good with her hands and bad with money.",
+     "Ей было тридцать четыре года, руки у неё были золотые, а с деньгами она обращаться не умела."
+    ],
+    [
+     "On the morning this story begins, a new announcement from her landlord was taped to the door.",
+     "В то утро, с которого начинается эта история, на двери было приклеено новое объявление от её арендодателя."
+    ],
+    [
+     "It said, in polite words, that if she did not pay three months of rent by the end of November, she would have to leave.",
+     "В нём вежливыми словами говорилось, что если она не заплатит за три месяца аренды до конца ноября, ей придётся съехать."
+    ]
+   ]
+  },
+  {
+   "en": "She read it twice, put it in a drawer with the others and turned on the lamp above her workbench. Clocks were honest, her grandfather used to say. They told you exactly what was wrong with them if you listened. People were more difficult.",
+   "ru": "Она прочитала его дважды, положила в ящик к остальным и включила лампу над верстаком. Часы честные, говорил когда-то её дедушка. Они точно скажут тебе, что с ними не так, если ты прислушаешься. С людьми сложнее.",
+   "s": [
+    [
+     "She read it twice, put it in a drawer with the others and turned on the lamp above her workbench.",
+     "Она прочитала его дважды, положила в ящик к остальным и включила лампу над верстаком."
+    ],
+    [
+     "Clocks were honest, her grandfather used to say.",
+     "Часы честные, говорил когда-то её дедушка."
+    ],
+    [
+     "They told you exactly what was wrong with them if you listened.",
+     "Они точно скажут тебе, что с ними не так, если ты прислушаешься."
+    ],
+    [
+     "People were more difficult.",
+     "С людьми сложнее."
+    ]
+   ]
+  },
+  {
+   "en": "At four o'clock the bell above the door rang, and a man entered carrying a wooden box. He was about fifty, with a soft grey coat and the careful smile of someone who sold things for a living. He introduced himself as Declan Farrow. Inside the box was a small wall clock, painted blue, with a yellow moon and silver stars around the face.",
+   "ru": "В четыре часа над дверью зазвенел колокольчик, и вошёл мужчина с деревянной коробкой в руках. Ему было около пятидесяти; на нём было мягкое серое пальто, а улыбка у него была осторожная, как у человека, который зарабатывает на жизнь продажами. Он представился Дикланом Фарроу. В коробке лежали небольшие настенные часы, выкрашенные в синий цвет, с жёлтой луной и серебряными звёздами вокруг циферблата.",
+   "s": [
+    [
+     "At four o'clock the bell above the door rang, and a man entered carrying a wooden box.",
+     "В четыре часа над дверью зазвенел колокольчик, и вошёл мужчина с деревянной коробкой в руках."
+    ],
+    [
+     "He was about fifty, with a soft grey coat and the careful smile of someone who sold things for a living.",
+     "Ему было около пятидесяти; на нём было мягкое серое пальто, а улыбка у него была осторожная, как у человека, который зарабатывает на жизнь продажами."
+    ],
+    [
+     "He introduced himself as Declan Farrow.",
+     "Он представился Дикланом Фарроу."
+    ],
+    [
+     "Inside the box was a small wall clock, painted blue, with a yellow moon and silver stars around the face.",
+     "В коробке лежали небольшие настенные часы, выкрашенные в синий цвет, с жёлтой луной и серебряными звёздами вокруг циферблата."
+    ]
+   ]
+  },
+  {
+   "en": "“It's from my aunt's nursery,” he said. “She's eighty-eight now. She resides at Larchwood House, the care home by the river. The clock was in her room there, but the ticking keeps her awake at night, and she gets upset.” He paused. “I don't want it repaired. I want it stopped. Release the spring, take out the wheels, whatever it needs.”",
+   "ru": "«Это из детской моей тёти», — сказал он. «Ей сейчас восемьдесят восемь. Она живёт в Ларчвуд-Хаусе, доме престарелых у реки. Часы стояли у неё в комнате, но тиканье не даёт ей спать по ночам, и она расстраивается». Он помолчал. «Я не хочу, чтобы их чинили. Я хочу, чтобы их остановили. Отпустите пружину, выньте колёсики — что угодно».",
+   "s": [
+    [
+     "“It's from my aunt's nursery,” he said.",
+     "«Это из детской моей тёти», — сказал он."
+    ],
+    [
+     "“She's eighty-eight now.",
+     "«Ей сейчас восемьдесят восемь."
+    ],
+    [
+     "She resides at Larchwood House, the care home by the river.",
+     "Она живёт в Ларчвуд-Хаусе, доме престарелых у реки."
+    ],
+    [
+     "The clock was in her room there, but the ticking keeps her awake at night, and she gets upset.”",
+     "Часы стояли у неё в комнате, но тиканье не даёт ей спать по ночам, и она расстраивается»."
+    ],
+    [
+     "He paused.",
+     "Он помолчал."
+    ],
+    [
+     "“I don't want it repaired.",
+     "«Я не хочу, чтобы их чинили."
+    ],
+    [
+     "I want it stopped.",
+     "Я хочу, чтобы их остановили."
+    ],
+    [
+     "Release the spring, take out the wheels, whatever it needs.”",
+     "Отпустите пружину, выньте колёсики — что угодно»."
+    ]
+   ]
+  },
+  {
+   "en": "Hazel looked at him. “You could just stop winding it.” “I did. I hid the key for a month. It's still going.” He put five hundred pounds in notes on the counter. “Half now, half when it's done. I'd like it back on Friday.” Five hundred pounds was more than she had earned in October. She tried not to look at the money too long.",
+   "ru": "Хейзел посмотрела на него. «Можно просто перестать их заводить». «Я перестал. Я прятал ключ целый месяц. Они всё ещё идут». Он положил на прилавок пятьсот фунтов купюрами. «Половина сейчас, половина, когда всё будет сделано. Я хотел бы забрать их в пятницу». Пятьсот фунтов — это было больше, чем она заработала за октябрь. Она старалась не смотреть на деньги слишком долго.",
+   "s": [
+    [
+     "Hazel looked at him.",
+     "Хейзел посмотрела на него."
+    ],
+    [
+     "“You could just stop winding it.”",
+     "«Можно просто перестать их заводить»."
+    ],
+    [
+     "“I did. I hid the key for a month.",
+     "«Я перестал. Я прятал ключ целый месяц."
+    ],
+    [
+     "It's still going.”",
+     "Они всё ещё идут»."
+    ],
+    [
+     "He put five hundred pounds in notes on the counter.",
+     "Он положил на прилавок пятьсот фунтов купюрами."
+    ],
+    [
+     "“Half now, half when it's done.",
+     "«Половина сейчас, половина, когда всё будет сделано."
+    ],
+    [
+     "I'd like it back on Friday.”",
+     "Я хотел бы забрать их в пятницу»."
+    ],
+    [
+     "Five hundred pounds was more than she had earned in October.",
+     "Пятьсот фунтов — это было больше, чем она заработала за октябрь."
+    ],
+    [
+     "She tried not to look at the money too long.",
+     "Она старалась не смотреть на деньги слишком долго."
+    ]
+   ]
+  },
+  {
+   "en": "After he left, she opened the back of the clock. The mechanism was not from any factory. Every wheel had been cut by hand, and someone had built it with great love and very little money. On the inside of the door she found words engraved in small, uneven letters: For Ivy, built by her father on the night she was born. May it always keep honest time.",
+   "ru": "Когда он ушёл, она открыла заднюю крышку часов. Механизм был сделан не на фабрике. Каждое колёсико было вырезано вручную, и кто-то собрал его с огромной любовью и совсем без денег. На внутренней стороне дверцы она нашла слова, выгравированные мелкими неровными буквами: «Для Айви, сделано её отцом в ту ночь, когда она родилась. Пусть они всегда показывают честное время».",
+   "s": [
+    [
+     "After he left, she opened the back of the clock.",
+     "Когда он ушёл, она открыла заднюю крышку часов."
+    ],
+    [
+     "The mechanism was not from any factory.",
+     "Механизм был сделан не на фабрике."
+    ],
+    [
+     "Every wheel had been cut by hand, and someone had built it with great love and very little money.",
+     "Каждое колёсико было вырезано вручную, и кто-то собрал его с огромной любовью и совсем без денег."
+    ],
+    [
+     "On the inside of the door she found words engraved in small, uneven letters: For Ivy, built by her father on the night she was born.",
+     "На внутренней стороне дверцы она нашла слова, выгравированные мелкими неровными буквами: «Для Айви, сделано её отцом в ту ночь, когда она родилась."
+    ],
+    [
+     "May it always keep honest time.",
+     "Пусть они всегда показывают честное время»."
+    ]
+   ]
+  },
+  {
+   "en": "There was something else strange about it. Below the moon, in a tiny window, a painted picture moved slowly, like a calendar. Hazel turned the case towards the light. The picture showed a tree in late autumn, with only three or four brown leaves still on its branches. She checked the hands against her own watch. They were wrong — not fast or slow, simply wrong, as if they were counting something else.",
+   "ru": "В них было и ещё кое-что странное. Под луной, в крошечном окошке, медленно двигалась нарисованная картинка, как календарь. Хейзел повернула корпус к свету. На картинке было дерево поздней осенью, на ветвях которого оставалось всего три-четыре коричневых листа. Она сверила стрелки со своими наручными часами. Они показывали неправильно — не спешили и не отставали, а просто показывали не то, как будто считали что-то другое.",
+   "s": [
+    [
+     "There was something else strange about it.",
+     "В них было и ещё кое-что странное."
+    ],
+    [
+     "Below the moon, in a tiny window, a painted picture moved slowly, like a calendar.",
+     "Под луной, в крошечном окошке, медленно двигалась нарисованная картинка, как календарь."
+    ],
+    [
+     "Hazel turned the case towards the light.",
+     "Хейзел повернула корпус к свету."
+    ],
+    [
+     "The picture showed a tree in late autumn, with only three or four brown leaves still on its branches.",
+     "На картинке было дерево поздней осенью, на ветвях которого оставалось всего три-четыре коричневых листа."
+    ],
+    [
+     "She checked the hands against her own watch.",
+     "Она сверила стрелки со своими наручными часами."
+    ],
+    [
+     "They were wrong — not fast or slow, simply wrong, as if they were counting something else.",
+     "Они показывали неправильно — не спешили и не отставали, а просто показывали не то, как будто считали что-то другое."
+    ]
+   ]
+  },
+  {
+   "en": "She worked late that night. Rain ran down the shop window, and the street outside was empty. At about eleven she put a finger on the main spring to test it, and the shop disappeared.",
+   "ru": "В тот вечер она работала допоздна. По витрине стекал дождь, а улица за окном была пуста. Около одиннадцати она дотронулась пальцем до главной пружины, чтобы проверить её, и мастерская исчезла.",
+   "s": [
+    [
+     "She worked late that night.",
+     "В тот вечер она работала допоздна."
+    ],
+    [
+     "Rain ran down the shop window, and the street outside was empty.",
+     "По витрине стекал дождь, а улица за окном была пуста."
+    ],
+    [
+     "At about eleven she put a finger on the main spring to test it, and the shop disappeared.",
+     "Около одиннадцати она дотронулась пальцем до главной пружины, чтобы проверить её, и мастерская исчезла."
+    ]
+   ]
+  },
+  {
+   "en": "She was standing in a nursery with yellow walls. A gentle voice was singing somewhere, and she could smell warm milk. A young man with a tired, happy face was leaning over a baby's bed. Then the picture changed: a girl on a swing in spring, her shoes flying towards the sky; a church and a wedding; a kitchen where a man threw a spoon against the wall in the middle of a fight, and a woman did not cry.",
+   "ru": "Она стояла в детской с жёлтыми стенами. Где-то пел нежный голос, и пахло тёплым молоком. Молодой мужчина с усталым, счастливым лицом склонился над детской кроваткой. Потом картина сменилась: девочка на качелях весной, её туфли взлетают к небу; церковь и свадьба; кухня, где мужчина посреди ссоры швырнул ложку в стену, а женщина не заплакала.",
+   "s": [
+    [
+     "She was standing in a nursery with yellow walls.",
+     "Она стояла в детской с жёлтыми стенами."
+    ],
+    [
+     "A gentle voice was singing somewhere, and she could smell warm milk.",
+     "Где-то пел нежный голос, и пахло тёплым молоком."
+    ],
+    [
+     "A young man with a tired, happy face was leaning over a baby's bed.",
+     "Молодой мужчина с усталым, счастливым лицом склонился над детской кроваткой."
+    ],
+    [
+     "Then the picture changed: a girl on a swing in spring, her shoes flying towards the sky; a church and a wedding; a kitchen where a man threw a spoon against the wall in the middle of a fight, and a woman did not cry.",
+     "Потом картина сменилась: девочка на качелях весной, её туфли взлетают к небу; церковь и свадьба; кухня, где мужчина посреди ссоры швырнул ложку в стену, а женщина не заплакала."
+    ]
+   ]
+  },
+  {
+   "en": "Hazel pulled her hand away. She was sitting on her own stool again, and her breath was coming fast. The clock went on ticking quietly, as if nothing had happened. These were not her memories. She was sure of that. But they felt as real as her own, and the woman in the kitchen had the same blue eyes in every picture, at every age.",
+   "ru": "Хейзел отдёрнула руку. Она снова сидела на своём табурете и часто дышала. Часы продолжали тихо тикать, как будто ничего не случилось. Это были не её воспоминания. В этом она была уверена. Но они казались такими же настоящими, как её собственные, и у женщины на кухне были те же голубые глаза на каждой картинке, в любом возрасте.",
+   "s": [
+    [
+     "Hazel pulled her hand away.",
+     "Хейзел отдёрнула руку."
+    ],
+    [
+     "She was sitting on her own stool again, and her breath was coming fast.",
+     "Она снова сидела на своём табурете и часто дышала."
+    ],
+    [
+     "The clock went on ticking quietly, as if nothing had happened.",
+     "Часы продолжали тихо тикать, как будто ничего не случилось."
+    ],
+    [
+     "These were not her memories.",
+     "Это были не её воспоминания."
+    ],
+    [
+     "She was sure of that.",
+     "В этом она была уверена."
+    ],
+    [
+     "But they felt as real as her own, and the woman in the kitchen had the same blue eyes in every picture, at every age.",
+     "Но они казались такими же настоящими, как её собственные, и у женщины на кухне были те же голубые глаза на каждой картинке, в любом возрасте."
+    ]
+   ]
+  },
+  {
+   "en": "“It's her life,” Hazel said aloud to the empty shop. She did not believe in ghosts, and she had never been able to read a horoscope without laughing. Still, she knew it. The clock did not show the time of day. It showed the time of a life — Ivy's life — and Ivy's life had reached late autumn. If somebody stopped it now, Hazel had a terrible feeling that it would do more harm than a quiet night could fix.",
+   "ru": "«Это её жизнь», — сказала Хейзел вслух пустой мастерской. Она не верила в привидения и ни разу не смогла прочитать гороскоп, не рассмеявшись. И всё же она это знала. Часы показывали не время суток. Они показывали время жизни — жизни Айви, — и жизнь Айви дошла до поздней осени. У Хейзел было ужасное чувство, что если кто-нибудь остановит их сейчас, это причинит больше вреда, чем может исправить спокойная ночь.",
+   "s": [
+    [
+     "“It's her life,” Hazel said aloud to the empty shop.",
+     "«Это её жизнь», — сказала Хейзел вслух пустой мастерской."
+    ],
+    [
+     "She did not believe in ghosts, and she had never been able to read a horoscope without laughing.",
+     "Она не верила в привидения и ни разу не смогла прочитать гороскоп, не рассмеявшись."
+    ],
+    [
+     "Still, she knew it.",
+     "И всё же она это знала."
+    ],
+    [
+     "The clock did not show the time of day.",
+     "Часы показывали не время суток."
+    ],
+    [
+     "It showed the time of a life — Ivy's life — and Ivy's life had reached late autumn.",
+     "Они показывали время жизни — жизни Айви, — и жизнь Айви дошла до поздней осени."
+    ],
+    [
+     "If somebody stopped it now, Hazel had a terrible feeling that it would do more harm than a quiet night could fix.",
+     "У Хейзел было ужасное чувство, что если кто-нибудь остановит их сейчас, это причинит больше вреда, чем может исправить спокойная ночь."
+    ]
+   ]
+  },
+  {
+   "en": "The next morning she took the bus to Larchwood House. Ivy Farrow was a small woman in a green cardigan, sitting by a window with a newspaper she was not reading. When Hazel explained who she was, the old woman's face went white. “Declan brought it to you,” she said. “Is it still going?” “Yes.” Ivy closed her eyes. “Thank God.”",
+   "ru": "На следующее утро она поехала на автобусе в Ларчвуд-Хаус. Айви Фарроу оказалась маленькой женщиной в зелёном кардигане; она сидела у окна с газетой, которую не читала. Когда Хейзел объяснила, кто она такая, лицо старушки побелело. «Диклан принёс их вам», — сказала она. «Они ещё идут?» «Да». Айви закрыла глаза. «Слава Богу».",
+   "s": [
+    [
+     "The next morning she took the bus to Larchwood House.",
+     "На следующее утро она поехала на автобусе в Ларчвуд-Хаус."
+    ],
+    [
+     "Ivy Farrow was a small woman in a green cardigan, sitting by a window with a newspaper she was not reading.",
+     "Айви Фарроу оказалась маленькой женщиной в зелёном кардигане; она сидела у окна с газетой, которую не читала."
+    ],
+    [
+     "When Hazel explained who she was, the old woman's face went white.",
+     "Когда Хейзел объяснила, кто она такая, лицо старушки побелело."
+    ],
+    [
+     "“Declan brought it to you,” she said.",
+     "«Диклан принёс их вам», — сказала она."
+    ],
+    [
+     "“Is it still going?”",
+     "«Они ещё идут?»"
+    ],
+    [
+     "“Yes.”",
+     "«Да»."
+    ],
+    [
+     "Ivy closed her eyes.",
+     "Айви закрыла глаза."
+    ],
+    [
+     "“Thank God.”",
+     "«Слава Богу»."
+    ]
+   ]
+  },
+  {
+   "en": "She told the story simply, as if she were describing the weather. Her father had made the clock in the winter of 1938, while her mother was ill. He had told Ivy, when she was old enough, that it would keep time for her as long as she lived. When the picture showed winter and the hands met at midnight, it would stop by itself. “That will be my time, and I'm not afraid of it,” she said. “I'm afraid of someone else choosing it for me.”",
+   "ru": "Она рассказала историю просто, как будто описывала погоду. Её отец сделал часы зимой 1938 года, когда её мать болела. Когда Айви подросла, он сказал ей, что часы будут отсчитывать её время, пока она жива. Когда на картинке будет зима, а стрелки встретятся на полуночи, они остановятся сами. «Это и будет моё время, и я его не боюсь, — сказала она. — Я боюсь, что кто-то другой выберет его за меня».",
+   "s": [
+    [
+     "She told the story simply, as if she were describing the weather.",
+     "Она рассказала историю просто, как будто описывала погоду."
+    ],
+    [
+     "Her father had made the clock in the winter of 1938, while her mother was ill.",
+     "Её отец сделал часы зимой 1938 года, когда её мать болела."
+    ],
+    [
+     "He had told Ivy, when she was old enough, that it would keep time for her as long as she lived.",
+     "Когда Айви подросла, он сказал ей, что часы будут отсчитывать её время, пока она жива."
+    ],
+    [
+     "When the picture showed winter and the hands met at midnight, it would stop by itself.",
+     "Когда на картинке будет зима, а стрелки встретятся на полуночи, они остановятся сами."
+    ],
+    [
+     "“That will be my time, and I'm not afraid of it,” she said.",
+     "«Это и будет моё время, и я его не боюсь, — сказала она."
+    ],
+    [
+     "“I'm afraid of someone else choosing it for me.”",
+     "— Я боюсь, что кто-то другой выберет его за меня»."
+    ]
+   ]
+  },
+  {
+   "en": "“Your nephew,” Hazel said. “My nephew has debts,” Ivy said, “and in my will he gets my house. He doesn't really believe the story. But he believes it enough to try. He told the nurses the ticking was keeping me awake. It wasn't. It's the only sound in this place that I love.”",
+   "ru": "«Ваш племянник», — сказала Хейзел. «У моего племянника долги, — сказала Айви, — и по моему завещанию ему достаётся мой дом. Он не очень-то верит в эту историю. Но верит достаточно, чтобы попробовать. Он сказал медсёстрам, что тиканье не даёт мне спать. Это неправда. Это единственный звук в этом месте, который я люблю».",
+   "s": [
+    [
+     "“Your nephew,” Hazel said.",
+     "«Ваш племянник», — сказала Хейзел."
+    ],
+    [
+     "“My nephew has debts,” Ivy said, “and in my will he gets my house.",
+     "«У моего племянника долги, — сказала Айви, — и по моему завещанию ему достаётся мой дом."
+    ],
+    [
+     "He doesn't really believe the story.",
+     "Он не очень-то верит в эту историю."
+    ],
+    [
+     "But he believes it enough to try.",
+     "Но верит достаточно, чтобы попробовать."
+    ],
+    [
+     "He told the nurses the ticking was keeping me awake.",
+     "Он сказал медсёстрам, что тиканье не даёт мне спать."
+    ],
+    [
+     "It wasn't.",
+     "Это неправда."
+    ],
+    [
+     "It's the only sound in this place that I love.”",
+     "Это единственный звук в этом месте, который я люблю»."
+    ]
+   ]
+  },
+  {
+   "en": "Hazel thought about the announcement in her drawer, and the five hundred pounds, and felt a sharp, ugly frustration. Why did the honest choice always have to be the expensive one? Ivy was watching her face. “I can't pay you what he can,” she said quietly. “I won't pretend I can.” “I know,” said Hazel. “Let me think.”",
+   "ru": "Хейзел подумала об объявлении в своём ящике и о пятистах фунтах и почувствовала острое, мерзкое разочарование. Почему честный выбор всегда оказывается самым дорогим? Айви следила за её лицом. «Я не могу заплатить вам столько, сколько он, — тихо сказала она. — Не буду притворяться, что могу». «Я знаю, — сказала Хейзел. — Дайте мне подумать».",
+   "s": [
+    [
+     "Hazel thought about the announcement in her drawer, and the five hundred pounds, and felt a sharp, ugly frustration.",
+     "Хейзел подумала об объявлении в своём ящике и о пятистах фунтах и почувствовала острое, мерзкое разочарование."
+    ],
+    [
+     "Why did the honest choice always have to be the expensive one?",
+     "Почему честный выбор всегда оказывается самым дорогим?"
+    ],
+    [
+     "Ivy was watching her face.",
+     "Айви следила за её лицом."
+    ],
+    [
+     "“I can't pay you what he can,” she said quietly.",
+     "«Я не могу заплатить вам столько, сколько он, — тихо сказала она."
+    ],
+    [
+     "“I won't pretend I can.”",
+     "— Не буду притворяться, что могу»."
+    ],
+    [
+     "“I know,” said Hazel.",
+     "«Я знаю, — сказала Хейзел."
+    ],
+    [
+     "“Let me think.”",
+     "— Дайте мне подумать»."
+    ]
+   ]
+  },
+  {
+   "en": "That evening she touched the spring again, on purpose this time. She saw a seaside town, a hospital corridor, a small dog. Then she saw a railway station in heavy rain, and a little girl in a yellow raincoat crying next to a ticket machine. A middle-aged Ivy was kneeling in front of her, wiping a cut on the girl's cheek with a handkerchief and offering her half a biscuit.",
+   "ru": "В тот вечер она снова дотронулась до пружины, на этот раз нарочно. Она увидела приморский городок, больничный коридор, маленькую собаку. Потом она увидела железнодорожный вокзал под сильным дождём и маленькую девочку в жёлтом плаще, которая плакала у билетного автомата. Перед ней стояла на коленях Айви средних лет; она вытирала платком порез на щеке девочки и протягивала ей половинку печенья.",
+   "s": [
+    [
+     "That evening she touched the spring again, on purpose this time.",
+     "В тот вечер она снова дотронулась до пружины, на этот раз нарочно."
+    ],
+    [
+     "She saw a seaside town, a hospital corridor, a small dog.",
+     "Она увидела приморский городок, больничный коридор, маленькую собаку."
+    ],
+    [
+     "Then she saw a railway station in heavy rain, and a little girl in a yellow raincoat crying next to a ticket machine.",
+     "Потом она увидела железнодорожный вокзал под сильным дождём и маленькую девочку в жёлтом плаще, которая плакала у билетного автомата."
+    ],
+    [
+     "A middle-aged Ivy was kneeling in front of her, wiping a cut on the girl's cheek with a handkerchief and offering her half a biscuit.",
+     "Перед ней стояла на коленях Айви средних лет; она вытирала платком порез на щеке девочки и протягивала ей половинку печенья."
+    ]
+   ]
+  },
+  {
+   "en": "Hazel's hand flew to her own cheek, where a thin white line had been since she was four. Her mother had told the story at every family dinner: how Hazel had let go of her hand at Carrow station, how she had been lost for three hours, and how a kind woman had stayed with her, fed her soup with a plastic spoon, and refused to leave until she was safe. Nobody had ever learned the woman's name.",
+   "ru": "Рука Хейзел взлетела к собственной щеке, где с четырёх лет была тонкая белая полоска. Её мама рассказывала эту историю на каждом семейном ужине: как Хейзел отпустила её руку на станции Кэрроу, как она три часа считалась потерявшейся и как добрая женщина осталась с ней, кормила её супом с пластиковой ложки и отказалась уходить, пока девочка не оказалась в безопасности. Имени этой женщины так никто и не узнал.",
+   "s": [
+    [
+     "Hazel's hand flew to her own cheek, where a thin white line had been since she was four.",
+     "Рука Хейзел взлетела к собственной щеке, где с четырёх лет была тонкая белая полоска."
+    ],
+    [
+     "Her mother had told the story at every family dinner: how Hazel had let go of her hand at Carrow station, how she had been lost for three hours, and how a kind woman had stayed with her, fed her soup with a plastic spoon, and refused to leave until she was safe.",
+     "Её мама рассказывала эту историю на каждом семейном ужине: как Хейзел отпустила её руку на станции Кэрроу, как она три часа считалась потерявшейся и как добрая женщина осталась с ней, кормила её супом с пластиковой ложки и отказалась уходить, пока девочка не оказалась в безопасности."
+    ],
+    [
+     "Nobody had ever learned the woman's name.",
+     "Имени этой женщины так никто и не узнал."
+    ]
+   ]
+  },
+  {
+   "en": "For a long time Hazel sat without moving, listening to the clock. Then she went to the shelf at the back of the shop where she kept broken clocks for parts. She took one down — an ordinary kitchen clock with a dead mechanism — and began to work.",
+   "ru": "Долго Хейзел сидела не двигаясь и слушала часы. Потом она подошла к полке в глубине мастерской, где хранила сломанные часы на запчасти. Она сняла одни — обычные кухонные часы с мёртвым механизмом — и принялась за работу.",
+   "s": [
+    [
+     "For a long time Hazel sat without moving, listening to the clock.",
+     "Долго Хейзел сидела не двигаясь и слушала часы."
+    ],
+    [
+     "Then she went to the shelf at the back of the shop where she kept broken clocks for parts.",
+     "Потом она подошла к полке в глубине мастерской, где хранила сломанные часы на запчасти."
+    ],
+    [
+     "She took one down — an ordinary kitchen clock with a dead mechanism — and began to work.",
+     "Она сняла одни — обычные кухонные часы с мёртвым механизмом — и принялась за работу."
+    ]
+   ]
+  },
+  {
+   "en": "Declan arrived on Friday at ten. Hazel put the blue clock on the counter and opened its back so that he could see the wheels. They did not move. He held it up to his ear for a long time. There was no sound at all. “Perfect,” he said, and for the first time his smile looked real. He took out the rest of the money.",
+   "ru": "Диклан пришёл в пятницу в десять. Хейзел поставила синие часы на прилавок и открыла заднюю крышку, чтобы ему были видны колёсики. Они не двигались. Он долго держал часы у уха. Не было слышно ни звука. «Идеально», — сказал он, и впервые его улыбка показалась настоящей. Он достал остаток денег.",
+   "s": [
+    [
+     "Declan arrived on Friday at ten.",
+     "Диклан пришёл в пятницу в десять."
+    ],
+    [
+     "Hazel put the blue clock on the counter and opened its back so that he could see the wheels.",
+     "Хейзел поставила синие часы на прилавок и открыла заднюю крышку, чтобы ему были видны колёсики."
+    ],
+    [
+     "They did not move.",
+     "Они не двигались."
+    ],
+    [
+     "He held it up to his ear for a long time.",
+     "Он долго держал часы у уха."
+    ],
+    [
+     "There was no sound at all.",
+     "Не было слышно ни звука."
+    ],
+    [
+     "“Perfect,” he said, and for the first time his smile looked real.",
+     "«Идеально», — сказал он, и впервые его улыбка показалась настоящей."
+    ],
+    [
+     "He took out the rest of the money.",
+     "Он достал остаток денег."
+    ]
+   ]
+  },
+  {
+   "en": "“Keep it,” Hazel said. He stared at her. “You did the work.” “I don't want to be paid for this job.” He laughed, a little uneasily, but he did not argue. People like Declan never argued when you refused their money. He put the clock under his arm, said he hoped she would have a lovely weekend, and left. Through the window she watched him throw the box on the back seat of his car.",
+   "ru": "«Оставьте себе», — сказала Хейзел. Он уставился на неё. «Вы же сделали работу». «Я не хочу, чтобы мне платили за эту работу». Он рассмеялся, немного неловко, но спорить не стал. Такие, как Диклан, никогда не спорят, когда отказываешься от их денег. Он сунул часы под мышку, пожелал ей прекрасных выходных и ушёл. Через окно она видела, как он бросил коробку на заднее сиденье своей машины.",
+   "s": [
+    [
+     "“Keep it,” Hazel said.",
+     "«Оставьте себе», — сказала Хейзел."
+    ],
+    [
+     "He stared at her.",
+     "Он уставился на неё."
+    ],
+    [
+     "“You did the work.”",
+     "«Вы же сделали работу»."
+    ],
+    [
+     "“I don't want to be paid for this job.”",
+     "«Я не хочу, чтобы мне платили за эту работу»."
+    ],
+    [
+     "He laughed, a little uneasily, but he did not argue.",
+     "Он рассмеялся, немного неловко, но спорить не стал."
+    ],
+    [
+     "People like Declan never argued when you refused their money.",
+     "Такие, как Диклан, никогда не спорят, когда отказываешься от их денег."
+    ],
+    [
+     "He put the clock under his arm, said he hoped she would have a lovely weekend, and left.",
+     "Он сунул часы под мышку, пожелал ей прекрасных выходных и ушёл."
+    ],
+    [
+     "Through the window she watched him throw the box on the back seat of his car.",
+     "Через окно она видела, как он бросил коробку на заднее сиденье своей машины."
+    ]
+   ]
+  },
+  {
+   "en": "When he was gone, she unlocked the bottom drawer. Inside, wrapped in a towel, the real mechanism — the wheels that Ivy's father had cut — sat in a plain wooden case she had made the night before. It was ticking. In its little window, the last brown leaves were still holding on.",
+   "ru": "Когда он уехал, она отперла нижний ящик. Внутри, завёрнутый в полотенце, лежал настоящий механизм — колёсики, вырезанные отцом Айви, — в простом деревянном корпусе, который она сделала накануне ночью. Он тикал. В маленьком окошке всё ещё держались последние коричневые листья.",
+   "s": [
+    [
+     "When he was gone, she unlocked the bottom drawer.",
+     "Когда он уехал, она отперла нижний ящик."
+    ],
+    [
+     "Inside, wrapped in a towel, the real mechanism — the wheels that Ivy's father had cut — sat in a plain wooden case she had made the night before.",
+     "Внутри, завёрнутый в полотенце, лежал настоящий механизм — колёсики, вырезанные отцом Айви, — в простом деревянном корпусе, который она сделала накануне ночью."
+    ],
+    [
+     "It was ticking.",
+     "Он тикал."
+    ],
+    [
+     "In its little window, the last brown leaves were still holding on.",
+     "В маленьком окошке всё ещё держались последние коричневые листья."
+    ]
+   ]
+  },
+  {
+   "en": "She took it to Larchwood House that afternoon and put it on the table by Ivy's bed. Then she showed the old woman her cheek and told her about the station. Ivy looked at her for a long time. “You gave me back half the biscuit,” she said at last. “You said I looked hungry.” They both laughed, and then Ivy cried a little, and Hazel did too.",
+   "ru": "В тот же день она отвезла его в Ларчвуд-Хаус и поставила на столик у кровати Айви. Потом она показала старушке свою щеку и рассказала ей о вокзале. Айви долго смотрела на неё. «Ты отдала мне обратно половину печенья, — сказала она наконец. — Ты сказала, что я выгляжу голодной». Они обе рассмеялись, а потом Айви немного поплакала, и Хейзел тоже.",
+   "s": [
+    [
+     "She took it to Larchwood House that afternoon and put it on the table by Ivy's bed.",
+     "В тот же день она отвезла его в Ларчвуд-Хаус и поставила на столик у кровати Айви."
+    ],
+    [
+     "Then she showed the old woman her cheek and told her about the station.",
+     "Потом она показала старушке свою щеку и рассказала ей о вокзале."
+    ],
+    [
+     "Ivy looked at her for a long time.",
+     "Айви долго смотрела на неё."
+    ],
+    [
+     "“You gave me back half the biscuit,” she said at last.",
+     "«Ты отдала мне обратно половину печенья, — сказала она наконец."
+    ],
+    [
+     "“You said I looked hungry.”",
+     "— Ты сказала, что я выгляжу голодной»."
+    ],
+    [
+     "They both laughed, and then Ivy cried a little, and Hazel did too.",
+     "Они обе рассмеялись, а потом Айви немного поплакала, и Хейзел тоже."
+    ]
+   ]
+  },
+  {
+   "en": "The clock kept honest time all winter. Hazel visited every Sunday and wound it with the old key. The picture in the window changed slowly: bare branches, then snow. Ivy grew weaker, but she was never afraid. She talked about her father, about her husband, whom she had married against her mother's wishes, and about the mystery of how a man with no money had built something so clever.",
+   "ru": "Всю зиму часы шли честно. Хейзел приезжала каждое воскресенье и заводила их старым ключом. Картинка в окошке медленно менялась: голые ветви, потом снег. Айви становилась слабее, но ни разу не испугалась. Она рассказывала об отце, о муже, за которого вышла замуж против воли матери, и о загадке того, как человек без денег смог построить такую умную вещь.",
+   "s": [
+    [
+     "The clock kept honest time all winter.",
+     "Всю зиму часы шли честно."
+    ],
+    [
+     "Hazel visited every Sunday and wound it with the old key.",
+     "Хейзел приезжала каждое воскресенье и заводила их старым ключом."
+    ],
+    [
+     "The picture in the window changed slowly: bare branches, then snow.",
+     "Картинка в окошке медленно менялась: голые ветви, потом снег."
+    ],
+    [
+     "Ivy grew weaker, but she was never afraid.",
+     "Айви становилась слабее, но ни разу не испугалась."
+    ],
+    [
+     "She talked about her father, about her husband, whom she had married against her mother's wishes, and about the mystery of how a man with no money had built something so clever.",
+     "Она рассказывала об отце, о муже, за которого вышла замуж против воли матери, и о загадке того, как человек без денег смог построить такую умную вещь."
+    ]
+   ]
+  },
+  {
+   "en": "She died on the first warm night of March, peacefully, with the window open. The nurse said that the clock by her bed had stopped at exactly midnight. Hazel did not try to start it again.",
+   "ru": "Она умерла в первую тёплую ночь марта, спокойно, при открытом окне. Медсестра сказала, что часы у её кровати остановились ровно в полночь. Хейзел не стала пытаться завести их снова.",
+   "s": [
+    [
+     "She died on the first warm night of March, peacefully, with the window open.",
+     "Она умерла в первую тёплую ночь марта, спокойно, при открытом окне."
+    ],
+    [
+     "The nurse said that the clock by her bed had stopped at exactly midnight.",
+     "Медсестра сказала, что часы у её кровати остановились ровно в полночь."
+    ],
+    [
+     "Hazel did not try to start it again.",
+     "Хейзел не стала пытаться завести их снова."
+    ]
+   ]
+  },
+  {
+   "en": "A week later, a lawyer called her. Ivy had changed her will in December. The house would go to a hospital for children. To her nephew Declan she had left “my father's nursery clock, which he has already paid for” — the blue case with the dead kitchen mechanism inside. To Hazel Moss she had left “the part that kept honest time,” together with a sum of money that was large enough to pay all of her rent, and more.",
+   "ru": "Через неделю ей позвонил юрист. В декабре Айви изменила завещание. Дом должен был отойти детской больнице. Своему племяннику Диклану она оставила «часы из детской, сделанные моим отцом, за которые он уже заплатил» — синий корпус с мёртвым кухонным механизмом внутри. Хейзел Мосс она оставила «ту часть, которая показывала честное время», а вместе с ней сумму денег, которой хватало, чтобы заплатить всю аренду, и даже больше.",
+   "s": [
+    [
+     "A week later, a lawyer called her.",
+     "Через неделю ей позвонил юрист."
+    ],
+    [
+     "Ivy had changed her will in December.",
+     "В декабре Айви изменила завещание."
+    ],
+    [
+     "The house would go to a hospital for children.",
+     "Дом должен был отойти детской больнице."
+    ],
+    [
+     "To her nephew Declan she had left “my father's nursery clock, which he has already paid for” — the blue case with the dead kitchen mechanism inside.",
+     "Своему племяннику Диклану она оставила «часы из детской, сделанные моим отцом, за которые он уже заплатил» — синий корпус с мёртвым кухонным механизмом внутри."
+    ],
+    [
+     "To Hazel Moss she had left “the part that kept honest time,” together with a sum of money that was large enough to pay all of her rent, and more.",
+     "Хейзел Мосс она оставила «ту часть, которая показывала честное время», а вместе с ней сумму денег, которой хватало, чтобы заплатить всю аренду, и даже больше."
+    ]
+   ]
+  },
+  {
+   "en": "There was also a short letter in Ivy's careful handwriting. “You think you owed me a debt of honour,” it said. “You didn't. A woman who stays with a lost child for three hours is not giving something away. She is being given something. But if it helps, we are even now. Thank you for making sure that my time was my own.”",
+   "ru": "Было и короткое письмо, написанное аккуратным почерком Айви. «Ты думаешь, что была в долгу чести передо мной, — говорилось в нём. — Это не так. Женщина, которая три часа проводит с потерявшимся ребёнком, ничего не отдаёт. Это ей что-то дарят. Но если тебе так легче, теперь мы в расчёте. Спасибо тебе за то, что моё время осталось моим».",
+   "s": [
+    [
+     "There was also a short letter in Ivy's careful handwriting.",
+     "Было и короткое письмо, написанное аккуратным почерком Айви."
+    ],
+    [
+     "“You think you owed me a debt of honour,” it said.",
+     "«Ты думаешь, что была в долгу чести передо мной, — говорилось в нём."
+    ],
+    [
+     "“You didn't.",
+     "— Это не так."
+    ],
+    [
+     "A woman who stays with a lost child for three hours is not giving something away.",
+     "Женщина, которая три часа проводит с потерявшимся ребёнком, ничего не отдаёт."
+    ],
+    [
+     "She is being given something.",
+     "Это ей что-то дарят."
+    ],
+    [
+     "But if it helps, we are even now.",
+     "Но если тебе так легче, теперь мы в расчёте."
+    ],
+    [
+     "Thank you for making sure that my time was my own.”",
+     "Спасибо тебе за то, что моё время осталось моим»."
+    ]
+   ]
+  },
+  {
+   "en": "Hazel paid the landlord and put the plain wooden clock in her shop window, with a card that said NOT FOR SALE. It never ticked again. But sometimes, late at night, when the rain ran down the glass, she thought she could hear a gentle voice singing somewhere in the distance, and she would sit for a while in the dark, listening, before she turned off the lamp and went home.",
+   "ru": "Хейзел расплатилась с арендодателем и поставила простые деревянные часы на витрину с карточкой «НЕ ПРОДАЁТСЯ». Они больше ни разу не тикнули. Но иногда, поздно ночью, когда по стеклу стекал дождь, ей казалось, что она слышит, как где-то вдали поёт нежный голос, и она немного сидела в темноте, прислушиваясь, прежде чем выключить лампу и пойти домой.",
+   "s": [
+    [
+     "Hazel paid the landlord and put the plain wooden clock in her shop window, with a card that said NOT FOR SALE.",
+     "Хейзел расплатилась с арендодателем и поставила простые деревянные часы на витрину с карточкой «НЕ ПРОДАЁТСЯ»."
+    ],
+    [
+     "It never ticked again.",
+     "Они больше ни разу не тикнули."
+    ],
+    [
+     "But sometimes, late at night, when the rain ran down the glass, she thought she could hear a gentle voice singing somewhere in the distance, and she would sit for a while in the dark, listening, before she turned off the lamp and went home.",
+     "Но иногда, поздно ночью, когда по стеклу стекал дождь, ей казалось, что она слышит, как где-то вдали поёт нежный голос, и она немного сидела в темноте, прислушиваясь, прежде чем выключить лампу и пойти домой."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "able": "(was able to) смогла",
+  "about": "о, об",
+  "above": "над",
+  "afraid": "(be afraid) бояться",
+  "after": "после",
+  "afternoon": "день, после полудня",
+  "again": "снова",
+  "against": "у, к (стене)",
+  "age": "возраст",
+  "aged": "(middle-aged) средних лет",
+  "all": "весь; (at all) совсем",
+  "aloud": "вслух",
+  "already": "уже",
+  "also": "также",
+  "always": "всегда",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "announcement": "объявление",
+  "any": "какой-либо; больше",
+  "are": "(есть) — вы/они",
+  "argue": "спорим",
+  "argued": "спорил",
+  "arm": "рука",
+  "around": "вокруг, по",
+  "arrived": "пришёл",
+  "as": "как, так как",
+  "at": "в, у, на",
+  "aunt's": "тёти",
+  "autumn": "осень",
+  "awake": "не спящий",
+  "away": "прочь",
+  "baby's": "детская (кроватка)",
+  "back": "задняя крышка; назад",
+  "bad": "плохой; (bad with money) не умеет обращаться",
+  "bakery": "пекарня",
+  "bare": "голый",
+  "be": "быть",
+  "bed": "кровать",
+  "been": "был(о)",
+  "before": "до, прежде чем",
+  "began": "начал(а)",
+  "begins": "начинается",
+  "being": "(is being given) ей дают",
+  "believe": "верить",
+  "believes": "верит",
+  "bell": "колокольчик",
+  "below": "внизу",
+  "between": "между",
+  "biscuit": "печенье",
+  "blue": "синий",
+  "born": "(was born) родилась",
+  "both": "оба",
+  "bottom": "нижний",
+  "bought": "купил",
+  "box": "коробка",
+  "branches": "ветви",
+  "breath": "вдох, дыхание",
+  "broken": "сломанный",
+  "brought": "принёс",
+  "brown": "коричневый",
+  "built": "сделал, построил",
+  "bus": "автобус",
+  "but": "но",
+  "by": "у, к, от",
+  "calendar": "календарь",
+  "called": "позвонил",
+  "can": "могу, можем",
+  "can't": "не может, нельзя",
+  "car": "машина",
+  "card": "карточка",
+  "cardigan": "кардиган",
+  "care": "(care home) дом престарелых",
+  "careful": "осторожный, тщательный",
+  "carrow": "Кэрроу (название станции)",
+  "carrying": "неся",
+  "case": "корпус (часов)",
+  "changed": "сменилась, изменила",
+  "checked": "сверила",
+  "cheek": "щека",
+  "child": "дитя",
+  "children": "дети",
+  "choice": "выбор",
+  "choosing": "выбирает (выбор)",
+  "church": "церковь",
+  "clever": "ловкий, умный",
+  "clock": "часы",
+  "clocks": "часы (мн.)",
+  "closed": "закрыл(а)",
+  "coat": "пальто",
+  "coming": "(was coming fast) было частым",
+  "corridor": "коридор",
+  "could": "мог(ла)",
+  "counter": "прилавок",
+  "counting": "считали",
+  "cried": "заплакала",
+  "cry": "плакать",
+  "crying": "плачущая",
+  "cut": "вырезан; порез",
+  "dark": "тёмный",
+  "day": "день",
+  "dead": "мёртвый, неработающий",
+  "debt": "долг",
+  "debts": "долги",
+  "december": "декабрь",
+  "declan": "Диклан (имя)",
+  "describing": "описывал",
+  "did": "(вспом. гл.); сделал",
+  "didn't": "не (прош. вр.)",
+  "died": "умер(ла)",
+  "difficult": "трудный",
+  "dinner": "ужин",
+  "disappeared": "исчезла",
+  "distance": "расстояние",
+  "do": "(вспом. гл.)",
+  "doesn't": "не (вспом.)",
+  "dog": "собака",
+  "don't": "не (вспом.)",
+  "done": "сделано",
+  "door": "дверь",
+  "down": "вниз",
+  "drawer": "ящик",
+  "ear": "ухо",
+  "earned": "зарабатывал",
+  "eight": "восемь",
+  "eighty": "восемьдесят",
+  "eleven": "одиннадцать",
+  "else": "ещё, другой",
+  "empty": "пустой",
+  "end": "конец",
+  "engraved": "выгравированный",
+  "enough": "достаточно",
+  "entered": "вошёл",
+  "even": "даже",
+  "evening": "вечер",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "exactly": "точно",
+  "expensive": "дорогой",
+  "explained": "объяснил",
+  "eyes": "глаза",
+  "face": "лицо",
+  "factory": "фабрика",
+  "family": "семья",
+  "farrow": "Фарроу (фамилия)",
+  "fast": "быстрый",
+  "father": "отец",
+  "father's": "отца",
+  "fed": "кормила",
+  "feeling": "чувство",
+  "felt": "почувствовала; казались",
+  "fifty": "пятьдесят",
+  "fight": "ссора, драка",
+  "finger": "палец",
+  "first": "первый; сначала",
+  "five": "пять",
+  "fix": "исправить",
+  "flew": "взлетела",
+  "flying": "взлетающие",
+  "for": "для, в течение",
+  "found": "нашла",
+  "four": "четыре",
+  "friday": "пятница",
+  "from": "из, от",
+  "front": "перед (in front of)",
+  "frustration": "разочарование",
+  "gave": "отдала",
+  "gentle": "нежный, добрый",
+  "gets": "получает; (gets upset) расстраивается",
+  "ghosts": "привидения",
+  "girl": "девочка",
+  "girl's": "девочки",
+  "given": "дан, подарен",
+  "giving": "(giving away) отдаёт",
+  "glass": "стекло",
+  "go": "идти; (let go) отпустить",
+  "god": "Бог",
+  "going": "идут (о часах)",
+  "gone": "ушёл, уехал",
+  "good": "хороший; (good with) умелый",
+  "grandfather": "дедушка",
+  "great": "большой, отличный",
+  "green": "зелёный",
+  "grew": "становилась",
+  "grey": "серый",
+  "had": "(вспом. гл.); имела",
+  "half": "половина",
+  "hand": "рука",
+  "handkerchief": "носовой платок",
+  "hands": "руки",
+  "handwriting": "почерк",
+  "happened": "случилось",
+  "happy": "счастливый",
+  "harm": "вред",
+  "has": "(вспом. гл.)",
+  "have": "иметь; (вспом.)",
+  "hazel": "Хейзел (имя)",
+  "hazel's": "Хейзел (притяж.)",
+  "he": "он",
+  "hear": "слышать",
+  "heavy": "сильный (о дожде)",
+  "held": "(held up) поднёс",
+  "helps": "помогает",
+  "her": "её, ей",
+  "hid": "спрятал",
+  "him": "его, ему",
+  "himself": "сам, себе",
+  "his": "его",
+  "holding": "(holding on) держались",
+  "home": "дом; домой",
+  "honest": "честный",
+  "honour": "честь",
+  "hoped": "надеялась",
+  "horoscope": "гороскоп",
+  "hospital": "больница",
+  "hours": "часы (время)",
+  "house": "дом",
+  "how": "как",
+  "hundred": "сто",
+  "hungry": "голодный",
+  "husband": "муж",
+  "i": "я",
+  "i'd": "я бы",
+  "i'm": "я (есть)",
+  "if": "если, ли",
+  "ill": "(was ill) болела",
+  "in": "в",
+  "inside": "внутри",
+  "introduced": "представил",
+  "is": "есть, является",
+  "it": "он, оно, это",
+  "it's": "это",
+  "its": "его, её",
+  "itself": "само",
+  "ivy": "Айви (имя)",
+  "ivy's": "Айви (притяж.)",
+  "job": "работа, заказ",
+  "just": "просто",
+  "keep": "оставить; (keep time) показывать время",
+  "keeping": "(keeping awake) не давал спать",
+  "keeps": "(keeps awake) не даёт спать",
+  "kept": "хранила",
+  "key": "ключ",
+  "kind": "добрый",
+  "kitchen": "кухня",
+  "kneeling": "стоящая на коленях",
+  "knew": "знала",
+  "know": "знаю",
+  "lamp": "лампа",
+  "landlord": "хозяин помещения",
+  "larchwood": "Ларчвуд (название)",
+  "large": "большой",
+  "last": "последний; (at last) наконец",
+  "late": "поздно",
+  "later": "позже",
+  "laughed": "засмеялся, рассмеялись",
+  "laughing": "смеясь",
+  "lawyer": "юрист",
+  "leaning": "склонившийся",
+  "learned": "узнал",
+  "leave": "уйти, съехать",
+  "leaves": "листья",
+  "left": "ушёл; оставила",
+  "let": "(let go) отпустила; (let me) дайте",
+  "letter": "письмо",
+  "letters": "буквы",
+  "life": "жизнь",
+  "light": "свет",
+  "like": "(I'd like) хотел бы; как",
+  "line": "полоска",
+  "listened": "прислушиваешься",
+  "listening": "слушая, прислушиваясь",
+  "little": "маленький, немного",
+  "lived": "жила",
+  "living": "(for a living) на жизнь",
+  "long": "долго, долгий",
+  "look": "смотреть",
+  "looked": "посмотрела; выглядел",
+  "lost": "потерявшийся",
+  "love": "любовь",
+  "lovely": "прекрасный",
+  "machine": "автомат",
+  "made": "сделал(а)",
+  "main": "главный",
+  "making": "(making sure) за то, что позаботилась",
+  "man": "мужчина",
+  "march": "март",
+  "married": "вышла замуж",
+  "may": "пусть",
+  "me": "меня, мне",
+  "mechanism": "механизм",
+  "memories": "воспоминания",
+  "met": "встретятся",
+  "middle": "середина",
+  "midnight": "полночь",
+  "milk": "молоко",
+  "money": "деньги",
+  "month": "месяц",
+  "months": "месяцы",
+  "moon": "луна",
+  "more": "больше",
+  "morning": "утро",
+  "moss": "Мосс (фамилия)",
+  "mother": "мать, мама",
+  "mother's": "матери",
+  "move": "двигаться",
+  "moved": "двигалась",
+  "moving": "двигаясь",
+  "my": "мой",
+  "mystery": "тайна",
+  "name": "имя",
+  "narrow": "узкий",
+  "needs": "нужно",
+  "nephew": "племянник",
+  "never": "никогда",
+  "new": "новый",
+  "newspaper": "газета",
+  "next": "следующий; рядом",
+  "night": "ночь",
+  "no": "нет",
+  "nobody": "никто",
+  "not": "не",
+  "notes": "купюры",
+  "nothing": "ничего",
+  "november": "ноябрь",
+  "now": "теперь",
+  "nurse": "медсестра",
+  "nursery": "детская",
+  "nurses": "медсёстры",
+  "o'clock": "часов",
+  "october": "октябрь",
+  "of": "из, о, (род. падеж)",
+  "off": "(turned off) выключила",
+  "offering": "протягивая, предлагая",
+  "old": "старый",
+  "on": "на",
+  "one": "один, одна",
+  "only": "только",
+  "open": "открытый",
+  "opened": "открыл",
+  "or": "или",
+  "ordinary": "обычный",
+  "others": "другие",
+  "out": "наружу",
+  "outside": "снаружи",
+  "over": "над",
+  "owed": "была должна",
+  "own": "собственный",
+  "paid": "заплатил",
+  "painted": "выкрашенный, нарисованный",
+  "part": "часть",
+  "parts": "части",
+  "paused": "помолчала",
+  "pay": "платить",
+  "peacefully": "спокойно, мирно",
+  "people": "люди",
+  "perfect": "идеальный",
+  "picture": "картинка",
+  "place": "место",
+  "plain": "простой",
+  "plastic": "пластиковый",
+  "polite": "вежливый",
+  "pounds": "фунты",
+  "pretend": "притворяться",
+  "pulled": "(pulled away) отдёрнула",
+  "purpose": "цель (on purpose — нарочно)",
+  "put": "положила, поставила",
+  "quay": "Куэй (название улицы)",
+  "quiet": "тихий",
+  "quietly": "тихо",
+  "railway": "железная дорога",
+  "rain": "дождь",
+  "raincoat": "плащ",
+  "ran": "стекал",
+  "rang": "зазвенел",
+  "reached": "дошла",
+  "read": "читать, прочитала",
+  "reading": "читая",
+  "real": "настоящий",
+  "really": "действительно",
+  "refused": "отказался",
+  "release": "отпустить",
+  "rent": "плата за жильё",
+  "repaired": "чинила; отремонтированный",
+  "resides": "проживает",
+  "rest": "остаток",
+  "river": "река",
+  "room": "комната",
+  "safe": "в безопасности",
+  "said": "сказал(а)",
+  "sale": "продажа",
+  "same": "тот же",
+  "sat": "сидела; лежал",
+  "saw": "увидела",
+  "say": "говорить",
+  "seaside": "приморский",
+  "seat": "сиденье",
+  "see": "видеть",
+  "sharp": "острый",
+  "she": "она",
+  "she's": "она (есть)",
+  "shelf": "полка",
+  "shoes": "туфли",
+  "shop": "мастерская, магазин",
+  "short": "короткий",
+  "show": "показывать",
+  "showed": "показала; было изображено",
+  "silver": "серебряный",
+  "simply": "просто",
+  "since": "с (тех пор)",
+  "singing": "пела, поющий",
+  "sit": "сидеть",
+  "sitting": "сидящая, сидела",
+  "sky": "небо",
+  "slow": "медленный",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smell": "чувствовать запах",
+  "smile": "улыбка",
+  "snow": "снег",
+  "so": "поэтому; так",
+  "soft": "мягкий",
+  "sold": "продавал(и)",
+  "somebody": "кто-то",
+  "someone": "кто-то",
+  "something": "что-то",
+  "sometimes": "иногда",
+  "somewhere": "где-то",
+  "sound": "звук",
+  "soup": "суп",
+  "spoon": "ложка",
+  "spring": "весна",
+  "standing": "стояла",
+  "stared": "уставилась",
+  "stars": "звёзды",
+  "start": "запустить",
+  "station": "вокзал, станция",
+  "stayed": "осталась",
+  "stays": "остаётся",
+  "still": "всё ещё; и всё же",
+  "stool": "табурет",
+  "stop": "перестать; остановиться",
+  "stopped": "остановились",
+  "story": "история",
+  "strange": "странный",
+  "street": "улица",
+  "sum": "сумма",
+  "sunday": "воскресенье",
+  "sure": "уверенный; (make sure) позаботиться",
+  "swing": "качели",
+  "table": "стол",
+  "take": "(take out) вынуть",
+  "talked": "говорил(а)",
+  "taped": "приклеенный скотчем",
+  "ten": "десять",
+  "terrible": "ужасный",
+  "test": "проверить",
+  "than": "чем",
+  "thank": "спасибо",
+  "that": "что; тот, это",
+  "the": "(опр. артикль)",
+  "their": "их, свои",
+  "them": "их",
+  "then": "потом, тогда",
+  "there": "там",
+  "these": "эти",
+  "they": "они",
+  "thin": "худой",
+  "things": "вещи",
+  "think": "думаю",
+  "thirty": "тридцать",
+  "this": "этот",
+  "thought": "подумала",
+  "three": "три",
+  "threw": "бросил",
+  "through": "через, сквозь",
+  "throw": "бросить",
+  "ticked": "тикнули",
+  "ticket": "билет",
+  "ticking": "тиканье; тикая",
+  "time": "время, раз",
+  "tiny": "крошечный",
+  "tired": "усталый",
+  "to": "к, в; (частица)",
+  "together": "вместе",
+  "told": "сказал; рассказывала",
+  "too": "слишком",
+  "took": "поехала; взяла; отвезла",
+  "touched": "дотронулась",
+  "towards": "к, по направлению к",
+  "towel": "полотенце",
+  "town": "город",
+  "tree": "дерево",
+  "tried": "старалась, пыталась",
+  "try": "попробовать",
+  "turned": "повернула; (turned on/off) включила/выключила",
+  "twice": "дважды",
+  "ugly": "мерзкий, уродливый",
+  "umbrellas": "зонты",
+  "under": "под",
+  "uneasily": "неловко",
+  "uneven": "неровный",
+  "unlocked": "отперла",
+  "until": "до",
+  "up": "(held up) поднёс",
+  "upset": "расстроенный",
+  "used": "(used to) бывало, раньше",
+  "very": "очень",
+  "visited": "навещала",
+  "voice": "голос",
+  "wall": "стена; настенный",
+  "walls": "стены",
+  "want": "хотеть",
+  "warm": "тёплый",
+  "was": "был(а)",
+  "wasn't": "не был",
+  "watch": "наручные часы",
+  "watched": "видела, смотрела",
+  "watching": "наблюдала",
+  "we": "мы",
+  "weaker": "слабее",
+  "weather": "погода",
+  "wedding": "свадьба",
+  "week": "неделя",
+  "weekend": "выходные",
+  "went": "пошла; (went white) побелело; (went on) продолжали",
+  "were": "были",
+  "what": "что",
+  "whatever": "что угодно",
+  "wheel": "колёсико",
+  "wheels": "колёсики",
+  "when": "когда",
+  "where": "где",
+  "which": "который, что",
+  "while": "пока",
+  "white": "белый",
+  "who": "кто, который",
+  "whom": "которого",
+  "why": "почему",
+  "will": "будет",
+  "winding": "заводить (часы)",
+  "window": "окно",
+  "winter": "зима",
+  "wiping": "вытирая",
+  "wishes": "воля, желания",
+  "with": "с",
+  "without": "без",
+  "woman": "женщина",
+  "woman's": "женщины",
+  "won't": "не (буд. время)",
+  "wooden": "деревянный",
+  "words": "слова",
+  "work": "работа; работать",
+  "workbench": "верстак",
+  "worked": "работала",
+  "would": "бы",
+  "wound": "заводила (часы)",
+  "wrapped": "завёрнутый",
+  "wrong": "неправильно; не так",
+  "yellow": "жёлтый",
+  "yes": "да",
+  "you": "вы, ты",
+  "young": "молодой",
+  "your": "ваш"
+ },
+ "vocab": {
+  "resides": 574,
+  "breath": 460,
+  "built": 97,
+  "gentle": 520,
+  "honest": 331,
+  "hoped": 451,
+  "harm": 610,
+  "perfect": 26,
+  "lovely": 17,
+  "brought": 184,
+  "announcement": 525,
+  "cheek": 67,
+  "fight": 174,
+  "nursery": 18,
+  "married": 283,
+  "voice": 84,
+  "frustration": 475,
+  "tired": 53,
+  "still": 151,
+  "memories": 624,
+  "able": 327,
+  "autumn": 217,
+  "spring": 216,
+  "release": 590,
+  "threw": 145,
+  "throw": 145,
+  "wishes": 161,
+  "honour": 345,
+  "mystery": 340,
+  "debt": 646,
+  "debts": 646,
+  "spoon": 599,
+  "distance": 449,
+  "thank": 12
+ }
+}

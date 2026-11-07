@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Where were the Romanovs killed?",
+  "q_ru": "Где были убиты Романовы?",
+  "options": [
+   "In a palace in St Petersburg",
+   "In a forest near Moscow",
+   "In the basement of a house in Yekaterinburg",
+   "On a train to Siberia"
+  ],
+  "options_ru": [
+   "Во дворце в Санкт-Петербурге",
+   "В лесу под Москвой",
+   "В подвале дома в Екатеринбурге",
+   "В поезде, шедшем в Сибирь"
+  ],
+  "answer": 2,
+  "explain_ru": "В ночь на 17 июля 1918 года семью расстреляли в подвале Ипатьевского дома в Екатеринбурге."
+ },
+ {
+  "q": "Why were some of the daughters still alive after the first shots?",
+  "q_ru": "Почему некоторые дочери были ещё живы после первых выстрелов?",
+  "options": [
+   "Jewels sewn into their clothes worked like armour",
+   "The guards refused to shoot them",
+   "They hid behind the chairs",
+   "The guns did not work properly"
+  ],
+  "options_ru": [
+   "Драгоценности, зашитые в одежду, сработали как броня",
+   "Охранники отказались в них стрелять",
+   "Они спрятались за стульями",
+   "Оружие плохо работало"
+  ],
+  "answer": 0,
+  "explain_ru": "В тексте сказано, что в их одежду были зашиты драгоценности, которые сработали почти как броня."
+ },
+ {
+  "q": "In 1927, who did a private detective say Anna Anderson really was?",
+  "q_ru": "Кем, по словам частного детектива в 1927 году, на самом деле была Анна Андерсон?",
+  "options": [
+   "A Russian actress",
+   "A Polish factory worker, Franziska Schanzkowska",
+   "A German nurse from Berlin",
+   "Tatiana Romanov"
+  ],
+  "options_ru": [
+   "Русской актрисой",
+   "Польской работницей фабрики Франциской Шанцковской",
+   "Немецкой медсестрой из Берлина",
+   "Татьяной Романовой"
+  ],
+  "answer": 1,
+  "explain_ru": "Детектив, нанятый братом Александры, назвал её Франциской Шанцковской, пропавшей в Берлине в начале 1920 года."
+ },
+ {
+  "q": "How could scientists test Anna Anderson's DNA after she was cremated?",
+  "q_ru": "Как учёные смогли проверить ДНК Анны Андерсон после её кремации?",
+  "options": [
+   "They used a letter she had written",
+   "They tested her husband's blood",
+   "They opened her grave in Germany",
+   "They used tissue kept after a 1979 operation"
+  ],
+  "options_ru": [
+   "Использовали письмо, которое она написала",
+   "Исследовали кровь её мужа",
+   "Вскрыли её могилу в Германии",
+   "Использовали ткань, сохранившуюся после операции 1979 года"
+  ],
+  "answer": 3,
+  "explain_ru": "В больнице Шарлотсвилла сохранился кусочек ткани после операции 1979 года; позже исследовали и её волосы."
+ },
+ {
+  "q": "What did the DNA tests on Anna Anderson show?",
+  "q_ru": "Что показали анализы ДНК Анны Андерсон?",
+  "options": [
+   "She matched Prince Philip",
+   "The results could not be read",
+   "She matched a relative of Franziska Schanzkowska",
+   "She was Maria, not Anastasia"
+  ],
+  "options_ru": [
+   "Она совпала с принцем Филиппом",
+   "Результаты не удалось прочитать",
+   "Она совпала с родственником Франциски Шанцковской",
+   "Она была Марией, а не Анастасией"
+  ],
+  "answer": 2,
+  "explain_ru": "Её ДНК не совпала с Романовыми, но совпала с Карлом Маухером, внучатым племянником Франциски Шанцковской."
+ },
+ {
+  "q": "What did the 2007 discovery and later DNA tests prove?",
+  "q_ru": "Что доказали находка 2007 года и последующие анализы ДНК?",
+  "options": [
+   "All seven family members died, and none escaped",
+   "Anastasia escaped to Romania",
+   "Alexei was never in Yekaterinburg",
+   "The 1991 grave held the wrong family"
+  ],
+  "options_ru": [
+   "Все семь членов семьи погибли, никто не спасся",
+   "Анастасия бежала в Румынию",
+   "Алексея никогда не было в Екатеринбурге",
+   "В могиле 1991 года лежала другая семья"
+  ],
+  "answer": 0,
+  "explain_ru": "Найденные в 2007 году кости принадлежали Алексею и одной из сестёр, так что все семеро были найдены и никто не спасся."
+ }
+]

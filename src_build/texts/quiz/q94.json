@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Why did Nadia lose her sense of taste?",
+  "q_ru": "Почему Надя потеряла способность чувствовать вкус?",
+  "options": [
+   "After an illness with a high fever",
+   "After an accident in the kitchen",
+   "Because she burned her mouth on hot soup",
+   "After a car accident"
+  ],
+  "options_ru": [
+   "После болезни с высокой температурой",
+   "После несчастного случая на кухне",
+   "Потому что обожгла рот горячим супом",
+   "После автомобильной аварии"
+  ],
+  "answer": 0,
+  "explain_ru": "Неделей раньше Надя болела с высокой температурой и кашлем; врач сказала, что после вируса такое бывает часто. Автомобильная авария была у Джулиана."
+ },
+ {
+  "q": "How did Bram find out that something was wrong?",
+  "q_ru": "Как Брэм понял, что что-то не так?",
+  "options": [
+   "The doctor phoned him",
+   "He read about it in her notebook",
+   "Her sauce was too salty and a plate came back",
+   "He saw her smelling the bottles of oil"
+  ],
+  "options_ru": [
+   "Ему позвонила врач",
+   "Он прочитал об этом в её блокноте",
+   "Её соус был пересолен, и тарелку вернули",
+   "Он увидел, как она нюхает флакончики с маслом"
+  ],
+  "answer": 2,
+  "explain_ru": "Брэм попробовал соус на красном вине и сказал, что он очень солёный, а клиент за четвёртым столиком вернул тарелку."
+ },
+ {
+  "q": "Why could Bram not help Nadia at the final?",
+  "q_ru": "Почему Брэм не мог помочь Наде в финале?",
+  "options": [
+   "He was ill that day",
+   "Assistants were not allowed in the studio",
+   "Nadia did not trust him any more",
+   "He had to stay and run the restaurant"
+  ],
+  "options_ru": [
+   "В тот день он болел",
+   "Помощников не пускали в студию",
+   "Надя больше ему не доверяла",
+   "Ему нужно было остаться и управлять рестораном"
+  ],
+  "answer": 1,
+  "explain_ru": "По правилам «Серебряного половника» каждый финалист должен был готовить совершенно один, без помощников."
+ },
+ {
+  "q": "Why did the sealed package make the final even harder for Nadia?",
+  "q_ru": "Почему запечатанная упаковка сделала финал для Нади ещё труднее?",
+  "options": [
+   "It was almost empty",
+   "All the ingredients were frozen",
+   "It contained only sweet things",
+   "She could not cook a familiar dish from memory"
+  ],
+  "options_ru": [
+   "Она была почти пустой",
+   "Все продукты были замороженными",
+   "В ней были только сладости",
+   "Она не могла приготовить знакомое блюдо по памяти"
+  ],
+  "answer": 3,
+  "explain_ru": "Продукты были неизвестны заранее, поэтому Надя не могла опереться на рецепт, который много раз готовила, а пробовать на вкус она не могла."
+ },
+ {
+  "q": "What did Nadia do when a judge asked why she was not tasting?",
+  "q_ru": "Что сделала Надя, когда судья спросила, почему она не пробует блюдо?",
+  "options": [
+   "She pretended to taste the sauce",
+   "She left the studio",
+   "She told the truth about losing her taste",
+   "She asked for Bram to come and help"
+  ],
+  "options_ru": [
+   "Сделала вид, что пробует соус",
+   "Ушла из студии",
+   "Рассказала правду о потере вкуса",
+   "Попросила позвать Брэма на помощь"
+  ],
+  "answer": 2,
+  "explain_ru": "Надя решила, что устала прятаться, и честно сказала перед камерами, что потеряла вкус после болезни и готовит по цифрам."
+ },
+ {
+  "q": "What secret did Julian Lorne tell Nadia after the final?",
+  "q_ru": "Какой секрет Джулиан Лорн открыл Наде после финала?",
+  "options": [
+   "He had cheated in the competition",
+   "He had also lost his sense of taste years ago",
+   "He had been a friend of her father",
+   "He was going to close his restaurants"
+  ],
+  "options_ru": [
+   "Он жульничал на конкурсе",
+   "Он тоже потерял вкус много лет назад",
+   "Он был другом её отца",
+   "Он собирался закрыть свои рестораны"
+  ],
+  "answer": 1,
+  "explain_ru": "Джулиан признался, что потерял вкус четырнадцать лет назад после аварии и с тех пор готовит по цифрам; когда-то он вылил её суп, потому что боялся, что она это заметит."
+ }
+]

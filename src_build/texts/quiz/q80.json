@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What did the characters 6EQUJ5 on the printout show?",
+  "q_ru": "Что показывали символы 6EQUJ5 на распечатке?",
+  "options": [
+   "A secret message in an alien language",
+   "How the strength of the signal rose and fell",
+   "The exact position of a star in Sagittarius",
+   "The time when the telescope was switched on"
+  ],
+  "options_ru": [
+   "Тайное послание на инопланетном языке",
+   "Как сила сигнала росла и падала",
+   "Точное положение звезды в Стрельце",
+   "Время, когда включили телескоп"
+  ],
+  "answer": 1,
+  "explain_ru": "Символы были кодом силы сигнала: он усиливался, достиг пика на «U» (примерно в 30 раз сильнее фона) и затем затух."
+ },
+ {
+  "q": "Why was the frequency of the signal so interesting?",
+  "q_ru": "Почему частота сигнала была так интересна?",
+  "options": [
+   "It was close to the natural frequency of hydrogen",
+   "It was the frequency used by American radio stations",
+   "It was the same frequency as a known satellite",
+   "It changed every twelve seconds"
+  ],
+  "options_ru": [
+   "Она была близка к естественной частоте водорода",
+   "Это была частота американских радиостанций",
+   "Это была та же частота, что у известного спутника",
+   "Она менялась каждые двенадцать секунд"
+  ],
+  "answer": 0,
+  "explain_ru": "Сигнал был около 1420 МГц — частоты водорода; ещё в 1959 году Коккони и Моррисон предположили, что разумные существа могут выбрать частоту рядом с ней."
+ },
+ {
+  "q": "What is the biggest problem for anyone who wants to explain the signal?",
+  "q_ru": "В чём главная проблема для того, кто хочет объяснить сигнал?",
+  "options": [
+   "The original printout was lost",
+   "Big Ear recorded it in every channel",
+   "Ehman refused to show his data",
+   "It was never detected again"
+  ],
+  "options_ru": [
+   "Оригинальная распечатка потерялась",
+   "«Большое ухо» записало его во всех каналах",
+   "Эйман отказался показывать свои данные",
+   "Его больше ни разу не зарегистрировали"
+  ],
+  "answer": 3,
+  "explain_ru": "Сигнал не повторился, несмотря на поиски Эймана, а позже Роберта Грея с более чувствительными телескопами; непроверяемый результат — не действительное открытие."
+ },
+ {
+  "q": "Why did many astronomers reject the comet theory?",
+  "q_ru": "Почему многие астрономы отвергли теорию комет?",
+  "options": [
+   "The comets were discovered before 1977",
+   "Comets contain no gas at all",
+   "Comets do not produce nearly enough radio energy at that frequency",
+   "The theory was proposed by Jerry Ehman himself"
+  ],
+  "options_ru": [
+   "Кометы были открыты до 1977 года",
+   "В кометах вообще нет газа",
+   "Кометы излучают на этой частоте далеко не достаточно радиоэнергии",
+   "Теорию предложил сам Джерри Эйман"
+  ],
+  "answer": 2,
+  "explain_ru": "Критики указали, что кометы слишком слабо излучают на 1420 МГц, что комету увидели бы оба рупора, и сомневались в положении комет."
+ },
+ {
+  "q": "According to the 2024 hypothesis, what may have caused the signal?",
+  "q_ru": "Что, согласно гипотезе 2024 года, могло вызвать сигнал?",
+  "options": [
+   "A radio transmitter on a passing plane",
+   "A cold hydrogen cloud that suddenly became brighter",
+   "A message sent by a lighthouse-like alien beam",
+   "A fault in Big Ear's computer"
+  ],
+  "options_ru": [
+   "Радиопередатчик на пролетавшем самолёте",
+   "Холодное водородное облако, которое внезапно стало ярче",
+   "Послание, посланное инопланетным лучом, похожим на маяк",
+   "Неисправность компьютера «Большого уха»"
+  ],
+  "answer": 1,
+  "explain_ru": "Группа Абеля Мендеса предположила, что холодное облако водорода было «подсвечено» мощной вспышкой излучения, например от магнетара."
+ },
+ {
+  "q": "What is the honest conclusion of the article?",
+  "q_ru": "Каков честный вывод статьи?",
+  "options": [
+   "The signal has been proven to come from aliens",
+   "The comet theory finally solved the mystery",
+   "The signal was certainly interference from Earth",
+   "No explanation has been proven, and the mystery remains"
+  ],
+  "options_ru": [
+   "Доказано, что сигнал пришёл от инопланетян",
+   "Теория комет окончательно разгадала загадку",
+   "Сигнал точно был помехой с Земли",
+   "Ни одно объяснение не доказано, и загадка остаётся"
+  ],
+  "answer": 3,
+  "explain_ru": "Ни инопланетяне, ни кометы, ни спутники, ни водородные облака не доказаны; даже авторы новой гипотезы говорят, что загадка не решена."
+ }
+]

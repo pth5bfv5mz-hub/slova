@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What did the 2009 radiocarbon test show?",
+  "q_ru": "Что показал радиоуглеродный анализ 2009 года?",
+  "options": [
+   "The ink was added in the 20th century",
+   "The vellum dates from 1404–1438",
+   "The book was written by Roger Bacon",
+   "The text is written in Latin"
+  ],
+  "options_ru": [
+   "Чернила добавили в XX веке",
+   "Пергамент датируется 1404–1438 годами",
+   "Книгу написал Роджер Бэкон",
+   "Текст написан на латыни"
+  ],
+  "answer": 1,
+  "explain_ru": "Учёные Аризонского университета установили, что животные, из чьей кожи сделан пергамент, погибли между 1404 и 1438 годами."
+ },
+ {
+  "q": "What did Marci's letter from the 1660s say about the book?",
+  "q_ru": "Что говорилось о книге в письме Марци 1660-х годов?",
+  "options": [
+   "Kircher had already translated it",
+   "Voynich had bought it in Rome",
+   "It had been found in a Siberian village",
+   "Emperor Rudolf II had reportedly paid 600 ducats for it"
+  ],
+  "options_ru": [
+   "Кирхер уже перевёл её",
+   "Войнич купил её в Риме",
+   "Её нашли в сибирской деревне",
+   "Император Рудольф II, по рассказам, заплатил за неё 600 дукатов"
+  ],
+  "answer": 3,
+  "explain_ru": "Марци писал, что ему рассказали, будто книга принадлежала Рудольфу II, который заплатил за неё 600 дукатов."
+ },
+ {
+  "q": "What happened to Newbold's solution of 1921?",
+  "q_ru": "Что стало с решением Ньюболда 1921 года?",
+  "options": [
+   "It was shown to be wrong: his 'tiny marks' were cracks in the ink",
+   "It was accepted by most experts",
+   "It was proved by radiocarbon dating",
+   "Friedman used it to read the whole book"
+  ],
+  "options_ru": [
+   "Доказали, что оно ошибочно: «крошечные чёрточки» были трещинами в чернилах",
+   "Большинство специалистов его приняли",
+   "Его подтвердил радиоуглеродный анализ",
+   "Фридман с его помощью прочитал всю книгу"
+  ],
+  "answer": 0,
+  "explain_ru": "В 1931 году Джон Мэнли показал, что чёрточки, которые видел Ньюболд, — это просто трещины в высохших чернилах."
+ },
+ {
+  "q": "Why does the 2013 study by Montemurro and Zanette support the 'real language' theory?",
+  "q_ru": "Почему исследование Монтемурро и Санетте 2013 года подкрепляет теорию «настоящего языка»?",
+  "options": [
+   "It found Latin words in the plant section",
+   "It proved the book was a hoax",
+   "Certain words appear mostly in particular sections, as in real texts",
+   "It identified every plant in the book"
+  ],
+  "options_ru": [
+   "Оно нашло латинские слова в разделе о растениях",
+   "Оно доказало, что книга — мистификация",
+   "Определённые слова встречаются в основном в отдельных разделах, как в настоящих текстах",
+   "Оно определило все растения в книге"
+  ],
+  "answer": 2,
+  "explain_ru": "Исследование показало, что некоторые слова сосредоточены в определённых разделах — так ведут себя слова в осмысленных текстах."
+ },
+ {
+  "q": "What was one criticism of Gordon Rugg's hoax method?",
+  "q_ru": "Какая была одна из претензий к методу мистификации Гордона Рагга?",
+  "options": [
+   "It needed a computer",
+   "The card method was described about a century after the vellum's date",
+   "It only produced Latin words",
+   "It was invented by Voynich"
+  ],
+  "options_ru": [
+   "Для него нужен был компьютер",
+   "Метод с карточкой описали примерно через столетие после даты пергамента",
+   "Он давал только латинские слова",
+   "Его придумал Войнич"
+  ],
+  "answer": 1,
+  "explain_ru": "Критики заметили, что такую карточку впервые описали в 1550 году — более чем через сто лет после даты пергамента."
+ },
+ {
+  "q": "What is the honest conclusion of the article?",
+  "q_ru": "Каков честный вывод статьи?",
+  "options": [
+   "Nobody knows yet whether the text has any meaning",
+   "The book was proved to be a modern fake",
+   "The book is a women's health guide in Latin",
+   "AI has fully translated the book"
+  ],
+  "options_ru": [
+   "Пока никто не знает, есть ли у текста вообще смысл",
+   "Доказано, что книга — современная подделка",
+   "Книга — руководство по женскому здоровью на латыни",
+   "Искусственный интеллект полностью перевёл книгу"
+  ],
+  "answer": 0,
+  "explain_ru": "Ни одна теория не доказана; неизвестно главное — имеет ли текст смысл вообще."
+ }
+]

@@ -1,0 +1,1367 @@
+{
+ "id": 57,
+ "level": "B1",
+ "cat": "cons",
+ "title_en": "The Man with the Rubik's Cube",
+ "title_ru": "Человек с кубиком Рубика",
+ "genre": "Конспирология: правда",
+ "summary_ru": "В 2013 году молодой компьютерщик передал журналистам в гонконгском отеле секретные документы, и то, что многие считали теорией заговора, — массовая слежка за миллионами людей — оказалось документально подтверждённым фактом.",
+ "paragraphs": [
+  {
+   "en": "In early June 2013, two journalists and a filmmaker sat in a quiet area of a hotel in Hong Kong and watched the people around them. They were waiting for a man they had never seen. They did not know how old he was or even what he looked like. They only knew one thing: he would be holding a Rubik's Cube, the colourful puzzle toy, and he would answer a secret question with a secret answer.",
+   "ru": "В начале июня 2013 года два журналиста и режиссёр-документалист сидели в тихой зоне одного из отелей Гонконга и наблюдали за людьми вокруг. Они ждали человека, которого никогда не видели. Они не знали, сколько ему лет, и даже как он выглядит. Они знали только одно: он будет держать в руках кубик Рубика, яркую игрушку-головоломку, и ответит на секретный вопрос секретным ответом.",
+   "s": [
+    [
+     "In early June 2013, two journalists and a filmmaker sat in a quiet area of a hotel in Hong Kong and watched the people around them.",
+     "В начале июня 2013 года два журналиста и режиссёр-документалист сидели в тихой зоне одного из отелей Гонконга и наблюдали за людьми вокруг."
+    ],
+    [
+     "They were waiting for a man they had never seen.",
+     "Они ждали человека, которого никогда не видели."
+    ],
+    [
+     "They did not know how old he was or even what he looked like.",
+     "Они не знали, сколько ему лет, и даже как он выглядит."
+    ],
+    [
+     "They only knew one thing: he would be holding a Rubik's Cube, the colourful puzzle toy, and he would answer a secret question with a secret answer.",
+     "Они знали только одно: он будет держать в руках кубик Рубика, яркую игрушку-головоломку, и ответит на секретный вопрос секретным ответом."
+    ]
+   ]
+  },
+  {
+   "en": "When the man finally appeared, they were surprised. He was thin, pale and very young, with glasses. He looked more like a university student than a spy. His name was Edward Snowden, he was twenty-nine years old, and he had brought computer files that would soon start one of the biggest debates of our century: how much should governments be allowed to know about ordinary people?",
+   "ru": "Когда этот человек наконец появился, они удивились. Он был худым, бледным и очень молодым, в очках. Он был больше похож на студента университета, чем на шпиона. Его звали Эдвард Сноуден, ему было двадцать девять лет, и он привёз компьютерные файлы, которые вскоре начнут один из самых больших споров нашего века: сколько правительствам можно знать об обычных людях?",
+   "s": [
+    [
+     "When the man finally appeared, they were surprised.",
+     "Когда этот человек наконец появился, они удивились."
+    ],
+    [
+     "He was thin, pale and very young, with glasses.",
+     "Он был худым, бледным и очень молодым, в очках."
+    ],
+    [
+     "He looked more like a university student than a spy.",
+     "Он был больше похож на студента университета, чем на шпиона."
+    ],
+    [
+     "His name was Edward Snowden, he was twenty-nine years old, and he had brought computer files that would soon start one of the biggest debates of our century: how much should governments be allowed to know about ordinary people?",
+     "Его звали Эдвард Сноуден, ему было двадцать девять лет, и он привёз компьютерные файлы, которые вскоре начнут один из самых больших споров нашего века: сколько правительствам можно знать об обычных людях?"
+    ]
+   ]
+  },
+  {
+   "en": "For years, some people had claimed that American intelligence agencies were secretly collecting information about millions of ordinary citizens. Most people saw these claims as paranoia, a fear without a real basis. The documents which Snowden brought to Hong Kong showed that, in important ways, the people who were called paranoid had been right.",
+   "ru": "Годами некоторые люди утверждали, что американские спецслужбы тайно собирают информацию о миллионах обычных граждан. Большинство считало эти утверждения паранойей — страхом без реальных оснований. Документы, которые Сноуден привёз в Гонконг, показали, что в важных вопросах люди, которых называли параноиками, были правы.",
+   "s": [
+    [
+     "For years, some people had claimed that American intelligence agencies were secretly collecting information about millions of ordinary citizens.",
+     "Годами некоторые люди утверждали, что американские спецслужбы тайно собирают информацию о миллионах обычных граждан."
+    ],
+    [
+     "Most people saw these claims as paranoia, a fear without a real basis.",
+     "Большинство считало эти утверждения паранойей — страхом без реальных оснований."
+    ],
+    [
+     "The documents which Snowden brought to Hong Kong showed that, in important ways, the people who were called paranoid had been right.",
+     "Документы, которые Сноуден привёз в Гонконг, показали, что в важных вопросах люди, которых называли параноиками, были правы."
+    ]
+   ]
+  },
+  {
+   "en": "Snowden had grown up in North Carolina and Maryland, not far from the headquarters of the National Security Agency, or NSA. This is the American agency that collects and studies electronic communications, such as phone calls and emails, mainly from other countries. He had worked for the CIA and later as a contractor for the NSA, which meant that he was employed by private companies but worked inside government computer systems.",
+   "ru": "Сноуден вырос в Северной Каролине и Мэриленде, недалеко от штаб-квартиры Агентства национальной безопасности, или АНБ. Это американское агентство, которое собирает и изучает электронные коммуникации, например телефонные звонки и электронные письма, в основном из других стран. Он работал в ЦРУ, а позже — подрядчиком АНБ: это значит, что его нанимали частные компании, но работал он внутри государственных компьютерных систем.",
+   "s": [
+    [
+     "Snowden had grown up in North Carolina and Maryland, not far from the headquarters of the National Security Agency, or NSA.",
+     "Сноуден вырос в Северной Каролине и Мэриленде, недалеко от штаб-квартиры Агентства национальной безопасности, или АНБ."
+    ],
+    [
+     "This is the American agency that collects and studies electronic communications, such as phone calls and emails, mainly from other countries.",
+     "Это американское агентство, которое собирает и изучает электронные коммуникации, например телефонные звонки и электронные письма, в основном из других стран."
+    ],
+    [
+     "He had worked for the CIA and later as a contractor for the NSA, which meant that he was employed by private companies but worked inside government computer systems.",
+     "Он работал в ЦРУ, а позже — подрядчиком АНБ: это значит, что его нанимали частные компании, но работал он внутри государственных компьютерных систем."
+    ]
+   ]
+  },
+  {
+   "en": "In 2013 he was working for the company Booz Allen Hamilton at an NSA centre in Hawaii. He had a good salary, a comfortable home and a girlfriend he loved. Yet, as he later explained, he had become more and more worried by what he saw at work. In his view, the agency was building a system that could watch almost everyone, and the public had no idea that it existed.",
+   "ru": "В 2013 году он работал в компании Booz Allen Hamilton в центре АНБ на Гавайях. У него была хорошая зарплата, удобный дом и любимая девушка. И всё же, как он позже объяснил, его всё больше тревожило то, что он видел на работе. По его мнению, агентство строило систему, которая могла следить почти за всеми, а общество даже не подозревало о её существовании.",
+   "s": [
+    [
+     "In 2013 he was working for the company Booz Allen Hamilton at an NSA centre in Hawaii.",
+     "В 2013 году он работал в компании Booz Allen Hamilton в центре АНБ на Гавайях."
+    ],
+    [
+     "He had a good salary, a comfortable home and a girlfriend he loved.",
+     "У него была хорошая зарплата, удобный дом и любимая девушка."
+    ],
+    [
+     "Yet, as he later explained, he had become more and more worried by what he saw at work.",
+     "И всё же, как он позже объяснил, его всё больше тревожило то, что он видел на работе."
+    ],
+    [
+     "In his view, the agency was building a system that could watch almost everyone, and the public had no idea that it existed.",
+     "По его мнению, агентство строило систему, которая могла следить почти за всеми, а общество даже не подозревало о её существовании."
+    ]
+   ]
+  },
+  {
+   "en": "One moment, he said, was especially important for his decision. In March 2013, James Clapper, the Director of National Intelligence, answered questions before a committee of the American Senate. Senator Ron Wyden asked him whether the NSA collected any type of data at all on millions of Americans. Clapper answered, \"No, sir,\" and then added, \"Not wittingly,\" which means \"not on purpose\". Snowden knew that this answer was not true. Later, Clapper apologised and admitted that his answer had been wrong.",
+   "ru": "По его словам, один момент был особенно важен для его решения. В марте 2013 года Джеймс Клэппер, директор национальной разведки, отвечал на вопросы перед комитетом американского Сената. Сенатор Рон Уайден спросил его, собирает ли АНБ вообще какие-либо данные о миллионах американцев. Клэппер ответил: «Нет, сэр», а затем добавил: «Не намеренно», то есть «не специально». Сноуден знал, что этот ответ не соответствует правде. Позже Клэппер извинился и признал, что его ответ был неверным.",
+   "s": [
+    [
+     "One moment, he said, was especially important for his decision.",
+     "По его словам, один момент был особенно важен для его решения."
+    ],
+    [
+     "In March 2013, James Clapper, the Director of National Intelligence, answered questions before a committee of the American Senate.",
+     "В марте 2013 года Джеймс Клэппер, директор национальной разведки, отвечал на вопросы перед комитетом американского Сената."
+    ],
+    [
+     "Senator Ron Wyden asked him whether the NSA collected any type of data at all on millions of Americans.",
+     "Сенатор Рон Уайден спросил его, собирает ли АНБ вообще какие-либо данные о миллионах американцев."
+    ],
+    [
+     "Clapper answered, \"No, sir,\" and then added, \"Not wittingly,\" which means \"not on purpose\".",
+     "Клэппер ответил: «Нет, сэр», а затем добавил: «Не намеренно», то есть «не специально»."
+    ],
+    [
+     "Snowden knew that this answer was not true.",
+     "Сноуден знал, что этот ответ не соответствует правде."
+    ],
+    [
+     "Later, Clapper apologised and admitted that his answer had been wrong.",
+     "Позже Клэппер извинился и признал, что его ответ был неверным."
+    ]
+   ]
+  },
+  {
+   "en": "Months before, Snowden had started to contact journalists secretly. He wrote to Glenn Greenwald, a lawyer who wrote for the British newspaper The Guardian, and to Laura Poitras, a documentary filmmaker. He used false names and insisted on encrypted messages, which are messages turned into a secret code so that only the right person can read them. At first Greenwald did not take him seriously, because setting up the encryption seemed too difficult. Poitras, however, did.",
+   "ru": "За несколько месяцев до этого Сноуден начал тайно связываться с журналистами. Он написал Гленну Гринвальду, юристу, который писал для британской газеты The Guardian, и Лоре Пойтрас, режиссёру-документалисту. Он пользовался вымышленными именами и настаивал на зашифрованных сообщениях — то есть сообщениях, превращённых в секретный код, чтобы их мог прочитать только нужный человек. Сначала Гринвальд не воспринял его всерьёз, потому что настроить шифрование казалось слишком сложно. Пойтрас же отнеслась к нему серьёзно.",
+   "s": [
+    [
+     "Months before, Snowden had started to contact journalists secretly.",
+     "За несколько месяцев до этого Сноуден начал тайно связываться с журналистами."
+    ],
+    [
+     "He wrote to Glenn Greenwald, a lawyer who wrote for the British newspaper The Guardian, and to Laura Poitras, a documentary filmmaker.",
+     "Он написал Гленну Гринвальду, юристу, который писал для британской газеты The Guardian, и Лоре Пойтрас, режиссёру-документалисту."
+    ],
+    [
+     "He used false names and insisted on encrypted messages, which are messages turned into a secret code so that only the right person can read them.",
+     "Он пользовался вымышленными именами и настаивал на зашифрованных сообщениях — то есть сообщениях, превращённых в секретный код, чтобы их мог прочитать только нужный человек."
+    ],
+    [
+     "At first Greenwald did not take him seriously, because setting up the encryption seemed too difficult.",
+     "Сначала Гринвальд не воспринял его всерьёз, потому что настроить шифрование казалось слишком сложно."
+    ],
+    [
+     "Poitras, however, did.",
+     "Пойтрас же отнеслась к нему серьёзно."
+    ]
+   ]
+  },
+  {
+   "en": "In May 2013, Snowden told his employer that he needed time off for medical treatment. Then he flew to Hong Kong, leaving his girlfriend in Hawaii without telling her what he was planning. He chose Hong Kong, he said later, because he believed it had a strong tradition of free speech and would not simply hand him over to the American authorities at once.",
+   "ru": "В мае 2013 года Сноуден сказал работодателю, что ему нужен отпуск для лечения. Затем он улетел в Гонконг, оставив девушку на Гавайях и не сказав ей, что задумал. Позже он сказал, что выбрал Гонконг, потому что считал, что там сильна традиция свободы слова и его не выдадут американским властям сразу же.",
+   "s": [
+    [
+     "In May 2013, Snowden told his employer that he needed time off for medical treatment.",
+     "В мае 2013 года Сноуден сказал работодателю, что ему нужен отпуск для лечения."
+    ],
+    [
+     "Then he flew to Hong Kong, leaving his girlfriend in Hawaii without telling her what he was planning.",
+     "Затем он улетел в Гонконг, оставив девушку на Гавайях и не сказав ей, что задумал."
+    ],
+    [
+     "He chose Hong Kong, he said later, because he believed it had a strong tradition of free speech and would not simply hand him over to the American authorities at once.",
+     "Позже он сказал, что выбрал Гонконг, потому что считал, что там сильна традиция свободы слова и его не выдадут американским властям сразу же."
+    ]
+   ]
+  },
+  {
+   "en": "Poitras and Greenwald flew to Hong Kong at the beginning of June, together with Ewen MacAskill, an experienced reporter from The Guardian. After the strange meeting with the Rubik's Cube, Snowden took the journalists to his small hotel room. He asked them to put their mobile phones in the fridge, because he believed that phones could be used as listening devices. When he typed his passwords, he covered his head and his laptop with a cloth, so that no hidden camera could see his fingers.",
+   "ru": "Пойтрас и Гринвальд прилетели в Гонконг в начале июня вместе с Юэном Макаскиллом, опытным репортёром The Guardian. После странной встречи с кубиком Рубика Сноуден отвёл журналистов в свой маленький гостиничный номер. Он попросил их положить мобильные телефоны в холодильник, потому что считал, что телефоны можно использовать как подслушивающие устройства. Когда он вводил пароли, он накрывал голову и ноутбук тканью, чтобы никакая скрытая камера не увидела его пальцев.",
+   "s": [
+    [
+     "Poitras and Greenwald flew to Hong Kong at the beginning of June, together with Ewen MacAskill, an experienced reporter from The Guardian.",
+     "Пойтрас и Гринвальд прилетели в Гонконг в начале июня вместе с Юэном Макаскиллом, опытным репортёром The Guardian."
+    ],
+    [
+     "After the strange meeting with the Rubik's Cube, Snowden took the journalists to his small hotel room.",
+     "После странной встречи с кубиком Рубика Сноуден отвёл журналистов в свой маленький гостиничный номер."
+    ],
+    [
+     "He asked them to put their mobile phones in the fridge, because he believed that phones could be used as listening devices.",
+     "Он попросил их положить мобильные телефоны в холодильник, потому что считал, что телефоны можно использовать как подслушивающие устройства."
+    ],
+    [
+     "When he typed his passwords, he covered his head and his laptop with a cloth, so that no hidden camera could see his fingers.",
+     "Когда он вводил пароли, он накрывал голову и ноутбук тканью, чтобы никакая скрытая камера не увидела его пальцев."
+    ]
+   ]
+  },
+  {
+   "en": "For several days, the journalists questioned him for hours, while Poitras filmed. They needed to be sure that he was who he said he was and that the documents were real. They were. Among them were secret court orders, internal presentations and technical reports.",
+   "ru": "Несколько дней журналисты часами задавали ему вопросы, а Пойтрас снимала. Им нужно было убедиться, что он тот, за кого себя выдаёт, и что документы настоящие. Документы оказались настоящими. Среди них были секретные судебные постановления, внутренние презентации и технические отчёты.",
+   "s": [
+    [
+     "For several days, the journalists questioned him for hours, while Poitras filmed.",
+     "Несколько дней журналисты часами задавали ему вопросы, а Пойтрас снимала."
+    ],
+    [
+     "They needed to be sure that he was who he said he was and that the documents were real.",
+     "Им нужно было убедиться, что он тот, за кого себя выдаёт, и что документы настоящие."
+    ],
+    [
+     "They were.",
+     "Документы оказались настоящими."
+    ],
+    [
+     "Among them were secret court orders, internal presentations and technical reports.",
+     "Среди них были секретные судебные постановления, внутренние презентации и технические отчёты."
+    ]
+   ]
+  },
+  {
+   "en": "On 5 June 2013, The Guardian published the first story. It revealed a secret order from the Foreign Intelligence Surveillance Court, a special court which meets in secret and approves requests by intelligence agencies to watch people. The order required Verizon, one of the largest phone companies in America, to give the NSA the records of its customers' phone calls every day.",
+   "ru": "5 июня 2013 года The Guardian опубликовала первую статью. В ней было раскрыто секретное постановление Суда по надзору за иностранной разведкой — особого суда, который заседает тайно и одобряет просьбы спецслужб о слежке за людьми. Постановление обязывало Verizon, одну из крупнейших телефонных компаний Америки, каждый день передавать АНБ записи о телефонных звонках своих клиентов.",
+   "s": [
+    [
+     "On 5 June 2013, The Guardian published the first story.",
+     "5 июня 2013 года The Guardian опубликовала первую статью."
+    ],
+    [
+     "It revealed a secret order from the Foreign Intelligence Surveillance Court, a special court which meets in secret and approves requests by intelligence agencies to watch people.",
+     "В ней было раскрыто секретное постановление Суда по надзору за иностранной разведкой — особого суда, который заседает тайно и одобряет просьбы спецслужб о слежке за людьми."
+    ],
+    [
+     "The order required Verizon, one of the largest phone companies in America, to give the NSA the records of its customers' phone calls every day.",
+     "Постановление обязывало Verizon, одну из крупнейших телефонных компаний Америки, каждый день передавать АНБ записи о телефонных звонках своих клиентов."
+    ]
+   ]
+  },
+  {
+   "en": "These records did not include the words that people said. They were what experts call metadata: data about communications, such as which number called which, when, and for how long. But metadata can reveal a great deal. If you know that someone called a doctor, then a hospital, then a lawyer, you can guess a lot about their life without hearing a single word.",
+   "ru": "Эти записи не содержали слов, которые люди говорили. Это были так называемые метаданные — данные о коммуникациях: например, какой номер звонил на какой, когда и как долго. Но метаданные могут рассказать очень многое. Если вы знаете, что кто-то позвонил врачу, потом в больницу, потом юристу, можно многое угадать о его жизни, не услышав ни единого слова.",
+   "s": [
+    [
+     "These records did not include the words that people said.",
+     "Эти записи не содержали слов, которые люди говорили."
+    ],
+    [
+     "They were what experts call metadata: data about communications, such as which number called which, when, and for how long.",
+     "Это были так называемые метаданные — данные о коммуникациях: например, какой номер звонил на какой, когда и как долго."
+    ],
+    [
+     "But metadata can reveal a great deal.",
+     "Но метаданные могут рассказать очень многое."
+    ],
+    [
+     "If you know that someone called a doctor, then a hospital, then a lawyer, you can guess a lot about their life without hearing a single word.",
+     "Если вы знаете, что кто-то позвонил врачу, потом в больницу, потом юристу, можно многое угадать о его жизни, не услышав ни единого слова."
+    ]
+   ]
+  },
+  {
+   "en": "The next day, The Guardian and The Washington Post published stories about a programme called PRISM. According to an internal NSA presentation, the agency was collecting emails, chats, photos and other material from nine major internet companies, including Google, Facebook, Microsoft, Yahoo and Apple. The legal basis was a part of the law known as Section 702, which allowed the NSA to target foreigners outside the United States.",
+   "ru": "На следующий день The Guardian и The Washington Post опубликовали статьи о программе под названием PRISM. Согласно внутренней презентации АНБ, агентство собирало электронные письма, переписку в чатах, фотографии и другие материалы у девяти крупных интернет-компаний, включая Google, Facebook, Microsoft, Yahoo и Apple. Правовой основой была часть закона, известная как Раздел 702, которая позволяла АНБ следить за иностранцами за пределами Соединённых Штатов.",
+   "s": [
+    [
+     "The next day, The Guardian and The Washington Post published stories about a programme called PRISM.",
+     "На следующий день The Guardian и The Washington Post опубликовали статьи о программе под названием PRISM."
+    ],
+    [
+     "According to an internal NSA presentation, the agency was collecting emails, chats, photos and other material from nine major internet companies, including Google, Facebook, Microsoft, Yahoo and Apple.",
+     "Согласно внутренней презентации АНБ, агентство собирало электронные письма, переписку в чатах, фотографии и другие материалы у девяти крупных интернет-компаний, включая Google, Facebook, Microsoft, Yahoo и Apple."
+    ],
+    [
+     "The legal basis was a part of the law known as Section 702, which allowed the NSA to target foreigners outside the United States.",
+     "Правовой основой была часть закона, известная как Раздел 702, которая позволяла АНБ следить за иностранцами за пределами Соединённых Штатов."
+    ]
+   ]
+  },
+  {
+   "en": "The companies quickly denied that the government had direct access to their servers, the powerful computers where users' data is stored. Officials explained that the data was requested through legal orders and that the targets were foreigners. However, the documents and later official reports showed that the communications of many Americans were also collected \"incidentally\", for example when they wrote to a foreign target.",
+   "ru": "Компании быстро опровергли, что у правительства был прямой доступ к их серверам — мощным компьютерам, где хранятся данные пользователей. Чиновники объяснили, что данные запрашивались по законным постановлениям и что целями были иностранцы. Однако документы и более поздние официальные отчёты показали, что коммуникации многих американцев тоже собирались «попутно», например когда они писали иностранцу, за которым следили.",
+   "s": [
+    [
+     "The companies quickly denied that the government had direct access to their servers, the powerful computers where users' data is stored.",
+     "Компании быстро опровергли, что у правительства был прямой доступ к их серверам — мощным компьютерам, где хранятся данные пользователей."
+    ],
+    [
+     "Officials explained that the data was requested through legal orders and that the targets were foreigners.",
+     "Чиновники объяснили, что данные запрашивались по законным постановлениям и что целями были иностранцы."
+    ],
+    [
+     "However, the documents and later official reports showed that the communications of many Americans were also collected \"incidentally\", for example when they wrote to a foreign target.",
+     "Однако документы и более поздние официальные отчёты показали, что коммуникации многих американцев тоже собирались «попутно», например когда они писали иностранцу, за которым следили."
+    ]
+   ]
+  },
+  {
+   "en": "Over the following months, more stories appeared in newspapers around the world. They described a search tool called XKeyscore and showed that the British agency GCHQ, a close partner of the NSA, was tapping the cables that carry internet traffic between countries. In October 2013, the German magazine Der Spiegel reported that the NSA had targeted the mobile phone of the German Chancellor, Angela Merkel. Many people in Europe reacted with anger and disgust, because the United States was supposed to be a friend and an ally.",
+   "ru": "В следующие месяцы в газетах по всему миру появлялись новые статьи. В них описывалась поисковая система под названием XKeyscore и было показано, что британское агентство GCHQ, близкий партнёр АНБ, подключалось к кабелям, по которым интернет-трафик идёт между странами. В октябре 2013 года немецкий журнал Der Spiegel сообщил, что АНБ следило за мобильным телефоном канцлера Германии Ангелы Меркель. Многие в Европе отреагировали гневом и отвращением, ведь Соединённые Штаты должны были быть другом и союзником.",
+   "s": [
+    [
+     "Over the following months, more stories appeared in newspapers around the world.",
+     "В следующие месяцы в газетах по всему миру появлялись новые статьи."
+    ],
+    [
+     "They described a search tool called XKeyscore and showed that the British agency GCHQ, a close partner of the NSA, was tapping the cables that carry internet traffic between countries.",
+     "В них описывалась поисковая система под названием XKeyscore и было показано, что британское агентство GCHQ, близкий партнёр АНБ, подключалось к кабелям, по которым интернет-трафик идёт между странами."
+    ],
+    [
+     "In October 2013, the German magazine Der Spiegel reported that the NSA had targeted the mobile phone of the German Chancellor, Angela Merkel.",
+     "В октябре 2013 года немецкий журнал Der Spiegel сообщил, что АНБ следило за мобильным телефоном канцлера Германии Ангелы Меркель."
+    ],
+    [
+     "Many people in Europe reacted with anger and disgust, because the United States was supposed to be a friend and an ally.",
+     "Многие в Европе отреагировали гневом и отвращением, ведь Соединённые Штаты должны были быть другом и союзником."
+    ]
+   ]
+  },
+  {
+   "en": "On 9 June, Snowden made the decision to reveal his own name. In a video filmed by Poitras in the hotel room, he calmly explained why he had done it. \"I don't want to live in a world where everything I do and say is recorded,\" he said. He knew that this decision could cost him his home, his job and perhaps his freedom. He also said that the public, not secret agencies, should decide whether this kind of surveillance was acceptable.",
+   "ru": "9 июня Сноуден принял решение раскрыть своё имя. В видео, снятом Пойтрас в гостиничном номере, он спокойно объяснил, зачем это сделал. «Я не хочу жить в мире, где всё, что я делаю и говорю, записывается», — сказал он. Он знал, что это решение может стоить ему дома, работы, а возможно, и свободы. Он также сказал, что решать, допустима ли такая слежка, должно общество, а не секретные ведомства.",
+   "s": [
+    [
+     "On 9 June, Snowden made the decision to reveal his own name.",
+     "9 июня Сноуден принял решение раскрыть своё имя."
+    ],
+    [
+     "In a video filmed by Poitras in the hotel room, he calmly explained why he had done it.",
+     "В видео, снятом Пойтрас в гостиничном номере, он спокойно объяснил, зачем это сделал."
+    ],
+    [
+     "\"I don't want to live in a world where everything I do and say is recorded,\" he said.",
+     "«Я не хочу жить в мире, где всё, что я делаю и говорю, записывается», — сказал он."
+    ],
+    [
+     "He knew that this decision could cost him his home, his job and perhaps his freedom.",
+     "Он знал, что это решение может стоить ему дома, работы, а возможно, и свободы."
+    ],
+    [
+     "He also said that the public, not secret agencies, should decide whether this kind of surveillance was acceptable.",
+     "Он также сказал, что решать, допустима ли такая слежка, должно общество, а не секретные ведомства."
+    ]
+   ]
+  },
+  {
+   "en": "The reaction from Washington was fast. The American government charged him with crimes under the Espionage Act, an old law from 1917, and cancelled his passport. On 23 June, Snowden left Hong Kong on a flight to Moscow. He has said that he planned to continue to Latin America, where he hoped to get asylum, which is protection that a country gives to a person who is in danger in their own country.",
+   "ru": "Реакция Вашингтона была быстрой. Американское правительство обвинило его в преступлениях по Закону о шпионаже, старому закону 1917 года, и аннулировало его паспорт. 23 июня Сноуден вылетел из Гонконга в Москву. Он говорил, что собирался лететь дальше, в Латинскую Америку, где надеялся получить убежище, то есть защиту, которую страна даёт человеку, находящемуся в опасности у себя на родине.",
+   "s": [
+    [
+     "The reaction from Washington was fast.",
+     "Реакция Вашингтона была быстрой."
+    ],
+    [
+     "The American government charged him with crimes under the Espionage Act, an old law from 1917, and cancelled his passport.",
+     "Американское правительство обвинило его в преступлениях по Закону о шпионаже, старому закону 1917 года, и аннулировало его паспорт."
+    ],
+    [
+     "On 23 June, Snowden left Hong Kong on a flight to Moscow.",
+     "23 июня Сноуден вылетел из Гонконга в Москву."
+    ],
+    [
+     "He has said that he planned to continue to Latin America, where he hoped to get asylum, which is protection that a country gives to a person who is in danger in their own country.",
+     "Он говорил, что собирался лететь дальше, в Латинскую Америку, где надеялся получить убежище, то есть защиту, которую страна даёт человеку, находящемуся в опасности у себя на родине."
+    ]
+   ]
+  },
+  {
+   "en": "He never got further than the airport. Because his passport was no longer valid, he could not board another plane, so he spent more than a month in the transit area of Sheremetyevo airport, between the planes and passport control.",
+   "ru": "Дальше аэропорта он так и не улетел. Поскольку его паспорт больше не был действителен, он не мог сесть на другой самолёт и провёл больше месяца в транзитной зоне аэропорта Шереметьево, между самолётами и паспортным контролем.",
+   "s": [
+    [
+     "He never got further than the airport.",
+     "Дальше аэропорта он так и не улетел."
+    ],
+    [
+     "Because his passport was no longer valid, he could not board another plane, so he spent more than a month in the transit area of Sheremetyevo airport, between the planes and passport control.",
+     "Поскольку его паспорт больше не был действителен, он не мог сесть на другой самолёт и провёл больше месяца в транзитной зоне аэропорта Шереметьево, между самолётами и паспортным контролем."
+    ]
+   ]
+  },
+  {
+   "en": "On 1 August 2013, Russia gave him temporary asylum. He has lived there ever since, and in 2022 he was given Russian citizenship. His girlfriend, Lindsay Mills, later joined him, and they got married. Critics have often pointed out that a man who spoke about freedom and privacy found safety in a country with strict control over the media and the internet. Snowden has replied that he was trapped there when his passport was cancelled.",
+   "ru": "1 августа 2013 года Россия предоставила ему временное убежище. С тех пор он живёт там, а в 2022 году получил российское гражданство. Его девушка, Линдси Миллс, позже приехала к нему, и они поженились. Критики часто указывали на то, что человек, говоривший о свободе и частной жизни, нашёл безопасность в стране со строгим контролем над СМИ и интернетом. Сноуден отвечал, что оказался там в ловушке, когда аннулировали его паспорт.",
+   "s": [
+    [
+     "On 1 August 2013, Russia gave him temporary asylum.",
+     "1 августа 2013 года Россия предоставила ему временное убежище."
+    ],
+    [
+     "He has lived there ever since, and in 2022 he was given Russian citizenship.",
+     "С тех пор он живёт там, а в 2022 году получил российское гражданство."
+    ],
+    [
+     "His girlfriend, Lindsay Mills, later joined him, and they got married.",
+     "Его девушка, Линдси Миллс, позже приехала к нему, и они поженились."
+    ],
+    [
+     "Critics have often pointed out that a man who spoke about freedom and privacy found safety in a country with strict control over the media and the internet.",
+     "Критики часто указывали на то, что человек, говоривший о свободе и частной жизни, нашёл безопасность в стране со строгим контролем над СМИ и интернетом."
+    ],
+    [
+     "Snowden has replied that he was trapped there when his passport was cancelled.",
+     "Сноуден отвечал, что оказался там в ловушке, когда аннулировали его паспорт."
+    ]
+   ]
+  },
+  {
+   "en": "Was he a hero or a traitor? Supporters call him a whistleblower, someone who reveals wrongdoing inside an organisation in order to protect the public. Critics, including many officials, say that he harmed national security and took far more documents than he needed to show the problem. Officials have claimed that he copied around 1.7 million files, but this number has never been checked independently.",
+   "ru": "Был ли он героем или предателем? Сторонники называют его разоблачителем — человеком, который раскрывает нарушения внутри организации, чтобы защитить общество. Критики, в том числе многие чиновники, говорят, что он нанёс вред национальной безопасности и забрал гораздо больше документов, чем было нужно, чтобы показать проблему. Чиновники утверждали, что он скопировал около 1,7 миллиона файлов, но эта цифра никогда не проверялась независимо.",
+   "s": [
+    [
+     "Was he a hero or a traitor?",
+     "Был ли он героем или предателем?"
+    ],
+    [
+     "Supporters call him a whistleblower, someone who reveals wrongdoing inside an organisation in order to protect the public.",
+     "Сторонники называют его разоблачителем — человеком, который раскрывает нарушения внутри организации, чтобы защитить общество."
+    ],
+    [
+     "Critics, including many officials, say that he harmed national security and took far more documents than he needed to show the problem.",
+     "Критики, в том числе многие чиновники, говорят, что он нанёс вред национальной безопасности и забрал гораздо больше документов, чем было нужно, чтобы показать проблему."
+    ],
+    [
+     "Officials have claimed that he copied around 1.7 million files, but this number has never been checked independently.",
+     "Чиновники утверждали, что он скопировал около 1,7 миллиона файлов, но эта цифра никогда не проверялась независимо."
+    ]
+   ]
+  },
+  {
+   "en": "Snowden has said that he gave the documents to journalists so that they, not he, would decide what to publish, and that he did not take any of the files with him to Russia. The newspapers say they removed details that could put lives at risk. The American government says that he should come home and face a trial. He has said that he would return if he could get a fair trial, but that under the Espionage Act he would not be allowed to explain to the jury why he had acted.",
+   "ru": "Сноуден говорил, что передал документы журналистам, чтобы решали, что публиковать, они, а не он, и что он не взял с собой в Россию ни одного файла. Газеты утверждают, что удалили подробности, которые могли бы подвергнуть опасности жизни людей. Американское правительство говорит, что он должен вернуться домой и предстать перед судом. Он говорил, что вернулся бы, если бы мог рассчитывать на справедливый суд, но по Закону о шпионаже ему не позволили бы объяснить присяжным, почему он так поступил.",
+   "s": [
+    [
+     "Snowden has said that he gave the documents to journalists so that they, not he, would decide what to publish, and that he did not take any of the files with him to Russia.",
+     "Сноуден говорил, что передал документы журналистам, чтобы решали, что публиковать, они, а не он, и что он не взял с собой в Россию ни одного файла."
+    ],
+    [
+     "The newspapers say they removed details that could put lives at risk.",
+     "Газеты утверждают, что удалили подробности, которые могли бы подвергнуть опасности жизни людей."
+    ],
+    [
+     "The American government says that he should come home and face a trial.",
+     "Американское правительство говорит, что он должен вернуться домой и предстать перед судом."
+    ],
+    [
+     "He has said that he would return if he could get a fair trial, but that under the Espionage Act he would not be allowed to explain to the jury why he had acted.",
+     "Он говорил, что вернулся бы, если бы мог рассчитывать на справедливый суд, но по Закону о шпионаже ему не позволили бы объяснить присяжным, почему он так поступил."
+    ]
+   ]
+  },
+  {
+   "en": "Whatever people thought of Snowden, his documents started a serious public debate, and investigations followed. In January 2014, the Privacy and Civil Liberties Oversight Board, an independent government body, published a report on the phone records programme. It said that the programme did not have a proper legal basis and that it could not find a single case in which the programme had made a real difference to an investigation into a terrorist threat. The same month, President Barack Obama announced reforms, although he also defended the work of the intelligence agencies.",
+   "ru": "Что бы люди ни думали о Сноудене, его документы начали серьёзное общественное обсуждение, и за ним последовали расследования. В январе 2014 года Совет по надзору за соблюдением неприкосновенности частной жизни и гражданских свобод, независимый государственный орган, опубликовал доклад о программе сбора телефонных записей. В нём говорилось, что у программы не было надлежащей правовой основы и что совет не смог найти ни одного случая, когда программа реально повлияла бы на расследование террористической угрозы. В том же месяце президент Барак Обама объявил о реформах, хотя и защитил работу спецслужб.",
+   "s": [
+    [
+     "Whatever people thought of Snowden, his documents started a serious public debate, and investigations followed.",
+     "Что бы люди ни думали о Сноудене, его документы начали серьёзное общественное обсуждение, и за ним последовали расследования."
+    ],
+    [
+     "In January 2014, the Privacy and Civil Liberties Oversight Board, an independent government body, published a report on the phone records programme.",
+     "В январе 2014 года Совет по надзору за соблюдением неприкосновенности частной жизни и гражданских свобод, независимый государственный орган, опубликовал доклад о программе сбора телефонных записей."
+    ],
+    [
+     "It said that the programme did not have a proper legal basis and that it could not find a single case in which the programme had made a real difference to an investigation into a terrorist threat.",
+     "В нём говорилось, что у программы не было надлежащей правовой основы и что совет не смог найти ни одного случая, когда программа реально повлияла бы на расследование террористической угрозы."
+    ],
+    [
+     "The same month, President Barack Obama announced reforms, although he also defended the work of the intelligence agencies.",
+     "В том же месяце президент Барак Обама объявил о реформах, хотя и защитил работу спецслужб."
+    ]
+   ]
+  },
+  {
+   "en": "The courts also began to examine what had been done in secret. In December 2013, a federal judge, Richard Leon, said that the phone records programme was probably unconstitutional and called it \"almost Orwellian\", a reference to George Orwell's novel about total surveillance, Nineteen Eighty-Four. In May 2015, a federal appeals court in New York ruled that the programme went far beyond what Congress had allowed by law and was therefore illegal.",
+   "ru": "Суды тоже начали изучать то, что делалось тайно. В декабре 2013 года федеральный судья Ричард Леон заявил, что программа сбора телефонных записей, вероятно, противоречит Конституции, и назвал её «почти оруэлловской» — намёк на роман Джорджа Оруэлла о тотальной слежке «1984». В мае 2015 года федеральный апелляционный суд в Нью-Йорке постановил, что программа вышла далеко за рамки того, что Конгресс разрешил законом, и поэтому была незаконной.",
+   "s": [
+    [
+     "The courts also began to examine what had been done in secret.",
+     "Суды тоже начали изучать то, что делалось тайно."
+    ],
+    [
+     "In December 2013, a federal judge, Richard Leon, said that the phone records programme was probably unconstitutional and called it \"almost Orwellian\", a reference to George Orwell's novel about total surveillance, Nineteen Eighty-Four.",
+     "В декабре 2013 года федеральный судья Ричард Леон заявил, что программа сбора телефонных записей, вероятно, противоречит Конституции, и назвал её «почти оруэлловской» — намёк на роман Джорджа Оруэлла о тотальной слежке «1984»."
+    ],
+    [
+     "In May 2015, a federal appeals court in New York ruled that the programme went far beyond what Congress had allowed by law and was therefore illegal.",
+     "В мае 2015 года федеральный апелляционный суд в Нью-Йорке постановил, что программа вышла далеко за рамки того, что Конгресс разрешил законом, и поэтому была незаконной."
+    ]
+   ]
+  },
+  {
+   "en": "A few weeks later, in June 2015, Congress passed the USA Freedom Act. Under this law, the NSA could no longer collect Americans' phone records in bulk, that is, everyone's records at once. The records would stay with the phone companies, and the agency would need a court order to get information about specific numbers.",
+   "ru": "Через несколько недель, в июне 2015 года, Конгресс принял «Акт о свободе США». По этому закону АНБ больше не могло собирать телефонные записи американцев массово, то есть записи всех сразу. Записи должны были оставаться у телефонных компаний, а агентству требовалось судебное постановление, чтобы получить сведения о конкретных номерах.",
+   "s": [
+    [
+     "A few weeks later, in June 2015, Congress passed the USA Freedom Act.",
+     "Через несколько недель, в июне 2015 года, Конгресс принял «Акт о свободе США»."
+    ],
+    [
+     "Under this law, the NSA could no longer collect Americans' phone records in bulk, that is, everyone's records at once.",
+     "По этому закону АНБ больше не могло собирать телефонные записи американцев массово, то есть записи всех сразу."
+    ],
+    [
+     "The records would stay with the phone companies, and the agency would need a court order to get information about specific numbers.",
+     "Записи должны были оставаться у телефонных компаний, а агентству требовалось судебное постановление, чтобы получить сведения о конкретных номерах."
+    ]
+   ]
+  },
+  {
+   "en": "In September 2020, another federal appeals court, in California, went further. In the case of men convicted of sending money to a terrorist group in Somalia, the judges ruled that the bulk collection of phone records had been unlawful and possibly unconstitutional. They also noted that the secret records did not support public claims by officials that the programme had been important in that case. However, the court did not cancel the men's convictions.",
+   "ru": "В сентябре 2020 года другой федеральный апелляционный суд, в Калифорнии, пошёл ещё дальше. В деле мужчин, осуждённых за отправку денег террористической группировке в Сомали, судьи постановили, что массовый сбор телефонных записей был незаконным и, возможно, противоречил Конституции. Они также отметили, что секретные материалы не подтверждают публичные заявления чиновников о том, что программа сыграла важную роль в этом деле. Однако суд не отменил приговоры этим мужчинам.",
+   "s": [
+    [
+     "In September 2020, another federal appeals court, in California, went further.",
+     "В сентябре 2020 года другой федеральный апелляционный суд, в Калифорнии, пошёл ещё дальше."
+    ],
+    [
+     "In the case of men convicted of sending money to a terrorist group in Somalia, the judges ruled that the bulk collection of phone records had been unlawful and possibly unconstitutional.",
+     "В деле мужчин, осуждённых за отправку денег террористической группировке в Сомали, судьи постановили, что массовый сбор телефонных записей был незаконным и, возможно, противоречил Конституции."
+    ],
+    [
+     "They also noted that the secret records did not support public claims by officials that the programme had been important in that case.",
+     "Они также отметили, что секретные материалы не подтверждают публичные заявления чиновников о том, что программа сыграла важную роль в этом деле."
+    ],
+    [
+     "However, the court did not cancel the men's convictions.",
+     "Однако суд не отменил приговоры этим мужчинам."
+    ]
+   ]
+  },
+  {
+   "en": "The effects were felt far outside the United States. In 2015, the Court of Justice of the European Union cancelled an agreement called Safe Harbour, which had allowed companies to move Europeans' personal data to America. The case had been brought by an Austrian privacy activist, Max Schrems, after the Snowden revelations. In 2021, the European Court of Human Rights ruled that Britain's system of bulk interception had broken the right to privacy, because it did not have enough protections.",
+   "ru": "Последствия ощущались далеко за пределами Соединённых Штатов. В 2015 году Суд Европейского союза отменил соглашение под названием «Безопасная гавань», которое позволяло компаниям передавать личные данные европейцев в Америку. Дело возбудил австрийский активист в области защиты частной жизни Макс Шремс после разоблачений Сноудена. В 2021 году Европейский суд по правам человека постановил, что британская система массового перехвата нарушала право на частную жизнь, поскольку в ней не хватало механизмов защиты.",
+   "s": [
+    [
+     "The effects were felt far outside the United States.",
+     "Последствия ощущались далеко за пределами Соединённых Штатов."
+    ],
+    [
+     "In 2015, the Court of Justice of the European Union cancelled an agreement called Safe Harbour, which had allowed companies to move Europeans' personal data to America.",
+     "В 2015 году Суд Европейского союза отменил соглашение под названием «Безопасная гавань», которое позволяло компаниям передавать личные данные европейцев в Америку."
+    ],
+    [
+     "The case had been brought by an Austrian privacy activist, Max Schrems, after the Snowden revelations.",
+     "Дело возбудил австрийский активист в области защиты частной жизни Макс Шремс после разоблачений Сноудена."
+    ],
+    [
+     "In 2021, the European Court of Human Rights ruled that Britain's system of bulk interception had broken the right to privacy, because it did not have enough protections.",
+     "В 2021 году Европейский суд по правам человека постановил, что британская система массового перехвата нарушала право на частную жизнь, поскольку в ней не хватало механизмов защиты."
+    ]
+   ]
+  },
+  {
+   "en": "Technology companies changed too. Worried about losing their customers' trust, many of them began to use stronger encryption. Today, popular messaging apps encrypt messages so that even the company itself cannot read them, and most websites use secure connections. Many experts believe that the Snowden leaks made these changes happen faster.",
+   "ru": "Технологические компании тоже изменились. Обеспокоенные тем, что потеряют доверие клиентов, многие из них начали использовать более надёжное шифрование. Сегодня популярные мессенджеры шифруют сообщения так, что даже сама компания не может их прочитать, а большинство сайтов используют защищённые соединения. Многие эксперты считают, что утечки Сноудена ускорили эти изменения.",
+   "s": [
+    [
+     "Technology companies changed too.",
+     "Технологические компании тоже изменились."
+    ],
+    [
+     "Worried about losing their customers' trust, many of them began to use stronger encryption.",
+     "Обеспокоенные тем, что потеряют доверие клиентов, многие из них начали использовать более надёжное шифрование."
+    ],
+    [
+     "Today, popular messaging apps encrypt messages so that even the company itself cannot read them, and most websites use secure connections.",
+     "Сегодня популярные мессенджеры шифруют сообщения так, что даже сама компания не может их прочитать, а большинство сайтов используют защищённые соединения."
+    ],
+    [
+     "Many experts believe that the Snowden leaks made these changes happen faster.",
+     "Многие эксперты считают, что утечки Сноудена ускорили эти изменения."
+    ]
+   ]
+  },
+  {
+   "en": "Not everything changed, however. Section 702, the law behind PRISM, still exists and has been renewed by Congress several times, most recently in 2024. The arguments about it start again every few years. And Snowden is still in Russia, still facing charges in America, with an uncertain future.",
+   "ru": "Однако изменилось не всё. Раздел 702, закон, на котором основана PRISM, всё ещё действует и несколько раз продлевался Конгрессом, последний раз — в 2024 году. Споры о нём возобновляются каждые несколько лет. А Сноуден всё ещё в России, ему по-прежнему предъявлены обвинения в Америке, и его будущее неясно.",
+   "s": [
+    [
+     "Not everything changed, however.",
+     "Однако изменилось не всё."
+    ],
+    [
+     "Section 702, the law behind PRISM, still exists and has been renewed by Congress several times, most recently in 2024.",
+     "Раздел 702, закон, на котором основана PRISM, всё ещё действует и несколько раз продлевался Конгрессом, последний раз — в 2024 году."
+    ],
+    [
+     "The arguments about it start again every few years.",
+     "Споры о нём возобновляются каждые несколько лет."
+    ],
+    [
+     "And Snowden is still in Russia, still facing charges in America, with an uncertain future.",
+     "А Сноуден всё ещё в России, ему по-прежнему предъявлены обвинения в Америке, и его будущее неясно."
+    ]
+   ]
+  },
+  {
+   "en": "Before 2013, the idea that a government was secretly collecting the phone records of millions of its own citizens sounded like a conspiracy theory. After 2013, it was a documented fact, confirmed by secret court papers, official reports and, finally, by judges. The story of Edward Snowden reminds us that some conspiracy theories turn out to be true. But it also shows how the truth is discovered: not through rumours, but through documents that can be checked.",
+   "ru": "До 2013 года мысль о том, что правительство тайно собирает телефонные записи миллионов собственных граждан, звучала как теория заговора. После 2013 года это стало документально подтверждённым фактом, который подтвердили секретные судебные бумаги, официальные отчёты и, наконец, судьи. История Эдварда Сноудена напоминает нам, что некоторые теории заговора оказываются правдой. Но она также показывает, как открывается правда: не через слухи, а через документы, которые можно проверить.",
+   "s": [
+    [
+     "Before 2013, the idea that a government was secretly collecting the phone records of millions of its own citizens sounded like a conspiracy theory.",
+     "До 2013 года мысль о том, что правительство тайно собирает телефонные записи миллионов собственных граждан, звучала как теория заговора."
+    ],
+    [
+     "After 2013, it was a documented fact, confirmed by secret court papers, official reports and, finally, by judges.",
+     "После 2013 года это стало документально подтверждённым фактом, который подтвердили секретные судебные бумаги, официальные отчёты и, наконец, судьи."
+    ],
+    [
+     "The story of Edward Snowden reminds us that some conspiracy theories turn out to be true.",
+     "История Эдварда Сноудена напоминает нам, что некоторые теории заговора оказываются правдой."
+    ],
+    [
+     "But it also shows how the truth is discovered: not through rumours, but through documents that can be checked.",
+     "Но она также показывает, как открывается правда: не через слухи, а через документы, которые можно проверить."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, об; около",
+  "acceptable": "допустимый, приемлемый",
+  "access": "доступ",
+  "according": "(according to) согласно",
+  "act": "акт, закон",
+  "acted": "поступил, действовал",
+  "activist": "активист",
+  "added": "добавил",
+  "admitted": "признал",
+  "after": "после",
+  "again": "снова",
+  "agencies": "агентства, ведомства",
+  "agency": "агентство",
+  "agreement": "соглашение",
+  "airport": "аэропорт",
+  "all": "все; (at all) вообще",
+  "allen": "Аллен (часть названия компании)",
+  "allowed": "разрешал(о); (be allowed) разрешено",
+  "ally": "союзник",
+  "almost": "почти",
+  "also": "также, тоже",
+  "although": "хотя",
+  "america": "Америка",
+  "american": "американский",
+  "americans": "американцы",
+  "among": "среди",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "angela": "Ангела (имя)",
+  "anger": "гнев",
+  "announced": "объявил",
+  "another": "другой, ещё один",
+  "answer": "ответ; ответить",
+  "answered": "ответил",
+  "any": "какие-либо, любой; (not any) ни одного",
+  "apologised": "извинился",
+  "appeals": "(appeals court) апелляционный суд",
+  "appeared": "появился; появлялись",
+  "apple": "Apple (компания)",
+  "approves": "одобряет",
+  "apps": "приложения",
+  "are": "являются, есть",
+  "area": "зона, место",
+  "arguments": "споры",
+  "around": "вокруг; по всему (миру); около",
+  "as": "как; в качестве",
+  "asked": "спросил; попросил",
+  "asylum": "убежище",
+  "at": "в, на; (at once) сразу",
+  "august": "август",
+  "austrian": "австрийский",
+  "authorities": "власти",
+  "barack": "Барак (имя)",
+  "basis": "основа, основание",
+  "be": "быть",
+  "because": "потому что",
+  "become": "стал(о)",
+  "been": "был(о)",
+  "before": "до, перед; раньше",
+  "began": "начал(и)",
+  "beginning": "начало",
+  "behind": "за, в основе",
+  "believe": "считают, верят",
+  "believed": "считал, верил",
+  "between": "между",
+  "beyond": "за пределы",
+  "biggest": "самый большой",
+  "board": "сесть (на самолёт); совет (орган)",
+  "body": "орган (организация)",
+  "booz": "Буз (часть названия компании)",
+  "britain's": "Великобритании, британский",
+  "british": "британский",
+  "broken": "нарушил(а)",
+  "brought": "привёз; возбудил (дело)",
+  "building": "строил(о)",
+  "bulk": "(in bulk) массово, оптом; массовый",
+  "but": "но",
+  "by": "от, с помощью; (passive) кем-то",
+  "cables": "кабели",
+  "california": "Калифорния",
+  "call": "называют; звонок",
+  "called": "назвал; под названием; позвонил",
+  "calls": "звонки",
+  "calmly": "спокойно",
+  "camera": "камера",
+  "can": "может, можно",
+  "cancel": "отменить",
+  "cancelled": "аннулировал(и), отменил",
+  "cannot": "не может",
+  "carolina": "Каролина (штат)",
+  "carry": "переносят, передают",
+  "case": "дело; случай",
+  "centre": "центр",
+  "century": "век",
+  "chancellor": "канцлер",
+  "changed": "изменил(о)ся",
+  "changes": "изменения",
+  "charged": "(charged with) обвинило в",
+  "charges": "обвинения",
+  "chats": "чаты, переписка",
+  "checked": "проверен(а)",
+  "chose": "выбрал",
+  "cia": "ЦРУ",
+  "citizens": "граждане",
+  "citizenship": "гражданство",
+  "civil": "гражданский",
+  "claimed": "утверждали",
+  "claims": "утверждения, заявления",
+  "clapper": "Клэппер (фамилия)",
+  "close": "близкий",
+  "cloth": "ткань",
+  "code": "код",
+  "collect": "собирать",
+  "collected": "собирало; собирались",
+  "collecting": "собирающий, собирали",
+  "collection": "сбор",
+  "collects": "собирает",
+  "colourful": "разноцветный, яркий",
+  "come": "(come home) вернуться домой",
+  "comfortable": "удобный, уютный",
+  "committee": "комитет",
+  "communications": "коммуникации, переговоры",
+  "companies": "компании",
+  "company": "компания",
+  "computer": "компьютерный",
+  "computers": "компьютеры",
+  "confirmed": "подтверждённый",
+  "congress": "Конгресс",
+  "connections": "соединения",
+  "conspiracy": "заговор",
+  "contact": "связываться",
+  "continue": "продолжить (путь)",
+  "contractor": "подрядчик",
+  "control": "контроль",
+  "convicted": "осуждённые",
+  "convictions": "приговоры (обвинительные)",
+  "copied": "скопировал",
+  "cost": "стоить",
+  "could": "мог(ли); (could not) не мог",
+  "countries": "страны",
+  "country": "страна",
+  "court": "суд",
+  "courts": "суды",
+  "covered": "накрывал",
+  "crimes": "преступления",
+  "critics": "критики",
+  "cube": "кубик",
+  "customers": "клиенты",
+  "danger": "опасность",
+  "data": "данные",
+  "day": "день",
+  "days": "дни",
+  "deal": "(a great deal) очень многое",
+  "debate": "спор, обсуждение",
+  "debates": "споры",
+  "december": "декабрь",
+  "decide": "решать",
+  "decision": "решение",
+  "defended": "защитил",
+  "denied": "опровергли, отрицали",
+  "der": "Дер (часть названия журнала)",
+  "described": "описывали",
+  "details": "подробности",
+  "devices": "устройства",
+  "did": "(вспом. гл.); сделал",
+  "difference": "(make a difference) повлиять",
+  "difficult": "сложный, трудный",
+  "direct": "прямой",
+  "director": "директор",
+  "discovered": "открыта, обнаружена",
+  "disgust": "отвращение",
+  "do": "делаю",
+  "doctor": "врач",
+  "documentary": "документальный; документальный фильм",
+  "documented": "документально подтверждённый",
+  "documents": "документы",
+  "don't": "не (вспом.)",
+  "done": "сделал; сделано",
+  "early": "(in early June) в начале",
+  "edward": "Эдвард (имя)",
+  "effects": "последствия",
+  "eighty": "восемьдесят",
+  "electronic": "электронный",
+  "emails": "электронные письма",
+  "employed": "нанят, работал по найму",
+  "employer": "работодатель",
+  "encrypt": "шифруют",
+  "encrypted": "зашифрованный",
+  "encryption": "шифрование",
+  "enough": "достаточно",
+  "especially": "особенно",
+  "espionage": "шпионаж",
+  "europe": "Европа",
+  "european": "европейский",
+  "europeans": "европейцев",
+  "even": "даже",
+  "ever": "(ever since) с тех пор",
+  "every": "каждый",
+  "everyone": "все",
+  "everyone's": "всех",
+  "everything": "всё",
+  "ewen": "Юэн (имя)",
+  "examine": "изучать",
+  "example": "(for example) например",
+  "existed": "существовал(а)",
+  "exists": "существует, действует",
+  "experienced": "опытный",
+  "experts": "эксперты, специалисты",
+  "explain": "объяснить",
+  "explained": "объяснил",
+  "face": "(face a trial) предстать перед судом",
+  "facebook": "Facebook (компания)",
+  "facing": "(facing charges) обвиняемый",
+  "fact": "факт",
+  "fair": "справедливый",
+  "false": "ложный, вымышленный",
+  "far": "далеко; гораздо",
+  "fast": "быстрый",
+  "faster": "быстрее",
+  "fear": "страх",
+  "federal": "федеральный",
+  "felt": "ощущались",
+  "few": "несколько",
+  "files": "файлы",
+  "filmed": "снимал(а); снятый",
+  "filmmaker": "режиссёр, кинематографист",
+  "finally": "наконец",
+  "find": "найти",
+  "fingers": "пальцы",
+  "first": "первый; (at first) сначала",
+  "flew": "полетел, прилетел",
+  "flight": "рейс, перелёт",
+  "followed": "последовали",
+  "following": "следующий",
+  "for": "для; в течение; за",
+  "foreign": "иностранный",
+  "foreigners": "иностранцы",
+  "found": "нашёл",
+  "four": "четыре",
+  "free": "свободный",
+  "freedom": "свобода",
+  "fridge": "холодильник",
+  "friend": "друг",
+  "from": "из, от",
+  "further": "дальше",
+  "future": "будущее",
+  "gave": "дал(а), передал",
+  "gchq": "Центр правительственной связи (британская спецслужба)",
+  "george": "Джордж (имя)",
+  "german": "немецкий",
+  "get": "получить",
+  "girlfriend": "девушка (подруга)",
+  "give": "давать, передавать",
+  "given": "дан(о), предоставлено",
+  "gives": "даёт",
+  "glasses": "очки",
+  "glenn": "Гленн (имя)",
+  "good": "хороший",
+  "google": "Google (компания)",
+  "got": "(got married) поженились; (got further) продвинулся",
+  "government": "правительство; государственный",
+  "governments": "правительства",
+  "great": "(a great deal) очень много",
+  "greenwald": "Гринвальд (фамилия)",
+  "group": "группа, группировка",
+  "grown": "(had grown up) вырос",
+  "guardian": "Гардиан (газета)",
+  "guess": "угадать, догадаться",
+  "had": "(вспом. гл.); имел",
+  "hamilton": "Гамильтон (часть названия компании)",
+  "hand": "(hand over) выдать",
+  "happen": "происходить",
+  "harbour": "гавань",
+  "harmed": "навредил",
+  "has": "(вспом. гл.); имеет",
+  "have": "иметь; (вспом. гл.)",
+  "hawaii": "Гавайи",
+  "he": "он",
+  "head": "голова",
+  "headquarters": "штаб-квартира",
+  "hearing": "услышав",
+  "her": "её, ей",
+  "hero": "герой",
+  "hidden": "скрытый",
+  "him": "его, ему",
+  "his": "его",
+  "holding": "держащий",
+  "home": "дом; домой",
+  "hong": "Гон- (Гонконг)",
+  "hoped": "надеялся",
+  "hospital": "больница",
+  "hotel": "отель, гостиница",
+  "hours": "часы",
+  "how": "как; (how old) сколько лет",
+  "however": "однако",
+  "human": "человеческий; (human rights) права человека",
+  "i": "я",
+  "idea": "мысль, идея; (no idea) не подозревали",
+  "if": "если",
+  "illegal": "незаконный",
+  "important": "важный",
+  "in": "в",
+  "incidentally": "попутно, случайно",
+  "include": "включать, содержать",
+  "including": "включая, в том числе",
+  "independent": "независимый",
+  "independently": "независимо",
+  "information": "информация, сведения",
+  "inside": "внутри",
+  "insisted": "(insisted on) настаивал на",
+  "intelligence": "разведка; (intelligence agencies) спецслужбы",
+  "interception": "перехват",
+  "internal": "внутренний",
+  "internet": "интернет",
+  "into": "в",
+  "investigation": "расследование",
+  "investigations": "расследования",
+  "is": "есть, является",
+  "it": "он, она, оно, это",
+  "its": "его, её, свой",
+  "itself": "сама",
+  "james": "Джеймс (имя)",
+  "january": "январь",
+  "job": "работа",
+  "joined": "присоединилась, приехала к",
+  "journalists": "журналисты",
+  "judge": "судья",
+  "judges": "судьи",
+  "june": "июнь",
+  "jury": "присяжные",
+  "justice": "правосудие; (Court of Justice) Суд",
+  "kind": "вид, род",
+  "knew": "знал(и)",
+  "know": "знать",
+  "known": "известный",
+  "kong": "-конг (Гонконг)",
+  "laptop": "ноутбук",
+  "largest": "крупнейший",
+  "later": "позже",
+  "latin": "Латинская (Америка)",
+  "laura": "Лора (имя)",
+  "law": "закон",
+  "lawyer": "юрист",
+  "leaks": "утечки",
+  "leaving": "оставив",
+  "left": "покинул, улетел из",
+  "legal": "правовой, законный",
+  "leon": "Леон (фамилия)",
+  "liberties": "свободы",
+  "life": "жизнь",
+  "like": "(look like) выглядеть; (sound like) звучать как",
+  "lindsay": "Линдси (имя)",
+  "listening": "(listening devices) подслушивающие устройства",
+  "live": "жить",
+  "lived": "жил",
+  "lives": "жизни",
+  "long": "(how long) как долго",
+  "longer": "(no longer) больше не",
+  "looked": "(looked like) выглядел, был похож",
+  "losing": "потеря, потерять",
+  "lot": "(a lot) много",
+  "loved": "любил",
+  "macaskill": "Макаскилл (фамилия)",
+  "made": "(made the decision) принял решение; (made a difference) повлияла",
+  "magazine": "журнал",
+  "mainly": "в основном",
+  "major": "крупный",
+  "man": "человек, мужчина",
+  "many": "многие, много",
+  "march": "март",
+  "married": "(got married) поженились",
+  "maryland": "Мэриленд (штат)",
+  "material": "материалы",
+  "max": "Макс (имя)",
+  "may": "май",
+  "means": "означает",
+  "meant": "означало",
+  "media": "СМИ",
+  "medical": "(medical treatment) лечение",
+  "meeting": "встреча",
+  "meets": "собирается, заседает",
+  "men": "мужчины",
+  "men's": "мужчин",
+  "merkel": "Меркель (фамилия)",
+  "messages": "сообщения",
+  "messaging": "(messaging apps) мессенджеры",
+  "metadata": "метаданные",
+  "microsoft": "Microsoft (компания)",
+  "million": "миллион",
+  "millions": "миллионы",
+  "mills": "Миллс (фамилия)",
+  "mobile": "мобильный",
+  "moment": "момент",
+  "money": "деньги",
+  "month": "месяц",
+  "months": "месяцы",
+  "more": "больше; (more and more) всё больше",
+  "moscow": "Москва",
+  "most": "большинство; самый; (most recently) последний раз",
+  "move": "передавать, перемещать",
+  "much": "(how much) сколько",
+  "name": "имя",
+  "names": "имена",
+  "national": "национальный",
+  "need": "нуждаться",
+  "needed": "нуждался; было нужно",
+  "never": "никогда",
+  "new": "Нью- (Нью-Йорк)",
+  "newspaper": "газета",
+  "newspapers": "газеты",
+  "next": "следующий",
+  "nine": "девять",
+  "nineteen": "девятнадцать",
+  "no": "нет; никакой; (no longer) больше не",
+  "north": "Северная",
+  "not": "не",
+  "noted": "отметили",
+  "novel": "роман",
+  "nsa": "АНБ (Агентство национальной безопасности)",
+  "number": "число, цифра; номер",
+  "numbers": "номера",
+  "obama": "Обама (фамилия)",
+  "october": "октябрь",
+  "of": "(род. падеж); из",
+  "off": "(time off) отпуск, отгул",
+  "official": "официальный",
+  "officials": "чиновники, официальные лица",
+  "often": "часто",
+  "old": "старый; (how old) сколько лет",
+  "on": "на; о; (on board) на борту",
+  "once": "(at once) сразу",
+  "one": "один; одна из",
+  "only": "только",
+  "or": "или",
+  "order": "постановление, приказ; (in order to) чтобы",
+  "orders": "постановления",
+  "ordinary": "обычный",
+  "organisation": "организация",
+  "orwell's": "Оруэлла",
+  "orwellian": "оруэлловский",
+  "other": "другой",
+  "our": "наш",
+  "out": "(pointed out) указали; (turn out) оказываться",
+  "outside": "за пределами",
+  "over": "в течение; над; (hand over) выдать",
+  "oversight": "надзор",
+  "own": "собственный, свой",
+  "pale": "бледный",
+  "papers": "бумаги, документы",
+  "paranoia": "паранойя",
+  "paranoid": "параноидальный, параноик",
+  "part": "часть",
+  "partner": "партнёр",
+  "passed": "принял (закон)",
+  "passport": "паспорт; паспортный",
+  "passwords": "пароли",
+  "people": "люди",
+  "perhaps": "возможно",
+  "person": "человек",
+  "personal": "личный",
+  "phone": "телефон; телефонный",
+  "phones": "телефоны",
+  "photos": "фотографии",
+  "plane": "самолёт",
+  "planes": "самолёты",
+  "planned": "планировал",
+  "planning": "планировал, задумал",
+  "pointed": "(pointed out) указали",
+  "poitras": "Пойтрас (фамилия)",
+  "popular": "популярный",
+  "possibly": "возможно",
+  "post": "Пост (газета)",
+  "powerful": "мощный",
+  "presentation": "презентация",
+  "presentations": "презентации",
+  "president": "президент",
+  "prism": "PRISM (название программы)",
+  "privacy": "частная жизнь, неприкосновенность",
+  "private": "частный",
+  "probably": "вероятно",
+  "problem": "проблема",
+  "programme": "программа",
+  "proper": "надлежащий",
+  "protect": "защитить",
+  "protection": "защита",
+  "protections": "механизмы защиты",
+  "public": "общество; общественный, публичный",
+  "publish": "публиковать",
+  "published": "опубликовал(а)",
+  "purpose": "(on purpose) нарочно, специально",
+  "put": "положить; (put at risk) подвергнуть опасности",
+  "puzzle": "головоломка",
+  "question": "вопрос",
+  "questioned": "расспрашивали",
+  "questions": "вопросы",
+  "quickly": "быстро",
+  "quiet": "тихий",
+  "reacted": "отреагировали",
+  "reaction": "реакция",
+  "read": "прочитать",
+  "real": "настоящий, реальный",
+  "recently": "(most recently) последний раз",
+  "recorded": "записывается",
+  "records": "записи; материалы",
+  "reference": "отсылка, намёк",
+  "reforms": "реформы",
+  "reminds": "напоминает",
+  "removed": "удалили",
+  "renewed": "продлён",
+  "replied": "ответил",
+  "report": "доклад, отчёт",
+  "reported": "сообщил",
+  "reporter": "репортёр",
+  "reports": "отчёты",
+  "requested": "запрашивались",
+  "requests": "просьбы, запросы",
+  "required": "обязывало",
+  "return": "вернуться",
+  "reveal": "раскрыть",
+  "revealed": "раскрыла",
+  "reveals": "раскрывает",
+  "revelations": "разоблачения",
+  "richard": "Ричард (имя)",
+  "right": "правый; нужный; право",
+  "rights": "права",
+  "risk": "(at risk) в опасности",
+  "ron": "Рон (имя)",
+  "room": "номер, комната",
+  "rubik's": "Рубика (кубик Рубика)",
+  "ruled": "постановил(и)",
+  "rumours": "слухи",
+  "russia": "Россия",
+  "russian": "российский",
+  "safe": "безопасный; (Safe Harbour) Безопасная гавань",
+  "safety": "безопасность",
+  "said": "сказал",
+  "salary": "зарплата",
+  "same": "тот же",
+  "sat": "сидели",
+  "saw": "видел; считали",
+  "say": "говорят",
+  "says": "говорит",
+  "schrems": "Шремс (фамилия)",
+  "search": "поиск; поисковый",
+  "secret": "секретный; (in secret) тайно",
+  "secretly": "тайно",
+  "section": "раздел (закона)",
+  "secure": "защищённый",
+  "security": "безопасность",
+  "see": "увидеть",
+  "seemed": "казалось",
+  "seen": "видели",
+  "senate": "Сенат",
+  "senator": "сенатор",
+  "sending": "отправка",
+  "september": "сентябрь",
+  "serious": "серьёзный",
+  "seriously": "всерьёз",
+  "servers": "серверы",
+  "setting": "(setting up) настройка",
+  "several": "несколько",
+  "sheremetyevo": "Шереметьево (аэропорт)",
+  "should": "должен, следует",
+  "show": "показать",
+  "showed": "показали",
+  "shows": "показывает",
+  "simply": "просто",
+  "since": "(ever since) с тех пор",
+  "single": "единственный; (not a single) ни одного",
+  "sir": "сэр",
+  "small": "маленький",
+  "snowden": "Сноуден (фамилия)",
+  "so": "поэтому; (so that) чтобы",
+  "somalia": "Сомали",
+  "some": "некоторые",
+  "someone": "кто-то",
+  "soon": "вскоре",
+  "sounded": "звучала",
+  "special": "особый, специальный",
+  "specific": "конкретный",
+  "speech": "(free speech) свобода слова",
+  "spent": "провёл",
+  "spiegel": "Шпигель (журнал)",
+  "spoke": "говорил",
+  "spy": "шпион",
+  "start": "начать; начинаются",
+  "started": "начал(и)",
+  "states": "Штаты",
+  "stay": "оставаться",
+  "still": "всё ещё, по-прежнему",
+  "stored": "хранятся",
+  "stories": "статьи; истории",
+  "story": "статья; история",
+  "strange": "странный",
+  "strict": "строгий",
+  "strong": "сильный",
+  "stronger": "более надёжный, сильнее",
+  "student": "студент",
+  "studies": "изучает",
+  "such": "(such as) например, такой как",
+  "support": "подтверждать",
+  "supporters": "сторонники",
+  "supposed": "(was supposed to) должен был",
+  "sure": "уверенный; (be sure) убедиться",
+  "surprised": "удивлённый",
+  "surveillance": "слежка, наблюдение",
+  "system": "система",
+  "systems": "системы",
+  "take": "взять; (take seriously) воспринять всерьёз",
+  "tapping": "подключаться (для прослушки)",
+  "target": "цель (слежки); следить за",
+  "targeted": "сделал целью, следил за",
+  "targets": "цели",
+  "technical": "технический",
+  "technology": "технологический",
+  "telling": "сказав",
+  "temporary": "временный",
+  "terrorist": "террористический",
+  "than": "чем",
+  "that": "что; который; тот",
+  "the": "(артикль)",
+  "their": "их, свой",
+  "them": "их, им",
+  "then": "затем, потом",
+  "theories": "теории",
+  "theory": "теория",
+  "there": "там",
+  "therefore": "поэтому",
+  "these": "эти",
+  "they": "они",
+  "thin": "худой",
+  "thing": "вещь; (one thing) одно",
+  "this": "этот, это",
+  "thought": "думали",
+  "threat": "угроза",
+  "through": "через, по; с помощью",
+  "time": "(time off) отпуск, свободное время",
+  "times": "раз",
+  "to": "к, в; (инфинитив)",
+  "today": "сегодня",
+  "together": "(together with) вместе с",
+  "told": "сказал",
+  "too": "тоже; слишком",
+  "took": "отвёл; забрал; взял",
+  "tool": "инструмент, система",
+  "total": "тотальный",
+  "toy": "игрушка",
+  "tradition": "традиция",
+  "traffic": "трафик",
+  "traitor": "предатель",
+  "transit": "транзитный",
+  "trapped": "в ловушке",
+  "treatment": "лечение",
+  "trial": "суд, судебный процесс",
+  "true": "верный, правдивый; (turn out to be true) оказаться правдой",
+  "trust": "доверие",
+  "truth": "правда",
+  "turn": "(turn out) оказываться",
+  "turned": "превращённый",
+  "twenty": "двадцать",
+  "two": "два",
+  "type": "тип, вид",
+  "typed": "вводил, печатал",
+  "uncertain": "неясный, неопределённый",
+  "unconstitutional": "противоречащий Конституции",
+  "under": "по (закону); согласно",
+  "union": "союз",
+  "united": "Соединённые",
+  "university": "университет",
+  "unlawful": "незаконный",
+  "up": "(grown up) вырос; (setting up) настройка",
+  "us": "нас, нам",
+  "usa": "США",
+  "use": "использовать",
+  "used": "пользовался; (be used) использоваться",
+  "users": "пользователей",
+  "valid": "действительный",
+  "verizon": "Verizon (компания)",
+  "very": "очень",
+  "video": "видео",
+  "view": "(in his view) по его мнению",
+  "waiting": "ждали",
+  "want": "хочу",
+  "was": "был(а), было",
+  "washington": "Вашингтон",
+  "watch": "следить за",
+  "watched": "наблюдали",
+  "ways": "(in important ways) в важных отношениях",
+  "websites": "сайты",
+  "weeks": "недели",
+  "went": "(went beyond) вышла за; (went further) пошёл дальше",
+  "were": "были",
+  "what": "что; какой",
+  "whatever": "что бы ни",
+  "when": "когда",
+  "where": "где",
+  "whether": "ли",
+  "which": "который; какой",
+  "while": "пока, в то время как",
+  "whistleblower": "разоблачитель",
+  "who": "кто; который",
+  "why": "почему",
+  "with": "с; в (очках)",
+  "without": "без",
+  "wittingly": "намеренно, сознательно",
+  "word": "слово",
+  "words": "слова",
+  "work": "работа",
+  "worked": "работал",
+  "working": "работал",
+  "world": "мир",
+  "worried": "обеспокоенный, встревоженный",
+  "would": "(буд. в прош.); бы",
+  "wrong": "неверный",
+  "wrongdoing": "нарушения, злоупотребления",
+  "wrote": "написал; писал",
+  "wyden": "Уайден (фамилия)",
+  "xkeyscore": "XKeyscore (название программы)",
+  "yahoo": "Yahoo (компания)",
+  "years": "лет, годы",
+  "yet": "и всё же",
+  "york": "Йорк (Нью-Йорк)",
+  "you": "вы, ты",
+  "young": "молодой"
+ },
+ "vocab": {
+  "area": 419,
+  "security": 307,
+  "inside": 33,
+  "salary": 594,
+  "yet": 517,
+  "decision": 420,
+  "disgust": 643,
+  "cost": 299,
+  "reminds": 165
+ }
+}

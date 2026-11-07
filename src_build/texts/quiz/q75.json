@@ -1,0 +1,110 @@
+[
+ {
+  "q": "What did Malaysian military radar show after the transponder stopped working?",
+  "q_ru": "Что показал малайзийский военный радар после того, как транспондер перестал работать?",
+  "options": [
+   "The plane crashed into the South China Sea",
+   "The plane turned back and flew west across the Malay Peninsula",
+   "The plane continued north towards Beijing",
+   "The plane landed at an airport in Vietnam"
+  ],
+  "options_ru": [
+   "Самолёт упал в Южно-Китайское море",
+   "Самолёт развернулся и полетел на запад через Малаккский полуостров",
+   "Самолёт продолжил лететь на север к Пекину",
+   "Самолёт приземлился в аэропорту во Вьетнаме"
+  ],
+  "answer": 1,
+  "explain_ru": "По военным данным, самолёт резко развернулся, пересёк Малаккский полуостров, пролетел у Пенанга и ушёл на северо-запад над Малаккским проливом."
+ },
+ {
+  "q": "How did investigators learn that the plane kept flying for about six more hours?",
+  "q_ru": "Как следователи узнали, что самолёт летел ещё около шести часов?",
+  "options": [
+   "From a passenger's phone call",
+   "From the black boxes",
+   "From automatic satellite \"handshakes\" recorded by Inmarsat",
+   "From military radar in Australia"
+  ],
+  "options_ru": [
+   "Из звонка одного из пассажиров",
+   "Из «чёрных ящиков»",
+   "Из автоматических спутниковых «рукопожатий», записанных Inmarsat",
+   "С военного радара в Австралии"
+  ],
+  "answer": 2,
+  "explain_ru": "Система спутниковой связи самолёта продолжала обмениваться короткими сигналами со спутником Inmarsat; последнее полное «рукопожатие» было в 8:11, неполное — в 8:19."
+ },
+ {
+  "q": "What was found on a beach on Reunion in July 2015?",
+  "q_ru": "Что нашли на пляже на Реюньоне в июле 2015 года?",
+  "options": [
+   "A flaperon, a part of the plane's wing",
+   "One of the black boxes",
+   "A passenger's suitcase",
+   "A piece of the cockpit"
+  ],
+  "options_ru": [
+   "Флаперон — часть крыла самолёта",
+   "Один из «чёрных ящиков»",
+   "Чемодан пассажира",
+   "Часть кабины пилотов"
+  ],
+  "answer": 0,
+  "explain_ru": "Рабочие нашли флаперон длиной около двух метров; в сентябре 2015 года французские следователи по серийному номеру подтвердили, что он с MH370."
+ },
+ {
+  "q": "Why do most experts reject theories that the plane landed in Central Asia or on Diego Garcia?",
+  "q_ru": "Почему большинство экспертов отвергают теории о том, что самолёт приземлился в Центральной Азии или на Диего-Гарсии?",
+  "options": [
+   "Because the plane did not have enough fuel to take off",
+   "Because the US government denied them",
+   "Because the pilots said so on the radio",
+   "Because they do not fit the satellite data or the debris found in Africa"
+  ],
+  "options_ru": [
+   "Потому что у самолёта не хватило бы топлива, чтобы взлететь",
+   "Потому что правительство США их опровергло",
+   "Потому что пилоты сказали об этом по радио",
+   "Потому что они не согласуются со спутниковыми данными и обломками, найденными в Африке"
+  ],
+  "answer": 3,
+  "explain_ru": "Спутниковые данные указывают на юг Индийского океана, а обломки выбросило на пляжи Африки — доказательств этих теорий нет."
+ },
+ {
+  "q": "What did the official report published in July 2018 conclude?",
+  "q_ru": "К какому выводу пришёл официальный отчёт, опубликованный в июле 2018 года?",
+  "options": [
+   "The real cause could not be determined, but the turns were most likely made by hand",
+   "The captain had planned the disaster",
+   "A fire in the cargo caused the crash",
+   "The plane had been shot down by mistake"
+  ],
+  "options_ru": [
+   "Настоящую причину установить не удалось, но повороты, скорее всего, были сделаны вручную",
+   "Капитан спланировал катастрофу",
+   "Пожар в грузе стал причиной крушения",
+   "Самолёт был сбит по ошибке"
+  ],
+  "answer": 0,
+  "explain_ru": "Группа не смогла установить причину; изменения курса, скорее всего, делались вручную, а незаконное вмешательство третьей стороны исключить нельзя."
+ },
+ {
+  "q": "Why might the black boxes not give a full answer even if they are found?",
+  "q_ru": "Почему «чёрные ящики» могут не дать полного ответа, даже если их найдут?",
+  "options": [
+   "Their batteries stopped after a month",
+   "Salt water destroys all recordings",
+   "The voice recorder kept only the last two hours of sound",
+   "They were switched off with the transponder"
+  ],
+  "options_ru": [
+   "Их батареи перестали работать через месяц",
+   "Солёная вода уничтожает все записи",
+   "Речевой самописец хранил только последние два часа звука",
+   "Их выключили вместе с транспондером"
+  ],
+  "answer": 2,
+  "explain_ru": "Самописец переговоров записывал лишь последние два часа, поэтому момент отключения транспондера, вероятно, не сохранился."
+ }
+]

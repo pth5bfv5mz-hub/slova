@@ -1,0 +1,1242 @@
+{
+ "id": 19,
+ "title_en": "The Wrong Folder",
+ "title_ru": "Не та папка",
+ "genre": "Психологическая драма",
+ "summary_ru": "Редактор, который тридцать лет не позволял себе ни одной ошибки, однажды нажимает не ту кнопку — и его тщательно выстроенная жизнь начинает меняться.",
+ "paragraphs": [
+  {
+   "en": "Peter Lane was forty-two years old, and he had not made a mistake for a very long time. At least, that was what he told himself every morning as he put on his grey coat, checked the time twice and walked the same road to the office.",
+   "ru": "Питеру Лейну было сорок два года, и он очень давно не совершал ошибок. По крайней мере, так он говорил себе каждое утро, надевая серое пальто, дважды проверяя время и шагая по той же дороге в офис.",
+   "s": [
+    [
+     "Peter Lane was forty-two years old, and he had not made a mistake for a very long time.",
+     "Питеру Лейну было сорок два года, и он очень давно не совершал ошибок."
+    ],
+    [
+     "At least, that was what he told himself every morning as he put on his grey coat, checked the time twice and walked the same road to the office.",
+     "По крайней мере, так он говорил себе каждое утро, надевая серое пальто, дважды проверяя время и шагая по той же дороге в офис."
+    ]
+   ]
+  },
+  {
+   "en": "He worked as an editor at a small publishing house. His job was to find mistakes in other people's books: a wrong word, a missing comma, a city that did not exist. He was very good at it. Writers were a little afraid of him, though they also respected him. “If Peter has read it,” people said, “it's perfect.”",
+   "ru": "Он работал редактором в маленьком издательстве. Его работа заключалась в том, чтобы находить ошибки в чужих книгах: неверное слово, пропущенную запятую, город, которого не существует. У него это очень хорошо получалось. Писатели его немного побаивались, хотя и уважали. «Если Питер прочитал, — говорили люди, — значит, всё идеально».",
+   "s": [
+    [
+     "He worked as an editor at a small publishing house.",
+     "Он работал редактором в маленьком издательстве."
+    ],
+    [
+     "His job was to find mistakes in other people's books: a wrong word, a missing comma, a city that did not exist.",
+     "Его работа заключалась в том, чтобы находить ошибки в чужих книгах: неверное слово, пропущенную запятую, город, которого не существует."
+    ],
+    [
+     "He was very good at it.",
+     "У него это очень хорошо получалось."
+    ],
+    [
+     "Writers were a little afraid of him, though they also respected him.",
+     "Писатели его немного побаивались, хотя и уважали."
+    ],
+    [
+     "“If Peter has read it,” people said, “it's perfect.”",
+     "«Если Питер прочитал, — говорили люди, — значит, всё идеально»."
+    ]
+   ]
+  },
+  {
+   "en": "His life ran on a strict schedule. He arrived at 8:55. He had lunch at 12:30. On Tuesday he always ate the same thing: a meat sandwich and a cup of black tea at the café across the road. He never tried the soup of the day. What if he didn't like it? It seems a small thing, but for Peter every choice was dangerous.",
+   "ru": "Его жизнь шла по строгому расписанию. Он приходил в 8:55. Обедал в 12:30. Во вторник он всегда ел одно и то же: бутерброд с мясом и чашку чёрного чая в кафе через дорогу. Он никогда не пробовал суп дня. А вдруг он ему не понравится? Кажется, это мелочь, но для Питера каждый выбор был опасен.",
+   "s": [
+    [
+     "His life ran on a strict schedule.",
+     "Его жизнь шла по строгому расписанию."
+    ],
+    [
+     "He arrived at 8:55.",
+     "Он приходил в 8:55."
+    ],
+    [
+     "He had lunch at 12:30.",
+     "Обедал в 12:30."
+    ],
+    [
+     "On Tuesday he always ate the same thing: a meat sandwich and a cup of black tea at the café across the road.",
+     "Во вторник он всегда ел одно и то же: бутерброд с мясом и чашку чёрного чая в кафе через дорогу."
+    ],
+    [
+     "He never tried the soup of the day.",
+     "Он никогда не пробовал суп дня."
+    ],
+    [
+     "What if he didn't like it?",
+     "А вдруг он ему не понравится?"
+    ],
+    [
+     "It seems a small thing, but for Peter every choice was dangerous.",
+     "Кажется, это мелочь, но для Питера каждый выбор был опасен."
+    ]
+   ]
+  },
+  {
+   "en": "He always worked with a pencil, never with a pen. A pencil mark could be erased. A pen mark stayed forever.",
+   "ru": "Он всегда работал карандашом, никогда — ручкой. След карандаша можно стереть. След ручки остаётся навсегда.",
+   "s": [
+    [
+     "He always worked with a pencil, never with a pen.",
+     "Он всегда работал карандашом, никогда — ручкой."
+    ],
+    [
+     "A pencil mark could be erased.",
+     "След карандаша можно стереть."
+    ],
+    [
+     "A pen mark stayed forever.",
+     "След ручки остаётся навсегда."
+    ]
+   ]
+  },
+  {
+   "en": "Nobody at work knew why he was like this. Peter himself did not like to think about it. But sometimes, late at night, he remembered his father: a tall, cold man who could not forgive mistakes. When Peter was nine, he painted a picture of the sea for his father's birthday. It was colourful and wild, with a purple sky. His father looked at it and said, “The sky is not purple. Do it again, and do it right.” Then he tore the picture in two.",
+   "ru": "Никто на работе не знал, почему он такой. Сам Питер не любил об этом думать. Но иногда, поздно ночью, он вспоминал отца: высокого, холодного человека, который не прощал ошибок. Когда Питеру было девять, он нарисовал картину с морем на день рождения отца. Она была яркой и дикой, с фиолетовым небом. Отец посмотрел на неё и сказал: «Небо не бывает фиолетовым. Переделай, и сделай правильно». Потом он разорвал картину пополам.",
+   "s": [
+    [
+     "Nobody at work knew why he was like this.",
+     "Никто на работе не знал, почему он такой."
+    ],
+    [
+     "Peter himself did not like to think about it.",
+     "Сам Питер не любил об этом думать."
+    ],
+    [
+     "But sometimes, late at night, he remembered his father: a tall, cold man who could not forgive mistakes.",
+     "Но иногда, поздно ночью, он вспоминал отца: высокого, холодного человека, который не прощал ошибок."
+    ],
+    [
+     "When Peter was nine, he painted a picture of the sea for his father's birthday.",
+     "Когда Питеру было девять, он нарисовал картину с морем на день рождения отца."
+    ],
+    [
+     "It was colourful and wild, with a purple sky.",
+     "Она была яркой и дикой, с фиолетовым небом."
+    ],
+    [
+     "His father looked at it and said, “The sky is not purple.",
+     "Отец посмотрел на неё и сказал: «Небо не бывает фиолетовым."
+    ],
+    [
+     "Do it again, and do it right.”",
+     "Переделай, и сделай правильно»."
+    ],
+    [
+     "Then he tore the picture in two.",
+     "Потом он разорвал картину пополам."
+    ]
+   ]
+  },
+  {
+   "en": "There was no real violence in that house. His father never hit him. But the sound of the paper tearing stayed with Peter for thirty years. After that day he decided that it was safer to do nothing than to do something wrong.",
+   "ru": "Настоящей жестокости в том доме не было. Отец никогда его не бил. Но звук рвущейся бумаги остался с Питером на тридцать лет. После того дня он решил, что безопаснее ничего не делать, чем сделать что-то не так.",
+   "s": [
+    [
+     "There was no real violence in that house.",
+     "Настоящей жестокости в том доме не было."
+    ],
+    [
+     "His father never hit him.",
+     "Отец никогда его не бил."
+    ],
+    [
+     "But the sound of the paper tearing stayed with Peter for thirty years.",
+     "Но звук рвущейся бумаги остался с Питером на тридцать лет."
+    ],
+    [
+     "After that day he decided that it was safer to do nothing than to do something wrong.",
+     "После того дня он решил, что безопаснее ничего не делать, чем сделать что-то не так."
+    ]
+   ]
+  },
+  {
+   "en": "He had a secret, though. In the evenings, alone in his flat, he still drew. Small things: a tree outside the window, a cat on a roof, the sea from memory. Each time he decided the drawing was bad. But he could never throw them away, so he took photos of them and kept them on his computer, in a folder called “Old documents”. Nobody had ever seen them.",
+   "ru": "Однако у него была тайна. По вечерам, один в своей квартире, он всё ещё рисовал. Мелочи: дерево за окном, кошку на крыше, море по памяти. Каждый раз он решал, что рисунок плохой. Но выбросить их он так и не мог, поэтому фотографировал и хранил на компьютере, в папке под названием «Старые документы». Их никто никогда не видел.",
+   "s": [
+    [
+     "He had a secret, though.",
+     "Однако у него была тайна."
+    ],
+    [
+     "In the evenings, alone in his flat, he still drew.",
+     "По вечерам, один в своей квартире, он всё ещё рисовал."
+    ],
+    [
+     "Small things: a tree outside the window, a cat on a roof, the sea from memory.",
+     "Мелочи: дерево за окном, кошку на крыше, море по памяти."
+    ],
+    [
+     "Each time he decided the drawing was bad.",
+     "Каждый раз он решал, что рисунок плохой."
+    ],
+    [
+     "But he could never throw them away, so he took photos of them and kept them on his computer, in a folder called “Old documents”.",
+     "Но выбросить их он так и не мог, поэтому фотографировал и хранил на компьютере, в папке под названием «Старые документы»."
+    ],
+    [
+     "Nobody had ever seen them.",
+     "Их никто никогда не видел."
+    ]
+   ]
+  },
+  {
+   "en": "In October a new illustrator joined the company. Her name was Mira. She was twenty-six, she wore a bright yellow coat and casual clothes, and she laughed loudly in the kitchen. On her first day she spilled coffee all over her desk, laughed, and said, “Well, that's a good start!” Peter watched her curiously, the way you might watch a strange animal in nature.",
+   "ru": "В октябре в компанию пришла новая иллюстраторша. Её звали Мира. Ей было двадцать шесть, она носила ярко-жёлтое пальто и повседневную одежду и громко смеялась на кухне. В первый же день она разлила кофе по всему столу, рассмеялась и сказала: «Ну, хорошее начало!» Питер с любопытством наблюдал за ней — так, как наблюдают за странным животным в природе.",
+   "s": [
+    [
+     "In October a new illustrator joined the company.",
+     "В октябре в компанию пришла новая иллюстраторша."
+    ],
+    [
+     "Her name was Mira.",
+     "Её звали Мира."
+    ],
+    [
+     "She was twenty-six, she wore a bright yellow coat and casual clothes, and she laughed loudly in the kitchen.",
+     "Ей было двадцать шесть, она носила ярко-жёлтое пальто и повседневную одежду и громко смеялась на кухне."
+    ],
+    [
+     "On her first day she spilled coffee all over her desk, laughed, and said, “Well, that's a good start!”",
+     "В первый же день она разлила кофе по всему столу, рассмеялась и сказала: «Ну, хорошее начало!»"
+    ],
+    [
+     "Peter watched her curiously, the way you might watch a strange animal in nature.",
+     "Питер с любопытством наблюдал за ней — так, как наблюдают за странным животным в природе."
+    ]
+   ]
+  },
+  {
+   "en": "A week later Mira came to his desk with a pile of drawings. “They told me you check everything,” she said. “Could you look at my book? It's for children. It's about a bear who wants to fly.”",
+   "ru": "Через неделю Мира подошла к его столу со стопкой рисунков. «Мне сказали, что вы всё проверяете, — сказала она. — Не могли бы вы посмотреть мою книгу? Она для детей. Про медведя, который хочет летать».",
+   "s": [
+    [
+     "A week later Mira came to his desk with a pile of drawings.",
+     "Через неделю Мира подошла к его столу со стопкой рисунков."
+    ],
+    [
+     "“They told me you check everything,” she said.",
+     "«Мне сказали, что вы всё проверяете, — сказала она."
+    ],
+    [
+     "“Could you look at my book?",
+     "Не могли бы вы посмотреть мою книгу?"
+    ],
+    [
+     "It's for children.",
+     "Она для детей."
+    ],
+    [
+     "It's about a bear who wants to fly.”",
+     "Про медведя, который хочет летать»."
+    ]
+   ]
+  },
+  {
+   "en": "Peter looked through the pages slowly. The drawings were full of life. But he found problems everywhere. “The trees here are blue,” he said. “Trees in nature are green. This bear has five fingers on one paw and four on the other. And here the sun and the moon are in the sky at the same time.”",
+   "ru": "Питер медленно пролистал страницы. Рисунки были полны жизни. Но он повсюду находил недочёты. «Деревья здесь синие, — сказал он. — В природе деревья зелёные. У этого медведя пять пальцев на одной лапе и четыре на другой. А здесь солнце и луна на небе одновременно».",
+   "s": [
+    [
+     "Peter looked through the pages slowly.",
+     "Питер медленно пролистал страницы."
+    ],
+    [
+     "The drawings were full of life.",
+     "Рисунки были полны жизни."
+    ],
+    [
+     "But he found problems everywhere.",
+     "Но он повсюду находил недочёты."
+    ],
+    [
+     "“The trees here are blue,” he said.",
+     "«Деревья здесь синие, — сказал он."
+    ],
+    [
+     "“Trees in nature are green.",
+     "В природе деревья зелёные."
+    ],
+    [
+     "This bear has five fingers on one paw and four on the other.",
+     "У этого медведя пять пальцев на одной лапе и четыре на другой."
+    ],
+    [
+     "And here the sun and the moon are in the sky at the same time.”",
+     "А здесь солнце и луна на небе одновременно»."
+    ]
+   ]
+  },
+  {
+   "en": "Mira smiled. “The blue trees are my intention. It's a dream world. The fingers — OK, you're right, that's a mistake. Thank you. But the sun and the moon are not a mistake either. Haven't you ever seen the moon in the daytime? It's very common.”",
+   "ru": "Мира улыбнулась. «Синие деревья — это моё намерение. Это мир мечты. Пальцы — ладно, вы правы, это ошибка. Спасибо. Но солнце и луна — тоже не ошибка. Вы разве никогда не видели луну днём? Это очень обычное явление».",
+   "s": [
+    [
+     "Mira smiled.",
+     "Мира улыбнулась."
+    ],
+    [
+     "“The blue trees are my intention.",
+     "«Синие деревья — это моё намерение."
+    ],
+    [
+     "It's a dream world.",
+     "Это мир мечты."
+    ],
+    [
+     "The fingers — OK, you're right, that's a mistake.",
+     "Пальцы — ладно, вы правы, это ошибка."
+    ],
+    [
+     "Thank you.",
+     "Спасибо."
+    ],
+    [
+     "But the sun and the moon are not a mistake either.",
+     "Но солнце и луна — тоже не ошибка."
+    ],
+    [
+     "Haven't you ever seen the moon in the daytime?",
+     "Вы разве никогда не видели луну днём?"
+    ],
+    [
+     "It's very common.”",
+     "Это очень обычное явление»."
+    ]
+   ]
+  },
+  {
+   "en": "Peter had seen it, of course. He had just never thought that it was allowed in a book.",
+   "ru": "Питер, конечно, это видел. Просто он никогда не думал, что такое разрешено в книге.",
+   "s": [
+    [
+     "Peter had seen it, of course.",
+     "Питер, конечно, это видел."
+    ],
+    [
+     "He had just never thought that it was allowed in a book.",
+     "Просто он никогда не думал, что такое разрешено в книге."
+    ]
+   ]
+  },
+  {
+   "en": "“Can I ask you something?” Mira said. “Where do you find inspiration? What do you love?” “I don't need inspiration,” Peter said. “I need correct information.” She looked at him for a long moment. “I guess that's a very safe way to live,” she said. He did not know if it was a compliment.",
+   "ru": "«Можно вас кое о чём спросить? — сказала Мира. — Где вы находите вдохновение? Что вы любите?» — «Мне не нужно вдохновение, — ответил Питер. — Мне нужна правильная информация». Она долго смотрела на него. «Полагаю, это очень безопасный способ жить», — сказала она. Он не понял, был ли это комплимент.",
+   "s": [
+    [
+     "“Can I ask you something?” Mira said.",
+     "«Можно вас кое о чём спросить? — сказала Мира."
+    ],
+    [
+     "“Where do you find inspiration?",
+     "Где вы находите вдохновение?"
+    ],
+    [
+     "What do you love?”",
+     "Что вы любите?»"
+    ],
+    [
+     "“I don't need inspiration,” Peter said.",
+     "«Мне не нужно вдохновение, — ответил Питер."
+    ],
+    [
+     "“I need correct information.”",
+     "Мне нужна правильная информация»."
+    ],
+    [
+     "She looked at him for a long moment.",
+     "Она долго смотрела на него."
+    ],
+    [
+     "“I guess that's a very safe way to live,” she said.",
+     "«Полагаю, это очень безопасный способ жить», — сказала она."
+    ],
+    [
+     "He did not know if it was a compliment.",
+     "Он не понял, был ли это комплимент."
+    ]
+   ]
+  },
+  {
+   "en": "After that, Mira often came to talk to him. She told him about her failures: the art school that had not accepted her, the first book that nobody bought, the expensive paints she had wasted. She told these stories as if they were funny. Peter could not understand it. “Aren't you worried about what people think?” he asked once. “Of course I am,” she said. “But if I wait until I'm perfect, I'll never do anything.”",
+   "ru": "После этого Мира часто приходила к нему поговорить. Она рассказывала о своих неудачах: о художественной школе, которая её не приняла, о первой книге, которую никто не купил, о дорогих красках, которые она истратила зря. Она рассказывала эти истории так, будто они были смешными. Питер не мог этого понять. «Вас не беспокоит, что подумают люди?» — спросил он однажды. «Конечно, беспокоит, — сказала она. — Но если я буду ждать, пока стану идеальной, я никогда ничего не сделаю».",
+   "s": [
+    [
+     "After that, Mira often came to talk to him.",
+     "После этого Мира часто приходила к нему поговорить."
+    ],
+    [
+     "She told him about her failures: the art school that had not accepted her, the first book that nobody bought, the expensive paints she had wasted.",
+     "Она рассказывала о своих неудачах: о художественной школе, которая её не приняла, о первой книге, которую никто не купил, о дорогих красках, которые она истратила зря."
+    ],
+    [
+     "She told these stories as if they were funny.",
+     "Она рассказывала эти истории так, будто они были смешными."
+    ],
+    [
+     "Peter could not understand it.",
+     "Питер не мог этого понять."
+    ],
+    [
+     "“Aren't you worried about what people think?” he asked once.",
+     "«Вас не беспокоит, что подумают люди?» — спросил он однажды."
+    ],
+    [
+     "“Of course I am,” she said.",
+     "«Конечно, беспокоит, — сказала она."
+    ],
+    [
+     "“But if I wait until I'm perfect, I'll never do anything.”",
+     "Но если я буду ждать, пока стану идеальной, я никогда ничего не сделаю»."
+    ]
+   ]
+  },
+  {
+   "en": "That night Peter could not sleep. He opened the folder “Old documents” and looked at his drawings for a long time. Some of them were not bad. Some of them, he thought, were even good. He imagined showing one to Mira. Then he imagined her face, and his father's face behind it, and he quickly closed the computer. It was easier not to try. It was always easier not to try.",
+   "ru": "Той ночью Питер не мог уснуть. Он открыл папку «Старые документы» и долго смотрел на свои рисунки. Некоторые были неплохими. Некоторые, подумал он, были даже хорошими. Он представил, как показывает один из них Мире. Потом он представил её лицо, а за ним — лицо отца, и быстро закрыл компьютер. Легче было не пытаться. Всегда было легче не пытаться.",
+   "s": [
+    [
+     "That night Peter could not sleep.",
+     "Той ночью Питер не мог уснуть."
+    ],
+    [
+     "He opened the folder “Old documents” and looked at his drawings for a long time.",
+     "Он открыл папку «Старые документы» и долго смотрел на свои рисунки."
+    ],
+    [
+     "Some of them were not bad.",
+     "Некоторые были неплохими."
+    ],
+    [
+     "Some of them, he thought, were even good.",
+     "Некоторые, подумал он, были даже хорошими."
+    ],
+    [
+     "He imagined showing one to Mira.",
+     "Он представил, как показывает один из них Мире."
+    ],
+    [
+     "Then he imagined her face, and his father's face behind it, and he quickly closed the computer.",
+     "Потом он представил её лицо, а за ним — лицо отца, и быстро закрыл компьютер."
+    ],
+    [
+     "It was easier not to try.",
+     "Легче было не пытаться."
+    ],
+    [
+     "It was always easier not to try.",
+     "Всегда было легче не пытаться."
+    ]
+   ]
+  },
+  {
+   "en": "Then, one Tuesday, something happened that changed everything.",
+   "ru": "А потом, в один вторник, случилось то, что изменило всё.",
+   "s": [
+    [
+     "Then, one Tuesday, something happened that changed everything.",
+     "А потом, в один вторник, случилось то, что изменило всё."
+    ]
+   ]
+  },
+  {
+   "en": "Peter came back from lunch — meat sandwich, black tea, exactly twenty-five minutes — and found two emails from the director. The first said that the new book of fairy tales needed a cover, and anyone in the company could send ideas. The second asked Peter to send her the corrected text of the book before the evening. It was three hundred pages long.",
+   "ru": "Питер вернулся с обеда — бутерброд с мясом, чёрный чай, ровно двадцать пять минут — и нашёл два письма от директора. В первом говорилось, что новой книге сказок нужна обложка и что любой в компании может прислать идеи. Во втором Питера просили отправить ей исправленный текст книги до вечера. В нём было триста страниц.",
+   "s": [
+    [
+     "Peter came back from lunch — meat sandwich, black tea, exactly twenty-five minutes — and found two emails from the director.",
+     "Питер вернулся с обеда — бутерброд с мясом, чёрный чай, ровно двадцать пять минут — и нашёл два письма от директора."
+    ],
+    [
+     "The first said that the new book of fairy tales needed a cover, and anyone in the company could send ideas.",
+     "В первом говорилось, что новой книге сказок нужна обложка и что любой в компании может прислать идеи."
+    ],
+    [
+     "The second asked Peter to send her the corrected text of the book before the evening.",
+     "Во втором Питера просили отправить ей исправленный текст книги до вечера."
+    ],
+    [
+     "It was three hundred pages long.",
+     "В нём было триста страниц."
+    ]
+   ]
+  },
+  {
+   "en": "He worked late. The office was empty and dark. At ten o'clock he was very tired. He opened the email, attached a file, pressed “Send” and went home. For the first time in years, he did not check it twice.",
+   "ru": "Он задержался допоздна. Офис был пуст и тёмен. В десять часов он очень устал. Он открыл письмо, прикрепил файл, нажал «Отправить» и пошёл домой. Впервые за много лет он не проверил дважды.",
+   "s": [
+    [
+     "He worked late.",
+     "Он задержался допоздна."
+    ],
+    [
+     "The office was empty and dark.",
+     "Офис был пуст и тёмен."
+    ],
+    [
+     "At ten o'clock he was very tired.",
+     "В десять часов он очень устал."
+    ],
+    [
+     "He opened the email, attached a file, pressed “Send” and went home.",
+     "Он открыл письмо, прикрепил файл, нажал «Отправить» и пошёл домой."
+    ],
+    [
+     "For the first time in years, he did not check it twice.",
+     "Впервые за много лет он не проверил дважды."
+    ]
+   ]
+  },
+  {
+   "en": "The next morning the director was standing by his desk. On her laptop he saw a picture of the sea under a purple sky. It was his. He had not attached the book. He had attached the folder “Old documents”: forty drawings that nobody was supposed to see.",
+   "ru": "На следующее утро у его стола стояла директор. На её ноутбуке он увидел картину с морем под фиолетовым небом. Это была его картина. Он прикрепил не книгу. Он прикрепил папку «Старые документы» — сорок рисунков, которые никто не должен был видеть.",
+   "s": [
+    [
+     "The next morning the director was standing by his desk.",
+     "На следующее утро у его стола стояла директор."
+    ],
+    [
+     "On her laptop he saw a picture of the sea under a purple sky.",
+     "На её ноутбуке он увидел картину с морем под фиолетовым небом."
+    ],
+    [
+     "It was his.",
+     "Это была его картина."
+    ],
+    [
+     "He had not attached the book.",
+     "Он прикрепил не книгу."
+    ],
+    [
+     "He had attached the folder “Old documents”: forty drawings that nobody was supposed to see.",
+     "Он прикрепил папку «Старые документы» — сорок рисунков, которые никто не должен был видеть."
+    ]
+   ]
+  },
+  {
+   "en": "Peter felt cold. His hands began to shake. “I'm so sorry,” he said. “It was a mistake. A terrible mistake. Please delete them. I'll send the right file at once.”",
+   "ru": "Питеру стало холодно. Руки начали дрожать. «Простите, пожалуйста, — сказал он. — Это была ошибка. Ужасная ошибка. Пожалуйста, удалите их. Я сейчас же пришлю нужный файл».",
+   "s": [
+    [
+     "Peter felt cold.",
+     "Питеру стало холодно."
+    ],
+    [
+     "His hands began to shake.",
+     "Руки начали дрожать."
+    ],
+    [
+     "“I'm so sorry,” he said.",
+     "«Простите, пожалуйста, — сказал он."
+    ],
+    [
+     "“It was a mistake.",
+     "Это была ошибка."
+    ],
+    [
+     "A terrible mistake.",
+     "Ужасная ошибка."
+    ],
+    [
+     "Please delete them.",
+     "Пожалуйста, удалите их."
+    ],
+    [
+     "I'll send the right file at once.”",
+     "Я сейчас же пришлю нужный файл»."
+    ]
+   ]
+  },
+  {
+   "en": "“A mistake?” The director looked at him as if he were crazy. “Peter, these are wonderful. What do you mean, delete them? This one is going on the cover.”",
+   "ru": "«Ошибка?» Директор посмотрела на него так, будто он сошёл с ума. «Питер, они чудесные. Что значит — удалить? Вот эта пойдёт на обложку».",
+   "s": [
+    [
+     "“A mistake?”",
+     "«Ошибка?»"
+    ],
+    [
+     "The director looked at him as if he were crazy.",
+     "Директор посмотрела на него так, будто он сошёл с ума."
+    ],
+    [
+     "“Peter, these are wonderful.",
+     "«Питер, они чудесные."
+    ],
+    [
+     "What do you mean, delete them?",
+     "Что значит — удалить?"
+    ],
+    [
+     "This one is going on the cover.”",
+     "Вот эта пойдёт на обложку»."
+    ]
+   ]
+  },
+  {
+   "en": "He tried to convince her. He said the drawings were not finished, that the sky was the wrong colour, that his behavior had been unprofessional. She did not listen. Every attempt only made her more sure.",
+   "ru": "Он пытался её переубедить. Говорил, что рисунки не закончены, что небо не того цвета, что он повёл себя непрофессионально. Она не слушала. Каждая попытка только сильнее убеждала её.",
+   "s": [
+    [
+     "He tried to convince her.",
+     "Он пытался её переубедить."
+    ],
+    [
+     "He said the drawings were not finished, that the sky was the wrong colour, that his behavior had been unprofessional.",
+     "Говорил, что рисунки не закончены, что небо не того цвета, что он повёл себя непрофессионально."
+    ],
+    [
+     "She did not listen.",
+     "Она не слушала."
+    ],
+    [
+     "Every attempt only made her more sure.",
+     "Каждая попытка только сильнее убеждала её."
+    ]
+   ]
+  },
+  {
+   "en": "The book came out in spring, with a purple sky on the cover. Children loved it. A newspaper wrote a short article about “the editor who painted in secret”, and for a few weeks Peter had a little fame. A journalist asked him to convey what he felt when he painted. Peter thought for a long time and then said, “Fear, mostly. And then, under the fear, something like joy.”",
+   "ru": "Книга вышла весной, с фиолетовым небом на обложке. Детям она понравилась. Одна газета напечатала короткую статью о «редакторе, который тайно рисовал», и на несколько недель к Питеру пришла маленькая слава. Журналист попросил его передать, что он чувствует, когда рисует. Питер долго думал, а потом сказал: «В основном страх. А потом, под страхом, что-то вроде радости».",
+   "s": [
+    [
+     "The book came out in spring, with a purple sky on the cover.",
+     "Книга вышла весной, с фиолетовым небом на обложке."
+    ],
+    [
+     "Children loved it.",
+     "Детям она понравилась."
+    ],
+    [
+     "A newspaper wrote a short article about “the editor who painted in secret”, and for a few weeks Peter had a little fame.",
+     "Одна газета напечатала короткую статью о «редакторе, который тайно рисовал», и на несколько недель к Питеру пришла маленькая слава."
+    ],
+    [
+     "A journalist asked him to convey what he felt when he painted.",
+     "Журналист попросил его передать, что он чувствует, когда рисует."
+    ],
+    [
+     "Peter thought for a long time and then said, “Fear, mostly.",
+     "Питер долго думал, а потом сказал: «В основном страх."
+    ],
+    [
+     "And then, under the fear, something like joy.”",
+     "А потом, под страхом, что-то вроде радости»."
+    ]
+   ]
+  },
+  {
+   "en": "One day Mira sat down next to him at lunch. “So,” she said. “The man who never makes mistakes made a big one.” “The biggest mistake of my life,” Peter agreed. “And the best.”",
+   "ru": "Однажды за обедом Мира села рядом с ним. «Итак, — сказала она. — Человек, который никогда не ошибается, совершил большую ошибку». — «Самую большую ошибку в моей жизни, — согласился Питер. — И самую лучшую».",
+   "s": [
+    [
+     "One day Mira sat down next to him at lunch.",
+     "Однажды за обедом Мира села рядом с ним."
+    ],
+    [
+     "“So,” she said.",
+     "«Итак, — сказала она."
+    ],
+    [
+     "“The man who never makes mistakes made a big one.”",
+     "Человек, который никогда не ошибается, совершил большую ошибку»."
+    ],
+    [
+     "“The biggest mistake of my life,” Peter agreed.",
+     "«Самую большую ошибку в моей жизни, — согласился Питер."
+    ],
+    [
+     "“And the best.”",
+     "И самую лучшую»."
+    ]
+   ]
+  },
+  {
+   "en": "Mira looked at him curiously. “Can I tell you what I think? The book file was called ‘Fairy Tales — Final’. Your folder was called ‘Old documents’. The names don't have anything in common. And you are the most careful person I have ever met. Do you really believe it was an accident?”",
+   "ru": "Мира с любопытством посмотрела на него. «Можно я скажу, что думаю? Файл книги назывался „Сказки — финал“. Ваша папка называлась „Старые документы“. В этих названиях нет ничего общего. А вы самый внимательный человек из всех, кого я встречала. Вы правда верите, что это была случайность?»",
+   "s": [
+    [
+     "Mira looked at him curiously.",
+     "Мира с любопытством посмотрела на него."
+    ],
+    [
+     "“Can I tell you what I think?",
+     "«Можно я скажу, что думаю?"
+    ],
+    [
+     "The book file was called ‘Fairy Tales — Final’.",
+     "Файл книги назывался „Сказки — финал“."
+    ],
+    [
+     "Your folder was called ‘Old documents’.",
+     "Ваша папка называлась „Старые документы“."
+    ],
+    [
+     "The names don't have anything in common.",
+     "В этих названиях нет ничего общего."
+    ],
+    [
+     "And you are the most careful person I have ever met.",
+     "А вы самый внимательный человек из всех, кого я встречала."
+    ],
+    [
+     "Do you really believe it was an accident?”",
+     "Вы правда верите, что это была случайность?»"
+    ]
+   ]
+  },
+  {
+   "en": "Peter opened his mouth to answer, and then closed it. He remembered that evening: the dark office, his tired eyes, his finger above the button. He remembered that, for one second, he had seen the name of the folder. And he had pressed anyway.",
+   "ru": "Питер открыл рот, чтобы ответить, и закрыл его. Он вспомнил тот вечер: тёмный офис, усталые глаза, палец над кнопкой. Он вспомнил, что на одну секунду увидел название папки. И всё равно нажал.",
+   "s": [
+    [
+     "Peter opened his mouth to answer, and then closed it.",
+     "Питер открыл рот, чтобы ответить, и закрыл его."
+    ],
+    [
+     "He remembered that evening: the dark office, his tired eyes, his finger above the button.",
+     "Он вспомнил тот вечер: тёмный офис, усталые глаза, палец над кнопкой."
+    ],
+    [
+     "He remembered that, for one second, he had seen the name of the folder.",
+     "Он вспомнил, что на одну секунду увидел название папки."
+    ],
+    [
+     "And he had pressed anyway.",
+     "И всё равно нажал."
+    ]
+   ]
+  },
+  {
+   "en": "Maybe it had not been a mistake at all. Maybe a nine-year-old boy had been waiting thirty years for somebody to see his purple sky.",
+   "ru": "Может быть, это вовсе не было ошибкой. Может быть, девятилетний мальчик тридцать лет ждал, чтобы кто-нибудь увидел его фиолетовое небо.",
+   "s": [
+    [
+     "Maybe it had not been a mistake at all.",
+     "Может быть, это вовсе не было ошибкой."
+    ],
+    [
+     "Maybe a nine-year-old boy had been waiting thirty years for somebody to see his purple sky.",
+     "Может быть, девятилетний мальчик тридцать лет ждал, чтобы кто-нибудь увидел его фиолетовое небо."
+    ]
+   ]
+  },
+  {
+   "en": "The next Tuesday Peter did not order the meat sandwich. He ordered the soup of the day. It was terrible, much too salty. He laughed and ate all of it. Then he took a pen out of his pocket, not a pencil, and began to draw on a napkin.",
+   "ru": "В следующий вторник Питер не заказал бутерброд с мясом. Он заказал суп дня. Суп был ужасный, слишком солёный. Питер рассмеялся и съел его весь. Потом он достал из кармана ручку, а не карандаш, и начал рисовать на салфетке.",
+   "s": [
+    [
+     "The next Tuesday Peter did not order the meat sandwich.",
+     "В следующий вторник Питер не заказал бутерброд с мясом."
+    ],
+    [
+     "He ordered the soup of the day.",
+     "Он заказал суп дня."
+    ],
+    [
+     "It was terrible, much too salty.",
+     "Суп был ужасный, слишком солёный."
+    ],
+    [
+     "He laughed and ate all of it.",
+     "Питер рассмеялся и съел его весь."
+    ],
+    [
+     "Then he took a pen out of his pocket, not a pencil, and began to draw on a napkin.",
+     "Потом он достал из кармана ручку, а не карандаш, и начал рисовать на салфетке."
+    ]
+   ]
+  }
+ ],
+ "gloss": {
+  "a": "(неопр. артикль)",
+  "about": "о, про",
+  "above": "над",
+  "accepted": "приняла",
+  "accident": "случайность",
+  "across": "через",
+  "afraid": "боящийся",
+  "after": "после",
+  "again": "снова",
+  "agreed": "согласился",
+  "all": "всё, весь",
+  "allowed": "разрешено",
+  "alone": "один",
+  "also": "также",
+  "always": "всегда",
+  "am": "(есть) — я",
+  "an": "(неопр. артикль)",
+  "and": "и",
+  "animal": "животное",
+  "answer": "ответить",
+  "anyone": "любой",
+  "anything": "что-нибудь",
+  "anyway": "всё равно",
+  "are": "(есть) — мы/вы/они",
+  "aren't": "не (есть) — вы",
+  "arrived": "приходил",
+  "art": "искусство, художественный",
+  "article": "статья",
+  "as": "как, когда",
+  "ask": "спросить",
+  "asked": "спросил, попросил",
+  "at": "в, на, у",
+  "ate": "ел, съел",
+  "attached": "прикрепил",
+  "attempt": "попытка",
+  "away": "прочь",
+  "back": "обратно",
+  "bad": "плохой",
+  "be": "быть",
+  "bear": "медведь",
+  "been": "было (been)",
+  "before": "перед, до",
+  "began": "начал",
+  "behavior": "поведение",
+  "behind": "за, позади",
+  "believe": "верить",
+  "best": "лучший",
+  "big": "большой",
+  "biggest": "самый большой",
+  "birthday": "день рождения",
+  "black": "чёрный",
+  "blue": "синий",
+  "book": "книга",
+  "books": "книги",
+  "bought": "купил",
+  "boy": "мальчик",
+  "bright": "яркий",
+  "but": "но",
+  "button": "кнопка",
+  "by": "у, возле",
+  "caf": "кафе (café)",
+  "called": "называемый, назывался",
+  "came": "пришёл",
+  "can": "мочь, можно",
+  "careful": "осторожный",
+  "casual": "повседневный",
+  "cat": "кошка",
+  "changed": "изменило",
+  "check": "проверять",
+  "checked": "проверил",
+  "children": "дети",
+  "choice": "выбор",
+  "city": "город",
+  "closed": "закрыл",
+  "clothes": "одежда",
+  "coat": "пальто",
+  "coffee": "кофе",
+  "cold": "холодный",
+  "colour": "цвет",
+  "colourful": "яркий, красочный",
+  "comma": "запятая",
+  "common": "общий, обычный",
+  "company": "компания",
+  "compliment": "комплимент",
+  "computer": "компьютер",
+  "convey": "передать (чувства)",
+  "convince": "убедить",
+  "correct": "правильный",
+  "corrected": "исправленный",
+  "could": "мог(ли бы)",
+  "course": "курс (of course — конечно)",
+  "cover": "обложка",
+  "crazy": "сумасшедший",
+  "cup": "чашка",
+  "curiously": "с любопытством",
+  "dangerous": "опасный",
+  "dark": "тёмный",
+  "day": "день",
+  "daytime": "дневное время",
+  "decided": "решил",
+  "delete": "удалить",
+  "desk": "письменный стол",
+  "did": "(вспом. глагол)",
+  "didn't": "не (прош. вр.)",
+  "director": "директор",
+  "do": "делать",
+  "documents": "документы",
+  "don't": "не (отрицание)",
+  "down": "вниз",
+  "draw": "рисовать",
+  "drawing": "рисунок",
+  "drawings": "рисунки",
+  "dream": "мечта",
+  "drew": "рисовал",
+  "each": "каждый",
+  "easier": "легче",
+  "editor": "редактор",
+  "either": "тоже (не)",
+  "email": "электронное письмо",
+  "emails": "электронные письма",
+  "empty": "пустой",
+  "erased": "стёрт",
+  "even": "даже",
+  "evening": "вечер",
+  "evenings": "вечера",
+  "ever": "когда-либо",
+  "every": "каждый",
+  "everything": "всё",
+  "everywhere": "повсюду",
+  "exactly": "ровно, точно",
+  "exist": "существовать",
+  "expensive": "дорогой",
+  "eyes": "глаза",
+  "face": "лицо",
+  "failures": "неудачи",
+  "fairy": "сказочный (fairy tales — сказки)",
+  "fame": "слава",
+  "father": "отец",
+  "father's": "отца",
+  "fear": "страх",
+  "felt": "чувствовал",
+  "few": "несколько",
+  "file": "файл",
+  "final": "финальный",
+  "find": "находить",
+  "finger": "палец",
+  "fingers": "пальцы",
+  "finished": "законченный",
+  "first": "первый",
+  "five": "пять",
+  "flat": "квартира",
+  "fly": "летать",
+  "folder": "папка",
+  "for": "для, на, в течение",
+  "forever": "навсегда",
+  "forgive": "прощать",
+  "forty": "сорок",
+  "found": "нашёл",
+  "four": "четыре",
+  "from": "от, из",
+  "full": "полный",
+  "funny": "смешной",
+  "going": "пойдёт",
+  "good": "хороший",
+  "green": "зелёный",
+  "grey": "серый",
+  "guess": "предполагать",
+  "had": "имел; (вспом. глагол)",
+  "hands": "руки",
+  "happened": "случилось",
+  "has": "(вспом. глагол)",
+  "have": "(вспом. глагол)",
+  "haven't": "не (вспом. глагол)",
+  "he": "он",
+  "her": "её, ей",
+  "here": "здесь, вот",
+  "him": "его, ему",
+  "himself": "сам",
+  "his": "его",
+  "hit": "бил",
+  "home": "домой",
+  "house": "дом",
+  "hundred": "сто",
+  "i": "я",
+  "i'll": "я (буд. время)",
+  "i'm": "я (есть)",
+  "ideas": "идеи",
+  "if": "если",
+  "illustrator": "иллюстратор",
+  "imagined": "представил",
+  "in": "в",
+  "information": "информация",
+  "inspiration": "вдохновение",
+  "intention": "намерение",
+  "is": "есть, является",
+  "it": "он, она, оно, это",
+  "it's": "это (есть)",
+  "job": "работа",
+  "joined": "присоединилась",
+  "journalist": "журналист",
+  "joy": "радость",
+  "just": "просто; прямо",
+  "kept": "хранил",
+  "kitchen": "кухня",
+  "knew": "знал",
+  "know": "знать",
+  "lane": "Лейн (фамилия)",
+  "laptop": "ноутбук",
+  "late": "поздно",
+  "later": "позже, спустя",
+  "laughed": "смеялся",
+  "least": "наименьший (at least — по крайней мере)",
+  "life": "жизнь",
+  "like": "как; нравиться",
+  "listen": "слушать",
+  "little": "маленький",
+  "live": "жить",
+  "long": "длинный; долго",
+  "look": "посмотреть",
+  "looked": "посмотрел",
+  "loudly": "громко",
+  "love": "любить",
+  "loved": "полюбили",
+  "lunch": "обед",
+  "made": "совершил, сделал",
+  "makes": "совершает",
+  "man": "человек, мужчина",
+  "mark": "след, пометка",
+  "maybe": "может быть",
+  "me": "меня, мне",
+  "mean": "иметь в виду",
+  "meat": "мясо",
+  "memory": "память",
+  "met": "встречал",
+  "might": "мог бы",
+  "minutes": "минуты",
+  "mira": "Мира (имя)",
+  "missing": "пропущенный",
+  "mistake": "ошибка",
+  "mistakes": "ошибки",
+  "moment": "момент",
+  "moon": "луна",
+  "more": "более",
+  "morning": "утро",
+  "most": "большинство",
+  "mostly": "в основном",
+  "mouth": "рот",
+  "much": "много",
+  "my": "мой",
+  "name": "имя, название",
+  "names": "названия",
+  "napkin": "салфетка",
+  "nature": "природа",
+  "need": "нуждаться",
+  "needed": "нужна была",
+  "never": "никогда",
+  "new": "новый",
+  "newspaper": "газета",
+  "next": "следующий; рядом (next to)",
+  "night": "ночь",
+  "nine": "девять",
+  "no": "нет, никаких",
+  "nobody": "никто",
+  "not": "не",
+  "nothing": "ничего",
+  "o'clock": "часов (о времени)",
+  "october": "октябрь",
+  "of": "из, (родительный падеж)",
+  "office": "офис",
+  "often": "часто",
+  "ok": "ладно",
+  "old": "старый",
+  "on": "на; в (день)",
+  "once": "сразу (at once)",
+  "one": "один",
+  "only": "только",
+  "opened": "открыл",
+  "order": "заказывать",
+  "ordered": "заказал",
+  "other": "другой",
+  "out": "наружу (come out — выйти)",
+  "outside": "снаружи, за (окном)",
+  "over": "по всему (all over)",
+  "pages": "страницы",
+  "painted": "рисовал",
+  "paints": "краски",
+  "paper": "бумага",
+  "paw": "лапа",
+  "pen": "ручка",
+  "pencil": "карандаш",
+  "people": "люди",
+  "people's": "людей, чужие",
+  "perfect": "отличный",
+  "person": "человек",
+  "peter": "Питер (имя)",
+  "photos": "фотографии",
+  "picture": "картина",
+  "pile": "стопка",
+  "please": "пожалуйста",
+  "pocket": "карман",
+  "pressed": "нажал",
+  "problems": "проблемы",
+  "publishing": "издательский",
+  "purple": "фиолетовый",
+  "put": "надевал (put on)",
+  "quickly": "быстро",
+  "ran": "шла (о жизни)",
+  "read": "прочитал",
+  "real": "настоящий",
+  "really": "правда, действительно",
+  "remembered": "вспомнил",
+  "respected": "уважали",
+  "right": "правильно; правый, нужный",
+  "road": "дорога",
+  "roof": "крыша",
+  "safe": "безопасный",
+  "safer": "безопаснее",
+  "said": "сказал",
+  "salty": "солёный",
+  "same": "тот же",
+  "sandwich": "бутерброд",
+  "sat": "села",
+  "saw": "увидел",
+  "schedule": "расписание",
+  "school": "школа",
+  "sea": "море",
+  "second": "секунда",
+  "secret": "тайна, тайно (in secret)",
+  "see": "видеть",
+  "seems": "кажется",
+  "seen": "видел",
+  "send": "отправить",
+  "shake": "дрожать",
+  "she": "она",
+  "short": "короткий",
+  "showing": "показывает",
+  "six": "шесть",
+  "sky": "небо",
+  "sleep": "спать",
+  "slowly": "медленно",
+  "small": "маленький",
+  "smiled": "улыбнулся",
+  "so": "так, поэтому",
+  "some": "немного",
+  "somebody": "кто-то",
+  "something": "что-то",
+  "sometimes": "иногда",
+  "sorry": "прости",
+  "sound": "звук",
+  "soup": "суп",
+  "spilled": "разлила",
+  "spring": "весна",
+  "standing": "стояла",
+  "start": "начало",
+  "stayed": "остался",
+  "still": "всё ещё",
+  "stories": "истории",
+  "strange": "странный",
+  "strict": "строгий",
+  "sun": "солнце",
+  "supposed": "должен (was supposed to)",
+  "sure": "уверен",
+  "tales": "сказки (fairy tales)",
+  "talk": "разговаривать",
+  "tall": "высокий",
+  "tea": "чай",
+  "tearing": "рвущийся",
+  "tell": "сказать",
+  "ten": "десять",
+  "terrible": "ужасный",
+  "text": "текст",
+  "than": "чем",
+  "thank": "благодарить (thank you)",
+  "that": "тот, что, который",
+  "that's": "это (есть)",
+  "the": "(артикль)",
+  "them": "их, им",
+  "then": "потом",
+  "there": "там (there is — есть)",
+  "these": "эти",
+  "they": "они",
+  "thing": "вещь",
+  "things": "вещи",
+  "think": "думать",
+  "thirty": "тридцать",
+  "this": "этот, это",
+  "though": "хотя; однако",
+  "thought": "подумал",
+  "three": "три",
+  "through": "через, сквозь",
+  "throw": "выбрасывать",
+  "time": "время, раз",
+  "tired": "усталый",
+  "to": "к, в, (частица инфинитива)",
+  "told": "сказал",
+  "too": "тоже",
+  "took": "сделал (фото); достал",
+  "tore": "разорвал",
+  "tree": "дерево",
+  "trees": "деревья",
+  "tried": "пытался; пробовал",
+  "try": "пытаться",
+  "tuesday": "вторник",
+  "twenty": "двадцать",
+  "twice": "дважды",
+  "two": "два",
+  "under": "под",
+  "understand": "понимать",
+  "unprofessional": "непрофессиональный",
+  "until": "до тех пор, пока",
+  "very": "очень",
+  "violence": "насилие, жестокость",
+  "wait": "ждать",
+  "waiting": "ждал",
+  "walked": "шёл",
+  "wants": "хочет",
+  "was": "был(а)",
+  "wasted": "потратила зря",
+  "watch": "наблюдать",
+  "watched": "наблюдал",
+  "way": "способ; так, как",
+  "week": "неделя",
+  "weeks": "недели",
+  "well": "ну",
+  "went": "пошёл, стал",
+  "were": "были",
+  "what": "что",
+  "when": "когда",
+  "where": "где",
+  "who": "кто, который",
+  "why": "почему",
+  "wild": "дикий",
+  "window": "окно",
+  "with": "с",
+  "wonderful": "чудесный",
+  "word": "слово",
+  "wore": "носила",
+  "work": "работа",
+  "worked": "работал",
+  "world": "мир",
+  "worried": "обеспокоенный",
+  "writers": "писатели",
+  "wrong": "неправильный, не тот",
+  "wrote": "написала",
+  "year": "год",
+  "years": "годы, лет",
+  "yellow": "жёлтый",
+  "you": "ты, вы",
+  "you're": "ты (есть)",
+  "your": "твой"
+ },
+ "vocab": {
+  "colourful": 19,
+  "coat": 39,
+  "meat": 59,
+  "lunch": 79,
+  "seems": 99,
+  "tall": 119,
+  "common": 139,
+  "though": 159,
+  "pencil": 179,
+  "late": 199,
+  "tuesday": 220,
+  "nature": 240,
+  "exist": 260,
+  "mean": 280,
+  "expensive": 301,
+  "attempt": 321,
+  "violence": 341,
+  "intention": 361,
+  "schedule": 381,
+  "road": 409,
+  "guess": 429,
+  "curiously": 454,
+  "worried": 480,
+  "fame": 501,
+  "pressed": 522,
+  "casual": 544,
+  "convey": 565,
+  "behavior": 585,
+  "until": 606,
+  "convince": 628,
+  "inspiration": 650
+ }
+}

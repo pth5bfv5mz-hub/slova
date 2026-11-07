@@ -1,0 +1,110 @@
+[
+ {
+  "q": "Where were Earhart and Noonan trying to fly when they disappeared?",
+  "q_ru": "Куда пытались долететь Эрхарт и Нунан, когда исчезли?",
+  "options": [
+   "To Hawaii",
+   "To the Marshall Islands",
+   "To Howland Island",
+   "To Miami"
+  ],
+  "options_ru": [
+   "На Гавайи",
+   "На Маршалловы острова",
+   "На остров Хауленд",
+   "В Майами"
+  ],
+  "answer": 2,
+  "explain_ru": "Они летели из Лаэ (Новая Гвинея) к крошечному острову Хауленд, где их ждал корабль «Итаска»."
+ },
+ {
+  "q": "What was the main problem with the radio contact?",
+  "q_ru": "В чём была главная проблема с радиосвязью?",
+  "options": [
+   "The ship heard Earhart, but she could not use the ship's signals",
+   "Earhart never sent any messages",
+   "The Itasca had no radio",
+   "The Japanese blocked the signals"
+  ],
+  "options_ru": [
+   "Корабль слышал Эрхарт, но она не могла воспользоваться сигналами корабля",
+   "Эрхарт вообще не отправляла сообщений",
+   "На «Итаске» не было радио",
+   "Японцы глушили сигналы"
+  ],
+  "answer": 0,
+  "explain_ru": "«Итаска» слышала Эрхарт, но она, похоже, услышала корабль лишь раз и не смогла определить по сигналу направление."
+ },
+ {
+  "q": "What happened to the object in Deep Sea Vision's 2024 sonar image?",
+  "q_ru": "Что выяснилось об объекте на гидролокационном снимке Deep Sea Vision 2024 года?",
+  "options": [
+   "It was the Electra",
+   "It was a Japanese ship",
+   "It was never checked again",
+   "It turned out to be a natural rock formation"
+  ],
+  "options_ru": [
+   "Это была «Электра»",
+   "Это был японский корабль",
+   "Его больше не проверяли",
+   "Оказалось, что это природное скальное образование"
+  ],
+  "answer": 3,
+  "explain_ru": "Вернувшись позже в 2024 году, команда выяснила, что «самолёт» — это просто скала."
+ },
+ {
+  "q": "What did Gerald Gallagher examine on Nikumaroro in 1940?",
+  "q_ru": "Что осмотрел Джеральд Галлахер на Никумароро в 1940 году?",
+  "options": [
+   "The wreck of the Electra",
+   "Part of a skeleton, a shoe and a sextant box",
+   "Earhart's diary",
+   "A Japanese prison"
+  ],
+  "options_ru": [
+   "Обломки «Электры»",
+   "Часть скелета, обувь и ящик для секстанта",
+   "Дневник Эрхарт",
+   "Японскую тюрьму"
+  ],
+  "answer": 1,
+  "explain_ru": "Галлахер осмотрел часть человеческого скелета, остатки обуви, похожей на женскую, и ящик для секстанта."
+ },
+ {
+  "q": "Why did the 2017 photograph not prove the Japanese capture theory?",
+  "q_ru": "Почему фотография 2017 года не доказала теорию японского плена?",
+  "options": [
+   "It showed only Noonan",
+   "It was taken in Saipan in 1950",
+   "Earhart's family said it was false",
+   "It had been published in a book in 1935"
+  ],
+  "options_ru": [
+   "На ней был только Нунан",
+   "Её сделали на Сайпане в 1950 году",
+   "Семья Эрхарт сказала, что это неправда",
+   "Её опубликовали в книге ещё в 1935 году"
+  ],
+  "answer": 3,
+  "explain_ru": "Японский блогер нашёл тот же снимок в книге 1935 года — за два года до исчезновения Эрхарт."
+ },
+ {
+  "q": "What is the article's conclusion?",
+  "q_ru": "Каков вывод статьи?",
+  "options": [
+   "The Nikumaroro theory has been proven",
+   "The Navy found the wreck in 1937",
+   "No theory is proven, and nobody knows for sure what happened",
+   "Earhart lived in the US after 1937"
+  ],
+  "options_ru": [
+   "Теория Никумароро доказана",
+   "ВМС нашли обломки в 1937 году",
+   "Ни одна теория не доказана, и никто точно не знает, что произошло",
+   "Эрхарт жила в США после 1937 года"
+  ],
+  "answer": 2,
+  "explain_ru": "У каждой теории есть свои улики и слабые места; самолёт не найден, и окончательного ответа нет."
+ }
+]
